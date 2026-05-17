@@ -1,0 +1,36 @@
+{
+  "updated_at": "2026-05-17T10:43:10.276899+00:00",
+  "active_limit": 1660,
+  "counts": {
+    "poslovanje": 144,
+    "ekonomija": 23,
+    "financije": 123,
+    "trzista": 154,
+    "kultura": 138,
+    "dizajn": 94,
+    "tehnologija": 175,
+    "znanost": 131,
+    "lifestyle": 120,
+    "hedonizam": 10,
+    "satovi": 43,
+    "nakit": 49,
+    "pica": 68,
+    "vijesti": 0
+  },
+  "labels": {
+    "poslovanje": "POSLOVANJE",
+    "ekonomija": "EKONOMIJA",
+    "financije": "FINANCIJE",
+    "trzista": "TRŽIŠTA",
+    "kultura": "KULTURA",
+    "dizajn": "DIZAJN",
+    "tehnologija": "TEHNOLOGIJA",
+    "znanost": "ZNANOST",
+    "lifestyle": "LIFESTYLE",
+    "hedonizam": "HEDONIZAM",
+    "satovi": "SATOVI",
+    "nakit": "NAKIT",
+    "pica": "PIĆA",
+    "vijesti": "VIJESTI"
+  }
+}

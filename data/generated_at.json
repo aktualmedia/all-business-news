@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-05-17T08:49:48.121600+00:00",
-  "sources": 171,
-  "ok_sources": 58,
-  "failed_sources": 51,
-  "news_count": 1660
+  "generated_at": "2026-05-17T10:43:10.276899+00:00",
+  "sources": 180,
+  "ok_sources": 61,
+  "failed_sources": 54,
+  "news_count": 1272,
+  "category_counts": {
+    "poslovanje": 144,
+    "ekonomija": 23,
+    "financije": 123,
+    "trzista": 154,
+    "kultura": 138,
+    "dizajn": 94,
+    "tehnologija": 175,
+    "znanost": 131,
+    "lifestyle": 120,
+    "hedonizam": 10,
+    "satovi": 43,
+    "nakit": 49,
+    "pica": 68,
+    "vijesti": 0
+  },
+  "gallery_count": 500,
+  "archive_count": 0,
+  "active_limit": 1660
 }
