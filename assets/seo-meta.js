@@ -2,12 +2,13 @@
   const BASE_KEYWORDS = [
     'WEB VIJESTI','All Business News','Aktual Media','Aktual Media d.o.o.','Nermin Sefić','Nermin Sefic','Nermin','Sefić','Sefic',
     'vijesti','agregator vijesti','objave','ekonomija','business','poduzetništvo','poslovanje','financije','tržišta','kapital',
-    'tehnologija','znanost','kultura','umjetnost','muzeji','galerije','umjetnici','film','dizajn','arhitektura','lifestyle','Symbol'
+    'tehnologija','znanost','kultura','umjetnost','muzeji','galerije','umjetnici','film','dizajn','arhitektura','lifestyle','Symbol','Symbol galerija','digitalna izdanja'
   ];
   const PAGE = {
     home:['naslovnica','portal vijesti','Aktual Media vijesti'],
     news:['najnovije vijesti','RSS izvori','vijesti s fotografijom'],
     gallery:['galerija fotografija','muzeji','umjetnine','film'],
+    'symbol-gallery':['Symbol galerija','vizuali iz PDF izdanja','kultura i umjetnost'],
     posts:['autorski tekstovi','Nermin Sefić objave','ekonomski komentar'],
     editions:['Symbol','digitalna izdanja','kultura i umjetnost'],
     radio:['radio uživo','glazba','vijesti radio'],
@@ -15,9 +16,24 @@
   };
   function pageType(){return window.WV_PAGE || document.body?.dataset?.page || 'home';}
   function canonical(){return location.href.split('#')[0].split('?')[0];}
+  function basePath(){ const p=location.pathname; const marker='/all-business-news/'; const i=p.indexOf(marker); return i>=0 ? p.slice(0,i+marker.length) : '/'; }
+  function siteLink(path){ if(/^https?:|^mailto:|^viber:|^tel:/.test(path)) return path; return basePath()+String(path).replace(/^\/+/, ''); }
   function meta(sel, key, val, content){let el=document.head.querySelector(sel); if(!el){el=document.createElement('meta'); el.setAttribute(key,val); document.head.appendChild(el);} el.content=content;}
   function link(rel, href){let el=document.head.querySelector(`link[rel="${rel}"]`); if(!el){el=document.createElement('link'); el.rel=rel; document.head.appendChild(el);} el.href=href;}
+  function ensureNav(){
+    document.querySelectorAll('.top-nav').forEach(nav=>{
+      if(!nav.querySelector('a[href$="symbol-galerija/index.html"]') && !nav.querySelector('a[href="../symbol-galerija/index.html"]')){
+        const a=document.createElement('a');
+        const inSub = location.pathname.split('/').filter(Boolean).length > 2;
+        a.href = inSub ? '../symbol-galerija/index.html' : 'symbol-galerija/index.html';
+        a.textContent='SYMBOL GALERIJA';
+        const symbol=[...nav.querySelectorAll('a')].find(x=>x.textContent.trim().toUpperCase()==='SYMBOL');
+        if(symbol) symbol.insertAdjacentElement('afterend',a); else nav.appendChild(a);
+      }
+    });
+  }
   function run(){
+    ensureNav();
     const p=pageType();
     const h1=document.querySelector('h1')?.innerText || 'WEB VIJESTI / All Business News';
     const title=document.title || h1;
