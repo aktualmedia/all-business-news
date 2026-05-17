@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-05-17T11:22:18.502981+00:00",
+  "updated_at": "2026-05-17T11:27:28.556355+00:00",
   "sources": 180,
-  "ok_sources": 59,
-  "failed_sources": 56,
+  "ok_sources": 61,
+  "failed_sources": 54,
   "items_by_source": {
-    "Variety": 33,
+    "Variety": 34,
     "Quartz": 37,
     "Forbes Innovation": 34,
     "Wired": 42,
     "FreightWaves": 39,
     "The Register": 40,
-    "Investing.com News": 23,
+    "Investing.com News": 26,
     "Deadline": 28,
     "InsideHook": 24,
     "MarketWatch Top Stories": 13,
@@ -222,10 +222,26 @@
       "status": "ok"
     },
     {
+      "id": "src-085",
+      "name": "Medical Xpress",
+      "category": "znanost",
+      "url": "https://medicalxpress.com/rss-feed/",
+      "count": 12,
+      "status": "ok"
+    },
+    {
       "id": "src-081",
       "name": "New Scientist",
       "category": "znanost",
       "url": "https://www.newscientist.com/feed/home/",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-077",
+      "name": "Phys.org",
+      "category": "znanost",
+      "url": "https://phys.org/rss-feed/",
       "count": 12,
       "status": "ok"
     },
@@ -390,6 +406,14 @@
       "status": "ok"
     },
     {
+      "id": "src-036",
+      "name": "Investing.com News",
+      "category": "financije",
+      "url": "https://www.investing.com/rss/news.rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
       "id": "src-031",
       "name": "MarketWatch Top Stories",
       "category": "financije",
@@ -514,14 +538,6 @@
       "name": "AgFunderNews",
       "category": "trzista",
       "url": "https://agfundernews.com/feed",
-      "count": 7,
-      "status": "ok"
-    },
-    {
-      "id": "src-036",
-      "name": "Investing.com News",
-      "category": "financije",
-      "url": "https://www.investing.com/rss/news.rss",
       "count": 7,
       "status": "ok"
     },
@@ -1152,15 +1168,6 @@
       "status": "empty"
     },
     {
-      "id": "src-085",
-      "name": "Medical Xpress",
-      "category": "znanost",
-      "url": "https://medicalxpress.com/rss-feed/",
-      "count": 0,
-      "status": "failed",
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
-    },
-    {
       "id": "src-073",
       "name": "Microsoft Blog",
       "category": "tehnologija",
@@ -1317,15 +1324,6 @@
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "src-077",
-      "name": "Phys.org",
-      "category": "znanost",
-      "url": "https://phys.org/rss-feed/",
-      "count": 0,
-      "status": "failed",
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "id": "src-147",
