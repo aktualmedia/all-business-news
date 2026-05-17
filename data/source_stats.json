@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-05-17T12:21:58.600447+00:00",
+  "updated_at": "2026-05-17T12:27:26.327941+00:00",
   "sources": 180,
   "ok_sources": 61,
-  "failed_sources": 53,
+  "failed_sources": 54,
   "items_by_source": {
+    "Variety": 35,
     "Medical Xpress": 36,
     "MarketWatch Top Stories": 14,
     "Forbes Innovation": 35,
     "Phys.org": 31,
     "Deadline": 30,
     "Yanko Design": 15,
-    "Variety": 34,
     "Forbes Business": 38,
     "Quartz": 37,
     "Wired": 42,
@@ -1189,7 +1189,8 @@
       "category": "trzista",
       "url": "https://www.mining.com/feed/",
       "count": 0,
-      "status": "empty"
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-129",
