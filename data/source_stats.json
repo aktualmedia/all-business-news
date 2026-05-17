@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-17T12:17:15.170065+00:00",
+  "updated_at": "2026-05-17T12:21:58.600447+00:00",
   "sources": 180,
   "ok_sources": 61,
-  "failed_sources": 54,
+  "failed_sources": 53,
   "items_by_source": {
     "Medical Xpress": 36,
     "MarketWatch Top Stories": 14,
@@ -905,7 +905,7 @@
       "url": "https://www.environmentalleader.com/feed/",
       "count": 0,
       "status": "failed",
-      "error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1016)>"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "src-078",
@@ -1189,8 +1189,7 @@
       "category": "trzista",
       "url": "https://www.mining.com/feed/",
       "count": 0,
-      "status": "failed",
-      "error": "HTTP Error 403: Forbidden"
+      "status": "empty"
     },
     {
       "id": "src-129",
