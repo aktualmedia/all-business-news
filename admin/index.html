@@ -4,23 +4,97 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>ADMIN | WEB VIJESTI</title>
-  <meta name="description" content="WEB VIJESTI / ALL BUSINESS NEWS">
+  <meta name="description" content="Admin za WEB VIJESTI: dodavanje tekstova, slika, opisa, linkova i galerije s mobitela.">
   <link rel="stylesheet" href="../assets/style.css">
-  <script>window.WV_PAGE="admin"; window.WV_CATEGORY="";</script>
+  <style>
+    .admin-wrap{max-width:980px;margin:auto}.admin-panel,.login-panel{background:#fff;border:1px solid var(--line,#dbe3ef);border-radius:22px;padding:18px;box-shadow:0 14px 38px rgba(15,23,42,.06);margin:16px 0}.admin-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.admin-box{background:#fff;border:1px solid var(--line,#dbe3ef);border-radius:20px;padding:16px}.admin-box input,.admin-box textarea,.admin-box select,.login-panel input{width:100%;border:1px solid var(--line,#dbe3ef);border-radius:14px;padding:12px;margin:7px 0;font-size:16px}.admin-box textarea{min-height:110px}.admin-note{background:#fff7ed;border:1px solid #fed7aa;color:#7c2d12;border-radius:18px;padding:14px;font-weight:800}.admin-ok{background:#ecfdf5;border:1px solid #a7f3d0;color:#065f46;border-radius:18px;padding:14px;font-weight:800}.admin-error{background:#fef2f2;border:1px solid #fecaca;color:#991b1b;border-radius:18px;padding:14px;font-weight:800}.hidden{display:none!important}.preview-img{width:100%;max-height:260px;object-fit:cover;border-radius:16px;border:1px solid var(--line,#dbe3ef);margin-top:8px}.admin-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.small-muted{color:#64748b;font-size:.9rem}.token-row{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:end}@media(max-width:760px){.admin-grid,.token-row{grid-template-columns:1fr}.admin-panel,.login-panel{padding:14px}.admin-actions .button{width:100%}}
+  </style>
 </head>
 <body data-page="admin" data-category="">
 <header class="site-header">
   <a class="brand" href="../index.html"><span class="brand-mark">WV</span><span><strong>WEB VIJESTI</strong><small>AKTUAL MEDIA D.O.O.</small></span></a>
-  <nav class="top-nav" aria-label="GLAVNI IZBORNIK">
-    <a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../poslovanje/index.html">POSLOVANJE</a><a href="../kultura/index.html">KULTURA</a><a href="../tehnologija/index.html">TEHNOLOGIJA</a><a href="../galerija/index.html">GALERIJA</a><a href="../symbol/index.html">SYMBOL</a><a href="../video/index.html">VIDEO</a><a href="../radio/index.html">RADIO</a><a href="../dogadjanja/index.html">DOGAĐANJA</a><a href="../izvori/index.html">IZVORI</a><a href="../admin/index.html">ADMIN</a>
-  </nav>
-  <div class="lang-bar"><span>JEZICI</span><a href="https://aktualmedia.github.io/all-business-news/">HR</a><a href="https://translate.google.com/translate?sl=auto&tl=en&u=https://aktualmedia.github.io/all-business-news/">EN</a><a href="https://translate.google.com/translate?sl=auto&tl=de&u=https://aktualmedia.github.io/all-business-news/">DE</a><a href="https://translate.google.com/translate?sl=auto&tl=it&u=https://aktualmedia.github.io/all-business-news/">IT</a><a href="https://translate.google.com/translate?sl=auto&tl=fr&u=https://aktualmedia.github.io/all-business-news/">FR</a><a href="https://translate.google.com/translate?sl=auto&tl=es&u=https://aktualmedia.github.io/all-business-news/">ES</a><a href="https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://aktualmedia.github.io/all-business-news/">中文</a><a href="https://translate.google.com/translate?sl=auto&tl=ar&u=https://aktualmedia.github.io/all-business-news/">AR</a><a href="https://translate.google.com/translate?sl=auto&tl=tr&u=https://aktualmedia.github.io/all-business-news/">TR</a><a href="https://translate.google.com/translate?sl=auto&tl=sl&u=https://aktualmedia.github.io/all-business-news/">SL</a><a href="https://translate.google.com/translate?sl=auto&tl=hu&u=https://aktualmedia.github.io/all-business-news/">HU</a><a href="https://translate.google.com/translate?sl=auto&tl=pt&u=https://aktualmedia.github.io/all-business-news/">PT</a><a href="https://translate.google.com/translate?sl=auto&tl=nl&u=https://aktualmedia.github.io/all-business-news/">NL</a></div>
+  <nav class="top-nav" aria-label="GLAVNI IZBORNIK"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../galerija/index.html">GALERIJA</a><a href="../symbol/index.html">SYMBOL</a><a href="../radio/index.html">RADIO</a><a href="../nermin-sefic/index.html">NERMIN SEFIĆ</a><a href="../admin/index.html">ADMIN</a></nav>
+  <div class="lang-bar"><span>JEZICI</span><a href="https://aktualmedia.github.io/all-business-news/">HR</a><a href="https://translate.google.com/translate?sl=auto&tl=en&u=https://aktualmedia.github.io/all-business-news/">EN</a><a href="https://translate.google.com/translate?sl=auto&tl=de&u=https://aktualmedia.github.io/all-business-news/">DE</a><a href="https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://aktualmedia.github.io/all-business-news/">中文</a><a href="https://translate.google.com/translate?sl=auto&tl=ar&u=https://aktualmedia.github.io/all-business-news/">AR</a></div>
 </header>
-<main class="page-shell">
-<a class="home-button" href="../index.html">HOME – POVRATAK</a><section class="hero compact"><p class="eyebrow">WEB VIJESTI</p><h1>ADMIN</h1><p class="lead">ADMIN SEKCIJA ZA RUČNO UREĐIVANJE PODATAKA.</p></section><section class="legal-box"><p>ADMIN JE ZADRŽAN KAO STRANICA ZA UPRAVLJANJE SADRŽAJIMA I POSTAVKAMA.</p></section>
+<main class="page-shell admin-wrap">
+  <a class="home-button" href="../index.html">HOME – POVRATAK</a>
+  <section class="hero compact"><p class="eyebrow">ADMIN</p><h1>ADMIN SUČELJE</h1><p class="lead">Prijava: korisnik <strong>admin</strong>, lozinka <strong>gnkasg</strong>. S mobitela možeš uslikati fotografiju, dodati opis i poslati je u galeriju.</p></section>
+
+  <section id="loginPanel" class="login-panel">
+    <h2>PRIJAVA</h2>
+    <input id="loginUser" autocomplete="username" placeholder="Korisnik">
+    <input id="loginPass" autocomplete="current-password" type="password" placeholder="Lozinka">
+    <div class="admin-actions"><button class="button" id="loginBtn" type="button">PRIJAVA</button></div>
+    <p class="small-muted">Ovo je osnovna zaštita na statičkoj stranici. Za stvarni upis u GitHub treba dodatno unijeti GitHub token koji se sprema samo u tvoj preglednik.</p>
+  </section>
+
+  <section id="adminPanel" class="admin-panel hidden">
+    <div class="admin-ok">Prijavljen si kao admin. Za automatsku objavu u GitHub repozitorij unesi GitHub token s pravom <strong>Contents: Read and Write</strong>.</div>
+    <div class="token-row">
+      <div><label>GitHub token</label><input id="ghToken" type="password" placeholder="GitHub token za upis u repo"></div>
+      <button class="button small" id="saveToken" type="button">SPREMI TOKEN</button>
+    </div>
+    <p class="small-muted">Token se ne šalje nikome osim GitHub API-ju i ostaje lokalno u tvom mobitelu/računalu. Bez tokena možeš napraviti lokalni JSON export, ali ne i automatski objaviti.</p>
+
+    <section class="admin-grid">
+      <div class="admin-box">
+        <h2>DODAJ U GALERIJU</h2>
+        <input id="gTitle" placeholder="Naslov fotografije">
+        <select id="gCategory"><option value="vijesti">VIJESTI</option><option value="kultura">KULTURA</option><option value="dizajn">DIZAJN</option><option value="tehnologija">TEHNOLOGIJA</option><option value="znanost">ZNANOST</option><option value="poslovanje">POSLOVANJE</option><option value="financije">FINANCIJE</option><option value="trzista">TRŽIŠTA</option><option value="hedonizam">HEDONIZAM</option><option value="satovi">SATOVI</option><option value="nakit">NAKIT</option><option value="pica">PIĆA</option><option value="symbol">SYMBOL</option></select>
+        <textarea id="gDesc" placeholder="Opis fotografije"></textarea>
+        <input id="gLink" placeholder="Link, ako postoji">
+        <input id="gImageUrl" placeholder="URL slike, ako ne slikaš mobitelom">
+        <input id="gFile" type="file" accept="image/*" capture="environment">
+        <img id="gPreview" class="preview-img hidden" alt="Preview">
+        <div class="admin-actions"><button class="button" id="publishGallery" type="button">OBJAVI U GALERIJU</button><button class="button small" id="exportGallery" type="button">EXPORT JSON</button></div>
+      </div>
+
+      <div class="admin-box">
+        <h2>DODAJ OBJAVU NERMINA SEFIĆA</h2>
+        <input id="pTitle" placeholder="Naslov teksta">
+        <textarea id="pSummary" placeholder="Kratki sažetak"></textarea>
+        <textarea id="pBody" placeholder="Tekst objave"></textarea>
+        <input id="pLink" placeholder="Link, ako postoji">
+        <input id="pImage" placeholder="URL slike, ako postoji">
+        <div class="admin-actions"><button class="button" id="publishPost" type="button">OBJAVI TEKST</button><button class="button small" id="exportPosts" type="button">EXPORT JSON</button></div>
+      </div>
+    </section>
+
+    <section class="admin-box">
+      <h2>STATUS</h2>
+      <p id="adminStatus" class="admin-note">Spremno.</p>
+      <p class="small-muted">Nakon objave GitHub Pages obično treba 1–3 minute da prikaže novu galeriju ili tekst. Otvori stranicu u incognito prozoru ili napravi Ctrl+F5.</p>
+    </section>
+  </section>
 </main>
 <nav class="mobile-bottom-nav" aria-label="BRZA MOBILNA NAVIGACIJA"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../symbol/index.html">SYM.</a><a href="../galerija/index.html">GALERIJA</a></nav>
-<footer class="site-footer"><p><strong>WEB VIJESTI / ALL BUSINESS NEWS</strong> JE RSS/HTML AGREGATOR. AUTORSKA PRAVA NAD ČLANCIMA I FOTOGRAFIJAMA PRIPADAJU IZVORNIM IZDAVAČIMA.</p></footer>
-<script src="../assets/app.js" defer></script>
+<footer class="site-footer"><p><strong>WEB VIJESTI / ALL BUSINESS NEWS</strong> · ADMIN.</p></footer>
+<script>
+(()=>{
+  const OWNER='aktualmedia', REPO='all-business-news', BRANCH='main';
+  const API=`https://api.github.com/repos/${OWNER}/${REPO}/contents/`;
+  const $=id=>document.getElementById(id);
+  const status=$('adminStatus');
+  const setStatus=(msg,type='note')=>{ if(!status)return; status.textContent=msg; status.className= type==='error'?'admin-error':type==='ok'?'admin-ok':'admin-note'; };
+  const enc=s=>btoa(unescape(encodeURIComponent(s)));
+  const dec=s=>decodeURIComponent(escape(atob(s||'')));
+  const slug=s=>String(s||'slika').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,70)||'slika';
+  const token=()=>localStorage.getItem('wv_github_token')||'';
+  function headers(){ return {Authorization:`Bearer ${token()}`,Accept:'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28'}; }
+  async function ghGet(path){ const r=await fetch(API+path+'?ref='+BRANCH,{headers:headers()}); if(!r.ok) throw new Error('GitHub GET '+path+' '+r.status); return await r.json(); }
+  async function ghPut(path,content,message,sha){ const body={message,content,branch:BRANCH}; if(sha) body.sha=sha; const r=await fetch(API+path,{method:'PUT',headers:{...headers(),'Content-Type':'application/json'},body:JSON.stringify(body)}); if(!r.ok){ const t=await r.text(); throw new Error('GitHub PUT '+path+' '+r.status+' '+t); } return await r.json(); }
+  async function readJson(path, fallback=[]){ try{ const f=await ghGet(path); return {items:JSON.parse(dec(f.content)), sha:f.sha}; }catch(e){ return {items:fallback, sha:null}; } }
+  function download(name,data){ const blob=new Blob([JSON.stringify(data,null,2)],{type:'application/json'}); const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=name; a.click(); setTimeout(()=>URL.revokeObjectURL(a.href),1000); }
+  async function fileToJpegBase64(file){ return new Promise((resolve,reject)=>{ const img=new Image(); const reader=new FileReader(); reader.onload=()=>{ img.onload=()=>{ const max=1400; let w=img.width,h=img.height; if(Math.max(w,h)>max){ const r=max/Math.max(w,h); w=Math.round(w*r); h=Math.round(h*r); } const c=document.createElement('canvas'); c.width=w; c.height=h; const ctx=c.getContext('2d'); ctx.drawImage(img,0,0,w,h); resolve(c.toDataURL('image/jpeg',0.86).split(',')[1]); }; img.onerror=reject; img.src=reader.result; }; reader.onerror=reject; reader.readAsDataURL(file); }); }
+  $('loginBtn').onclick=()=>{ if($('loginUser').value.trim()==='admin' && $('loginPass').value==='gnkasg'){ localStorage.setItem('wv_admin_login','1'); $('loginPanel').classList.add('hidden'); $('adminPanel').classList.remove('hidden'); $('ghToken').value=token(); } else alert('Pogrešan user ili pass.'); };
+  if(localStorage.getItem('wv_admin_login')==='1'){ $('loginPanel').classList.add('hidden'); $('adminPanel').classList.remove('hidden'); $('ghToken').value=token(); }
+  $('saveToken').onclick=()=>{ localStorage.setItem('wv_github_token',$('ghToken').value.trim()); setStatus('Token spremljen lokalno.','ok'); };
+  $('gFile').onchange=()=>{ const f=$('gFile').files[0]; if(!f)return; const url=URL.createObjectURL(f); $('gPreview').src=url; $('gPreview').classList.remove('hidden'); };
+  $('publishGallery').onclick=async()=>{ try{ if(!token()) throw new Error('Nedostaje GitHub token.'); setStatus('Objavljujem fotografiju...'); const title=$('gTitle').value.trim()||'Nova fotografija'; const cat=$('gCategory').value; let image=$('gImageUrl').value.trim(); const file=$('gFile').files[0]; if(file){ const b64=await fileToJpegBase64(file); const path=`assets/admin-gallery/${Date.now()}-${slug(title)}.jpg`; await ghPut(path,b64,'Admin upload gallery image'); image=path; } if(!image) throw new Error('Dodaj sliku ili URL slike.'); const data=await readJson('data/admin_gallery.json',[]); const items=Array.isArray(data.items)?data.items:[]; items.unshift({id:'admin-'+Date.now(),title,category:cat,description:$('gDesc').value.trim(),image,source_url:$('gLink').value.trim(),created_at:new Date().toISOString(),admin:true}); await ghPut('data/admin_gallery.json',enc(JSON.stringify(items,null,2)),'Admin add gallery item',data.sha); setStatus('Fotografija je objavljena u galeriju. Pričekaj Pages build 1–3 minute.','ok'); }catch(e){ setStatus(e.message,'error'); } };
+  $('exportGallery').onclick=async()=>{ const data=await readJson('data/admin_gallery.json',[]); download('admin_gallery.json',data.items||[]); };
+  $('publishPost').onclick=async()=>{ try{ if(!token()) throw new Error('Nedostaje GitHub token.'); const title=$('pTitle').value.trim(); if(!title) throw new Error('Upiši naslov.'); setStatus('Objavljujem tekst...'); const data=await readJson('data/ai_posts.json',[]); const items=Array.isArray(data.items)?data.items:[]; items.unshift({title,author:'Nermin Sefić',summary:$('pSummary').value.trim(),body:$('pBody').value.trim(),url:$('pLink').value.trim(),image:$('pImage').value.trim(),category:'komentar',created_at:new Date().toISOString(),admin:true}); await ghPut('data/ai_posts.json',enc(JSON.stringify(items,null,2)),'Admin add Nermin post',data.sha); setStatus('Tekst je objavljen. Pričekaj Pages build.','ok'); }catch(e){ setStatus(e.message,'error'); } };
+  $('exportPosts').onclick=async()=>{ const data=await readJson('data/ai_posts.json',[]); download('ai_posts.json',data.items||[]); };
+})();
+</script>
 </body>
 </html>
