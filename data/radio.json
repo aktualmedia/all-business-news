@@ -1,65 +1,42 @@
 [
   {
-    "title": "ANTENA ZAGREB",
-    "country": "HRVATSKA",
-    "description": "Hrvatski glazbeni i informativni radio. Player pokušava direktni stream, a ako vanjski servis blokira reprodukciju koristi gumb za službenu stranicu.",
-    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ANTENAZAGREB.mp3",
-    "streams": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ANTENAZAGREB.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ANTENAZAGREB_SC"
-    ],
-    "site": "https://www.antenazagreb.hr/"
+    "title": "80s Hits Radio",
+    "country": "WORLD",
+    "type": "80s MUSIC",
+    "description": "Glazbeni radio s hitovima osamdesetih.",
+    "stream": "https://stream.laut.fm/80er-zone",
+    "site": "https://laut.fm/80er-zone"
   },
   {
-    "title": "TOP RADIO",
+    "title": "90s Revival Radio",
+    "country": "WORLD",
+    "type": "90s MUSIC",
+    "description": "Glazbeni radio s hitovima devedesetih.",
+    "stream": "https://stream.laut.fm/90er-revival",
+    "site": "https://laut.fm/90er-revival"
+  },
+  {
+    "title": "TOP RADIO Hrvatska",
     "country": "HRVATSKA",
-    "description": "Hrvatski glazbeni radio iz Zagreba. Ako direktni stream ne krene, otvori službenu stranicu.",
+    "type": "GLAZBA",
+    "description": "Hrvatski glazbeni radio. Ako direktni player ne krene, koristi službenu stranicu.",
     "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRADIO.mp3",
-    "streams": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRADIO.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRADIO_SC"
-    ],
     "site": "https://topradio.hr/"
-  },
-  {
-    "title": "LAGANINI FM",
-    "country": "HRVATSKA",
-    "description": "Hrvatski glazbeni radio. Dodano kao alternativa Otvorenom i Narodnom.",
-    "stream": "https://stream.laganini.fm/laganini",
-    "streams": [
-      "https://stream.laganini.fm/laganini",
-      "https://c5.hostingcentar.com:8059/stream"
-    ],
-    "site": "https://laganini.fm/"
   },
   {
     "title": "HRT HR 1",
     "country": "HRVATSKA",
-    "description": "Hrvatski radio 1. program — informativni i opći program Hrvatske radiotelevizije.",
+    "type": "VIJESTI I PROGRAM",
+    "description": "Hrvatski radio 1. program — informativni i opći program.",
     "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1.mp3",
-    "streams": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1.mp3"
-    ],
     "site": "https://radio.hrt.hr/prvi-program"
   },
   {
-    "title": "BBC WORLD SERVICE",
+    "title": "BBC World Service",
     "country": "UK / INTERNATIONAL",
+    "type": "WORLD NEWS",
     "description": "Međunarodni informativni radio na engleskom jeziku.",
     "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
-    "streams": [
-      "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
-    ],
     "site": "https://www.bbc.com/audio"
-  },
-  {
-    "title": "FRANCEINFO",
-    "country": "FRANCUSKA",
-    "description": "Francuski informativni radio stream.",
-    "stream": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
-    "streams": [
-      "https://icecast.radiofrance.fr/franceinfo-midfi.mp3"
-    ],
-    "site": "https://www.francetvinfo.fr/replay-radio/direct"
   }
 ]
