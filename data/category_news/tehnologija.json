@@ -1,5 +1,38 @@
 [
   {
+    "id": "68e04fdefda0dd5d",
+    "title": "Wanted: Digital chief for England's schools. Must enjoy data, AI, and concrete problems",
+    "description": "Are you ready to RAAC?",
+    "url": "https://www.theregister.com/public-sector/2026/05/17/wanted-digital-chief-for-englands-schools-must-enjoy-data-ai-and-concrete-problems/5240242",
+    "image": "https://image.theregister.com/?imageId=5240303&width=800",
+    "source": "The Register",
+    "category": "tehnologija",
+    "published_at": "2026-05-17T08:30:00+00:00",
+    "fetched_at": "2026-05-17T08:49:08.775173+00:00"
+  },
+  {
+    "id": "b05a0fe7e3fbc494",
+    "title": "The enterprise risk nobody is modeling: AI is replacing the very experts it needs to learn from",
+    "description": "For AI systems to keep improving in knowledge work, they need either a reliable mechanism for autonomous self-improvement or human evaluators capable of catching errors and generating high-quality feedback. The industry has invested enormously in the first. It's giving almost no thought to what's happening to the second. I’d argue that we need to treat the human evaluation problem with just as much rigor and investment as we put into building the model capabilities themselves. New grad hiring at major tech companies has dropped by half since 2019 . Document review, first-pass research, data cleaning, code review: Models handle these now. The economists tracking this call it displacement. The companies doing it call it efficiency. Neither are focusing on the future problem. Why self-improvement has limits in knowledge work The obvious pushback is reinforcement learning (RL). AlphaZero lea",
+    "url": "https://venturebeat.com/technology/the-enterprise-risk-nobody-is-modeling-ai-is-replacing-the-very-experts-it-needs-to-learn-from",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3iCqyxRTfwQ8eGj1QIr9vm/a1cb0a9309957e782665907e20bde9ca/Humans_AI.png?w=300&q=30",
+    "source": "VentureBeat",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T21:05:53+00:00",
+    "fetched_at": "2026-05-17T08:49:08.061875+00:00"
+  },
+  {
+    "id": "744b9475b3a8ee47",
+    "title": "What to read this weekend: Celestial Lights and If Destruction Be Our Lot",
+    "description": "Here's what we read (and liked) this week.",
+    "url": "https://www.engadget.com/2174600/what-to-read-this-weekend-celestial-lights-if-destruction-be-our-lot/",
+    "image": "https://www.engadget.com/img/gallery/what-to-read-this-weekend-celestial-lights-and-if-destruction-be-our-lot/l-intro-1778964805.jpg",
+    "source": "Engadget",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T21:00:04+00:00",
+    "fetched_at": "2026-05-17T08:49:07.628179+00:00"
+  },
+  {
     "id": "49b1a2ee4cbdb4c3",
     "slug": "2026-05-16-spacex-is-reportedly-getting-ready-to-go-public-as-early-as-june-49b1a2",
     "title": "SpaceX is reportedly getting ready to go public as early as June",
@@ -12,7 +45,19 @@
     "published_at": "2026-05-16T19:08:20Z",
     "image": "https://www.engadget.com/img/gallery/spacex-is-reportedly-getting-ready-to-go-public-as-early-as-june/l-intro-1778958197.jpg",
     "is_aggregated": true,
-    "local_path": "vijesti/2026-05-16-spacex-is-reportedly-getting-ready-to-go-public-as-early-as-june-49b1a2.html"
+    "local_path": "vijesti/2026-05-16-spacex-is-reportedly-getting-ready-to-go-public-as-early-as-june-49b1a2.html",
+    "local_url": "vijesti/033-spacex-is-reportedly-getting-ready-to-go-public-as-early-as-june.html"
+  },
+  {
+    "id": "035f46b6a50c1d8c",
+    "title": "SpaceX is reportedly getting ready to go public as early as June",
+    "description": "Reuters reported that SpaceX could make the initial announcement by next Wednesday.",
+    "url": "https://www.engadget.com/2174556/spacex-is-reportedly-getting-ready-to-go-public-as-early-as-june/",
+    "image": "https://www.engadget.com/img/gallery/spacex-is-reportedly-getting-ready-to-go-public-as-early-as-june/l-intro-1778958197.jpg",
+    "source": "Engadget",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T19:08:20+00:00",
+    "fetched_at": "2026-05-17T08:49:07.628225+00:00"
   },
   {
     "id": "43c6a9c30a3b9628",
@@ -27,7 +72,19 @@
     "published_at": "2026-05-16T17:56:22Z",
     "image": "https://www.engadget.com/img/gallery/analogue-3ds-latest-update-lets-you-save-whenever-you-want/l-intro-1778953723.jpg",
     "is_aggregated": true,
-    "local_path": "vijesti/2026-05-16-analogue-3d-s-latest-update-lets-you-save-whenever-you-want-43c6a9.html"
+    "local_path": "vijesti/2026-05-16-analogue-3d-s-latest-update-lets-you-save-whenever-you-want-43c6a9.html",
+    "local_url": "vijesti/060-analogue-3d-s-latest-update-lets-you-save-whenever-you-want.html"
+  },
+  {
+    "id": "2e811c9085634a29",
+    "title": "Analogue 3D's latest update lets you save whenever you want",
+    "description": "No more frustrating deaths in between save points.",
+    "url": "https://www.engadget.com/2174519/analogue-3d-latest-update-lets-you-save-whenever-you-want/",
+    "image": "https://www.engadget.com/img/gallery/analogue-3ds-latest-update-lets-you-save-whenever-you-want/l-intro-1778953723.jpg",
+    "source": "Engadget",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T17:56:22+00:00",
+    "fetched_at": "2026-05-17T08:49:07.628258+00:00"
   },
   {
     "id": "6233b8756b240722",
@@ -42,7 +99,19 @@
     "published_at": "2026-05-16T17:30:00Z",
     "image": "https://www.engadget.com/img/gallery/engadget-review-recap-razr-fold-bose-lifestyle-ultra-speaker-ultrahuman-ring-pro-and-more/l-intro-1778951755.jpg",
     "is_aggregated": true,
-    "local_path": "vijesti/2026-05-16-engadget-review-recap-razr-fold-bose-lifestyle-ultra-speaker-ultrahuman-ring-pr.html"
+    "local_path": "vijesti/2026-05-16-engadget-review-recap-razr-fold-bose-lifestyle-ultra-speaker-ultrahuman-ring-pr.html",
+    "local_url": "vijesti/067-engadget-review-recap-razr-fold-bose-lifestyle-ultra-speaker-ultrahuman-ring-pro-and-more.html"
+  },
+  {
+    "id": "22c1ef020b6fdb6d",
+    "title": "Engadget review recap: Razr Fold, Bose Lifestyle Ultra Speaker, Ultrahuman Ring Pro and more",
+    "description": "A roundup of recent reviews published by Engadget.",
+    "url": "https://www.engadget.com/2174499/engadget-review-recap-razr-fold-bose-lifestyle-ultra-speaker-ultrahuman-ring-pro/",
+    "image": "https://www.engadget.com/img/gallery/engadget-review-recap-razr-fold-bose-lifestyle-ultra-speaker-ultrahuman-ring-pro-and-more/l-intro-1778951755.jpg",
+    "source": "Engadget",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T17:30:00+00:00",
+    "fetched_at": "2026-05-17T08:49:07.628289+00:00"
   },
   {
     "id": "ddb479962c227ac3",
@@ -57,7 +126,19 @@
     "published_at": "2026-05-16T17:01:00Z",
     "image": "https://image.theregister.com/?imageId=5241594&width=800",
     "is_aggregated": true,
-    "local_path": "vijesti/2026-05-16-ai-generated-code-is-pain-waiting-to-happen-ddb479.html"
+    "local_path": "vijesti/2026-05-16-ai-generated-code-is-pain-waiting-to-happen-ddb479.html",
+    "local_url": "vijesti/077-ai-generated-code-is-pain-waiting-to-happen.html"
+  },
+  {
+    "id": "8b585322653aaaa3",
+    "title": "AI-generated code is 'pain waiting to happen'",
+    "description": "The boom is piling up technical debt, warns Lightrun's Moshe Sambol",
+    "url": "https://www.theregister.com/ai-ml/2026/05/16/ai-generated-code-is-pain-waiting-to-happen/5241574",
+    "image": "https://image.theregister.com/?imageId=5241594&width=800",
+    "source": "The Register",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T17:01:00+00:00",
+    "fetched_at": "2026-05-17T08:49:08.775216+00:00"
   },
   {
     "id": "d9d8996c79df8282",
@@ -72,7 +153,19 @@
     "published_at": "2026-05-16T16:34:06Z",
     "image": "https://www.engadget.com/img/gallery/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/l-intro-1778948831.jpg",
     "is_aggregated": true,
-    "local_path": "vijesti/2026-05-16-openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year-d9d899.html"
+    "local_path": "vijesti/2026-05-16-openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year-d9d899.html",
+    "local_url": "vijesti/086-openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year.html"
+  },
+  {
+    "id": "a9defb477a240609",
+    "title": "OpenAI is offering ChatGPT Plus to citizens of Malta for a year",
+    "description": "Residents will have to go through a course on artificial intelligence before activating the subscription.",
+    "url": "https://www.engadget.com/2174473/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/",
+    "image": "https://www.engadget.com/img/gallery/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/l-intro-1778948831.jpg",
+    "source": "Engadget",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T16:34:06+00:00",
+    "fetched_at": "2026-05-17T08:49:07.628319+00:00"
   },
   {
     "id": "37eaf2d2cfb9aca4",
@@ -90,6 +183,17 @@
     "local_path": "https://www.engadget.com/2174445/perseverance-mars-selfie-pollution-from-satellite-megaconstellation-launches-science-news/"
   },
   {
+    "id": "eb770f4184dad91f",
+    "title": "Perseverance checks in from Mars with a selfie, the mounting pollution from satellite launches, and more science stories",
+    "description": "This week's science news.",
+    "url": "https://www.engadget.com/2174445/perseverance-mars-selfie-pollution-from-satellite-megaconstellation-launches-science-news/",
+    "image": "https://www.engadget.com/img/gallery/perseverance-checks-in-from-mars-with-a-selfie-the-mounting-pollution-from-satellite-launches-and-more-science-stories/l-intro-1778946326.jpg",
+    "source": "Engadget",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T16:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:07.628350+00:00"
+  },
+  {
     "id": "6e1fa1e02caf66cf",
     "slug": "2026-05-16-nasa-s-psyche-spacecraft-just-got-an-assist-from-mars-on-the-way-to-its-asteroi",
     "title": "NASA's Psyche spacecraft just got an assist from Mars on the way to its asteroid namesake",
@@ -103,6 +207,17 @@
     "image": "https://www.engadget.com/img/gallery/nasas-psyche-spacecraft-just-got-an-assist-from-mars-on-the-way-to-its-asteroid-namesake/l-intro-1778944700.jpg",
     "is_aggregated": true,
     "local_path": "https://www.engadget.com/2174433/nasa-psyche-spacecraft-got-an-assist-from-mars-on-way-to-asteroid/"
+  },
+  {
+    "id": "f170e9318069afa3",
+    "title": "NASA's Psyche spacecraft just got an assist from Mars on the way to its asteroid namesake",
+    "description": "Its target asteroid could give us insight on how Earth's core came to be.",
+    "url": "https://www.engadget.com/2174433/nasa-psyche-spacecraft-got-an-assist-from-mars-on-way-to-asteroid/",
+    "image": "https://www.engadget.com/img/gallery/nasas-psyche-spacecraft-just-got-an-assist-from-mars-on-the-way-to-its-asteroid-namesake/l-intro-1778944700.jpg",
+    "source": "Engadget",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T15:21:20+00:00",
+    "fetched_at": "2026-05-17T08:49:07.628416+00:00"
   },
   {
     "id": "a91cb7f85e1cc323",
@@ -120,6 +235,17 @@
     "local_path": "https://www.theregister.com/personal-tech/2026/05/16/cloud-managed-earbuds-sound-strange-as-a-concept-and-on-a-plane/5240928"
   },
   {
+    "id": "48dc986a8424599d",
+    "title": "Cloud-managed earbuds sound strange - as a concept, and on a plane",
+    "description": "The Register tests Dell’s first attempt at outplaying Apple’s AirPods",
+    "url": "https://www.theregister.com/personal-tech/2026/05/16/cloud-managed-earbuds-sound-strange-as-a-concept-and-on-a-plane/5240928",
+    "image": "https://image.theregister.com/?imageId=5240950&width=800",
+    "source": "The Register",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T14:30:00+00:00",
+    "fetched_at": "2026-05-17T08:49:08.775253+00:00"
+  },
+  {
     "id": "0970a1c3ae75d4c5",
     "slug": "2026-05-16-fresh-horror-from-supermassive-a-battlestar-galactica-roguelite-and-other-new-i",
     "title": "Fresh horror from Supermassive, a Battlestar Galactica roguelite and other new indie games worth checking out",
@@ -133,6 +259,28 @@
     "image": "https://www.engadget.com/img/gallery/fresh-horror-from-supermassive-a-battlestar-galactica-roguelite-and-other-new-indie-games-worth-checking-out/l-intro-1778873005.jpg",
     "is_aggregated": true,
     "local_path": "https://www.engadget.com/2173984/fresh-horror-from-supermassive-a-battlestar-galactica-roguelite-and-other-new-indie-games/"
+  },
+  {
+    "id": "fc47ef057f9b59b9",
+    "title": "Fresh horror from Supermassive, a Battlestar Galactica roguelite and other new indie games worth checking out",
+    "description": "Plus, a game with a perfect Tamagotchi pun for a name.",
+    "url": "https://www.engadget.com/2173984/fresh-horror-from-supermassive-a-battlestar-galactica-roguelite-and-other-new-indie-games/",
+    "image": "https://www.engadget.com/img/gallery/fresh-horror-from-supermassive-a-battlestar-galactica-roguelite-and-other-new-indie-games-worth-checking-out/l-intro-1778873005.jpg",
+    "source": "Engadget",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T11:30:00+00:00",
+    "fetched_at": "2026-05-17T08:49:07.628448+00:00"
+  },
+  {
+    "id": "dca74c5e8f38607f",
+    "title": "The US is betting on AI to catch insider trading in prediction markets",
+    "description": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/roulette-1152x648.jpg",
+    "source": "Ars Technica",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T11:00:01+00:00",
+    "fetched_at": "2026-05-17T08:49:07.465140+00:00"
   },
   {
     "id": "0bb3e32a01850a5a",
@@ -165,6 +313,28 @@
     "local_path": "https://www.wired.com/story/control-everything-on-your-phone-with-your-voice-ios-android/"
   },
   {
+    "id": "6eeb9214dcb38c01",
+    "title": "Old Oil and Gas Wells Could Find Second Life Producing Clean Energy",
+    "description": "",
+    "url": "https://www.wired.com/story/oil-wells-second-life-clean-energy/",
+    "image": "https://media.wired.com/photos/6a079d3343055fabd16c1020/master/pass/Old-Oil-Gas-Wells-Could-Find-Second-Life-Science-1088012650.jpg",
+    "source": "Wired",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T11:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:07.367837+00:00"
+  },
+  {
+    "id": "398d83ba8dc34c6c",
+    "title": "How to Control Everything on Your Phone With Your Voice (iOS and Android)",
+    "description": "",
+    "url": "https://www.wired.com/story/control-everything-on-your-phone-with-your-voice-ios-android/",
+    "image": "https://media.wired.com/photos/6a076b5af78730b5b6994912/master/pass/You-Can-Control-Everything-on-Your-Phone-With-Your-Voice-Gear-1148004926.jpg",
+    "source": "Wired",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T11:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:07.367881+00:00"
+  },
+  {
     "id": "5b3ca8dbbb5b338b",
     "slug": "2026-05-16-europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-proces",
     "title": "Europe built sovereign clouds to escape US control. Then forgot about the processors",
@@ -178,6 +348,17 @@
     "image": "https://image.theregister.com/?imageId=5237766&width=800",
     "is_aggregated": true,
     "local_path": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735"
+  },
+  {
+    "id": "4dd8f4ffaf7a8895",
+    "title": "Europe built sovereign clouds to escape US control. Then forgot about the processors",
+    "description": "Intel ME and AMD PSP: The silicon layer nobody certifies",
+    "url": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735",
+    "image": "https://image.theregister.com/?imageId=5237766&width=800",
+    "source": "The Register",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T10:30:00+00:00",
+    "fetched_at": "2026-05-17T08:49:08.775285+00:00"
   },
   {
     "id": "4908d8d7c98675f1",
@@ -195,6 +376,17 @@
     "local_path": "https://www.engadget.com/2174306/microsoft-insider-windows-11-start-menu-size-taskbar/"
   },
   {
+    "id": "8de01e1719f7b291",
+    "title": "Microsoft lets Insiders choose their Windows 11 Start menu size",
+    "description": "The company is also testing the ability to reposition the Windows 11 taskbar.",
+    "url": "https://www.engadget.com/2174306/microsoft-insider-windows-11-start-menu-size-taskbar/",
+    "image": "https://www.engadget.com/img/gallery/microsoft-lets-insiders-choose-their-windows-11-start-menu-size/l-intro-1778926942.jpg",
+    "source": "Engadget",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T10:25:22+00:00",
+    "fetched_at": "2026-05-17T08:49:07.628476+00:00"
+  },
+  {
     "id": "c773ff131d0bb2b7",
     "slug": "2026-05-16-best-indoor-garden-systems-i-ve-been-testing-all-year-2026-c773ff",
     "title": "Best Indoor Garden Systems: I've Been Testing All Year (2026)",
@@ -208,6 +400,17 @@
     "image": "https://media.wired.com/photos/688061d68203c2103d95c470/master/pass/We%20Tried%205%20of%20the%20Most%20Popular%20Indoor%20Gardening%20Systems.png",
     "is_aggregated": true,
     "local_path": "https://www.wired.com/gallery/best-indoor-gardening-systems/"
+  },
+  {
+    "id": "2b4309ba4bec4a64",
+    "title": "Best Indoor Garden Systems: I've Been Testing All Year (2026)",
+    "description": "",
+    "url": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
+    "image": "https://media.wired.com/photos/688061d68203c2103d95c470/master/pass/We%20Tried%205%20of%20the%20Most%20Popular%20Indoor%20Gardening%20Systems.png",
+    "source": "Wired",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T10:02:00+00:00",
+    "fetched_at": "2026-05-17T08:49:07.367929+00:00"
   },
   {
     "id": "b31f4555b152379d",
@@ -225,6 +428,17 @@
     "local_path": "https://www.wired.com/story/after-struggling-with-evs-us-automakers-pivot-to-energy/"
   },
   {
+    "id": "78fd6683da7e9dcb",
+    "title": "After Struggling With EVs, US Automakers Pivot to Energy",
+    "description": "",
+    "url": "https://www.wired.com/story/after-struggling-with-evs-us-automakers-pivot-to-energy/",
+    "image": "https://media.wired.com/photos/6a075e83ce29eaf1bdd2e7a1/master/pass/BlueOvalSK-Battery-Park_01.jpg",
+    "source": "Wired",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T10:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:07.367957+00:00"
+  },
+  {
     "id": "2f7c99044bf6d629",
     "slug": "2026-05-16-some-asexuals-are-using-ai-companions-for-intimacy-without-the-sex-2f7c99",
     "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
@@ -238,6 +452,17 @@
     "image": "https://media.wired.com/photos/6a03688e61363ff11afeb631/master/pass/051226-asexual-ai-intimacy-2x1.jpg",
     "is_aggregated": true,
     "local_path": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/"
+  },
+  {
+    "id": "9080cc0abe25b28a",
+    "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
+    "description": "",
+    "url": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
+    "image": "https://media.wired.com/photos/6a03688e61363ff11afeb631/master/pass/051226-asexual-ai-intimacy-2x1.jpg",
+    "source": "Wired",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T09:30:00+00:00",
+    "fetched_at": "2026-05-17T08:49:07.367982+00:00"
   },
   {
     "id": "7df873693f70eef7",
@@ -255,6 +480,17 @@
     "local_path": "https://www.theregister.com/ai-ml/2026/05/16/one-in-seven-brits-swapped-their-gp-for-chatgpt-study-finds/5240514"
   },
   {
+    "id": "1d3b331564ddc73a",
+    "title": "One in seven Brits swapped their GP for ChatGPT, study finds",
+    "description": "Patients are using chatbots for medical advice, while the NHS is still debating where AI belongs",
+    "url": "https://www.theregister.com/ai-ml/2026/05/16/one-in-seven-brits-swapped-their-gp-for-chatgpt-study-finds/5240514",
+    "image": "https://image.theregister.com/?imageId=5240526&width=800",
+    "source": "The Register",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T08:33:00+00:00",
+    "fetched_at": "2026-05-17T08:49:08.775317+00:00"
+  },
+  {
     "id": "4a6ae56c6cedc4de",
     "slug": "2026-05-16-youtube-s-ai-deepfake-detection-tool-is-now-available-to-all-creators-18-and-ol",
     "title": "YouTube's AI deepfake detection tool is now available to all creators 18 and older",
@@ -268,6 +504,17 @@
     "image": "https://www.engadget.com/img/gallery/youtubes-likeness-detection-tool-for-ai-deepfakes-is-now-available-to-all-adult-creators/l-intro-1778916273.jpg",
     "is_aggregated": true,
     "local_path": "https://www.engadget.com/2174282/youtube-likeness-detection-ai-deepfakes-expansion/"
+  },
+  {
+    "id": "578206a6d92e49da",
+    "title": "YouTube's AI deepfake detection tool is now available to all creators 18 and older",
+    "description": "Even new creators can sign up for access.",
+    "url": "https://www.engadget.com/2174282/youtube-likeness-detection-ai-deepfakes-expansion/",
+    "image": "https://www.engadget.com/img/gallery/youtubes-likeness-detection-tool-for-ai-deepfakes-is-now-available-to-all-adult-creators/l-intro-1778916273.jpg",
+    "source": "Engadget",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T07:31:24+00:00",
+    "fetched_at": "2026-05-17T08:49:07.628506+00:00"
   },
   {
     "id": "ced3f908efb55ab4",
@@ -390,6 +637,61 @@
     "local_path": "https://www.wired.com/story/legalzoom-promo-code/"
   },
   {
+    "id": "15c4403e43362826",
+    "title": "Sportsman's Warehouse Promo Code: Save in May 2026",
+    "description": "",
+    "url": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
+    "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
+    "source": "Wired",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T05:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:07.368027+00:00"
+  },
+  {
+    "id": "19f291cf8af75392",
+    "title": "Surfshark Promo Codes: 87% Off | May 2026",
+    "description": "",
+    "url": "https://www.wired.com/story/surfshark-coupon/",
+    "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
+    "source": "Wired",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T05:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:07.368054+00:00"
+  },
+  {
+    "id": "f74d37881d683a4b",
+    "title": "Best Buy Discount Codes: Up to 60% Off",
+    "description": "",
+    "url": "https://www.wired.com/story/best-buy-discount-code/",
+    "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
+    "source": "Wired",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T05:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:07.368081+00:00"
+  },
+  {
+    "id": "d5819417c584429b",
+    "title": "50% Off DoorDash Promo Code | May 2026",
+    "description": "",
+    "url": "https://www.wired.com/story/doordash-promo-code/",
+    "image": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg",
+    "source": "Wired",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T05:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:07.368107+00:00"
+  },
+  {
+    "id": "0082a2403cf762ef",
+    "title": "20% Off Brooks Promo Code | May 2026",
+    "description": "",
+    "url": "https://www.wired.com/story/brooks-promo-code/",
+    "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
+    "source": "Wired",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T05:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:07.368133+00:00"
+  },
+  {
     "id": "b3c146ec2e65bdf2",
     "slug": "2026-05-16-snap-and-youtube-have-reportedly-settled-another-major-social-media-addiction-l",
     "title": "Snap and YouTube have reportedly settled another major social media addiction lawsuit",
@@ -403,6 +705,17 @@
     "image": "https://www.engadget.com/img/gallery/snap-and-youtube-have-reportedly-settled-another-major-social-media-addiction-lawsuit/l-intro-1778890290.jpg",
     "is_aggregated": true,
     "local_path": "https://www.engadget.com/2174229/snap-youtube-settle-social-media-addiction-lawsuit/"
+  },
+  {
+    "id": "ab457ba1b8f88480",
+    "title": "Snap and YouTube have reportedly settled another major social media addiction lawsuit",
+    "description": "The companies are facing numerous other legal challenges.",
+    "url": "https://www.engadget.com/2174229/snap-youtube-settle-social-media-addiction-lawsuit/",
+    "image": "https://www.engadget.com/img/gallery/snap-and-youtube-have-reportedly-settled-another-major-social-media-addiction-lawsuit/l-intro-1778890290.jpg",
+    "source": "Engadget",
+    "category": "tehnologija",
+    "published_at": "2026-05-16T00:12:02+00:00",
+    "fetched_at": "2026-05-17T08:49:07.628535+00:00"
   },
   {
     "id": "e76a7befc9213369",
@@ -420,6 +733,17 @@
     "local_path": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/"
   },
   {
+    "id": "29395aa84f6af896",
+    "title": "Russia pressures university students to become wartime drone pilots",
+    "description": "Universities promise no frontline duty and perks if students enlist in military.",
+    "url": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Russian-drone-operator-1024x648.jpg",
+    "source": "Ars Technica",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T22:19:12+00:00",
+    "fetched_at": "2026-05-17T08:49:07.465190+00:00"
+  },
+  {
     "id": "0b3ce4adc9acfccc",
     "slug": "2026-05-15-anthropic-s-1-5b-copyright-settlement-is-getting-messy-as-judge-delays-approval",
     "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
@@ -433,6 +757,17 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1675604392-1152x648-1778878573.jpg",
     "is_aggregated": true,
     "local_path": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/"
+  },
+  {
+    "id": "8aed1231f05de556",
+    "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+    "description": "Lawyers accused of rushing historic settlement to seize $320 million in fees.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1675604392-1152x648-1778878573.jpg",
+    "source": "Ars Technica",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T21:51:24+00:00",
+    "fetched_at": "2026-05-17T08:49:07.465235+00:00"
   },
   {
     "id": "e0d74e95b61a1af8",
@@ -450,6 +785,17 @@
     "local_path": "https://www.engadget.com/2174144/new-crash-data-highlights-the-slow-progress-of-teslas-robotaxis/"
   },
   {
+    "id": "e8c3f15ad200cadb",
+    "title": "New crash data highlights the slow progress of Tesla's robotaxis",
+    "description": "Two crashes since July 2025 involved robotaxis being driven by remote operators.",
+    "url": "https://www.engadget.com/2174144/new-crash-data-highlights-the-slow-progress-of-teslas-robotaxis/",
+    "image": "https://www.engadget.com/img/gallery/new-crash-data-highlights-the-slow-progress-of-teslas-robotaxis/l-intro-1778880656.jpg",
+    "source": "Engadget",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T21:50:50+00:00",
+    "fetched_at": "2026-05-17T08:49:07.628565+00:00"
+  },
+  {
     "id": "4b7e6c5536a1d22c",
     "slug": "2026-05-15-us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10-4b7e6c",
     "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
@@ -463,6 +809,17 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2275667937-1152x648.jpg",
     "is_aggregated": true,
     "local_path": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/"
+  },
+  {
+    "id": "71a1ec8e34ffaef3",
+    "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
+    "description": "WHO announced today that the operation to safely transfer passengers is complete.",
+    "url": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2275667937-1152x648.jpg",
+    "source": "Ars Technica",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T21:31:53+00:00",
+    "fetched_at": "2026-05-17T08:49:07.465273+00:00"
   },
   {
     "id": "436ca7dfd41f8028",
@@ -480,6 +837,17 @@
     "local_path": "https://www.theregister.com/devops/2026/05/15/google-reimburses-register-sources-who-were-victims-of-api-fraud/5241429"
   },
   {
+    "id": "53fc54d69e1a7b26",
+    "title": "Google reimburses Register sources who were victims of API fraud",
+    "description": "But it's holding fast on auto-expanding customers' budgets",
+    "url": "https://www.theregister.com/devops/2026/05/15/google-reimburses-register-sources-who-were-victims-of-api-fraud/5241429",
+    "image": "https://image.theregister.com/?imageId=5241525&width=800",
+    "source": "The Register",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T21:26:32+00:00",
+    "fetched_at": "2026-05-17T08:49:08.775348+00:00"
+  },
+  {
     "id": "5133abf186f8c4b9",
     "slug": "2026-05-15-review-good-omens-finale-mostly-sticks-the-landing-5133ab",
     "title": "Review: Good Omens finale (mostly) sticks the landing",
@@ -493,6 +861,17 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/goodomens4-1152x648.jpg",
     "is_aggregated": true,
     "local_path": "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/"
+  },
+  {
+    "id": "1cb51dc27073a89f",
+    "title": "Review: Good Omens finale (mostly) sticks the landing",
+    "description": "Truncated third season feels rushed, but also gives us a fitting end to a love story for the ages.",
+    "url": "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/goodomens4-1152x648.jpg",
+    "source": "Ars Technica",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T21:17:19+00:00",
+    "fetched_at": "2026-05-17T08:49:07.465310+00:00"
   },
   {
     "id": "a2e5b0db5a9bab3a",
@@ -510,6 +889,17 @@
     "local_path": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent"
   },
   {
+    "id": "161979d423769be5",
+    "title": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent",
+    "description": "The company formerly known as Intercom just did something that no major customer service platform has attempted at scale: it built an AI agent whose sole job is to manage another AI agent. Fin Operator , announced Thursday at a live event in San Francisco, is a new AI-powered system designed specifically for the back-office teams that configure, monitor, and improve Fin , the company's customer-facing AI agent. Rather than replacing human support agents — which is what Fin itself does on the front lines — Operator targets the growing army of support operations professionals who spend their days updating knowledge bases, debugging conversation failures, and combing through performance dashboards. \"Fin is an agent for your customers,\" Brian Donohue, the company's VP of Product, told VentureBeat in an exclusive interview ahead of the launch. \"Operator is an agent for your support ops team. ",
+    "url": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/10I7GZFZUePTddNj8ASkQA/6377bab1d1c7f5e7bfeed8c047ac2588/Nuneybits_Vector_art_of_a_back-office_maze_navigated_by_an_AI_o_f7f13274-2bb1-4557-bc50-34a00548ce56.webp?w=300&q=30",
+    "source": "VentureBeat",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T21:06:09+00:00",
+    "fetched_at": "2026-05-17T08:49:08.062786+00:00"
+  },
+  {
     "id": "30bfd19daf7c74e7",
     "slug": "2026-05-15-how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usag",
     "title": "How RecursiveMAS speeds up multi-agent inference by 2.4x and reduces token usage by 75%",
@@ -525,6 +915,17 @@
     "local_path": "https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75"
   },
   {
+    "id": "c8fd06946879230a",
+    "title": "How RecursiveMAS speeds up multi-agent inference by 2.4x and reduces token usage by 75%",
+    "description": "One of the key challenges of current multi-agent AI systems is that they communicate by generating and sharing text sequences, which introduces latency, drives up token costs, and makes it difficult to train the entire system as a cohesive unit. To overcome this challenge, researchers at University of Illinois Urbana-Champaign and Stanford University developed RecursiveMAS , a framework that enables agents to collaborate and transmit information through embedding space instead of text. This change results in both efficiency and performance gains. Experiments show that RecursiveMAS achieves accuracy improvement across complex domains like code generation, medical reasoning, and search, while also increasing inference speed and slashing token usage. RecursiveMAS is significantly cheaper to train than standard full fine-tuning or LoRA methods, making it a scalable and cost-effective bluepri",
+    "url": "https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/40XcHj8m7JLdkkZiy8Ry4n/54c900f7056ba18eb8e368cd2681e4d3/recursive_multi-agent_system.jpg?w=300&q=30",
+    "source": "VentureBeat",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T21:04:15+00:00",
+    "fetched_at": "2026-05-17T08:49:08.063204+00:00"
+  },
+  {
     "id": "3f0376e0cbf7b568",
     "slug": "2026-05-15-datacenters-slurping-up-so-much-juice-they-boosted-prices-75-in-largest-us-ener",
     "title": "Datacenters slurping up so much juice they boosted prices 75% in largest US energy market",
@@ -538,6 +939,17 @@
     "image": "https://image.theregister.com/?imageId=254320&width=800",
     "is_aggregated": true,
     "local_path": "https://www.theregister.com/on-prem/2026/05/15/datacenters-slurping-juice-help-drive-75-jump-in-pjm-power-prices/5241491"
+  },
+  {
+    "id": "d0db106d08f6411b",
+    "title": "Datacenters slurping up so much juice they boosted prices 75% in largest US energy market",
+    "description": "BYO power for AI bit barns may be the best way to ease the problem, says energy watchdog",
+    "url": "https://www.theregister.com/on-prem/2026/05/15/datacenters-slurping-juice-help-drive-75-jump-in-pjm-power-prices/5241491",
+    "image": "https://image.theregister.com/?imageId=254320&width=800",
+    "source": "The Register",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T21:02:01+00:00",
+    "fetched_at": "2026-05-17T08:49:08.775393+00:00"
   },
   {
     "id": "b0c5509929da6d96",
@@ -570,6 +982,17 @@
     "local_path": "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/"
   },
   {
+    "id": "e122c12ae150eb93",
+    "title": "Solar power production undercut by coal pollution",
+    "description": "Each year, some of the power solar could have produced is blocked by aerosols.",
+    "url": "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1317714747-1024x648.jpg",
+    "source": "Ars Technica",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T20:36:05+00:00",
+    "fetched_at": "2026-05-17T08:49:07.465345+00:00"
+  },
+  {
     "id": "8966267705a4544b",
     "slug": "2026-05-15-weather-monitoring-firm-hangs-dark-cloud-over-customers-heads-by-forcing-new-ap",
     "title": "Weather-monitoring firm hangs dark cloud over customers’ heads by forcing new app",
@@ -583,6 +1006,28 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/acurite-optimus-1152x648-1778873721.jpg",
     "is_aggregated": true,
     "local_path": "https://arstechnica.com/gadgets/2026/05/weather-monitoring-firm-hangs-dark-cloud-over-customers-heads-by-forcing-new-app/"
+  },
+  {
+    "id": "3d8f292af5d82ff1",
+    "title": "Weather-monitoring firm hangs dark cloud over customers’ heads by forcing new app",
+    "description": "Newer AcuRite Now app lacks some features but has a subscription option.",
+    "url": "https://arstechnica.com/gadgets/2026/05/weather-monitoring-firm-hangs-dark-cloud-over-customers-heads-by-forcing-new-app/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/acurite-optimus-1152x648-1778873721.jpg",
+    "source": "Ars Technica",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T20:16:24+00:00",
+    "fetched_at": "2026-05-17T08:49:07.465396+00:00"
+  },
+  {
+    "id": "9e245b060e02cdf3",
+    "title": "Git is unprepared for the AI coding tsunami",
+    "description": "An influx of agents is pushing GitHub to the brink",
+    "url": "https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480",
+    "image": "https://image.theregister.com/?imageId=5241522&width=800",
+    "source": "The Register",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T20:15:56+00:00",
+    "fetched_at": "2026-05-17T08:49:08.775423+00:00"
   },
   {
     "id": "01d3ae14646b28ea",
@@ -630,6 +1075,17 @@
     "local_path": "https://www.theregister.com/ai-ml/2026/05/15/ai-agents-show-they-can-create-exploits-not-just-find-vulns/5241453"
   },
   {
+    "id": "a2cd2937c2976866",
+    "title": "AI agents show they can create exploits, not just find vulns",
+    "description": "Mythos and GPT-5.5 muscle out the competition",
+    "url": "https://www.theregister.com/ai-ml/2026/05/15/ai-agents-show-they-can-create-exploits-not-just-find-vulns/5241453",
+    "image": "https://image.theregister.com/?imageId=5241477&width=800",
+    "source": "The Register",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T19:45:54+00:00",
+    "fetched_at": "2026-05-17T08:49:08.775450+00:00"
+  },
+  {
     "id": "9caac6ed3457549b",
     "slug": "2026-05-15-summer-games-done-quick-returns-this-july-schedule-out-now-9caac6",
     "title": "Summer Games Done Quick returns this July, schedule out now",
@@ -675,6 +1131,17 @@
     "local_path": "https://arstechnica.com/space/2026/05/threes-a-party-us-china-and-now-russia-are-on-the-prowl-in-geo/"
   },
   {
+    "id": "036e76bd46247ebb",
+    "title": "Three's a party: US, China, and now Russia are on the prowl in GEO",
+    "description": "Instead of running silent and deep, most satellites easily stand out against the blackness of space.",
+    "url": "https://arstechnica.com/space/2026/05/threes-a-party-us-china-and-now-russia-are-on-the-prowl-in-geo/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/usa325_kosmos2589_vis1-1152x648-1778871135.jpg",
+    "source": "Ars Technica",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T19:11:48+00:00",
+    "fetched_at": "2026-05-17T08:49:07.465433+00:00"
+  },
+  {
     "id": "2395c36a9480572b",
     "slug": "2026-05-15-localsend-puts-your-sneakernet-out-of-business-2395c3",
     "title": "LocalSend puts your sneakernet out of business",
@@ -688,6 +1155,17 @@
     "image": "https://image.theregister.com/?imageId=5241464&width=800",
     "is_aggregated": true,
     "local_path": "https://www.theregister.com/personal-tech/2026/05/15/localsend-puts-your-sneakernet-out-of-business/5241407"
+  },
+  {
+    "id": "fdf516128c7697c2",
+    "title": "LocalSend puts your sneakernet out of business",
+    "description": "Like AirDrop, minus the Apple lock-in",
+    "url": "https://www.theregister.com/personal-tech/2026/05/15/localsend-puts-your-sneakernet-out-of-business/5241407",
+    "image": "https://image.theregister.com/?imageId=5241464&width=800",
+    "source": "The Register",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T19:10:13+00:00",
+    "fetched_at": "2026-05-17T08:49:08.775502+00:00"
   },
   {
     "id": "e31fc55eb4af91c6",
@@ -705,6 +1183,17 @@
     "local_path": "https://arstechnica.com/health/2026/05/ebola-outbreak-confirmed-in-congo-and-uganda-246-suspected-cases-65-deaths/"
   },
   {
+    "id": "7457f1523dfb863c",
+    "title": "Ebola outbreak with uncommon strain erupts in Congo and Uganda; 65 deaths",
+    "description": "WHO learned of potential cases May 5; US CDC said it just heard about it yesterday.",
+    "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-confirmed-in-congo-and-uganda-246-suspected-cases-65-deaths/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1017727088-1152x648.jpg",
+    "source": "Ars Technica",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T18:51:43+00:00",
+    "fetched_at": "2026-05-17T08:49:07.465465+00:00"
+  },
+  {
     "id": "f82d83a261b16953",
     "slug": "2026-05-15-send-the-arxiv-ai-generated-slop-get-a-yearlong-vacation-from-submissions-f82d8",
     "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
@@ -718,6 +1207,17 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
     "is_aggregated": true,
     "local_path": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/"
+  },
+  {
+    "id": "a245041d660813df",
+    "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
+    "description": "One of the site's moderators described the new policy on social media.",
+    "url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+    "source": "Ars Technica",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T18:25:53+00:00",
+    "fetched_at": "2026-05-17T08:49:07.465495+00:00"
   },
   {
     "id": "ef5e0cded4335de9",
@@ -735,6 +1235,17 @@
     "local_path": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/"
   },
   {
+    "id": "8bc1aaf4f86a7276",
+    "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
+    "description": "Judge orders Apple to give Musk internal messages discussing secretive ChatGPT deal.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2156972504-1024x648.jpg",
+    "source": "Ars Technica",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T18:13:33+00:00",
+    "fetched_at": "2026-05-17T08:49:07.465531+00:00"
+  },
+  {
     "id": "49f23f70f1c30c42",
     "slug": "2026-05-15-volkswagen-shows-its-first-electric-gti-there-s-no-chance-of-us-sales-49f23f",
     "title": "Volkswagen shows its first electric GTI; there's no chance of US sales",
@@ -750,6 +1261,17 @@
     "local_path": "https://arstechnica.com/cars/2026/05/how-the-other-half-lives-vw-shows-off-electric-polo-gti-for-europe/"
   },
   {
+    "id": "1c9588851dfcdb05",
+    "title": "Volkswagen shows its first electric GTI; there's no chance of US sales",
+    "description": "The ID. Polo GTI takes plenty of inspiration from the original Golf GTI of 1976.",
+    "url": "https://arstechnica.com/cars/2026/05/how-the-other-half-lives-vw-shows-off-electric-polo-gti-for-europe/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/DB2026AU00468_large-1152x648.jpg",
+    "source": "Ars Technica",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T17:55:55+00:00",
+    "fetched_at": "2026-05-17T08:49:07.465561+00:00"
+  },
+  {
     "id": "6c251b00af6fb913",
     "slug": "2026-05-15-microsoft-puts-stability-in-the-driver-s-seat-with-new-initiative-6c251b",
     "title": "Microsoft puts stability in the driver's seat with new initiative",
@@ -763,6 +1285,17 @@
     "image": "https://image.theregister.com/?imageId=232617&width=800",
     "is_aggregated": true,
     "local_path": "https://www.theregister.com/oses/2026/05/15/microsoft-puts-stability-in-the-drivers-seat-with-new-initiative/5241381"
+  },
+  {
+    "id": "268ac8fe7a9fb7e2",
+    "title": "Microsoft puts stability in the driver's seat with new initiative",
+    "description": "User interface tweaks are nice, but reliable drivers matter more",
+    "url": "https://www.theregister.com/oses/2026/05/15/microsoft-puts-stability-in-the-drivers-seat-with-new-initiative/5241381",
+    "image": "https://image.theregister.com/?imageId=232617&width=800",
+    "source": "The Register",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T17:25:53+00:00",
+    "fetched_at": "2026-05-17T08:49:08.775529+00:00"
   },
   {
     "id": "a5270bc6a28176f1",
@@ -840,6 +1373,17 @@
     "local_path": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane"
   },
   {
+    "id": "666d2a99d7415ee8",
+    "title": "Claude’s next enterprise battle is not models: it’s the agent control plane",
+    "description": "New VB Pulse data shows Microsoft and OpenAI leading enterprise agent orchestration, but Anthropic’s first measurable foothold points to a larger fight over who controls the infrastructure where AI agents run. For the last two years, the enterprise AI race has mostly been framed as a model war: OpenAI’s GPT series versus Anthropic’s Claude versus Google’s Gemini, with smaller and open-source alternatives also coming in from the U.S. and China. But the next strategic fight may not be over which model answers a prompt best. It may be over who controls the layer where agents plan, call tools, access data, run workflows and prove to security teams that they did not do anything they were not supposed to do. New VB Pulse survey data suggests the category is already taking shape. Our independent Enterprise Agentic Orchestration tracker, a survey that records the preferences of qualified, verifi",
+    "url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/QIFFk030xew6nEvO7DFQB/2e91ff2cbababc24cd63134f601983a0/ChatGPT_Image_May_15__2026__09_09_07_AM.png?w=300&q=30",
+    "source": "VentureBeat",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T16:45:00+00:00",
+    "fetched_at": "2026-05-17T08:49:08.064174+00:00"
+  },
+  {
     "id": "5eaee14004830461",
     "slug": "2026-05-15-bill-to-block-publishers-from-killing-online-games-advances-in-california-5eaee",
     "title": "Bill to block publishers from killing online games advances in California",
@@ -868,6 +1412,17 @@
     "image": "https://image.theregister.com/?imageId=5241392&width=800",
     "is_aggregated": true,
     "local_path": "https://www.theregister.com/personal-tech/2026/05/15/google-tests-5-gb-cap-for-users-who-skip-phone-numbers/5241280"
+  },
+  {
+    "id": "92df54beba7109c6",
+    "title": "Google sidles up to unsuspecting users, asks for their number",
+    "description": "You may only get 5GB of storage instead of 15GB if you don't share your digits with the Chocolate Factory",
+    "url": "https://www.theregister.com/personal-tech/2026/05/15/google-tests-5-gb-cap-for-users-who-skip-phone-numbers/5241280",
+    "image": "https://image.theregister.com/?imageId=5241392&width=800",
+    "source": "The Register",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T16:09:22+00:00",
+    "fetched_at": "2026-05-17T08:49:08.775557+00:00"
   },
   {
     "id": "7644def01a2613e0",
@@ -1093,6 +1648,17 @@
     "image": "https://spectrum.ieee.org/media-library/photo-of-the-earliest-instant-of-the-first-atomic-explosion-is-seen-as-a-grayish-white-semi-sphere-against-a-black-background.jpg?id=66722347&width=980",
     "is_aggregated": true,
     "local_path": "https://spectrum.ieee.org/trinity-nuclear-test"
+  },
+  {
+    "id": "9ac8f1b50ff43ce4",
+    "title": "Striking New Views of the First Atomic Bomb Test",
+    "description": "Editor’s note: If you’d like to pinpoint the instant when the world entered the nuclear age, 5:29:45 a.m. Mountain War Time on 16 July 1945, is an excellent choice. That was the moment when human beings first unleashed the power of the nucleus in an immense, blinding ball of fire above a gloomy stretch of desert in the Jornada del Muerto basin in New Mexico. Emily Seyl’s Trinity: An Illustrated History of the World’s First Atomic Test (The University of Chicago Press) offers hundreds of startlingly vivid photographs of the Manhattan Project that emerged from a 20-year restoration effort. This excerpt and the accompanying photos record the massive effort to capture the awesome detonation of “the Gadget.” aspect_ratio Reprinted with permission from Trinity: An Illustrated History of the World’s First Atomic Test by Emily Seyl with contributions by Alan B. Carr, published by The University ",
+    "url": "https://spectrum.ieee.org/trinity-nuclear-test",
+    "image": "https://spectrum.ieee.org/media-library/photo-of-the-earliest-instant-of-the-first-atomic-explosion-is-seen-as-a-grayish-white-semi-sphere-against-a-black-background.jpg?id=66722347&width=980",
+    "source": "IEEE Spectrum",
+    "category": "tehnologija",
+    "published_at": "2026-05-15T13:00:01+00:00",
+    "fetched_at": "2026-05-17T08:49:09.268863+00:00"
   },
   {
     "id": "0a0f9f68d5fd8a78",
@@ -1575,6 +2141,17 @@
     "local_path": "https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop"
   },
   {
+    "id": "6b4624aedbfa57ab",
+    "title": "Developers can now debug and evaluate AI agents locally with Raindrop's open source tool Workshop",
+    "description": "Observability startup Raindrop AI ’s new open source, MIT Licensed \" Workshop \" tool, launched today, gives developers something that they've likely wanted, perhaps subconsciously, since the agentic AI era kicked off in earnest last year: a local debugger and evaluation tool specifically designed for AI agents, allowing devs to see all the traces of what their agent has been doing in a single, lightweight Structured Query Language (SQL) database file (.db) It functions as a local daemon and UI that streams every token, tool call, and decision to a local dashboard—typically hosted at localhost:5899 —the moment it occurs. By visiting their localhost, developers can then see everything their agent was up to — including mistakes or errors — and identify what went wrong, when, and ideally, discern why. It's all stored in a single .db file, which takes up relatively little memory, according to",
+    "url": "https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6wIjmrKnWVARYlidhqCcW4/3591335d0442d88d9d34cad4d5dd86b2/ChatGPT_Image_May_14__2026__06_00_40_PM.png?w=300&q=30",
+    "source": "VentureBeat",
+    "category": "tehnologija",
+    "published_at": "2026-05-14T22:30:51+00:00",
+    "fetched_at": "2026-05-17T08:49:08.064354+00:00"
+  },
+  {
     "id": "b5ecc63a6540bd47",
     "slug": "2026-05-14-cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what",
     "title": "Cerebras stock nearly doubles on day one as AI chipmaker hits $100 billion — what it means for AI infrastructure",
@@ -1588,6 +2165,17 @@
     "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1gQf5I0cUp4KcxXhfUXces/a6c77f253098bf69f570fe27f31cbb1f/Nuneybits_Vector_art_of_a_square_golden_wafer-scale_chip_as_a_r_31f72f61-77ca-4e32-92d1-88e71bd3c852.webp?w=300&q=30",
     "is_aggregated": true,
     "local_path": "https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure"
+  },
+  {
+    "id": "50809f2156f872d7",
+    "title": "Cerebras stock nearly doubles on day one as AI chipmaker hits $100 billion — what it means for AI infrastructure",
+    "description": "Cerebras Systems , the Silicon Valley chipmaker that built the world's largest commercial AI processor, erupted onto the Nasdaq on Wednesday, opening at $350 per share — nearly double its $185 IPO price — and rocketing past a $100 billion market capitalization in its first hours of trading. The debut instantly crowned Cerebras as one of the most valuable semiconductor companies on Earth and validated a decade-long bet that the AI industry would eventually demand a fundamentally different kind of chip. The company sold 30 million shares at $185 apiece, raising $5.55 billion in what Bloomberg reported as the largest U.S. tech IPO since Uber went public in 2019 . The final pricing shattered expectations: Cerebras initially marketed shares at $115 to $125, then raised the range to $150 to $160 as investor demand surged, before ultimately pricing above even that elevated band. \"This is a new ",
+    "url": "https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1gQf5I0cUp4KcxXhfUXces/a6c77f253098bf69f570fe27f31cbb1f/Nuneybits_Vector_art_of_a_square_golden_wafer-scale_chip_as_a_r_31f72f61-77ca-4e32-92d1-88e71bd3c852.webp?w=300&q=30",
+    "source": "VentureBeat",
+    "category": "tehnologija",
+    "published_at": "2026-05-14T21:38:02+00:00",
+    "fetched_at": "2026-05-17T08:49:08.065555+00:00"
   },
   {
     "id": "2d4b0286b4237782",
@@ -1618,6 +2206,17 @@
     "image": "https://images.ctfassets.net/jdtwqhzvc2n1/60XQz3Q8JefQQZa15ttuKe/7138d308b4d95c9d8b69146d4da3a1e7/Screenshot_2026-05-14_at_4.47.30%C3%A2__PM.png?w=300&q=30",
     "is_aggregated": true,
     "local_path": "https://venturebeat.com/security/enterprises-verify-agents-identity-cannot-control-authorization-cisco-rsac-2026"
+  },
+  {
+    "id": "e608b914b75d0533",
+    "title": "Agent authorization is broken — and authentication passing makes it worse",
+    "description": "Anthony Grieco, Cisco’s SVP and chief security and trust officer, did not hesitate when VentureBeat asked whether rogue agent incidents are reaching Cisco’s customer base. \"A hundred percent. We see them regularly,\" Grieco told VentureBeat in an exclusive interview at RSAC 2026. \"I've heard some that I can't repeat, but they do get to the places of, you know, agents are doing things that they think are the right things to do.\" The incidents Grieco described follow a consistent pattern: authentication passes, identity checks clear. The agent is exactly who it claims to be. Then it accesses data it was never scoped to touch or takes an action nobody authorized at that level of granularity. The failure is not identity; it's authorization. \"The business is saying things like, we're gonna have 500 agents per employee,\" Grieco told VentureBeat. \"The security leaders are really focused on how t",
+    "url": "https://venturebeat.com/security/enterprises-verify-agents-identity-cannot-control-authorization-cisco-rsac-2026",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/60XQz3Q8JefQQZa15ttuKe/7138d308b4d95c9d8b69146d4da3a1e7/Screenshot_2026-05-14_at_4.47.30%C3%A2__PM.png?w=300&q=30",
+    "source": "VentureBeat",
+    "category": "tehnologija",
+    "published_at": "2026-05-14T20:22:45+00:00",
+    "fetched_at": "2026-05-17T08:49:08.066104+00:00"
   },
   {
     "id": "518851cec92a7a72",
@@ -1663,6 +2262,17 @@
     "image": "https://spectrum.ieee.org/media-library/a-man-giving-a-presentation-in-front-of-a-roundtable-audience.jpg?id=66734604&width=980",
     "is_aggregated": true,
     "local_path": "https://spectrum.ieee.org/ieee-society-pitch-sessions"
+  },
+  {
+    "id": "2c53753ed9a931e8",
+    "title": "IEEE Society Helps Researchers Meet Their Next Corporate Backer",
+    "description": "The IEEE Communications Society (ComSoc) ’s Research Collaboration Pitch Session initiative is proving to be a catalyst for meaningful engagement between academic researchers and industry innovators. Launched last year, the program connects promising researchers with industry leaders who can offer them funding, mentorship, and connections to bring interesting ideas closer to real-world deployment. Rather than relying on chance encounters at conferences, the pitch sessions create a focused environment. Five academic presenters share their work with five industry representatives, known as “innovation scouts”: senior leaders primarily chosen from ComSoc’s Corporate Program partner companies such as Ericsson , Intel , Keysight , and Nokia . The curated format ensures that each idea receives dedicated attention from professionals who are seeking new concepts aligned with their organization’s ",
+    "url": "https://spectrum.ieee.org/ieee-society-pitch-sessions",
+    "image": "https://spectrum.ieee.org/media-library/a-man-giving-a-presentation-in-front-of-a-roundtable-audience.jpg?id=66734604&width=980",
+    "source": "IEEE Spectrum",
+    "category": "tehnologija",
+    "published_at": "2026-05-14T18:00:02+00:00",
+    "fetched_at": "2026-05-17T08:49:09.269135+00:00"
   },
   {
     "id": "3da6c2632178b005",
@@ -1845,6 +2455,28 @@
     "local_path": "https://spectrum.ieee.org/applied-materials-epic-center"
   },
   {
+    "id": "3157fcd31ae1eab4",
+    "title": "Why RF Coexistence Testing Is Critical for Shared Spectrum",
+    "description": "A comprehensive review of how spectrum congestion, dynamic sharing, and cognitive radio systems are reshaping RF coexistence testing for military and commercial applications. What Attendees will Learn Why spectrum congestion threatens wireless reliability — Explore how over 30 billion connected devices, more than 4,000 allocation changes worldwide, and the expansion from 11 to over 80 cellular bands are intensifying contention for finite RF spectrum resources. How real-world coexistence failures affect safety-critical systems — Understand the interference risks between 5G C band transmitters and aircraft radar altimeters, and between terrestrial L band networks and GPS receivers that were not designed for adjacent high-power signals. Why tiered spectrum sharing frameworks are essential — Examine how CBRS uses a cloud-based Spectrum Access System (SAS) and environmental sensing to dynamic",
+    "url": "https://content.knowledgehub.wiley.com/testing-for-coexistence-in-crowded-and-contested-rf-environments/",
+    "image": "https://assets.rbl.ms/66685385/origin.png",
+    "source": "IEEE Spectrum",
+    "category": "tehnologija",
+    "published_at": "2026-05-14T10:00:01+00:00",
+    "fetched_at": "2026-05-17T08:49:09.269234+00:00"
+  },
+  {
+    "id": "6ef56fd996e46efc",
+    "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
+    "description": "This sponsored article is brought to you by Applied Materials . At pivotal moments in history, progress has required more than individual brilliance. The most consequential breakthroughs — such as those achieved under the Human Genome Project — required a new operating paradigm: Concentrate the world’s best talent around a single mission, establish a common platform, share critical infrastructure, and collapse feedback loops. When stakes are high and timelines are compressed, sequential and siloed innovation simply cannot keep pace. Today’s AI era is creating an engineering race with similar demands. Every company is pushing to deliver higher-performance AI systems, faster. But performance is no longer defined by compute alone. AI workloads are increasingly dominated by the movement of data: In many cases, moving bits consumes as much — or more — energy than compute itself. As a result, ",
+    "url": "https://spectrum.ieee.org/applied-materials-epic-center",
+    "image": "https://spectrum.ieee.org/media-library/modern-glass-office-complex-labeled-epic-center-with-trees-and-walkways-outside.jpg?id=66659351&width=980",
+    "source": "IEEE Spectrum",
+    "category": "tehnologija",
+    "published_at": "2026-05-14T10:00:01+00:00",
+    "fetched_at": "2026-05-17T08:49:09.270015+00:00"
+  },
+  {
     "id": "a6cf48d28fa3581b",
     "slug": "2026-05-12-ieee-program-aims-to-connect-the-billions-who-are-still-offline-a6cf48",
     "title": "IEEE Program Aims to Connect the Billions Who Are Still Offline",
@@ -1858,6 +2490,28 @@
     "image": "https://spectrum.ieee.org/media-library/a-small-group-smiling-and-standing-behind-a-table-decorated-with-a-cloth-that-reads-ieee-5g-6g-innovation-testbed.jpg?id=66723229&width=980",
     "is_aggregated": true,
     "local_path": "https://spectrum.ieee.org/ieee-connect-the-unconnected"
+  },
+  {
+    "id": "b6c6bab37df3b7db",
+    "title": "IEEE Program Aims to Connect the Billions Who Are Still Offline",
+    "description": "Given how integral the Internet has become to everyday tasks such as shopping, paying bills, and holding virtual meetings, it’s interesting that nearly 30 percent of the global population still has no access to it. More than 2 billion people are still offline, according to a report released in November by the International Telecommunication Union . More and more people are being connected, though, thanks to IEEE Future Networks ’ Connecting the Unconnected (CTU) and similar programs. Since 2021, the technical community has been working to accelerate the development, standardization, and deployment of 5G, 6G, and future generations. Every year, CTU holds a worldwide competition to seek out innovators who are in the early stages of developing technologies or applications to provide greater access. It also holds an annual summit that brings together experts, community leaders, and other int",
+    "url": "https://spectrum.ieee.org/ieee-connect-the-unconnected",
+    "image": "https://spectrum.ieee.org/media-library/a-small-group-smiling-and-standing-behind-a-table-decorated-with-a-cloth-that-reads-ieee-5g-6g-innovation-testbed.jpg?id=66723229&width=980",
+    "source": "IEEE Spectrum",
+    "category": "tehnologija",
+    "published_at": "2026-05-12T18:00:02+00:00",
+    "fetched_at": "2026-05-17T08:49:09.270727+00:00"
+  },
+  {
+    "id": "99f3bf66be1cbbe8",
+    "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
+    "description": "This sponsored article is brought to you by Ampace . As AI workloads grow to gigascale levels, the global data center industry has hit a hidden physical wall. The real bottleneck is no longer just the thermal limit of the chip or the capacity of the cooling system — it is the dynamic resilience of the power chain. Modern AI computing clusters, driven by massive GPU clusters, generate high-frequency, abrupt, and synchronized spikey pulse loads. As rack densities soar beyond 100 kW, these fluctuations are amplified into a “power paradox”: while the digital logic of AI is moving faster than ever, the physical infrastructure supporting it remains tethered to legacy response capabilities. The power usage of these gigascale sites and their drastic, high frequency, abrupt load surges from the AI GPU clusters can trigger transient voltage events and frequency instability, risking the entire loca",
+    "url": "https://spectrum.ieee.org/gigascale-ai-datacenter-power",
+    "image": "https://spectrum.ieee.org/media-library/three-tall-white-ampace-battery-modules-on-display-stands-at-a-trade-show.jpg?id=66700587&width=980",
+    "source": "IEEE Spectrum",
+    "category": "tehnologija",
+    "published_at": "2026-05-12T17:15:15+00:00",
+    "fetched_at": "2026-05-17T08:49:09.271180+00:00"
   },
   {
     "id": "198ad738aea842ae",
@@ -1875,6 +2529,17 @@
     "local_path": "https://content.knowledgehub.wiley.com/understanding-evm-error-vector-magnitude-in-modern-wireless-communications/"
   },
   {
+    "id": "7001f48275e816f6",
+    "title": "Why Mastering EVM Is Essential for Next-Generation Wireless Systems",
+    "description": "A comprehensive guide to error vector magnitude (EVM), the primary metric for quantifying modulation accuracy in Wi-Fi, LTE, and 5G NR systems. What Attendees will Learn What error vector magnitude is and how it is calculated — Understand EVM as the distance between ideal and measured constellation points, learn the difference between peak and RMS normalization, and see how EVM is expressed in both percentage and decibel formats. How digital modulation works and why it matters — Explore the fundamentals of ASK, FSK, PSK, APSK, and QAM modulation schemes, and understand why higher modulation orders increase throughput, while also demanding greater accuracy in signal transmission and reception. What causes degraded EVM in real-world systems — Examine the four main categories of EVM contributors: amplitude effects (compression, noise, frequency response), phase effects (phase noise), I/Q im",
+    "url": "https://content.knowledgehub.wiley.com/understanding-evm-error-vector-magnitude-in-modern-wireless-communications/",
+    "image": "https://assets.rbl.ms/66678514/origin.png",
+    "source": "IEEE Spectrum",
+    "category": "tehnologija",
+    "published_at": "2026-05-11T10:00:01+00:00",
+    "fetched_at": "2026-05-17T08:49:09.271272+00:00"
+  },
+  {
     "id": "d3cabf46183c7f7e",
     "slug": "2026-05-11-the-new-ai-powered-google-finance-is-expanding-to-europe-d3cabf",
     "title": "The new AI-powered Google Finance is expanding to Europe.",
@@ -1888,6 +2553,17 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp",
     "is_aggregated": true,
     "local_path": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/"
+  },
+  {
+    "id": "e06c7f306e4f9932",
+    "title": "The new AI-powered Google Finance is expanding to Europe.",
+    "description": "",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp",
+    "source": "Google AI Blog",
+    "category": "tehnologija",
+    "published_at": "2026-05-11T06:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:09.621028+00:00"
   },
   {
     "id": "9092e1110fc5508a",
@@ -1905,6 +2581,17 @@
     "local_path": "https://spectrum.ieee.org/ana-ines-inacio-wireless"
   },
   {
+    "id": "1e6108e7b8f16fe7",
+    "title": "Ana Inês Inácio Designs the Future of Wireless",
+    "description": "When Ana Inês Inácio goes to work at the Netherlands Organization for Applied Scientific Research (TNO) in The Hague, she thinks about signals most people never notice: radio waves moving between satellites , sensors , and future wireless networks. The integrated circuits the research scientist designs lay the foundation for next-generation RF sensor systems critical to advancing radar technologies. Ana Inês Inácio EMPLOYER Netherlands Organization for Applied Scientific Research, TNO TITLE Scientist IEEE MEMBER GRADE Senior member ALMA MATER University of Aveiro, in Portugal Those invisible RF signals are only part of what earned the IEEE senior member her global recognition. Inácio recently received the IEEE–Eta Kappa Nu Outstanding Young Professional Award for “leadership in IEEE Young Professionals , fostering innovation and inclusivity, and pioneering advancements in RF sensor syste",
+    "url": "https://spectrum.ieee.org/ana-ines-inacio-wireless",
+    "image": "https://spectrum.ieee.org/media-library/a-woman-smiling-with-her-framed-outstanding-young-professional-award.jpg?id=66701682&width=980",
+    "source": "IEEE Spectrum",
+    "category": "tehnologija",
+    "published_at": "2026-05-08T18:00:01+00:00",
+    "fetched_at": "2026-05-17T08:49:09.271656+00:00"
+  },
+  {
     "id": "7b2134a18d020a5d",
     "slug": "2026-05-08-see-what-happens-when-creative-legends-use-ai-to-make-ads-for-small-businesses",
     "title": "See what happens when creative legends use AI to make ads for small businesses.",
@@ -1918,6 +2605,17 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp",
     "is_aggregated": true,
     "local_path": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/"
+  },
+  {
+    "id": "7b5dc1778b82d333",
+    "title": "See what happens when creative legends use AI to make ads for small businesses.",
+    "description": "",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp",
+    "source": "Google AI Blog",
+    "category": "tehnologija",
+    "published_at": "2026-05-08T15:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:09.621070+00:00"
   },
   {
     "id": "f7baa9cc07644b89",
@@ -1935,6 +2633,17 @@
     "local_path": "https://spectrum.ieee.org/sardinia-renewable-energy-conflict"
   },
   {
+    "id": "99af17f52bd7f638",
+    "title": "Sardinia’s Ancient Reasons for Rejecting a Clean Energy Future",
+    "description": "“Why are you here?” Fabrizio Pilo, an electrical engineer, asks me as we sit in an outdoor café near his home in Cagliari, an ancient city on the island of Sardinia. It’s a fair question. I’m a journalist from the United States. I’d just stepped off my flight 2 hours prior and come straight to this meeting, suitcase still stowed in my rental car. I’m here to see three intriguing new energy projects under development in Sardinia. I’d heard there’s strong public resistance to renewable energy, and I want to understand why that is. I tell Pilo, who is vice rector for innovation at the University of Cagliari, that I hope he’ll share some insights before I head out on a reporting trip across the island. (My answer seems to satisfy him, and he kindly gives me an hour of his time). This won’t be the first time that I’m asked to explain my presence on the island. I’d expected it, to some extent;",
+    "url": "https://spectrum.ieee.org/sardinia-renewable-energy-conflict",
+    "image": "https://spectrum.ieee.org/media-library/bucolic-landscape-featuring-pastureland-covered-in-stones-arranged-in-circular-and-straight-formations-and-nearby-wind-turbines.jpg?id=66686187&width=980",
+    "source": "IEEE Spectrum",
+    "category": "tehnologija",
+    "published_at": "2026-05-07T13:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:09.273257+00:00"
+  },
+  {
     "id": "9502d01b3a697ac5",
     "slug": "2026-05-06-learn-what-it-takes-to-become-a-cybersecurity-consultant-9502d0",
     "title": "Learn What It Takes to Become a Cybersecurity Consultant",
@@ -1948,6 +2657,17 @@
     "image": "https://spectrum.ieee.org/media-library/a-young-south-asian-woman-explaining-detailed-computer-code-to-a-colleague-using-an-office-presentation-screen.jpg?id=66689798&width=980",
     "is_aggregated": true,
     "local_path": "https://spectrum.ieee.org/ieee-guide-cybersecurity-consultant"
+  },
+  {
+    "id": "b088bfff4bef0ec6",
+    "title": "Learn What It Takes to Become a Cybersecurity Consultant",
+    "description": "Cybersecurity consultants have never been more in demand. Information security analyst roles are projected to grow nearly 30 percent between now and 2034 , according to the U.S. Bureau of Labor Statistics . More than 15 million cybercrime incidents occurred worldwide in 2024, Statista reported. Data breaches are costly and pose direct safety risks. Statista reported that more than US $10 trillion is spent annually repairing the damage caused by cybercrime, most commonly phishing, spoofing, extortion, and data breaches. In one example in the United States, breathalyzer devices installed in vehicles became disabled, leaving hundreds of drivers stranded, as detailed in an IEEE Spectrum article . To help you acquire the skills you need to distinguish yourself from other cybersecurity job candidates, the IEEE Computer Society offers a “ What Makes a Great Cybersecurity Consultant ” guide. The",
+    "url": "https://spectrum.ieee.org/ieee-guide-cybersecurity-consultant",
+    "image": "https://spectrum.ieee.org/media-library/a-young-south-asian-woman-explaining-detailed-computer-code-to-a-colleague-using-an-office-presentation-screen.jpg?id=66689798&width=980",
+    "source": "IEEE Spectrum",
+    "category": "tehnologija",
+    "published_at": "2026-05-06T18:00:01+00:00",
+    "fetched_at": "2026-05-17T08:49:09.273663+00:00"
   },
   {
     "id": "795a64c055be1e5f",
@@ -1965,6 +2685,17 @@
     "local_path": "https://blog.google/products-and-platforms/products/search/gardening-tips/"
   },
   {
+    "id": "989486ba75365196",
+    "title": "5 gardening tips you can try right in Search",
+    "description": "",
+    "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp",
+    "source": "Google AI Blog",
+    "category": "tehnologija",
+    "published_at": "2026-05-06T16:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:09.621100+00:00"
+  },
+  {
     "id": "094796503bf763e9",
     "slug": "2026-05-06-ten-technology-enablers-shaping-the-future-of-6g-wireless-094796",
     "title": "Ten Technology Enablers Shaping the Future of 6G Wireless",
@@ -1978,6 +2709,17 @@
     "image": "https://assets.rbl.ms/66653989/origin.png",
     "is_aggregated": true,
     "local_path": "https://content.knowledgehub.wiley.com/ten-key-enablers-for-6g-wireless-communications/"
+  },
+  {
+    "id": "a57b444817240e5e",
+    "title": "Ten Technology Enablers Shaping the Future of 6G Wireless",
+    "description": "A guide to ten technological components — from THz communications and AI/ML to reconfigurable intelligent surfaces — poised to define 6G wireless networks. What Attendees will Learn Which frequencies 6G will use — Understand why THz bands (above 100 GHz) and the7–24 GHz range are under consideration, what challenges CMOS technology faces at sub-THz frequencies, and how new semiconductor approaches aim to close the output-power gap for future link budgets. How AI/ML and joint communications and sensing reshape the air interface — how auto encoder-based end-to-end learning can replace traditional signal-processing blocks, and how a single waveform may serve both data transmission and radar-like environmental sensing. What reconfigurable intelligent surfaces and photonics bring to the radio environment— Explore how programmable metamaterial panels can steer and shape electromagnetic waves, ",
+    "url": "https://content.knowledgehub.wiley.com/ten-key-enablers-for-6g-wireless-communications/",
+    "image": "https://assets.rbl.ms/66653989/origin.png",
+    "source": "IEEE Spectrum",
+    "category": "tehnologija",
+    "published_at": "2026-05-06T10:00:02+00:00",
+    "fetched_at": "2026-05-17T08:49:09.273756+00:00"
   },
   {
     "id": "475e1737e971ad4b",
@@ -1995,6 +2737,17 @@
     "local_path": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/"
   },
   {
+    "id": "5348dcf3975d7cd2",
+    "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+    "description": "",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp",
+    "source": "Google AI Blog",
+    "category": "tehnologija",
+    "published_at": "2026-05-05T16:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:09.621129+00:00"
+  },
+  {
     "id": "59895c626f6406d0",
     "slug": "2026-05-05-bionic-tech-must-prove-itself-beyond-the-lab-59895c",
     "title": "Bionic Tech Must Prove Itself Beyond the Lab",
@@ -2008,6 +2761,17 @@
     "image": "https://spectrum.ieee.org/media-library/a-seated-man-in-a-robotic-suit-smiles-at-a-seated-woman-holding-a-laptop.png?id=65559767&width=980",
     "is_aggregated": true,
     "local_path": "https://spectrum.ieee.org/assistive-technology"
+  },
+  {
+    "id": "bfe332846537111e",
+    "title": "Bionic Tech Must Prove Itself Beyond the Lab",
+    "description": "I first met Robert Woo in 2011, during his third time walking in a powered exoskeleton . The architect had been paralyzed in a construction accident four years earlier, but he was determined to get back on his feet. Watching him clunk across a rehab room in an exoskeleton prototype, the technology felt astonishing. I had the same reaction when reporting on early brain-computer interfaces (BCIs), which enabled paralyzed people to move robotic arms or communicate by thought alone . Both types of bionic technology seemed to verge on magic. But that initial sense of awe, I’ve learned over many years of reporting on these technologies, is only a starting point. What matters is not what these systems can do in a carefully staged demo but how they perform in the real world. Do they work reliably? Can people with disabilities use them for their intended purposes? And what does it actually cost—i",
+    "url": "https://spectrum.ieee.org/assistive-technology",
+    "image": "https://spectrum.ieee.org/media-library/a-seated-man-in-a-robotic-suit-smiles-at-a-seated-woman-holding-a-laptop.png?id=65559767&width=980",
+    "source": "IEEE Spectrum",
+    "category": "tehnologija",
+    "published_at": "2026-05-05T15:45:33+00:00",
+    "fetched_at": "2026-05-17T08:49:09.273954+00:00"
   },
   {
     "id": "8a4253e7e1db78a0",
@@ -2040,6 +2804,17 @@
     "local_path": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/"
   },
   {
+    "id": "0f40a31676762f04",
+    "title": "The latest AI news we announced in April 2026",
+    "description": "",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp",
+    "source": "Google AI Blog",
+    "category": "tehnologija",
+    "published_at": "2026-05-04T17:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:09.621154+00:00"
+  },
+  {
     "id": "40cc8d7c2f9534f6",
     "slug": "2026-05-04-reduce-friction-and-latency-for-long-running-jobs-with-webhooks-in-gemini-api-4",
     "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
@@ -2053,6 +2828,17 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp",
     "is_aggregated": true,
     "local_path": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/"
+  },
+  {
+    "id": "5930b561b53e60ef",
+    "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+    "description": "",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp",
+    "source": "Google AI Blog",
+    "category": "tehnologija",
+    "published_at": "2026-05-04T15:30:00+00:00",
+    "fetched_at": "2026-05-17T08:49:09.621180+00:00"
   },
   {
     "id": "551efd2aed917124",
@@ -2130,6 +2916,17 @@
     "local_path": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/"
   },
   {
+    "id": "eaca4ee869b4fca2",
+    "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+    "description": "",
+    "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp",
+    "source": "Google AI Blog",
+    "category": "tehnologija",
+    "published_at": "2026-04-28T16:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:09.621207+00:00"
+  },
+  {
     "id": "fc6ff22d57d20df6",
     "slug": "2026-04-28-entanglement-a-brief-history-of-human-connection-fc6ff2",
     "title": "“Entanglement: A Brief History of Human Connection”",
@@ -2173,6 +2970,17 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp",
     "is_aggregated": true,
     "local_path": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/"
+  },
+  {
+    "id": "612e1edda75afab4",
+    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+    "description": "",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp",
+    "source": "Google AI Blog",
+    "category": "tehnologija",
+    "published_at": "2026-04-27T13:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:09.621232+00:00"
   },
   {
     "id": "f2c43f3ab171ea73",
@@ -2220,6 +3028,17 @@
     "local_path": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/"
   },
   {
+    "id": "021183ffc2b3bce1",
+    "title": "8 Gemini tips for organizing your space (and life)",
+    "description": "",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp",
+    "source": "Google AI Blog",
+    "category": "tehnologija",
+    "published_at": "2026-04-24T19:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:09.621259+00:00"
+  },
+  {
     "id": "8d10ffb37eca5b03",
     "slug": "2026-04-23-what-anthropic-s-mythos-means-for-the-future-of-cybersecurity-8d10ff",
     "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
@@ -2265,6 +3084,17 @@
     "local_path": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/"
   },
   {
+    "id": "655bcb4220d99e11",
+    "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+    "description": "",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp",
+    "source": "Google AI Blog",
+    "category": "tehnologija",
+    "published_at": "2026-04-23T12:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:09.621289+00:00"
+  },
+  {
     "id": "3da0dbbd9e136b39",
     "slug": "2026-04-23-elevating-austria-google-invests-in-its-first-data-center-in-the-alps-3da0db",
     "title": "Elevating Austria: Google invests in its first data center in the Alps.",
@@ -2278,6 +3108,17 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Kronstorf_Data_Center_1.max-600x600.format-webp.webp",
     "is_aggregated": true,
     "local_path": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/"
+  },
+  {
+    "id": "42db973872559055",
+    "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+    "description": "",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Kronstorf_Data_Center_1.max-600x600.format-webp.webp",
+    "source": "Google AI Blog",
+    "category": "tehnologija",
+    "published_at": "2026-04-23T09:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:09.621316+00:00"
   },
   {
     "id": "b3b82258d0d5a0f1",
@@ -2308,6 +3149,17 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp",
     "is_aggregated": true,
     "local_path": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/"
+  },
+  {
+    "id": "c8bb3ab0877dfa1f",
+    "title": "We're launching two specialized TPUs for the agentic era.",
+    "description": "",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp",
+    "source": "Google AI Blog",
+    "category": "tehnologija",
+    "published_at": "2026-04-22T12:00:00+00:00",
+    "fetched_at": "2026-05-17T08:49:09.621340+00:00"
   },
   {
     "id": "16589aa28be7a421",
