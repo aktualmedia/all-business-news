@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="hr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Radio portal | WEB VIJESTI</title>
+  <style>
+    *{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Arial,sans-serif;background:#0f172a;color:#fff;height:100vh;display:grid;grid-template-rows:auto 1fr}.player{background:linear-gradient(135deg,#0f172a,#1f3c88);padding:10px 12px;box-shadow:0 8px 28px rgba(0,0,0,.25);z-index:5}.top{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.brand{font-weight:1000;letter-spacing:.03em}.now{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:7px 10px;font-weight:900}.controls{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:8px}select,button,a{border:1px solid rgba(255,255,255,.25);background:rgba(255,255,255,.12);color:#fff;border-radius:999px;padding:8px 11px;font-weight:900;text-decoration:none}select{min-width:210px}option{color:#111}button{cursor:pointer}audio{width:min(420px,100%)}.nav{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}.nav button{font-size:.8rem;padding:7px 9px}.frame{width:100%;height:100%;border:0;background:#fff}@media(max-width:700px){.top,.controls{display:grid;grid-template-columns:1fr}.nav{display:grid;grid-template-columns:repeat(3,1fr)}audio{width:100%}.player{font-size:.85rem}}
+  </style>
+</head>
+<body>
+  <section class="player">
+    <div class="top"><div class="brand">WEB VIJESTI RADIO PORTAL</div><div id="now" class="now">RADIO: NIJE POKRENUT</div></div>
+    <div class="controls"><select id="station"></select><button id="play">PLAY</button><button id="mute">STIŠAJ</button><button id="stop">STOP</button><audio id="audio" controls preload="none"></audio></div>
+    <div class="nav"><button data-page="../index.html">HOME</button><button data-page="../vijesti/index.html">VIJESTI</button><button data-page="../objave/index.html">OBJAVE</button><button data-page="../symbol/index.html">SYMBOL</button><button data-page="../galerija/index.html">GALERIJA</button><button data-page="../radio/index.html">RADIO</button></div>
+  </section>
+  <iframe id="content" class="frame" src="../index.html"></iframe>
+<script>
+(async()=>{
+  const audio=document.getElementById('audio'), sel=document.getElementById('station'), now=document.getElementById('now'), frame=document.getElementById('content');
+  const fallback=[{title:'80s Hits Radio',stream:'https://stream.laut.fm/80er-zone',site:'https://laut.fm/80er-zone'},{title:'90s Revival Radio',stream:'https://stream.laut.fm/90er-revival',site:'https://laut.fm/90er-revival'},{title:'BBC World Service',stream:'https://stream.live.vc.bbcmedia.co.uk/bbc_world_service',site:'https://www.bbc.com/audio'}];
+  let stations=fallback;
+  try{const r=await fetch('../data/radio.json',{cache:'no-store'}); if(r.ok) stations=await r.json();}catch(e){}
+  sel.innerHTML=stations.map((s,i)=>`<option value="${i}">${s.title}</option>`).join('');
+  function state(st){ localStorage.setItem('wv_radio_state',JSON.stringify({title:st.title,stream:st.stream,site:st.site,playing:!audio.paused,muted:audio.muted,volume:audio.volume,at:Date.now()})); now.textContent='RADIO SVIRA: '+st.title; }
+  async function play(){ const st=stations[Number(sel.value)||0]; audio.src=st.stream; audio.play().then(()=>state(st)).catch(()=>{now.textContent='KLIKNI PLAY NA AUDIO PLAYERU: '+st.title; state(st);}); }
+  document.getElementById('play').onclick=play;
+  document.getElementById('mute').onclick=()=>{audio.muted=!audio.muted; document.getElementById('mute').textContent=audio.muted?'POJAČAJ':'STIŠAJ'; const st=stations[Number(sel.value)||0]; state(st);};
+  document.getElementById('stop').onclick=()=>{audio.pause(); audio.src=''; localStorage.removeItem('wv_radio_state'); now.textContent='RADIO: NIJE POKRENUT';};
+  document.querySelectorAll('[data-page]').forEach(b=>b.onclick=()=>{frame.src=b.dataset.page;});
+  audio.addEventListener('play',()=>state(stations[Number(sel.value)||0]));
+  audio.addEventListener('volumechange',()=>state(stations[Number(sel.value)||0]));
+  const qs=new URLSearchParams(location.search); const s=qs.get('station'); if(s){ const idx=stations.findIndex(x=>String(x.title).toLowerCase().includes(s.toLowerCase())); if(idx>=0) sel.value=idx; play(); }
+})();
+</script>
+</body>
+</html>
