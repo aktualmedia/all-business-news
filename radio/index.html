@@ -7,7 +7,7 @@
   <meta name="description" content="Radio streamovi za WEB VIJESTI: 80s, 90s, hrvatski radio, HRT vijesti i BBC World Service.">
   <link rel="stylesheet" href="../assets/style.css">
   <style>
-    .radio-now{display:flex;align-items:center;justify-content:center;gap:10px;background:linear-gradient(135deg,#0f172a,#1f3c88);color:#fff;border-radius:18px;padding:10px 14px;font-weight:900;box-shadow:0 12px 30px rgba(15,23,42,.18);text-align:center;margin:0 0 12px}.radio-now span{opacity:.85}.radio-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:18px}.radio-card{background:#fff;border:1px solid var(--line,#dbe3ef);border-radius:22px;box-shadow:0 14px 38px rgba(15,23,42,.06);padding:18px}.radio-card h3{margin:.25rem 0 .5rem}.radio-card audio{width:100%;margin:12px 0}.radio-card .meta{font-weight:900;color:#64748b;text-transform:uppercase;font-size:.76rem}.radio-status{background:#f8fafc;border:1px solid var(--line,#dbe3ef);border-radius:18px;padding:14px;margin-top:16px;color:#475467;font-weight:800}.radio-card.playing{outline:3px solid #1f3c88}.brand-line{display:flex;align-items:center;gap:14px;flex-wrap:wrap}.brand-line .radio-now{margin:0;flex:1;min-width:260px}@media(max-width:700px){.radio-grid{grid-template-columns:1fr}.radio-card{padding:16px}.radio-now{font-size:.82rem}.brand-line{display:block}.brand-line .radio-now{margin-top:10px}}
+    .radio-now{display:flex;align-items:center;justify-content:center;gap:10px;background:linear-gradient(135deg,#0f172a,#1f3c88);color:#fff;border-radius:18px;padding:10px 14px;font-weight:900;box-shadow:0 12px 30px rgba(15,23,42,.18);text-align:center;margin:0 0 12px}.radio-now span{opacity:.85}.radio-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:18px}.radio-card{background:#fff;border:1px solid var(--line,#dbe3ef);border-radius:22px;box-shadow:0 14px 38px rgba(15,23,42,.06);padding:18px}.radio-card h3{margin:.25rem 0 .5rem}.radio-card audio{width:100%;margin:12px 0}.radio-card .meta{font-weight:900;color:#64748b;text-transform:uppercase;font-size:.76rem}.radio-status{background:#f8fafc;border:1px solid var(--line,#dbe3ef);border-radius:18px;padding:14px;margin-top:16px;color:#475467;font-weight:800}.radio-card.playing{outline:3px solid #1f3c88}.brand-line{display:flex;align-items:center;gap:14px;flex-wrap:wrap}.brand-line .radio-now{margin:0;flex:1;min-width:260px}.persistent-note{background:#ecfdf5;border:1px solid #a7f3d0;color:#065f46;border-radius:18px;padding:14px;margin-top:14px;font-weight:800}@media(max-width:700px){.radio-grid{grid-template-columns:1fr}.radio-card{padding:16px}.radio-now{font-size:.82rem}.brand-line{display:block}.brand-line .radio-now{margin-top:10px}}
   </style>
 </head>
 <body data-page="radio" data-category="">
@@ -18,28 +18,28 @@
 </header>
 <main class="page-shell">
   <a class="home-button" href="../index.html">HOME – POVRATAK</a>
-  <section class="hero compact"><p class="eyebrow">RADIO</p><h1>RADIO UŽIVO</h1><p class="lead">Odabrani radio streamovi: 80-e, 90-e, hrvatski glazbeni radio, HRT informativni program i BBC World Service.</p></section>
+  <section class="hero compact"><p class="eyebrow">RADIO</p><h1>RADIO UŽIVO</h1><p class="lead">Odabrani radio streamovi: 80-e, 90-e, hrvatski radio, HRT informativni program i BBC World Service.</p></section>
+  <section class="persistent-note">Za neprekidno slušanje koristi gumb <strong>POKRENI STALNI PLAYER</strong>. Radio se tada otvara u malom player prozoru i nastavlja svirati dok ideš na HOME ili druge stranice.</section>
   <section id="radioGrid" class="radio-grid"><article class="radio-card"><p>UČITAVANJE RADIO STREAMOVA...</p></article></section>
-  <section class="radio-status">Aktivni radio prikazuje se gore u ravnini s WEB VIJESTI logotipom. Ako stream ne krene, otvori službenu stranicu jer vanjski servisi ponekad blokiraju direktan player.</section>
+  <section class="radio-status">Aktivni radio prikazuje se gore u ravnini s WEB VIJESTI logotipom. Na HOME stranici pojavit će se traka s opcijama PLAYER, STIŠAJ i UGASI.</section>
 </main>
 <nav class="mobile-bottom-nav" aria-label="BRZA MOBILNA NAVIGACIJA"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../objave/index.html">OBJAVE</a><a href="../symbol/index.html">SYMBOL</a></nav>
 <footer class="site-footer"><p><strong>WEB VIJESTI / ALL BUSINESS NEWS</strong> · RADIO STREAMOVI.</p></footer>
+<script src="../assets/global-radio.js" defer></script>
 <script>
 (async()=>{
   const box=document.getElementById('radioGrid');
   const now=document.getElementById('radioNow');
   const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const playerUrl=(x)=>`player.html?stream=${encodeURIComponent(x.stream||'')}&title=${encodeURIComponent(x.title||'Radio')}&site=${encodeURIComponent(x.site||'')}`;
   const share=(title,url)=>{const u=encodeURIComponent(url||location.href),t=encodeURIComponent(title||document.title);return `<div class="share-mini"><strong>DIJELI</strong><a target="_blank" href="https://wa.me/?text=${t}%20${u}">WA</a><a target="_blank" href="https://twitter.com/intent/tweet?text=${t}&url=${u}">X</a><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=${u}">FB</a><a target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url=${u}">IN</a></div>`};
-  const setNow=(title)=>{ now.innerHTML = `<span>RADIO SVIRA:</span> ${esc(title)}`; localStorage.setItem('wv_radio_now', title); };
-  const saved=localStorage.getItem('wv_radio_now'); if(saved) setNow(saved);
+  const setNow=(x)=>{ now.innerHTML = `<span>RADIO SVIRA:</span> ${esc(x.title)}`; localStorage.setItem('wv_radio_state', JSON.stringify({title:x.title, stream:x.stream, site:x.site, playing:true, at:Date.now()})); };
+  const saved=(()=>{try{return JSON.parse(localStorage.getItem('wv_radio_state')||'{}')}catch(e){return {}}})(); if(saved.title) now.innerHTML=`<span>RADIO SVIRA:</span> ${esc(saved.title)}`;
   try{
     const r=await fetch('../data/radio.json',{cache:'no-store'});
     const items=await r.json();
-    box.innerHTML=items.map((x,i)=>`<article class="radio-card" data-card="${i}"><p class="meta">${esc(x.country||'RADIO')} · ${esc(x.type||'STREAM')}</p><h3>${esc(x.title)}</h3><p>${esc(x.description||'')}</p><audio controls preload="none" src="${esc(x.stream)}" data-title="${esc(x.title)}"></audio><div class="hero-actions"><a class="button small" target="_blank" href="${esc(x.site||x.stream)}">OTVORI SLUŽBENU STRANICU</a></div>${share(x.title,x.site||x.stream)}</article>`).join('');
-    box.querySelectorAll('audio').forEach(a=>{
-      a.addEventListener('play',()=>{ box.querySelectorAll('audio').forEach(o=>{ if(o!==a) o.pause(); }); box.querySelectorAll('.radio-card').forEach(c=>c.classList.remove('playing')); a.closest('.radio-card')?.classList.add('playing'); setNow(a.dataset.title); });
-      a.addEventListener('error',()=>{ if(a.dataset.title) now.innerHTML=`<span>STREAM NIJE KRENUO:</span> ${esc(a.dataset.title)} · OTVORI SLUŽBENU STRANICU`; });
-    });
+    box.innerHTML=items.map((x,i)=>`<article class="radio-card" data-card="${i}"><p class="meta">${esc(x.country||'RADIO')} · ${esc(x.type||'STREAM')}</p><h3>${esc(x.title)}</h3><p>${esc(x.description||'')}</p><div class="hero-actions"><button class="button small" type="button" data-player="${i}">POKRENI STALNI PLAYER</button><a class="button small" target="_blank" href="${esc(x.site||x.stream)}">SLUŽBENA STRANICA</a></div>${share(x.title,x.site||x.stream)}</article>`).join('');
+    box.querySelectorAll('[data-player]').forEach(btn=>btn.addEventListener('click',()=>{ const x=items[Number(btn.dataset.player)]; setNow(x); window.open(playerUrl(x),'wvRadioPlayer','width=420,height=360,menubar=no,toolbar=no,location=no,status=no'); box.querySelectorAll('.radio-card').forEach(c=>c.classList.remove('playing')); btn.closest('.radio-card')?.classList.add('playing'); }));
   }catch(e){box.innerHTML='<article class="radio-card"><p>RADIO PODACI SE NISU UČITALI.</p></article>';}
 })();
 </script>
