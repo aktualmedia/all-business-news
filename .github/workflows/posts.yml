@@ -1,0 +1,28 @@
+name: Posts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 6,14,22 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python generate_posts.py
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/ai_posts.json objave
+          git commit -m "Update posts" || echo "No changes"
+          git pull --rebase || true
+          git push || true
