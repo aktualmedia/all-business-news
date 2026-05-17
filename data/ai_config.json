@@ -1,0 +1,41 @@
+{
+  "model": "gpt-5-mini",
+  "max_output_tokens": 1400,
+  "author": "Nermin Sefić",
+  "min_words": 700,
+  "max_words": 1100,
+  "allowed_topics": [
+    "ekonomija",
+    "novac",
+    "financije",
+    "tržišna kretanja",
+    "kapital",
+    "investicije",
+    "poslovanje",
+    "poslovi",
+    "tržište rada",
+    "plaće",
+    "zaposlenost",
+    "znanost",
+    "tehnologija",
+    "produktivnost",
+    "razvoj"
+  ],
+  "blocked_topics": [
+    "politika",
+    "sport",
+    "BiH",
+    "Srbija",
+    "moda",
+    "lifestyle",
+    "životinje",
+    "kultura kao autorska tema"
+  ],
+  "default_status": "objavljeno",
+  "public_statuses": [
+    "objavljeno",
+    "published"
+  ],
+  "auto_publish": true,
+  "seo_pages": true
+}

@@ -1,0 +1,1199 @@
+[
+  {
+    "id": "src-001",
+    "category": "poslovanje",
+    "name": "Harvard Business Review",
+    "url": "https://hbr.org/feed",
+    "enabled": true
+  },
+  {
+    "id": "src-002",
+    "category": "poslovanje",
+    "name": "MIT Sloan Management Review",
+    "url": "https://sloanreview.mit.edu/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-003",
+    "category": "poslovanje",
+    "name": "Strategy+Business",
+    "url": "https://www.strategy-business.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-004",
+    "category": "poslovanje",
+    "name": "McKinsey Insights",
+    "url": "https://www.mckinsey.com/insights/rss.aspx",
+    "enabled": true
+  },
+  {
+    "id": "src-005",
+    "category": "poslovanje",
+    "name": "BCG Insights",
+    "url": "https://www.bcg.com/publications/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-006",
+    "category": "poslovanje",
+    "name": "Bain Insights",
+    "url": "https://www.bain.com/insights/rss/",
+    "enabled": true
+  },
+  {
+    "id": "src-007",
+    "category": "poslovanje",
+    "name": "Knowledge at Wharton",
+    "url": "https://knowledge.wharton.upenn.edu/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-008",
+    "category": "poslovanje",
+    "name": "Stanford GSB Insights",
+    "url": "https://www.gsb.stanford.edu/insights/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-009",
+    "category": "poslovanje",
+    "name": "Kellogg Insight",
+    "url": "https://insight.kellogg.northwestern.edu/feed",
+    "enabled": true
+  },
+  {
+    "id": "src-010",
+    "category": "poslovanje",
+    "name": "INSEAD Knowledge",
+    "url": "https://knowledge.insead.edu/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-011",
+    "category": "poslovanje",
+    "name": "Forbes Business",
+    "url": "https://www.forbes.com/business/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-012",
+    "category": "poslovanje",
+    "name": "Entrepreneur",
+    "url": "https://www.entrepreneur.com/latest.rss",
+    "enabled": true
+  },
+  {
+    "id": "src-013",
+    "category": "poslovanje",
+    "name": "Inc",
+    "url": "https://www.inc.com/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-014",
+    "category": "poslovanje",
+    "name": "Fast Company",
+    "url": "https://www.fastcompany.com/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-015",
+    "category": "poslovanje",
+    "name": "Quartz",
+    "url": "https://qz.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-016",
+    "category": "ekonomija",
+    "name": "IMF Blog",
+    "url": "https://www.imf.org/en/Blogs/RSS",
+    "enabled": true
+  },
+  {
+    "id": "src-017",
+    "category": "ekonomija",
+    "name": "World Bank Blogs",
+    "url": "https://blogs.worldbank.org/en/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-018",
+    "category": "ekonomija",
+    "name": "OECD Newsroom",
+    "url": "https://www.oecd.org/newsroom/publicationsdocuments/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-019",
+    "category": "ekonomija",
+    "name": "ECB Press",
+    "url": "https://www.ecb.europa.eu/rss/press.html",
+    "enabled": true
+  },
+  {
+    "id": "src-020",
+    "category": "ekonomija",
+    "name": "Federal Reserve Press",
+    "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-021",
+    "category": "ekonomija",
+    "name": "BIS",
+    "url": "https://www.bis.org/rss/bispress.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-022",
+    "category": "ekonomija",
+    "name": "Brookings Economy",
+    "url": "https://www.brookings.edu/topic/economy/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-023",
+    "category": "ekonomija",
+    "name": "Peterson Institute",
+    "url": "https://www.piie.com/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-024",
+    "category": "ekonomija",
+    "name": "VoxEU",
+    "url": "https://cepr.org/voxeu/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-025",
+    "category": "ekonomija",
+    "name": "Our World in Data",
+    "url": "https://ourworldindata.org/atom.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-026",
+    "category": "ekonomija",
+    "name": "Eurostat",
+    "url": "https://ec.europa.eu/eurostat/web/rss/news-releases",
+    "enabled": true
+  },
+  {
+    "id": "src-027",
+    "category": "ekonomija",
+    "name": "World Economic Forum",
+    "url": "https://www.weforum.org/agenda/feed",
+    "enabled": true
+  },
+  {
+    "id": "src-028",
+    "category": "ekonomija",
+    "name": "The Conversation Economy",
+    "url": "https://theconversation.com/global/topics/economy-29/articles.atom",
+    "enabled": true
+  },
+  {
+    "id": "src-029",
+    "category": "ekonomija",
+    "name": "FRED Blog",
+    "url": "https://fredblog.stlouisfed.org/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-030",
+    "category": "ekonomija",
+    "name": "Liberty Street Economics",
+    "url": "https://libertystreeteconomics.newyorkfed.org/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-031",
+    "category": "financije",
+    "name": "MarketWatch Top Stories",
+    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+    "enabled": true
+  },
+  {
+    "id": "src-032",
+    "category": "financije",
+    "name": "MarketWatch Markets",
+    "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
+    "enabled": true
+  },
+  {
+    "id": "src-033",
+    "category": "financije",
+    "name": "Seeking Alpha Market News",
+    "url": "https://seekingalpha.com/market_currents.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-034",
+    "category": "financije",
+    "name": "Nasdaq Markets",
+    "url": "https://www.nasdaq.com/feed/rssoutbound?category=Markets",
+    "enabled": true
+  },
+  {
+    "id": "src-035",
+    "category": "financije",
+    "name": "Nasdaq Stocks",
+    "url": "https://www.nasdaq.com/feed/rssoutbound?category=Stocks",
+    "enabled": true
+  },
+  {
+    "id": "src-036",
+    "category": "financije",
+    "name": "Investing.com News",
+    "url": "https://www.investing.com/rss/news.rss",
+    "enabled": true
+  },
+  {
+    "id": "src-037",
+    "category": "financije",
+    "name": "Investing.com Economic Indicators",
+    "url": "https://www.investing.com/rss/forex.rss",
+    "enabled": true
+  },
+  {
+    "id": "src-038",
+    "category": "financije",
+    "name": "Finextra",
+    "url": "https://www.finextra.com/rss/headlines.aspx",
+    "enabled": true
+  },
+  {
+    "id": "src-039",
+    "category": "financije",
+    "name": "The Paypers",
+    "url": "https://thepaypers.com/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-040",
+    "category": "financije",
+    "name": "Payments Dive",
+    "url": "https://www.paymentsdive.com/feeds/news/",
+    "enabled": true
+  },
+  {
+    "id": "src-041",
+    "category": "financije",
+    "name": "ETF Trends",
+    "url": "https://www.etftrends.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-042",
+    "category": "financije",
+    "name": "Banking Dive",
+    "url": "https://www.bankingdive.com/feeds/news/",
+    "enabled": true
+  },
+  {
+    "id": "src-043",
+    "category": "financije",
+    "name": "Central Banking",
+    "url": "https://www.centralbanking.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-044",
+    "category": "financije",
+    "name": "Risk.net",
+    "url": "https://www.risk.net/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-045",
+    "category": "financije",
+    "name": "The Banker",
+    "url": "https://www.thebanker.com/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-046",
+    "category": "trzista",
+    "name": "Trading Economics",
+    "url": "https://tradingeconomics.com/rss/news.aspx",
+    "enabled": true
+  },
+  {
+    "id": "src-047",
+    "category": "trzista",
+    "name": "OilPrice",
+    "url": "https://oilprice.com/rss/main",
+    "enabled": true
+  },
+  {
+    "id": "src-048",
+    "category": "trzista",
+    "name": "Kitco News",
+    "url": "https://www.kitco.com/rss/news.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-049",
+    "category": "trzista",
+    "name": "Mining.com",
+    "url": "https://www.mining.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-050",
+    "category": "trzista",
+    "name": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/feed",
+    "enabled": true
+  },
+  {
+    "id": "src-051",
+    "category": "trzista",
+    "name": "Supply Chain Dive",
+    "url": "https://www.supplychaindive.com/feeds/news/",
+    "enabled": true
+  },
+  {
+    "id": "src-052",
+    "category": "trzista",
+    "name": "Retail Dive",
+    "url": "https://www.retaildive.com/feeds/news/",
+    "enabled": true
+  },
+  {
+    "id": "src-053",
+    "category": "trzista",
+    "name": "Manufacturing Dive",
+    "url": "https://www.manufacturingdive.com/feeds/news/",
+    "enabled": true
+  },
+  {
+    "id": "src-054",
+    "category": "trzista",
+    "name": "Construction Dive",
+    "url": "https://www.constructiondive.com/feeds/news/",
+    "enabled": true
+  },
+  {
+    "id": "src-055",
+    "category": "trzista",
+    "name": "Food Dive",
+    "url": "https://www.fooddive.com/feeds/news/",
+    "enabled": true
+  },
+  {
+    "id": "src-056",
+    "category": "trzista",
+    "name": "Automotive Dive",
+    "url": "https://www.automotivedive.com/feeds/news/",
+    "enabled": true
+  },
+  {
+    "id": "src-057",
+    "category": "trzista",
+    "name": "Supply Chain Brain",
+    "url": "https://www.supplychainbrain.com/rss/topic/1145-news",
+    "enabled": true
+  },
+  {
+    "id": "src-058",
+    "category": "trzista",
+    "name": "AgFunderNews",
+    "url": "https://agfundernews.com/feed",
+    "enabled": true
+  },
+  {
+    "id": "src-059",
+    "category": "trzista",
+    "name": "Energy Monitor",
+    "url": "https://www.energymonitor.ai/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-060",
+    "category": "trzista",
+    "name": "PV Magazine",
+    "url": "https://www.pv-magazine.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-061",
+    "category": "tehnologija",
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-062",
+    "category": "tehnologija",
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-063",
+    "category": "tehnologija",
+    "name": "Wired",
+    "url": "https://www.wired.com/feed/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-064",
+    "category": "tehnologija",
+    "name": "Ars Technica",
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "enabled": true
+  },
+  {
+    "id": "src-065",
+    "category": "tehnologija",
+    "name": "Engadget",
+    "url": "https://www.engadget.com/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-066",
+    "category": "tehnologija",
+    "name": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-067",
+    "category": "tehnologija",
+    "name": "VentureBeat",
+    "url": "https://venturebeat.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-068",
+    "category": "tehnologija",
+    "name": "The Register",
+    "url": "https://www.theregister.com/headlines.atom",
+    "enabled": true
+  },
+  {
+    "id": "src-069",
+    "category": "tehnologija",
+    "name": "ZDNET",
+    "url": "https://www.zdnet.com/news/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-070",
+    "category": "tehnologija",
+    "name": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/rss/fulltext",
+    "enabled": true
+  },
+  {
+    "id": "src-071",
+    "category": "tehnologija",
+    "name": "Google AI Blog",
+    "url": "https://blog.google/technology/ai/rss/",
+    "enabled": true
+  },
+  {
+    "id": "src-072",
+    "category": "tehnologija",
+    "name": "OpenAI News",
+    "url": "https://openai.com/news/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-073",
+    "category": "tehnologija",
+    "name": "Microsoft Blog",
+    "url": "https://blogs.microsoft.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-074",
+    "category": "tehnologija",
+    "name": "AWS News",
+    "url": "https://aws.amazon.com/blogs/aws/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-075",
+    "category": "tehnologija",
+    "name": "Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/rss/",
+    "enabled": true
+  },
+  {
+    "id": "src-076",
+    "category": "znanost",
+    "name": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/rss/all.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-077",
+    "category": "znanost",
+    "name": "Phys.org",
+    "url": "https://phys.org/rss-feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-078",
+    "category": "znanost",
+    "name": "EurekAlert",
+    "url": "https://www.eurekalert.org/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-079",
+    "category": "znanost",
+    "name": "NASA Breaking News",
+    "url": "https://www.nasa.gov/news-release/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-080",
+    "category": "znanost",
+    "name": "ESA",
+    "url": "https://www.esa.int/rssfeed/Our_Activities",
+    "enabled": true
+  },
+  {
+    "id": "src-081",
+    "category": "znanost",
+    "name": "New Scientist",
+    "url": "https://www.newscientist.com/feed/home/",
+    "enabled": true
+  },
+  {
+    "id": "src-082",
+    "category": "znanost",
+    "name": "Scientific American",
+    "url": "https://www.scientificamerican.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-083",
+    "category": "znanost",
+    "name": "Nature News",
+    "url": "https://www.nature.com/nature.rss",
+    "enabled": true
+  },
+  {
+    "id": "src-084",
+    "category": "znanost",
+    "name": "PLOS Biology",
+    "url": "https://journals.plos.org/plosbiology/feed/atom",
+    "enabled": true
+  },
+  {
+    "id": "src-085",
+    "category": "znanost",
+    "name": "Medical Xpress",
+    "url": "https://medicalxpress.com/rss-feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-086",
+    "category": "znanost",
+    "name": "Environment + Energy Leader",
+    "url": "https://www.environmentalleader.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-087",
+    "category": "znanost",
+    "name": "Yale Environment 360",
+    "url": "https://e360.yale.edu/feed.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-088",
+    "category": "znanost",
+    "name": "Carbon Brief",
+    "url": "https://www.carbonbrief.org/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-089",
+    "category": "znanost",
+    "name": "CleanTechnica",
+    "url": "https://cleantechnica.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-090",
+    "category": "znanost",
+    "name": "The Conversation Science",
+    "url": "https://theconversation.com/global/topics/science-62/articles.atom",
+    "enabled": true
+  },
+  {
+    "id": "src-091",
+    "category": "kultura",
+    "name": "Hyperallergic",
+    "url": "https://hyperallergic.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-092",
+    "category": "kultura",
+    "name": "The Art Newspaper",
+    "url": "https://www.theartnewspaper.com/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-093",
+    "category": "kultura",
+    "name": "Artforum",
+    "url": "https://www.artforum.com/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-094",
+    "category": "kultura",
+    "name": "Artnet News",
+    "url": "https://news.artnet.com/feed",
+    "enabled": true
+  },
+  {
+    "id": "src-095",
+    "category": "kultura",
+    "name": "Colossal",
+    "url": "https://www.thisiscolossal.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-096",
+    "category": "kultura",
+    "name": "Open Culture",
+    "url": "https://www.openculture.com/feed",
+    "enabled": true
+  },
+  {
+    "id": "src-097",
+    "category": "kultura",
+    "name": "Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/rss/latest_articles/",
+    "enabled": true
+  },
+  {
+    "id": "src-098",
+    "category": "kultura",
+    "name": "MuseumNext",
+    "url": "https://www.museumnext.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-099",
+    "category": "kultura",
+    "name": "Creative Review",
+    "url": "https://www.creativereview.co.uk/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-100",
+    "category": "kultura",
+    "name": "It's Nice That",
+    "url": "https://www.itsnicethat.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-101",
+    "category": "kultura",
+    "name": "Design Week",
+    "url": "https://www.designweek.co.uk/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-102",
+    "category": "kultura",
+    "name": "Variety",
+    "url": "https://variety.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-103",
+    "category": "kultura",
+    "name": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-104",
+    "category": "kultura",
+    "name": "Deadline",
+    "url": "https://deadline.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-105",
+    "category": "kultura",
+    "name": "Book Riot",
+    "url": "https://bookriot.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-106",
+    "category": "dizajn",
+    "name": "Dezeen",
+    "url": "https://www.dezeen.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-107",
+    "category": "dizajn",
+    "name": "Designboom",
+    "url": "https://www.designboom.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-108",
+    "category": "dizajn",
+    "name": "ArchDaily",
+    "url": "https://www.archdaily.com/search/projects/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-109",
+    "category": "dizajn",
+    "name": "Design Milk",
+    "url": "https://design-milk.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-110",
+    "category": "dizajn",
+    "name": "Yanko Design",
+    "url": "https://www.yankodesign.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-111",
+    "category": "dizajn",
+    "name": "Core77",
+    "url": "https://www.core77.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-112",
+    "category": "dizajn",
+    "name": "Wallpaper",
+    "url": "https://www.wallpaper.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-113",
+    "category": "dizajn",
+    "name": "Dwell",
+    "url": "https://www.dwell.com/feed",
+    "enabled": true
+  },
+  {
+    "id": "src-114",
+    "category": "dizajn",
+    "name": "Dezeen Architecture",
+    "url": "https://www.dezeen.com/architecture/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-115",
+    "category": "dizajn",
+    "name": "Dezeen Design",
+    "url": "https://www.dezeen.com/design/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-116",
+    "category": "dizajn",
+    "name": "Archinect",
+    "url": "https://archinect.com/feed",
+    "enabled": true
+  },
+  {
+    "id": "src-117",
+    "category": "dizajn",
+    "name": "World Architecture Community",
+    "url": "https://worldarchitecture.org/architecture-news/?rss",
+    "enabled": true
+  },
+  {
+    "id": "src-118",
+    "category": "dizajn",
+    "name": "DesignWanted",
+    "url": "https://designwanted.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-119",
+    "category": "dizajn",
+    "name": "Dezeen Interiors",
+    "url": "https://www.dezeen.com/interiors/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-120",
+    "category": "dizajn",
+    "name": "Design Taxi",
+    "url": "https://designtaxi.com/rss.php",
+    "enabled": true
+  },
+  {
+    "id": "src-121",
+    "category": "lifestyle",
+    "name": "InsideHook",
+    "url": "https://www.insidehook.com/feed",
+    "enabled": true
+  },
+  {
+    "id": "src-122",
+    "category": "lifestyle",
+    "name": "Cool Hunting",
+    "url": "https://coolhunting.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-123",
+    "category": "lifestyle",
+    "name": "Hypebeast",
+    "url": "https://hypebeast.com/feed",
+    "enabled": true
+  },
+  {
+    "id": "src-124",
+    "category": "lifestyle",
+    "name": "Highsnobiety",
+    "url": "https://www.highsnobiety.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-125",
+    "category": "lifestyle",
+    "name": "Design Milk Lifestyle",
+    "url": "https://design-milk.com/category/lifestyle/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-126",
+    "category": "lifestyle",
+    "name": "Treehugger",
+    "url": "https://www.treehugger.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-127",
+    "category": "lifestyle",
+    "name": "Lonely Planet",
+    "url": "https://www.lonelyplanet.com/news/feed",
+    "enabled": true
+  },
+  {
+    "id": "src-128",
+    "category": "lifestyle",
+    "name": "Atlas Obscura",
+    "url": "https://www.atlasobscura.com/feeds/latest",
+    "enabled": true
+  },
+  {
+    "id": "src-129",
+    "category": "lifestyle",
+    "name": "Modern Farmer",
+    "url": "https://modernfarmer.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-130",
+    "category": "lifestyle",
+    "name": "The Dodo",
+    "url": "https://www.thedodo.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-131",
+    "category": "lifestyle",
+    "name": "PetMD",
+    "url": "https://www.petmd.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-132",
+    "category": "lifestyle",
+    "name": "Dezeen Events",
+    "url": "https://www.dezeen.com/events-guide/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-133",
+    "category": "poslovanje",
+    "name": "Forbes Entrepreneurs",
+    "url": "https://www.forbes.com/entrepreneurs/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-134",
+    "category": "poslovanje",
+    "name": "Forbes Leadership",
+    "url": "https://www.forbes.com/leadership/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-135",
+    "category": "poslovanje",
+    "name": "Forbes Innovation",
+    "url": "https://www.forbes.com/innovation/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-136",
+    "category": "poslovanje",
+    "name": "BusinessGreen",
+    "url": "https://www.businessgreen.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-137",
+    "category": "poslovanje",
+    "name": "Sustainability Magazine",
+    "url": "https://sustainabilitymag.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-138",
+    "category": "ekonomija",
+    "name": "LSE Business Review",
+    "url": "https://blogs.lse.ac.uk/businessreview/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-139",
+    "category": "ekonomija",
+    "name": "NBER Digest",
+    "url": "https://www.nber.org/rss/new.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-140",
+    "category": "ekonomija",
+    "name": "Chicago Fed Blog",
+    "url": "https://www.chicagofed.org/rss/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-141",
+    "category": "ekonomija",
+    "name": "Dallas Fed Economics",
+    "url": "https://www.dallasfed.org/rss/research.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-142",
+    "category": "ekonomija",
+    "name": "Bank of England News",
+    "url": "https://www.bankofengland.co.uk/news/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-143",
+    "category": "financije",
+    "name": "FinTech Magazine",
+    "url": "https://fintechmagazine.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-144",
+    "category": "financije",
+    "name": "InsurTech Digital",
+    "url": "https://insurtechdigital.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-145",
+    "category": "financije",
+    "name": "Finance Monthly",
+    "url": "https://www.finance-monthly.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-146",
+    "category": "financije",
+    "name": "Global Finance",
+    "url": "https://gfmag.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-147",
+    "category": "financije",
+    "name": "Private Banker International",
+    "url": "https://www.privatebankerinternational.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-148",
+    "category": "trzista",
+    "name": "Energy Digital",
+    "url": "https://energydigital.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-149",
+    "category": "trzista",
+    "name": "Procurement Magazine",
+    "url": "https://procurementmag.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-150",
+    "category": "trzista",
+    "name": "Logistics Manager",
+    "url": "https://www.logisticsmanager.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-151",
+    "category": "trzista",
+    "name": "Packaging Gateway",
+    "url": "https://www.packaging-gateway.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-152",
+    "category": "trzista",
+    "name": "Airport Technology",
+    "url": "https://www.airport-technology.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-153",
+    "category": "tehnologija",
+    "name": "AI Magazine",
+    "url": "https://aimagazine.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-154",
+    "category": "tehnologija",
+    "name": "Data Centre Magazine",
+    "url": "https://datacentremagazine.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-155",
+    "category": "tehnologija",
+    "name": "Cyber Magazine",
+    "url": "https://cybermagazine.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-156",
+    "category": "tehnologija",
+    "name": "Technology Magazine",
+    "url": "https://technologymagazine.com/rss",
+    "enabled": true
+  },
+  {
+    "id": "src-157",
+    "category": "satovi",
+    "name": "HODINKEE",
+    "url": "https://www.hodinkee.com/articles/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-158",
+    "category": "satovi",
+    "name": "Fratello",
+    "url": "https://www.fratellowatches.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-159",
+    "category": "satovi",
+    "name": "Monochrome Watches",
+    "url": "https://monochrome-watches.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-160",
+    "category": "satovi",
+    "name": "Worn & Wound",
+    "url": "https://wornandwound.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-161",
+    "category": "satovi",
+    "name": "Time+Tide Watches",
+    "url": "https://timeandtidewatches.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-162",
+    "category": "nakit",
+    "name": "The Jewellery Editor",
+    "url": "https://www.thejewelleryeditor.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-163",
+    "category": "nakit",
+    "name": "JCK",
+    "url": "https://www.jckonline.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-164",
+    "category": "nakit",
+    "name": "Jeweller Magazine",
+    "url": "https://www.jewellermagazine.com/rss/jeweller.xml",
+    "enabled": true
+  },
+  {
+    "id": "src-165",
+    "category": "pica",
+    "name": "Decanter",
+    "url": "https://www.decanter.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-166",
+    "category": "pica",
+    "name": "VinePair",
+    "url": "https://vinepair.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-167",
+    "category": "pica",
+    "name": "The Spirits Business",
+    "url": "https://www.thespiritsbusiness.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-168",
+    "category": "pica",
+    "name": "Wine Enthusiast",
+    "url": "https://www.wineenthusiast.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-169",
+    "category": "hedonizam",
+    "name": "Robb Report",
+    "url": "https://robbreport.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-170",
+    "category": "hedonizam",
+    "name": "Elite Traveler",
+    "url": "https://elitetraveler.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "src-171",
+    "category": "hedonizam",
+    "name": "Luxuo",
+    "url": "https://www.luxuo.com/feed",
+    "enabled": true
+  }
+]

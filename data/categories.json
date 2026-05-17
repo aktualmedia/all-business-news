@@ -1,0 +1,77 @@
+[
+  {
+    "slug": "vijesti",
+    "label": "Vijesti",
+    "group": "Opće"
+  },
+  {
+    "slug": "poslovanje",
+    "label": "Poslovanje",
+    "group": "Poslovne rubrike"
+  },
+  {
+    "slug": "ekonomija",
+    "label": "Ekonomija",
+    "group": "Poslovne rubrike"
+  },
+  {
+    "slug": "financije",
+    "label": "Financije",
+    "group": "Poslovne rubrike"
+  },
+  {
+    "slug": "trzista",
+    "label": "Tržišta",
+    "group": "Poslovne rubrike"
+  },
+  {
+    "slug": "kultura",
+    "label": "Kultura",
+    "group": "Ostale agregirane rubrike"
+  },
+  {
+    "slug": "dizajn",
+    "label": "Dizajn",
+    "group": "Ostale agregirane rubrike"
+  },
+  {
+    "slug": "tehnologija",
+    "label": "Tehnologija",
+    "group": "Ostale agregirane rubrike"
+  },
+  {
+    "slug": "znanost",
+    "label": "Znanost",
+    "group": "Ostale agregirane rubrike"
+  },
+  {
+    "slug": "lifestyle",
+    "label": "Lifestyle",
+    "group": "Ostale agregirane rubrike"
+  },
+  {
+    "slug": "hedonizam",
+    "label": "Hedonizam",
+    "group": "Luksuz i kultura življenja"
+  },
+  {
+    "slug": "satovi",
+    "label": "Satovi",
+    "group": "Luksuz i kultura življenja"
+  },
+  {
+    "slug": "nakit",
+    "label": "Nakit",
+    "group": "Luksuz i kultura življenja"
+  },
+  {
+    "slug": "pica",
+    "label": "Pića",
+    "group": "Luksuz i kultura življenja"
+  },
+  {
+    "slug": "symbol",
+    "label": "Symbol",
+    "group": "Digitalna izdanja"
+  }
+]

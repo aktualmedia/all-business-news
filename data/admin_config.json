@@ -1,0 +1,16 @@
+{
+  "repo": "aktualmedia/all-business-news",
+  "branch": "main",
+  "demo_user": "admin",
+  "demo_password": "promijeni-odmah",
+  "token_storage": "sessionStorage",
+  "note": "GitHub Pages je statički hosting; stvarni upis zahtijeva GitHub token s Contents: Read and write.",
+  "required_permissions": [
+    "Contents: Read and write",
+    "Actions: Write za pokretanje workflowa iz admina"
+  ],
+  "pdf_policy": {
+    "warn_above_mib": 50,
+    "block_direct_repo_upload_above_mib": 100
+  }
+}

@@ -1,0 +1,125 @@
+[
+  {
+    "category": "poslovanje",
+    "label": "Bloomberg Television",
+    "channel_id": "UCIALMKvObZNtJ6AmdCLP7Lg",
+    "max_items": 25
+  },
+  {
+    "category": "financije",
+    "label": "CNBC Television",
+    "channel_id": "UCrp_UI8XtuYfpiqluWLD7Lw",
+    "max_items": 25
+  },
+  {
+    "category": "ekonomija",
+    "label": "Financial Times",
+    "channel_id": "UCoUxsWakJucWg46KW5RsvPw",
+    "max_items": 25
+  },
+  {
+    "category": "tehnologija",
+    "label": "The Verge",
+    "channel_id": "UCddiUEpeqJcYeBxX1IVBKvQ",
+    "max_items": 25
+  },
+  {
+    "category": "tehnologija",
+    "label": "Google for Developers",
+    "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "max_items": 25
+  },
+  {
+    "category": "znanost",
+    "label": "NASA",
+    "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
+    "max_items": 25
+  },
+  {
+    "category": "znanost",
+    "label": "TED",
+    "channel_id": "UCAuUUnT6oDeKwE6v1NGQxug",
+    "max_items": 25
+  },
+  {
+    "category": "dizajn",
+    "label": "Dezeen",
+    "channel_id": "UCsWG9ANbrmgR0z-eFk_A3YQ",
+    "max_items": 25
+  },
+  {
+    "category": "dizajn",
+    "label": "The B1M",
+    "channel_id": "UC6n8I1UDTKP1IWjQMg6_TwA",
+    "max_items": 25
+  },
+  {
+    "category": "kultura",
+    "label": "Tate",
+    "channel_id": "UCFI8nL9yZ6uPk0BqfA0Rj1g",
+    "max_items": 25
+  },
+  {
+    "category": "vijesti",
+    "label": "Reuters",
+    "channel_id": "",
+    "fallback_url": "https://www.youtube.com/@Reuters/videos",
+    "fallback_title": "YouTube pregled: poslovne i svjetske vijesti",
+    "fallback_description": "Slu?beni video pregled svjetskih poslovnih i ekonomskih tema.",
+    "max_items": 25
+  },
+  {
+    "category": "trzista",
+    "label": "Yahoo Finance",
+    "channel_id": "",
+    "fallback_url": "https://www.youtube.com/@YahooFinance/videos",
+    "fallback_title": "YouTube pregled: Yahoo Finance tr?i?ta",
+    "fallback_description": "Tr?i?ta, burze, kamate, dionice i makroekonomski signali.",
+    "max_items": 25
+  },
+  {
+    "category": "lifestyle",
+    "label": "Cond? Nast Traveler",
+    "channel_id": "",
+    "fallback_url": "https://www.youtube.com/@CondeNastTraveler/videos",
+    "fallback_title": "YouTube pregled: Cond? Nast Traveler lifestyle",
+    "fallback_description": "Putovanja, stil ?ivota, mjesta i iskustva.",
+    "max_items": 25
+  },
+  {
+    "category": "hedonizam",
+    "label": "Robb Report",
+    "channel_id": "",
+    "fallback_url": "https://www.youtube.com/@RobbReport/videos",
+    "fallback_title": "YouTube pregled: Robb Report hedonizam",
+    "fallback_description": "Luksuz, putovanja, dizajn, automobili i kultura u?ivanja.",
+    "max_items": 25
+  },
+  {
+    "category": "satovi",
+    "label": "HODINKEE",
+    "channel_id": "",
+    "fallback_url": "https://www.youtube.com/@Hodinkee/videos",
+    "fallback_title": "YouTube pregled: HODINKEE satovi",
+    "fallback_description": "Satovi, razgovori, recenzije i kolekcionarski svijet.",
+    "max_items": 25
+  },
+  {
+    "category": "nakit",
+    "label": "The Jewellery Editor",
+    "channel_id": "",
+    "fallback_url": "https://www.youtube.com/@TheJewelleryEditor/videos",
+    "fallback_title": "YouTube pregled: The Jewellery Editor",
+    "fallback_description": "Nakit, dragulji, dizajn i luksuzni detalji.",
+    "max_items": 25
+  },
+  {
+    "category": "pica",
+    "label": "VinePair",
+    "channel_id": "",
+    "fallback_url": "https://www.youtube.com/@VinePair/videos",
+    "fallback_title": "YouTube pregled: VinePair pi?a",
+    "fallback_description": "Vino, pi?a, trendovi i kultura u?ivanja.",
+    "max_items": 25
+  }
+]
