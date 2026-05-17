@@ -1,0 +1,35 @@
+(() => {
+  const $ = s => document.querySelector(s);
+  const status = $("#adminStatus");
+  function msg(t){ if(status) status.textContent = t; }
+  function download(name, data){
+    const blob = new Blob([JSON.stringify(data, null, 2)], {type:"application/json"});
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob); a.download = name; a.click();
+    setTimeout(()=>URL.revokeObjectURL(a.href), 1000);
+  }
+  async function getJson(path, fallback){ try{ const r=await fetch("../"+path,{cache:"no-store"}); if(!r.ok) throw new Error(r.status); return await r.json(); }catch(e){ return fallback; } }
+  let gallery = [], posts = [];
+  async function init(){
+    gallery = JSON.parse(localStorage.getItem("wv_gallery") || "null") || await getJson("data/manual_gallery.json", []);
+    posts = JSON.parse(localStorage.getItem("wv_posts") || "null") || await getJson("data/ai_posts.json", []);
+    msg("ADMIN RADI LOKALNO U PREGLEDNIKU. ZA JAVNU OBJAVU PREUZMI JSON I UPLOADAJ GA U DATA FOLDER.");
+  }
+  $("#addGallery")?.addEventListener("click", () => {
+    const title=$("#gTitle").value.trim(), image=$("#gImage").value.trim(), description=$("#gDesc").value.trim();
+    if(!title || !image) return msg("Upiši naslov i putanju slike.");
+    gallery.unshift({title, image, description, created_at:new Date().toISOString(), manual:true});
+    localStorage.setItem("wv_gallery", JSON.stringify(gallery));
+    msg("Galerijska stavka spremljena lokalno.");
+  });
+  $("#exportGallery")?.addEventListener("click", () => download("manual_gallery.json", gallery));
+  $("#addPost")?.addEventListener("click", () => {
+    const title=$("#pTitle").value.trim(), summary=$("#pSummary").value.trim();
+    if(!title || !summary) return msg("Upiši naslov i sažetak.");
+    posts.unshift({title, summary, author:"Nermin Sefić", created_at:new Date().toISOString(), category:"komentar"});
+    localStorage.setItem("wv_posts", JSON.stringify(posts));
+    msg("Objava spremljena lokalno.");
+  });
+  $("#exportPosts")?.addEventListener("click", () => download("ai_posts.json", posts));
+  init();
+})();
