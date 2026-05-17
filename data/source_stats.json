@@ -1,22 +1,23 @@
 {
-  "updated_at": "2026-05-17T16:28:25.057388+00:00",
+  "updated_at": "2026-05-17T17:24:58.530975+00:00",
   "sources": 180,
   "ok_sources": 61,
-  "failed_sources": 54,
+  "failed_sources": 53,
   "items_by_source": {
-    "Variety": 48,
-    "Deadline": 41,
+    "Deadline": 43,
+    "Yanko Design": 18,
+    "Engadget": 23,
+    "Variety": 51,
+    "Medical Xpress": 46,
+    "Robb Report": 13,
+    "MarketWatch Top Stories": 20,
     "Phys.org": 37,
-    "Medical Xpress": 45,
     "Decanter": 39,
     "The Register": 42,
     "Forbes Innovation": 40,
-    "Yanko Design": 17,
     "Forbes Business": 53,
-    "MarketWatch Top Stories": 19,
-    "Robb Report": 12,
+    "Investing.com News": 39,
     "Hypebeast": 26,
-    "Investing.com News": 35,
     "Quartz": 37,
     "Wired": 42,
     "Ars Technica": 21,
@@ -30,7 +31,6 @@
     "Fratello": 12,
     "Finance Monthly": 37,
     "VentureBeat": 8,
-    "Engadget": 21,
     "Our World in Data": 10,
     "The Art Newspaper": 37,
     "Worn & Wound": 10,
@@ -518,6 +518,14 @@
       "status": "ok"
     },
     {
+      "id": "src-036",
+      "name": "Investing.com News",
+      "category": "financije",
+      "url": "https://www.investing.com/rss/news.rss",
+      "count": 8,
+      "status": "ok"
+    },
+    {
       "id": "src-051",
       "name": "Supply Chain Dive",
       "category": "trzista",
@@ -530,14 +538,6 @@
       "name": "AgFunderNews",
       "category": "trzista",
       "url": "https://agfundernews.com/feed",
-      "count": 7,
-      "status": "ok"
-    },
-    {
-      "id": "src-036",
-      "name": "Investing.com News",
-      "category": "financije",
-      "url": "https://www.investing.com/rss/news.rss",
       "count": 7,
       "status": "ok"
     },
@@ -1189,8 +1189,7 @@
       "category": "trzista",
       "url": "https://www.mining.com/feed/",
       "count": 0,
-      "status": "failed",
-      "error": "HTTP Error 403: Forbidden"
+      "status": "empty"
     },
     {
       "id": "src-129",
