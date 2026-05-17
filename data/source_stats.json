@@ -1,9 +1,11 @@
 {
-  "updated_at": "2026-05-17T18:36:28.457665+00:00",
+  "updated_at": "2026-05-17T18:47:58.363516+00:00",
   "sources": 180,
   "ok_sources": 61,
-  "failed_sources": 55,
+  "failed_sources": 53,
   "items_by_source": {
+    "MarketWatch Top Stories": 20,
+    "Forbes Business": 61,
     "Medical Xpress": 48,
     "Deadline": 47,
     "Variety": 53,
@@ -11,11 +13,9 @@
     "Phys.org": 38,
     "Forbes Innovation": 47,
     "Engadget": 24,
-    "Forbes Business": 56,
     "Yanko Design": 18,
     "Robb Report": 13,
-    "MarketWatch Top Stories": 20,
-    "Investing.com News": 43,
+    "Investing.com News": 44,
     "Decanter": 39,
     "The Register": 42,
     "Designboom": 13,
@@ -805,8 +805,7 @@
       "category": "dizajn",
       "url": "https://designwanted.com/feed/",
       "count": 0,
-      "status": "failed",
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "status": "empty"
     },
     {
       "id": "src-106",
@@ -1190,8 +1189,7 @@
       "category": "trzista",
       "url": "https://www.mining.com/feed/",
       "count": 0,
-      "status": "failed",
-      "error": "HTTP Error 403: Forbidden"
+      "status": "empty"
     },
     {
       "id": "src-129",
