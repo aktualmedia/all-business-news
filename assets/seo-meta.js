@@ -12,7 +12,8 @@
     posts:['autorski tekstovi','Nermin Sefić objave','ekonomski komentar'],
     editions:['Symbol','digitalna izdanja','kultura i umjetnost'],
     radio:['radio uživo','glazba','vijesti radio'],
-    sources:['izvori vijesti','RSS izvori','status izvora']
+    sources:['izvori vijesti','RSS izvori','status izvora'],
+    calendar:['kalendar događanja','muzeji','kazališta','izložbe','film','kultura']
   };
   function pageType(){return window.WV_PAGE || document.body?.dataset?.page || 'home';}
   function canonical(){return location.href.split('#')[0].split('?')[0];}
@@ -30,10 +31,34 @@
         const symbol=[...nav.querySelectorAll('a')].find(x=>x.textContent.trim().toUpperCase()==='SYMBOL');
         if(symbol) symbol.insertAdjacentElement('afterend',a); else nav.appendChild(a);
       }
+      if(!nav.querySelector('a[href$="kalendar/index.html"]') && !nav.querySelector('a[href="../kalendar/index.html"]')){
+        const a=document.createElement('a');
+        const inSub = location.pathname.split('/').filter(Boolean).length > 2;
+        a.href = inSub ? '../kalendar/index.html' : 'kalendar/index.html';
+        a.textContent='KALENDAR DOGAĐANJA';
+        const radio=[...nav.querySelectorAll('a')].find(x=>x.textContent.trim().toUpperCase()==='RADIO');
+        if(radio) radio.insertAdjacentElement('beforebegin',a); else nav.appendChild(a);
+      }
     });
+  }
+  function ensureFloatingHome(){
+    if(document.getElementById('floatingHomeBtn')) return;
+    const a=document.createElement('a');
+    a.id='floatingHomeBtn';
+    a.href=siteLink('index.html');
+    a.setAttribute('aria-label','Povratak na početnu stranicu');
+    a.textContent='⌂';
+    document.body.appendChild(a);
+    if(!document.getElementById('floatingHomeStyle')){
+      const s=document.createElement('style');
+      s.id='floatingHomeStyle';
+      s.textContent='#floatingHomeBtn{position:fixed;right:18px;bottom:82px;z-index:99999;width:46px;height:46px;display:grid;place-items:center;border-radius:999px;background:#111;color:#c8a44d;border:1px solid #c8a44d;text-decoration:none;font-size:1.35rem;font-weight:900;box-shadow:0 14px 32px rgba(0,0,0,.22)}#floatingHomeBtn:hover{background:#c8a44d;color:#111}@media(max-width:700px){#floatingHomeBtn{right:12px;bottom:72px;width:40px;height:40px;font-size:1.15rem}}';
+      document.head.appendChild(s);
+    }
   }
   function run(){
     ensureNav();
+    ensureFloatingHome();
     const p=pageType();
     const h1=document.querySelector('h1')?.innerText || 'WEB VIJESTI / All Business News';
     const title=document.title || h1;
