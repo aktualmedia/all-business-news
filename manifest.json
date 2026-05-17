@@ -1,0 +1,21 @@
+{
+  "name": "WEB VIJESTI / All Business News",
+  "short_name": "WEB VIJESTI",
+  "description": "Pregled poslovnih, ekonomskih, kulturnih i autorskih vijesti.",
+  "start_url": "/all-business-news/",
+  "scope": "/all-business-news/",
+  "display": "standalone",
+  "background_color": "#f6f8fc",
+  "theme_color": "#1f3c88",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/app-icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["news", "business", "education", "magazines"],
+  "lang": "hr"
+}
