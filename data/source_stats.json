@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-17T18:12:18.948261+00:00",
+  "updated_at": "2026-05-17T18:16:00.040457+00:00",
   "sources": 180,
   "ok_sources": 61,
-  "failed_sources": 53,
+  "failed_sources": 54,
   "items_by_source": {
     "Variety": 53,
     "VentureBeat": 9,
@@ -10,14 +10,14 @@
     "Phys.org": 38,
     "Deadline": 46,
     "Engadget": 24,
-    "Forbes Innovation": 43,
+    "Forbes Business": 56,
     "Yanko Design": 18,
-    "Forbes Business": 54,
     "Robb Report": 13,
     "MarketWatch Top Stories": 20,
     "Investing.com News": 43,
     "Decanter": 39,
     "The Register": 42,
+    "Forbes Innovation": 42,
     "Designboom": 13,
     "Hypebeast": 26,
     "Quartz": 37,
@@ -1189,7 +1189,8 @@
       "category": "trzista",
       "url": "https://www.mining.com/feed/",
       "count": 0,
-      "status": "empty"
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-129",
