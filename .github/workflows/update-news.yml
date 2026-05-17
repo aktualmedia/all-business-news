@@ -23,11 +23,12 @@ jobs:
       - name: Azuriraj vijesti
         run: |
           python update_news.py
+          python postprocess_news.py
       - name: Spremi promjene
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/news.json data/category_news data/generated_at.json data/source_stats.json
-          git commit -m "Rucno ili automatsko azuriranje vijesti" || echo "Nema promjena za commit"
+          git add data/news.json data/archive.json data/category_news data/category_counts.json data/generated_at.json data/source_stats.json data/manual_gallery.json
+          git commit -m "Rucno ili automatsko azuriranje vijesti i galerije" || echo "Nema promjena za commit"
           git pull --rebase || true
           git push || true
