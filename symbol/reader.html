@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="hr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SYMBOL preglednik | WEB VIJESTI</title>
+  <meta name="description" content="SYMBOL PDF preglednik bez preuzimanja. Listanje digitalnih izdanja časopisa Symbol unutar WEB VIJESTI portala.">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <link rel="stylesheet" href="../assets/style.css">
+  <link rel="stylesheet" href="../assets/editorial-redesign.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <style>
+    .reader-wrap{max-width:1180px;margin:auto}.symbol-reader-head{display:grid;grid-template-columns:180px 1fr;gap:22px;align-items:start;background:#fff;border:1px solid var(--line,#ded7c8);padding:20px;margin:18px 0}.symbol-reader-head img{width:100%;border:1px solid var(--line,#ded7c8)}.symbol-reader-head h1{font-family:Georgia,'Times New Roman',serif;font-size:clamp(2rem,5vw,4rem);margin:.1rem 0 .4rem}.reader-controls{position:sticky;top:0;z-index:40;background:#111;color:#fff;display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap;padding:8px;border:1px solid #111}.reader-controls button,.reader-controls a{border:1px solid rgba(255,255,255,.25);background:rgba(255,255,255,.08);color:#fff;border-radius:999px;padding:7px 11px;text-decoration:none;font-weight:900;font-size:.74rem;cursor:pointer}.reader-controls button:disabled{opacity:.35}.reader-info{font-weight:900;color:#d8c9a6;font-size:.8rem}.reader-status{background:#f7f6f2;border:1px solid var(--line,#ded7c8);padding:10px 12px;margin:10px 0;color:#555;font-weight:800}.canvas-shell{background:#1b1b1b;border:1px solid #111;border-radius:0;padding:14px;overflow:auto;min-height:70vh}.canvas-shell canvas{display:block;margin:0 auto;background:#fff;box-shadow:0 10px 34px rgba(0,0,0,.35)}.fallback-frame{width:100%;height:78vh;border:1px solid var(--line,#ded7c8);background:#fff}.hidden{display:none!important}@media(max-width:760px){.symbol-reader-head{grid-template-columns:1fr}.symbol-reader-head img{max-width:180px}.reader-controls{justify-content:flex-start;overflow-x:auto;flex-wrap:nowrap}.reader-controls button,.reader-controls a{flex:0 0 auto;font-size:.68rem;padding:6px 9px}.canvas-shell{padding:8px;min-height:62vh}}
+  </style>
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="../index.html"><span class="brand-mark">WV</span><span><strong>WEB VIJESTI</strong><small>AKTUAL MEDIA D.O.O.</small></span></a>
+  <nav class="top-nav"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../objave/index.html">OBJAVE</a><a href="../symbol/index.html">SYMBOL</a><a href="../galerija/index.html">GALERIJA</a><a href="../radio/index.html">RADIO</a></nav>
+</header>
+<main class="page-shell reader-wrap">
+  <a class="home-button" href="../symbol/index.html">SYMBOL – POVRATAK</a>
+  <section class="symbol-reader-head">
+    <img id="cover" src="" alt="SYMBOL naslovnica">
+    <div>
+      <p class="eyebrow">SYMBOL · PDF PREGLEDNIK</p>
+      <h1 id="title">Učitavanje...</h1>
+      <p id="desc" class="lead">Digitalno izdanje za pregled bez preuzimanja.</p>
+      <p class="meta" id="meta"></p>
+    </div>
+  </section>
+  <section class="reader-controls">
+    <a href="../index.html">HOME</a>
+    <a href="../symbol/index.html">SYMBOL</a>
+    <button id="prev" type="button">PRETHODNA</button>
+    <span id="info" class="reader-info">STRANICA</span>
+    <button id="next" type="button">SLJEDEĆA</button>
+    <button id="zoomOut" type="button">−</button>
+    <button id="zoomIn" type="button">+</button>
+    <a id="openPdf" target="_blank" rel="noopener">OTVORI PDF</a>
+  </section>
+  <p id="status" class="reader-status">Pokrećem preglednik...</p>
+  <section class="canvas-shell"><canvas id="pdfCanvas"></canvas></section>
+  <iframe id="fallback" class="fallback-frame hidden"></iframe>
+</main>
+<nav class="mobile-bottom-nav"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../objave/index.html">OBJAVE</a><a href="../symbol/index.html">SYMBOL</a></nav>
+<script>
+(async()=>{
+  const qs=new URLSearchParams(location.search);
+  const id=qs.get('id')||'symbol-1';
+  const status=document.getElementById('status');
+  const canvas=document.getElementById('pdfCanvas');
+  const ctx=canvas.getContext('2d');
+  const fallback=document.getElementById('fallback');
+  let pdfDoc=null,pageNo=1,scale=Math.max(.75,Math.min(1.25,window.innerWidth/680)),pdfUrl='';
+  const setStatus=t=>status.textContent=t;
+  function rel(path){return '../'+String(path||'').replace(/^\.\.\//,'').replace(/^\//,'');}
+  async function render(){
+    if(!pdfDoc) return;
+    setStatus('Učitavanje stranice...');
+    const page=await pdfDoc.getPage(pageNo);
+    const viewport=page.getViewport({scale});
+    canvas.width=Math.floor(viewport.width); canvas.height=Math.floor(viewport.height);
+    await page.render({canvasContext:ctx,viewport}).promise;
+    document.getElementById('info').textContent=`STRANICA ${pageNo} / ${pdfDoc.numPages} · ${Math.round(scale*100)}%`;
+    document.getElementById('prev').disabled=pageNo<=1;
+    document.getElementById('next').disabled=pageNo>=pdfDoc.numPages;
+    setStatus('Pregled spreman. Listanje radi bez preuzimanja PDF-a.');
+  }
+  try{
+    const r=await fetch('../data/editions.json',{cache:'no-store'});
+    const editions=await r.json();
+    const e=editions.find(x=>x.id===id)||editions.find(x=>x.id==='symbol-1')||editions[0];
+    document.title=(e.title||'SYMBOL')+' | PDF preglednik';
+    document.getElementById('title').textContent=e.title||'SYMBOL';
+    document.getElementById('desc').textContent=e.description||'Digitalno izdanje.';
+    document.getElementById('meta').textContent=`${e.pages||''} STRANICA · ${e.size_mb||''} MB · ${e.date||''}`;
+    document.getElementById('cover').src=rel(e.cover);
+    pdfUrl=rel(e.pdf);
+    document.getElementById('openPdf').href=pdfUrl;
+    fallback.src=pdfUrl+'#toolbar=1&navpanes=0&scrollbar=1';
+    if(!window.pdfjsLib) throw new Error('PDF.js nije učitan');
+    pdfjsLib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+    pdfDoc=await pdfjsLib.getDocument(pdfUrl).promise;
+    await render();
+  }catch(err){
+    console.warn(err);
+    setStatus('PDF.js preglednik nije uspio. Prikazujem rezervni ugrađeni pregled ispod. Ako browser ipak ponudi download, klikni OTVORI PDF.');
+    document.querySelector('.canvas-shell').classList.add('hidden');
+    fallback.classList.remove('hidden');
+  }
+  document.getElementById('prev').onclick=()=>{pageNo=Math.max(1,pageNo-1);render();};
+  document.getElementById('next').onclick=()=>{if(pdfDoc){pageNo=Math.min(pdfDoc.numPages,pageNo+1);render();}};
+  document.getElementById('zoomIn').onclick=()=>{scale=Math.min(2.4,+(scale+.15).toFixed(2));render();};
+  document.getElementById('zoomOut').onclick=()=>{scale=Math.max(.5,+(scale-.15).toFixed(2));render();};
+})();
+</script>
+<script src="../assets/global-radio.js" defer></script>
+<script src="../assets/seo-meta.js" defer></script>
+</body>
+</html>
