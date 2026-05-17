@@ -1,21 +1,22 @@
 {
-  "updated_at": "2026-05-17T17:56:08.486599+00:00",
+  "updated_at": "2026-05-17T18:12:18.948261+00:00",
   "sources": 180,
   "ok_sources": 61,
-  "failed_sources": 54,
+  "failed_sources": 53,
   "items_by_source": {
-    "Deadline": 45,
-    "Variety": 52,
+    "Variety": 53,
+    "VentureBeat": 9,
+    "Medical Xpress": 47,
+    "Phys.org": 38,
+    "Deadline": 46,
+    "Engadget": 24,
     "Forbes Innovation": 43,
     "Yanko Design": 18,
     "Forbes Business": 54,
-    "Engadget": 23,
-    "Medical Xpress": 46,
     "Robb Report": 13,
     "MarketWatch Top Stories": 20,
-    "Phys.org": 37,
+    "Investing.com News": 43,
     "Decanter": 39,
-    "Investing.com News": 40,
     "The Register": 42,
     "Designboom": 13,
     "Hypebeast": 26,
@@ -30,7 +31,6 @@
     "Monochrome Watches": 11,
     "Fratello": 12,
     "Finance Monthly": 37,
-    "VentureBeat": 8,
     "Our World in Data": 10,
     "The Art Newspaper": 37,
     "Worn & Wound": 10,
@@ -1059,7 +1059,7 @@
       "url": "https://www.itsnicethat.com/rss",
       "count": 0,
       "status": "failed",
-      "error": "HTTP Error 404: Not Found"
+      "error": "The read operation timed out"
     },
     {
       "id": "src-163",
@@ -1189,8 +1189,7 @@
       "category": "trzista",
       "url": "https://www.mining.com/feed/",
       "count": 0,
-      "status": "failed",
-      "error": "HTTP Error 403: Forbidden"
+      "status": "empty"
     },
     {
       "id": "src-129",
@@ -1503,7 +1502,7 @@
       "url": "https://cepr.org/voxeu/rss.xml",
       "count": 0,
       "status": "failed",
-      "error": "HTTP Error 404: Not Found"
+      "error": "The read operation timed out"
     },
     {
       "id": "extra-care-001",
