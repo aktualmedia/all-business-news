@@ -3,23 +3,25 @@
     "title": "80s Hits Radio",
     "country": "WORLD",
     "type": "80s MUSIC",
-    "description": "Glazbeni radio s hitovima osamdesetih.",
+    "description": "Glazbeni radio s hitovima osamdesetih. Prikaz pjesme dostupan je kada stream šalje metapodatke.",
     "stream": "https://stream.laut.fm/80er-zone",
-    "site": "https://laut.fm/80er-zone"
+    "site": "https://laut.fm/80er-zone",
+    "meta": "laut.fm/80er-zone"
   },
   {
     "title": "90s Revival Radio",
     "country": "WORLD",
     "type": "90s MUSIC",
-    "description": "Glazbeni radio s hitovima devedesetih.",
+    "description": "Glazbeni radio s hitovima devedesetih. Prikaz pjesme dostupan je kada stream šalje metapodatke.",
     "stream": "https://stream.laut.fm/90er-revival",
-    "site": "https://laut.fm/90er-revival"
+    "site": "https://laut.fm/90er-revival",
+    "meta": "laut.fm/90er-revival"
   },
   {
     "title": "TOP RADIO Hrvatska",
     "country": "HRVATSKA",
     "type": "GLAZBA",
-    "description": "Hrvatski glazbeni radio. Ako direktni player ne krene, koristi službenu stranicu.",
+    "description": "Hrvatski glazbeni radio. Ako nema prikaza pjesme, stanica ne šalje javne metapodatke.",
     "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRADIO.mp3",
     "site": "https://topradio.hr/"
   },
