@@ -15,8 +15,6 @@ on:
 permissions:
   contents: write
 
-timeout-minutes: 20
-
 concurrency:
   group: update-vijesti
   cancel-in-progress: false
@@ -24,20 +22,24 @@ concurrency:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Checkout repozitorija
         uses: actions/checkout@v4
         with:
           persist-credentials: true
           fetch-depth: 0
+
       - name: Postavi Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
       - name: Azuriraj vijesti i galeriju
         run: |
           python update_news.py
           python postprocess_news.py
+
       - name: Spremi promjene
         run: |
           git config user.name "github-actions"
