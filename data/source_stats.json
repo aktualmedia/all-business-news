@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-05-17T18:16:00.040457+00:00",
+  "updated_at": "2026-05-17T18:36:28.457665+00:00",
   "sources": 180,
   "ok_sources": 61,
-  "failed_sources": 54,
+  "failed_sources": 55,
   "items_by_source": {
+    "Medical Xpress": 48,
+    "Deadline": 47,
     "Variety": 53,
     "VentureBeat": 9,
-    "Medical Xpress": 47,
     "Phys.org": 38,
-    "Deadline": 46,
+    "Forbes Innovation": 47,
     "Engadget": 24,
     "Forbes Business": 56,
     "Yanko Design": 18,
@@ -17,7 +18,6 @@
     "Investing.com News": 43,
     "Decanter": 39,
     "The Register": 42,
-    "Forbes Innovation": 42,
     "Designboom": 13,
     "Hypebeast": 26,
     "Quartz": 37,
@@ -805,7 +805,8 @@
       "category": "dizajn",
       "url": "https://designwanted.com/feed/",
       "count": 0,
-      "status": "empty"
+      "status": "failed",
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "id": "src-106",
@@ -1059,7 +1060,7 @@
       "url": "https://www.itsnicethat.com/rss",
       "count": 0,
       "status": "failed",
-      "error": "The read operation timed out"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "src-163",
@@ -1503,7 +1504,7 @@
       "url": "https://cepr.org/voxeu/rss.xml",
       "count": 0,
       "status": "failed",
-      "error": "The read operation timed out"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "extra-care-001",
