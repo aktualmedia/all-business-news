@@ -1,22 +1,23 @@
 {
-  "updated_at": "2026-05-17T17:33:06.124397+00:00",
+  "updated_at": "2026-05-17T17:56:08.486599+00:00",
   "sources": 180,
   "ok_sources": 61,
   "failed_sources": 54,
   "items_by_source": {
-    "Forbes Innovation": 41,
-    "Deadline": 43,
+    "Deadline": 45,
+    "Variety": 52,
+    "Forbes Innovation": 43,
     "Yanko Design": 18,
+    "Forbes Business": 54,
     "Engadget": 23,
-    "Variety": 51,
     "Medical Xpress": 46,
     "Robb Report": 13,
     "MarketWatch Top Stories": 20,
     "Phys.org": 37,
     "Decanter": 39,
+    "Investing.com News": 40,
     "The Register": 42,
-    "Forbes Business": 53,
-    "Investing.com News": 39,
+    "Designboom": 13,
     "Hypebeast": 26,
     "Quartz": 37,
     "Wired": 42,
@@ -26,7 +27,6 @@
     "InsideHook": 24,
     "Fast Company": 23,
     "Wallpaper": 46,
-    "Designboom": 12,
     "Monochrome Watches": 11,
     "Fratello": 12,
     "Finance Monthly": 37,
@@ -510,19 +510,19 @@
       "status": "ok"
     },
     {
+      "id": "src-036",
+      "name": "Investing.com News",
+      "category": "financije",
+      "url": "https://www.investing.com/rss/news.rss",
+      "count": 9,
+      "status": "ok"
+    },
+    {
       "id": "src-053",
       "name": "Manufacturing Dive",
       "category": "trzista",
       "url": "https://www.manufacturingdive.com/feeds/news/",
       "count": 9,
-      "status": "ok"
-    },
-    {
-      "id": "src-036",
-      "name": "Investing.com News",
-      "category": "financije",
-      "url": "https://www.investing.com/rss/news.rss",
-      "count": 8,
       "status": "ok"
     },
     {
