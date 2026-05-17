@@ -16,7 +16,7 @@
     .bar select{min-width:170px;max-width:220px}.bar option{color:#111}.bar button{cursor:pointer}
     .frame{width:100%;height:100%;border:0;background:#fff;display:block}
     audio{display:none}
-    @media(max-width:700px){.player{padding:4px 5px}.bar{min-height:25px;gap:5px;justify-content:flex-start}.brand{font-size:.58rem}.now{font-size:.56rem;max-width:92px;padding:3px 6px}.song{display:none}.bar select{min-width:108px;max-width:128px;font-size:.53rem;height:20px;padding:2px 5px}.bar button,.bar a{font-size:.52rem;height:20px;padding:2px 5px}}
+    @media(max-width:700px){.player{padding:4px 5px}.bar{min-height:25px;gap:5px;justify-content:flex-start}.brand{font-size:.58rem}.now{font-size:.56rem;max-width:92px;padding:3px 6px}.song{max-width:42vw;font-size:.55rem}.bar select{min-width:108px;max-width:128px;font-size:.53rem;height:20px;padding:2px 5px}.bar button,.bar a{font-size:.52rem;height:20px;padding:2px 5px}}
   </style>
 </head>
 <body>
@@ -38,21 +38,23 @@
 (async()=>{
   const audio=document.getElementById('audio'), sel=document.getElementById('station'), now=document.getElementById('now'), song=document.getElementById('song'), official=document.getElementById('official');
   const fallback=[{title:'80s Hits Radio',stream:'https://stream.laut.fm/80er-zone',site:'https://laut.fm/80er-zone',meta:'laut.fm/80er-zone'},{title:'90s Revival Radio',stream:'https://stream.laut.fm/90er-revival',site:'https://laut.fm/90er-revival',meta:'laut.fm/90er-revival'},{title:'BBC World Service',stream:'https://stream.live.vc.bbcmedia.co.uk/bbc_world_service',site:'https://www.bbc.com/audio'}];
-  let stations=fallback, metaTimer=null;
+  let stations=fallback, metaTimer=null, currentSong='';
   try{const r=await fetch('../data/radio.json',{cache:'no-store'}); if(r.ok) stations=await r.json();}catch(e){}
   stations=stations.map(s=>{ if(!s.meta && String(s.stream||'').includes('laut.fm/')){ const m=String(s.stream).match(/laut\.fm\/([^/?#]+)/); if(m) s.meta='laut.fm/'+m[1]; } if(!s.meta && String(s.site||'').includes('laut.fm/')){ const m=String(s.site).match(/laut\.fm\/([^/?#]+)/); if(m) s.meta='laut.fm/'+m[1]; } return s; });
   sel.innerHTML=stations.map((s,i)=>`<option value="${i}">${s.title}</option>`).join('');
   function current(){ return stations[Number(sel.value)||0] || stations[0]; }
-  function state(st){ localStorage.setItem('wv_radio_state',JSON.stringify({title:st.title,stream:st.stream,site:st.site,playing:!audio.paused,muted:audio.muted,volume:audio.volume,at:Date.now()})); now.textContent=st.title; official.href=st.site||st.stream||'#'; }
+  function state(st){ localStorage.setItem('wv_radio_state',JSON.stringify({title:st.title,stream:st.stream,site:st.site,meta:st.meta||'',song:currentSong||'',playing:!audio.paused,muted:audio.muted,volume:audio.volume,at:Date.now()})); now.textContent=st.title; official.href=st.site||st.stream||'#'; }
   async function updateSong(st){
     if(metaTimer){ clearInterval(metaTimer); metaTimer=null; }
-    song.textContent='PJESMA: —';
+    currentSong=''; song.textContent='PJESMA: —'; state(st);
     async function poll(){
       try{
         if(st.meta && st.meta.startsWith('laut.fm/')){
           const station=st.meta.split('/')[1];
           const r=await fetch('https://api.laut.fm/station/'+encodeURIComponent(station)+'/current_song',{cache:'no-store'});
-          if(r.ok){ const data=await r.json(); const artist=data.artist?.name||data.artist||''; const title=data.title||data.name||''; if(artist||title) song.textContent='PJESMA: '+[artist,title].filter(Boolean).join(' - '); }
+          if(r.ok){ const data=await r.json(); const artist=data.artist?.name||data.artist||''; const title=data.title||data.name||''; const txt=[artist,title].filter(Boolean).join(' - '); if(txt){ currentSong=txt; song.textContent='PJESMA: '+txt; state(st); } }
+        } else {
+          currentSong=''; song.textContent='PJESMA: —'; state(st);
         }
       }catch(e){}
     }
@@ -62,7 +64,7 @@
   async function play(){ const st=current(); if(audio.src!==st.stream) audio.src=st.stream; audio.play().then(()=>{state(st); updateSong(st);}).catch(()=>{now.textContent='KLIKNI PLAY: '+st.title; state(st); updateSong(st);}); }
   document.getElementById('play').onclick=play;
   document.getElementById('mute').onclick=()=>{audio.muted=!audio.muted; document.getElementById('mute').textContent=audio.muted?'SOUND':'MUTE'; state(current());};
-  document.getElementById('stop').onclick=()=>{audio.pause(); audio.src=''; localStorage.removeItem('wv_radio_state'); now.textContent='NIJE POKRENUT'; song.textContent='PJESMA: —'; if(metaTimer) clearInterval(metaTimer);};
+  document.getElementById('stop').onclick=()=>{audio.pause(); audio.src=''; localStorage.removeItem('wv_radio_state'); now.textContent='NIJE POKRENUT'; currentSong=''; song.textContent='PJESMA: —'; if(metaTimer) clearInterval(metaTimer);};
   sel.addEventListener('change',()=>{ const st=current(); official.href=st.site||st.stream||'#'; if(!audio.paused) play(); else {now.textContent=st.title; updateSong(st);} });
   audio.addEventListener('play',()=>{state(current()); updateSong(current());});
   audio.addEventListener('volumechange',()=>state(current()));
