@@ -10,10 +10,12 @@
 }
 body{background:#fff!important;color:var(--ev-ink)!important;}
 .site-header{padding-top:18px!important;padding-bottom:12px!important;background:#fff!important;border-bottom:0!important;box-shadow:none!important;}
-.brand{margin:0 auto 14px!important;justify-content:center!important;width:max-content!important;}
+.brand{margin:0 auto 14px!important;justify-content:center!important;width:max-content!important;display:flex!important;flex-direction:column!important;gap:5px!important;text-align:center!important;}
 .brand-mark{display:none!important;}
 .brand strong{font-family:Georgia,'Times New Roman',serif!important;font-size:clamp(2.8rem,7vw,5.4rem)!important;letter-spacing:-.05em!important;text-transform:none!important;font-weight:500!important;line-height:.85!important;color:#111!important;}
-.brand small{display:none!important;}
+.brand small{display:block!important;color:var(--ev-gold)!important;font-size:.82rem!important;text-transform:uppercase!important;letter-spacing:.16em!important;font-weight:900!important;line-height:1.2!important;}
+.brand small{font-size:0!important;}
+.brand small:before{content:'AGREGATOR VIJESTI · AKTUAL MEDIA d.o.o.';font-size:.82rem!important;}
 .top-nav{justify-content:center!important;background:#111!important;margin:0 calc(50% - 50vw)!important;padding:11px max(14px,calc((100vw - 1180px)/2))!important;border-top:1px solid #111!important;border-bottom:1px solid #111!important;gap:4px!important;}
 .top-nav a{background:transparent!important;border:0!important;box-shadow:none!important;border-radius:0!important;color:#fff!important;min-height:28px!important;padding:6px 13px!important;font-size:.82rem!important;letter-spacing:.025em!important;font-weight:900!important;}
 .top-nav a:hover{color:var(--ev-gold)!important;transform:none!important;}
@@ -54,6 +56,7 @@ body{background:#fff!important;color:var(--ev-ink)!important;}
 }
 @media(max-width:700px){
   .brand strong{font-size:2.6rem!important;}
+  .brand small:before{font-size:.66rem!important;letter-spacing:.12em!important;}
   .top-nav{display:grid!important;grid-template-columns:repeat(3,1fr)!important;padding:8px 10px!important;}
   .top-nav a{font-size:.65rem!important;padding:7px 4px!important;}
   .hero{padding:12px 0 18px!important;}
