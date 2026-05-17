@@ -8,11 +8,17 @@
   function getState(){try{return JSON.parse(localStorage.getItem(STATE_KEY)||'{}');}catch(e){return {};}}
   function setCommand(cmd){localStorage.setItem(CMD_KEY, JSON.stringify({cmd, at: Date.now()}));}
   function radioBase(){ return location.pathname.includes('/radio/') ? '' : 'radio/'; }
+  function isMobile(){ return window.matchMedia('(max-width: 760px)').matches || /Android|iPhone|iPad|iPod/i.test(navigator.userAgent); }
   function openPlayer(){
     const st = getState();
     if(!st.stream){ window.location.href = radioBase() + 'index.html'; return; }
-    const url = radioBase() + 'player.html?stream=' + encodeURIComponent(st.stream) + '&title=' + encodeURIComponent(st.title||'Radio') + '&site=' + encodeURIComponent(st.site||'');
-    window.open(url, 'wvRadioPlayer', 'width=340,height=230,menubar=no,toolbar=no,location=no,status=no');
+    const portal = radioBase() + 'portal.html?station=' + encodeURIComponent(st.title || '');
+    const popup = radioBase() + 'player.html?stream=' + encodeURIComponent(st.stream) + '&title=' + encodeURIComponent(st.title||'Radio') + '&site=' + encodeURIComponent(st.site||'');
+    if(isMobile()){
+      window.location.href = portal;
+    } else {
+      window.open(popup, 'wvRadioPlayer', 'width=340,height=260,menubar=no,toolbar=no,location=no,status=no');
+    }
   }
   function ensureStyle(){
     if(document.getElementById('wvRadioMiniCss')) return;
@@ -34,7 +40,8 @@
     if(hidden){ if(bar) bar.remove(); return; }
     if(!st || !st.title){ if(bar) bar.remove(); return; }
     if(!bar){ bar = document.createElement('div'); bar.id = BAR_ID; placeBar(bar); }
-    bar.innerHTML = `<span class="muted">RADIO</span><span class="radio-title">${esc(st.title)}</span><button type="button" data-radio-open>PLAYER</button><button type="button" data-radio-mute>MUTE</button><button type="button" data-radio-stop>STOP</button><button type="button" class="radio-hide" data-radio-hide>×</button>`;
+    const playerLabel = isMobile() ? 'PORTAL' : 'PLAYER';
+    bar.innerHTML = `<span class="muted">RADIO</span><span class="radio-title">${esc(st.title)}</span><button type="button" data-radio-open>${playerLabel}</button><button type="button" data-radio-mute>MUTE</button><button type="button" data-radio-stop>STOP</button><button type="button" class="radio-hide" data-radio-hide>×</button>`;
     bar.querySelector('[data-radio-open]')?.addEventListener('click', openPlayer);
     bar.querySelector('[data-radio-mute]')?.addEventListener('click', () => setCommand('mute-toggle'));
     bar.querySelector('[data-radio-stop]')?.addEventListener('click', () => { setCommand('stop'); localStorage.removeItem(STATE_KEY); render(); });
