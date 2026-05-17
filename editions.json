@@ -1,0 +1,64 @@
+(() => {
+  const repo = "/all-business-news/";
+  function basePath(){ const p=location.pathname; const i=p.indexOf(repo); return i>=0 ? p.slice(0,i+repo.length) : "/"; }
+  function siteLink(path){ if(!path) return "#"; if(/^https?:|^mailto:|^viber:/.test(path)) return path; return basePath()+String(path).replace(/^\/+/,""); }
+  function esc(s){ return String(s||"").replace(/[&<>'"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"}[c])); }
+  function share(title, url){
+    const u=encodeURIComponent(url||location.href), t=encodeURIComponent(title||document.title);
+    return `<div class="share-mini"><strong>DIJELI</strong><a target="_blank" href="https://wa.me/?text=${t}%20${u}">WHATSAPP</a><a target="_blank" href="viber://forward?text=${t}%20${u}">VIBER</a><a target="_blank" href="https://twitter.com/intent/tweet?text=${t}&url=${u}">X</a><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=${u}">FACEBOOK</a><a target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url=${u}">LINKEDIN</a><a href="mailto:?subject=${t}&body=${u}">EMAIL</a></div>`;
+  }
+
+  async function getJson(path, fallback){
+    try{ const r=await fetch(siteLink(path),{cache:"no-store"}); if(!r.ok) throw new Error(r.status); return await r.json(); }catch(e){ return fallback; }
+  }
+
+  function installGlobalShare(){
+    const main=document.querySelector("main");
+    if(!main || main.querySelector(".page-share-added")) return;
+    const title=document.querySelector("h1")?.textContent || document.title;
+    const wrap=document.createElement("div");
+    wrap.className="page-share-added";
+    wrap.innerHTML=share(title, location.href);
+    const target=document.querySelector(".edition-detail, article, .hero");
+    if(target) target.insertAdjacentElement("afterend", wrap);
+  }
+
+  function ensureLightbox(){
+    let lb=document.getElementById("galleryLightbox");
+    if(lb) return lb;
+    lb=document.createElement("div");
+    lb.id="galleryLightbox";
+    lb.className="gallery-lightbox";
+    lb.innerHTML=`<div class="gallery-lightbox-panel"><button class="gallery-lightbox-close">×</button><img class="gallery-lightbox-image" alt=""><div class="gallery-lightbox-caption"><strong></strong><p></p></div></div>`;
+    document.body.appendChild(lb);
+    const close=()=>lb.classList.remove("active");
+    lb.querySelector(".gallery-lightbox-close").onclick=close;
+    lb.onclick=e=>{ if(e.target===lb) close(); };
+    document.addEventListener("keydown",e=>{ if(e.key==="Escape") close(); });
+    return lb;
+  }
+
+  function openGallery(img,title,desc){
+    const lb=ensureLightbox();
+    lb.querySelector("img").src=img;
+    lb.querySelector("strong").textContent=title||"";
+    lb.querySelector("p").textContent=desc||"";
+    lb.classList.add("active");
+  }
+
+  async function renderGalleryForce(){
+    const box=document.getElementById("galleryGrid");
+    if(!box) return;
+    const items=await getJson("data/manual_gallery.json", []);
+    box.innerHTML=(items||[]).slice(0,80).map(g=>{
+      const img=siteLink(g.image||g.path||"");
+      return `<article class="gallery-item"><button class="gallery-open" data-image="${esc(img)}" data-title="${esc(g.title)}" data-description="${esc(g.description||"")}"><img loading="lazy" src="${esc(img)}" alt=""></button><div><strong>${esc(g.title)}</strong><p>${esc(g.description||"")}</p>${share(g.title,img)}</div></article>`;
+    }).join("") || `<div class="legal-box"><p>GALERIJA JOŠ NEMA SLIKA.</p></div>`;
+    box.querySelectorAll(".gallery-open").forEach(b=>b.onclick=()=>openGallery(b.dataset.image,b.dataset.title,b.dataset.description));
+  }
+
+  document.addEventListener("DOMContentLoaded", () => {
+    installGlobalShare();
+    renderGalleryForce();
+  });
+})();

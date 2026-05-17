@@ -25,3 +25,24 @@
 #adminStatus{font-weight:800;color:#1f3c88}
 .post-card{background:#fff;border:1px solid var(--line);border-radius:22px;box-shadow:0 14px 38px rgba(15,23,42,.05);overflow:hidden}
 @media(max-width:700px){.share-mini,.share-detail{gap:6px}.share-mini a,.share-detail a{font-size:.68rem;padding:6px 8px}.control-panel h2{font-size:1.1rem}}
+
+
+/* 7.3 funkcionalna zakrpa: share, radio, admin, PDF viewer */
+.share-mini,.page-share-added .share-mini{display:flex;flex-wrap:wrap;gap:7px;align-items:center;margin:14px 0}
+.share-mini strong{font-size:.72rem;color:#64748b;font-weight:900;text-transform:uppercase;letter-spacing:.08em}
+.share-mini a{display:inline-flex;align-items:center;justify-content:center;min-height:30px;padding:6px 9px;border:1px solid var(--line,#dbe3ef);border-radius:999px;background:#fff;color:var(--brand,#1f3c88);text-decoration:none;font-size:.72rem;font-weight:900}
+.pdf-mobile-toolbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:16px 0;padding:12px;border:1px solid var(--line,#dbe3ef);border-radius:16px;background:#fff}
+.pdf-mobile-toolbar button,.pdf-mobile-toolbar a{display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--line,#dbe3ef);background:#fff;border-radius:999px;padding:9px 12px;text-decoration:none;color:var(--brand,#1f3c88);font-weight:900}
+.pdf-mobile-toolbar span{font-weight:900;color:#475467}
+.pdf-canvas-wrap{overflow:auto;background:#111827;border-radius:18px;padding:12px}
+.pdf-canvas-wrap canvas{display:block;margin:auto;background:#fff;max-width:none}
+.pdf-status{margin:8px 0;color:#64748b;font-weight:800;text-transform:uppercase;font-size:.78rem}
+.radio-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.radio-card{background:#fff;border:1px solid var(--line,#dbe3ef);border-radius:22px;box-shadow:0 14px 38px rgba(15,23,42,.05);padding:18px}
+.radio-card audio{width:100%;margin:12px 0}
+.admin-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.admin-box{background:#fff;border:1px solid var(--line,#dbe3ef);border-radius:22px;padding:18px;box-shadow:0 14px 38px rgba(15,23,42,.05)}
+.admin-box input,.admin-box textarea{width:100%;border:1px solid var(--line,#dbe3ef);border-radius:14px;padding:12px;margin:7px 0;font-size:16px}
+.admin-box textarea{min-height:95px}
+.admin-note{background:#fff7ed;border:1px solid #fed7aa;color:#7c2d12;border-radius:18px;padding:14px;font-weight:800}
+@media(max-width:700px){.radio-grid,.admin-grid{grid-template-columns:1fr}.pdf-mobile-toolbar button,.pdf-mobile-toolbar a{flex:1 1 42%;font-size:.78rem}.pdf-mobile-toolbar span{flex:1 1 100%;text-align:center}.pdf-canvas-wrap{padding:8px}.share-mini a{font-size:.68rem;padding:6px 8px}}
