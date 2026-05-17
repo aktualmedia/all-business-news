@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="hr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Radio Player | WEB VIJESTI</title>
+  <style>
+    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Arial,sans-serif;background:#0f172a;color:#fff;display:grid;place-items:center;min-height:100vh}.box{width:min(360px,calc(100% - 24px));background:#111c35;border:1px solid rgba(255,255,255,.18);border-radius:24px;padding:22px;box-shadow:0 22px 60px rgba(0,0,0,.35)}h1{font-size:1.4rem;margin:.2rem 0 1rem}.muted{color:#cbd5e1}.row{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}button,a{border:1px solid rgba(255,255,255,.24);background:rgba(255,255,255,.1);color:#fff;border-radius:999px;padding:9px 13px;text-decoration:none;font-weight:900;cursor:pointer}audio{width:100%;margin-top:12px}.status{margin-top:12px;color:#93c5fd;font-weight:800}
+  </style>
+</head>
+<body>
+  <main class="box">
+    <p class="muted">WEB VIJESTI RADIO</p>
+    <h1 id="title">Radio</h1>
+    <audio id="audio" controls autoplay></audio>
+    <p id="status" class="status">Pokrećem radio...</p>
+    <div class="row"><button id="mute">STIŠAJ</button><button id="stop">UGASI</button><a id="site" target="_blank" rel="noopener">SLUŽBENA STRANICA</a></div>
+  </main>
+<script>
+(()=>{
+  const qs=new URLSearchParams(location.search);
+  const title=qs.get('title')||'Radio'; const stream=qs.get('stream')||''; const site=qs.get('site')||stream;
+  const audio=document.getElementById('audio'); const status=document.getElementById('status');
+  document.getElementById('title').textContent=title; document.getElementById('site').href=site;
+  function setState(){ localStorage.setItem('wv_radio_state', JSON.stringify({title, stream, site, playing:!audio.paused, muted:audio.muted, volume:audio.volume, at:Date.now()})); }
+  if(stream){ audio.src=stream; audio.volume=0.9; audio.play().catch(()=>{status.textContent='Klikni PLAY za pokretanje radija.';}); setState(); }
+  audio.addEventListener('play',()=>{status.textContent='Svira.'; setState();}); audio.addEventListener('pause',()=>{status.textContent='Pauzirano.'; setState();}); audio.addEventListener('volumechange',setState); audio.addEventListener('error',()=>{status.textContent='Stream nije krenuo. Probaj službenu stranicu.';});
+  document.getElementById('mute').onclick=()=>{audio.muted=!audio.muted; document.getElementById('mute').textContent=audio.muted?'POJAČAJ':'STIŠAJ'; setState();};
+  document.getElementById('stop').onclick=()=>{audio.pause(); audio.src=''; localStorage.removeItem('wv_radio_state'); window.close();};
+  window.addEventListener('storage',e=>{ if(e.key==='wv_radio_command'){ try{ const c=JSON.parse(e.newValue||'{}'); if(c.cmd==='stop'){audio.pause(); audio.src=''; window.close();} if(c.cmd==='mute-toggle'){audio.muted=!audio.muted; setState();} }catch(err){} } });
+})();
+</script>
+</body>
+</html>
