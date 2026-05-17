@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "ef543ab3ebf997ba",
+    "title": "Izložbe / . - . Izložba iz ciklusa Zato kaj volim Zagreb",
+    "date": "2026-05-21",
+    "datetime": "2026-05-21T00:00:00+00:00",
+    "city": "Zagreb",
+    "venue": "Muzej grada Zagreba",
+    "institution": "Muzej grada Zagreba",
+    "type": "izložba",
+    "source": "Muzej grada Zagreba",
+    "url": "https://www.mgz.hr/hr/izlozbe/izlozba/izlozba-iz-ciklusa-zato-kaj-volim-zagreb,3810.html",
+    "description": "",
+    "image": null,
+    "fetched_at": "2026-05-17T18:19:27.098607+00:00"
+  },
+  {
+    "id": "cb8687fa82192aa4",
+    "title": "Izložbe / . - . Gostujuća izložba Ljepota je u ženskom imenu u Muzeju grada Zagreba",
+    "date": "2026-05-26",
+    "datetime": "2026-05-26T00:00:00+00:00",
+    "city": "Zagreb",
+    "venue": "Muzej grada Zagreba",
+    "institution": "Muzej grada Zagreba",
+    "type": "izložba",
+    "source": "Muzej grada Zagreba",
+    "url": "https://www.mgz.hr/hr/izlozbe/izlozba/gostuju%c4%87a-izlozba-ljepota-je-u-zenskom-imenu-u-muzeju-grada-zagreba,3812.html",
+    "description": "",
+    "image": null,
+    "fetched_at": "2026-05-17T18:19:27.098534+00:00"
+  }
+]

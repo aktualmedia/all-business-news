@@ -1,7 +1,129 @@
 {
-  "updated_at": null,
-  "sources": 0,
-  "ok_sources": 0,
-  "events_count": 0,
-  "results": []
+  "updated_at": "2026-05-17T18:19:31.137659+00:00",
+  "sources": 13,
+  "ok_sources": 1,
+  "events_count": 2,
+  "results": [
+    {
+      "id": "infozagreb-events",
+      "name": "Info Zagreb / Zagreb events",
+      "url": "https://www.infozagreb.hr/events",
+      "city": "Zagreb",
+      "type": "opći kalendar",
+      "status": "empty",
+      "count": 0
+    },
+    {
+      "id": "lisinski",
+      "name": "Koncertna dvorana Vatroslava Lisinskog",
+      "url": "https://www.lisinski.hr/hr/dogadanja/",
+      "city": "Zagreb",
+      "type": "koncerti",
+      "status": "empty",
+      "count": 0
+    },
+    {
+      "id": "hnk-zagreb",
+      "name": "HNK Zagreb",
+      "url": "https://www.hnk.hr/hr/program/",
+      "city": "Zagreb",
+      "type": "kazalište",
+      "status": "failed",
+      "count": 0,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "kerempuh",
+      "name": "Kazalište Kerempuh",
+      "url": "https://www.kazalistekerempuh.hr/repertoar/",
+      "city": "Zagreb",
+      "type": "kazalište",
+      "status": "empty",
+      "count": 0
+    },
+    {
+      "id": "zekaem",
+      "name": "Zagrebačko kazalište mladih",
+      "url": "https://www.zekaem.hr/repertoar/",
+      "city": "Zagreb",
+      "type": "kazalište",
+      "status": "failed",
+      "count": 0,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "gavella",
+      "name": "Gavella",
+      "url": "https://www.gavella.hr/predstave/",
+      "city": "Zagreb",
+      "type": "kazalište",
+      "status": "empty",
+      "count": 0
+    },
+    {
+      "id": "msu",
+      "name": "Muzej suvremene umjetnosti Zagreb",
+      "url": "https://www.msu.hr/dogadanja/",
+      "city": "Zagreb",
+      "type": "muzej / izložbe",
+      "status": "failed",
+      "count": 0,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)>"
+    },
+    {
+      "id": "klovicevi-dvori",
+      "name": "Galerija Klovićevi dvori",
+      "url": "https://gkd.hr/izlozbe/",
+      "city": "Zagreb",
+      "type": "galerija / izložbe",
+      "status": "empty",
+      "count": 0
+    },
+    {
+      "id": "tehnicki-muzej",
+      "name": "Tehnički muzej Nikola Tesla",
+      "url": "https://tmnt.hr/program/",
+      "city": "Zagreb",
+      "type": "muzej",
+      "status": "failed",
+      "count": 0,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "etnografski-muzej",
+      "name": "Etnografski muzej Zagreb",
+      "url": "https://emz.hr/izlozbe/",
+      "city": "Zagreb",
+      "type": "muzej",
+      "status": "empty",
+      "count": 0
+    },
+    {
+      "id": "muzej-grada-zagreba",
+      "name": "Muzej grada Zagreba",
+      "url": "https://www.mgz.hr/hr/izlozbe/",
+      "city": "Zagreb",
+      "type": "muzej",
+      "status": "ok",
+      "count": 2
+    },
+    {
+      "id": "havc",
+      "name": "HAVC",
+      "url": "https://havc.hr/",
+      "city": "Hrvatska",
+      "type": "film",
+      "status": "empty",
+      "count": 0
+    },
+    {
+      "id": "zagreb-film-festival",
+      "name": "Zagreb Film Festival",
+      "url": "https://zff.hr/",
+      "city": "Zagreb",
+      "type": "film / festival",
+      "status": "empty",
+      "count": 0
+    }
+  ]
 }
