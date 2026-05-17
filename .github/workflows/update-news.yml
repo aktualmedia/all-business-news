@@ -1,0 +1,33 @@
+name: Update vijesti - rucno i automatski
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repozitorija
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Postavi Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Azuriraj vijesti
+        run: |
+          python update_news.py
+      - name: Spremi promjene
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/news.json data/category_news data/generated_at.json data/source_stats.json
+          git commit -m "Rucno ili automatsko azuriranje vijesti" || echo "Nema promjena za commit"
+          git pull --rebase || true
+          git push || true
