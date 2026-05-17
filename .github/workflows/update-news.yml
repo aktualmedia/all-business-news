@@ -3,7 +3,10 @@ name: Update vijesti - rucno i automatski
 on:
   workflow_dispatch:
   schedule:
+    # Primarni satni update: svako puno vrijeme + 7 minuta
     - cron: "7 * * * *"
+    # Rezervni okidač: ako GitHub preskoči satni termin zbog opterećenja
+    - cron: "37 * * * *"
   push:
     branches:
       - main
@@ -15,14 +18,17 @@ on:
 permissions:
   contents: write
 
+env:
+  TZ: Europe/Zagreb
+
 concurrency:
   group: update-vijesti
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   update-news:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 45
     steps:
       - name: Checkout repozitorija
         uses: actions/checkout@v4
@@ -37,14 +43,16 @@ jobs:
 
       - name: Azuriraj vijesti i galeriju
         run: |
-          python update_news.py
+          echo "START UPDATE: $(date -u)"
+          python update_news.py || echo "update_news.py nije prosao do kraja, nastavljam postprocess"
           python postprocess_news.py
+          echo "END UPDATE: $(date -u)"
 
       - name: Spremi promjene
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data/news.json data/archive.json data/category_news data/category_counts.json data/generated_at.json data/source_stats.json data/manual_gallery.json
-          git commit -m "Rucno ili automatsko azuriranje vijesti i galerije" || echo "Nema promjena za commit"
+          git commit -m "Automatsko azuriranje vijesti i galerije" || echo "Nema promjena za commit"
           git pull --rebase || true
           git push || true
