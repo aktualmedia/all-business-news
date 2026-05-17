@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="hr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>KALENDAR DOGAĐANJA | WEB VIJESTI</title>
+  <meta name="description" content="Kalendar događanja u muzejima, kazalištima, galerijama, kinima i kulturnim institucijama. Filtriranje po datumu, gradu, ustanovi i tipu događanja.">
+  <meta name="keywords" content="kalendar događanja, muzeji, kazališta, galerije, izložbe, film, koncerti, Zagreb, kultura, WEB VIJESTI, Aktual Media">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <link rel="stylesheet" href="../assets/style.css">
+  <link rel="stylesheet" href="../assets/editorial-redesign.css">
+  <script>window.WV_PAGE="calendar"; window.WV_CATEGORY="";</script>
+  <style>
+    .calendar-toolbar{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:18px 0;padding:14px;border:1px solid var(--line,#ded7c8);background:#fff}.calendar-toolbar input,.calendar-toolbar select{border:1px solid var(--line,#ded7c8);border-radius:999px;padding:10px 12px;font-weight:800;background:#fff;color:#111}.calendar-stats{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0}.calendar-stats span{background:#f7f6f2;border:1px solid var(--line,#ded7c8);border-radius:999px;padding:8px 12px;font-weight:900;color:#555}.calendar-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.event-card{background:#fff;border:1px solid var(--line,#ded7c8);border-radius:0;padding:18px;box-shadow:none}.event-card h3{font-family:Georgia,'Times New Roman',serif;font-size:1.35rem;font-weight:500;margin:.2rem 0 .6rem}.event-meta{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px}.event-meta span{background:#f7f6f2;border:1px solid var(--line,#ded7c8);border-radius:999px;padding:6px 9px;font-size:.72rem;font-weight:900;text-transform:uppercase;color:#555}.event-card p{color:#555}.event-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}.event-actions a{border:1px solid var(--line,#ded7c8);border-radius:999px;padding:7px 10px;text-decoration:none;color:#111;font-weight:900;font-size:.75rem}.event-actions a:hover{border-color:#c8a44d;color:#9b7a24}.status-box{border:1px solid var(--line,#ded7c8);background:#fff;padding:14px;margin:14px 0;color:#555;font-weight:800}@media(max-width:800px){.calendar-toolbar{grid-template-columns:1fr}.calendar-grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body data-page="calendar">
+<header class="site-header"><a class="brand" href="../index.html"><span class="brand-mark">WV</span><span><strong>WEB VIJESTI</strong><small>AKTUAL MEDIA D.O.O.</small></span></a><nav class="top-nav"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../objave/index.html">OBJAVE</a><a href="../kalendar/index.html">KALENDAR DOGAĐANJA</a><a href="../symbol/index.html">SYMBOL</a><a href="../symbol-galerija/index.html">SYMBOL GALERIJA</a><a href="../galerija/index.html">GALERIJA</a><a href="../radio/index.html">RADIO</a></nav></header>
+<main class="page-shell">
+  <a class="home-button" href="../index.html">HOME – POVRATAK</a>
+  <section class="hero compact"><p class="eyebrow">KULTURA · DOGAĐANJA</p><h1>KALENDAR DOGAĐANJA</h1><p class="lead">Muzeji, kazališta, galerije, film, koncerti i kulturni programi — razvrstano po datumu, gradu, ustanovi i tipu događanja.</p></section>
+  <section class="calendar-toolbar"><input id="calSearch" type="search" placeholder="Pretraži događanja..."><select id="calDate"><option value="all">Svi datumi</option><option value="today">Danas</option><option value="week">Ovaj tjedan</option><option value="month">Ovaj mjesec</option></select><select id="calCity"><option value="all">Svi gradovi</option></select><select id="calType"><option value="all">Sve vrste</option></select></section>
+  <div id="calStats" class="calendar-stats"></div>
+  <div id="calStatus" class="status-box">Učitavanje kalendara...</div>
+  <section id="calendarGrid" class="calendar-grid"></section>
+</main>
+<nav class="mobile-bottom-nav"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../kalendar/index.html">KALENDAR</a><a href="../symbol/index.html">SYMBOL</a></nav>
+<script>
+(async()=>{
+ const grid=document.getElementById('calendarGrid'), status=document.getElementById('calStatus'), stats=document.getElementById('calStats');
+ const search=document.getElementById('calSearch'), dateSel=document.getElementById('calDate'), citySel=document.getElementById('calCity'), typeSel=document.getElementById('calType');
+ const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+ let events=[], meta={};
+ function parseDay(s){ const d=new Date(s+'T00:00:00'); return isNaN(d)?null:d; }
+ function inDateRange(e){ if(dateSel.value==='all')return true; const d=parseDay(e.date); if(!d)return true; const now=new Date(); const today=new Date(now.getFullYear(),now.getMonth(),now.getDate()); const diff=(d-today)/86400000; if(dateSel.value==='today')return diff>=0&&diff<1; if(dateSel.value==='week')return diff>=0&&diff<7; if(dateSel.value==='month')return d.getFullYear()===today.getFullYear()&&d.getMonth()===today.getMonth(); return true; }
+ function renderFilters(){ const cities=[...new Set(events.map(e=>e.city).filter(Boolean))].sort(); const types=[...new Set(events.map(e=>e.type).filter(Boolean))].sort(); citySel.innerHTML='<option value="all">Svi gradovi</option>'+cities.map(c=>`<option value="${esc(c)}">${esc(c)}</option>`).join(''); typeSel.innerHTML='<option value="all">Sve vrste</option>'+types.map(t=>`<option value="${esc(t)}">${esc(t)}</option>`).join(''); }
+ function filtered(){ const q=(search.value||'').toLowerCase(); return events.filter(e=>{ if(citySel.value!=='all'&&e.city!==citySel.value)return false; if(typeSel.value!=='all'&&e.type!==typeSel.value)return false; if(!inDateRange(e))return false; if(q && ![e.title,e.venue,e.institution,e.type,e.city,e.description].join(' ').toLowerCase().includes(q))return false; return true; }); }
+ function render(){ const arr=filtered(); stats.innerHTML=`<span>${arr.length} događaja u prikazu</span><span>${events.length} ukupno</span><span>Zadnje: ${meta.updated_at?new Date(meta.updated_at).toLocaleString('hr-HR'):'nije dostupno'}</span>`; if(!arr.length){grid.innerHTML='<article class="event-card"><h3>Nema pronađenih događanja</h3><p>Promijeni filter ili pričekaj sljedeću dnevnu sinkronizaciju.</p></article>';return;} grid.innerHTML=arr.map(e=>`<article class="event-card"><div class="event-meta"><span>${esc(e.date)}</span><span>${esc(e.city||'')}</span><span>${esc(e.type||'događanje')}</span><span>${esc(e.institution||'')}</span></div><h3>${esc(e.title)}</h3><p>${esc(e.description||'')}</p><div class="event-actions"><a href="${esc(e.url)}" target="_blank" rel="noopener">OTVORI IZVOR</a></div></article>`).join(''); }
+ try{ const [ev,st]=await Promise.all([fetch('../data/events_calendar.json',{cache:'no-store'}).then(r=>r.ok?r.json():[]),fetch('../data/events_status.json',{cache:'no-store'}).then(r=>r.ok?r.json():{})]); events=Array.isArray(ev)?ev:[]; meta=st||{}; status.textContent=`Izvori: ${meta.ok_sources||0}/${meta.sources||0} · događanja: ${meta.events_count||events.length}`; renderFilters(); render(); }catch(e){ status.textContent='Kalendar se nije učitao.'; }
+ [search,dateSel,citySel,typeSel].forEach(el=>el.addEventListener('input',render));
+})();
+</script>
+<script src="../assets/global-radio.js" defer></script><script src="../assets/seo-meta.js" defer></script>
+</body>
+</html>
