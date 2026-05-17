@@ -6,17 +6,17 @@
   <title>Radio portal | WEB VIJESTI</title>
   <style>
     *{box-sizing:border-box}
-    body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Arial,sans-serif;background:#f6f8fc;color:#0f172a;min-height:100vh;display:grid;grid-template-rows:auto 1fr}
-    .player{background:#1f3c88;color:#fff;padding:6px 12px;box-shadow:0 4px 16px rgba(15,23,42,.16);z-index:5}
-    .bar{display:flex;align-items:center;justify-content:center;gap:8px;min-height:32px;white-space:nowrap;overflow-x:auto;margin:0 auto;max-width:1180px}
-    .brand{font-weight:1000;font-size:.78rem;letter-spacing:.05em;opacity:.95;text-transform:uppercase}
-    .now{font-weight:900;font-size:.72rem;max-width:220px;overflow:hidden;text-overflow:ellipsis;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.18);border-radius:999px;padding:4px 8px}
-    .song{font-size:.7rem;max-width:340px;overflow:hidden;text-overflow:ellipsis;opacity:.92}
-    .bar select,.bar button,.bar a{border:1px solid rgba(255,255,255,.26);background:rgba(255,255,255,.11);color:#fff;border-radius:999px;padding:4px 8px;font-weight:900;font-size:.64rem;line-height:1.1;height:24px;text-decoration:none}
-    .bar select{min-width:180px;max-width:230px}.bar option{color:#111}.bar button{cursor:pointer;flex:0 0 auto}.bar a{display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto}
-    .content{display:grid;place-items:center;padding:24px}.card{width:min(920px,calc(100% - 20px));background:#fff;border:1px solid #dbe3ef;border-radius:24px;padding:26px;box-shadow:0 16px 45px rgba(15,23,42,.08);text-align:center}.card h1{margin:.2rem 0 10px;font-size:clamp(1.8rem,4vw,3rem)}.card p{color:#475467;line-height:1.65}.hint{display:inline-flex;background:#eef2ff;color:#1f3c88;border-radius:999px;padding:8px 12px;font-weight:900;text-transform:uppercase;font-size:.75rem;margin-bottom:10px}
+    body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Arial,sans-serif;background:#f6f8fc;color:#0f172a;height:100vh;display:grid;grid-template-rows:auto 1fr;overflow:hidden}
+    .player{background:#1f3c88;color:#fff;padding:5px 10px;box-shadow:0 4px 16px rgba(15,23,42,.16);z-index:5}
+    .bar{display:flex;align-items:center;justify-content:center;gap:8px;min-height:30px;white-space:nowrap;overflow-x:auto;margin:0 auto;max-width:1180px}
+    .brand{font-weight:1000;font-size:.74rem;letter-spacing:.05em;opacity:.95;text-transform:uppercase;flex:0 0 auto}
+    .now{font-weight:900;font-size:.7rem;max-width:220px;overflow:hidden;text-overflow:ellipsis;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.18);border-radius:999px;padding:4px 8px;flex:0 1 auto}
+    .song{font-size:.68rem;max-width:340px;overflow:hidden;text-overflow:ellipsis;opacity:.92;flex:0 1 auto}
+    .bar select,.bar button,.bar a{border:1px solid rgba(255,255,255,.26);background:rgba(255,255,255,.11);color:#fff;border-radius:999px;padding:4px 8px;font-weight:900;font-size:.62rem;line-height:1.1;height:23px;text-decoration:none;flex:0 0 auto}
+    .bar select{min-width:170px;max-width:220px}.bar option{color:#111}.bar button{cursor:pointer}
+    .frame{width:100%;height:100%;border:0;background:#fff;display:block}
     audio{display:none}
-    @media(max-width:700px){.player{padding:5px 6px}.bar{min-height:28px;gap:5px;justify-content:flex-start}.brand{font-size:.58rem}.now{font-size:.56rem;max-width:96px;padding:3px 6px}.song{display:none}.bar select{min-width:112px;max-width:130px;font-size:.54rem;height:21px;padding:2px 5px}.bar button,.bar a{font-size:.52rem;height:21px;padding:2px 5px}.content{padding:14px}.card{padding:18px;text-align:left}}
+    @media(max-width:700px){.player{padding:4px 5px}.bar{min-height:25px;gap:5px;justify-content:flex-start}.brand{font-size:.58rem}.now{font-size:.56rem;max-width:92px;padding:3px 6px}.song{display:none}.bar select{min-width:108px;max-width:128px;font-size:.53rem;height:20px;padding:2px 5px}.bar button,.bar a{font-size:.52rem;height:20px;padding:2px 5px}}
   </style>
 </head>
 <body>
@@ -33,14 +33,7 @@
     </div>
     <audio id="audio" preload="none"></audio>
   </section>
-  <main class="content">
-    <section class="card">
-      <span class="hint">WEB VIJESTI RADIO</span>
-      <h1>Radio player</h1>
-      <p>Odaberi stanicu, klikni PLAY i nastavi koristiti web u drugom tabu ili prozoru. Kontrole su svedene na tanku plavu traku na vrhu.</p>
-      <p>Ako stanica šalje podatke o pjesmi, naziv pjesme prikazuje se u traci. Kod nekih streamova metapodaci nisu javno dostupni, pa ostaje prikazan samo naziv radija.</p>
-    </section>
-  </main>
+  <iframe id="content" class="frame" src="../index.html"></iframe>
 <script>
 (async()=>{
   const audio=document.getElementById('audio'), sel=document.getElementById('station'), now=document.getElementById('now'), song=document.getElementById('song'), official=document.getElementById('official');
