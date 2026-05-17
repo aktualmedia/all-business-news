@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "title": "Admin objave i mobilni unos sadržaja",
+    "author": "Nermin Sefić",
+    "summary": "Objave se mogu pripremati iz admin sučelja na mobitelu, uz naslov, tekst, fotografiju i poveznicu.",
+    "body": "Cilj admin sučelja je da se sadržaj može dodati brzo, izravno s mobitela, bez rada na računalu. Za javnu objavu na GitHub Pagesu potreban je GitHub token jer statička stranica sama ne može pisati u repozitorij.",
+    "category": "komentar",
+    "created_at": "2026-05-17T00:00:00+02:00"
+  }
+]
