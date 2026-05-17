@@ -1,13 +1,16 @@
 {
-  "updated_at": "2026-05-17T10:45:23.300417+00:00",
+  "updated_at": "2026-05-17T11:22:18.502981+00:00",
   "sources": 180,
-  "ok_sources": 61,
-  "failed_sources": 53,
+  "ok_sources": 59,
+  "failed_sources": 56,
   "items_by_source": {
-    "Variety": 29,
-    "Investing.com News": 21,
-    "Wired": 41,
+    "Variety": 33,
+    "Quartz": 37,
     "Forbes Innovation": 34,
+    "Wired": 42,
+    "FreightWaves": 39,
+    "The Register": 40,
+    "Investing.com News": 23,
     "Deadline": 28,
     "InsideHook": 24,
     "MarketWatch Top Stories": 13,
@@ -16,15 +19,12 @@
     "Wallpaper": 46,
     "Designboom": 12,
     "Monochrome Watches": 11,
-    "Quartz": 35,
     "Fratello": 12,
-    "The Register": 39,
     "Hypebeast": 26,
     "Finance Monthly": 37,
-    "ArchDaily": 22,
+    "ArchDaily": 23,
     "Yanko Design": 14,
     "Medical Xpress": 33,
-    "FreightWaves": 38,
     "Phys.org": 30,
     "VentureBeat": 8,
     "Engadget": 21,
@@ -222,26 +222,10 @@
       "status": "ok"
     },
     {
-      "id": "src-085",
-      "name": "Medical Xpress",
-      "category": "znanost",
-      "url": "https://medicalxpress.com/rss-feed/",
-      "count": 12,
-      "status": "ok"
-    },
-    {
       "id": "src-081",
       "name": "New Scientist",
       "category": "znanost",
       "url": "https://www.newscientist.com/feed/home/",
-      "count": 12,
-      "status": "ok"
-    },
-    {
-      "id": "src-077",
-      "name": "Phys.org",
-      "category": "znanost",
-      "url": "https://phys.org/rss-feed/",
       "count": 12,
       "status": "ok"
     },
@@ -315,6 +299,14 @@
       "category": "dizajn",
       "url": "https://www.wallpaper.com/rss",
       "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-063",
+      "name": "Wired",
+      "category": "tehnologija",
+      "url": "https://www.wired.com/feed/rss",
+      "count": 11,
       "status": "ok"
     },
     {
@@ -462,14 +454,6 @@
       "status": "ok"
     },
     {
-      "id": "src-063",
-      "name": "Wired",
-      "category": "tehnologija",
-      "url": "https://www.wired.com/feed/rss",
-      "count": 10,
-      "status": "ok"
-    },
-    {
       "id": "src-160",
       "name": "Worn & Wound",
       "category": "satovi",
@@ -534,19 +518,19 @@
       "status": "ok"
     },
     {
+      "id": "src-036",
+      "name": "Investing.com News",
+      "category": "financije",
+      "url": "https://www.investing.com/rss/news.rss",
+      "count": 7,
+      "status": "ok"
+    },
+    {
       "id": "src-067",
       "name": "VentureBeat",
       "category": "tehnologija",
       "url": "https://venturebeat.com/feed/",
       "count": 7,
-      "status": "ok"
-    },
-    {
-      "id": "src-036",
-      "name": "Investing.com News",
-      "category": "financije",
-      "url": "https://www.investing.com/rss/news.rss",
-      "count": 6,
       "status": "ok"
     },
     {
@@ -1168,6 +1152,15 @@
       "status": "empty"
     },
     {
+      "id": "src-085",
+      "name": "Medical Xpress",
+      "category": "znanost",
+      "url": "https://medicalxpress.com/rss-feed/",
+      "count": 0,
+      "status": "failed",
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
+    },
+    {
       "id": "src-073",
       "name": "Microsoft Blog",
       "category": "tehnologija",
@@ -1189,7 +1182,8 @@
       "category": "trzista",
       "url": "https://www.mining.com/feed/",
       "count": 0,
-      "status": "empty"
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-129",
@@ -1323,6 +1317,15 @@
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "src-077",
+      "name": "Phys.org",
+      "category": "znanost",
+      "url": "https://phys.org/rss-feed/",
+      "count": 0,
+      "status": "failed",
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "id": "src-147",
