@@ -1,0 +1,30 @@
+[
+  {
+    "title": "OTVORENI RADIO",
+    "country": "HRVATSKA",
+    "description": "Hrvatski radijski stream. Ako player ne krene odmah, klikni play ili otvori službenu stranicu.",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OTVORENI.mp3",
+    "site": "https://www.otvoreni.hr/"
+  },
+  {
+    "title": "NARODNI RADIO",
+    "country": "HRVATSKA",
+    "description": "Hrvatski radijski stream.",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NARODNI.mp3",
+    "site": "https://narodni.hr/"
+  },
+  {
+    "title": "BBC WORLD SERVICE",
+    "country": "UK / INTERNATIONAL",
+    "description": "Međunarodni informativni radio na engleskom jeziku.",
+    "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "site": "https://www.bbc.com/audio"
+  },
+  {
+    "title": "FRANCEINFO",
+    "country": "FRANCUSKA",
+    "description": "Francuski informativni radio stream.",
+    "stream": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
+    "site": "https://www.francetvinfo.fr/replay-radio/direct"
+  }
+]
