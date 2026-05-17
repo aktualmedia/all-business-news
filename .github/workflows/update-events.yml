@@ -1,0 +1,47 @@
+name: Update kalendar dogadjanja
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 4 * * *"
+
+permissions:
+  contents: write
+
+env:
+  TZ: Europe/Zagreb
+
+concurrency:
+  group: update-events
+  cancel-in-progress: true
+
+jobs:
+  update-events:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout repozitorija
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Postavi Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Azuriraj kalendar dogadjanja
+        run: |
+          echo "START EVENTS UPDATE: $(date -u)"
+          python update_events.py
+          echo "END EVENTS UPDATE: $(date -u)"
+
+      - name: Spremi promjene
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/events_calendar.json data/events_status.json
+          git commit -m "Automatsko azuriranje kalendara dogadjanja" || echo "Nema promjena za commit"
+          git pull --rebase || true
+          git push || true
