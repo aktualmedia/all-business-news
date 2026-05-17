@@ -5,11 +5,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Radio portal | WEB VIJESTI</title>
   <style>
-    *{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Arial,sans-serif;background:#0f172a;color:#fff;height:100vh;display:grid;grid-template-rows:auto 1fr}.player{background:#1f3c88;padding:3px 8px;box-shadow:0 4px 14px rgba(15,23,42,.18);z-index:5}.bar{display:flex;align-items:center;gap:6px;min-height:28px;white-space:nowrap;overflow-x:auto}.brand{font-weight:1000;font-size:.72rem;letter-spacing:.04em;opacity:.9}.now{font-weight:900;font-size:.7rem;max-width:28vw;overflow:hidden;text-overflow:ellipsis}.bar select,.bar button{border:1px solid rgba(255,255,255,.24);background:rgba(255,255,255,.10);color:#fff;border-radius:999px;padding:3px 7px;font-weight:900;font-size:.62rem;line-height:1.1;height:22px}.bar select{min-width:150px;max-width:210px}.bar option{color:#111}.bar button{cursor:pointer;flex:0 0 auto}.frame{width:100%;height:100%;border:0;background:#fff}@media(max-width:700px){.player{padding:2px 5px}.bar{min-height:24px;gap:4px}.brand{font-size:.6rem}.now{font-size:.58rem;max-width:22vw}.bar select{min-width:115px;max-width:130px;font-size:.56rem;height:20px;padding:2px 5px}.bar button{font-size:.54rem;height:20px;padding:2px 5px}}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Arial,sans-serif;background:#f6f8fc;color:#0f172a;min-height:100vh;display:grid;grid-template-rows:auto 1fr}
+    .player{background:#1f3c88;color:#fff;padding:6px 12px;box-shadow:0 4px 16px rgba(15,23,42,.16);z-index:5}
+    .bar{display:flex;align-items:center;justify-content:center;gap:8px;min-height:32px;white-space:nowrap;overflow-x:auto;margin:0 auto;max-width:1180px}
+    .brand{font-weight:1000;font-size:.78rem;letter-spacing:.05em;opacity:.95;text-transform:uppercase}
+    .now{font-weight:900;font-size:.72rem;max-width:220px;overflow:hidden;text-overflow:ellipsis;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.18);border-radius:999px;padding:4px 8px}
+    .song{font-size:.7rem;max-width:340px;overflow:hidden;text-overflow:ellipsis;opacity:.92}
+    .bar select,.bar button,.bar a{border:1px solid rgba(255,255,255,.26);background:rgba(255,255,255,.11);color:#fff;border-radius:999px;padding:4px 8px;font-weight:900;font-size:.64rem;line-height:1.1;height:24px;text-decoration:none}
+    .bar select{min-width:180px;max-width:230px}.bar option{color:#111}.bar button{cursor:pointer;flex:0 0 auto}.bar a{display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto}
+    .content{display:grid;place-items:center;padding:24px}.card{width:min(920px,calc(100% - 20px));background:#fff;border:1px solid #dbe3ef;border-radius:24px;padding:26px;box-shadow:0 16px 45px rgba(15,23,42,.08);text-align:center}.card h1{margin:.2rem 0 10px;font-size:clamp(1.8rem,4vw,3rem)}.card p{color:#475467;line-height:1.65}.hint{display:inline-flex;background:#eef2ff;color:#1f3c88;border-radius:999px;padding:8px 12px;font-weight:900;text-transform:uppercase;font-size:.75rem;margin-bottom:10px}
+    audio{display:none}
+    @media(max-width:700px){.player{padding:5px 6px}.bar{min-height:28px;gap:5px;justify-content:flex-start}.brand{font-size:.58rem}.now{font-size:.56rem;max-width:96px;padding:3px 6px}.song{display:none}.bar select{min-width:112px;max-width:130px;font-size:.54rem;height:21px;padding:2px 5px}.bar button,.bar a{font-size:.52rem;height:21px;padding:2px 5px}.content{padding:14px}.card{padding:18px;text-align:left}}
   </style>
 </head>
 <body>
-  <section id="player" class="player">
+  <section class="player">
     <div class="bar">
       <span class="brand">RADIO</span>
       <span id="now" class="now">NIJE POKRENUT</span>
@@ -17,32 +28,52 @@
       <button id="play">PLAY</button>
       <button id="mute">MUTE</button>
       <button id="stop">STOP</button>
-      <button data-page="../index.html">HOME</button>
-      <button data-page="../vijesti/index.html">VIJESTI</button>
-      <button data-page="../objave/index.html">OBJAVE</button>
-      <button data-page="../symbol/index.html">SYMBOL</button>
-      <button data-page="../galerija/index.html">GALERIJA</button>
+      <a id="official" target="_blank" rel="noopener">STRANICA</a>
+      <span id="song" class="song">PJESMA: —</span>
     </div>
-    <audio id="audio" preload="none" style="display:none"></audio>
+    <audio id="audio" preload="none"></audio>
   </section>
-  <iframe id="content" class="frame" src="../index.html"></iframe>
+  <main class="content">
+    <section class="card">
+      <span class="hint">WEB VIJESTI RADIO</span>
+      <h1>Radio player</h1>
+      <p>Odaberi stanicu, klikni PLAY i nastavi koristiti web u drugom tabu ili prozoru. Kontrole su svedene na tanku plavu traku na vrhu.</p>
+      <p>Ako stanica šalje podatke o pjesmi, naziv pjesme prikazuje se u traci. Kod nekih streamova metapodaci nisu javno dostupni, pa ostaje prikazan samo naziv radija.</p>
+    </section>
+  </main>
 <script>
 (async()=>{
-  const audio=document.getElementById('audio'), sel=document.getElementById('station'), now=document.getElementById('now'), frame=document.getElementById('content');
-  const fallback=[{title:'80s Hits Radio',stream:'https://stream.laut.fm/80er-zone',site:'https://laut.fm/80er-zone'},{title:'90s Revival Radio',stream:'https://stream.laut.fm/90er-revival',site:'https://laut.fm/90er-revival'},{title:'BBC World Service',stream:'https://stream.live.vc.bbcmedia.co.uk/bbc_world_service',site:'https://www.bbc.com/audio'}];
-  let stations=fallback;
+  const audio=document.getElementById('audio'), sel=document.getElementById('station'), now=document.getElementById('now'), song=document.getElementById('song'), official=document.getElementById('official');
+  const fallback=[{title:'80s Hits Radio',stream:'https://stream.laut.fm/80er-zone',site:'https://laut.fm/80er-zone',meta:'laut.fm/80er-zone'},{title:'90s Revival Radio',stream:'https://stream.laut.fm/90er-revival',site:'https://laut.fm/90er-revival',meta:'laut.fm/90er-revival'},{title:'BBC World Service',stream:'https://stream.live.vc.bbcmedia.co.uk/bbc_world_service',site:'https://www.bbc.com/audio'}];
+  let stations=fallback, metaTimer=null;
   try{const r=await fetch('../data/radio.json',{cache:'no-store'}); if(r.ok) stations=await r.json();}catch(e){}
+  stations=stations.map(s=>{ if(!s.meta && String(s.stream||'').includes('laut.fm/')){ const m=String(s.stream).match(/laut\.fm\/([^/?#]+)/); if(m) s.meta='laut.fm/'+m[1]; } if(!s.meta && String(s.site||'').includes('laut.fm/')){ const m=String(s.site).match(/laut\.fm\/([^/?#]+)/); if(m) s.meta='laut.fm/'+m[1]; } return s; });
   sel.innerHTML=stations.map((s,i)=>`<option value="${i}">${s.title}</option>`).join('');
-  function state(st){ localStorage.setItem('wv_radio_state',JSON.stringify({title:st.title,stream:st.stream,site:st.site,playing:!audio.paused,muted:audio.muted,volume:audio.volume,at:Date.now()})); now.textContent=st.title; }
-  async function play(){ const st=stations[Number(sel.value)||0]; if(audio.src!==st.stream) audio.src=st.stream; audio.play().then(()=>state(st)).catch(()=>{now.textContent='KLIKNI PLAY: '+st.title; state(st);}); }
+  function current(){ return stations[Number(sel.value)||0] || stations[0]; }
+  function state(st){ localStorage.setItem('wv_radio_state',JSON.stringify({title:st.title,stream:st.stream,site:st.site,playing:!audio.paused,muted:audio.muted,volume:audio.volume,at:Date.now()})); now.textContent=st.title; official.href=st.site||st.stream||'#'; }
+  async function updateSong(st){
+    if(metaTimer){ clearInterval(metaTimer); metaTimer=null; }
+    song.textContent='PJESMA: —';
+    async function poll(){
+      try{
+        if(st.meta && st.meta.startsWith('laut.fm/')){
+          const station=st.meta.split('/')[1];
+          const r=await fetch('https://api.laut.fm/station/'+encodeURIComponent(station)+'/current_song',{cache:'no-store'});
+          if(r.ok){ const data=await r.json(); const artist=data.artist?.name||data.artist||''; const title=data.title||data.name||''; if(artist||title) song.textContent='PJESMA: '+[artist,title].filter(Boolean).join(' - '); }
+        }
+      }catch(e){}
+    }
+    await poll();
+    metaTimer=setInterval(poll,30000);
+  }
+  async function play(){ const st=current(); if(audio.src!==st.stream) audio.src=st.stream; audio.play().then(()=>{state(st); updateSong(st);}).catch(()=>{now.textContent='KLIKNI PLAY: '+st.title; state(st); updateSong(st);}); }
   document.getElementById('play').onclick=play;
-  document.getElementById('mute').onclick=()=>{audio.muted=!audio.muted; document.getElementById('mute').textContent=audio.muted?'SOUND':'MUTE'; const st=stations[Number(sel.value)||0]; state(st);};
-  document.getElementById('stop').onclick=()=>{audio.pause(); audio.src=''; localStorage.removeItem('wv_radio_state'); now.textContent='NIJE POKRENUT';};
-  document.querySelectorAll('[data-page]').forEach(b=>b.onclick=()=>{frame.src=b.dataset.page;});
-  audio.addEventListener('play',()=>state(stations[Number(sel.value)||0]));
-  audio.addEventListener('volumechange',()=>state(stations[Number(sel.value)||0]));
-  sel.addEventListener('change',()=>{ if(!audio.paused) play(); });
-  const qs=new URLSearchParams(location.search); const s=qs.get('station'); if(s){ const idx=stations.findIndex(x=>String(x.title).toLowerCase().includes(s.toLowerCase())); if(idx>=0) sel.value=idx; play(); }
+  document.getElementById('mute').onclick=()=>{audio.muted=!audio.muted; document.getElementById('mute').textContent=audio.muted?'SOUND':'MUTE'; state(current());};
+  document.getElementById('stop').onclick=()=>{audio.pause(); audio.src=''; localStorage.removeItem('wv_radio_state'); now.textContent='NIJE POKRENUT'; song.textContent='PJESMA: —'; if(metaTimer) clearInterval(metaTimer);};
+  sel.addEventListener('change',()=>{ const st=current(); official.href=st.site||st.stream||'#'; if(!audio.paused) play(); else {now.textContent=st.title; updateSong(st);} });
+  audio.addEventListener('play',()=>{state(current()); updateSong(current());});
+  audio.addEventListener('volumechange',()=>state(current()));
+  const qs=new URLSearchParams(location.search); const s=qs.get('station'); if(s){ const idx=stations.findIndex(x=>String(x.title).toLowerCase().includes(s.toLowerCase())); if(idx>=0) sel.value=idx; play(); } else { official.href=current().site||current().stream||'#'; }
 })();
 </script>
 </body>
