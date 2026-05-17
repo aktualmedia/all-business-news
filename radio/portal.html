@@ -5,32 +5,43 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Radio portal | WEB VIJESTI</title>
   <style>
-    *{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Arial,sans-serif;background:#0f172a;color:#fff;height:100vh;display:grid;grid-template-rows:auto 1fr}.player{background:linear-gradient(135deg,#0f172a,#1f3c88);padding:8px 10px;box-shadow:0 8px 28px rgba(0,0,0,.25);z-index:5}.top{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.brand{font-weight:1000;letter-spacing:.03em}.now{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:6px 9px;font-weight:900}.controls{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin-top:6px}select,button,a{border:1px solid rgba(255,255,255,.25);background:rgba(255,255,255,.12);color:#fff;border-radius:999px;padding:7px 9px;font-weight:900;text-decoration:none}select{min-width:190px}option{color:#111}button{cursor:pointer}audio{width:min(320px,100%);height:34px}.nav{display:flex;gap:5px;flex-wrap:wrap;margin-top:6px}.nav button{font-size:.76rem;padding:6px 8px}.frame{width:100%;height:100%;border:0;background:#fff}.collapse{display:none}@media(max-width:700px){body{grid-template-rows:auto 1fr}.player{padding:6px 8px;font-size:.78rem}.top{display:grid;grid-template-columns:1fr auto;gap:6px}.brand{font-size:.78rem}.now{font-size:.68rem;padding:5px 7px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.controls{display:grid;grid-template-columns:1fr auto auto auto;gap:5px;margin-top:5px}select{min-width:0;width:100%;font-size:.72rem;padding:6px 7px}button,a{font-size:.68rem;padding:6px 7px}audio{grid-column:1 / -1;width:100%;height:30px}.nav{display:grid;grid-template-columns:repeat(6,1fr);gap:4px;margin-top:5px}.nav button{font-size:.58rem;padding:5px 2px}.player.compact .controls,.player.compact .nav{display:none}.player.compact audio{display:none}.collapse{display:inline-flex}.frame{min-height:0}}
+    *{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Arial,sans-serif;background:#0f172a;color:#fff;height:100vh;display:grid;grid-template-rows:auto 1fr}.player{background:#1f3c88;padding:3px 8px;box-shadow:0 4px 14px rgba(15,23,42,.18);z-index:5}.bar{display:flex;align-items:center;gap:6px;min-height:28px;white-space:nowrap;overflow-x:auto}.brand{font-weight:1000;font-size:.72rem;letter-spacing:.04em;opacity:.9}.now{font-weight:900;font-size:.7rem;max-width:28vw;overflow:hidden;text-overflow:ellipsis}.bar select,.bar button{border:1px solid rgba(255,255,255,.24);background:rgba(255,255,255,.10);color:#fff;border-radius:999px;padding:3px 7px;font-weight:900;font-size:.62rem;line-height:1.1;height:22px}.bar select{min-width:150px;max-width:210px}.bar option{color:#111}.bar button{cursor:pointer;flex:0 0 auto}.frame{width:100%;height:100%;border:0;background:#fff}@media(max-width:700px){.player{padding:2px 5px}.bar{min-height:24px;gap:4px}.brand{font-size:.6rem}.now{font-size:.58rem;max-width:22vw}.bar select{min-width:115px;max-width:130px;font-size:.56rem;height:20px;padding:2px 5px}.bar button{font-size:.54rem;height:20px;padding:2px 5px}}
   </style>
 </head>
 <body>
   <section id="player" class="player">
-    <div class="top"><div class="brand">WEB VIJESTI RADIO</div><div id="now" class="now">RADIO: NIJE POKRENUT</div><button id="collapse" class="collapse">SAKRIJ</button></div>
-    <div class="controls"><select id="station"></select><button id="play">PLAY</button><button id="mute">STIŠAJ</button><button id="stop">STOP</button><audio id="audio" controls preload="none"></audio></div>
-    <div class="nav"><button data-page="../index.html">HOME</button><button data-page="../vijesti/index.html">VIJESTI</button><button data-page="../objave/index.html">OBJAVE</button><button data-page="../symbol/index.html">SYMBOL</button><button data-page="../galerija/index.html">GALERIJA</button><button data-page="../radio/index.html">RADIO</button></div>
+    <div class="bar">
+      <span class="brand">RADIO</span>
+      <span id="now" class="now">NIJE POKRENUT</span>
+      <select id="station"></select>
+      <button id="play">PLAY</button>
+      <button id="mute">MUTE</button>
+      <button id="stop">STOP</button>
+      <button data-page="../index.html">HOME</button>
+      <button data-page="../vijesti/index.html">VIJESTI</button>
+      <button data-page="../objave/index.html">OBJAVE</button>
+      <button data-page="../symbol/index.html">SYMBOL</button>
+      <button data-page="../galerija/index.html">GALERIJA</button>
+    </div>
+    <audio id="audio" preload="none" style="display:none"></audio>
   </section>
   <iframe id="content" class="frame" src="../index.html"></iframe>
 <script>
 (async()=>{
-  const audio=document.getElementById('audio'), sel=document.getElementById('station'), now=document.getElementById('now'), frame=document.getElementById('content'), player=document.getElementById('player'), collapse=document.getElementById('collapse');
+  const audio=document.getElementById('audio'), sel=document.getElementById('station'), now=document.getElementById('now'), frame=document.getElementById('content');
   const fallback=[{title:'80s Hits Radio',stream:'https://stream.laut.fm/80er-zone',site:'https://laut.fm/80er-zone'},{title:'90s Revival Radio',stream:'https://stream.laut.fm/90er-revival',site:'https://laut.fm/90er-revival'},{title:'BBC World Service',stream:'https://stream.live.vc.bbcmedia.co.uk/bbc_world_service',site:'https://www.bbc.com/audio'}];
   let stations=fallback;
   try{const r=await fetch('../data/radio.json',{cache:'no-store'}); if(r.ok) stations=await r.json();}catch(e){}
   sel.innerHTML=stations.map((s,i)=>`<option value="${i}">${s.title}</option>`).join('');
-  function state(st){ localStorage.setItem('wv_radio_state',JSON.stringify({title:st.title,stream:st.stream,site:st.site,playing:!audio.paused,muted:audio.muted,volume:audio.volume,at:Date.now()})); now.textContent='SVIRA: '+st.title; }
-  async function play(){ const st=stations[Number(sel.value)||0]; audio.src=st.stream; audio.play().then(()=>state(st)).catch(()=>{now.textContent='KLIKNI PLAY: '+st.title; state(st);}); }
+  function state(st){ localStorage.setItem('wv_radio_state',JSON.stringify({title:st.title,stream:st.stream,site:st.site,playing:!audio.paused,muted:audio.muted,volume:audio.volume,at:Date.now()})); now.textContent=st.title; }
+  async function play(){ const st=stations[Number(sel.value)||0]; if(audio.src!==st.stream) audio.src=st.stream; audio.play().then(()=>state(st)).catch(()=>{now.textContent='KLIKNI PLAY: '+st.title; state(st);}); }
   document.getElementById('play').onclick=play;
-  document.getElementById('mute').onclick=()=>{audio.muted=!audio.muted; document.getElementById('mute').textContent=audio.muted?'POJAČAJ':'STIŠAJ'; const st=stations[Number(sel.value)||0]; state(st);};
-  document.getElementById('stop').onclick=()=>{audio.pause(); audio.src=''; localStorage.removeItem('wv_radio_state'); now.textContent='RADIO: NIJE POKRENUT';};
-  collapse.onclick=()=>{player.classList.toggle('compact'); collapse.textContent=player.classList.contains('compact')?'PRIKAŽI':'SAKRIJ';};
+  document.getElementById('mute').onclick=()=>{audio.muted=!audio.muted; document.getElementById('mute').textContent=audio.muted?'SOUND':'MUTE'; const st=stations[Number(sel.value)||0]; state(st);};
+  document.getElementById('stop').onclick=()=>{audio.pause(); audio.src=''; localStorage.removeItem('wv_radio_state'); now.textContent='NIJE POKRENUT';};
   document.querySelectorAll('[data-page]').forEach(b=>b.onclick=()=>{frame.src=b.dataset.page;});
   audio.addEventListener('play',()=>state(stations[Number(sel.value)||0]));
   audio.addEventListener('volumechange',()=>state(stations[Number(sel.value)||0]));
+  sel.addEventListener('change',()=>{ if(!audio.paused) play(); });
   const qs=new URLSearchParams(location.search); const s=qs.get('station'); if(s){ const idx=stations.findIndex(x=>String(x.title).toLowerCase().includes(s.toLowerCase())); if(idx>=0) sel.value=idx; play(); }
 })();
 </script>
