@@ -4,23 +4,37 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>RADIO | WEB VIJESTI</title>
-  <meta name="description" content="WEB VIJESTI / ALL BUSINESS NEWS">
+  <meta name="description" content="Radio streamovi za WEB VIJESTI: hrvatski i strani radio programi.">
   <link rel="stylesheet" href="../assets/style.css">
-  <script>window.WV_PAGE="radio"; window.WV_CATEGORY="";</script>
+  <style>
+    .radio-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:18px}.radio-card{background:#fff;border:1px solid var(--line,#dbe3ef);border-radius:22px;box-shadow:0 14px 38px rgba(15,23,42,.06);padding:18px}.radio-card h3{margin:.25rem 0 .5rem}.radio-card audio{width:100%;margin:12px 0}.radio-card .meta{font-weight:900;color:#64748b;text-transform:uppercase;font-size:.76rem}.radio-status{background:#f8fafc;border:1px solid var(--line,#dbe3ef);border-radius:18px;padding:14px;margin-top:16px;color:#475467;font-weight:800}@media(max-width:700px){.radio-grid{grid-template-columns:1fr}.radio-card{padding:16px}}
+  </style>
 </head>
 <body data-page="radio" data-category="">
 <header class="site-header">
   <a class="brand" href="../index.html"><span class="brand-mark">WV</span><span><strong>WEB VIJESTI</strong><small>AKTUAL MEDIA D.O.O.</small></span></a>
-  <nav class="top-nav" aria-label="GLAVNI IZBORNIK">
-    <a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../poslovanje/index.html">POSLOVANJE</a><a href="../kultura/index.html">KULTURA</a><a href="../tehnologija/index.html">TEHNOLOGIJA</a><a href="../galerija/index.html">GALERIJA</a><a href="../symbol/index.html">SYMBOL</a><a href="../video/index.html">VIDEO</a><a href="../radio/index.html">RADIO</a><a href="../dogadjanja/index.html">DOGAĐANJA</a><a href="../izvori/index.html">IZVORI</a><a href="../admin/index.html">ADMIN</a>
-  </nav>
-  <div class="lang-bar"><span>JEZICI</span><a href="https://aktualmedia.github.io/all-business-news/">HR</a><a href="https://translate.google.com/translate?sl=auto&tl=en&u=https://aktualmedia.github.io/all-business-news/">EN</a><a href="https://translate.google.com/translate?sl=auto&tl=de&u=https://aktualmedia.github.io/all-business-news/">DE</a><a href="https://translate.google.com/translate?sl=auto&tl=it&u=https://aktualmedia.github.io/all-business-news/">IT</a><a href="https://translate.google.com/translate?sl=auto&tl=fr&u=https://aktualmedia.github.io/all-business-news/">FR</a><a href="https://translate.google.com/translate?sl=auto&tl=es&u=https://aktualmedia.github.io/all-business-news/">ES</a><a href="https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://aktualmedia.github.io/all-business-news/">中文</a><a href="https://translate.google.com/translate?sl=auto&tl=ar&u=https://aktualmedia.github.io/all-business-news/">AR</a><a href="https://translate.google.com/translate?sl=auto&tl=tr&u=https://aktualmedia.github.io/all-business-news/">TR</a><a href="https://translate.google.com/translate?sl=auto&tl=sl&u=https://aktualmedia.github.io/all-business-news/">SL</a><a href="https://translate.google.com/translate?sl=auto&tl=hu&u=https://aktualmedia.github.io/all-business-news/">HU</a><a href="https://translate.google.com/translate?sl=auto&tl=pt&u=https://aktualmedia.github.io/all-business-news/">PT</a><a href="https://translate.google.com/translate?sl=auto&tl=nl&u=https://aktualmedia.github.io/all-business-news/">NL</a></div>
+  <nav class="top-nav" aria-label="GLAVNI IZBORNIK"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../symbol/index.html">SYMBOL</a><a href="../galerija/index.html">GALERIJA</a><a href="../radio/index.html">RADIO</a><a href="../admin/index.html">ADMIN</a></nav>
+  <div class="lang-bar"><span>JEZICI</span><a href="https://aktualmedia.github.io/all-business-news/">HR</a><a href="https://translate.google.com/translate?sl=auto&tl=en&u=https://aktualmedia.github.io/all-business-news/">EN</a><a href="https://translate.google.com/translate?sl=auto&tl=de&u=https://aktualmedia.github.io/all-business-news/">DE</a><a href="https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://aktualmedia.github.io/all-business-news/">中文</a><a href="https://translate.google.com/translate?sl=auto&tl=ar&u=https://aktualmedia.github.io/all-business-news/">AR</a></div>
 </header>
 <main class="page-shell">
-<a class="home-button" href="../index.html">HOME – POVRATAK</a><section class="hero compact"><p class="eyebrow">WEB VIJESTI</p><h1>RADIO</h1><p class="lead">RADIO SEKCIJA I STREAM POVEZNICE.</p></section><section class="legal-box"><p>RADIO SEKCIJA JE SPREMNA ZA DODAVANJE STREAM LINKOVA.</p></section>
+  <a class="home-button" href="../index.html">HOME – POVRATAK</a>
+  <section class="hero compact"><p class="eyebrow">RADIO</p><h1>RADIO UŽIVO</h1><p class="lead">Hrvatski i strani radio streamovi. Klikni play. Ako neka stanica privremeno blokira vanjski player, koristi gumb za službenu stranicu.</p></section>
+  <section id="radioGrid" class="radio-grid"><article class="radio-card"><p>UČITAVANJE RADIO STREAMOVA...</p></article></section>
+  <section class="radio-status">Napomena: streamovi ovise o vanjskim radijskim servisima. Neki streamovi mogu tražiti dodatni klik na play ili privremeno ne raditi izvan službene stranice.</section>
 </main>
 <nav class="mobile-bottom-nav" aria-label="BRZA MOBILNA NAVIGACIJA"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../symbol/index.html">SYM.</a><a href="../galerija/index.html">GALERIJA</a></nav>
-<footer class="site-footer"><p><strong>WEB VIJESTI / ALL BUSINESS NEWS</strong> JE RSS/HTML AGREGATOR. AUTORSKA PRAVA NAD ČLANCIMA I FOTOGRAFIJAMA PRIPADAJU IZVORNIM IZDAVAČIMA.</p></footer>
-<script src="../assets/app.js" defer></script>
+<footer class="site-footer"><p><strong>WEB VIJESTI / ALL BUSINESS NEWS</strong> · RADIO STREAMOVI.</p></footer>
+<script>
+(async()=>{
+  const box=document.getElementById('radioGrid');
+  const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const share=(title,url)=>{const u=encodeURIComponent(url||location.href),t=encodeURIComponent(title||document.title);return `<div class="share-mini"><strong>DIJELI</strong><a target="_blank" href="https://wa.me/?text=${t}%20${u}">WA</a><a target="_blank" href="https://twitter.com/intent/tweet?text=${t}&url=${u}">X</a><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=${u}">FB</a><a target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url=${u}">IN</a></div>`};
+  try{
+    const r=await fetch('../data/radio.json',{cache:'no-store'});
+    const items=await r.json();
+    box.innerHTML=items.map(x=>`<article class="radio-card"><p class="meta">${esc(x.country||'RADIO STREAM')}</p><h3>${esc(x.title)}</h3><p>${esc(x.description)}</p><audio controls preload="none" src="${esc(x.stream)}"></audio><div class="hero-actions"><a class="button small" target="_blank" href="${esc(x.site||x.stream)}">OTVORI SLUŽBENU STRANICU</a></div>${share(x.title,x.site||x.stream)}</article>`).join('');
+  }catch(e){box.innerHTML='<article class="radio-card"><p>RADIO PODACI SE NISU UČITALI.</p></article>';}
+})();
+</script>
 </body>
 </html>
