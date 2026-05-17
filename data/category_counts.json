@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-05-17T12:02:31.201427+00:00",
+  "updated_at": "2026-05-17T12:17:15.170065+00:00",
   "active_limit": 1660,
   "counts": {
     "poslovanje": 151,
     "ekonomija": 23,
-    "financije": 128,
+    "financije": 130,
     "trzista": 154,
     "kultura": 146,
     "dizajn": 96,
     "tehnologija": 178,
-    "znanost": 133,
+    "znanost": 135,
     "lifestyle": 120,
     "hedonizam": 10,
     "satovi": 43,
@@ -31,6 +31,15 @@
     "satovi": "SATOVI",
     "nakit": "NAKIT",
     "pica": "PIĆA",
-    "vijesti": "VIJESTI"
+    "vijesti": "VIJESTI",
+    "muzeji": "MUZEJI",
+    "galerije": "GALERIJE",
+    "umjetnici": "UMJETNICI",
+    "umjetnine": "UMJETNINE",
+    "film": "FILM",
+    "arhitektura": "ARHITEKTURA",
+    "umjetnost": "UMJETNOST",
+    "putovanja": "PUTOVANJA",
+    "symbol": "SYMBOL"
   }
 }

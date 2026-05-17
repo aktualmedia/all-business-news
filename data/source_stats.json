@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-05-17T12:02:31.201427+00:00",
+  "updated_at": "2026-05-17T12:17:15.170065+00:00",
   "sources": 180,
   "ok_sources": 61,
-  "failed_sources": 53,
+  "failed_sources": 54,
   "items_by_source": {
+    "Medical Xpress": 36,
+    "MarketWatch Top Stories": 14,
     "Forbes Innovation": 35,
-    "Medical Xpress": 34,
     "Phys.org": 31,
     "Deadline": 30,
     "Yanko Design": 15,
-    "MarketWatch Top Stories": 13,
     "Variety": 34,
     "Forbes Business": 38,
     "Quartz": 37,
@@ -17,7 +17,7 @@
     "Ars Technica": 21,
     "FreightWaves": 39,
     "The Register": 40,
-    "Investing.com News": 27,
+    "Investing.com News": 28,
     "InsideHook": 24,
     "Fast Company": 23,
     "Wallpaper": 46,
@@ -905,7 +905,7 @@
       "url": "https://www.environmentalleader.com/feed/",
       "count": 0,
       "status": "failed",
-      "error": "HTTP Error 404: Not Found"
+      "error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1016)>"
     },
     {
       "id": "src-078",
@@ -1189,7 +1189,8 @@
       "category": "trzista",
       "url": "https://www.mining.com/feed/",
       "count": 0,
-      "status": "empty"
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-129",
