@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T14:48:12.953184+00:00",
+  "updated_at": "2026-05-17T14:50:44.207218+00:00",
   "sources": 180,
   "ok_sources": 61,
   "failed_sources": 54,
@@ -948,7 +948,7 @@
       "url": "https://fintechmagazine.com/rss",
       "count": 0,
       "status": "failed",
-      "error": "The read operation timed out"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "src-038",
