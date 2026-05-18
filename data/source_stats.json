@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-18T07:22:32.551911+00:00",
+  "updated_at": "2026-05-18T07:39:40.479409+00:00",
   "sources": 194,
-  "ok_sources": 127,
-  "failed_sources": 53,
+  "ok_sources": 126,
+  "failed_sources": 54,
   "items_by_source": {
     "McKinsey Insights": 12,
     "Journal.hr - gastro": 13,
@@ -16,25 +16,25 @@
     "Symbol Quorum - poduzetništvo": 6,
     "Symbol Quorum - kultura i umjetnost": 8,
     "NBER Digest": 12,
-    "Deadline": 68,
-    "Hollywood Reporter": 11,
+    "Hollywood Reporter": 13,
+    "Deadline": 70,
+    "Seeking Alpha Market News": 13,
+    "Investing.com Economic Indicators": 13,
+    "Forbes Business": 81,
     "DesignWanted": 13,
-    "Seeking Alpha Market News": 11,
-    "Hypebeast": 40,
+    "Hypebeast": 41,
+    "Forbes Innovation": 56,
     "Monochrome Watches": 12,
     "OilPrice": 13,
     "Variety": 77,
     "Decanter": 46,
-    "Forbes Innovation": 53,
-    "Investing.com Economic Indicators": 12,
     "The Register": 47,
-    "Forbes Business": 81,
     "CleanTechnica": 13,
     "PV Magazine": 12,
     "Wallpaper": 47,
+    "Investing.com News": 99,
     "ScienceDaily": 12,
     "Luxuo": 5,
-    "Investing.com News": 89,
     "Fratello": 13,
     "Elite Traveler": 10,
     "Medical Xpress": 59,
@@ -500,15 +500,6 @@
       "name": "MindBodyGreen",
       "category": "lifestyle",
       "url": "https://www.mindbodygreen.com/rss.xml",
-      "kind": "rss",
-      "count": 12,
-      "status": "ok"
-    },
-    {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
       "kind": "rss",
       "count": 12,
       "status": "ok"
@@ -1700,6 +1691,16 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
+      "kind": "rss",
+      "count": 0,
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
       "id": "src-034",
       "name": "Nasdaq Markets",
       "category": "financije",
@@ -1936,6 +1937,6 @@
     }
   ],
   "active_limit": 1660,
-  "archive_count": 697,
+  "archive_count": 718,
   "gallery_count": 500
 }
