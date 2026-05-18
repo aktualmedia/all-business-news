@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T09:06:21.105525+00:00",
+  "updated_at": "2026-05-18T09:19:42.517296+00:00",
   "sources": 69,
   "ok_sources": 13,
   "events_count": 162,
@@ -74,9 +74,8 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "kazalište / mjuzikl",
-      "status": "fallback",
-      "count": 1,
-      "error": "HTTP Error 500: Internal Server Error"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "teatar-exit",
@@ -272,9 +271,8 @@
       "country": "SAD",
       "city": "New York",
       "type": "kazalište / Broadway / premijere",
-      "status": "fallback",
-      "count": 1,
-      "error": "The read operation timed out"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "broadway-com",
