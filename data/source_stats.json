@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-18T09:19:42.546427+00:00",
+  "updated_at": "2026-05-18T09:32:00.278717+00:00",
   "sources": 194,
-  "ok_sources": 126,
+  "ok_sources": 125,
   "failed_sources": 54,
   "items_by_source": {
     "McKinsey Insights": 12,
-    "Finextra": 14,
+    "Finextra": 15,
     "Journal.hr - gastro": 13,
     "Journal.hr - interijeri": 12,
     "Journal.hr - kultura": 19,
@@ -17,14 +17,18 @@
     "Symbol Quorum - poduzetništvo": 6,
     "Symbol Quorum - kultura i umjetnost": 8,
     "NBER Digest": 12,
+    "Luxuo": 7,
+    "The Verge": 10,
+    "The Spirits Business": 35,
+    "Deadline": 75,
+    "Phys.org": 48,
+    "OilPrice": 15,
     "The Register": 50,
-    "Deadline": 74,
     "Quartz": 43,
     "Seeking Alpha Market News": 25,
     "Medical Xpress": 61,
     "MarketWatch Top Stories": 26,
     "Open Culture": 14,
-    "Phys.org": 47,
     "Designboom": 16,
     "Banking Dive": 10,
     "Supply Chain Dive": 12,
@@ -39,13 +43,10 @@
     "ScienceDaily": 14,
     "Packaging Gateway": 15,
     "PV Magazine": 13,
-    "Luxuo": 6,
     "Hollywood Reporter": 17,
     "Variety": 82,
     "Logistics Manager": 13,
     "Yanko Design": 24,
-    "The Spirits Business": 32,
-    "OilPrice": 14,
     "Engadget": 28,
     "Forbes Business": 82,
     "Creative Review": 15,
@@ -62,7 +63,6 @@
     "ArchDaily": 31,
     "ZDNET": 12,
     "Our World in Data": 11,
-    "The Verge": 10,
     "Robb Report": 14,
     "TechCrunch": 12,
     "Highsnobiety": 7,
@@ -1036,15 +1036,6 @@
       "status": "ok"
     },
     {
-      "id": "src-098",
-      "name": "MuseumNext",
-      "category": "kultura",
-      "url": "https://www.museumnext.com/feed/",
-      "kind": "rss",
-      "count": 10,
-      "status": "ok"
-    },
-    {
       "id": "src-079",
       "name": "NASA Breaking News",
       "category": "znanost",
@@ -1701,6 +1692,15 @@
       "error": "HTTP Error 403: Forbidden"
     },
     {
+      "id": "src-098",
+      "name": "MuseumNext",
+      "category": "kultura",
+      "url": "https://www.museumnext.com/feed/",
+      "kind": "rss",
+      "count": 0,
+      "status": "empty"
+    },
+    {
       "id": "src-034",
       "name": "Nasdaq Markets",
       "category": "financije",
@@ -1937,6 +1937,6 @@
     }
   ],
   "active_limit": 1660,
-  "archive_count": 868,
+  "archive_count": 876,
   "gallery_count": 500
 }

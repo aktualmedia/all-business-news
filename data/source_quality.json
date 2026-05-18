@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-18T09:19:42.650120+00:00",
+  "updated_at": "2026-05-18T09:32:00.404004+00:00",
   "sources": 194,
-  "ok": 126,
+  "ok": 125,
   "problem": 54,
   "items": [
     {
@@ -1105,17 +1105,6 @@
       "error": ""
     },
     {
-      "id": "src-098",
-      "name": "MuseumNext",
-      "category": "kultura",
-      "url": "https://www.museumnext.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-079",
       "name": "NASA Breaking News",
       "category": "znanost",
@@ -1483,6 +1472,17 @@
       "name": "Kellogg Insight",
       "category": "poslovanje",
       "url": "https://insight.kellogg.northwestern.edu/feed",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
+      "id": "src-098",
+      "name": "MuseumNext",
+      "category": "kultura",
+      "url": "https://www.museumnext.com/feed/",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,

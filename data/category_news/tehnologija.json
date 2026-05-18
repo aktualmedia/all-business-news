@@ -1,5 +1,29 @@
 [
   {
+    "id": "7a7d46fbb4dcd5e1",
+    "title": "Revamped Siri will reportedly offer autodeleting chats",
+    "description": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. […]",
+    "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+    "image": "https://picsum.photos/seed/wv-news-53906ffaf682/1200/750",
+    "source": "The Verge",
+    "source_id": "src-062",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T09:25:53+00:00",
+    "fetched_at": "2026-05-18T09:29:42.740596+00:00"
+  },
+  {
+    "id": "a65f8e68f74bdd5d",
+    "title": "Microsoft is retiring Teams’ Together Mode",
+    "description": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more simplified Teams experience. The feature used AI […]",
+    "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+    "image": "https://picsum.photos/seed/wv-news-23050b336442/1200/750",
+    "source": "The Verge",
+    "source_id": "src-062",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T09:21:28+00:00",
+    "fetched_at": "2026-05-18T09:29:42.740507+00:00"
+  },
+  {
     "id": "ce983c4f7a8f3102",
     "title": "Google tells database devs to lean hard on AI for PostgreSQL work",
     "description": "Cloud giant says humans remain accountable, even when code gets an assist from the machines",
@@ -9,7 +33,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-18T09:15:00+00:00",
-    "fetched_at": "2026-05-18T09:17:19.815478+00:00"
+    "fetched_at": "2026-05-18T09:29:43.979666+00:00"
   },
   {
     "id": "2e058b632a673af1",
@@ -21,7 +45,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-18T09:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.378229+00:00"
+    "fetched_at": "2026-05-18T09:29:42.875545+00:00"
   },
   {
     "id": "22278136e16487c6",
@@ -33,7 +57,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-18T08:30:00+00:00",
-    "fetched_at": "2026-05-18T09:17:19.815533+00:00"
+    "fetched_at": "2026-05-18T09:29:43.979749+00:00"
   },
   {
     "id": "3d22ad7f91a9584f",
@@ -45,7 +69,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-18T08:09:40+00:00",
-    "fetched_at": "2026-05-18T09:17:18.727646+00:00"
+    "fetched_at": "2026-05-18T09:29:43.120427+00:00"
   },
   {
     "id": "c5c6924e36110553",
@@ -57,7 +81,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-18T07:30:00+00:00",
-    "fetched_at": "2026-05-18T09:17:19.815575+00:00"
+    "fetched_at": "2026-05-18T09:29:43.979797+00:00"
   },
   {
     "id": "24d015a74a26b36f",
@@ -69,7 +93,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-18T06:30:00+00:00",
-    "fetched_at": "2026-05-18T09:17:19.815612+00:00"
+    "fetched_at": "2026-05-18T09:29:43.979840+00:00"
   },
   {
     "id": "01eb3e1e5b7f6f43",
@@ -81,7 +105,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-18T05:46:31+00:00",
-    "fetched_at": "2026-05-18T09:17:19.815647+00:00"
+    "fetched_at": "2026-05-18T09:29:43.979883+00:00"
   },
   {
     "id": "9740c8d4b5478ffb",
@@ -93,7 +117,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-18T02:47:09+00:00",
-    "fetched_at": "2026-05-18T09:17:19.815682+00:00"
+    "fetched_at": "2026-05-18T09:29:43.979927+00:00"
   },
   {
     "id": "4abc769070ff48ed",
@@ -105,7 +129,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-18T01:33:00+00:00",
-    "fetched_at": "2026-05-18T09:17:19.920087+00:00"
+    "fetched_at": "2026-05-18T09:29:44.240107+00:00"
   },
   {
     "id": "d920ca82aadff907",
@@ -117,7 +141,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-18T00:56:00+00:00",
-    "fetched_at": "2026-05-18T09:17:19.920143+00:00"
+    "fetched_at": "2026-05-18T09:29:44.240176+00:00"
   },
   {
     "id": "9730b6165393b982",
@@ -129,7 +153,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-18T00:55:00+00:00",
-    "fetched_at": "2026-05-18T09:17:19.920187+00:00"
+    "fetched_at": "2026-05-18T09:29:44.240231+00:00"
   },
   {
     "id": "da67f4d1b630bc3d",
@@ -141,7 +165,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-18T00:54:00+00:00",
-    "fetched_at": "2026-05-18T09:17:19.920229+00:00"
+    "fetched_at": "2026-05-18T09:29:44.240281+00:00"
   },
   {
     "id": "dde78deacff14c52",
@@ -153,7 +177,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-17T23:39:47+00:00",
-    "fetched_at": "2026-05-18T09:17:19.815733+00:00"
+    "fetched_at": "2026-05-18T09:29:43.979992+00:00"
   },
   {
     "id": "f36d82b0fa8dc7ce",
@@ -165,19 +189,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-17T23:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:19.815767+00:00"
-  },
-  {
-    "id": "a65f8e68f74bdd5d",
-    "title": "Microsoft is retiring Teams’ Together Mode",
-    "description": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more simplified Teams experience. The feature used AI […]",
-    "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
-    "image": "https://picsum.photos/seed/wv-news-23050b336442/1200/750",
-    "source": "The Verge",
-    "source_id": "src-062",
-    "category": "tehnologija",
-    "published_at": "2026-05-17T21:15:28+00:00",
-    "fetched_at": "2026-05-18T09:17:18.238171+00:00"
+    "fetched_at": "2026-05-18T09:29:43.980035+00:00"
   },
   {
     "id": "32af85baafcb2b58",
@@ -189,7 +201,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-17T20:57:10+00:00",
-    "fetched_at": "2026-05-18T09:17:18.727699+00:00"
+    "fetched_at": "2026-05-18T09:29:43.120493+00:00"
   },
   {
     "id": "dc6fe1a578b6e048",
@@ -201,7 +213,7 @@
     "source_id": "src-061",
     "category": "tehnologija",
     "published_at": "2026-05-17T20:15:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.075028+00:00"
+    "fetched_at": "2026-05-18T09:29:42.627413+00:00"
   },
   {
     "id": "f53ade547bc85226",
@@ -213,7 +225,7 @@
     "source_id": "src-061",
     "category": "tehnologija",
     "published_at": "2026-05-17T19:46:34+00:00",
-    "fetched_at": "2026-05-18T09:17:18.075084+00:00"
+    "fetched_at": "2026-05-18T09:29:42.627483+00:00"
   },
   {
     "id": "0dbdaa8e30d650ee",
@@ -225,7 +237,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-17T19:25:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.727744+00:00"
+    "fetched_at": "2026-05-18T09:29:43.120548+00:00"
   },
   {
     "id": "9ebe2adfba25c077",
@@ -237,19 +249,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-17T19:09:57+00:00",
-    "fetched_at": "2026-05-18T09:17:18.727784+00:00"
-  },
-  {
-    "id": "7a7d46fbb4dcd5e1",
-    "title": "Revamped Siri will reportedly offer auto-deleting chats",
-    "description": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. […]",
-    "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-    "image": "https://picsum.photos/seed/wv-news-d38ec7d4523b/1200/750",
-    "source": "The Verge",
-    "source_id": "src-062",
-    "category": "tehnologija",
-    "published_at": "2026-05-17T18:40:28+00:00",
-    "fetched_at": "2026-05-18T09:17:18.238239+00:00"
+    "fetched_at": "2026-05-18T09:29:43.120596+00:00"
   },
   {
     "id": "0cd4238e2a4f6291",
@@ -261,7 +261,7 @@
     "source_id": "src-067",
     "category": "tehnologija",
     "published_at": "2026-05-17T18:00:23+00:00",
-    "fetched_at": "2026-05-18T09:17:19.224733+00:00"
+    "fetched_at": "2026-05-18T09:29:43.445749+00:00"
   },
   {
     "id": "169ef5fbbab80a6e",
@@ -273,7 +273,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-17T17:58:42+00:00",
-    "fetched_at": "2026-05-18T09:17:18.727839+00:00"
+    "fetched_at": "2026-05-18T09:29:43.120639+00:00"
   },
   {
     "id": "d1dbf0ed8a4fe842",
@@ -285,7 +285,7 @@
     "source_id": "src-062",
     "category": "tehnologija",
     "published_at": "2026-05-17T17:22:23+00:00",
-    "fetched_at": "2026-05-18T09:17:18.238305+00:00"
+    "fetched_at": "2026-05-18T09:29:42.740698+00:00"
   },
   {
     "id": "5d249dca854c6f51",
@@ -297,7 +297,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-17T17:10:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.727876+00:00"
+    "fetched_at": "2026-05-18T09:29:43.120701+00:00"
   },
   {
     "id": "f4cb956b6a71c202",
@@ -309,7 +309,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-17T16:53:29+00:00",
-    "fetched_at": "2026-05-18T09:17:18.727913+00:00"
+    "fetched_at": "2026-05-18T09:29:43.120752+00:00"
   },
   {
     "id": "10c12e0edc1710cc",
@@ -321,7 +321,7 @@
     "source_id": "src-061",
     "category": "tehnologija",
     "published_at": "2026-05-17T16:32:04+00:00",
-    "fetched_at": "2026-05-18T09:17:18.075134+00:00"
+    "fetched_at": "2026-05-18T09:29:42.627548+00:00"
   },
   {
     "id": "e1704d3c403873b2",
@@ -333,7 +333,7 @@
     "source_id": "src-061",
     "category": "tehnologija",
     "published_at": "2026-05-17T16:05:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.075179+00:00"
+    "fetched_at": "2026-05-18T09:29:42.627604+00:00"
   },
   {
     "id": "51cf5eabfc58e925",
@@ -345,7 +345,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-17T15:30:00+00:00",
-    "fetched_at": "2026-05-18T09:17:19.815811+00:00"
+    "fetched_at": "2026-05-18T09:29:43.980076+00:00"
   },
   {
     "id": "2034c0aa2f7f1cc0",
@@ -357,7 +357,7 @@
     "source_id": "src-061",
     "category": "tehnologija",
     "published_at": "2026-05-17T15:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.075219+00:00"
+    "fetched_at": "2026-05-18T09:29:42.627657+00:00"
   },
   {
     "id": "7187cfee6c80eaeb",
@@ -369,7 +369,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-17T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:19.815861+00:00"
+    "fetched_at": "2026-05-18T09:29:43.980141+00:00"
   },
   {
     "id": "6871795795dc93d2",
@@ -381,7 +381,7 @@
     "source_id": "src-062",
     "category": "tehnologija",
     "published_at": "2026-05-17T13:47:35+00:00",
-    "fetched_at": "2026-05-18T09:17:18.238358+00:00"
+    "fetched_at": "2026-05-18T09:29:42.740768+00:00"
   },
   {
     "id": "fce30cd139331324",
@@ -393,7 +393,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-17T13:00:45+00:00",
-    "fetched_at": "2026-05-18T09:17:19.920270+00:00"
+    "fetched_at": "2026-05-18T09:29:44.240330+00:00"
   },
   {
     "id": "6f4ab9c5d82b62e4",
@@ -405,7 +405,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-17T11:02:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.378280+00:00"
+    "fetched_at": "2026-05-18T09:29:42.875610+00:00"
   },
   {
     "id": "30d78c08cbee54bf",
@@ -417,7 +417,7 @@
     "source_id": "src-064",
     "category": "tehnologija",
     "published_at": "2026-05-17T11:00:14+00:00",
-    "fetched_at": "2026-05-18T09:17:18.501288+00:00"
+    "fetched_at": "2026-05-18T09:29:42.987881+00:00"
   },
   {
     "id": "8008fa4e02bc434a",
@@ -429,7 +429,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-17T11:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:19.815893+00:00"
+    "fetched_at": "2026-05-18T09:29:43.980183+00:00"
   },
   {
     "id": "46759f072f926ecd",
@@ -441,7 +441,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-17T10:33:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.378320+00:00"
+    "fetched_at": "2026-05-18T09:29:42.875661+00:00"
   },
   {
     "id": "a9db071c7d4a313f",
@@ -453,7 +453,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-17T10:30:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.378355+00:00"
+    "fetched_at": "2026-05-18T09:29:42.875723+00:00"
   },
   {
     "id": "b9a797c5f3093e22",
@@ -465,7 +465,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-17T10:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.378394+00:00"
+    "fetched_at": "2026-05-18T09:29:42.875774+00:00"
   },
   {
     "id": "f7462089580207b4",
@@ -477,7 +477,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-17T10:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:19.920309+00:00"
+    "fetched_at": "2026-05-18T09:29:44.240375+00:00"
   },
   {
     "id": "d68e34c4e2cf0fb6",
@@ -489,7 +489,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-17T09:30:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.378429+00:00"
+    "fetched_at": "2026-05-18T09:29:42.875816+00:00"
   },
   {
     "id": "a09c3d142623e75d",
@@ -501,7 +501,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-17T09:00:47+00:00",
-    "fetched_at": "2026-05-18T09:17:19.920349+00:00"
+    "fetched_at": "2026-05-18T09:29:44.240422+00:00"
   },
   {
     "id": "9a1af8b465171769",
@@ -513,7 +513,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-17T09:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.378462+00:00"
+    "fetched_at": "2026-05-18T09:29:42.875855+00:00"
   },
   {
     "id": "54c9510b7b88cc9c",
@@ -525,7 +525,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-17T08:30:00+00:00",
-    "fetched_at": "2026-05-18T09:17:19.815926+00:00"
+    "fetched_at": "2026-05-18T09:29:43.980223+00:00"
   },
   {
     "id": "f49c3d00d3ef5b9e",
@@ -537,7 +537,7 @@
     "source_id": "src-067",
     "category": "tehnologija",
     "published_at": "2026-05-16T21:05:53+00:00",
-    "fetched_at": "2026-05-18T09:17:19.225137+00:00"
+    "fetched_at": "2026-05-18T09:29:43.446151+00:00"
   },
   {
     "id": "6205768364ac7b27",
@@ -549,7 +549,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-16T21:00:04+00:00",
-    "fetched_at": "2026-05-18T09:17:18.727946+00:00"
+    "fetched_at": "2026-05-18T09:29:43.120794+00:00"
   },
   {
     "id": "f83c28aece608216",
@@ -561,7 +561,7 @@
     "source_id": "src-061",
     "category": "tehnologija",
     "published_at": "2026-05-16T20:17:16+00:00",
-    "fetched_at": "2026-05-18T09:17:18.075259+00:00"
+    "fetched_at": "2026-05-18T09:29:42.627737+00:00"
   },
   {
     "id": "33afb91328548c5b",
@@ -573,7 +573,7 @@
     "source_id": "src-061",
     "category": "tehnologija",
     "published_at": "2026-05-16T19:26:14+00:00",
-    "fetched_at": "2026-05-18T09:17:18.075298+00:00"
+    "fetched_at": "2026-05-18T09:29:42.627790+00:00"
   },
   {
     "id": "8c3fb208c87580f4",
@@ -585,7 +585,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-16T19:08:20+00:00",
-    "fetched_at": "2026-05-18T09:17:18.727978+00:00"
+    "fetched_at": "2026-05-18T09:29:43.120836+00:00"
   },
   {
     "id": "a8ed5de0b7b5ee8b",
@@ -597,7 +597,7 @@
     "source_id": "src-061",
     "category": "tehnologija",
     "published_at": "2026-05-16T18:54:28+00:00",
-    "fetched_at": "2026-05-18T09:17:18.075333+00:00"
+    "fetched_at": "2026-05-18T09:29:42.627835+00:00"
   },
   {
     "id": "bdbf06e5faa40f32",
@@ -609,7 +609,7 @@
     "source_id": "src-062",
     "category": "tehnologija",
     "published_at": "2026-05-16T18:34:23+00:00",
-    "fetched_at": "2026-05-18T09:17:18.238561+00:00"
+    "fetched_at": "2026-05-18T09:29:42.741037+00:00"
   },
   {
     "id": "8b1af9378ea86b87",
@@ -621,7 +621,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-16T17:56:22+00:00",
-    "fetched_at": "2026-05-18T09:17:18.728009+00:00"
+    "fetched_at": "2026-05-18T09:29:43.120875+00:00"
   },
   {
     "id": "23ea3d9e88c8e81a",
@@ -633,7 +633,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-16T17:30:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.728044+00:00"
+    "fetched_at": "2026-05-18T09:29:43.120915+00:00"
   },
   {
     "id": "6df2dae51a20b940",
@@ -657,7 +657,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-16T16:34:06+00:00",
-    "fetched_at": "2026-05-18T09:17:18.728076+00:00"
+    "fetched_at": "2026-05-18T09:29:43.120959+00:00"
   },
   {
     "id": "ff66e60c6b65c1c9",
@@ -669,7 +669,7 @@
     "source_id": "src-061",
     "category": "tehnologija",
     "published_at": "2026-05-16T16:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.075368+00:00"
+    "fetched_at": "2026-05-18T09:29:42.627881+00:00"
   },
   {
     "id": "66af55fd48767353",
@@ -693,7 +693,7 @@
     "source_id": "src-062",
     "category": "tehnologija",
     "published_at": "2026-05-16T15:37:05+00:00",
-    "fetched_at": "2026-05-18T09:17:18.238614+00:00"
+    "fetched_at": "2026-05-18T09:29:42.741106+00:00"
   },
   {
     "id": "ca8cae5ec796207a",
@@ -705,7 +705,7 @@
     "source_id": "src-061",
     "category": "tehnologija",
     "published_at": "2026-05-16T15:33:33+00:00",
-    "fetched_at": "2026-05-18T09:17:18.075403+00:00"
+    "fetched_at": "2026-05-18T09:29:42.627925+00:00"
   },
   {
     "id": "9228f39e57baf7ad",
@@ -729,7 +729,7 @@
     "source_id": "src-061",
     "category": "tehnologija",
     "published_at": "2026-05-16T15:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.075440+00:00"
+    "fetched_at": "2026-05-18T09:29:42.627970+00:00"
   },
   {
     "id": "bf7853e1df487d40",
@@ -753,7 +753,7 @@
     "source_id": "src-061",
     "category": "tehnologija",
     "published_at": "2026-05-16T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.075475+00:00"
+    "fetched_at": "2026-05-18T09:29:42.628015+00:00"
   },
   {
     "id": "82f63f2b2c392062",
@@ -765,7 +765,7 @@
     "source_id": "src-062",
     "category": "tehnologija",
     "published_at": "2026-05-16T13:21:08+00:00",
-    "fetched_at": "2026-05-18T09:17:18.238664+00:00"
+    "fetched_at": "2026-05-18T09:29:42.741172+00:00"
   },
   {
     "id": "80a14baaf97ca56b",
@@ -789,7 +789,7 @@
     "source_id": "src-064",
     "category": "tehnologija",
     "published_at": "2026-05-16T11:00:01+00:00",
-    "fetched_at": "2026-05-18T09:17:18.501343+00:00"
+    "fetched_at": "2026-05-18T09:29:42.987950+00:00"
   },
   {
     "id": "a590f3b0df9f6f3c",
@@ -801,7 +801,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-16T11:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.378496+00:00"
+    "fetched_at": "2026-05-18T09:29:42.875897+00:00"
   },
   {
     "id": "538912d7ead083ff",
@@ -813,7 +813,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-16T11:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.378527+00:00"
+    "fetched_at": "2026-05-18T09:29:42.875939+00:00"
   },
   {
     "id": "3c4bb07979b7f3a6",
@@ -825,7 +825,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-16T10:30:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.378560+00:00"
+    "fetched_at": "2026-05-18T09:29:42.875982+00:00"
   },
   {
     "id": "6d2a17b472a35743",
@@ -861,7 +861,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-16T10:02:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.378590+00:00"
+    "fetched_at": "2026-05-18T09:29:42.876021+00:00"
   },
   {
     "id": "58197ed9bab876f2",
@@ -873,7 +873,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-16T10:00:39+00:00",
-    "fetched_at": "2026-05-18T09:17:19.920388+00:00"
+    "fetched_at": "2026-05-18T09:29:44.240464+00:00"
   },
   {
     "id": "7ea91695a8de43d7",
@@ -885,7 +885,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-16T10:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.378620+00:00"
+    "fetched_at": "2026-05-18T09:29:42.876058+00:00"
   },
   {
     "id": "249c4562df0b8c7d",
@@ -909,7 +909,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-16T09:00:40+00:00",
-    "fetched_at": "2026-05-18T09:17:19.920427+00:00"
+    "fetched_at": "2026-05-18T09:29:44.240508+00:00"
   },
   {
     "id": "3b67eb6176e44e07",
@@ -1069,7 +1069,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-16T00:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:20.799372+00:00"
+    "fetched_at": "2026-05-18T09:29:45.154513+00:00"
   },
   {
     "id": "3b3ccc86d136221f",
@@ -1081,7 +1081,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-15T23:39:35+00:00",
-    "fetched_at": "2026-05-18T09:17:18.796785+00:00"
+    "fetched_at": "2026-05-18T09:29:43.235687+00:00"
   },
   {
     "id": "d265d9fdc3ca140f",
@@ -1093,7 +1093,7 @@
     "source_id": "src-064",
     "category": "tehnologija",
     "published_at": "2026-05-15T22:19:12+00:00",
-    "fetched_at": "2026-05-18T09:17:18.501385+00:00"
+    "fetched_at": "2026-05-18T09:29:42.988006+00:00"
   },
   {
     "id": "7526add24abe8a0a",
@@ -1105,7 +1105,7 @@
     "source_id": "src-064",
     "category": "tehnologija",
     "published_at": "2026-05-15T21:51:24+00:00",
-    "fetched_at": "2026-05-18T09:17:18.501436+00:00"
+    "fetched_at": "2026-05-18T09:29:42.988072+00:00"
   },
   {
     "id": "04dc128a4f5b4bd6",
@@ -1129,7 +1129,7 @@
     "source_id": "src-062",
     "category": "tehnologija",
     "published_at": "2026-05-15T21:38:28+00:00",
-    "fetched_at": "2026-05-18T09:17:18.238464+00:00"
+    "fetched_at": "2026-05-18T09:29:42.740908+00:00"
   },
   {
     "id": "a40716bedd46fc20",
@@ -1141,7 +1141,7 @@
     "source_id": "src-064",
     "category": "tehnologija",
     "published_at": "2026-05-15T21:31:53+00:00",
-    "fetched_at": "2026-05-18T09:17:18.501475+00:00"
+    "fetched_at": "2026-05-18T09:29:42.988121+00:00"
   },
   {
     "id": "9f3279493d07d4eb",
@@ -1153,7 +1153,7 @@
     "source_id": "src-062",
     "category": "tehnologija",
     "published_at": "2026-05-15T21:30:15+00:00",
-    "fetched_at": "2026-05-18T09:17:18.238416+00:00"
+    "fetched_at": "2026-05-18T09:29:42.740842+00:00"
   },
   {
     "id": "06d0e0d7dc06b66d",
@@ -1177,7 +1177,7 @@
     "source_id": "src-064",
     "category": "tehnologija",
     "published_at": "2026-05-15T21:17:19+00:00",
-    "fetched_at": "2026-05-18T09:17:18.501516+00:00"
+    "fetched_at": "2026-05-18T09:29:42.988169+00:00"
   },
   {
     "id": "e125a079e410be58",
@@ -1189,7 +1189,7 @@
     "source_id": "src-067",
     "category": "tehnologija",
     "published_at": "2026-05-15T21:06:09+00:00",
-    "fetched_at": "2026-05-18T09:17:19.225872+00:00"
+    "fetched_at": "2026-05-18T09:29:43.447062+00:00"
   },
   {
     "id": "6cfea4c4c30182be",
@@ -1201,7 +1201,7 @@
     "source_id": "src-067",
     "category": "tehnologija",
     "published_at": "2026-05-15T21:04:15+00:00",
-    "fetched_at": "2026-05-18T09:17:19.226221+00:00"
+    "fetched_at": "2026-05-18T09:29:43.447505+00:00"
   },
   {
     "id": "871e5d53c68b75ef",
@@ -1241,7 +1241,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-15T20:41:14+00:00",
-    "fetched_at": "2026-05-18T09:17:19.920464+00:00"
+    "fetched_at": "2026-05-18T09:29:44.240554+00:00"
   },
   {
     "id": "9bc70ea94bc2cc27",
@@ -1253,7 +1253,7 @@
     "source_id": "src-064",
     "category": "tehnologija",
     "published_at": "2026-05-15T20:36:05+00:00",
-    "fetched_at": "2026-05-18T09:17:18.501553+00:00"
+    "fetched_at": "2026-05-18T09:29:42.988215+00:00"
   },
   {
     "id": "0c583223f209f412",
@@ -1265,7 +1265,7 @@
     "source_id": "src-064",
     "category": "tehnologija",
     "published_at": "2026-05-15T20:16:24+00:00",
-    "fetched_at": "2026-05-18T09:17:18.501596+00:00"
+    "fetched_at": "2026-05-18T09:29:42.988268+00:00"
   },
   {
     "id": "9b7ada08de5c89b4",
@@ -1365,7 +1365,7 @@
     "source_id": "src-064",
     "category": "tehnologija",
     "published_at": "2026-05-15T19:11:48+00:00",
-    "fetched_at": "2026-05-18T09:17:18.501633+00:00"
+    "fetched_at": "2026-05-18T09:29:42.988316+00:00"
   },
   {
     "id": "d907be17a08b2ddd",
@@ -1389,7 +1389,7 @@
     "source_id": "src-064",
     "category": "tehnologija",
     "published_at": "2026-05-15T18:51:43+00:00",
-    "fetched_at": "2026-05-18T09:17:18.501669+00:00"
+    "fetched_at": "2026-05-18T09:29:42.988363+00:00"
   },
   {
     "id": "d7c2a5fd4daaebe2",
@@ -1401,7 +1401,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-15T18:30:45+00:00",
-    "fetched_at": "2026-05-18T09:17:19.920497+00:00"
+    "fetched_at": "2026-05-18T09:29:44.240594+00:00"
   },
   {
     "id": "3526aa962d74b87a",
@@ -1413,7 +1413,7 @@
     "source_id": "src-064",
     "category": "tehnologija",
     "published_at": "2026-05-15T18:25:53+00:00",
-    "fetched_at": "2026-05-18T09:17:18.501702+00:00"
+    "fetched_at": "2026-05-18T09:29:42.988407+00:00"
   },
   {
     "id": "36f6fc67216d10d3",
@@ -1425,7 +1425,7 @@
     "source_id": "src-064",
     "category": "tehnologija",
     "published_at": "2026-05-15T18:13:33+00:00",
-    "fetched_at": "2026-05-18T09:17:18.501744+00:00"
+    "fetched_at": "2026-05-18T09:29:42.988459+00:00"
   },
   {
     "id": "14a5c9c500f427c7",
@@ -1449,7 +1449,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-15T17:41:51+00:00",
-    "fetched_at": "2026-05-18T09:17:19.920529+00:00"
+    "fetched_at": "2026-05-18T09:29:44.240635+00:00"
   },
   {
     "id": "8f74d0b90da54568",
@@ -1537,7 +1537,7 @@
     "source_id": "src-067",
     "category": "tehnologija",
     "published_at": "2026-05-15T16:45:00+00:00",
-    "fetched_at": "2026-05-18T09:17:19.227029+00:00"
+    "fetched_at": "2026-05-18T09:29:43.448503+00:00"
   },
   {
     "id": "c9cdfcaf4bcc0c1e",
@@ -1801,7 +1801,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-15T13:00:01+00:00",
-    "fetched_at": "2026-05-18T09:17:20.152221+00:00"
+    "fetched_at": "2026-05-18T09:29:44.576523+00:00"
   },
   {
     "id": "e49705376d6f0701",
@@ -1829,7 +1829,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-15T12:10:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.796882+00:00"
+    "fetched_at": "2026-05-18T09:29:43.235788+00:00"
   },
   {
     "id": "6ff782e8928f3e24",
@@ -2065,7 +2065,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-15T09:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.796943+00:00"
+    "fetched_at": "2026-05-18T09:29:43.235862+00:00"
   },
   {
     "id": "29c4ad867675b80a",
@@ -2077,7 +2077,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-15T09:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:18.796996+00:00"
+    "fetched_at": "2026-05-18T09:29:43.235929+00:00"
   },
   {
     "id": "2ea236ff6da05051",
@@ -2313,7 +2313,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-15T00:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:20.799427+00:00"
+    "fetched_at": "2026-05-18T09:29:45.154583+00:00"
   },
   {
     "id": "cca00ce687818d9a",
@@ -2325,7 +2325,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-15T00:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:20.799473+00:00"
+    "fetched_at": "2026-05-18T09:29:45.154638+00:00"
   },
   {
     "id": "c64312c3121cafd6",
@@ -2337,7 +2337,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-15T00:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:20.799510+00:00"
+    "fetched_at": "2026-05-18T09:29:45.154701+00:00"
   },
   {
     "id": "248b5ff0699922b2",
@@ -2349,7 +2349,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-15T00:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:20.799546+00:00"
+    "fetched_at": "2026-05-18T09:29:45.154748+00:00"
   },
   {
     "id": "b5b1610b252a64e9",
@@ -2361,7 +2361,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-15T00:00:00+00:00",
-    "fetched_at": "2026-05-18T09:17:20.799582+00:00"
+    "fetched_at": "2026-05-18T09:29:45.154796+00:00"
   },
   {
     "id": "b929dc3c88caf053",
@@ -2405,7 +2405,7 @@
     "source_id": "src-067",
     "category": "tehnologija",
     "published_at": "2026-05-14T22:30:51+00:00",
-    "fetched_at": "2026-05-18T09:17:19.227192+00:00"
+    "fetched_at": "2026-05-18T09:29:43.448722+00:00"
   },
   {
     "id": "e2dc6c4a10cf8846",
@@ -2417,7 +2417,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-05-14T22:03:39+00:00",
-    "fetched_at": "2026-05-18T09:17:21.099722+00:00"
+    "fetched_at": "2026-05-18T09:29:45.453324+00:00"
   },
   {
     "id": "6dfcf7bc302701b7",
@@ -2429,7 +2429,7 @@
     "source_id": "src-067",
     "category": "tehnologija",
     "published_at": "2026-05-14T21:38:02+00:00",
-    "fetched_at": "2026-05-18T09:17:19.228165+00:00"
+    "fetched_at": "2026-05-18T09:29:43.449961+00:00"
   },
   {
     "id": "1095dcbadfaa5ca1",
@@ -2457,7 +2457,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-14T20:30:00+00:00",
-    "fetched_at": "2026-05-18T09:17:20.799617+00:00"
+    "fetched_at": "2026-05-18T09:29:45.154848+00:00"
   },
   {
     "id": "895cce060e452550",
@@ -2513,7 +2513,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-14T18:00:02+00:00",
-    "fetched_at": "2026-05-18T09:17:20.152440+00:00"
+    "fetched_at": "2026-05-18T09:29:44.576817+00:00"
   },
   {
     "id": "3c127295cc3c5f8f",

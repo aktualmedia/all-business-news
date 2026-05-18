@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-18T09:19:42.517296+00:00",
+  "updated_at": "2026-05-18T09:32:00.243340+00:00",
   "sources": 69,
-  "ok_sources": 13,
+  "ok_sources": 12,
   "events_count": 162,
   "results": [
     {
@@ -74,8 +74,9 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "kazalište / mjuzikl",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "id": "teatar-exit",
@@ -667,7 +668,7 @@
       "country": "Italija",
       "city": "Firenca",
       "type": "galerija / izložbe",
-      "status": "ok",
+      "status": "program_link_only",
       "count": 1
     },
     {

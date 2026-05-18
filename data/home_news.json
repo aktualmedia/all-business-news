@@ -9,7 +9,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 13 May 2026",
-    "fetched_at": "2026-05-18T09:16:28.766275+00:00"
+    "fetched_at": "2026-05-18T09:28:56.387070+00:00"
   },
   {
     "id": "a4949db277709e71",
@@ -21,7 +21,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 13 May 2026",
-    "fetched_at": "2026-05-18T09:16:28.766316+00:00"
+    "fetched_at": "2026-05-18T09:28:56.387126+00:00"
   },
   {
     "id": "27c389a18212551b",
@@ -33,7 +33,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 13 May 2026",
-    "fetched_at": "2026-05-18T09:16:28.766347+00:00"
+    "fetched_at": "2026-05-18T09:28:56.387169+00:00"
   },
   {
     "id": "29a44bc5a3cd29ef",
@@ -45,7 +45,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 13 May 2026",
-    "fetched_at": "2026-05-18T09:16:28.766389+00:00"
+    "fetched_at": "2026-05-18T09:28:56.387223+00:00"
   },
   {
     "id": "b4cea2ca3d77a858",
@@ -57,7 +57,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T09:16:28.766073+00:00"
+    "fetched_at": "2026-05-18T09:28:56.386815+00:00"
   },
   {
     "id": "e2fac71a9a137318",
@@ -69,7 +69,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T09:16:28.766112+00:00"
+    "fetched_at": "2026-05-18T09:28:56.386864+00:00"
   },
   {
     "id": "a8dbea1b4e140770",
@@ -81,7 +81,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T09:16:28.766158+00:00"
+    "fetched_at": "2026-05-18T09:28:56.386922+00:00"
   },
   {
     "id": "9c18e0c4b70616b1",
@@ -93,7 +93,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T09:16:28.766192+00:00"
+    "fetched_at": "2026-05-18T09:28:56.386965+00:00"
   },
   {
     "id": "2c10a0aaf1486a96",
@@ -105,7 +105,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T09:16:28.766226+00:00"
+    "fetched_at": "2026-05-18T09:28:56.387008+00:00"
   },
   {
     "id": "415368da854b2685",
@@ -117,7 +117,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-18T09:16:28.765917+00:00"
+    "fetched_at": "2026-05-18T09:28:56.386601+00:00"
   },
   {
     "id": "5e8b365c73bc0fa8",
@@ -129,7 +129,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-18T09:16:28.765986+00:00"
+    "fetched_at": "2026-05-18T09:28:56.386704+00:00"
   },
   {
     "id": "492451d320b59777",
@@ -141,7 +141,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-18T09:16:28.766028+00:00"
+    "fetched_at": "2026-05-18T09:28:56.386758+00:00"
+  },
+  {
+    "id": "91add6c6105083c5",
+    "title": "OpenAI begins roll out of personal finance suite",
+    "description": "OpenAI has released a preview of a new integration with account aggregator Plaid that enables ChatGPT users to connect all of their accounts and ask questions ranging from spending analysis to future financial planning.",
+    "url": "https://www.finextra.com/newsarticle/47767/openai-begins-roll-out-of-personal-finance-suite?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-news-c33d1f10726a/1200/750",
+    "source": "Finextra",
+    "source_id": "src-038",
+    "category": "financije",
+    "published_at": "2026-05-18T10:19:00+00:00",
+    "fetched_at": "2026-05-18T09:29:37.452102+00:00"
   },
   {
     "id": "a0a66b15c31c7fa7",
@@ -153,7 +165,7 @@
     "source_id": "src-038",
     "category": "financije",
     "published_at": "2026-05-18T09:31:00+00:00",
-    "fetched_at": "2026-05-18T09:17:11.042546+00:00"
+    "fetched_at": "2026-05-18T09:29:37.452180+00:00"
   },
   {
     "id": "1447e3ea8142ef42",
@@ -164,8 +176,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T09:18:20.378267+00:00",
-    "fetched_at": "2026-05-18T09:18:20.378269+00:00",
+    "published_at": "2026-05-18T09:30:42.111653+00:00",
+    "fetched_at": "2026-05-18T09:30:42.111655+00:00",
     "html_source": true
   },
   {
@@ -177,8 +189,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T09:18:20.378147+00:00",
-    "fetched_at": "2026-05-18T09:18:20.378148+00:00",
+    "published_at": "2026-05-18T09:30:42.111503+00:00",
+    "fetched_at": "2026-05-18T09:30:42.111505+00:00",
     "html_source": true
   },
   {
@@ -190,8 +202,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T09:18:20.378042+00:00",
-    "fetched_at": "2026-05-18T09:18:20.378043+00:00",
+    "published_at": "2026-05-18T09:30:42.111374+00:00",
+    "fetched_at": "2026-05-18T09:30:42.111376+00:00",
     "html_source": true
   },
   {
@@ -203,8 +215,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T09:18:20.377916+00:00",
-    "fetched_at": "2026-05-18T09:18:20.377917+00:00",
+    "published_at": "2026-05-18T09:30:42.111215+00:00",
+    "fetched_at": "2026-05-18T09:30:42.111217+00:00",
     "html_source": true
   },
   {
@@ -216,8 +228,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T09:18:20.377772+00:00",
-    "fetched_at": "2026-05-18T09:18:20.377773+00:00",
+    "published_at": "2026-05-18T09:30:42.111043+00:00",
+    "fetched_at": "2026-05-18T09:30:42.111045+00:00",
     "html_source": true
   },
   {
@@ -229,8 +241,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T09:18:20.377653+00:00",
-    "fetched_at": "2026-05-18T09:18:20.377654+00:00",
+    "published_at": "2026-05-18T09:30:42.110891+00:00",
+    "fetched_at": "2026-05-18T09:30:42.110893+00:00",
     "html_source": true
   },
   {
@@ -242,8 +254,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T09:18:20.377520+00:00",
-    "fetched_at": "2026-05-18T09:18:20.377522+00:00",
+    "published_at": "2026-05-18T09:30:42.110720+00:00",
+    "fetched_at": "2026-05-18T09:30:42.110722+00:00",
     "html_source": true
   },
   {
@@ -255,8 +267,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T09:18:20.377382+00:00",
-    "fetched_at": "2026-05-18T09:18:20.377383+00:00",
+    "published_at": "2026-05-18T09:30:42.110532+00:00",
+    "fetched_at": "2026-05-18T09:30:42.110534+00:00",
     "html_source": true
   },
   {
@@ -268,8 +280,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T09:18:20.377247+00:00",
-    "fetched_at": "2026-05-18T09:18:20.377249+00:00",
+    "published_at": "2026-05-18T09:30:42.110359+00:00",
+    "fetched_at": "2026-05-18T09:30:42.110362+00:00",
     "html_source": true
   },
   {
@@ -281,8 +293,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T09:18:20.377098+00:00",
-    "fetched_at": "2026-05-18T09:18:20.377099+00:00",
+    "published_at": "2026-05-18T09:30:42.110172+00:00",
+    "fetched_at": "2026-05-18T09:30:42.110174+00:00",
     "html_source": true
   },
   {
@@ -294,8 +306,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T09:18:20.376977+00:00",
-    "fetched_at": "2026-05-18T09:18:20.376979+00:00",
+    "published_at": "2026-05-18T09:30:42.110016+00:00",
+    "fetched_at": "2026-05-18T09:30:42.110019+00:00",
     "html_source": true
   },
   {
@@ -307,8 +319,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T09:18:20.376830+00:00",
-    "fetched_at": "2026-05-18T09:18:20.376844+00:00",
+    "published_at": "2026-05-18T09:30:42.109831+00:00",
+    "fetched_at": "2026-05-18T09:30:42.109847+00:00",
     "html_source": true
   },
   {
@@ -320,8 +332,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T09:18:19.606745+00:00",
-    "fetched_at": "2026-05-18T09:18:19.606747+00:00",
+    "published_at": "2026-05-18T09:30:41.511828+00:00",
+    "fetched_at": "2026-05-18T09:30:41.511830+00:00",
     "html_source": true
   },
   {
@@ -333,8 +345,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T09:18:19.606608+00:00",
-    "fetched_at": "2026-05-18T09:18:19.606610+00:00",
+    "published_at": "2026-05-18T09:30:41.511637+00:00",
+    "fetched_at": "2026-05-18T09:30:41.511639+00:00",
     "html_source": true
   },
   {
@@ -346,8 +358,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T09:18:19.606468+00:00",
-    "fetched_at": "2026-05-18T09:18:19.606469+00:00",
+    "published_at": "2026-05-18T09:30:41.511455+00:00",
+    "fetched_at": "2026-05-18T09:30:41.511457+00:00",
     "html_source": true
   },
   {
@@ -359,8 +371,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T09:18:19.606352+00:00",
-    "fetched_at": "2026-05-18T09:18:19.606353+00:00",
+    "published_at": "2026-05-18T09:30:41.511305+00:00",
+    "fetched_at": "2026-05-18T09:30:41.511307+00:00",
     "html_source": true
   },
   {
@@ -372,8 +384,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T09:18:19.606222+00:00",
-    "fetched_at": "2026-05-18T09:18:19.606224+00:00",
+    "published_at": "2026-05-18T09:30:41.511140+00:00",
+    "fetched_at": "2026-05-18T09:30:41.511142+00:00",
     "html_source": true
   },
   {
@@ -385,8 +397,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T09:18:19.606102+00:00",
-    "fetched_at": "2026-05-18T09:18:19.606103+00:00",
+    "published_at": "2026-05-18T09:30:41.510984+00:00",
+    "fetched_at": "2026-05-18T09:30:41.510986+00:00",
     "html_source": true
   },
   {
@@ -398,8 +410,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T09:18:19.605988+00:00",
-    "fetched_at": "2026-05-18T09:18:19.605989+00:00",
+    "published_at": "2026-05-18T09:30:41.510838+00:00",
+    "fetched_at": "2026-05-18T09:30:41.510840+00:00",
     "html_source": true
   },
   {
@@ -411,8 +423,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T09:18:19.605873+00:00",
-    "fetched_at": "2026-05-18T09:18:19.605874+00:00",
+    "published_at": "2026-05-18T09:30:41.510695+00:00",
+    "fetched_at": "2026-05-18T09:30:41.510697+00:00",
     "html_source": true
   },
   {
@@ -424,8 +436,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T09:18:19.605734+00:00",
-    "fetched_at": "2026-05-18T09:18:19.605735+00:00",
+    "published_at": "2026-05-18T09:30:41.510523+00:00",
+    "fetched_at": "2026-05-18T09:30:41.510525+00:00",
     "html_source": true
   },
   {
@@ -437,8 +449,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T09:18:19.605587+00:00",
-    "fetched_at": "2026-05-18T09:18:19.605589+00:00",
+    "published_at": "2026-05-18T09:30:41.510340+00:00",
+    "fetched_at": "2026-05-18T09:30:41.510342+00:00",
     "html_source": true
   },
   {
@@ -450,8 +462,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T09:18:19.605460+00:00",
-    "fetched_at": "2026-05-18T09:18:19.605462+00:00",
+    "published_at": "2026-05-18T09:30:41.510174+00:00",
+    "fetched_at": "2026-05-18T09:30:41.510177+00:00",
     "html_source": true
   },
   {
@@ -463,8 +475,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T09:18:19.605301+00:00",
-    "fetched_at": "2026-05-18T09:18:19.605315+00:00",
+    "published_at": "2026-05-18T09:30:41.509973+00:00",
+    "fetched_at": "2026-05-18T09:30:41.509988+00:00",
     "html_source": true
   },
   {
@@ -476,8 +488,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.066479+00:00",
-    "fetched_at": "2026-05-18T09:18:19.066480+00:00",
+    "published_at": "2026-05-18T09:30:40.831125+00:00",
+    "fetched_at": "2026-05-18T09:30:40.831127+00:00",
     "html_source": true
   },
   {
@@ -489,8 +501,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.066299+00:00",
-    "fetched_at": "2026-05-18T09:18:19.066300+00:00",
+    "published_at": "2026-05-18T09:30:40.830892+00:00",
+    "fetched_at": "2026-05-18T09:30:40.830894+00:00",
     "html_source": true
   },
   {
@@ -502,8 +514,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.066232+00:00",
-    "fetched_at": "2026-05-18T09:18:19.066233+00:00",
+    "published_at": "2026-05-18T09:30:40.830807+00:00",
+    "fetched_at": "2026-05-18T09:30:40.830809+00:00",
     "html_source": true
   },
   {
@@ -515,8 +527,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.066161+00:00",
-    "fetched_at": "2026-05-18T09:18:19.066162+00:00",
+    "published_at": "2026-05-18T09:30:40.830716+00:00",
+    "fetched_at": "2026-05-18T09:30:40.830718+00:00",
     "html_source": true
   },
   {
@@ -528,8 +540,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.066093+00:00",
-    "fetched_at": "2026-05-18T09:18:19.066095+00:00",
+    "published_at": "2026-05-18T09:30:40.830619+00:00",
+    "fetched_at": "2026-05-18T09:30:40.830621+00:00",
     "html_source": true
   },
   {
@@ -541,8 +553,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.066022+00:00",
-    "fetched_at": "2026-05-18T09:18:19.066023+00:00",
+    "published_at": "2026-05-18T09:30:40.830531+00:00",
+    "fetched_at": "2026-05-18T09:30:40.830533+00:00",
     "html_source": true
   },
   {
@@ -554,8 +566,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.065947+00:00",
-    "fetched_at": "2026-05-18T09:18:19.065948+00:00",
+    "published_at": "2026-05-18T09:30:40.830439+00:00",
+    "fetched_at": "2026-05-18T09:30:40.830441+00:00",
     "html_source": true
   },
   {
@@ -567,8 +579,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.065828+00:00",
-    "fetched_at": "2026-05-18T09:18:19.065829+00:00",
+    "published_at": "2026-05-18T09:30:40.830286+00:00",
+    "fetched_at": "2026-05-18T09:30:40.830287+00:00",
     "html_source": true
   },
   {
@@ -580,8 +592,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.065744+00:00",
-    "fetched_at": "2026-05-18T09:18:19.065745+00:00",
+    "published_at": "2026-05-18T09:30:40.830190+00:00",
+    "fetched_at": "2026-05-18T09:30:40.830192+00:00",
     "html_source": true
   },
   {
@@ -593,8 +605,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.065666+00:00",
-    "fetched_at": "2026-05-18T09:18:19.065668+00:00",
+    "published_at": "2026-05-18T09:30:40.830090+00:00",
+    "fetched_at": "2026-05-18T09:30:40.830092+00:00",
     "html_source": true
   },
   {
@@ -606,8 +618,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.065589+00:00",
-    "fetched_at": "2026-05-18T09:18:19.065590+00:00",
+    "published_at": "2026-05-18T09:30:40.829992+00:00",
+    "fetched_at": "2026-05-18T09:30:40.829994+00:00",
     "html_source": true
   },
   {
@@ -619,8 +631,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.065498+00:00",
-    "fetched_at": "2026-05-18T09:18:19.065500+00:00",
+    "published_at": "2026-05-18T09:30:40.829877+00:00",
+    "fetched_at": "2026-05-18T09:30:40.829879+00:00",
     "html_source": true
   },
   {
@@ -632,8 +644,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.065402+00:00",
-    "fetched_at": "2026-05-18T09:18:19.065404+00:00",
+    "published_at": "2026-05-18T09:30:40.829754+00:00",
+    "fetched_at": "2026-05-18T09:30:40.829756+00:00",
     "html_source": true
   },
   {
@@ -645,8 +657,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.065309+00:00",
-    "fetched_at": "2026-05-18T09:18:19.065311+00:00",
+    "published_at": "2026-05-18T09:30:40.829625+00:00",
+    "fetched_at": "2026-05-18T09:30:40.829626+00:00",
     "html_source": true
   },
   {
@@ -658,8 +670,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.065211+00:00",
-    "fetched_at": "2026-05-18T09:18:19.065213+00:00",
+    "published_at": "2026-05-18T09:30:40.829504+00:00",
+    "fetched_at": "2026-05-18T09:30:40.829506+00:00",
     "html_source": true
   },
   {
@@ -671,8 +683,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.065115+00:00",
-    "fetched_at": "2026-05-18T09:18:19.065117+00:00",
+    "published_at": "2026-05-18T09:30:40.829383+00:00",
+    "fetched_at": "2026-05-18T09:30:40.829385+00:00",
     "html_source": true
   },
   {
@@ -684,8 +696,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.065018+00:00",
-    "fetched_at": "2026-05-18T09:18:19.065020+00:00",
+    "published_at": "2026-05-18T09:30:40.829266+00:00",
+    "fetched_at": "2026-05-18T09:30:40.829268+00:00",
     "html_source": true
   },
   {
@@ -697,8 +709,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T09:18:19.064907+00:00",
-    "fetched_at": "2026-05-18T09:18:19.064921+00:00",
+    "published_at": "2026-05-18T09:30:40.829129+00:00",
+    "fetched_at": "2026-05-18T09:30:40.829144+00:00",
     "html_source": true
   },
   {
@@ -710,8 +722,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.469407+00:00",
-    "fetched_at": "2026-05-18T09:18:18.469408+00:00",
+    "published_at": "2026-05-18T09:30:40.283591+00:00",
+    "fetched_at": "2026-05-18T09:30:40.283593+00:00",
     "html_source": true
   },
   {
@@ -723,8 +735,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.469331+00:00",
-    "fetched_at": "2026-05-18T09:18:18.469332+00:00",
+    "published_at": "2026-05-18T09:30:40.283494+00:00",
+    "fetched_at": "2026-05-18T09:30:40.283496+00:00",
     "html_source": true
   },
   {
@@ -736,8 +748,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.469259+00:00",
-    "fetched_at": "2026-05-18T09:18:18.469260+00:00",
+    "published_at": "2026-05-18T09:30:40.283402+00:00",
+    "fetched_at": "2026-05-18T09:30:40.283404+00:00",
     "html_source": true
   },
   {
@@ -749,8 +761,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.469163+00:00",
-    "fetched_at": "2026-05-18T09:18:18.469165+00:00",
+    "published_at": "2026-05-18T09:30:40.283281+00:00",
+    "fetched_at": "2026-05-18T09:30:40.283283+00:00",
     "html_source": true
   },
   {
@@ -762,8 +774,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.468982+00:00",
-    "fetched_at": "2026-05-18T09:18:18.468983+00:00",
+    "published_at": "2026-05-18T09:30:40.283051+00:00",
+    "fetched_at": "2026-05-18T09:30:40.283053+00:00",
     "html_source": true
   },
   {
@@ -775,8 +787,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.468849+00:00",
-    "fetched_at": "2026-05-18T09:18:18.468851+00:00",
+    "published_at": "2026-05-18T09:30:40.282884+00:00",
+    "fetched_at": "2026-05-18T09:30:40.282886+00:00",
     "html_source": true
   },
   {
@@ -788,8 +800,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.468588+00:00",
-    "fetched_at": "2026-05-18T09:18:18.468589+00:00",
+    "published_at": "2026-05-18T09:30:40.282551+00:00",
+    "fetched_at": "2026-05-18T09:30:40.282552+00:00",
     "html_source": true
   },
   {
@@ -801,8 +813,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.468510+00:00",
-    "fetched_at": "2026-05-18T09:18:18.468511+00:00",
+    "published_at": "2026-05-18T09:30:40.282454+00:00",
+    "fetched_at": "2026-05-18T09:30:40.282456+00:00",
     "html_source": true
   },
   {
@@ -814,8 +826,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.468431+00:00",
-    "fetched_at": "2026-05-18T09:18:18.468432+00:00",
+    "published_at": "2026-05-18T09:30:40.282355+00:00",
+    "fetched_at": "2026-05-18T09:30:40.282357+00:00",
     "html_source": true
   },
   {
@@ -827,8 +839,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.467765+00:00",
-    "fetched_at": "2026-05-18T09:18:18.467767+00:00",
+    "published_at": "2026-05-18T09:30:40.281505+00:00",
+    "fetched_at": "2026-05-18T09:30:40.281508+00:00",
     "html_source": true
   },
   {
@@ -840,8 +852,8 @@
     "source": "Journal.hr - ljepota",
     "source_id": "extra-journal-ljepota",
     "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.290017+00:00",
-    "fetched_at": "2026-05-18T09:18:18.290018+00:00",
+    "published_at": "2026-05-18T09:30:39.429202+00:00",
+    "fetched_at": "2026-05-18T09:30:39.429204+00:00",
     "html_source": true
   },
   {
@@ -853,8 +865,8 @@
     "source": "Journal.hr - ljepota",
     "source_id": "extra-journal-ljepota",
     "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.289946+00:00",
-    "fetched_at": "2026-05-18T09:18:18.289947+00:00",
+    "published_at": "2026-05-18T09:30:39.429113+00:00",
+    "fetched_at": "2026-05-18T09:30:39.429115+00:00",
     "html_source": true
   },
   {
@@ -866,8 +878,8 @@
     "source": "Journal.hr - ljepota",
     "source_id": "extra-journal-ljepota",
     "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.289877+00:00",
-    "fetched_at": "2026-05-18T09:18:18.289878+00:00",
+    "published_at": "2026-05-18T09:30:39.429025+00:00",
+    "fetched_at": "2026-05-18T09:30:39.429027+00:00",
     "html_source": true
   },
   {
@@ -879,8 +891,8 @@
     "source": "Journal.hr - ljepota",
     "source_id": "extra-journal-ljepota",
     "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.289793+00:00",
-    "fetched_at": "2026-05-18T09:18:18.289805+00:00",
+    "published_at": "2026-05-18T09:30:39.428936+00:00",
+    "fetched_at": "2026-05-18T09:30:39.428938+00:00",
     "html_source": true
   },
   {
@@ -892,8 +904,8 @@
     "source": "Journal.hr - ljepota",
     "source_id": "extra-journal-ljepota",
     "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.289723+00:00",
-    "fetched_at": "2026-05-18T09:18:18.289724+00:00",
+    "published_at": "2026-05-18T09:30:39.428845+00:00",
+    "fetched_at": "2026-05-18T09:30:39.428847+00:00",
     "html_source": true
   },
   {
@@ -905,21 +917,8 @@
     "source": "Journal.hr - ljepota",
     "source_id": "extra-journal-ljepota",
     "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.289653+00:00",
-    "fetched_at": "2026-05-18T09:18:18.289655+00:00",
-    "html_source": true
-  },
-  {
-    "id": "7000f9f91b8f5d77",
-    "title": "Svi luduju za PDRN skincare proizvodima, a čini vam se da samo vama ne djeluju? Znamo zašto",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - ljepota. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/ljepota/trendovi-ljepota/pdrn-skincare-proizvodi/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/pdrn-670-550x550.jpg",
-    "source": "Journal.hr - ljepota",
-    "source_id": "extra-journal-ljepota",
-    "category": "lifestyle",
-    "published_at": "2026-05-18T09:18:18.289582+00:00",
-    "fetched_at": "2026-05-18T09:18:18.289583+00:00",
+    "published_at": "2026-05-18T09:30:39.428757+00:00",
+    "fetched_at": "2026-05-18T09:30:39.428760+00:00",
     "html_source": true
   }
 ]
