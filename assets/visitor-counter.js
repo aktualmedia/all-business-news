@@ -1,56 +1,72 @@
 (() => {
   const START = 629;
-  const STORAGE_KEY = 'wv_read_counter_v2';
+  const STORAGE_KEY = 'wv_read_counter_live_v4';
   const FIRST_DAY = '2026-05-18';
 
-  function zagrebNow(){
-    const parts = new Intl.DateTimeFormat('en-CA', {
-      timeZone: 'Europe/Zagreb', year: 'numeric', month: '2-digit', day: '2-digit',
-      hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false
-    }).formatToParts(new Date()).reduce((a,p)=>{a[p.type]=p.value; return a;},{});
-    return { date: `${parts.year}-${parts.month}-${parts.day}`, hour: Number(parts.hour || 0), minute: Number(parts.minute || 0), second: Number(parts.second || 0) };
+  function getDateParts(){
+    try {
+      const p = new Intl.DateTimeFormat('en-CA', {
+        timeZone:'Europe/Zagreb', year:'numeric', month:'2-digit', day:'2-digit',
+        hour:'2-digit', minute:'2-digit', second:'2-digit', hour12:false
+      }).formatToParts(new Date()).reduce((a,x)=>{a[x.type]=x.value; return a;},{});
+      return {date:`${p.year}-${p.month}-${p.day}`, hour:Number(p.hour||0), minute:Number(p.minute||0), second:Number(p.second||0)};
+    } catch(e) {
+      const d = new Date();
+      return {date:d.toISOString().slice(0,10), hour:d.getHours(), minute:d.getMinutes(), second:d.getSeconds()};
+    }
   }
-  function hashDay(date){ let h = 2166136261; for(const ch of String(date)){ h ^= ch.charCodeAt(0); h = Math.imul(h, 16777619); } return Math.abs(h >>> 0); }
-  function seeded(date, salt){ return (hashDay(date + ':' + salt) % 10000) / 10000; }
-  function dayDiff(a, b){ return Math.max(0, Math.floor((new Date(b + 'T00:00:00Z') - new Date(a + 'T00:00:00Z')) / 86400000)); }
-  function plannedForToday(now){
-    const hour = now.hour + now.minute / 60 + now.second / 3600;
+  function hash(s){ let h=2166136261; for(const ch of String(s)){ h^=ch.charCodeAt(0); h=Math.imul(h,16777619); } return Math.abs(h>>>0); }
+  function seeded(date, salt){ return (hash(date+':'+salt)%10000)/10000; }
+  function daysFromStart(today){ return Math.max(0, Math.floor((new Date(today+'T00:00:00Z') - new Date(FIRST_DAY+'T00:00:00Z'))/86400000)); }
+  function planned(now){
+    const hour = now.hour + now.minute/60 + now.second/3600;
     let v = 0;
-    if(hour >= 7){ const end = Math.min(hour, 9); if(end > 7) v += ((end - 7) / 2) * (70 * (0.95 + seeded(now.date, 'morning') * 0.10)); }
-    const hourlyBase = 12 + seeded(now.date, 'hourly') * 7;
-    const end = Math.min(hour, 16); if(end > 9) v += (end - 9) * hourlyBase * (0.975 + seeded(now.date, 'dayvar') * 0.05);
-    if(hour >= 16){ const e = Math.min(hour, 18); if(e > 16) v += ((e - 16) / 2) * (5 + seeded(now.date, 'afternoon') * 5); }
-    if(hour >= 18){ const e = Math.min(hour, 19); if(e > 18) v += (e - 18) * (8 + seeded(now.date, 'transition') * 4); }
-    if(hour >= 19){ const e = Math.min(hour, 22); if(e > 19) v += ((e - 19) / 3) * 30 * (0.85 + seeded(now.date, 'evening') * 0.30); }
-    if(hour > 22) v += (hour - 22) * (1 + seeded(now.date, 'late') * 2);
+    if(hour >= 7){ const e=Math.min(hour,9); if(e>7) v += ((e-7)/2) * (70 * (0.95 + seeded(now.date,'m')*0.10)); }
+    if(hour > 9){ const e=Math.min(hour,16); if(e>9) v += (e-9) * (12 + seeded(now.date,'h')*7); }
+    if(hour >= 16){ const e=Math.min(hour,18); if(e>16) v += ((e-16)/2) * (5 + seeded(now.date,'a')*5); }
+    if(hour >= 18){ const e=Math.min(hour,19); if(e>18) v += (e-18) * (8 + seeded(now.date,'t')*4); }
+    if(hour >= 19){ const e=Math.min(hour,22); if(e>19) v += ((e-19)/3) * 30 * (0.85 + seeded(now.date,'e')*0.30); }
+    if(hour > 22) v += (hour-22) * (1 + seeded(now.date,'l')*2);
     return Math.floor(v);
   }
-  function loadState(){ try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}') || {}; } catch(e){ return {}; } }
-  function saveState(s){ try { localStorage.setItem(STORAGE_KEY, JSON.stringify(s)); } catch(e) {} }
-  function compute(incrementOpen=false){
-    const now = zagrebNow();
-    const state = loadState();
-    const days = dayDiff(FIRST_DAY, now.date);
-    const historic = Math.floor(days * (150 + seeded(now.date, 'historic') * 55));
-    const scheduled = plannedForToday(now);
-    if(incrementOpen){
-      const openKey = `${now.date}-${location.pathname}-${Math.floor(Date.now()/2500)}`;
-      if(state.lastOpenKey !== openKey){ state.organic = Number(state.organic || 0) + 1; state.lastOpenKey = openKey; }
+  function load(){ try { return JSON.parse(localStorage.getItem(STORAGE_KEY)||'{}') || {}; } catch(e){ return {}; } }
+  function save(s){ try { localStorage.setItem(STORAGE_KEY, JSON.stringify(s)); } catch(e){} }
+  function number(increment){
+    const now = getDateParts();
+    const st = load();
+    if(st.date && st.date !== now.date){
+      st.organic = 0;
+      st.lastOpenKey = '';
     }
-    state.date = now.date;
-    state.updatedAt = new Date().toISOString();
-    saveState(state);
-    return START + historic + scheduled + Number(state.organic || 0);
+    st.date = now.date;
+    if(increment){
+      const key = `${now.date}:${location.pathname}:${Math.floor(Date.now()/3000)}`;
+      if(st.lastOpenKey !== key){
+        st.organic = Number(st.organic || 0) + 1;
+        st.lastOpenKey = key;
+      }
+    }
+    st.updatedAt = new Date().toISOString();
+    save(st);
+    const historic = daysFromStart(now.date) * 173;
+    return START + historic + planned(now) + Number(st.organic || 0);
   }
-  function paint(value){
-    const formatted = new Intl.NumberFormat('hr-HR').format(value);
-    document.querySelectorAll('[data-wv-counter="reads"]').forEach(el => el.textContent = formatted);
-    const slot = document.getElementById('wvReadCounter'); if(slot) slot.textContent = formatted;
+  function paint(v){
+    const txt = new Intl.NumberFormat('hr-HR').format(Math.max(START, Math.floor(v)));
+    let painted = false;
+    document.querySelectorAll('[data-wv-counter="reads"], #wvReadCounter').forEach(el => { el.textContent = txt; painted = true; });
+    if(!painted){
+      const host = document.querySelector('.read-counter-card strong');
+      if(host) host.textContent = txt;
+    }
   }
-  function addOrganicClick(){ const st=loadState(); st.organic = Number(st.organic || 0) + 1; saveState(st); paint(compute(false)); }
-  document.addEventListener('DOMContentLoaded', () => {
-    paint(compute(true));
-    document.addEventListener('click', ev => { if(ev.target.closest('a,button')) addOrganicClick(); }, {passive:true});
-    setInterval(() => paint(compute(false)), 60000);
-  });
+  function tick(increment=false){ paint(number(increment)); }
+  function boot(){
+    tick(true);
+    document.addEventListener('click', e => { if(e.target && e.target.closest && e.target.closest('a,button')) tick(true); }, {passive:true});
+    setInterval(() => tick(false), 15000);
+    setTimeout(() => tick(false), 500);
+    setTimeout(() => tick(false), 1500);
+  }
+  if(document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot); else boot();
 })();
