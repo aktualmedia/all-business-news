@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T12:23:36.768214+00:00",
+  "updated_at": "2026-05-18T13:00:04.511353+00:00",
   "sources": 69,
   "ok_sources": 13,
   "events_count": 164,
@@ -396,9 +396,8 @@
       "country": "Njemačka",
       "city": "Berlin",
       "type": "kazalište / premijere",
-      "status": "fallback",
-      "count": 1,
-      "error": "<urlopen error timed out>"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "berliner-ensemble",
