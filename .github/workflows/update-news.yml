@@ -12,6 +12,8 @@ on:
       - ".github/workflows/update-news.yml"
       - "update_news.py"
       - "fill_premium_categories.py"
+      - "fill_core_business_science.py"
+      - "fill_missing_core_categories.py"
       - "update_events.py"
       - "postprocess_news.py"
       - "generate_home_data.py"
@@ -64,13 +66,15 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Azuriraj vijesti dogadjanja home podatke galeriju i SEO
+      - name: Azuriraj vijesti dogadjanja premium kategorije home podatke galeriju i SEO
         run: |
           echo "START UPDATE: $(date -u)"
           python update_news.py || echo "update_news.py nije prosao do kraja, nastavljam postprocess"
           python update_events.py || echo "update_events.py nije prosao do kraja, nastavljam dalje"
           python postprocess_news.py
           python fill_premium_categories.py || echo "fill_premium_categories.py nije prosao do kraja, nastavljam dalje"
+          python fill_core_business_science.py || echo "fill_core_business_science.py nije prosao do kraja, nastavljam dalje"
+          python fill_missing_core_categories.py || echo "fill_missing_core_categories.py nije prosao do kraja, nastavljam dalje"
           python generate_home_data.py
           python generate_seo.py
           echo "END UPDATE: $(date -u)"
@@ -80,6 +84,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data/news.json data/archive.json data/category_news data/category_counts.json data/generated_at.json data/source_stats.json data/source_quality.json data/manual_gallery.json data/events_calendar.json data/events_status.json data/manual_events.json data/home_news.json data/home_events.json data/home_symbol.json data/home_status.json data/seo_index.json sitemap.xml sitemap-news.xml sitemap-posts.xml sitemap-authors.xml sitemap-events.xml urllist.txt site.webmanifest llms.txt robots.txt
-          git commit -m "Automatsko azuriranje vijesti dogadjanja home podataka galerije i SEO datoteka" || echo "Nema promjena za commit"
+          git commit -m "Automatsko azuriranje vijesti dogadjanja premium kategorija home podataka galerije i SEO datoteka" || echo "Nema promjena za commit"
           git pull --rebase || true
           git push || true
