@@ -40,22 +40,22 @@
     "auto_from_news": true
   },
   {
-    "title": "Sell, close, or continue? The transfer of US businesses is at a crossroads",
-    "description": "McKinsey Insights · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-cca155eb19b4/1200/750",
-    "category": "poslovanje",
-    "label": "POSLOVANJE",
-    "source_url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/sell-close-or-continue-the-transfer-of-us-businesses-is-at-a-crossroads",
-    "created_at": "Thu, 14 May 2026",
-    "auto_from_news": true
-  },
-  {
     "title": "Alabama’s playbook for jobs, growth, and economic opportunity",
     "description": "McKinsey Insights · fotografija iz vijesti",
     "image": "https://picsum.photos/seed/wv-news-0f247dc14253/1200/750",
     "category": "muzeji",
     "label": "MUZEJI",
     "source_url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/alabamas-playbook-for-jobs-growth-and-economic-opportunity",
+    "created_at": "Thu, 14 May 2026",
+    "auto_from_news": true
+  },
+  {
+    "title": "Sell, close, or continue? The transfer of US businesses is at a crossroads",
+    "description": "McKinsey Insights · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-cca155eb19b4/1200/750",
+    "category": "poslovanje",
+    "label": "POSLOVANJE",
+    "source_url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/sell-close-or-continue-the-transfer-of-us-businesses-is-at-a-crossroads",
     "created_at": "Thu, 14 May 2026",
     "auto_from_news": true
   },
@@ -120,13 +120,23 @@
     "auto_from_news": true
   },
   {
+    "title": "CFIT unveils Open Property roadmap",
+    "description": "Finextra · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-7eca64aad124/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.finextra.com/pressarticle/109866/cfit-unveils-open-property-roadmap?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "created_at": "2026-05-18T12:15:00+00:00",
+    "auto_from_news": true
+  },
+  {
     "title": "Pad Thai je kultni tajlandski street food koji je osvojio svijet. Imamo recept koji možete napraviti kod kuće Utorak, 12. svibnja 2026.",
     "description": "Journal.hr - gastro · fotografija iz vijesti",
     "image": "https://www.journal.hr/wp-content/uploads/2026/05/pad-thai-recept-768x432.jpg",
     "category": "hedonizam",
     "label": "HEDONIZAM",
     "source_url": "https://www.journal.hr/lifestyle/gastro/pad-thai-recept/",
-    "created_at": "2026-05-18T11:31:47.567723+00:00",
+    "created_at": "2026-05-18T11:52:38.636410+00:00",
     "auto_from_news": true
   },
   {
@@ -136,7 +146,7 @@
     "category": "hedonizam",
     "label": "HEDONIZAM",
     "source_url": "https://www.journal.hr/lifestyle/gastro/restoran-fenix-hotel-hyatt-regency-zadar-nova-sezona/",
-    "created_at": "2026-05-18T11:31:47.567598+00:00",
+    "created_at": "2026-05-18T11:52:38.636248+00:00",
     "auto_from_news": true
   },
   {
@@ -146,7 +156,7 @@
     "category": "hedonizam",
     "label": "HEDONIZAM",
     "source_url": "https://www.journal.hr/lifestyle/gastro/boogie-moonlight-sessions-druga-vecer/",
-    "created_at": "2026-05-18T11:31:47.567488+00:00",
+    "created_at": "2026-05-18T11:52:38.636088+00:00",
     "auto_from_news": true
   },
   {
@@ -156,7 +166,7 @@
     "category": "hedonizam",
     "label": "HEDONIZAM",
     "source_url": "https://www.journal.hr/lifestyle/gastro/dani-jagoda-2026-hotel-esplanade/",
-    "created_at": "2026-05-18T11:31:47.567353+00:00",
+    "created_at": "2026-05-18T11:52:38.635923+00:00",
     "auto_from_news": true
   },
   {
@@ -166,7 +176,7 @@
     "category": "film",
     "label": "FILM",
     "source_url": "https://www.journal.hr/lifestyle/gastro/beats-bites-2026/",
-    "created_at": "2026-05-18T11:31:47.567206+00:00",
+    "created_at": "2026-05-18T11:52:38.635749+00:00",
     "auto_from_news": true
   },
   {
@@ -176,7 +186,7 @@
     "category": "hedonizam",
     "label": "HEDONIZAM",
     "source_url": "https://www.journal.hr/lifestyle/gastro/gastro-dogadanja-u-zagrebu-2026/",
-    "created_at": "2026-05-18T11:31:47.567090+00:00",
+    "created_at": "2026-05-18T11:52:38.635591+00:00",
     "auto_from_news": true
   },
   {
@@ -186,7 +196,7 @@
     "category": "hedonizam",
     "label": "HEDONIZAM",
     "source_url": "https://www.journal.hr/lifestyle/gastro/zobene-pahuljice-s-limunom-i-pistacijama/",
-    "created_at": "2026-05-18T11:31:47.566962+00:00",
+    "created_at": "2026-05-18T11:52:38.635416+00:00",
     "auto_from_news": true
   },
   {
@@ -196,7 +206,7 @@
     "category": "hedonizam",
     "label": "HEDONIZAM",
     "source_url": "https://www.journal.hr/lifestyle/gastro/chicken-rice-bowl/",
-    "created_at": "2026-05-18T11:31:47.566828+00:00",
+    "created_at": "2026-05-18T11:52:38.635207+00:00",
     "auto_from_news": true
   },
   {
@@ -206,7 +216,7 @@
     "category": "hedonizam",
     "label": "HEDONIZAM",
     "source_url": "https://www.journal.hr/lifestyle/gastro/tart-s-malinama-jagodama-i-bijelom-cokoladom-zara-home/",
-    "created_at": "2026-05-18T11:31:47.566699+00:00",
+    "created_at": "2026-05-18T11:52:38.635033+00:00",
     "auto_from_news": true
   },
   {
@@ -216,7 +226,7 @@
     "category": "hedonizam",
     "label": "HEDONIZAM",
     "source_url": "https://www.journal.hr/lifestyle/gastro/chef-james-henry/",
-    "created_at": "2026-05-18T11:31:47.566555+00:00",
+    "created_at": "2026-05-18T11:52:38.634834+00:00",
     "auto_from_news": true
   },
   {
@@ -226,7 +236,7 @@
     "category": "hedonizam",
     "label": "HEDONIZAM",
     "source_url": "https://www.journal.hr/lifestyle/gastro/tost-sa-graskom-i-ricottom/",
-    "created_at": "2026-05-18T11:31:47.566436+00:00",
+    "created_at": "2026-05-18T11:52:38.634673+00:00",
     "auto_from_news": true
   },
   {
@@ -236,7 +246,7 @@
     "category": "hedonizam",
     "label": "HEDONIZAM",
     "source_url": "https://www.journal.hr/lifestyle/gastro/zapecene-palacinke-sa-sirom/",
-    "created_at": "2026-05-18T11:31:47.566290+00:00",
+    "created_at": "2026-05-18T11:52:38.634489+00:00",
     "auto_from_news": true
   },
   {
@@ -246,7 +256,7 @@
     "category": "dizajn",
     "label": "DIZAJN",
     "source_url": "https://www.journal.hr/lifestyle/interijeri/stan-bez-zidova-rdth-studio/",
-    "created_at": "2026-05-18T11:31:47.355304+00:00",
+    "created_at": "2026-05-18T11:52:38.116325+00:00",
     "auto_from_news": true
   },
   {
@@ -256,7 +266,7 @@
     "category": "dizajn",
     "label": "DIZAJN",
     "source_url": "https://www.journal.hr/lifestyle/interijeri/hotel-u-zagrebu-hotel-academia-obnova/",
-    "created_at": "2026-05-18T11:31:47.355160+00:00",
+    "created_at": "2026-05-18T11:52:38.116120+00:00",
     "auto_from_news": true
   },
   {
@@ -266,7 +276,7 @@
     "category": "dizajn",
     "label": "DIZAJN",
     "source_url": "https://www.journal.hr/lifestyle/interijeri/seaweed-studio-otok-milos-grcka-smjestaj/",
-    "created_at": "2026-05-18T11:31:47.355018+00:00",
+    "created_at": "2026-05-18T11:52:38.115931+00:00",
     "auto_from_news": true
   },
   {
@@ -276,7 +286,7 @@
     "category": "dizajn",
     "label": "DIZAJN",
     "source_url": "https://www.journal.hr/lifestyle/interijeri/vila-u-ceskoj-villa-m/",
-    "created_at": "2026-05-18T11:31:47.354899+00:00",
+    "created_at": "2026-05-18T11:52:38.115772+00:00",
     "auto_from_news": true
   },
   {
@@ -286,7 +296,7 @@
     "category": "dizajn",
     "label": "DIZAJN",
     "source_url": "https://www.journal.hr/lifestyle/putovanja/le-beauvallon-hotel-saint-tropez/",
-    "created_at": "2026-05-18T11:31:47.354770+00:00",
+    "created_at": "2026-05-18T11:52:38.115595+00:00",
     "auto_from_news": true
   },
   {
@@ -296,7 +306,7 @@
     "category": "dizajn",
     "label": "DIZAJN",
     "source_url": "https://www.journal.hr/lifestyle/interijeri/boutique-hotel-venturo-split-design-hotels-marriott-international/",
-    "created_at": "2026-05-18T11:31:47.354643+00:00",
+    "created_at": "2026-05-18T11:52:38.115429+00:00",
     "auto_from_news": true
   },
   {
@@ -306,7 +316,7 @@
     "category": "dizajn",
     "label": "DIZAJN",
     "source_url": "https://www.journal.hr/lifestyle/interijeri/hotel-laventure-pariz-francuska/",
-    "created_at": "2026-05-18T11:31:47.354525+00:00",
+    "created_at": "2026-05-18T11:52:38.115268+00:00",
     "auto_from_news": true
   },
   {
@@ -316,7 +326,7 @@
     "category": "dizajn",
     "label": "DIZAJN",
     "source_url": "https://www.journal.hr/lifestyle/interijeri/ikea-ps-kolekcija-2026-journal-favoriti/",
-    "created_at": "2026-05-18T11:31:47.354408+00:00",
+    "created_at": "2026-05-18T11:52:38.115091+00:00",
     "auto_from_news": true
   },
   {
@@ -326,7 +336,7 @@
     "category": "dizajn",
     "label": "DIZAJN",
     "source_url": "https://www.journal.hr/lifestyle/interijeri/x-ae-m-22-obiteljski-dom-u-kojem-umjetnost-ima-glavnu-rijec/",
-    "created_at": "2026-05-18T11:31:47.354265+00:00",
+    "created_at": "2026-05-18T11:52:38.114923+00:00",
     "auto_from_news": true
   },
   {
@@ -336,7 +346,7 @@
     "category": "dizajn",
     "label": "DIZAJN",
     "source_url": "https://www.journal.hr/lifestyle/interijeri/glazbeni-kutak-u-domu-home-edit/",
-    "created_at": "2026-05-18T11:31:47.354115+00:00",
+    "created_at": "2026-05-18T11:52:38.114731+00:00",
     "auto_from_news": true
   },
   {
@@ -346,7 +356,7 @@
     "category": "dizajn",
     "label": "DIZAJN",
     "source_url": "https://www.journal.hr/lifestyle/interijeri/stan-u-becu-asap-pitro-sammer/",
-    "created_at": "2026-05-18T11:31:47.353979+00:00",
+    "created_at": "2026-05-18T11:52:38.114557+00:00",
     "auto_from_news": true
   },
   {
@@ -356,7 +366,7 @@
     "category": "dizajn",
     "label": "DIZAJN",
     "source_url": "https://www.journal.hr/lifestyle/interijeri/stan-u-milanu-offstage/",
-    "created_at": "2026-05-18T11:31:47.353819+00:00",
+    "created_at": "2026-05-18T11:52:38.114345+00:00",
     "auto_from_news": true
   },
   {
@@ -366,7 +376,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/lijepa-vecer-lijep-dan-film/",
-    "created_at": "2026-05-18T11:31:46.983745+00:00",
+    "created_at": "2026-05-18T11:52:37.383579+00:00",
     "auto_from_news": true
   },
   {
@@ -376,7 +386,7 @@
     "category": "film",
     "label": "FILM",
     "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/odbaceni-a-uspravni-film/",
-    "created_at": "2026-05-18T11:31:46.983632+00:00",
+    "created_at": "2026-05-18T11:52:37.383421+00:00",
     "auto_from_news": true
   },
   {
@@ -386,7 +396,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/zendaya-filmski-maraton/",
-    "created_at": "2026-05-18T11:31:46.983509+00:00",
+    "created_at": "2026-05-18T11:52:37.383240+00:00",
     "auto_from_news": true
   },
   {
@@ -396,7 +406,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/glazbeni-biografski-filmovi-filmski-maraton/",
-    "created_at": "2026-05-18T11:31:46.983443+00:00",
+    "created_at": "2026-05-18T11:52:37.383075+00:00",
     "auto_from_news": true
   },
   {
@@ -406,7 +416,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://www.journal.hr/kultura/filmski-maraton-meryl-streep/",
-    "created_at": "2026-05-18T11:31:46.983372+00:00",
+    "created_at": "2026-05-18T11:52:37.382920+00:00",
     "auto_from_news": true
   },
   {
@@ -416,7 +426,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/matt-damon-filmski-maraton/",
-    "created_at": "2026-05-18T11:31:46.983305+00:00",
+    "created_at": "2026-05-18T11:52:37.382822+00:00",
     "auto_from_news": true
   },
   {
@@ -426,7 +436,7 @@
     "category": "film",
     "label": "FILM",
     "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/fatherland-film/",
-    "created_at": "2026-05-18T11:31:46.983222+00:00",
+    "created_at": "2026-05-18T11:52:37.382719+00:00",
     "auto_from_news": true
   },
   {
@@ -436,7 +446,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/beef-pogledali-smo-drugu-sezonu/",
-    "created_at": "2026-05-18T11:31:46.983057+00:00",
+    "created_at": "2026-05-18T11:52:37.382496+00:00",
     "auto_from_news": true
   },
   {
@@ -446,7 +456,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/vrag-nosi-pradu-2-pogledali-smo/",
-    "created_at": "2026-05-18T11:31:46.982977+00:00",
+    "created_at": "2026-05-18T11:52:37.382386+00:00",
     "auto_from_news": true
   },
   {
@@ -456,7 +466,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://www.journal.hr/kultura/knjige/krhka-dob-ilina-cenov-procitali-smo/",
-    "created_at": "2026-05-18T11:31:46.982897+00:00",
+    "created_at": "2026-05-18T11:52:37.382268+00:00",
     "auto_from_news": true
   },
   {
@@ -466,7 +476,7 @@
     "category": "film",
     "label": "FILM",
     "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/parallel-tales-film/",
-    "created_at": "2026-05-18T11:31:46.982818+00:00",
+    "created_at": "2026-05-18T11:52:37.382133+00:00",
     "auto_from_news": true
   },
   {
@@ -476,7 +486,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/nadolazeci-filmovi-2026/",
-    "created_at": "2026-05-18T11:31:46.982722+00:00",
+    "created_at": "2026-05-18T11:52:37.381997+00:00",
     "auto_from_news": true
   },
   {
@@ -486,7 +496,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/bridgerton-peta-sezona/",
-    "created_at": "2026-05-18T11:31:46.982630+00:00",
+    "created_at": "2026-05-18T11:52:37.381813+00:00",
     "auto_from_news": true
   },
   {
@@ -496,7 +506,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/strane-serije-netflix/",
-    "created_at": "2026-05-18T11:31:46.982539+00:00",
+    "created_at": "2026-05-18T11:52:37.381684+00:00",
     "auto_from_news": true
   },
   {
@@ -506,7 +516,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/zaludenost-horor-film/",
-    "created_at": "2026-05-18T11:31:46.982446+00:00",
+    "created_at": "2026-05-18T11:52:37.381557+00:00",
     "auto_from_news": true
   },
   {
@@ -516,7 +526,7 @@
     "category": "film",
     "label": "FILM",
     "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/hope-film/",
-    "created_at": "2026-05-18T11:31:46.982345+00:00",
+    "created_at": "2026-05-18T11:52:37.381420+00:00",
     "auto_from_news": true
   },
   {
@@ -526,7 +536,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://www.journal.hr/kultura/glazba/empire-of-the-sun-luke-steele-intervju/",
-    "created_at": "2026-05-18T11:31:46.982237+00:00",
+    "created_at": "2026-05-18T11:52:37.381279+00:00",
     "auto_from_news": true
   },
   {
@@ -536,7 +546,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://www.journal.hr/kultura/umjetnost-i-dizajn/ivica-ivcevic-fotografija-intervju/",
-    "created_at": "2026-05-18T11:31:46.982126+00:00",
+    "created_at": "2026-05-18T11:52:37.381106+00:00",
     "auto_from_news": true
   },
   {
@@ -546,7 +556,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/lifestyle/putovanja/velika-planina-slovenija-putovanje/",
-    "created_at": "2026-05-18T11:31:45.771237+00:00",
+    "created_at": "2026-05-18T11:52:36.912556+00:00",
     "auto_from_news": true
   },
   {
@@ -556,7 +566,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/lifestyle/putovanja/vikend-izleti-prvi-maj/",
-    "created_at": "2026-05-18T11:31:45.771162+00:00",
+    "created_at": "2026-05-18T11:52:36.912448+00:00",
     "auto_from_news": true
   },
   {
@@ -566,7 +576,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/lifestyle/putovanja/siena-toskana-italija/",
-    "created_at": "2026-05-18T11:31:45.771090+00:00",
+    "created_at": "2026-05-18T11:52:36.912340+00:00",
     "auto_from_news": true
   },
   {
@@ -576,7 +586,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/lifestyle/putovanja/valencija-spanjolski-grad-koji-nudi-nezaboravno-iskustvo/",
-    "created_at": "2026-05-18T11:31:45.770996+00:00",
+    "created_at": "2026-05-18T11:52:36.912178+00:00",
     "auto_from_news": true
   },
   {
@@ -586,7 +596,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/lifestyle/putovanja/esplanade-gha-discovery/",
-    "created_at": "2026-05-18T11:31:45.770815+00:00",
+    "created_at": "2026-05-18T11:52:36.911927+00:00",
     "auto_from_news": true
   },
   {
@@ -596,7 +606,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/lifestyle/putovanja/putovanja-autom-kroz-europu-rute-koje-se-pamte/",
-    "created_at": "2026-05-18T11:31:45.770685+00:00",
+    "created_at": "2026-05-18T11:52:36.911752+00:00",
     "auto_from_news": true
   },
   {
@@ -606,7 +616,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/lifestyle/gastro/pasta-eat-and-shop-zagreb/",
-    "created_at": "2026-05-18T11:31:45.770435+00:00",
+    "created_at": "2026-05-18T11:52:36.911410+00:00",
     "auto_from_news": true
   },
   {
@@ -616,7 +626,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/lifestyle/gastro/nure-restoran-zagreb/",
-    "created_at": "2026-05-18T11:31:45.770357+00:00",
+    "created_at": "2026-05-18T11:52:36.911296+00:00",
     "auto_from_news": true
   },
   {
@@ -626,7 +636,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/lifestyle/gastro/nova-mjesta-otvorena-u-2026-u-zagrebu/",
-    "created_at": "2026-05-18T11:31:45.770267+00:00",
+    "created_at": "2026-05-18T11:52:36.911158+00:00",
     "auto_from_news": true
   },
   {
@@ -636,7 +646,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/lifestyle/putovanja/family-hotel-vilinia-terme-olimia-slovenija/",
-    "created_at": "2026-05-18T11:31:45.769608+00:00",
+    "created_at": "2026-05-18T11:52:36.910231+00:00",
     "auto_from_news": true
   },
   {
@@ -646,7 +656,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/ljepota/vijesti-iz-ljepote/marc-jacobs-beauty-brend-comeback/",
-    "created_at": "2026-05-18T11:31:45.045768+00:00",
+    "created_at": "2026-05-18T11:52:36.161667+00:00",
     "auto_from_news": true
   },
   {
@@ -656,7 +666,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/byredo-blanche-parfem-miris/",
-    "created_at": "2026-05-18T11:31:45.045679+00:00",
+    "created_at": "2026-05-18T11:52:36.161534+00:00",
     "auto_from_news": true
   },
   {
@@ -666,7 +676,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/ljepota/vijesti-iz-ljepote/hermes-parfem-un-jardin-sous-la-mer/",
-    "created_at": "2026-05-18T11:31:45.045613+00:00",
+    "created_at": "2026-05-18T11:52:36.161431+00:00",
     "auto_from_news": true
   },
   {
@@ -676,7 +686,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/paris-perfume-week-noviteti-niche-parfemi/",
-    "created_at": "2026-05-18T11:31:45.045542+00:00",
+    "created_at": "2026-05-18T11:52:36.161321+00:00",
     "auto_from_news": true
   },
   {
@@ -686,7 +696,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/ljepota/vijesti-iz-ljepote/alge-skincare-sastojak-hidratacija-anti-age/",
-    "created_at": "2026-05-18T11:31:45.045472+00:00",
+    "created_at": "2026-05-18T11:52:36.161187+00:00",
     "auto_from_news": true
   },
   {
@@ -696,7 +706,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/prebiotici-postbiotici-skincare-sastojci-mikrobiom-koze/",
-    "created_at": "2026-05-18T11:31:45.045402+00:00",
+    "created_at": "2026-05-18T11:52:36.161084+00:00",
     "auto_from_news": true
   },
   {
@@ -706,7 +716,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/ulje-pasjeg-trna-skincare-sastojak/",
-    "created_at": "2026-05-18T11:31:45.045331+00:00",
+    "created_at": "2026-05-18T11:52:36.160983+00:00",
     "auto_from_news": true
   },
   {
@@ -716,7 +726,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/gljive-skincare-hidratacija-iritacija-crvenilo/",
-    "created_at": "2026-05-18T11:31:45.045254+00:00",
+    "created_at": "2026-05-18T11:52:36.160883+00:00",
     "auto_from_news": true
   },
   {
@@ -726,7 +736,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/pdrn-skincare-proizvodi/",
-    "created_at": "2026-05-18T11:31:45.045183+00:00",
+    "created_at": "2026-05-18T11:52:36.160777+00:00",
     "auto_from_news": true
   },
   {
@@ -736,7 +746,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/ljepota/vijesti-iz-ljepote/beauty-industrija-dogadaji-brendovi/",
-    "created_at": "2026-05-18T11:31:45.045100+00:00",
+    "created_at": "2026-05-18T11:52:36.160659+00:00",
     "auto_from_news": true
   },
   {
@@ -746,7 +756,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/lip-boosteri-usne-puniji-izgled-plump-efekt/",
-    "created_at": "2026-05-18T11:31:45.045012+00:00",
+    "created_at": "2026-05-18T11:52:36.160533+00:00",
     "auto_from_news": true
   },
   {
@@ -756,7 +766,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/aesop-skincare-beauty-brend/",
-    "created_at": "2026-05-18T11:31:45.044919+00:00",
+    "created_at": "2026-05-18T11:52:36.160395+00:00",
     "auto_from_news": true
   },
   {
@@ -766,7 +776,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://specijal.journal.hr/Armani-Luminous-Silk-puder-business-to-fun-lookovi/",
-    "created_at": "2026-05-18T11:31:45.044839+00:00",
+    "created_at": "2026-05-18T11:52:36.160278+00:00",
     "auto_from_news": true
   },
   {
@@ -776,7 +786,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/nivea-q10-serum-krema-filer-serum-skincare-anti-age/",
-    "created_at": "2026-05-18T11:31:45.044751+00:00",
+    "created_at": "2026-05-18T11:52:36.160127+00:00",
     "auto_from_news": true
   },
   {
@@ -786,7 +796,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://specijal.journal.hr/beauty-editorial-office-siren/",
-    "created_at": "2026-05-18T11:31:45.044656+00:00",
+    "created_at": "2026-05-18T11:52:36.159999+00:00",
     "auto_from_news": true
   },
   {
@@ -796,7 +806,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://specijal.journal.hr/syoss-intense-keratin-linija-pamela-badzek-beauty-editorijal/",
-    "created_at": "2026-05-18T11:31:45.044562+00:00",
+    "created_at": "2026-05-18T11:52:36.159872+00:00",
     "auto_from_news": true
   },
   {
@@ -806,7 +816,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://specijal.journal.hr/journal-beauty-editorijal-proljece-boje-cvijece/",
-    "created_at": "2026-05-18T11:31:45.044462+00:00",
+    "created_at": "2026-05-18T11:52:36.159736+00:00",
     "auto_from_news": true
   },
   {
@@ -816,7 +826,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://specijal.journal.hr/chanel-beauty-editorijal-balet/",
-    "created_at": "2026-05-18T11:31:45.044352+00:00",
+    "created_at": "2026-05-18T11:52:36.159588+00:00",
     "auto_from_news": true
   },
   {
@@ -826,7 +836,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/moda/trendovi/lacoste-redizajn-krokodil-logotip/",
-    "created_at": "2026-05-18T11:31:44.329161+00:00",
+    "created_at": "2026-05-18T11:52:35.892208+00:00",
     "auto_from_news": true
   },
   {
@@ -836,7 +846,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/moda/trendovi/mass-chic-cipele-mokasine/",
-    "created_at": "2026-05-18T11:31:44.329075+00:00",
+    "created_at": "2026-05-18T11:52:35.892089+00:00",
     "auto_from_news": true
   },
   {
@@ -846,7 +856,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/moda/trendovi/seksepil-u-modi-tijelo-odjeca/",
-    "created_at": "2026-05-18T11:31:44.328954+00:00",
+    "created_at": "2026-05-18T11:52:35.891931+00:00",
     "auto_from_news": true
   },
   {
@@ -856,7 +866,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/moda/trendovi/journal-wishlista-toteme-dzemper/",
-    "created_at": "2026-05-18T11:31:44.328883+00:00",
+    "created_at": "2026-05-18T11:52:35.891829+00:00",
     "auto_from_news": true
   },
   {
@@ -866,7 +876,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/moda/trendovi/journal-wishlista-polo-ralph-lauren-vestica/",
-    "created_at": "2026-05-18T11:31:44.328815+00:00",
+    "created_at": "2026-05-18T11:52:35.891729+00:00",
     "auto_from_news": true
   },
   {
@@ -876,7 +886,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/moda/trendovi/journal-wishlista-loewe-origami-cipele/",
-    "created_at": "2026-05-18T11:31:44.328745+00:00",
+    "created_at": "2026-05-18T11:52:35.891628+00:00",
     "auto_from_news": true
   },
   {
@@ -886,7 +896,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://specijal.journal.hr/journal-modni-editorijal-vlaho-arbulic/",
-    "created_at": "2026-05-18T11:31:44.328644+00:00",
+    "created_at": "2026-05-18T11:52:35.891483+00:00",
     "auto_from_news": true
   },
   {
@@ -896,7 +906,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://specijal.journal.hr/hm-studio-spring-2024-mia-matic-za-journal/",
-    "created_at": "2026-05-18T11:31:44.328548+00:00",
+    "created_at": "2026-05-18T11:52:35.891349+00:00",
     "auto_from_news": true
   },
   {
@@ -906,7 +916,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://specijal.journal.hr/moc-transformacije-karla-kirschner-claudia-schiffer/",
-    "created_at": "2026-05-18T11:31:44.328459+00:00",
+    "created_at": "2026-05-18T11:52:35.891197+00:00",
     "auto_from_news": true
   },
   {
@@ -916,7 +926,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://specijal.journal.hr/raiven-modni-editorijal-journal-specijal/",
-    "created_at": "2026-05-18T11:31:44.328367+00:00",
+    "created_at": "2026-05-18T11:52:35.891075+00:00",
     "auto_from_news": true
   },
   {
@@ -926,7 +936,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://specijal.journal.hr/elena-dizdar-i-sandy-bogovac-modni-editorijal/",
-    "created_at": "2026-05-18T11:31:44.328258+00:00",
+    "created_at": "2026-05-18T11:52:35.890949+00:00",
     "auto_from_news": true
   },
   {
@@ -936,7 +946,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/moda/vijesti/mona-editorijal-modni-brend-trendi-komadi/",
-    "created_at": "2026-05-18T11:31:44.328180+00:00",
+    "created_at": "2026-05-18T11:52:35.890840+00:00",
     "auto_from_news": true
   },
   {
@@ -946,7 +956,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://specijal.journal.hr/toma-medvesek-lav-novosel-porsche-loreal-editorijal/",
-    "created_at": "2026-05-18T11:31:44.328109+00:00",
+    "created_at": "2026-05-18T11:52:35.890736+00:00",
     "auto_from_news": true
   },
   {
@@ -956,7 +966,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://specijal.journal.hr/nina-badric-intervju-modni-editorijal/",
-    "created_at": "2026-05-18T11:31:44.328036+00:00",
+    "created_at": "2026-05-18T11:52:35.890632+00:00",
     "auto_from_news": true
   },
   {
@@ -966,7 +976,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/moda/vijesti/helen-mirren-stella-mccartney-kampanja/",
-    "created_at": "2026-05-18T11:31:44.327932+00:00",
+    "created_at": "2026-05-18T11:52:35.890486+00:00",
     "auto_from_news": true
   },
   {
@@ -976,7 +986,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/moda/vijesti/hailey-bieber-alaia-novo-lice-ambasadorica/",
-    "created_at": "2026-05-18T11:31:44.327785+00:00",
+    "created_at": "2026-05-18T11:52:35.890278+00:00",
     "auto_from_news": true
   },
   {
@@ -986,7 +996,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/moda/trendovi/zara-lanena-odijela-proljetni-komadi/",
-    "created_at": "2026-05-18T11:31:44.327686+00:00",
+    "created_at": "2026-05-18T11:52:35.890097+00:00",
     "auto_from_news": true
   },
   {
@@ -996,7 +1006,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://www.journal.hr/moda/vijesti/dior-medaillon-flap-bag-torba/",
-    "created_at": "2026-05-18T11:31:44.327573+00:00",
+    "created_at": "2026-05-18T11:52:35.889940+00:00",
     "auto_from_news": true
   },
   {
@@ -1006,7 +1016,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://symbol-quorum.com/strastveni-modni-svijet-aleksandre-dojcinovic/",
-    "created_at": "2026-05-18T11:31:43.569091+00:00",
+    "created_at": "2026-05-18T11:52:35.209507+00:00",
     "auto_from_news": true
   },
   {
@@ -1016,7 +1026,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://symbol-quorum.com/ivana-nola-ljepota-bez-starosnih-granica/",
-    "created_at": "2026-05-18T11:31:43.569012+00:00",
+    "created_at": "2026-05-18T11:52:35.209384+00:00",
     "auto_from_news": true
   },
   {
@@ -1026,7 +1036,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://symbol-quorum.com/andro-vlahusic-dubrovnik-ni-za-sto/",
-    "created_at": "2026-05-18T11:31:43.568930+00:00",
+    "created_at": "2026-05-18T11:52:35.209258+00:00",
     "auto_from_news": true
   },
   {
@@ -1036,7 +1046,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://symbol-quorum.com/ikona-stila-koja-je-fotografijom-osvojila-modni-svijet/",
-    "created_at": "2026-05-18T11:31:43.568840+00:00",
+    "created_at": "2026-05-18T11:52:35.209108+00:00",
     "auto_from_news": true
   },
   {
@@ -1046,7 +1056,7 @@
     "category": "lifestyle",
     "label": "LIFESTYLE",
     "source_url": "https://symbol-quorum.com/vizionar-hrvatske-modne-scene/",
-    "created_at": "2026-05-18T11:31:43.568736+00:00",
+    "created_at": "2026-05-18T11:52:35.208971+00:00",
     "auto_from_news": true
   },
   {
@@ -1056,7 +1066,7 @@
     "category": "pica",
     "label": "PIĆA",
     "source_url": "https://symbol-quorum.com/ne-zelim-od-rajcice-praviti-jagodu/",
-    "created_at": "2026-05-18T11:31:41.000717+00:00",
+    "created_at": "2026-05-18T11:52:33.449742+00:00",
     "auto_from_news": true
   },
   {
@@ -1066,7 +1076,7 @@
     "category": "pica",
     "label": "PIĆA",
     "source_url": "https://symbol-quorum.com/ljubav-su-vina-a-vina-su-galic/",
-    "created_at": "2026-05-18T11:31:41.000641+00:00",
+    "created_at": "2026-05-18T11:52:33.449624+00:00",
     "auto_from_news": true
   },
   {
@@ -1076,7 +1086,7 @@
     "category": "pica",
     "label": "PIĆA",
     "source_url": "https://symbol-quorum.com/srz-mediterana-snaga-tradicije/",
-    "created_at": "2026-05-18T11:31:41.000569+00:00",
+    "created_at": "2026-05-18T11:52:33.449510+00:00",
     "auto_from_news": true
   },
   {
@@ -1086,7 +1096,7 @@
     "category": "pica",
     "label": "PIĆA",
     "source_url": "https://symbol-quorum.com/chef-za-zadovoljne-goste/",
-    "created_at": "2026-05-18T11:31:41.000494+00:00",
+    "created_at": "2026-05-18T11:52:33.449394+00:00",
     "auto_from_news": true
   },
   {
@@ -1096,7 +1106,7 @@
     "category": "pica",
     "label": "PIĆA",
     "source_url": "https://symbol-quorum.com/chef-koji-se-vratio-kuci/",
-    "created_at": "2026-05-18T11:31:41.000380+00:00",
+    "created_at": "2026-05-18T11:52:33.449194+00:00",
     "auto_from_news": true
   },
   {
@@ -1106,7 +1116,7 @@
     "category": "poslovanje",
     "label": "POSLOVANJE",
     "source_url": "https://symbol-quorum.com/zivjeti-bolje-duze-i-sretnije-to-je-nas-cilj-i-motivacija/",
-    "created_at": "2026-05-18T11:31:38.301719+00:00",
+    "created_at": "2026-05-18T11:52:31.282521+00:00",
     "auto_from_news": true
   },
   {
@@ -1116,7 +1126,7 @@
     "category": "poslovanje",
     "label": "POSLOVANJE",
     "source_url": "https://symbol-quorum.com/znatizelja-je-temelj-svake-uspjesne-znanstvene-karijere/",
-    "created_at": "2026-05-18T11:31:38.301643+00:00",
+    "created_at": "2026-05-18T11:52:31.282354+00:00",
     "auto_from_news": true
   },
   {
@@ -1126,7 +1136,7 @@
     "category": "poslovanje",
     "label": "POSLOVANJE",
     "source_url": "https://symbol-quorum.com/laska-mi-da-smo-uistinu-mijenjali-drustvo-na-bolje/",
-    "created_at": "2026-05-18T11:31:38.301473+00:00",
+    "created_at": "2026-05-18T11:52:31.282037+00:00",
     "auto_from_news": true
   },
   {
@@ -1136,7 +1146,7 @@
     "category": "poslovanje",
     "label": "POSLOVANJE",
     "source_url": "https://symbol-quorum.com/moja-zvijezda-vodilja-je-zlatni-rez/",
-    "created_at": "2026-05-18T11:31:38.301394+00:00",
+    "created_at": "2026-05-18T11:52:31.281918+00:00",
     "auto_from_news": true
   },
   {
@@ -1146,7 +1156,7 @@
     "category": "poslovanje",
     "label": "POSLOVANJE",
     "source_url": "https://symbol-quorum.com/filozofija-zeptera-zdravlje-dugovjecnost-ljepota-i-odrziva-elegancija/",
-    "created_at": "2026-05-18T11:31:38.301259+00:00",
+    "created_at": "2026-05-18T11:52:31.281734+00:00",
     "auto_from_news": true
   },
   {
@@ -1156,7 +1166,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://symbol-quorum.com/svinje-obozavaju-sladoled/",
-    "created_at": "2026-05-18T11:31:35.411395+00:00",
+    "created_at": "2026-05-18T11:52:27.027667+00:00",
     "auto_from_news": true
   },
   {
@@ -1166,7 +1176,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://symbol-quorum.com/glumac-zivi-i-stvara-sve-dok-se-raduje-svakoj-novoj-ulozi/",
-    "created_at": "2026-05-18T11:31:35.411321+00:00",
+    "created_at": "2026-05-18T11:52:27.027556+00:00",
     "auto_from_news": true
   },
   {
@@ -1176,7 +1186,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://symbol-quorum.com/hnk-i-nasa-publika-zaista-su-nesto-posebno/",
-    "created_at": "2026-05-18T11:31:35.411231+00:00",
+    "created_at": "2026-05-18T11:52:27.027435+00:00",
     "auto_from_news": true
   },
   {
@@ -1186,7 +1196,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://symbol-quorum.com/dzuli-je-moja-osobna-iskaznica/",
-    "created_at": "2026-05-18T11:31:35.411155+00:00",
+    "created_at": "2026-05-18T11:52:27.027317+00:00",
     "auto_from_news": true
   },
   {
@@ -1196,7 +1206,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://symbol-quorum.com/jako-dobro-znam-koliko-je-tesko-svirati-ljeti-na-otvorenom/",
-    "created_at": "2026-05-18T11:31:35.411081+00:00",
+    "created_at": "2026-05-18T11:52:27.027175+00:00",
     "auto_from_news": true
   },
   {
@@ -1206,7 +1216,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://symbol-quorum.com/svi-smo-kreatori-svijeta-u-kojem-zivimo/",
-    "created_at": "2026-05-18T11:31:35.410998+00:00",
+    "created_at": "2026-05-18T11:52:27.027049+00:00",
     "auto_from_news": true
   },
   {
@@ -1216,7 +1226,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://symbol-quorum.com/ostvarila-sam-ono-sto-mnogi-umjetnici-ne-uspiju-ni-za-pedeset-godina-karijere/",
-    "created_at": "2026-05-18T11:31:35.410915+00:00",
+    "created_at": "2026-05-18T11:52:27.026927+00:00",
     "auto_from_news": true
   },
   {
@@ -1226,7 +1236,7 @@
     "category": "kultura",
     "label": "KULTURA",
     "source_url": "https://symbol-quorum.com/ocuvanje-istinskog-duha-umjetnosti/",
-    "created_at": "2026-05-18T11:31:35.410757+00:00",
+    "created_at": "2026-05-18T11:52:27.026719+00:00",
     "auto_from_news": true
   },
   {
@@ -1236,7 +1246,7 @@
     "category": "ekonomija",
     "label": "EKONOMIJA",
     "source_url": "https://www.nber.org/papers/w35207#fromrss",
-    "created_at": "2026-05-18T11:31:11.847209+00:00",
+    "created_at": "2026-05-18T11:52:07.768063+00:00",
     "auto_from_news": true
   },
   {
@@ -1246,7 +1256,7 @@
     "category": "ekonomija",
     "label": "EKONOMIJA",
     "source_url": "https://www.nber.org/papers/w35206#fromrss",
-    "created_at": "2026-05-18T11:31:11.847141+00:00",
+    "created_at": "2026-05-18T11:52:07.767973+00:00",
     "auto_from_news": true
   },
   {
@@ -1256,7 +1266,7 @@
     "category": "muzeji",
     "label": "MUZEJI",
     "source_url": "https://www.nber.org/papers/w35204#fromrss",
-    "created_at": "2026-05-18T11:31:11.847077+00:00",
+    "created_at": "2026-05-18T11:52:07.767888+00:00",
     "auto_from_news": true
   },
   {
@@ -1266,7 +1276,7 @@
     "category": "ekonomija",
     "label": "EKONOMIJA",
     "source_url": "https://www.nber.org/papers/w35203#fromrss",
-    "created_at": "2026-05-18T11:31:11.847016+00:00",
+    "created_at": "2026-05-18T11:52:07.767805+00:00",
     "auto_from_news": true
   },
   {
@@ -1276,7 +1286,7 @@
     "category": "ekonomija",
     "label": "EKONOMIJA",
     "source_url": "https://www.nber.org/papers/w35202#fromrss",
-    "created_at": "2026-05-18T11:31:11.846934+00:00",
+    "created_at": "2026-05-18T11:52:07.767698+00:00",
     "auto_from_news": true
   },
   {
@@ -1286,7 +1296,7 @@
     "category": "ekonomija",
     "label": "EKONOMIJA",
     "source_url": "https://www.nber.org/papers/w35201#fromrss",
-    "created_at": "2026-05-18T11:31:11.846875+00:00",
+    "created_at": "2026-05-18T11:52:07.767617+00:00",
     "auto_from_news": true
   },
   {
@@ -1296,7 +1306,7 @@
     "category": "muzeji",
     "label": "MUZEJI",
     "source_url": "https://www.nber.org/papers/w35200#fromrss",
-    "created_at": "2026-05-18T11:31:11.846817+00:00",
+    "created_at": "2026-05-18T11:52:07.767536+00:00",
     "auto_from_news": true
   },
   {
@@ -1306,7 +1316,7 @@
     "category": "ekonomija",
     "label": "EKONOMIJA",
     "source_url": "https://www.nber.org/papers/w35199#fromrss",
-    "created_at": "2026-05-18T11:31:11.846766+00:00",
+    "created_at": "2026-05-18T11:52:07.767463+00:00",
     "auto_from_news": true
   },
   {
@@ -1316,7 +1326,7 @@
     "category": "ekonomija",
     "label": "EKONOMIJA",
     "source_url": "https://www.nber.org/papers/w35198#fromrss",
-    "created_at": "2026-05-18T11:31:11.846707+00:00",
+    "created_at": "2026-05-18T11:52:07.767395+00:00",
     "auto_from_news": true
   },
   {
@@ -1326,7 +1336,7 @@
     "category": "muzeji",
     "label": "MUZEJI",
     "source_url": "https://www.nber.org/papers/w35197#fromrss",
-    "created_at": "2026-05-18T11:31:11.846655+00:00",
+    "created_at": "2026-05-18T11:52:07.767318+00:00",
     "auto_from_news": true
   },
   {
@@ -1336,7 +1346,7 @@
     "category": "film",
     "label": "FILM",
     "source_url": "https://www.nber.org/papers/w35196#fromrss",
-    "created_at": "2026-05-18T11:31:11.846570+00:00",
+    "created_at": "2026-05-18T11:52:07.767174+00:00",
     "auto_from_news": true
   },
   {
@@ -1346,7 +1356,427 @@
     "category": "muzeji",
     "label": "MUZEJI",
     "source_url": "https://www.nber.org/papers/w35195#fromrss",
-    "created_at": "2026-05-18T11:31:11.846407+00:00",
+    "created_at": "2026-05-18T11:52:07.767013+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Bain Capital closes $10.5bn Asia fund above target",
+    "description": "Private Banker International · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-fb045478aa9f/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.privatebankerinternational.com/news/bain-capital-closes-asia-fund/",
+    "created_at": "2026-05-18T11:49:12+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "UnitedHealth stock slips as Berkshire Hathaway exits stake",
+    "description": "Seeking Alpha Market News · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-fec6722446ac/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://seekingalpha.com/news/4594282-unitedhealth-stock-slips-as-berkshire-hathaway-exits-stake?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "created_at": "2026-05-18T11:48:41+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Julianne Moore Pushes for More Stories Centering the Female POV at Kering Women in Motion Awards: ‘I F—ing Love Actresses’",
+    "description": "Variety · fotografija iz vijesti",
+    "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-2276775619.jpg",
+    "category": "film",
+    "label": "FILM",
+    "source_url": "https://variety.com/gallery/julianne-moore-kering-women-in-motion-awards-cannes-gala/",
+    "created_at": "2026-05-18T11:48:23+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Intel, AMD see price target hikes at Citi as firm raises CPU estimates",
+    "description": "Seeking Alpha Market News · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-23d89fa1f7f6/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://seekingalpha.com/news/4594308-intel-amd-see-price-target-hikes-at-citi-as-firm-raises-cpu-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "created_at": "2026-05-18T11:47:37+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Kraig Biocraft reports breakthrough in silk gland cell line",
+    "description": "Seeking Alpha Market News · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-3f59cd9d69c7/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://seekingalpha.com/news/4594309-kraig-biocraft-reports-breakthrough-in-silk-gland-cell-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "created_at": "2026-05-18T11:46:42+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Middle East Mortgage Shock: Why UK and US Borrowers Are Paying for War Risk",
+    "description": "Finance Monthly · fotografija iz vijesti",
+    "image": "https://www.finance-monthly.com/wp-content/uploads/2026/02/Copyof04_HowInterestRatesAffecttheHousingMarket_final-644b6e4566fd498aba98fa856a9948e3-1024x692.png",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.finance-monthly.com/middle-east-mortgage-shock-why-uk-and-us-borrowers-are-paying-for-war-risk/",
+    "created_at": "2026-05-18T11:46:14+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Digital Assets Clearing Center secures $10 million investment",
+    "description": "Finextra · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-75917942430d/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.finextra.com/pressarticle/109865/digital-assets-clearing-center-secures-10-million-investment?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "created_at": "2026-05-18T11:46:00+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Here’s where Treasury yields will peak and open up a rare opportunity to buy stocks and bonds, says Wall Street veteran",
+    "description": "MarketWatch Top Stories · fotografija iz vijesti",
+    "image": "https://images.mktw.net/im-38283012",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.marketwatch.com/story/heres-where-treasury-yields-will-peak-and-open-up-a-rare-opportunity-to-buy-stocks-and-bonds-says-wall-street-veteran-85b14790?mod=mw_rss_topstories",
+    "created_at": "2026-05-18T11:42:00+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "CervoMed reports Q1 results",
+    "description": "Seeking Alpha Market News · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-8dfacc6d70d3/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://seekingalpha.com/news/4594306-cervomed-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "created_at": "2026-05-18T11:40:57+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Ryanair's annual profit surged to a record — but it won't say what comes next",
+    "description": "Quartz · fotografija iz vijesti",
+    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2275626237.jpg",
+    "category": "poslovanje",
+    "label": "POSLOVANJE",
+    "source_url": "https://qz.com/ryanair-annual-profit-record-jet-fuel-outlook-051826",
+    "created_at": "2026-05-18T11:40:49+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "The 5 Best LEGO Designs of May 2026 for Collectors & Design Lovers",
+    "description": "Yanko Design · fotografija iz vijesti",
+    "image": "https://www.yankodesign.com/images/design_news/2026/05/lego-creations-of-may-2026/5_best_lego_may_2026_yanko_design_hero.jpg",
+    "category": "dizajn",
+    "label": "DIZAJN",
+    "source_url": "https://www.yankodesign.com/2026/05/18/the-5-best-lego-designs-of-may-2026-for-collectors-design-lovers/?utm_source=rss&utm_medium=rss&utm_campaign=the-5-best-lego-designs-of-may-2026-for-collectors-design-lovers",
+    "created_at": "2026-05-18T11:40:35+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Twisted WSe₂ reveals elusive charge-neutral quantum modes",
+    "description": "Phys.org · fotografija iz vijesti",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-observation-of-elu.jpg",
+    "category": "znanost",
+    "label": "ZNANOST",
+    "source_url": "https://phys.org/news/2026-05-wse-reveals-elusive-neutral-quantum.html",
+    "created_at": "2026-05-18T11:40:03+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "New book examines national pension crisis",
+    "description": "Phys.org · fotografija iz vijesti",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/professor-examines-nat.jpg",
+    "category": "muzeji",
+    "label": "MUZEJI",
+    "source_url": "https://phys.org/news/2026-05-national-pension-crisis.html",
+    "created_at": "2026-05-18T11:40:02+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Ryanair Holdings reports FY results",
+    "description": "Seeking Alpha Market News · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-c5fc3aaab854/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://seekingalpha.com/news/4594304-ryanair-holdings-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "created_at": "2026-05-18T11:39:54+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "NextEra Energy, Dominion confirm merger deal to create world's largest regulated electric utility",
+    "description": "Seeking Alpha Market News · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-ce12da6d3001/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://seekingalpha.com/news/4594301-nextera-energy-dominion-confirm-merger-deal-to-create-worlds-largest-regulated-electric?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "created_at": "2026-05-18T11:39:52+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Deep value mid-caps: 10 names trading at single-digit forward P/Es",
+    "description": "Seeking Alpha Market News · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-6851198ed501/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://seekingalpha.com/news/4594281-deep-value-mid-caps-10-names-trading-at-single-digit-forward-pes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "created_at": "2026-05-18T11:39:18+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Korean Director Na Hong-Jin Hopes For ‘Hope’ Sequel – Cannes",
+    "description": "Deadline · fotografija iz vijesti",
+    "image": "https://deadline.com/wp-content/uploads/2026/05/Hope_9fc57e.jpg",
+    "category": "film",
+    "label": "FILM",
+    "source_url": "https://deadline.com/2026/05/cannes-hope-sequel-1236914298/",
+    "created_at": "2026-05-18T11:37:38+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Bad, Bad, Bad, Bad Roommate",
+    "description": "The Verge · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-02f08f095e3f/1200/750",
+    "category": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source_url": "https://www.theverge.com/cs/features/919365/bad-roommate-housing-los-angeles-eviction",
+    "created_at": "2026-05-18T11:36:56+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Where José Andrés Eats Spanish Food in Washington, D.C.",
+    "description": "Eater · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-35ba0d05a07e/1200/750",
+    "category": "vijesti",
+    "label": "VIJESTI",
+    "source_url": "https://www.eater.com/dining-out/959215/jose-andres-washington-dc-casa-teresa",
+    "created_at": "2026-05-18T11:34:20.162884+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Nyesha Arrington Eats Collard Green Lasagna with Issa Rae in Los Angeles",
+    "description": "Eater · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-a372a23ca8da/1200/750",
+    "category": "vijesti",
+    "label": "VIJESTI",
+    "source_url": "https://www.eater.com/video/960181/where-nyesha-arrington-eats-in-los-angeles",
+    "created_at": "2026-05-18T11:34:20.162844+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "How I Built a Community Around My Bakery",
+    "description": "Eater · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-8ebf285610b4/1200/750",
+    "category": "vijesti",
+    "label": "VIJESTI",
+    "source_url": "https://www.eater.com/pre-shift/960336/downtime-bakery-bakers-hang-philadelphia-pre-shift",
+    "created_at": "2026-05-18T11:34:20.162808+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Here Are the 2026 James Beard Awards Restaurant, Chef, and Media Award Finalists",
+    "description": "Eater · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-3a6f7d1070be/1200/750",
+    "category": "muzeji",
+    "label": "MUZEJI",
+    "source_url": "https://www.eater.com/dining-out/951811/2026-james-beard-awards-restaurant-chef-finalists",
+    "created_at": "2026-05-18T11:34:20.162774+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "The Best Mother’s Day Gifts for a Discerning, Food-Loving Mom",
+    "description": "Eater · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-29b6efdad4a7/1200/750",
+    "category": "vijesti",
+    "label": "VIJESTI",
+    "source_url": "https://www.eater.com/24420355/best-mothers-day-gifts-for-food-lovers",
+    "created_at": "2026-05-18T11:34:20.162737+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Quince Sells Caviar and Wine Now. Is It Any Good?",
+    "description": "Eater · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-9fe339b1d7ac/1200/750",
+    "category": "vijesti",
+    "label": "VIJESTI",
+    "source_url": "https://www.eater.com/shopping/960397/quince-caviar-wine-coffee-review",
+    "created_at": "2026-05-18T11:34:20.162699+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Why the Nordstrom Cafe Was the Ultimate Mother-Daughter Experience",
+    "description": "Eater · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-52eee69aebb0/1200/750",
+    "category": "vijesti",
+    "label": "VIJESTI",
+    "source_url": "https://www.eater.com/food-culture/960443/nordstrom-cafe-mother-daughter-nostalgia-tomato-soup-grilled-cheese",
+    "created_at": "2026-05-18T11:34:20.162662+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "New York’s Buzziest New Restaurant Is a Pub",
+    "description": "Eater · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-34a01eace50e/1200/750",
+    "category": "vijesti",
+    "label": "VIJESTI",
+    "source_url": "https://www.eater.com/pre-shift/961028/deans-pub-new-york-pre-shift",
+    "created_at": "2026-05-18T11:34:20.162625+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Restaurants Are in Their Blue Period",
+    "description": "Eater · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-09503dd38692/1200/750",
+    "category": "vijesti",
+    "label": "VIJESTI",
+    "source_url": "https://www.eater.com/food-culture/961654/bright-blue-yves-klein-restaurants-trend",
+    "created_at": "2026-05-18T11:34:20.162577+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "How I Got My Job Running Cafes Out of Climbing Gyms",
+    "description": "Eater · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-8c100ff382c0/1200/750",
+    "category": "vijesti",
+    "label": "VIJESTI",
+    "source_url": "https://www.eater.com/pre-shift/961011/georgies-vital-joeleen-ng-cafe-pre-shift",
+    "created_at": "2026-05-18T11:34:20.162528+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Snap, YouTube, and TikTok settle suit over harm to students",
+    "description": "The Verge · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-0b7622fe6998/1200/750",
+    "category": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source_url": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
+    "created_at": "2026-05-18T11:34:13.814327+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Chatbots at the drive-thru are just the beginning",
+    "description": "The Verge · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-cfad51f81e77/1200/750",
+    "category": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source_url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+    "created_at": "2026-05-18T11:34:13.814273+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "ElliQ is a surprisingly helpful companion robot for older adults",
+    "description": "The Verge · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-494aa1dc01d1/1200/750",
+    "category": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source_url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
+    "created_at": "2026-05-18T11:34:13.814238+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Fujifilm’s X Half is even more whimsical with a $300 price cut",
+    "description": "The Verge · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-eb2389cbf5f3/1200/750",
+    "category": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source_url": "https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale",
+    "created_at": "2026-05-18T11:34:13.814203+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Oddity is masterfully tense horror from the director of Hokum",
+    "description": "The Verge · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-e70b92dd6f20/1200/750",
+    "category": "film",
+    "label": "FILM",
+    "source_url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
+    "created_at": "2026-05-18T11:34:13.814164+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
+    "description": "The Verge · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-a67f36f418d3/1200/750",
+    "category": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+    "created_at": "2026-05-18T11:34:13.814128+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Revamped Siri will reportedly offer autodeleting chats",
+    "description": "The Verge · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-4100e9862b1b/1200/750",
+    "category": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source_url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+    "created_at": "2026-05-18T11:34:13.814086+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Microsoft is retiring Teams’ Together Mode",
+    "description": "The Verge · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-9548044f1c1e/1200/750",
+    "category": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source_url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+    "created_at": "2026-05-18T11:34:13.814047+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Disco Elysium’s spiritual successor can’t escape its phantoms",
+    "description": "The Verge · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-fill-0004ea0e5354/1200/750",
+    "category": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source_url": "https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium",
+    "created_at": "2026-05-18T11:34:13.814005+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Alaska LNG secures gas supply deal with ConocoPhillips",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/company-news/alaska-lng-secures-gas-supply-deal-with-conocophillips-93CH-4695285",
+    "created_at": "2026-05-18T11:34:07.174433+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Design Therapeutics stock surges on positive trial data",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/stock-market-news/design-therapeutics-stock-surges-on-positive-trial-data-93CH-4695296",
+    "created_at": "2026-05-18T11:34:07.174202+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Auracast Is The Next WiFi",
+    "description": "Forbes Innovation · fotografija iz vijesti",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0af66766e061c194a87203/0x0.jpg",
+    "category": "poslovanje",
+    "label": "POSLOVANJE",
+    "source_url": "https://www.forbes.com/sites/billschiffmiller/2026/05/18/auracast-is-the-next-wifi/",
+    "created_at": "2026-05-18T11:31:21+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Powell is staying on as Fed chair pro tempore while Kevin Warsh awaits swearing-in",
+    "description": "Quartz · fotografija iz vijesti",
+    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2273225084.jpg",
+    "category": "poslovanje",
+    "label": "POSLOVANJE",
+    "source_url": "https://qz.com/fed-powell-chair-pro-tempore-warsh-sworn-in-051526",
+    "created_at": "2026-05-18T11:30:40+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Why Factories Are The New Proving Ground For AI",
+    "description": "Forbes Innovation · fotografija iz vijesti",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/695bc544c334a9ea3cc93562/0x0.jpg?width=960",
+    "category": "film",
+    "label": "FILM",
+    "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/18/why-factories-are-the-new-proving-ground-for-ai/",
+    "created_at": "2026-05-18T11:30:00+00:00",
     "auto_from_news": true
   },
   {
@@ -1417,16 +1847,6 @@
     "label": "FILM",
     "source_url": "https://deadline.com/2026/05/michael-fassbender-hope-cannes-1236914260/",
     "created_at": "2026-05-18T11:24:39+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Bad, Bad, Bad, Bad Roommate",
-    "description": "The Verge · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-02f08f095e3f/1200/750",
-    "category": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source_url": "https://www.theverge.com/cs/features/919365/bad-roommate-housing-los-angeles-eviction",
-    "created_at": "2026-05-18T11:21:07+00:00",
     "auto_from_news": true
   },
   {
@@ -1540,6 +1960,36 @@
     "auto_from_news": true
   },
   {
+    "title": "Don’t Trust The Best Of... Lists For Podcasting",
+    "description": "Forbes Business · fotografija iz vijesti",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/69c125ba3add8b6396fddb6d/0x0.jpg",
+    "category": "poslovanje",
+    "label": "POSLOVANJE",
+    "source_url": "https://www.forbes.com/sites/frankracioppi/2026/05/18/dont-trust-the-best-of-lists-for-podcasting/",
+    "created_at": "2026-05-18T11:16:00+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "From Insight To Impact: Why Trust Defines Leadership In The Agentic AI Era",
+    "description": "Forbes Innovation · fotografija iz vijesti",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a071ff728899cf5e5f68954/0x0.jpg?width=960",
+    "category": "poslovanje",
+    "label": "POSLOVANJE",
+    "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/18/from-insight-to-impact-why-trust-defines-leadership-in-the-agentic-ai-era/",
+    "created_at": "2026-05-18T11:15:00+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Gold Clings to $4,500 Support For Now but Risks Remain Tilted Lower",
+    "description": "Investing.com Commodities · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-58c308792454/1200/750",
+    "category": "trzista",
+    "label": "TRŽIŠTA",
+    "source_url": "https://www.investing.com/analysis/gold-clings-to-4500-support-for-now-but-risks-remain-tilted-lower-200680478",
+    "created_at": "2026-05-18T11:14:00+00:00",
+    "auto_from_news": true
+  },
+  {
     "title": "‘Patria’ Director Felix Viscarret Helming Feature About Kidnapping & Murder Of Spanish Councillor Miguel Ángel Blanco",
     "description": "Deadline · fotografija iz vijesti",
     "image": "https://deadline.com/wp-content/uploads/2026/05/Miguel-Angel-Blanco-e1779101821407.jpg",
@@ -1547,6 +1997,16 @@
     "label": "FILM",
     "source_url": "https://deadline.com/2026/05/blanco-spain-felix-viscarret-1236914267/",
     "created_at": "2026-05-18T11:13:07+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Kitchen mistakes you’re making and what to do instead",
+    "description": "Quartz · fotografija iz vijesti",
+    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/jason-briscoe-7MAjXGUmaPw-unsplash.jpg",
+    "category": "poslovanje",
+    "label": "POSLOVANJE",
+    "source_url": "https://qz.com/-kitchen-mistakes-youre-making-what-to-do-instead-readers-digest",
+    "created_at": "2026-05-18T11:11:44+00:00",
     "auto_from_news": true
   },
   {
@@ -1560,6 +2020,16 @@
     "auto_from_news": true
   },
   {
+    "title": "Luxury Influencer and UGC Content Creator | Scott Steinberg - futuristsspeakers.com",
+    "description": "Google News Luxury · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-premium-9db07ba3de13/1200/750",
+    "category": "hedonizam",
+    "label": "HEDONIZAM",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GMm4wcVlrNFNYREdKOGQ1OVRaWkE4akt4UWZvTENxbW9BSjhhWHlwX1FBTEdVMTdyOGRubHFrQjRCUlBtVDRvLTlBSXlORm5IalZBVjNtZnZJUGVWei1lc2hydEpFQTVIS1l3MkYzN1VsX25VTmpLclYwYTg?oc=5",
+    "created_at": "2026-05-18T11:10:08+00:00",
+    "auto_from_news": true
+  },
+  {
     "title": "‘He didn’t really pay attention’: I told my friend he left millions of dollars on the table in retirement. Was I right?",
     "description": "MarketWatch Top Stories · fotografija iz vijesti",
     "image": "https://images.mktw.net/im-31375733",
@@ -1570,7 +2040,7 @@
     "auto_from_news": true
   },
   {
-    "title": "Three ways the AI boom may fizzle and what happens to stocks next",
+    "title": "Three ways the AI boom may fizzle — and what happens to stocks next",
     "description": "MarketWatch Top Stories · fotografija iz vijesti",
     "image": "https://images.mktw.net/im-69306199",
     "category": "financije",
@@ -1610,6 +2080,16 @@
     "auto_from_news": true
   },
   {
+    "title": "Markets Jittery as Takaichi Backs Supplemental Budget, Trump’s Iran Escalation",
+    "description": "Investing.com Economic Indicators · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-2c8ba9ba2e65/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/analysis/markets-jittery-as-takaichi-backs-supplemental-budget-trumps-iran-escalation-200680477",
+    "created_at": "2026-05-18T11:03:00+00:00",
+    "auto_from_news": true
+  },
+  {
     "title": "Cygnet highlights royal connection with signature serve",
     "description": "The Spirits Business · fotografija iz vijesti",
     "image": "https://www.thespiritsbusiness.com/content/uploads/2026/05/Queens-Cygnature-Martini.jpg",
@@ -1620,103 +2100,13 @@
     "auto_from_news": true
   },
   {
-    "title": "Where José Andrés Eats Spanish Food in Washington, D.C.",
-    "description": "Eater · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-premium-35ba0d05a07e/1200/750",
-    "category": "vijesti",
-    "label": "VIJESTI",
-    "source_url": "https://www.eater.com/dining-out/959215/jose-andres-washington-dc-casa-teresa",
-    "created_at": "2026-05-18T11:01:23.544794+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Nyesha Arrington Eats Collard Green Lasagna with Issa Rae in Los Angeles",
-    "description": "Eater · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-premium-a372a23ca8da/1200/750",
-    "category": "vijesti",
-    "label": "VIJESTI",
-    "source_url": "https://www.eater.com/video/960181/where-nyesha-arrington-eats-in-los-angeles",
-    "created_at": "2026-05-18T11:01:23.544736+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "How I Built a Community Around My Bakery",
-    "description": "Eater · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-premium-8ebf285610b4/1200/750",
-    "category": "vijesti",
-    "label": "VIJESTI",
-    "source_url": "https://www.eater.com/pre-shift/960336/downtime-bakery-bakers-hang-philadelphia-pre-shift",
-    "created_at": "2026-05-18T11:01:23.544682+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Here Are the 2026 James Beard Awards Restaurant, Chef, and Media Award Finalists",
-    "description": "Eater · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-premium-3a6f7d1070be/1200/750",
-    "category": "muzeji",
-    "label": "MUZEJI",
-    "source_url": "https://www.eater.com/dining-out/951811/2026-james-beard-awards-restaurant-chef-finalists",
-    "created_at": "2026-05-18T11:01:23.544630+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "The Best Mother’s Day Gifts for a Discerning, Food-Loving Mom",
-    "description": "Eater · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-premium-29b6efdad4a7/1200/750",
-    "category": "vijesti",
-    "label": "VIJESTI",
-    "source_url": "https://www.eater.com/24420355/best-mothers-day-gifts-for-food-lovers",
-    "created_at": "2026-05-18T11:01:23.544574+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Quince Sells Caviar and Wine Now. Is It Any Good?",
-    "description": "Eater · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-premium-9fe339b1d7ac/1200/750",
-    "category": "vijesti",
-    "label": "VIJESTI",
-    "source_url": "https://www.eater.com/shopping/960397/quince-caviar-wine-coffee-review",
-    "created_at": "2026-05-18T11:01:23.544517+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Why the Nordstrom Cafe Was the Ultimate Mother-Daughter Experience",
-    "description": "Eater · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-premium-52eee69aebb0/1200/750",
-    "category": "vijesti",
-    "label": "VIJESTI",
-    "source_url": "https://www.eater.com/food-culture/960443/nordstrom-cafe-mother-daughter-nostalgia-tomato-soup-grilled-cheese",
-    "created_at": "2026-05-18T11:01:23.544462+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "New York’s Buzziest New Restaurant Is a Pub",
-    "description": "Eater · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-premium-34a01eace50e/1200/750",
-    "category": "vijesti",
-    "label": "VIJESTI",
-    "source_url": "https://www.eater.com/pre-shift/961028/deans-pub-new-york-pre-shift",
-    "created_at": "2026-05-18T11:01:23.544404+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Restaurants Are in Their Blue Period",
-    "description": "Eater · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-premium-09503dd38692/1200/750",
-    "category": "vijesti",
-    "label": "VIJESTI",
-    "source_url": "https://www.eater.com/food-culture/961654/bright-blue-yves-klein-restaurants-trend",
-    "created_at": "2026-05-18T11:01:23.544335+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "How I Got My Job Running Cafes Out of Climbing Gyms",
-    "description": "Eater · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-premium-8c100ff382c0/1200/750",
-    "category": "vijesti",
-    "label": "VIJESTI",
-    "source_url": "https://www.eater.com/pre-shift/961011/georgies-vital-joeleen-ng-cafe-pre-shift",
-    "created_at": "2026-05-18T11:01:23.544262+00:00",
+    "title": "iOS 26.5: How To Make The Most Of Apple’s New iPhone Messaging Upgrade",
+    "description": "Forbes Innovation · fotografija iz vijesti",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0a7be3b1c199ac7b6bd654/0x0.jpg",
+    "category": "poslovanje",
+    "label": "POSLOVANJE",
+    "source_url": "https://www.forbes.com/sites/davidphelan/2026/05/18/ios-265-how-to-make-the-most-of-apples-new-iphone-messaging-upgrade/",
+    "created_at": "2026-05-18T11:00:55+00:00",
     "auto_from_news": true
   },
   {
@@ -1760,12 +2150,12 @@
     "auto_from_news": true
   },
   {
-    "title": "Kitchen mistakes you’re making and what to do instead",
-    "description": "Quartz · fotografija iz vijesti",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/jason-briscoe-7MAjXGUmaPw-unsplash.jpg",
+    "title": "How Critical Industries Can Bridge The AI-Talent Gap",
+    "description": "Forbes Innovation · fotografija iz vijesti",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a071f6dbe1494808e215d62/0x0.jpg?width=960",
     "category": "poslovanje",
     "label": "POSLOVANJE",
-    "source_url": "https://qz.com/-kitchen-mistakes-youre-making-what-to-do-instead-readers-digest",
+    "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/18/how-critical-industries-can-bridge-the-ai-talent-gap/",
     "created_at": "2026-05-18T11:00:00+00:00",
     "auto_from_news": true
   },
@@ -1820,7 +2210,7 @@
     "auto_from_news": true
   },
   {
-    "title": "Audemars Piguet and Swatch’s New Watches Are Selling for Thousands Online After In-Store Chaos",
+    "title": "Audemars Piguet and Swatch’s New Watches Are Popping up for Thousands Online After In-Store Chaos",
     "description": "Robb Report · fotografija iz vijesti",
     "image": "https://robbreport.com/wp-content/uploads/2026/05/Swatch-Store-NYC-Royal-Pop-Launch2.jpg",
     "category": "hedonizam",
@@ -1837,6 +2227,16 @@
     "label": "MUZEJI",
     "source_url": "https://www.thedrinksbusiness.com/2026/05/olivier-goudet-increases-treasury-wine-estates-stake/",
     "created_at": "2026-05-18T10:59:36+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "SGX FX conneccts with Chainlink",
+    "description": "Finextra · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-f7eaada0b3cd/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.finextra.com/pressarticle/109863/sgx-fx-conneccts-with-chainlink?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "created_at": "2026-05-18T10:59:00+00:00",
     "auto_from_news": true
   },
   {
@@ -2140,6 +2540,16 @@
     "auto_from_news": true
   },
   {
+    "title": "FCA and Bank of England set out shared vision for tokenisation in UK wholesale markets",
+    "description": "Finextra · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-68641d607b9a/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.finextra.com/pressarticle/109862/fca-and-bank-of-england-set-out-shared-vision-for-tokenisation-in-uk-wholesale-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "created_at": "2026-05-18T10:34:00+00:00",
+    "auto_from_news": true
+  },
+  {
     "title": "ReNew Energy Global GAAP EPS of $0.02 beats by $0.18, revenue of $421M beats by $104.73M",
     "description": "Seeking Alpha Market News · fotografija iz vijesti",
     "image": "https://picsum.photos/seed/wv-news-b04512358a6a/1200/750",
@@ -2157,6 +2567,16 @@
     "label": "DIZAJN",
     "source_url": "https://www.wallpaper.com/tech/oneisall-ease-s1-automatic-litter-box-review",
     "created_at": "2026-05-18T10:31:36+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "10 Monday AM Reads",
+    "description": "Ritholtz · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-b5f40d11258b/1200/750",
+    "category": "trzista",
+    "label": "TRŽIŠTA",
+    "source_url": "https://ritholtz.com/2026/05/10-monday-am-reads-475/",
+    "created_at": "2026-05-18T10:30:04+00:00",
     "auto_from_news": true
   },
   {
@@ -2360,6 +2780,16 @@
     "auto_from_news": true
   },
   {
+    "title": "Warren Buffett’s Cash Hoard: Why $397 Billion Sits on the Sidelines",
+    "description": "Investing.com Stock Market · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-7a66dd88ff05/1200/750",
+    "category": "trzista",
+    "label": "TRŽIŠTA",
+    "source_url": "https://www.investing.com/analysis/buffett-cash-hoard-why-397-billion-sits-on-the-sidelines-200680472",
+    "created_at": "2026-05-18T10:17:00+00:00",
+    "auto_from_news": true
+  },
+  {
     "title": "Nike Brewed Its OG Sneaker to Perfection",
     "description": "Highsnobiety · fotografija iz vijesti",
     "image": "https://picsum.photos/seed/wv-news-287340af2c7a/1200/750",
@@ -2387,6 +2817,26 @@
     "label": "POSLOVANJE",
     "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/18/the-intelligence-per-dollar-metric-how-influential-leaders-measure-ai-success/",
     "created_at": "2026-05-18T10:15:00+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "The Largest Employee Fraud Cases in 2025–2026",
+    "description": "Visual Capitalist · fotografija iz vijesti",
+    "image": "https://www.visualcapitalist.com/wp-content/uploads/2026/05/Employee-Embezzlement_Inigo_Share.webp",
+    "category": "trzista",
+    "label": "TRŽIŠTA",
+    "source_url": "https://www.visualcapitalist.com/sp/in02-largest-employee-embezzlement-cases/",
+    "created_at": "2026-05-18T10:12:00+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "The Major Differences Between this Bull Stock Market and the Late 1990’s",
+    "description": "Investing.com Stock Market · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-d168eca06113/1200/750",
+    "category": "trzista",
+    "label": "TRŽIŠTA",
+    "source_url": "https://www.investing.com/analysis/the-major-differences-between-this-bull-stock-market-and-the-late-1990s-200680446",
+    "created_at": "2026-05-18T10:12:00+00:00",
     "auto_from_news": true
   },
   {
@@ -2467,16 +2917,6 @@
     "label": "LIFESTYLE",
     "source_url": "https://www.mindbodygreen.com/articles/brain-fog-is-rising-and-its-hitting-people-under-40-hardest-americas-growing-brain-fog",
     "created_at": "2026-05-18T10:07:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Here’s where Treasury yields will peak and open up a rare opportunity to buy stocks and bonds, says Wall Street veteran",
-    "description": "MarketWatch Top Stories · fotografija iz vijesti",
-    "image": "https://images.mktw.net/im-38283012",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.marketwatch.com/story/heres-where-treasury-yields-will-peak-and-open-up-a-rare-opportunity-to-buy-stocks-and-bonds-says-wall-street-veteran-85b14790?mod=mw_rss_topstories",
-    "created_at": "2026-05-18T10:06:00+00:00",
     "auto_from_news": true
   },
   {
@@ -2830,16 +3270,6 @@
     "auto_from_news": true
   },
   {
-    "title": "Snap, YouTube, and TikTok settle suit over harm to students",
-    "description": "The Verge · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-393e071e899a/1200/750",
-    "category": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source_url": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
-    "created_at": "2026-05-18T09:46:17+00:00",
-    "auto_from_news": true
-  },
-  {
     "title": "Mitchell & Ness x Supreme Spring 2026 Collaboration",
     "description": "Hypebeast · fotografija iz vijesti",
     "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F18%2Fmitchell-ness-supreme-spring-2026-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
@@ -2877,6 +3307,16 @@
     "label": "LIFESTYLE",
     "source_url": "https://hypebeast.com/2026/5/vibram-nike-air-force-1-low-barely-grey-city-grey-bomber-grey-speed-yellow-ih1943-002-official-imges",
     "created_at": "2026-05-18T09:43:12+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Sell in May: Is Wall Street Starting to Take Profits?",
+    "description": "Investing.com Stock Market · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-bc48bea40986/1200/750",
+    "category": "trzista",
+    "label": "TRŽIŠTA",
+    "source_url": "https://www.investing.com/analysis/sell-in-may-is-wall-street-starting-to-take-profits-200680468",
+    "created_at": "2026-05-18T09:43:00+00:00",
     "auto_from_news": true
   },
   {
@@ -2920,13 +3360,23 @@
     "auto_from_news": true
   },
   {
-    "title": "Oddity is masterfully tense horror from the director of Hokum",
-    "description": "The Verge · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-ef09d9740949/1200/750",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
-    "created_at": "2026-05-18T09:36:35+00:00",
+    "title": "Evergrande liquidators seek $8.4 billion from PwC, accusing it of negligent audits",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H0GF_L.jpg",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/stock-market-news/evergrande-liquidators-seek-84-billion-from-pwc-accusing-it-of-negligent-audits-4694743",
+    "created_at": "2026-05-18T09:37:34+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Russia attacks Odesa and Dnipro, Ukraine strikes Belgorod region",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H0AX_L.jpg",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/world-news/russian-attacks-kill-one-injure-more-than-30-in-ukraine-overnight-officials-say-4694639",
+    "created_at": "2026-05-18T09:36:58+00:00",
     "auto_from_news": true
   },
   {
@@ -2947,6 +3397,46 @@
     "label": "FINANCIJE",
     "source_url": "https://seekingalpha.com/news/4594263-earnings-snapshot-baidu-non-gaap-epads-beats-consensus-at-175-revenue-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
     "created_at": "2026-05-18T09:35:07+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Mandiri Sekuritas expects Indonesia rate hike on currency weakness",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://i-invdn-com.investing.com/news/Brazil-Stock-Market_3_M_1440048532.jpg",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/economy-news/mandiri-sekuritas-expects-indonesia-rate-hike-on-currency-weakness-93CH-4695405",
+    "created_at": "2026-05-18T09:34:59+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "EU plans steel safeguard renewal by July, including Switzerland",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://i-invdn-com.investing.com/news/indicatornews_5_M_1440048359.jpg",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/economy-news/eu-plans-steel-safeguard-renewal-by-july-including-switzerland-93CH-4695404",
+    "created_at": "2026-05-18T09:34:39+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Subaru shares fall 7% on operating loss and weak guidance",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-0f6b911dfd84/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/earnings/subaru-shares-fall-7-on-operating-loss-and-weak-guidance-93CH-4695403",
+    "created_at": "2026-05-18T09:34:08+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "First Watch Restaurant Group’s SWOT analysis: stock navigates breakfast dining challenges",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-54805bcd5c6c/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/swot-analysis/first-watch-restaurant-groups-swot-analysis-stock-navigates-breakfast-dining-challenges-93CH-4695402",
+    "created_at": "2026-05-18T09:33:44+00:00",
     "auto_from_news": true
   },
   {
@@ -3020,16 +3510,6 @@
     "auto_from_news": true
   },
   {
-    "title": "Revamped Siri will reportedly offer autodeleting chats",
-    "description": "The Verge · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-53906ffaf682/1200/750",
-    "category": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source_url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-    "created_at": "2026-05-18T09:25:53+00:00",
-    "auto_from_news": true
-  },
-  {
     "title": "West Highland Spirits unveils new look and RTDs",
     "description": "The Spirits Business · fotografija iz vijesti",
     "image": "https://www.thespiritsbusiness.com/content/uploads/2026/05/West-Highland-Spirits.jpg",
@@ -3050,6 +3530,16 @@
     "auto_from_news": true
   },
   {
+    "title": "Too Good to Be True? This 9.4% Dividend Is 15% Off",
+    "description": "Investing.com Stock Market · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-49c62000ad36/1200/750",
+    "category": "trzista",
+    "label": "TRŽIŠTA",
+    "source_url": "https://www.investing.com/analysis/too-good-to-be-true-this-94-dividend-is-15-off-200680465",
+    "created_at": "2026-05-18T09:23:00+00:00",
+    "auto_from_news": true
+  },
+  {
     "title": "El Rayo OOH campaign combines Tequila and art",
     "description": "The Spirits Business · fotografija iz vijesti",
     "image": "https://www.thespiritsbusiness.com/content/uploads/2026/05/El-Rayo-Alice-Isaac.jpg",
@@ -3067,16 +3557,6 @@
     "label": "LIFESTYLE",
     "source_url": "https://www.mindbodygreen.com/articles/collagen-bone-health-female-runners",
     "created_at": "2026-05-18T09:22:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Microsoft is retiring Teams’ Together Mode",
-    "description": "The Verge · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-23050b336442/1200/750",
-    "category": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source_url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
-    "created_at": "2026-05-18T09:21:28+00:00",
     "auto_from_news": true
   },
   {
@@ -3120,23 +3600,23 @@
     "auto_from_news": true
   },
   {
-    "title": "Design Therapeutics stock surges on positive trial data",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/stock-market-news/design-therapeutics-stock-surges-on-positive-trial-data-93CH-4695296",
-    "created_at": "2026-05-18T09:17:36+00:00",
+    "title": "State Employees’ Credit Union signs with Corelation",
+    "description": "Finextra · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-af1f62ce27b3/1200/750",
+    "category": "muzeji",
+    "label": "MUZEJI",
+    "source_url": "https://www.finextra.com/pressarticle/109860/state-employees-credit-union-signs-with-corelation?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "created_at": "2026-05-18T09:18:00+00:00",
     "auto_from_news": true
   },
   {
-    "title": "AstraZeneca receives FDA approval for hypertension drug Baxfendy",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "title": "OMS appoints Simon Tippett as head of delivery",
+    "description": "Finextra · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-41a763e15f1e/1200/750",
     "category": "financije",
     "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/company-news/astrazeneca-receives-fda-approval-for-hypertension-drug-baxfendy-93CH-4695295",
-    "created_at": "2026-05-18T09:17:32+00:00",
+    "source_url": "https://www.finextra.com/pressarticle/109859/oms-appoints-simon-tippett-as-head-of-delivery?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "created_at": "2026-05-18T09:16:00+00:00",
     "auto_from_news": true
   },
   {
@@ -3157,6 +3637,16 @@
     "label": "FILM",
     "source_url": "https://deadline.com/2026/05/asa-butterfield-jaeden-martell-noah-centineo-balthazar-deal-1236914227/",
     "created_at": "2026-05-18T09:14:51+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Banking Circle names Kush Saxena as CEO",
+    "description": "Finextra · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-a3f205c95c74/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.finextra.com/pressarticle/109858/banking-circle-names-kush-saxena-as-ceo?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "created_at": "2026-05-18T09:14:00+00:00",
     "auto_from_news": true
   },
   {
@@ -3277,6 +3767,16 @@
     "label": "FINANCIJE",
     "source_url": "https://seekingalpha.com/news/4594267-iqiyi-non-gaap-epads-of-004-revenue-of-9025m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
     "created_at": "2026-05-18T09:07:55+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "The Gold Update: Recent Trend Not Much of a Friend",
+    "description": "Investing.com Commodities · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-f56d802c7b3a/1200/750",
+    "category": "trzista",
+    "label": "TRŽIŠTA",
+    "source_url": "https://www.investing.com/analysis/the-gold-update-recent-trend-not-much-of-a-friend-200680464",
+    "created_at": "2026-05-18T09:07:00+00:00",
     "auto_from_news": true
   },
   {
@@ -3416,6 +3916,36 @@
     "category": "financije",
     "label": "FINANCIJE",
     "source_url": "https://www.bankingdive.com/spons/designing-digital-banking-experiences-that-win-gen-z-and-millennial-loyalty/819990/",
+    "created_at": "2026-05-18T09:00:00+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Reinventing finance and tax: Leaders see AI and e-invoicing as agents of change",
+    "description": "CFO Dive · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-ff73e512b4e4/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.cfodive.com/spons/reinventing-finance-and-tax-leaders-see-ai-and-e-invoicing-as-agents-of-ch/820014/",
+    "created_at": "2026-05-18T09:00:00+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Automation’s promise: Distinguishing what delivers and works in the agentic age",
+    "description": "CFO Dive · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-d69826ec5902/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.cfodive.com/spons/automations-promise-distinguishing-what-delivers-and-works-in-the-agentic/815930/",
+    "created_at": "2026-05-18T09:00:00+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "From oversight to ownership: The CFO’s new role in AI",
+    "description": "CFO Dive · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-bc61d3071ba6/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.cfodive.com/spons/from-oversight-to-ownership-the-cfos-new-role-in-ai/820030/",
     "created_at": "2026-05-18T09:00:00+00:00",
     "auto_from_news": true
   },
@@ -3610,6 +4140,16 @@
     "auto_from_news": true
   },
   {
+    "title": "Aon to modernize how brokers access capital and syndicate risk",
+    "description": "Finextra · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-22e181a2c5b8/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.finextra.com/pressarticle/109857/aon-to-modernize-how-brokers-access-capital-and-syndicate-risk?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "created_at": "2026-05-18T08:53:00+00:00",
+    "auto_from_news": true
+  },
+  {
     "title": "Cuba drone threat: Havana says U.S. is fabricating pretexts for potential attack",
     "description": "Seeking Alpha Market News · fotografija iz vijesti",
     "image": "https://picsum.photos/seed/wv-news-d5fde357322c/1200/750",
@@ -3740,16 +4280,6 @@
     "auto_from_news": true
   },
   {
-    "title": "China solar exports surge 60% despite tax refund removal",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://i-invdn-com.investing.com/news/Brazil-Stock-Market_3_M_1440048532.jpg",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/economy-news/china-solar-exports-surge-60-despite-tax-refund-removal-93CH-4695141",
-    "created_at": "2026-05-18T08:46:58+00:00",
-    "auto_from_news": true
-  },
-  {
     "title": "‘Cantona’ Review: The Hard-Headed French Soccer Legend Takes Nothing Back in a Slick Documentary Portrait",
     "description": "Variety · fotografija iz vijesti",
     "image": "https://variety.com/wp-content/uploads/2026/05/200386-1.jpg",
@@ -3867,6 +4397,16 @@
     "label": "LIFESTYLE",
     "source_url": "https://hypebeast.com/2026/5/our-legacy-work-shop-converse-chuck-70-overdyed-black-release-info",
     "created_at": "2026-05-18T08:25:28+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Energy Markets Eye Reversal as Crude Tests Major Resistance",
+    "description": "Investing.com Commodities · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-core-3a8068edc540/1200/750",
+    "category": "trzista",
+    "label": "TRŽIŠTA",
+    "source_url": "https://www.investing.com/analysis/energy-markets-eye-reversal-as-crude-tests-major-resistance-200680460",
+    "created_at": "2026-05-18T08:25:00+00:00",
     "auto_from_news": true
   },
   {
@@ -4150,22 +4690,22 @@
     "auto_from_news": true
   },
   {
-    "title": "Female Film Club Returns to Cannes With Expanded Short Film Fund (EXCLUSIVE)",
-    "description": "Variety · fotografija iz vijesti",
-    "image": "https://variety.com/wp-content/uploads/2026/05/Female-Film-Club.jpg",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://variety.com/2026/film/markets-festivals/female-film-club-xpanded-short-film-fund-cannes-1236752057/",
-    "created_at": "2026-05-18T08:00:00+00:00",
-    "auto_from_news": true
-  },
-  {
     "title": "Connor Storrie in ‘April X,’ Films by Gorillaz, Kit Harington and EP Jane Fonda Set for Raindance",
     "description": "Hollywood Reporter · fotografija iz vijesti",
     "image": "https://picsum.photos/seed/wv-news-ff53836ae767/1200/750",
     "category": "film",
     "label": "FILM",
     "source_url": "https://www.hollywoodreporter.com/movies/movie-news/connor-storrie-gorillaz-kit-harington-films-raindance-2026-1236597733/",
+    "created_at": "2026-05-18T08:00:00+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Female Film Club Returns to Cannes With Expanded Short Film Fund (EXCLUSIVE)",
+    "description": "Variety · fotografija iz vijesti",
+    "image": "https://variety.com/wp-content/uploads/2026/05/Female-Film-Club.jpg",
+    "category": "film",
+    "label": "FILM",
+    "source_url": "https://variety.com/2026/film/markets-festivals/female-film-club-xpanded-short-film-fund-cannes-1236752057/",
     "created_at": "2026-05-18T08:00:00+00:00",
     "auto_from_news": true
   },
@@ -4457,546 +4997,6 @@
     "label": "FINANCIJE",
     "source_url": "https://www.investing.com/analysis/eurusd-finds-footing-at-1month-lows-near-11600-200680454",
     "created_at": "2026-05-18T07:28:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "AstraZeneca wins US FDA approval for hypertension drug Baxfendy",
-    "description": "Seeking Alpha Market News · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-e30aeb8d408c/1200/750",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://seekingalpha.com/news/4594255-astrazeneca-wins-us-fda-approval-for-hypertension-drug-baxfendy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-    "created_at": "2026-05-18T07:20:27+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Stop selling what you think your customers need and start doing this instead",
-    "description": "Fast Company · fotografija iz vijesti",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-91520040-start-selling-what-your-customers-actually-need-and-want.jpg",
-    "category": "poslovanje",
-    "label": "POSLOVANJE",
-    "source_url": "https://www.fastcompany.com/91520040/stop-selling-what-you-think-customers-need-sales-strategies",
-    "created_at": "2026-05-18T07:18:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Nicolas Winding Refn On Making ‘Her Private Hell’ After A Brush With Death: “I Had To Start All Over Again”",
-    "description": "Deadline · fotografija iz vijesti",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/refn-portrait-02.jpg",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://deadline.com/2026/05/nicolas-winding-refn-interview-cannes-her-private-hell-1236879619/",
-    "created_at": "2026-05-18T07:15:34+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Reasons Why Popular AI Is Suddenly And Unexpectedly Telling People To Consider Sleeping Or Getting Some Rest",
-    "description": "Forbes Business · fotografija iz vijesti",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/698cf41de88a7cc0719f4616/0x0.jpg?width=960&precrop=1627%2C1083%2Cx0%2Cy0",
-    "category": "poslovanje",
-    "label": "POSLOVANJE",
-    "source_url": "https://www.forbes.com/sites/lanceeliot/2026/05/18/reasons-why-popular-ai-is-suddenly-and-unexpectedly-telling-people-to-consider-sleeping-or-getting-some-rest/",
-    "created_at": "2026-05-18T07:15:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "‘Shogun’ Star Tadanobu Asano Returns to Cannes in Yukiko Sode’s Arresting Romance ‘All the Lovers in the Night’",
-    "description": "Hollywood Reporter · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-6870a6ce8884/1200/750",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://www.hollywoodreporter.com/movies/movie-news/shogun-tadanobu-asano-cannes-all-the-lovers-in-the-night-1236594492/",
-    "created_at": "2026-05-18T07:15:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "FX Outlook: Bearish Yield Curve Steepening Hits Risk Assets",
-    "description": "Investing.com Economic Indicators · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-0699ae74e4eb/1200/750",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/analysis/fx-outlook-bearish-yield-curve-steepening-hits-risk-assets-200680452",
-    "created_at": "2026-05-18T07:14:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Equinix faces challenge to Cape Town data centres over environmental concerns",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H0LB_L.jpg",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/stock-market-news/equinix-faces-challenge-to-cape-town-data-centres-over-environmental-concerns-4694870",
-    "created_at": "2026-05-18T07:13:10+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "As chip industry chases AI, U.S. national labs look to newcomers for supercomputers",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H0KZ_L.jpg",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/stock-market-news/as-chip-industry-chases-ai-us-national-labs-look-to-newcomers-for-supercomputers-4694851",
-    "created_at": "2026-05-18T07:12:52+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Global bond rout deepens as Iran war drags on and underscores inflation fears",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H06C_L.jpg",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-inflation-fears-mount-4694615",
-    "created_at": "2026-05-18T07:12:35+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Light with a mind of its own, Andrea Mancuso’s LUMIAC",
-    "description": "DesignWanted · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-b7708a4ce2b6/1200/750",
-    "category": "dizajn",
-    "label": "DIZAJN",
-    "source_url": "https://designwanted.com/andrea-mancuso-lumiac-nilufar-gallery-kriskadecor/",
-    "created_at": "2026-05-18T07:10:52+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Geopolitics brews risk for tea bags",
-    "description": "Packaging Gateway · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-7758b87309b1/1200/750",
-    "category": "trzista",
-    "label": "TRŽIŠTA",
-    "source_url": "https://www.packaging-gateway.com/features/geopolitics-brews-risk-for-tea-bags/",
-    "created_at": "2026-05-18T07:10:37+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Rami Malek Is An Ailing Artist Determined To Continue Living In Ira Sachs’ Latest ‘The Man I Love’ — First Look Clip",
-    "description": "Deadline · fotografija iz vijesti",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/The-Man-I-Love.png",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://deadline.com/2026/05/rami-malek-ira-sachs-the-man-i-love-clip-1236914061/",
-    "created_at": "2026-05-18T07:06:53+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Sustainable packaging has an infrastructure problem",
-    "description": "Packaging Gateway · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-9e415ea897f1/1200/750",
-    "category": "trzista",
-    "label": "TRŽIŠTA",
-    "source_url": "https://www.packaging-gateway.com/features/sustainable-packaging-has-an-infrastructure-problem/",
-    "created_at": "2026-05-18T07:04:14+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "ImagineAR unveils $500K financing and strategic debt-to-equity swap",
-    "description": "Seeking Alpha Market News · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-52bbb332744d/1200/750",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://seekingalpha.com/news/4594235-imaginear-unveils-500k-financing-and-strategic-debt-to-equity-swap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-    "created_at": "2026-05-18T07:03:28+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Official Look at the New Balance 2010 in “Harbor Grey/Fairweather Blue”",
-    "description": "Hypebeast · fotografija iz vijesti",
-    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F18%2Fnew-balance-2010-harbor-grey-fairweather-blue-official-images-0.jpg?w=800&cbr=1&q=90&fit=max",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://hypebeast.com/2026/5/new-balance-2010-harbor-grey-fairweather-blue-official-images",
-    "created_at": "2026-05-18T07:02:47+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Over 1.1 Million Drivers Are Already Blazing Through ‘Forza Horizon 6’",
-    "description": "Hypebeast · fotografija iz vijesti",
-    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F18%2Fplayground-games-forza-horizon-6-over-1-million-players-ahead-of-official-launch-report-0.jpg?w=800&cbr=1&q=90&fit=max",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://hypebeast.com/2026/5/playground-games-forza-horizon-6-over-1-million-players-ahead-of-official-launch-report",
-    "created_at": "2026-05-18T07:02:29+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Actually Affordable: Timex X Todd Snyder 1976 Lexington Dress Watch",
-    "description": "aBlogtoWatch · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-premium-0b999484801e/1200/750",
-    "category": "satovi",
-    "label": "SATOVI",
-    "source_url": "https://www.ablogtowatch.com/actually-affordable-timex-x-todd-snyder-1976-lexington-dress-watch/",
-    "created_at": "2026-05-18T07:01:59+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Nike’s Total 90 “Black/Gamma Blue” Swaps the Cleats for Rubber and Brings Y2K Football Back to the Streets",
-    "description": "Hypebeast · fotografija iz vijesti",
-    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F18%2FNike-Total-90-Black-Gamma-Blue-Metallic-Silver-IQ7631-001-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://hypebeast.com/2026/5/nike-total-90-black-gamma-blue-metallic-silver-iq7631-001-official-images",
-    "created_at": "2026-05-18T07:01:29+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Doubao Cuts, Tencent Pivots: China’s AI Enters A Self-Correction Cycle",
-    "description": "Forbes Innovation · fotografija iz vijesti",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0aaed676b0dddad063b085/0x0.jpg",
-    "category": "poslovanje",
-    "label": "POSLOVANJE",
-    "source_url": "https://www.forbes.com/sites/viviantoh/2026/05/18/doubao-cuts-tencent-pivots-chinas-ai-enters-a-self-correction-cycle/",
-    "created_at": "2026-05-18T07:00:44+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Introducing – The Bell & Ross BR-X3 Patrouille de France",
-    "description": "Monochrome Watches · fotografija iz vijesti",
-    "image": "https://monochrome-watches.com/app/uploads/2026/05/Bell-and-Ross-BR-X3-Patrouille-de-France-2-600x237.jpg",
-    "category": "satovi",
-    "label": "SATOVI",
-    "source_url": "https://monochrome-watches.com/bell-and-ross-br-x3-patrouille-de-france-introducing-price/",
-    "created_at": "2026-05-18T07:00:42+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Your AI strategy is only as strong as the people who run it",
-    "description": "Fast Company · fotografija iz vijesti",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-91541710-your-AI-is-only-as-good-as-the-team-running-it.jpg",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://www.fastcompany.com/91541710/your-ai-strategy-is-only-as-strong-as-the-people-who-run-it",
-    "created_at": "2026-05-18T07:00:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "See A Jaw-Dropping Crescent Moon Join Planets After Sunset This Week",
-    "description": "Forbes Innovation · fotografija iz vijesti",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/67752188392672890676090c/0x0.jpg?width=960&precrop=3183%2C1790%2Cx35%2Cy347",
-    "category": "poslovanje",
-    "label": "POSLOVANJE",
-    "source_url": "https://www.forbes.com/sites/jamiecartereurope/2026/05/18/see-a-jaw-dropping-crescent-moon-join-planets-after-sunset-this-week/",
-    "created_at": "2026-05-18T07:00:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "China’s Coal Output Slips as Imports Extend Decline",
-    "description": "OilPrice · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-2bb267176dcb/1200/750",
-    "category": "trzista",
-    "label": "TRŽIŠTA",
-    "source_url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Coal-Output-Slips-as-Imports-Extend-Decline.html",
-    "created_at": "2026-05-18T07:00:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Berlinale Title ‘Light Pillar’ Acquired by Greenwich Entertainment for U.S. Theatrical Release (EXCLUSIVE)",
-    "description": "Variety · fotografija iz vijesti",
-    "image": "https://variety.com/wp-content/uploads/2026/05/Light-Pillar.jpg",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://variety.com/2026/film/markets-festivals/berlinale-light-pillar-greenwich-entertainment-us-release-1236751438/",
-    "created_at": "2026-05-18T07:00:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Kylie Minogue on Opening Up for a Netflix Docuseries, Refusing to Be ‘Boxed In’ and Navigating ’90s Tabloids: ‘Thankfully, I Gave Myself a Chance’",
-    "description": "Variety · fotografija iz vijesti",
-    "image": "https://variety.com/wp-content/uploads/2026/05/KM26-01.jpeg",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://variety.com/2026/music/global/kylie-minogue-netflix-docuseries-90s-tabloids-michael-hutchence-1236751681/",
-    "created_at": "2026-05-18T07:00:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Sonoma Chardonnay beyond the stereotypes: 20 great bottles that show the spectrum of terroir-driven styles",
-    "description": "Decanter · fotografija iz vijesti",
-    "image": "https://cdn.mos.cms.futurecdn.net/VDgZPBy9EmbcSGsBfoAgY4-1280-80.jpg",
-    "category": "pica",
-    "label": "PIĆA",
-    "source_url": "https://www.decanter.com/wine/sonoma/sonoma-chardonnay-beyond-the-stereotypes-20-great-bottles-that-show-the-spectrum-of-terroir-driven-styles",
-    "created_at": "2026-05-18T07:00:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "CORTIS Logs Their First Billboard 200 Top 10 Entry With ‘GREENGREEN’",
-    "description": "Hypebeast · fotografija iz vijesti",
-    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F18%2FCORTIS-GREENGREEN-No-3-Billboard-200-Debut-0.jpg?w=800&cbr=1&q=90&fit=max",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://hypebeast.com/2026/5/cortis-greengreen-no-3-billboard-200-debut",
-    "created_at": "2026-05-18T06:56:03+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Kultna njujorška Magnolia Bakery stiže u London, svi već pričaju o slavnom banana puddingu Utorak, 12. svibnja 2026.",
-    "description": "Journal.hr - gastro · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/magnolia-bakery-u-londonu-1-e1778502183727-768x515.jpg",
-    "category": "hedonizam",
-    "label": "HEDONIZAM",
-    "source_url": "https://www.journal.hr/lifestyle/gastro/magnolia-bakery-londonu/",
-    "created_at": "2026-05-18T06:50:58.045584+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Gen Z Wine Challenge: Lauren, 23",
-    "description": "Decanter · fotografija iz vijesti",
-    "image": "https://cdn.mos.cms.futurecdn.net/h6mqQLy3MaXRuyhetKnRtB-1280-80.gif",
-    "category": "pica",
-    "label": "PIĆA",
-    "source_url": "https://www.decanter.com/wine-news/guest-blog/gen-z-wine-challenge-lauren-23",
-    "created_at": "2026-05-18T06:42:35+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Regeneron shares fall 12% on disappointing melanoma trial data",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-b79649386827/1200/750",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/stock-market-news/regeneron-shares-fall-12-on-disappointing-melanoma-trial-data-4694797",
-    "created_at": "2026-05-18T06:41:14+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "SpaceX Starship Launch: When To See Tuesday’s High-Stakes Flight Test",
-    "description": "Forbes Innovation · fotografija iz vijesti",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a06175907bfa51601ba3be3/0x0.jpg",
-    "category": "poslovanje",
-    "label": "POSLOVANJE",
-    "source_url": "https://www.forbes.com/sites/jamiecartereurope/2026/05/18/spacex-starship-launch-when-to-see-tuesdays-high-stakes-flight-test/",
-    "created_at": "2026-05-18T06:41:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Qorvo’s SWOT analysis: stock faces merger uncertainty amid mobile headwinds",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-4eebc8391bb7/1200/750",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/swot-analysis/qorvos-swot-analysis-stock-faces-merger-uncertainty-amid-mobile-headwinds-93CH-4694796",
-    "created_at": "2026-05-18T06:39:29+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "The New Balance 9060 Gets a Fresh \"Dark Olivine\" Makeover for Sage Season",
-    "description": "Hypebeast · fotografija iz vijesti",
-    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F18%2Fnew-balance-9060-dark-olivine-u90604a9-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://hypebeast.com/2026/5/new-balance-9060-dark-olivine-u90604a9-release-info",
-    "created_at": "2026-05-18T06:34:39+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Samsung shares jump nearly 4% after Seoul intervenes in union strike talks",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://i-invdn-com.investing.com/news/LYNXNPEA9500L_M.jpg",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/stock-market-news/samsung-shares-jump-over-5-after-seoul-intervenes-in-union-strike-talks-4694611",
-    "created_at": "2026-05-18T06:33:24+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Hemnet shares fall as Q1 EBITDA drops 43% on weak listings",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-498eae13fb8b/1200/750",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/earnings/hemnet-shares-fall-as-q1-ebitda-drops-43-on-weak-listings-4694792",
-    "created_at": "2026-05-18T06:33:14+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "USD/JPY Weekly Outlook: Rising US Yields and a Crumbling Yen Leave BOJ Exposed",
-    "description": "Investing.com Economic Indicators · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-82d607da4ae3/1200/750",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/analysis/usdjpy-weekly-outlook-rising-us-yields-and-a-crumbling-yen-leave-boj-exposed-200680437",
-    "created_at": "2026-05-18T06:31:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Trump tells Fortune on Intel stake: ’should have asked for more’",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H0J7_L.jpg",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/economy-news/trump-tells-fortune-on-intel-stake-should-have-asked-for-more-4694786",
-    "created_at": "2026-05-18T06:30:30+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 2.88%",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://i-invdn-com.investing.com/news/LYNXMPED120ZE_M.jpg",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-288-4694785",
-    "created_at": "2026-05-18T06:30:04+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "More and more, these invisible hands are shaping your restaurant, hotel, event, and other purchases",
-    "description": "Fast Company · fotografija iz vijesti",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91540993-Work-Life-CN-More-and-more-these-invisible-hands-are-shaping-your-restaurant-hotel-event-and-other-purchases.jpg",
-    "category": "poslovanje",
-    "label": "POSLOVANJE",
-    "source_url": "https://www.fastcompany.com/91540993/choice-architecture-invisible-hands-shaping-restaurant-hotel-event-purchases",
-    "created_at": "2026-05-18T06:30:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Backup script ingested an accidental asterisk and deleted everything",
-    "description": "The Register · fotografija iz vijesti",
-    "image": "https://image.theregister.com/?imageId=5240190&width=800",
-    "category": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source_url": "https://www.theregister.com/storage/2026/05/18/backup-script-ingested-an-accidental-asterisk-and-deleted-everything/5240173",
-    "created_at": "2026-05-18T06:30:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "From TikTok to Cannes: How ‘Elephants in the Fog’ Made Nepal’s Historic Un Certain Regard Breakthrough",
-    "description": "Variety · fotografija iz vijesti",
-    "image": "https://variety.com/wp-content/uploads/2026/05/Elephants-in-the-Fog.jpg",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://variety.com/2026/film/festivals/abinash-bikram-shah-elephants-in-the-fog-cannes-interview-1236752119/",
-    "created_at": "2026-05-18T06:29:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Prudential acquires 75% stake in Bharti Life Insurance",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://i-invdn-com.investing.com/news/LYNXMPEA7H0NX_M.jpg",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/stock-market-news/prudential-acquires-75-stake-in-bharti-life-insurance-93CH-4694784",
-    "created_at": "2026-05-18T06:28:55+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "‘Gloria’ Star Paulina García Preps Directorial Debut, ‘The Passion According to Carmen’ (EXCLUSIVE)",
-    "description": "Variety · fotografija iz vijesti",
-    "image": "https://variety.com/wp-content/uploads/2026/05/Pasion-segun-Carmen.jpeg",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://variety.com/2026/film/global/paulina-garcia-debut-the-passion-according-to-carmen-1236750310/",
-    "created_at": "2026-05-18T06:26:32+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Range Impact GAAP EPS of -$0.02, revenue of $0.92M",
-    "description": "Seeking Alpha Market News · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-ef8ce0e1aacd/1200/750",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://seekingalpha.com/news/4594246-range-impact-gaap-eps-of--002-revenue-of-092m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-    "created_at": "2026-05-18T06:26:06+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Wrist Check: SGA Celebrates Back-to-Back MVP With Audemars Piguet Watches for His OKC Teammates",
-    "description": "Hypebeast · fotografija iz vijesti",
-    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F18%2Fwrist-check-shai-gilgeous-alexander-mvp-celebration-audesmars-piguet-royal-oak-offshore-diver-gift-okc-teammates-000.jpg?w=800&cbr=1&q=90&fit=max",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://hypebeast.com/2026/5/wrist-check-shai-gilgeous-alexander-mvp-celebration-audesmars-piguet-royal-oak-offshore-diver-gift-okc-teammates",
-    "created_at": "2026-05-18T06:25:45+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Move over Prosecco: Eight sophisticated Italian sparkling wines to try next",
-    "description": "Decanter · fotografija iz vijesti",
-    "image": "https://cdn.mos.cms.futurecdn.net/iKk2SToWK334LjTFen66fe-1280-80.jpg",
-    "category": "pica",
-    "label": "PIĆA",
-    "source_url": "https://www.decanter.com/wine/wine-regions/move-over-prosecco-eight-sophisticated-italian-sparkling-wines-to-try-next",
-    "created_at": "2026-05-18T06:25:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Hantavirus-hit cruise ship arrives at Rotterdam port as final destination",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H001_L.jpg",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/world-news/hantavirushit-cruise-ship-due-to-arrive-at-rotterdam-port-as-final-destination-4694582",
-    "created_at": "2026-05-18T06:24:25+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Palme d’Or Winner Juanjo Giménez Sets ‘Pínkala’ With Pol López, Frida Films (EXCLUSIVE)",
-    "description": "Variety · fotografija iz vijesti",
-    "image": "https://variety.com/wp-content/uploads/2026/05/Juanjo-Gimenez-foto.jpg",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://variety.com/2026/film/global/juanjo-gimenez-pinkala-frida-films-cannes-1236751399/",
-    "created_at": "2026-05-18T06:23:46+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "BTS The City ARIRANG - BUSAN 2026 Guide",
-    "description": "Forbes Business · fotografija iz vijesti",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/69e89609b0c97ac6fd2b383a/0x0.jpg?width=960&precrop=1241%2C931%2Cx0%2Cy227",
-    "category": "poslovanje",
-    "label": "POSLOVANJE",
-    "source_url": "https://www.forbes.com/sites/laurasirikul/2026/05/18/bts-the-city-arirang-busan-2026-guide/",
-    "created_at": "2026-05-18T06:23:19+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "LiveRamp GAAP EPS of $1.12 beats by $0.85, revenue of $206M beats by $0.43M",
-    "description": "Seeking Alpha Market News · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-48cf4cbe4a44/1200/750",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://seekingalpha.com/news/4594245-liveramp-gaap-eps-of-112-beats-by-085-revenue-of-206m-beats-by-043m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-    "created_at": "2026-05-18T06:22:44+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Auction of seized Russian gold producer stake fails to attract bidders",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://i-invdn-com.investing.com/news/indicatornews_5_M_1440048359.jpg",
-    "category": "umjetnine",
-    "label": "UMJETNINE",
-    "source_url": "https://www.investing.com/news/economy-news/auction-of-seized-russian-gold-producer-stake-fails-to-attract-bidders-93CH-4694783",
-    "created_at": "2026-05-18T06:22:29+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "NEW! Solar Survey Report 2026",
-    "description": "CleanTechnica · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-070516a5dd32/1200/750",
-    "category": "muzeji",
-    "label": "MUZEJI",
-    "source_url": "https://cleantechnica.com/2026/05/18/new-solar-survey-report-2026/",
-    "created_at": "2026-05-18T06:22:29+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Buckling global bonds in focus; Samsung shares jump - what’s moving markets",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-89d9f8c2f0b9/1200/750",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/economy-news/buckling-global-bonds-in-focus-samsung-shares-jump--whats-moving-markets-4694782",
-    "created_at": "2026-05-18T06:21:04+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Glass frit chemistry explains EVA-driven degradation mechanisms in TOPCon solar cells",
-    "description": "PV Magazine · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-4dcd24f6dd19/1200/750",
-    "category": "trzista",
-    "label": "TRŽIŠTA",
-    "source_url": "https://www.pv-magazine.com/2026/05/18/glass-frit-chemistry-explains-eva-driven-degradation-mechanisms-in-topcon-solar-cells/",
-    "created_at": "2026-05-18T06:19:15+00:00",
     "auto_from_news": true
   }
 ]
