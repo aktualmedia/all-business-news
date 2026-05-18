@@ -1,0 +1,11 @@
+{
+  "name": "WEB VIJESTI / All Business News",
+  "short_name": "WEB VIJESTI",
+  "start_url": "/all-business-news/",
+  "scope": "/all-business-news/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "description": "Pregled poslovnih, ekonomskih, tehnoloških, kulturnih i autorskih vijesti.",
+  "lang": "hr-HR"
+}

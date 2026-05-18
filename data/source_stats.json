@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-18T06:23:09.134381+00:00",
+  "updated_at": "2026-05-18T06:30:40.318057+00:00",
   "sources": 194,
-  "ok_sources": 126,
-  "failed_sources": 54,
+  "ok_sources": 127,
+  "failed_sources": 53,
   "items_by_source": {
     "McKinsey Insights": 12,
     "Journal.hr - gastro": 12,
@@ -16,17 +16,17 @@
     "Symbol Quorum - poduzetništvo": 6,
     "Symbol Quorum - kultura i umjetnost": 8,
     "NBER Digest": 12,
+    "Variety": 75,
+    "Decanter": 44,
+    "Seeking Alpha Market News": 8,
+    "CleanTechnica": 13,
     "PV Magazine": 12,
-    "Variety": 72,
-    "Seeking Alpha Market News": 7,
-    "Decanter": 43,
     "Hypebeast": 35,
     "Deadline": 66,
     "Forbes Business": 79,
     "Hollywood Reporter": 10,
     "Wallpaper": 47,
     "OilPrice": 12,
-    "CleanTechnica": 12,
     "ScienceDaily": 12,
     "Luxuo": 5,
     "Fratello": 13,
@@ -51,6 +51,7 @@
     "Highsnobiety": 7,
     "FreightWaves": 40,
     "VentureBeat": 9,
+    "Mining.com": 12,
     "NewBeauty": 12,
     "Book Riot": 10,
     "Designboom": 13,
@@ -118,7 +119,7 @@
     "Liberty Street Economics": 12,
     "INSEAD Knowledge": 8,
     "ECB Press": 12,
-    "Bloomberg Hrvatska - ekonomija": 8,
+    "Bloomberg Hrvatska - ekonomija": 10,
     "Modern Farmer": 10,
     "The Conversation Science": 19,
     "Google AI Blog": 20,
@@ -499,6 +500,15 @@
       "name": "MindBodyGreen",
       "category": "lifestyle",
       "url": "https://www.mindbodygreen.com/rss.xml",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
       "kind": "rss",
       "count": 12,
       "status": "ok"
@@ -1690,16 +1700,6 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
-      "kind": "rss",
-      "count": 0,
-      "status": "failed",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
       "id": "src-034",
       "name": "Nasdaq Markets",
       "category": "financije",
@@ -1936,6 +1936,6 @@
     }
   ],
   "active_limit": 1660,
-  "archive_count": 629,
+  "archive_count": 649,
   "gallery_count": 500
 }
