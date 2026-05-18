@@ -13,7 +13,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="WEB VIJESTI / All Business News">
   <link rel="stylesheet" href="../assets/style.css">
-  <style>.event-filter-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin:16px 0}.event-filter-grid input,.event-filter-grid select{border:1px solid var(--line,#ded7c8);border-radius:16px;padding:13px 14px;font-size:15px;background:#fff;color:#111}@media(max-width:900px){.event-filter-grid{grid-template-columns:1fr 1fr}}@media(max-width:640px){.event-filter-grid{grid-template-columns:1fr}}</style>
+  <style>.event-filter-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin:16px 0}.event-filter-grid input,.event-filter-grid select{border:1px solid var(--line,#ded7c8);border-radius:16px;padding:13px 14px;font-size:15px;background:#fff;color:#111}.event-mini-stats{display:flex;gap:10px;flex-wrap:wrap;margin-top:8px;color:#6b7280;font-weight:900;text-transform:uppercase;font-size:.78rem}@media(max-width:900px){.event-filter-grid{grid-template-columns:1fr 1fr}}@media(max-width:640px){.event-filter-grid{grid-template-columns:1fr}}</style>
   <script>window.WV_PAGE="calendar"; window.WV_CATEGORY="";</script>
 </head>
 <body data-page="calendar" data-category="">
@@ -34,12 +34,13 @@
     <select id="eventType"><option value="">SVE VRSTE</option></select>
     <select id="eventInstitution"><option value="">SVE INSTITUCIJE</option></select>
   </div>
+  <div class="event-mini-stats"><span>Ukupno: <strong id="eventCount">0</strong></span><span>Prikazano: <strong id="eventShown">0</strong></span></div>
 </section>
 <div id="eventsGrid" class="news-grid"></div>
 </main>
 <nav class="mobile-bottom-nav" aria-label="BRZA MOBILNA NAVIGACIJA"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../objave/index.html">OBJAVE</a><a href="../galerija/index.html">GALERIJA</a></nav>
 <footer class="site-footer"><p><strong>WEB VIJESTI / ALL BUSINESS NEWS</strong> · DOGAĐANJA.</p></footer>
-<script src="../assets/app.js" defer></script>
+<script src="../assets/events-fast.js" defer></script>
 <script src="../assets/seo-meta.js" defer></script>
 </body>
 </html>
