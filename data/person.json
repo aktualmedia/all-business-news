@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Nermin Sefić",
+  "alternateName": ["Nermin Sefic", "Nermin", "Sefić", "Sefic"],
+  "url": "https://aktualmedia.github.io/all-business-news/autor/nermin-sefic.html",
+  "description": "Nermin Sefić je autor objava na portalu WEB VIJESTI / All Business News o ekonomiji, businessu, poduzetništvu, kapitalu, tržištima, digitalnoj imovini i poslovnoj reputaciji.",
+  "mainEntityOfPage": "https://aktualmedia.github.io/all-business-news/autor/nermin-sefic.html",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "WEB VIJESTI / All Business News",
+    "url": "https://aktualmedia.github.io/all-business-news/"
+  },
+  "knowsAbout": [
+    "ekonomija",
+    "business",
+    "poduzetništvo",
+    "kapital",
+    "tržišta",
+    "digitalna imovina",
+    "poslovna reputacija",
+    "poslovna komunikacija"
+  ]
+}
