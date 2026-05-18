@@ -14,7 +14,11 @@ from html.parser import HTMLParser
 
 ROOT = Path(__file__).resolve().parent
 TIMEOUT = 16
-UA = 'WEB-VIJESTI-Aktual-Media-Events/2.0 (+https://aktualmedia.github.io/all-business-news/)'
+UA = 'WEB-VIJESTI-Aktual-Media-Events/2.1 (+https://aktualmedia.github.io/all-business-news/)'
+
+SOURCE_URL_OVERRIDES = {
+    'hnk-zagreb': 'https://www.hnk.hr/hr/raspored/'
+}
 
 MONTHS = {
     'siječnja':1,'sijecnja':1,'siječanj':1,'sijecanj':1,'january':1,'jan':1,
@@ -97,7 +101,6 @@ def parse_date(text):
     m=re.search(r'(\d{1,2})[.\-/](\d{1,2})[.\-/](20\d{2})', text)
     if m:
         d,mo,y=map(int,m.groups()); return safe_date(y,mo,d)
-    # 17. svibnja 2026 / May 17 2026 / 17 May 2026
     m=re.search(r'(\d{1,2})\.?\s+([a-zčćšžđ]+)\s+(20\d{2})', text)
     if m:
         d=int(m.group(1)); mo=MONTHS.get(m.group(2)); y=int(m.group(3));
@@ -184,15 +187,49 @@ def extract_link_events(text, source):
         events.append(make_event(title,dt,source,url=abs_url(source.get('url'),link['href'])))
     return events
 
+def extract_hnk_schedule_events(text, source):
+    # HNK raspored često ima kartice s datumom, naslovom i linkom. Ovdje dodatno tražimo šire blokove oko datuma.
+    events=[]
+    chunks=re.split(r'(?=<a\b|<article\b|<li\b|<div\b)', text, flags=re.I)
+    for ch in chunks[:900]:
+        plain=clean(ch)
+        dt=parse_date(plain)
+        if not dt or len(plain) < 12: continue
+        href=''
+        m=re.search(r'<a\b[^>]*href=["\']([^"\']+)["\']', ch, re.I)
+        if m: href=abs_url(source.get('url'), m.group(1))
+        title=plain
+        title=re.sub(r'\b\d{1,2}[.\-/]\d{1,2}([.\-/]20\d{2})?\b',' ',title)
+        title=re.sub(r'\b\d{1,2}\.?\s+('+'|'.join(MONTHS.keys())+r')(\s+20\d{2})?\b',' ',title, flags=re.I)
+        title=re.sub(r'\b(ponedjeljak|utorak|srijeda|četvrtak|petak|subota|nedjelja|monday|tuesday|wednesday|thursday|friday|saturday|sunday)\b',' ',title, flags=re.I)
+        title=clean(title)[:120]
+        if not title or title.lower() in {'raspored','program','ulaznice'}: continue
+        events.append(make_event(title, dt, source, source.get('name'), href or source.get('url'), plain[:300]))
+    seen=set(); out=[]
+    for e in events:
+        k=(e['title'].lower(), e['date'])
+        if k not in seen:
+            seen.add(k); out.append(e)
+    return out[:80]
+
 def main():
     socket.setdefaulttimeout(TIMEOUT)
-    sources=[s for s in read_json('data/events_sources.json', []) if s.get('enabled', True)]
+    sources=[]
+    for s in read_json('data/events_sources.json', []):
+        if not s.get('enabled', True): continue
+        s=dict(s)
+        if s.get('id') in SOURCE_URL_OVERRIDES:
+            s['url']=SOURCE_URL_OVERRIDES[s.get('id')]
+        sources.append(s)
     all_events=[]; status=[]
     for src in sources:
         row={'id':src.get('id'),'name':src.get('name'),'url':src.get('url'),'country':src.get('country'),'city':src.get('city'),'type':src.get('type'),'status':'failed','count':0}
         try:
             html_text=fetch(src['url'])
-            events=extract_jsonld_events(html_text,src) or extract_link_events(html_text,src)
+            if src.get('id')=='hnk-zagreb':
+                events=extract_hnk_schedule_events(html_text,src) or extract_jsonld_events(html_text,src) or extract_link_events(html_text,src)
+            else:
+                events=extract_jsonld_events(html_text,src) or extract_link_events(html_text,src)
             if not events:
                 events=[fallback_event(src)]; row['status']='program_link_only'
             else:
