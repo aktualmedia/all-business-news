@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="hr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HRANA I GASTRONOMIJA | WEB VIJESTI</title>
+  <meta name="description" content="Rubrika Hrana i gastronomija: restorani, fine dining, gastronomija, recepti i prehrambeni trendovi. WEB VIJESTI / All Business News.">
+  <meta name="keywords" content="hrana, gastronomija, restorani, fine dining, recepti, food, gastronomy, restaurants, WEB VIJESTI, All Business News">
+  <meta name="author" content="Nermin Sefić">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <link rel="stylesheet" href="../assets/style.css">
+  <style>
+    .food-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}.food-card{background:#fff;border:1px solid var(--line,#ded7c8);border-radius:22px;overflow:hidden;box-shadow:0 14px 34px rgba(17,17,17,.07)}.food-card img{width:100%;aspect-ratio:16/10;object-fit:cover;background:#eee}.food-card .card-body{padding:18px}.food-card h3{margin:.25rem 0 .5rem;line-height:1.22}.food-card p{color:#6b7280}.food-meta{font-size:.76rem;color:#6b7280;font-weight:900;text-transform:uppercase;letter-spacing:.05em}@media(max-width:900px){.food-grid{grid-template-columns:1fr 1fr}}@media(max-width:620px){.food-grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body data-page="category" data-category="hrana">
+<header class="site-header">
+  <a class="brand" href="../index.html"><span class="brand-mark">WV</span><span><strong>WEB VIJESTI</strong><small>AKTUAL MEDIA</small></span></a>
+  <nav class="top-nav" aria-label="GLAVNI IZBORNIK">
+    <a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../objave/index.html">OBJAVE</a><a href="../poslovanje/index.html">POSLOVANJE</a><a href="../kultura/index.html">KULTURA</a><a href="../galerija/index.html">GALERIJA</a><a href="../symbol/index.html">SYMBOL</a><a href="../hedonizam/index.html">HEDONIZAM</a><a href="../pica/index.html">PIĆA</a><a href="../nakit/index.html">NAKIT</a><a href="../admin/index.html">ADMIN</a>
+  </nav>
+  <div class="lang-bar"><span>JEZICI</span><a href="../index.html">HR</a><a href="https://translate.google.com/translate?sl=auto&tl=en&u=https://aktualmedia.github.io/all-business-news/hrana/">EN</a><a href="https://translate.google.com/translate?sl=auto&tl=de&u=https://aktualmedia.github.io/all-business-news/hrana/">DE</a><a href="https://translate.google.com/translate?sl=auto&tl=ar&u=https://aktualmedia.github.io/all-business-news/hrana/">AR</a><a href="https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://aktualmedia.github.io/all-business-news/hrana/">中文</a></div>
+</header>
+<main class="page-shell">
+  <a class="home-button" href="../index.html">HOME – POVRATAK</a>
+  <section class="hero compact"><p class="eyebrow">WEB VIJESTI</p><h1>HRANA I GASTRONOMIJA</h1><p class="lead">Restorani, gastronomija, fine dining, prehrambeni trendovi i kultura hrane.</p></section>
+  <section class="control-panel"><div class="control-row"><input id="foodSearch" type="search" placeholder="PRETRAŽI RUBRIKU HRANA..."></div></section>
+  <section id="foodGrid" class="food-grid"></section>
+  <div class="hero-actions"><button id="foodMore" class="button">UČITAJ JOŠ</button></div>
+</main>
+<nav class="mobile-bottom-nav" aria-label="BRZA MOBILNA NAVIGACIJA"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../pica/index.html">PIĆA</a><a href="../galerija/index.html">GALERIJA</a></nav>
+<footer class="site-footer"><p><strong>WEB VIJESTI / ALL BUSINESS NEWS</strong> · HRANA I GASTRONOMIJA.</p></footer>
+<script>
+(() => {
+  const base = '/all-business-news/';
+  const esc = s => String(s || '').replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+  const link = p => /^https?:/.test(p||'') ? p : base + String(p||'').replace(/^\/+/, '');
+  let items = [], shown = 0, q = '';
+  function card(n,i){ const u = n.local_url || n.url || n.link || '#'; const img = n.image || 'https://picsum.photos/seed/wv-food-'+i+'/1200/750'; return '<article class="food-card"><img loading="'+(i<3?'eager':'lazy')+'" decoding="async" src="'+esc(img)+'" alt=""><div class="card-body"><p class="food-meta">HRANA · '+esc(n.source||'')+'</p><h3><a href="'+esc(link(u))+'">'+esc(n.title||'')+'</a></h3><p>'+esc(String(n.description||n.summary||'').slice(0,420))+'</p><a class="button small" href="'+esc(link(u))+'">OTVORI</a></div></article>'; }
+  function render(reset=false){ if(reset) shown=0; const arr = q ? items.filter(n => [n.title,n.description,n.source].join(' ').toLowerCase().includes(q)) : items; const next = arr.slice(0, shown+24); shown = next.length; document.getElementById('foodGrid').innerHTML = next.map(card).join('') || '<div class="legal-box"><p>Rubrika će se napuniti nakon sljedećeg ažuriranja.</p></div>'; document.getElementById('foodMore').style.display = shown < arr.length ? 'inline-flex' : 'none'; }
+  async function init(){ try{ const r = await fetch('../data/category_news/hrana.json?v='+Date.now(), {cache:'no-store'}); items = r.ok ? await r.json() : []; }catch(e){ items=[]; } document.getElementById('foodSearch').addEventListener('input', e => { q = (e.target.value||'').toLowerCase(); render(true); }); document.getElementById('foodMore').addEventListener('click', () => render(false)); render(true); }
+  document.addEventListener('DOMContentLoaded', init);
+})();
+</script>
+<script src="../assets/seo-meta.js" defer></script>
+</body>
+</html>
