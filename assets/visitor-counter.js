@@ -1,7 +1,8 @@
 (() => {
   const START = 629;
-  const STORAGE_KEY = 'wv_read_counter_live_v4';
+  const STORAGE_KEY = 'wv_read_counter_live_v5';
   const FIRST_DAY = '2026-05-18';
+  let memoryOrganic = 0;
 
   function getDateParts(){
     try {
@@ -43,13 +44,15 @@
       const key = `${now.date}:${location.pathname}:${Math.floor(Date.now()/3000)}`;
       if(st.lastOpenKey !== key){
         st.organic = Number(st.organic || 0) + 1;
+        memoryOrganic += 1;
         st.lastOpenKey = key;
       }
     }
     st.updatedAt = new Date().toISOString();
     save(st);
     const historic = daysFromStart(now.date) * 173;
-    return START + historic + planned(now) + Number(st.organic || 0);
+    const livePulse = Math.floor((now.minute * 60 + now.second) / 75);
+    return START + historic + planned(now) + Number(st.organic || 0) + memoryOrganic + livePulse;
   }
   function paint(v){
     const txt = new Intl.NumberFormat('hr-HR').format(Math.max(START, Math.floor(v)));
@@ -61,12 +64,72 @@
     }
   }
   function tick(increment=false){ paint(number(increment)); }
+
+  function scrubCompanySuffix(){
+    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
+      acceptNode(node){
+        const parent = node.parentElement;
+        if(!parent || ['SCRIPT','STYLE','TEXTAREA','INPUT'].includes(parent.tagName)) return NodeFilter.FILTER_REJECT;
+        return /d\.?\s*o\.?\s*o\.?/i.test(node.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_SKIP;
+      }
+    });
+    const nodes = [];
+    while(walker.nextNode()) nodes.push(walker.currentNode);
+    nodes.forEach(n => { n.nodeValue = n.nodeValue.replace(/\s*,?\s*d\.?\s*o\.?\s*o\.?/gi, '').replace(/Aktual Media\s+$/i,'Aktual Media'); });
+  }
+
+  function weatherDescription(code){
+    const map = {0:'Vedro',1:'Pretežno vedro',2:'Djelomično oblačno',3:'Oblačno',45:'Magla',48:'Magla',51:'Slaba rosulja',53:'Rosulja',55:'Jaka rosulja',61:'Slaba kiša',63:'Kiša',65:'Jaka kiša',71:'Slab snijeg',73:'Snijeg',75:'Jak snijeg',80:'Pljusak',81:'Pljuskovi',82:'Jaki pljuskovi',95:'Grmljavina'};
+    return map[Number(code)] || 'Prognoza';
+  }
+  function injectWeatherStyles(){
+    if(document.getElementById('wvWeatherStyles')) return;
+    const s = document.createElement('style');
+    s.id = 'wvWeatherStyles';
+    s.textContent = `
+      .wv-weather-card{background:#fff;border:1px solid var(--line,#ded7c8);border-radius:18px;padding:12px;margin:10px 0;box-shadow:0 10px 24px rgba(17,17,17,.04)}
+      .wv-weather-card .eyebrow{margin:0 0 8px}.wv-weather-main{display:flex;justify-content:space-between;gap:12px;align-items:center}.wv-weather-temp{font-size:1.7rem;font-weight:1000;color:#111;line-height:1}.wv-weather-desc{font-weight:900;color:#111}.wv-weather-meta{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-top:10px}.wv-weather-meta span{display:block;background:#f8f7f2;border:1px solid var(--line,#ded7c8);border-radius:12px;padding:7px 6px;text-align:center;font-size:.62rem;font-weight:900;color:#6b7280;text-transform:uppercase}.wv-weather-meta strong{display:block;color:#111;font-size:.78rem;margin-top:2px}.wv-weather-note{margin:8px 0 0;color:#6b7280;font-size:.66rem;font-weight:800;text-transform:uppercase}@media(max-width:760px){.wv-weather-meta{grid-template-columns:1fr 1fr}.wv-weather-temp{font-size:1.45rem}}
+    `;
+    document.head.appendChild(s);
+  }
+  async function loadWeather(){
+    const host = document.getElementById('weatherWidget') || document.createElement('section');
+    if(!host.id) host.id = 'weatherWidget';
+    host.className = 'wv-weather-card';
+    const top = document.getElementById('topEventNotice');
+    const side = document.querySelector('.portal-side-card');
+    if(side && !document.getElementById('weatherWidget')) side.insertBefore(host, top ? top.nextSibling : side.firstChild);
+    if(!side && !host.isConnected) return;
+    host.innerHTML = '<p class="eyebrow">VREMENSKA PROGNOZA</p><div class="wv-weather-main"><div><div class="wv-weather-desc">Zagreb</div><p class="wv-weather-note">Učitavanje prognoze...</p></div><div class="wv-weather-temp">--°</div></div>';
+    try{
+      const url = 'https://api.open-meteo.com/v1/forecast?latitude=45.815&longitude=15.982&current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,wind_speed_10m&hourly=precipitation_probability&forecast_days=1&timezone=Europe%2FZagreb';
+      const r = await fetch(url, {cache:'no-store'});
+      if(!r.ok) throw new Error(r.status);
+      const data = await r.json();
+      const c = data.current || {};
+      const temp = Math.round(Number(c.temperature_2m));
+      const feel = Math.round(Number(c.apparent_temperature));
+      const wind = Math.round(Number(c.wind_speed_10m));
+      const hum = Math.round(Number(c.relative_humidity_2m));
+      const pop = Array.isArray(data.hourly?.precipitation_probability) ? data.hourly.precipitation_probability.slice(0,6).filter(x=>x!=null) : [];
+      const rain = pop.length ? Math.max(...pop) : null;
+      host.innerHTML = `<p class="eyebrow">VREMENSKA PROGNOZA</p><div class="wv-weather-main"><div><div class="wv-weather-desc">Zagreb · ${weatherDescription(c.weather_code)}</div><p class="wv-weather-note">Automatska prognoza · Open-Meteo</p></div><div class="wv-weather-temp">${Number.isFinite(temp)?temp:'--'}°C</div></div><div class="wv-weather-meta"><span>Osjećaj<strong>${Number.isFinite(feel)?feel+'°C':'-'}</strong></span><span>Vlaga<strong>${Number.isFinite(hum)?hum+'%':'-'}</strong></span><span>Vjetar<strong>${Number.isFinite(wind)?wind+' km/h':'-'}</strong></span>${rain!==null?`<span>Kiša<strong>${rain}%</strong></span>`:''}</div>`;
+    }catch(e){
+      host.innerHTML = '<p class="eyebrow">VREMENSKA PROGNOZA</p><div class="wv-weather-main"><div><div class="wv-weather-desc">Zagreb</div><p class="wv-weather-note">Prognoza trenutačno nije dostupna.</p></div><div class="wv-weather-temp">--°</div></div>';
+    }
+  }
+
   function boot(){
+    scrubCompanySuffix();
+    injectWeatherStyles();
+    loadWeather();
     tick(true);
     document.addEventListener('click', e => { if(e.target && e.target.closest && e.target.closest('a,button')) tick(true); }, {passive:true});
     setInterval(() => tick(false), 15000);
     setTimeout(() => tick(false), 500);
     setTimeout(() => tick(false), 1500);
+    setTimeout(scrubCompanySuffix, 1000);
+    setTimeout(loadWeather, 1200);
   }
   if(document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot); else boot();
 })();
