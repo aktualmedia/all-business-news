@@ -1,4 +1,5 @@
 name: Update vijesti - rucno i automatski
+# force-run: all-category-fillers-2026-05-18
 
 on:
   workflow_dispatch:
