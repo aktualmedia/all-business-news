@@ -12,24 +12,24 @@
 </head>
 <body data-page="admin" data-category="">
 <header class="site-header">
-  <a class="brand" href="../index.html"><span class="brand-mark">WV</span><span><strong>WEB VIJESTI</strong><small>AKTUAL MEDIA D.O.O.</small></span></a>
+  <a class="brand" href="../index.html"><span class="brand-mark">WV</span><span><strong>WEB VIJESTI</strong><small>AKTUAL MEDIA</small></span></a>
   <nav class="top-nav" aria-label="GLAVNI IZBORNIK"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../galerija/index.html">GALERIJA</a><a href="../symbol/index.html">SYMBOL</a><a href="../radio/index.html">RADIO</a><a href="../nermin-sefic/index.html">NERMIN SEFIĆ</a><a href="../admin/index.html">ADMIN</a></nav>
   <div class="lang-bar"><span>JEZICI</span><a href="https://aktualmedia.github.io/all-business-news/">HR</a><a href="https://translate.google.com/translate?sl=auto&tl=en&u=https://aktualmedia.github.io/all-business-news/">EN</a><a href="https://translate.google.com/translate?sl=auto&tl=de&u=https://aktualmedia.github.io/all-business-news/">DE</a><a href="https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://aktualmedia.github.io/all-business-news/">中文</a><a href="https://translate.google.com/translate?sl=auto&tl=ar&u=https://aktualmedia.github.io/all-business-news/">AR</a></div>
 </header>
 <main class="page-shell admin-wrap">
   <a class="home-button" href="../index.html">HOME – POVRATAK</a>
-  <section class="hero compact"><p class="eyebrow">ADMIN</p><h1>ADMIN SUČELJE</h1><p class="lead">Prijava: korisnik <strong>admin</strong>, lozinka <strong>gnkasg</strong>. S mobitela možeš uslikati fotografiju, dodati opis i poslati je u galeriju.</p></section>
+  <section class="hero compact"><p class="eyebrow">ADMIN</p><h1>ADMIN SUČELJE</h1><p class="lead">Admin sučelje za dodavanje fotografija, opisa i autorskih objava u galeriju i rubriku objava.</p></section>
 
   <section id="loginPanel" class="login-panel">
     <h2>PRIJAVA</h2>
     <input id="loginUser" autocomplete="username" placeholder="Korisnik">
     <input id="loginPass" autocomplete="current-password" type="password" placeholder="Lozinka">
     <div class="admin-actions"><button class="button" id="loginBtn" type="button">PRIJAVA</button></div>
-    <p class="small-muted">Ovo je osnovna zaštita na statičkoj stranici. Za stvarni upis u GitHub treba dodatno unijeti GitHub token koji se sprema samo u tvoj preglednik.</p>
+    <p class="small-muted">Pristup je ograničen. Za stvarni upis u GitHub dodatno se koristi osobni GitHub token koji se sprema samo u tvoj preglednik.</p>
   </section>
 
   <section id="adminPanel" class="admin-panel hidden">
-    <div class="admin-ok">Prijavljen si kao admin. Za automatsku objavu u GitHub repozitorij unesi GitHub token s pravom <strong>Contents: Read and Write</strong>.</div>
+    <div class="admin-ok">Prijavljen si u admin sučelje. Za automatsku objavu u GitHub repozitorij unesi GitHub token s pravom <strong>Contents: Read and Write</strong>.</div>
     <div class="token-row">
       <div><label>GitHub token</label><input id="ghToken" type="password" placeholder="GitHub token za upis u repo"></div>
       <button class="button small" id="saveToken" type="button">SPREMI TOKEN</button>
@@ -63,7 +63,7 @@
     <section class="admin-box">
       <h2>STATUS</h2>
       <p id="adminStatus" class="admin-note">Spremno.</p>
-      <p class="small-muted">Nakon objave GitHub Pages obično treba 1–3 minute da prikaže novu galeriju ili tekst. Otvori stranicu u incognito prozoru ili napravi Ctrl+F5.</p>
+      <p class="small-muted">Nakon objave GitHub Pages obično treba 1–3 minute da prikaže novu galeriju ili tekst.</p>
     </section>
   </section>
 </main>
@@ -72,12 +72,15 @@
 <script>
 (()=>{
   const OWNER='aktualmedia', REPO='all-business-news', BRANCH='main';
+  const USER_HASH='8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918';
+  const PASS_HASH='a5547cb53baf7504eac11f04190f6ff3719a6ff0e2bd94765a6a335df57e4e47';
   const API=`https://api.github.com/repos/${OWNER}/${REPO}/contents/`;
   const $=id=>document.getElementById(id);
   const status=$('adminStatus');
   const setStatus=(msg,type='note')=>{ if(!status)return; status.textContent=msg; status.className= type==='error'?'admin-error':type==='ok'?'admin-ok':'admin-note'; };
   const enc=s=>btoa(unescape(encodeURIComponent(s)));
   const dec=s=>decodeURIComponent(escape(atob(s||'')));
+  async function sha256(text){ const b=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(text)); return [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,'0')).join(''); }
   const slug=s=>String(s||'slika').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,70)||'slika';
   const token=()=>localStorage.getItem('wv_github_token')||'';
   function headers(){ return {Authorization:`Bearer ${token()}`,Accept:'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28'}; }
@@ -86,7 +89,7 @@
   async function readJson(path, fallback=[]){ try{ const f=await ghGet(path); return {items:JSON.parse(dec(f.content)), sha:f.sha}; }catch(e){ return {items:fallback, sha:null}; } }
   function download(name,data){ const blob=new Blob([JSON.stringify(data,null,2)],{type:'application/json'}); const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=name; a.click(); setTimeout(()=>URL.revokeObjectURL(a.href),1000); }
   async function fileToJpegBase64(file){ return new Promise((resolve,reject)=>{ const img=new Image(); const reader=new FileReader(); reader.onload=()=>{ img.onload=()=>{ const max=1400; let w=img.width,h=img.height; if(Math.max(w,h)>max){ const r=max/Math.max(w,h); w=Math.round(w*r); h=Math.round(h*r); } const c=document.createElement('canvas'); c.width=w; c.height=h; const ctx=c.getContext('2d'); ctx.drawImage(img,0,0,w,h); resolve(c.toDataURL('image/jpeg',0.86).split(',')[1]); }; img.onerror=reject; img.src=reader.result; }; reader.onerror=reject; reader.readAsDataURL(file); }); }
-  $('loginBtn').onclick=()=>{ if($('loginUser').value.trim()==='admin' && $('loginPass').value==='gnkasg'){ localStorage.setItem('wv_admin_login','1'); $('loginPanel').classList.add('hidden'); $('adminPanel').classList.remove('hidden'); $('ghToken').value=token(); } else alert('Pogrešan user ili pass.'); };
+  $('loginBtn').onclick=async()=>{ if(await sha256($('loginUser').value.trim())===USER_HASH && await sha256($('loginPass').value)===PASS_HASH){ localStorage.setItem('wv_admin_login','1'); $('loginPanel').classList.add('hidden'); $('adminPanel').classList.remove('hidden'); $('ghToken').value=token(); } else alert('Pogrešna prijava.'); };
   if(localStorage.getItem('wv_admin_login')==='1'){ $('loginPanel').classList.add('hidden'); $('adminPanel').classList.remove('hidden'); $('ghToken').value=token(); }
   $('saveToken').onclick=()=>{ localStorage.setItem('wv_github_token',$('ghToken').value.trim()); setStatus('Token spremljen lokalno.','ok'); };
   $('gFile').onchange=()=>{ const f=$('gFile').files[0]; if(!f)return; const url=URL.createObjectURL(f); $('gPreview').src=url; $('gPreview').classList.remove('hidden'); };
