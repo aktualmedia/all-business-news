@@ -82,10 +82,11 @@
     "pages": 140,
     "size_mb": 7.38,
     "pdf": "assets/editions/symbol-4.pdf",
+    "pdf_available": false,
     "url": "symbol/reader.html?id=symbol-4",
-    "source_note": "Digitalno izdanje Symbol dodano u WEB VIJESTI / Aktual Media digitalnu biblioteku.",
+    "source_note": "Digitalno izdanje Symbol dodano u WEB VIJESTI / Aktual Media digitalnu biblioteku. PDF datoteka za ovo izdanje trenutno nije prisutna u repozitoriju.",
     "description": "Symbol Hrvatska, časopis za kulturu i umjetnost / art & culture magazine, broj 4.",
-    "status": "published",
+    "status": "missing_pdf",
     "created_at": "2026-05-17T00:00:00+02:00",
     "cover": "assets/editions/covers/symbol-4.jpg"
   },
