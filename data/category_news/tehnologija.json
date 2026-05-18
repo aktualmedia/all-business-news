@@ -1,5 +1,31 @@
 [
   {
+    "id": "9d6f3f48c27ad1b1",
+    "title": "Manchester Code Made Bits Behave",
+    "description": "In the late 1940s—when computer engineers were grappling with unreliable hardware and noisy transmission environments—a team of engineers inside a modest lab at the University of Manchester , England, confronted a problem so fundamental that it threatened the viability of digital computing itself. Machines could generate bits, but they could not reliably read them back. The inconsistent reading back of memory data did not initially present itself as a grand theoretical challenge. It showed up as something more mundane: inconsistent computing results. Engineers including Frederic C. Williams , Tom Kilburn , and G. E. (Tommy) Thomas traced the failures not to logic errors but to the physical behavior of the machines themselves. The team devised a technique for keeping a transmitter and a receiver synchronized without relying on a separate clock signal. Their innovation, known as Manchester",
+    "url": "https://spectrum.ieee.org/manchester-code-ieee-milestone",
+    "image": "https://spectrum.ieee.org/media-library/black-and-white-photograph-of-a-well-dressed-young-man-working-on-a-magnetic-drum-store-in-a-lab.jpg?id=66734376&width=980",
+    "source": "IEEE Spectrum",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T18:00:01+00:00",
+    "fetched_at": "2026-05-18T19:21:26.114086+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "844f474c4d0b934a",
+    "title": "What Makes a Job Dull, Dirty, or Dangerous?",
+    "description": "For years, the field of robotics has used the terms “dull, dirty, and dangerous” (DDD) to describe the types of tasks or jobs where robots might be useful—by doing work that’s undesirable for people. A classic example of a DDD job is one of “repetitive physical labor on a steaming hot factory floor involving heavy machinery that threatens life and limb.” But determining which human activities fit into these categories is not as straightforward as it seems. What exactly is a “dull” task and who makes that assumption? Is “dirty” work just about needing to wash your hands afterwards, or is there also an aspect of social stigma? What data can we rely on to classify jobs as “dangerous?” Our recent work (which was not dull at all) tackles these questions and proposes a framework to help roboticists understand the job context for our technology. First, we did an empirical analysis of robotics p",
+    "url": "https://spectrum.ieee.org/dull-dirty-dangerous-robots",
+    "image": "https://spectrum.ieee.org/media-library/a-curbside-trash-can-being-lifted-by-a-mechanical-arm-attached-to-the-side-of-a-garbage-truck.jpg?id=66736070&width=980",
+    "source": "IEEE Spectrum",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T13:00:00+00:00",
+    "fetched_at": "2026-05-18T19:21:26.114626+00:00",
+    "missing_core_fill": true
+  },
+  {
     "id": "80bcceddaabc093d",
     "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
     "description": "This sponsored article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia . Melbourne’s reputation as a global events city, from the Australian Open tennis and Formula 1 Australian Grand Prix to hosting NFL regular season games, now intersects with a different form of scale: large-scale compute, data-intensive research, and advanced engineering. Long recognized for delivering complex international events, the city is applying the same organisational capability to the infrastructure that underpins modern AI research, positioning Melbourne at the convergence of global convening and high-performance digital systems. Consistently ranked among the world’s most livable cities, Melbourne was named Time Out’s Best City in the World in 2026 , the first Australian city to hold the title. More materially for research and innovation, Melbourne is also the n",
@@ -9,7 +35,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T10:00:01+00:00",
-    "fetched_at": "2026-05-18T15:41:41.582235+00:00",
+    "fetched_at": "2026-05-18T19:21:26.115300+00:00",
     "missing_core_fill": true
   },
   {
@@ -22,7 +48,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T10:00:01+00:00",
-    "fetched_at": "2026-05-18T15:41:41.582297+00:00",
+    "fetched_at": "2026-05-18T19:21:26.115375+00:00",
     "missing_core_fill": true
   },
   {
@@ -35,7 +61,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T13:00:01+00:00",
-    "fetched_at": "2026-05-18T15:41:41.587231+00:00",
+    "fetched_at": "2026-05-18T19:21:26.121523+00:00",
     "missing_core_fill": true
   },
   {
@@ -48,7 +74,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-14T18:00:02+00:00",
-    "fetched_at": "2026-05-18T15:41:41.587436+00:00",
+    "fetched_at": "2026-05-18T19:21:26.121796+00:00",
     "missing_core_fill": true
   },
   {
@@ -61,7 +87,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-14T10:00:01+00:00",
-    "fetched_at": "2026-05-18T15:41:41.587511+00:00",
+    "fetched_at": "2026-05-18T19:21:26.121899+00:00",
     "missing_core_fill": true
   },
   {
@@ -74,7 +100,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-14T10:00:01+00:00",
-    "fetched_at": "2026-05-18T15:41:41.588048+00:00",
+    "fetched_at": "2026-05-18T19:21:26.122613+00:00",
     "missing_core_fill": true
   },
   {
@@ -87,7 +113,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-12T18:00:02+00:00",
-    "fetched_at": "2026-05-18T15:41:41.588585+00:00",
+    "fetched_at": "2026-05-18T19:21:26.123324+00:00",
     "missing_core_fill": true
   },
   {
@@ -100,7 +126,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-12T17:15:15+00:00",
-    "fetched_at": "2026-05-18T15:41:41.588922+00:00",
+    "fetched_at": "2026-05-18T19:21:26.123776+00:00",
     "missing_core_fill": true
   },
   {
@@ -113,7 +139,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-11T10:00:01+00:00",
-    "fetched_at": "2026-05-18T15:41:41.588996+00:00",
+    "fetched_at": "2026-05-18T19:21:26.123875+00:00",
     "missing_core_fill": true
   },
   {
@@ -126,7 +152,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-08T18:00:01+00:00",
-    "fetched_at": "2026-05-18T15:41:41.589282+00:00",
+    "fetched_at": "2026-05-18T19:21:26.124276+00:00",
     "missing_core_fill": true
   },
   {
@@ -139,7 +165,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-07T13:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.590478+00:00",
+    "fetched_at": "2026-05-18T19:21:26.125844+00:00",
     "missing_core_fill": true
   },
   {
@@ -152,7 +178,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-06T18:00:01+00:00",
-    "fetched_at": "2026-05-18T15:41:41.590856+00:00",
+    "fetched_at": "2026-05-18T19:21:26.126338+00:00",
     "missing_core_fill": true
   },
   {
@@ -165,7 +191,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-06T10:00:02+00:00",
-    "fetched_at": "2026-05-18T15:41:41.590932+00:00",
+    "fetched_at": "2026-05-18T19:21:26.126442+00:00",
     "missing_core_fill": true
   },
   {
@@ -178,7 +204,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-05T15:45:33+00:00",
-    "fetched_at": "2026-05-18T15:41:41.591090+00:00",
+    "fetched_at": "2026-05-18T19:21:26.126658+00:00",
     "missing_core_fill": true
   },
   {
@@ -191,7 +217,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-04T18:00:01+00:00",
-    "fetched_at": "2026-05-18T15:41:41.591482+00:00",
+    "fetched_at": "2026-05-18T19:21:26.127215+00:00",
     "missing_core_fill": true
   },
   {
@@ -204,7 +230,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-04T11:08:34+00:00",
-    "fetched_at": "2026-05-18T15:41:41.592130+00:00",
+    "fetched_at": "2026-05-18T19:21:26.128086+00:00",
     "missing_core_fill": true
   },
   {
@@ -217,7 +243,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-04-30T14:00:01+00:00",
-    "fetched_at": "2026-05-18T15:41:41.592603+00:00",
+    "fetched_at": "2026-05-18T19:21:26.128720+00:00",
     "missing_core_fill": true
   },
   {
@@ -230,7 +256,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-04-30T10:00:01+00:00",
-    "fetched_at": "2026-05-18T15:41:41.592706+00:00",
+    "fetched_at": "2026-05-18T19:21:26.128874+00:00",
     "missing_core_fill": true
   },
   {
@@ -243,7 +269,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-04-28T18:03:40+00:00",
-    "fetched_at": "2026-05-18T15:41:41.593323+00:00",
+    "fetched_at": "2026-05-18T19:21:26.129639+00:00",
     "missing_core_fill": true
   },
   {
@@ -256,7 +282,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-04-28T18:00:02+00:00",
-    "fetched_at": "2026-05-18T15:41:41.593840+00:00",
+    "fetched_at": "2026-05-18T19:21:26.130303+00:00",
     "missing_core_fill": true
   },
   {
@@ -269,7 +295,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-04-28T14:00:01+00:00",
-    "fetched_at": "2026-05-18T15:41:41.593969+00:00",
+    "fetched_at": "2026-05-18T19:21:26.130471+00:00",
     "missing_core_fill": true
   },
   {
@@ -282,33 +308,33 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-04-27T13:00:01+00:00",
-    "fetched_at": "2026-05-18T15:41:41.594130+00:00",
+    "fetched_at": "2026-05-18T19:21:26.130725+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "f162f496a943c03e",
-    "title": "Engineering Collisions: How NYU Is Remaking Health Research",
-    "description": "This sponsored article is brought to you by NYU Tandon School of Engineering . The traditional approach to academic research goes something like this: Assemble experts from a discipline, put them in a building, and hope something useful emerges. Biology departments do biology. Engineering departments do engineering. Medical schools treat patients. NYU is turning that model inside out. At its new Institute for Engineering Health , the organizing principle centers around disease states rather than traditional disciplines. Instead of asking “what can electrical engineers contribute to medicine?,” they’re asking “what would it take to cure allergic asthma?,” and then assembling whoever can answer that question, whether they’re immunologists, computational biologists, materials scientists, AI researchers, or wireless communications engineers. Jeffrey Hubbell, NYU’s vice president for bioengin",
-    "url": "https://spectrum.ieee.org/nyu-health-research",
-    "image": "https://spectrum.ieee.org/media-library/two-scientists-in-lab-coats-working-at-a-fume-hood-in-a-chemistry-laboratory.jpg?id=65590061&width=980",
-    "source": "IEEE Spectrum",
+    "id": "d6dfe078d4fd751f",
+    "title": "Four AI supply-chain attacks in 50 days exposed the release pipeline red teams aren't covering",
+    "description": "Four supply-chain incidents hit OpenAI, Anthropic and Meta in 50 days: three adversary-driven attacks and one self-inflicted packaging failure. None targeted the model, and all four exposed the same gap: release pipelines, dependency hooks, CI runners, and packaging gates that no system card , AISI evaluation , or Gray Swan red-team exercise has ever scoped. On May 11, 2026, a self-propagating worm called Mini Shai-Hulud published 84 malicious package versions across 42 @tanstack/* npm packages in six minutes flat. The worm rode in on release.yml, chaining a pull_request_target misconfiguration, GitHub Actions cache poisoning, and OIDC token extraction from runner memory to hijack TanStack’s own trusted release pipeline. The packages carried valid SLSA Build Level 3 provenance because they were published from the correct repository, by the correct workflow, using a legitimately minted OI",
+    "url": "https://venturebeat.com/security/supply-chain-incidents-openai-anthropic-meta-release-surface-vendor-questionnaire-matrix",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1PhXKP5YpstNpQ89sknvrW/0f83c1efa4e5200bad70dae1c9f3558f/hero.png?w=300&q=30",
+    "source": "VentureBeat",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-04-27T12:45:01+00:00",
-    "fetched_at": "2026-05-18T15:41:41.594506+00:00",
+    "published_at": "2026-05-18T17:16:58+00:00",
+    "fetched_at": "2026-05-18T19:21:26.067981+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "822dbc7a9396efdb",
-    "title": "Modeling and Simulation Approaches for Modern Power System Studies",
-    "description": "This webinar covers power system modeling and simulation across multiple timescales, from quasi-static 8760 analysis through EMT studies, fault classification, and inverter-based resource grid integration. What Attendees will Learn Programmatic network construction and multi-fidelity modeling — Learn how to build power system networks programmatically from standard data formats, configure models for specific engineering objectives, and work across fidelity levels from quasi-static phasor simulation through switched-linear and nonlinear electromagnetic transient (EMT) analysis. Quasi-static and EMT simulation workflows — Explore 8760-hour quasi-static simulation on an IEEE 123-node distribution feeder for annual energy studies, and EMT simulation on transmission system benchmarks including generator trip dynamics and asset relocation without remodeling the network. Comprehensive fault stu",
-    "url": "https://content.knowledgehub.wiley.com/power-systems-studies-with-simulink-and-simscape-electrical/",
-    "image": "https://assets.rbl.ms/26851519/origin.png",
-    "source": "IEEE Spectrum",
+    "id": "04ca38f328b38820",
+    "title": "LangSmith Engine closes the agent debugging loop automatically — but multi-model enterprises still need a neutral layer",
+    "description": "Enterprises building and deploying agents have a problem: it’s taking their engineers too long to find out that an agent made a mistake, and the loop has continued to perpetuate, especially without a human at every step. LangSmith, the monitoring and evaluation platform from LangChain, launched a new capability in public beta that could make that issue more manageable. LangSmith Engine automates the entire chain by detecting production failures, diagnosing root causes against the live codebase, drafting a fix and preventing regression. It does this in a single automated pass. LangSmith Engine gives AI engineers a faster path to triage, but it launches into a crowded field: Anthropic, OpenAI and Google are all pulling observability and evaluation into their own platforms . LangSmith Engine looks at failures LangChain said in a blog post that the typical agent development cycle starts by t",
+    "url": "https://venturebeat.com/orchestration/langsmith-engine-closes-the-agent-debugging-loop-automatically-but-multi-model-enterprises-still-need-a-neutral-layer",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/JbvsjhXQ0uQ9LfTtxh5wZ/2dbacae3929a9933067cdb1cae3d70a7/crimedy7_illustration_of_a_supervisor_robot_evaluating_other__35a35697-0dc1-4a73-acea-a033e99f2fac_1.png?w=300&q=30",
+    "source": "VentureBeat",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-04-27T10:00:01+00:00",
-    "fetched_at": "2026-05-18T15:41:41.594630+00:00",
+    "published_at": "2026-05-18T16:23:19+00:00",
+    "fetched_at": "2026-05-18T19:21:26.068276+00:00",
     "missing_core_fill": true
   },
   {
@@ -321,7 +347,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-17T18:00:23+00:00",
-    "fetched_at": "2026-05-18T15:41:41.540923+00:00",
+    "fetched_at": "2026-05-18T19:21:26.068661+00:00",
     "missing_core_fill": true
   },
   {
@@ -334,7 +360,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-16T21:05:53+00:00",
-    "fetched_at": "2026-05-18T15:41:41.541220+00:00",
+    "fetched_at": "2026-05-18T19:21:26.069051+00:00",
     "missing_core_fill": true
   },
   {
@@ -347,7 +373,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T21:06:09+00:00",
-    "fetched_at": "2026-05-18T15:41:41.541914+00:00",
+    "fetched_at": "2026-05-18T19:21:26.069872+00:00",
     "missing_core_fill": true
   },
   {
@@ -360,7 +386,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T21:04:15+00:00",
-    "fetched_at": "2026-05-18T15:41:41.542242+00:00",
+    "fetched_at": "2026-05-18T19:21:26.070336+00:00",
     "missing_core_fill": true
   },
   {
@@ -373,33 +399,111 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T16:45:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.543005+00:00",
+    "fetched_at": "2026-05-18T19:21:26.071307+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "6b4624aedbfa57ab",
-    "title": "Developers can now debug and evaluate AI agents locally with Raindrop's open source tool Workshop",
-    "description": "Observability startup Raindrop AI ’s new open source, MIT Licensed \" Workshop \" tool, launched today, gives developers something that they've likely wanted, perhaps subconsciously, since the agentic AI era kicked off in earnest last year: a local debugger and evaluation tool specifically designed for AI agents, allowing devs to see all the traces of what their agent has been doing in a single, lightweight Structured Query Language (SQL) database file (.db) It functions as a local daemon and UI that streams every token, tool call, and decision to a local dashboard—typically hosted at localhost:5899 —the moment it occurs. By visiting their localhost, developers can then see everything their agent was up to — including mistakes or errors — and identify what went wrong, when, and ideally, discern why. It's all stored in a single .db file, which takes up relatively little memory, according to",
-    "url": "https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6wIjmrKnWVARYlidhqCcW4/3591335d0442d88d9d34cad4d5dd86b2/ChatGPT_Image_May_14__2026__06_00_40_PM.png?w=300&q=30",
-    "source": "VentureBeat",
+    "id": "2b4d25146488fcd7",
+    "title": "Musk v. Altman proved that AI is led by the wrong people",
+    "description": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future of AI. Altman's lawyers, in turn, poked at Musk's own credibility. A jury came to a verdict on Monday after just […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+    "image": "https://picsum.photos/seed/wv-fill-fa50fe10cd28/1200/750",
+    "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-14T22:30:51+00:00",
-    "fetched_at": "2026-05-18T15:41:41.543149+00:00",
+    "published_at": "2026-05-18T19:21:25.942033+00:00",
+    "fetched_at": "2026-05-18T19:21:25.942040+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "50809f2156f872d7",
-    "title": "Cerebras stock nearly doubles on day one as AI chipmaker hits $100 billion — what it means for AI infrastructure",
-    "description": "Cerebras Systems , the Silicon Valley chipmaker that built the world's largest commercial AI processor, erupted onto the Nasdaq on Wednesday, opening at $350 per share — nearly double its $185 IPO price — and rocketing past a $100 billion market capitalization in its first hours of trading. The debut instantly crowned Cerebras as one of the most valuable semiconductor companies on Earth and validated a decade-long bet that the AI industry would eventually demand a fundamentally different kind of chip. The company sold 30 million shares at $185 apiece, raising $5.55 billion in what Bloomberg reported as the largest U.S. tech IPO since Uber went public in 2019 . The final pricing shattered expectations: Cerebras initially marketed shares at $115 to $125, then raised the range to $150 to $160 as investor demand surged, before ultimately pricing above even that elevated band. \"This is a new ",
-    "url": "https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1gQf5I0cUp4KcxXhfUXces/a6c77f253098bf69f570fe27f31cbb1f/Nuneybits_Vector_art_of_a_square_golden_wafer-scale_chip_as_a_r_31f72f61-77ca-4e32-92d1-88e71bd3c852.webp?w=300&q=30",
-    "source": "VentureBeat",
+    "id": "241b97b5a73ac922",
+    "title": "Walmart launches new budget-friendly Android tablets starting at $97",
+    "description": "Walmart's Onn brand just launched a whole line of budget-friendly Android tablets that, all together, cost less in total than a single iPad Pro. As spotted by 9to5Google, the six new tablets ship with Android 16 and all but one cost less than $200. The little Onn Core 7 is the most affordable of the […]",
+    "url": "https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets",
+    "image": "https://picsum.photos/seed/wv-fill-5c0cc8749e87/1200/750",
+    "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-14T21:38:02+00:00",
-    "fetched_at": "2026-05-18T15:41:41.544092+00:00",
+    "published_at": "2026-05-18T19:21:25.942100+00:00",
+    "fetched_at": "2026-05-18T19:21:25.942103+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "351d0d4b4b50e059",
+    "title": "Dyson’s super-slim PencilWash just hit its best price to date for Memorial Day",
+    "description": "If Dyson’s PencilVac Fluffycones made you wish the company had built something similarly slim for scrubbing the hard floors in your home, enter the recently released Dyson PencilWash. The cordless cleaner is designed to tackle spills and stains on tile and other surfaces, and right now, it’s available for a new low price of $249.99 […]",
+    "url": "https://www.theverge.com/gadgets/932449/dyson-pencilwash-hard-floor-cleaner-memorial-day-2026-deal-sale",
+    "image": "https://picsum.photos/seed/wv-fill-aa879554383b/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T19:21:25.942197+00:00",
+    "fetched_at": "2026-05-18T19:21:25.942201+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "7376f4afce38d157",
+    "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+    "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. After nearly a month […]",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "image": "https://picsum.photos/seed/wv-fill-a562c32df243/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T19:21:25.942265+00:00",
+    "fetched_at": "2026-05-18T19:21:25.942267+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "6a11cadda8a21909",
+    "title": "Elon Musk loses his case against Sam Altman",
+    "description": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+    "image": "https://picsum.photos/seed/wv-fill-803d040148a0/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T19:21:25.942319+00:00",
+    "fetched_at": "2026-05-18T19:21:25.942321+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "5bea99e0f8fc4f88",
+    "title": "Google is rolling out its redesigned Workspace app icons",
+    "description": "It's not just you - the Google Workspace apps are getting a new look. The redesigned app icons, leaked last month, are now rolling out widely, as we started noticing this morning. Users with the redesigned icons will notice they now have a gradient look that fades from lighter to darker shades, rather than being […]",
+    "url": "https://www.theverge.com/tech/932417/google-gmail-docs-cal-sheets-workspace-icon-redesign",
+    "image": "https://picsum.photos/seed/wv-fill-072223b9a492/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T19:21:25.942370+00:00",
+    "fetched_at": "2026-05-18T19:21:25.942373+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "10d5addde3da5ab3",
+    "title": "Sony is raising short-subscription prices for PlayStation Plus",
+    "description": "Sony is hiking the starting price of one-month and three-month PlayStation Plus subscriptions in \"select regions,\" blaming \"ongoing market conditions.\" Beginning May 20th, 1-month subscriptions will start at $10.99 USD / €9.99 EUR / £7.99 GBP, while 3-month subscriptions will start at $27.99 USD / €27.99 EUR / £21.99 GBP. In the US, the changes […]",
+    "url": "https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise",
+    "image": "https://picsum.photos/seed/wv-fill-56156d562bc4/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T19:21:25.942426+00:00",
+    "fetched_at": "2026-05-18T19:21:25.942428+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "2decdb33319869bf",
+    "title": "Amazon Alexa Plus can now create AI-generated podcasts",
+    "description": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, and the AI assistant will offer an overview of what its AI hosts plan to talk about, allowing you to steer the conversation […]",
+    "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
+    "image": "https://picsum.photos/seed/wv-fill-86c0316866d0/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T19:21:25.942475+00:00",
+    "fetched_at": "2026-05-18T19:21:25.942477+00:00",
     "missing_core_fill": true
   },
   {
@@ -411,8 +515,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T15:41:41.336274+00:00",
-    "fetched_at": "2026-05-18T15:41:41.336283+00:00",
+    "published_at": "2026-05-18T19:21:25.942525+00:00",
+    "fetched_at": "2026-05-18T19:21:25.942527+00:00",
     "missing_core_fill": true
   },
   {
@@ -424,112 +528,86 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T15:41:41.336335+00:00",
-    "fetched_at": "2026-05-18T15:41:41.336337+00:00",
+    "published_at": "2026-05-18T19:21:25.942578+00:00",
+    "fetched_at": "2026-05-18T19:21:25.942581+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "528ce9e22edfc75c",
-    "title": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports",
-    "description": "Linux founder Linus Torvalds said in his most recent state of the kernel post that \"the continued flood of AI reports has basically made the security list almost entirely unmanageable, with enormous duplication due to different people finding the same things with the same tools,\" as The Register reports. That probably doesn't apply to stuff […]",
-    "url": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs",
-    "image": "https://picsum.photos/seed/wv-fill-d1df71edd3c5/1200/750",
-    "source": "The Verge",
+    "id": "d0a9e5febe8ad5f5",
+    "title": "Australian Aboriginals cared for a dingo's grave for decades",
+    "description": "For some ancient Aboriginal Australian communities, dingoes were part of the family.",
+    "url": "https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Excavation.-Photo-BQ-1131x648.jpg",
+    "source": "Ars Technica",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T15:41:41.336383+00:00",
-    "fetched_at": "2026-05-18T15:41:41.336385+00:00",
+    "published_at": "2026-05-18T18:37:55+00:00",
+    "fetched_at": "2026-05-18T19:21:25.909564+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "c05fd13a28e369b7",
-    "title": "Exclusive: Jonah Peretti explains why he sold BuzzFeed",
-    "description": "Today, I’m talking with Jonah Peretti, who is, technically, the CEO of BuzzFeed — although that will be coming to an end very soon. Just days before we spoke, Jonah agreed to sell 52 percent of BuzzFeed for a total of $120 million to Byron Allen, who owns The Weather Channel, a number of broadcast […]",
-    "url": "https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media",
-    "image": "https://picsum.photos/seed/wv-fill-303871ab919e/1200/750",
-    "source": "The Verge",
+    "id": "7ca5c0df34c4b90a",
+    "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+    "description": "Musk plans to appeal after judge immediately affirmed the jury's decision.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276194137-1024x648.jpg",
+    "source": "Ars Technica",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T15:41:41.336422+00:00",
-    "fetched_at": "2026-05-18T15:41:41.336423+00:00",
+    "published_at": "2026-05-18T18:09:41+00:00",
+    "fetched_at": "2026-05-18T19:21:25.909612+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "3dbe1a685d21d39d",
-    "title": "Starlink raises prices across satellite internet plans",
-    "description": "Starlink is raising prices across its satellite internet plans in the US - including Standby Mode - with the cheapest 100Mbps Residential plan going from $50 to $55 / month, as reported earlier by PCMag. Meanwhile, Starlink's 200Mbps residential plan has jumped from $80 to $85 / month, while the Residential Max plan went from […]",
-    "url": "https://www.theverge.com/science/932294/starlink-price-increase-standby-mode",
-    "image": "https://picsum.photos/seed/wv-fill-bdac3877f576/1200/750",
-    "source": "The Verge",
+    "id": "094819b372ed2f60",
+    "title": "Pompeii victim ID'd as a likely doctor",
+    "description": "New X-rays and CT scans showed small case with locking mechanism containing metal instruments.",
+    "url": "https://arstechnica.com/science/2026/05/pompeii-victim-idd-as-a-likely-doctor/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/pompeii1-1-1152x648.jpg",
+    "source": "Ars Technica",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T15:41:41.336458+00:00",
-    "fetched_at": "2026-05-18T15:41:41.336460+00:00",
+    "published_at": "2026-05-18T18:03:32+00:00",
+    "fetched_at": "2026-05-18T19:21:25.909651+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "e7155c12c78a5b1c",
-    "title": "Leaked images reveal Sony’s 10th anniversary ‘ColleXion’ headphones",
-    "description": "We now have a good idea of what Sony's upcoming 10th anniversary headphones will look like before their expected launch tomorrow. Leaked image renders of what appears to be Sony's 1000X \"The ColleXion\" Edition have been shared online by OnLeaks and HotEUDeals, showing thicker leatherette padding and \"generously sized\" earcups compared to Sony's current WH-1000XM6 […]",
-    "url": "https://www.theverge.com/tech/932262/sony-1000x-headphone-collexion-image-spec-leaks",
-    "image": "https://picsum.photos/seed/wv-fill-4a8097cbef1e/1200/750",
-    "source": "The Verge",
+    "id": "a0e5ede99108c252",
+    "title": "Guy Gardner makes a cameo in new Lanterns teaser",
+    "description": "\"This ring? It's the greatest weapon in the Universe. When and if to use it, that's the whole ball game.\"",
+    "url": "https://arstechnica.com/culture/2026/05/new-lanterns-teaser-brings-back-the-superhero-vibes/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/lanterns1-1152x648-1779121699.jpg",
+    "source": "Ars Technica",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T15:41:41.336502+00:00",
-    "fetched_at": "2026-05-18T15:41:41.336504+00:00",
+    "published_at": "2026-05-18T17:36:41+00:00",
+    "fetched_at": "2026-05-18T19:21:25.909691+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "96833218cc6f6c48",
-    "title": "Bad, Bad, Bad, Bad Roommate",
-    "description": "The wildfires that would come to engulf Los Angeles had just begun to burn when Frankee Grove finally admitted to herself that she needed a roommate. It was January 2025, and Grove, then 42, had recently broken up with her boyfriend of six years. They had lived together in a two-bedroom Spanish bungalow on a […]",
-    "url": "https://www.theverge.com/cs/features/919365/bad-roommate-housing-los-angeles-eviction",
-    "image": "https://picsum.photos/seed/wv-fill-35d021ad54d9/1200/750",
-    "source": "The Verge",
+    "id": "7f11b81b326a1338",
+    "title": "The Dory Sign is E ink, smart screen simplicity at its finest",
+    "description": "Dory CEO claims the $149 signs won't be bricked should Dory go out of business.",
+    "url": "https://arstechnica.com/gadgets/2026/05/the-dory-sign-is-e-ink-smart-screen-simplicity-at-its-finest/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/unnamed-1-1-1152x648.jpg",
+    "source": "Ars Technica",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T15:41:41.336548+00:00",
-    "fetched_at": "2026-05-18T15:41:41.336550+00:00",
+    "published_at": "2026-05-18T17:26:15+00:00",
+    "fetched_at": "2026-05-18T19:21:25.909729+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "e6fdbc6fd7e81734",
-    "title": "Disco Elysium’s spiritual successor can’t escape its phantoms",
-    "description": "Zero Parades: For Dead Spies wants you to question the price of forgiveness. After leading a crew of spies through a failed operation, protagonist Cascade is willing to pay whatever amount is needed to reestablish contact not just with fellow agents, but with the friends she let down. After being \"frozen\" for five years and […]",
-    "url": "https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium",
-    "image": "https://picsum.photos/seed/wv-fill-0004ea0e5354/1200/750",
-    "source": "The Verge",
+    "id": "28fea11b51c29d97",
+    "title": "Five years later, Windows 11 brings back much-missed taskbar options (and more)",
+    "description": "Microsoft is also testing a smaller taskbar and more customizable Start menu.",
+    "url": "https://arstechnica.com/gadgets/2026/05/five-years-later-windows-11-brings-back-much-missed-taskbar-options-and-more/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/win11-taskbar-side-1152x648-1779119141.jpeg",
+    "source": "Ars Technica",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T15:41:41.336589+00:00",
-    "fetched_at": "2026-05-18T15:41:41.336591+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "5ce23e2affb6bbed",
-    "title": "Microsoft is retiring Teams’ Together Mode",
-    "description": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more simplified Teams experience. The feature used AI […]",
-    "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
-    "image": "https://picsum.photos/seed/wv-fill-9548044f1c1e/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-18T15:41:41.336625+00:00",
-    "fetched_at": "2026-05-18T15:41:41.336627+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "d9f5f1c1659dc4c8",
-    "title": "Revamped Siri will reportedly offer autodeleting chats",
-    "description": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. […]",
-    "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-    "image": "https://picsum.photos/seed/wv-fill-4100e9862b1b/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-18T15:41:41.336661+00:00",
-    "fetched_at": "2026-05-18T15:41:41.336663+00:00",
+    "published_at": "2026-05-18T16:03:02+00:00",
+    "fetched_at": "2026-05-18T19:21:25.909769+00:00",
     "missing_core_fill": true
   },
   {
@@ -542,7 +620,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T14:33:34+00:00",
-    "fetched_at": "2026-05-18T15:41:41.283847+00:00",
+    "fetched_at": "2026-05-18T19:21:25.909807+00:00",
     "missing_core_fill": true
   },
   {
@@ -555,7 +633,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T13:49:37+00:00",
-    "fetched_at": "2026-05-18T15:41:41.283885+00:00",
+    "fetched_at": "2026-05-18T19:21:25.909843+00:00",
     "missing_core_fill": true
   },
   {
@@ -568,7 +646,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T13:23:34+00:00",
-    "fetched_at": "2026-05-18T15:41:41.283914+00:00",
+    "fetched_at": "2026-05-18T19:21:25.909878+00:00",
     "missing_core_fill": true
   },
   {
@@ -581,7 +659,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T11:00:20+00:00",
-    "fetched_at": "2026-05-18T15:41:41.283952+00:00",
+    "fetched_at": "2026-05-18T19:21:25.909925+00:00",
     "missing_core_fill": true
   },
   {
@@ -594,7 +672,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-17T11:00:14+00:00",
-    "fetched_at": "2026-05-18T15:41:41.283979+00:00",
+    "fetched_at": "2026-05-18T19:21:25.909963+00:00",
     "missing_core_fill": true
   },
   {
@@ -607,7 +685,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-16T11:00:01+00:00",
-    "fetched_at": "2026-05-18T15:41:41.284009+00:00",
+    "fetched_at": "2026-05-18T19:21:25.910002+00:00",
     "missing_core_fill": true
   },
   {
@@ -620,7 +698,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T22:19:12+00:00",
-    "fetched_at": "2026-05-18T15:41:41.284038+00:00",
+    "fetched_at": "2026-05-18T19:21:25.910039+00:00",
     "missing_core_fill": true
   },
   {
@@ -633,7 +711,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T21:51:24+00:00",
-    "fetched_at": "2026-05-18T15:41:41.284071+00:00",
+    "fetched_at": "2026-05-18T19:21:25.910082+00:00",
     "missing_core_fill": true
   },
   {
@@ -646,7 +724,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T21:31:53+00:00",
-    "fetched_at": "2026-05-18T15:41:41.284098+00:00",
+    "fetched_at": "2026-05-18T19:21:25.910120+00:00",
     "missing_core_fill": true
   },
   {
@@ -659,7 +737,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T21:17:19+00:00",
-    "fetched_at": "2026-05-18T15:41:41.284128+00:00",
+    "fetched_at": "2026-05-18T19:21:25.910205+00:00",
     "missing_core_fill": true
   },
   {
@@ -672,7 +750,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T20:36:05+00:00",
-    "fetched_at": "2026-05-18T15:41:41.284156+00:00",
+    "fetched_at": "2026-05-18T19:21:25.910246+00:00",
     "missing_core_fill": true
   },
   {
@@ -685,7 +763,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T20:16:24+00:00",
-    "fetched_at": "2026-05-18T15:41:41.284188+00:00",
+    "fetched_at": "2026-05-18T19:21:25.910292+00:00",
     "missing_core_fill": true
   },
   {
@@ -698,7 +776,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T19:11:48+00:00",
-    "fetched_at": "2026-05-18T15:41:41.284215+00:00",
+    "fetched_at": "2026-05-18T19:21:25.910337+00:00",
     "missing_core_fill": true
   },
   {
@@ -711,85 +789,33 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T18:51:43+00:00",
-    "fetched_at": "2026-05-18T15:41:41.284243+00:00",
+    "fetched_at": "2026-05-18T19:21:25.910378+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "a245041d660813df",
-    "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
-    "description": "One of the site's moderators described the new policy on social media.",
-    "url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
-    "source": "Ars Technica",
+    "id": "5db11c8ea63e85ae",
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "description": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "image": "https://picsum.photos/seed/wv-fill-4d58c475c8bd/1200/750",
+    "source": "TechCrunch",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-15T18:25:53+00:00",
-    "fetched_at": "2026-05-18T15:41:41.284269+00:00",
+    "published_at": "2026-05-18T17:34:43+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868193+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "8bc1aaf4f86a7276",
-    "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
-    "description": "Judge orders Apple to give Musk internal messages discussing secretive ChatGPT deal.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2156972504-1024x648.jpg",
-    "source": "Ars Technica",
+    "id": "07f9b9c26ff8d260",
+    "title": "NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
+    "description": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026.",
+    "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
+    "image": "https://picsum.photos/seed/wv-fill-7e5cf48ad402/1200/750",
+    "source": "TechCrunch",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-15T18:13:33+00:00",
-    "fetched_at": "2026-05-18T15:41:41.284300+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "1c9588851dfcdb05",
-    "title": "Volkswagen shows its first electric GTI; there's no chance of US sales",
-    "description": "The ID. Polo GTI takes plenty of inspiration from the original Golf GTI of 1976.",
-    "url": "https://arstechnica.com/cars/2026/05/how-the-other-half-lives-vw-shows-off-electric-polo-gti-for-europe/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/DB2026AU00468_large-1152x648.jpg",
-    "source": "Ars Technica",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-15T17:55:55+00:00",
-    "fetched_at": "2026-05-18T15:41:41.284326+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "c92101004d7270f9",
-    "title": "Making cement from a different type of rock could clean up emissions",
-    "description": "Limestone might not be the only source for Portland cement.",
-    "url": "https://arstechnica.com/science/2026/05/running-the-numbers-on-a-zero-emission-way-to-make-cement/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/brimstone_basalt_cement-1152x648.jpg",
-    "source": "Ars Technica",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-15T17:06:59+00:00",
-    "fetched_at": "2026-05-18T15:41:41.284354+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "c98546ecf26a69af",
-    "title": "Bill to block publishers from killing online games advances in California",
-    "description": "Publishers would have to offer \"independent\" play patch or refunds after server shutdowns.",
-    "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg.jpg",
-    "source": "Ars Technica",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-15T16:35:54+00:00",
-    "fetched_at": "2026-05-18T15:41:41.284379+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "1a1546b6e5c5ada4",
-    "title": "Honda shows off new hybrids for America as it absorbs $9 billion EV loss",
-    "description": "The automaker marked its first annual loss in more than 70 years.",
-    "url": "https://arstechnica.com/cars/2026/05/honda-shows-off-new-hybrids-for-america-as-it-absorbs-9-billion-ev-loss/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Honda-Hybrid-Sedan-Prototype-1152x648.jpg",
-    "source": "Ars Technica",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-15T15:56:33+00:00",
-    "fetched_at": "2026-05-18T15:41:41.284404+00:00",
+    "published_at": "2026-05-18T16:32:33+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868270+00:00",
     "missing_core_fill": true
   },
   {
@@ -802,7 +828,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T15:26:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.245677+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868321+00:00",
     "missing_core_fill": true
   },
   {
@@ -815,7 +841,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T14:56:47+00:00",
-    "fetched_at": "2026-05-18T15:41:41.245726+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868374+00:00",
     "missing_core_fill": true
   },
   {
@@ -828,20 +854,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T13:42:19+00:00",
-    "fetched_at": "2026-05-18T15:41:41.245758+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868420+00:00",
     "missing_core_fill": true
   },
   {
     "id": "303ee1c2bff59a33",
     "title": "South Korea’s LetinAR is building optics behind AI glasses",
-    "description": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
+    "description": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
     "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
     "image": "https://picsum.photos/seed/wv-fill-7096532e6ba5/1200/750",
     "source": "TechCrunch",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T11:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.245794+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868471+00:00",
     "missing_core_fill": true
   },
   {
@@ -854,7 +880,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-17T20:15:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.245824+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868515+00:00",
     "missing_core_fill": true
   },
   {
@@ -867,7 +893,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-17T19:46:34+00:00",
-    "fetched_at": "2026-05-18T15:41:41.245854+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868556+00:00",
     "missing_core_fill": true
   },
   {
@@ -880,7 +906,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-17T16:32:04+00:00",
-    "fetched_at": "2026-05-18T15:41:41.245888+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868601+00:00",
     "missing_core_fill": true
   },
   {
@@ -893,7 +919,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-17T16:05:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.245917+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868643+00:00",
     "missing_core_fill": true
   },
   {
@@ -906,20 +932,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-17T15:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.245946+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868686+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "5b1a96439d9883e7",
-    "title": "The haves and have nots of the AI gold rush",
+    "id": "9aff54c9cb4a567f",
+    "title": "The haves and have-nots of the AI gold rush",
     "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
     "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-    "image": "https://picsum.photos/seed/wv-fill-b981f522303e/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-13de84cca0c3/1200/750",
     "source": "TechCrunch",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-16T20:17:16+00:00",
-    "fetched_at": "2026-05-18T15:41:41.245970+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868723+00:00",
     "missing_core_fill": true
   },
   {
@@ -932,7 +958,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-16T19:26:14+00:00",
-    "fetched_at": "2026-05-18T15:41:41.245998+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868765+00:00",
     "missing_core_fill": true
   },
   {
@@ -945,33 +971,33 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-16T18:54:28+00:00",
-    "fetched_at": "2026-05-18T15:41:41.246025+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868810+00:00",
     "missing_core_fill": true
   },
   {
     "id": "6b5219e0ffcda803",
     "title": "The offline desk gadget that actually got me to sit up straight",
-    "description": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits",
+    "description": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits.",
     "url": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
     "image": "https://picsum.photos/seed/wv-fill-c45e556b0512/1200/750",
     "source": "TechCrunch",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-16T16:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.246050+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868850+00:00",
     "missing_core_fill": true
   },
   {
     "id": "3db52b37075ca3fb",
     "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-    "description": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+    "description": "OpenAI's latest shake-up comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
     "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
     "image": "https://picsum.photos/seed/wv-fill-8eb9304e362a/1200/750",
     "source": "TechCrunch",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-16T15:33:33+00:00",
-    "fetched_at": "2026-05-18T15:41:41.246074+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868927+00:00",
     "missing_core_fill": true
   },
   {
@@ -984,7 +1010,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-16T15:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.246106+00:00",
+    "fetched_at": "2026-05-18T19:21:25.868969+00:00",
     "missing_core_fill": true
   },
   {
@@ -997,7 +1023,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-16T14:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.246133+00:00",
+    "fetched_at": "2026-05-18T19:21:25.869008+00:00",
     "missing_core_fill": true
   },
   {
@@ -1010,7 +1036,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T20:30:20+00:00",
-    "fetched_at": "2026-05-18T15:41:41.246166+00:00",
+    "fetched_at": "2026-05-18T19:21:25.869055+00:00",
     "missing_core_fill": true
   },
   {
@@ -1023,20 +1049,59 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T20:25:35+00:00",
-    "fetched_at": "2026-05-18T15:41:41.246220+00:00",
+    "fetched_at": "2026-05-18T19:21:25.869091+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "a648c4a78719af02",
-    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-    "description": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
-    "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-    "image": "https://picsum.photos/seed/wv-fill-b396d19aaebe/1200/750",
-    "source": "TechCrunch",
+    "id": "1bd9f025cf9c6006",
+    "title": "Roundtables: Inside the Musk v. Altman Trial",
+    "description": "Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman broke their promise to keep the company a nonprofit. Join reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, in conversation with editor in chief Mat Honan to go behind the scenes of…",
+    "url": "https://www.technologyreview.com/2026/05/18/1137454/roundtables-inside-the-musk-v-altman-trial/",
+    "image": "https://picsum.photos/seed/wv-fill-69efb16ecf6d/1200/750",
+    "source": "MIT Technology Review",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-15T18:14:44+00:00",
-    "fetched_at": "2026-05-18T15:41:41.246279+00:00",
+    "published_at": "2026-05-18T19:15:18+00:00",
+    "fetched_at": "2026-05-18T19:21:25.811308+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "879e118c506a6617",
+    "title": "What to expect from Google this week",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O…",
+    "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+    "image": "https://picsum.photos/seed/wv-fill-f6cdc0193443/1200/750",
+    "source": "MIT Technology Review",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T17:35:43+00:00",
+    "fetched_at": "2026-05-18T19:21:25.811374+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "4af2967d9c38e704",
+    "title": "The Signals That Matter – MIT Insider’s Panel",
+    "description": "Izvorni naslov/sažetak s portala MIT Technology Review. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.technologyreview.com/2026/05/18/1137430/the-signals-that-matter-mit-insiders-panel/",
+    "image": "https://picsum.photos/seed/wv-fill-50bbbaa9d5ab/1200/750",
+    "source": "MIT Technology Review",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T16:57:44+00:00",
+    "fetched_at": "2026-05-18T19:21:25.811419+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "38b9867539dbeaf7",
+    "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+    "description": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a career in the Army’s Special Operations Command, says his fundamental…",
+    "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+    "image": "https://picsum.photos/seed/wv-fill-6b2343e50264/1200/750",
+    "source": "MIT Technology Review",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T16:01:39+00:00",
+    "fetched_at": "2026-05-18T19:21:25.811482+00:00",
     "missing_core_fill": true
   },
   {
@@ -1049,20 +1114,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T12:10:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.219656+00:00",
+    "fetched_at": "2026-05-18T19:21:25.811544+00:00",
     "missing_core_fill": true
   },
   {
     "id": "df00b46a7bf63955",
     "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-    "description": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development…",
+    "description": "Update: On Monday May 18, the jury delivered a non-binding, advisory verdict finding that Musk’s claims are barred by the statute of limitations. US District Judge Yvonne Gonzalez Rogers accepted the verdict. In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman…",
     "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
     "image": "https://picsum.photos/seed/wv-fill-c2a5a3d7b5b1/1200/750",
     "source": "MIT Technology Review",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T23:39:35+00:00",
-    "fetched_at": "2026-05-18T15:41:41.219714+00:00",
+    "fetched_at": "2026-05-18T19:21:25.811611+00:00",
     "missing_core_fill": true
   },
   {
@@ -1075,7 +1140,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T12:10:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.219764+00:00",
+    "fetched_at": "2026-05-18T19:21:25.811675+00:00",
     "missing_core_fill": true
   },
   {
@@ -1088,7 +1153,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T09:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.219804+00:00",
+    "fetched_at": "2026-05-18T19:21:25.811728+00:00",
     "missing_core_fill": true
   },
   {
@@ -1101,7 +1166,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T09:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.219842+00:00",
+    "fetched_at": "2026-05-18T19:21:25.811778+00:00",
     "missing_core_fill": true
   },
   {
@@ -1114,59 +1179,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-14T13:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.219881+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "73178f14b8140aa4",
-    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-    "description": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely…",
-    "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-    "image": "https://picsum.photos/seed/wv-fill-1cbb13de9c37/1200/750",
-    "source": "MIT Technology Review",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-14T13:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.219919+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "a377d922b0a7a1ae",
-    "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognition program. She wanted…",
-    "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
-    "image": "https://picsum.photos/seed/wv-fill-568e33ecd244/1200/750",
-    "source": "MIT Technology Review",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-14T12:10:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.219961+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "161d11e90880cd0b",
-    "title": "The Tesla Semi could be a big deal for electric trucking",
-    "description": "The Tesla Semi has officially arrived. The company recently released a photo of the first vehicle rolling off its new full-scale production line. This moment has been nearly a decade in the making: The company first announced the truck in late 2017. And now we’ve got final battery specs, official prices, and big news about…",
-    "url": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/",
-    "image": "https://picsum.photos/seed/wv-fill-27374cd66ae8/1200/750",
-    "source": "MIT Technology Review",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-14T10:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.219997+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "2f24e84083ae24cd",
-    "title": "The shock of seeing your body used in deepfake porn",
-    "description": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in fact return…",
-    "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
-    "image": "https://picsum.photos/seed/wv-fill-25250abb9805/1200/750",
-    "source": "MIT Technology Review",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-14T09:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.220033+00:00",
+    "fetched_at": "2026-05-18T19:21:25.811829+00:00",
     "missing_core_fill": true
   },
   {
@@ -1179,7 +1192,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-14T23:01:20+00:00",
-    "fetched_at": "2026-05-18T15:41:41.188562+00:00",
+    "fetched_at": "2026-05-18T19:21:25.727969+00:00",
     "missing_core_fill": true
   },
   {
@@ -1192,33 +1205,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-12-04T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.188623+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "88cc3e20fb631515",
-    "title": "Small Business Use of AI Surges, Driving Daily Efficiency - U.S. Chamber of Commerce",
-    "description": "Small Business Use of AI Surges, Driving Daily Efficiency U.S. Chamber of Commerce",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc0I4X0F5enMtUUNHYTlrelJfNHRLV0dJeU5CZmN6Z01kVHAwNUg0TTh5OHM0RGwyMWtsX0FYS0lqT0NqeWM3VG1VdmVaOEl4SGUyYVNzMUFrZkp3Uld4NkZ3LVVnMFVMclFYczVuX2FKUEpVZU13QUprU0tiVVhCTWI3ZC1qdkdob1dmbERZeThfYklLcUdKQk9PNEJiN3ZhZjVUT3JrZUpZbjJlM1E?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-7a22c8c322c5/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-08-18T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.188662+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "9024e68816a1fe3f",
-    "title": "America Isn’t Ready for What AI Will Do to Jobs - The Atlantic",
-    "description": "America Isn’t Ready for What AI Will Do to Jobs The Atlantic",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk5WMnVUX3hETTMwa0xZYlA5M2syVWp0blppcDFvWU50c2dvV2h5ZHB1eHFfOTktVy1CSldSNHhGZVRuNThRdkVpLWRPTmRQeWRadHlmeEJHUlA3djJ2NlNWd3RMaGlHZnFPSmRKNUVwaWd4VEZEdzA1NjYxX3gtT3RyeDFRNktzLV8zemN0aDAzd19PUlE?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-cedaf997e9a1/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-02-10T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.188703+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728047+00:00",
     "missing_core_fill": true
   },
   {
@@ -1231,7 +1218,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-04-03T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.188740+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728101+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "9024e68816a1fe3f",
+    "title": "America Isn’t Ready for What AI Will Do to Jobs - The Atlantic",
+    "description": "America Isn’t Ready for What AI Will Do to Jobs The Atlantic",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk5WMnVUX3hETTMwa0xZYlA5M2syVWp0blppcDFvWU50c2dvV2h5ZHB1eHFfOTktVy1CSldSNHhGZVRuNThRdkVpLWRPTmRQeWRadHlmeEJHUlA3djJ2NlNWd3RMaGlHZnFPSmRKNUVwaWd4VEZEdzA1NjYxX3gtT3RyeDFRNktzLV8zemN0aDAzd19PUlE?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-cedaf997e9a1/1200/750",
+    "source": "Google News AI Economy",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-02-10T08:00:00+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728187+00:00",
     "missing_core_fill": true
   },
   {
@@ -1244,7 +1244,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-02-20T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.188774+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728239+00:00",
     "missing_core_fill": true
   },
   {
@@ -1257,33 +1257,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-03-01T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.188811+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "b6789e552bebd071",
-    "title": "How Artificial Intelligence Is Transforming The Insurance Industry - Business News Daily",
-    "description": "How Artificial Intelligence Is Transforming The Insurance Industry Business News Daily",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFhVbkZZZ01KZ1VCSnFwbU1BRjdqMHliOF9QX3Y1b1docVZKTEs0Vllma3ZvSnFnZF9odTVLZ3pIX1dDZ21ITzRPdTlWNEhCbWgwX3BsNlRQZW5teUNkcV9hVVVfbmZUWDlUQlZPeXVWTDhCUkFCb1hjSklsdUpoNENIOE5BQkthbFJj?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-7faaf0010cb6/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-11-11T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.188842+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "2dc3b1135870ca1a",
-    "title": "Action items for AI decision makers in 2026 - MIT Sloan",
-    "description": "Action items for AI decision makers in 2026 MIT Sloan",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXRrVU50ZmFtNmo5R2pMQ2o0Nk5sWGI1Rmw2Z0lGekg3bmZlajJjaEhfZDh0MXJzYndWSUJwd0lHVVB2YVhvMEVpNW5oaUZlM1hJemNXQXl0Y0lrbnZmR3Y5djhEbmlld2U4UXNJT1U4Rnl2a2c0Q1IyeHhOS0wyZnVnSUV5cHNXTlE?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-e95cb359b965/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-03-03T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.188871+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728294+00:00",
     "missing_core_fill": true
   },
   {
@@ -1296,20 +1270,33 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-01T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.188900+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728336+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "be622bf9fe9fe7c0",
-    "title": "Tech Trends 2026 - Deloitte",
-    "description": "Tech Trends 2026 Deloitte",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGlac2ZCY09yUnBwZGZKN1RmcHFIdkJENEpFaWdwY0VpcV83c09UQl9FVlB1enZYNUFadzRMM3JxZ2hSQU1jNFJvZHpheU1FZG5HNW1DNVVoLUwtRERrSzdQdzlRLS0xTlRZSkw2VWU0dV9IcHBDOThkU0p2X3lhdW9rZGZEeGFsalpQeC1R?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-cdb6bb8993ae/1200/750",
+    "id": "2dc3b1135870ca1a",
+    "title": "Action items for AI decision makers in 2026 - MIT Sloan",
+    "description": "Action items for AI decision makers in 2026 MIT Sloan",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXRrVU50ZmFtNmo5R2pMQ2o0Nk5sWGI1Rmw2Z0lGekg3bmZlajJjaEhfZDh0MXJzYndWSUJwd0lHVVB2YVhvMEVpNW5oaUZlM1hJemNXQXl0Y0lrbnZmR3Y5djhEbmlld2U4UXNJT1U4Rnl2a2c0Q1IyeHhOS0wyZnVnSUV5cHNXTlE?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-e95cb359b965/1200/750",
     "source": "Google News AI Economy",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2025-12-10T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.188930+00:00",
+    "published_at": "2026-03-03T08:00:00+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728380+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "e630b0c35a58df4b",
+    "title": "TechAccess: AI-Ready America - nsf.gov",
+    "description": "TechAccess: AI-Ready America nsf.gov",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZOC1oQVRxNXRiV2NtUkVoMEZKMFQ3RGZsVWNuVWI4WV9tZ0JKNWhNclR5dWo1Q1dEUFEyeEFaQlVmc0pwbkJZa0hRb1pwUkZ1MXhFUWx2ZlpXWnE3?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-2170e20a348e/1200/750",
+    "source": "Google News AI Economy",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-03-25T16:51:44+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728419+00:00",
     "missing_core_fill": true
   },
   {
@@ -1322,7 +1309,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-20T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.188963+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728474+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "be622bf9fe9fe7c0",
+    "title": "Tech Trends 2026 - Deloitte",
+    "description": "Tech Trends 2026 Deloitte",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGlac2ZCY09yUnBwZGZKN1RmcHFIdkJENEpFaWdwY0VpcV83c09UQl9FVlB1enZYNUFadzRMM3JxZ2hSQU1jNFJvZHpheU1FZG5HNW1DNVVoLUwtRERrSzdQdzlRLS0xTlRZSkw2VWU0dV9IcHBDOThkU0p2X3lhdW9rZGZEeGFsalpQeC1R?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-cdb6bb8993ae/1200/750",
+    "source": "Google News AI Economy",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2025-12-10T08:00:00+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728521+00:00",
     "missing_core_fill": true
   },
   {
@@ -1335,7 +1335,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-23T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.188992+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728566+00:00",
     "missing_core_fill": true
   },
   {
@@ -1348,7 +1348,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-08T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.189033+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728622+00:00",
     "missing_core_fill": true
   },
   {
@@ -1361,7 +1361,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-19T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.189061+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728662+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "6feeb7ea62edb2de",
+    "title": "Enterprise-wide AI can unleash the technology's potential: Here's how you get there - The World Economic Forum",
+    "description": "Enterprise-wide AI can unleash the technology's potential: Here's how you get there The World Economic Forum",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDdtcGdnNUlFRElYZ2dLNDZvWHo0RER2NU9oZ2ZKZndTVE40eWRTTDdtakRSRWxDUGN2X0hNcDRIM0ZHNDVSc19nYU10dnlNOFBINUkxbktES3Q1Tk9BMGdicGVaQ3ZvdFNEMlN3R1R3bEpXaGFiY0ZuTEVrcFhYekFibXFabV9UV2R4VEE5SERwM3BmY2lJZTlxYVdiZHlUY3RENEJ1UDUxaG1rVUw3dTF0alZJcEVydE53T25YaVJ2SjQ?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-3753f07f045f/1200/750",
+    "source": "Google News AI Economy",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-01-16T08:00:00+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728712+00:00",
     "missing_core_fill": true
   },
   {
@@ -1374,7 +1387,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-12-30T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.189097+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728762+00:00",
     "missing_core_fill": true
   },
   {
@@ -1387,7 +1400,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-07T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.189131+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728808+00:00",
     "missing_core_fill": true
   },
   {
@@ -1400,7 +1413,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-12T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.189162+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728854+00:00",
     "missing_core_fill": true
   },
   {
@@ -1413,7 +1426,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-19T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.189194+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728898+00:00",
     "missing_core_fill": true
   },
   {
@@ -1426,7 +1439,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-19T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.189234+00:00",
+    "fetched_at": "2026-05-18T19:21:25.728954+00:00",
     "missing_core_fill": true
   },
   {
@@ -1439,7 +1452,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-11-22T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.189269+00:00",
+    "fetched_at": "2026-05-18T19:21:25.729004+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "4e9401cd25259306",
+    "title": "Investors expect AI use to soar. That’s not happening - The Economist",
+    "description": "Investors expect AI use to soar. That’s not happening The Economist",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkpHa2tpX01zLXh5eXdTS2NWUi1ra04xeHlpSHhXbkZWUHdLdUxib1c5T21UTlIwd3JBRS1mUGdUcnVvbmduV1h0UlZaOEJObDI5Q1hneEJVTTlfN2s1NmlMbjJmMkNoZ21XdUlySG9zc3lUYk9IcG11YTNjZGdSX3hMVDhaMGxVT0RlRmlrQUlQeS14LUFjLW9HSkU1Wkpwc3g1VXMyMno5SDhiX2cw?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-24cec1ed8b0d/1200/750",
+    "source": "Google News AI Economy",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2025-11-26T08:00:00+00:00",
+    "fetched_at": "2026-05-18T19:21:25.729058+00:00",
     "missing_core_fill": true
   },
   {
@@ -1452,33 +1478,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-15T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.189303+00:00",
+    "fetched_at": "2026-05-18T19:21:25.729105+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "386ae5b46e13d68e",
-    "title": "One force is propping up the economy. Fears are growing it won’t last. - The Washington Post",
-    "description": "One force is propping up the economy. Fears are growing it won’t last. The Washington Post",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeWJIUFlEZnBEU1BVWUhDQ2toaXNQa2JWNk5uLVllN1p2S2JvMHRaUDVPZl9ZdExGcDU4d19pOUJwNGJZUTV5bXpINEgwaU5SSm9HdmZaTmFEdFFfS053ai1fOHNWZ0ZMUEJSWXQ5Mmc2eFEzYk1mTXNoVzZLbkhXWXhWQTloRld3LXc?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-7318e92cdc3e/1200/750",
+    "id": "604da6b928c76115",
+    "title": "California tax revenue getting a boost from AI boom — but for how long? - CalMatters",
+    "description": "California tax revenue getting a boost from AI boom — but for how long? CalMatters",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOXUwYS14dkNFX0JRQ0dGRTg3U2MwS29lQkZqVDcyYTdnZWFuRWNqUXR6d2dqU0tEazN2dnM2TjZ2Ti13NjBIMHFfOWpDNGZiMjhkR1RxRUJLY1FXbmN1NUtqMjdjVmJ3Y3JxY3JyZUFLWlgwaTFZSVRuSVJpSjBheVotNU0?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-d64060315792/1200/750",
     "source": "Google News AI Economy",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2025-09-30T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.189342+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "1f684720c59110c6",
-    "title": "Mapping the AI economy: Which regions are ready for the next technology leap - Brookings",
-    "description": "Mapping the AI economy: Which regions are ready for the next technology leap Brookings",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYUMtdF9NRjZTZERaYXdmQ016LVV5SVRBMHdWcEhwRXBnTFk0TDBQeFRkSjREWUg4QWJrQjNCbE5RWmpQanlKemV6N3BDQnpUUm1tRVdVMkJCdnpGNGpCYzlLVmRSRXZtYzVvMG1GWUpvMGFnOUlENGg4dmtHQjJfekQ4ejZUcmU4N01Bc2g0ZkozWHh0RG5LQl83QjFBUzA2UEh3dXRjYjEteW1YV0preA?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-f6633d331179/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-07-16T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.189375+00:00",
+    "published_at": "2026-01-06T08:00:00+00:00",
+    "fetched_at": "2026-05-18T19:21:25.729191+00:00",
     "missing_core_fill": true
   },
   {
@@ -1491,7 +1504,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-28T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.085902+00:00",
+    "fetched_at": "2026-05-18T19:21:25.601591+00:00",
     "missing_core_fill": true
   },
   {
@@ -1504,46 +1517,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-28T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086002+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "884ae4558f9b9e59",
-    "title": "20 New Technology Trends for 2026 | Emerging Technologies 2026 - Simplilearn.com",
-    "description": "20 New Technology Trends for 2026 | Emerging Technologies 2026 Simplilearn.com",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96Qlh1S3htejlyck9TZjZacklqZ0dpMUpwRWJxMWtkQkVpSUl6c0I0S0M5MWdfV0JQOU0yZkpfVVFUN3kwZGFyMHFlWWdaYnIwWmpDOGxIOG96NFNYS2JfWi1VcjJxTGVzSEppUVpScGlqTksy?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-5dbb58a89012/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-02-20T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086049+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "20b6ed32bfb1ab22",
-    "title": "Allianz Technology Trust: the future of innovation [Video] - trustintelligence.co.uk",
-    "description": "Allianz Technology Trust: the future of innovation [Video] trustintelligence.co.uk",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWw4eFAtdDdQcUU3bGo0VkhkWmdTNEtNUWdGTlNMUnFFMHRPb2tHbnhoZW53V1VZeUlLWS1wVlo3TUh6RlQ5UTN3bzJRWFFfMUJCNnJkVFVPdHlBNG5hdzE0YkU5MTAzYy1MSFlZclNMN0FRcnBGdDh4OXJrVHMtZFpnNkMwd0d3ZjdQdndQVi0waTlQU0M0ZHNFYnNvcC03QUswcFhFajRUWTlwNnYzTC1OYWxITVRBZE4w?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-7bc5abc091e1/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-12-19T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086088+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "50074b485ec2093e",
-    "title": "SoDA Conference 2026: on expansion, innovation and the future of AI in the technology industry - UMŁ",
-    "description": "SoDA Conference 2026: on expansion, innovation and the future of AI in the technology industry UMŁ",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdjAxVDZEdlJzNTE0S21sOFdmU3U1Y05tcnZIZUFleEdCTVVsS1VPLWtyLXFCa1NtMkJnQkFvM0JlWmI0U3ZUMUNxSWk1Yl9LWFQzc1ExUkdxeEhWdjJkMHRYOGNsSU11V0RLMjNyWnNRR1NZQlhwQ0t6WDFLc0p2SE81d0R0MWdSVURpT2xXaVQyVzBwNDlsSV9UM0RxMllNdzV5TVlPVnd5R0pMNDZZSV9oQ3UwYUk0ZlBqX3lBRFBpY3RWSk1FQ1FWUlVvZHVqZU1iaW5kRVdCNUZCN1JxYVNB?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-934a67d2cd07/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-03-09T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086146+00:00",
+    "fetched_at": "2026-05-18T19:21:25.601688+00:00",
     "missing_core_fill": true
   },
   {
@@ -1556,20 +1530,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-07-22T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086182+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "e726a672dfae7159",
-    "title": "Business AI Innovation Unveiled at SAP TechEd - SAP News Center",
-    "description": "Business AI Innovation Unveiled at SAP TechEd SAP News Center",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRlgzYVBja09uakkwa0wybkdJbG9jbGlfNW5ScEF2aTFYNS1wdUpQMFpRdGpLRWhGMTRGbTlreHhqRVlRemh2TFZuRURWTkVrMGt0NUd1MkRWampxTnkxaTFPR25qRDhxdU9xMDc5WWxGTUhYb2tKNm5POVB2RnZxNg?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-f912689449e2/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-11-17T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086214+00:00",
+    "fetched_at": "2026-05-18T19:21:25.601751+00:00",
     "missing_core_fill": true
   },
   {
@@ -1582,20 +1543,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-07-24T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086276+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "1fbf29eed372bc39",
-    "title": "Generative AI: Use Cases, Applications, Solutions, and Implementation - vocal.media",
-    "description": "Generative AI: Use Cases, Applications, Solutions, and Implementation vocal.media",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY1QtMU51ZW1vLWxDSUk3Y1NWRUJyTE9uS2VCZ2plLW5mbUVsamxsVEU0c3ljN3FqemgwU2ZNSEN4dnpuZ2FObm50c1BqS0k3aU5hSXJBQkVLQ0JFdlFoenhyaldpeWJXckl2aS1WdndxTWdjeUpQS3AwTFE3NGpSdF9ybElFLTdhRzU4X2UyUlFVYjZnLS05MHlKSQ?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-6fe9702b4de9/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-08-12T06:50:36+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086314+00:00",
+    "fetched_at": "2026-05-18T19:21:25.601827+00:00",
     "missing_core_fill": true
   },
   {
@@ -1608,7 +1556,33 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-09-18T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086349+00:00",
+    "fetched_at": "2026-05-18T19:21:25.601882+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "1fbf29eed372bc39",
+    "title": "Generative AI: Use Cases, Applications, Solutions, and Implementation - vocal.media",
+    "description": "Generative AI: Use Cases, Applications, Solutions, and Implementation vocal.media",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY1QtMU51ZW1vLWxDSUk3Y1NWRUJyTE9uS2VCZ2plLW5mbUVsamxsVEU0c3ljN3FqemgwU2ZNSEN4dnpuZ2FObm50c1BqS0k3aU5hSXJBQkVLQ0JFdlFoenhyaldpeWJXckl2aS1WdndxTWdjeUpQS3AwTFE3NGpSdF9ybElFLTdhRzU4X2UyUlFVYjZnLS05MHlKSQ?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-6fe9702b4de9/1200/750",
+    "source": "Google News Technology Business",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2025-08-12T06:50:36+00:00",
+    "fetched_at": "2026-05-18T19:21:25.601933+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "884ae4558f9b9e59",
+    "title": "20 New Technology Trends for 2026 | Emerging Technologies 2026 - Simplilearn.com",
+    "description": "20 New Technology Trends for 2026 | Emerging Technologies 2026 Simplilearn.com",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96Qlh1S3htejlyck9TZjZacklqZ0dpMUpwRWJxMWtkQkVpSUl6c0I0S0M5MWdfV0JQOU0yZkpfVVFUN3kwZGFyMHFlWWdaYnIwWmpDOGxIOG96NFNYS2JfWi1VcjJxTGVzSEppUVpScGlqTksy?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-5dbb58a89012/1200/750",
+    "source": "Google News Technology Business",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-02-20T08:00:00+00:00",
+    "fetched_at": "2026-05-18T19:21:25.601986+00:00",
     "missing_core_fill": true
   },
   {
@@ -1621,33 +1595,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-07-30T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086384+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "317acece3b4b2232",
-    "title": "Strategies for Safeguarding AI Innovation: Navigating the Complex IP Landscape for AI Technologies - ArentFox Schiff",
-    "description": "Strategies for Safeguarding AI Innovation: Navigating the Complex IP Landscape for AI Technologies ArentFox Schiff",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcnZYa1F0UkVYTjh6WlBpUGVpUENWRkphb3R2TF8tUFhUYnpVSUVRbUR2SFgxb1I0ZEREb0tuT1d6VlFvYXVsVDRuUHMtVGZKZXpQN2ZOckRveEgzS0pfY3lidWpTczlaMW45czMyd0ZVWnBscUE0RW1NaU9Vc25aVDBlUGNRMlU3dFRHa0cwLUdjaTRFWllhVzZIQXFWemZ1eUFoT3VaeThzUWl1OTV0UVQwSGMzZlltZHlZ?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-78bf711a4273/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-04-04T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086421+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "7d877cdff40f9501",
-    "title": "Five Toyota Group Companies to Accelerate Skill Development and Innovation in AI and Software - トヨタ自動車株式会社 公式企業サイト",
-    "description": "Five Toyota Group Companies to Accelerate Skill Development and Innovation in AI and Software トヨタ自動車株式会社 公式企業サイト",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TT0dNM2FIRW5FcnpmTVVpb3hyNlhLNXg5cGRlWEYwbmVxM1doN1lyZnM4TlVBSlprMGd0Xzd5UkNpVTctV0VnakpUYmdLRV94TFBVRnRGY25za0xIX0JNNHZ6dDlEaWRH?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-278dba0fd2b5/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-05-22T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086497+00:00",
+    "fetched_at": "2026-05-18T19:21:25.602051+00:00",
     "missing_core_fill": true
   },
   {
@@ -1660,7 +1608,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-10-24T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086545+00:00",
+    "fetched_at": "2026-05-18T19:21:25.602105+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "20b6ed32bfb1ab22",
+    "title": "Allianz Technology Trust: the future of innovation [Video] - trustintelligence.co.uk",
+    "description": "Allianz Technology Trust: the future of innovation [Video] trustintelligence.co.uk",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWw4eFAtdDdQcUU3bGo0VkhkWmdTNEtNUWdGTlNMUnFFMHRPb2tHbnhoZW53V1VZeUlLWS1wVlo3TUh6RlQ5UTN3bzJRWFFfMUJCNnJkVFVPdHlBNG5hdzE0YkU5MTAzYy1MSFlZclNMN0FRcnBGdDh4OXJrVHMtZFpnNkMwd0d3ZjdQdndQVi0waTlQU0M0ZHNFYnNvcC03QUswcFhFajRUWTlwNnYzTC1OYWxITVRBZE4w?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-7bc5abc091e1/1200/750",
+    "source": "Google News Technology Business",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2025-12-19T08:00:00+00:00",
+    "fetched_at": "2026-05-18T19:21:25.602181+00:00",
     "missing_core_fill": true
   },
   {
@@ -1673,7 +1634,33 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-08-20T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086597+00:00",
+    "fetched_at": "2026-05-18T19:21:25.602258+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "b0d589fa683eb5ab",
+    "title": "AI enters prime time in software innovation, pays off in less than 2 years: Survey - The Straits Times",
+    "description": "AI enters prime time in software innovation, pays off in less than 2 years: Survey The Straits Times",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZHotVWVROUFlM0ZwamVOcTBmSE56bzNGeEJLYmhGVzFPQWVaRW53WUlwazZ1cU04R3NOWk1GTnhmWGxPbzFjdTh5RGZRTUtJODVNcU9QSDl5Y1E5Y1NqbXp6NDl3a3lvZl9WQmlzUllrQ2VQZFctTnJTalkxamItcWFzLUFBSHlCRWZQNjB6Uk9ZcTFwNUJOZG5JQnV6VnA0UXpOa2pKZ2xwTjFEcEU3ZDRtZ1kxMU81U1E?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-3dd087aea970/1200/750",
+    "source": "Google News Technology Business",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2025-09-18T07:00:00+00:00",
+    "fetched_at": "2026-05-18T19:21:25.602311+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "50074b485ec2093e",
+    "title": "SoDA Conference 2026: on expansion, innovation and the future of AI in the technology industry - UMŁ",
+    "description": "SoDA Conference 2026: on expansion, innovation and the future of AI in the technology industry UMŁ",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdjAxVDZEdlJzNTE0S21sOFdmU3U1Y05tcnZIZUFleEdCTVVsS1VPLWtyLXFCa1NtMkJnQkFvM0JlWmI0U3ZUMUNxSWk1Yl9LWFQzc1ExUkdxeEhWdjJkMHRYOGNsSU11V0RLMjNyWnNRR1NZQlhwQ0t6WDFLc0p2SE81d0R0MWdSVURpT2xXaVQyVzBwNDlsSV9UM0RxMllNdzV5TVlPVnd5R0pMNDZZSV9oQ3UwYUk0ZlBqX3lBRFBpY3RWSk1FQ1FWUlVvZHVqZU1iaW5kRVdCNUZCN1JxYVNB?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-934a67d2cd07/1200/750",
+    "source": "Google News Technology Business",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-03-09T07:00:00+00:00",
+    "fetched_at": "2026-05-18T19:21:25.602378+00:00",
     "missing_core_fill": true
   },
   {
@@ -1686,20 +1673,46 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-10-31T04:35:32+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086633+00:00",
+    "fetched_at": "2026-05-18T19:21:25.602431+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "8e256a238ae5b6a3",
-    "title": "How an AI-enabled software product development life cycle will fuel innovation - McKinsey & Company",
-    "description": "How an AI-enabled software product development life cycle will fuel innovation McKinsey & Company",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOXzA4OUxyTWRNOVZQbmVjQ3paWlJtSjlDMHlGTjljOVBjOVh5RDZYUUNfWDdCOE5pbHVZVEN1WUpSYUZKcmIyb016RWpSUDBuWVBxVTVpTm5GcGdNUC14ZjQwZWo2Z2ZwS2hqWlYyMDYxSE9Oa2JTS2Q1M212dV96LUZVZnhHTHVORUhsVHJrYnlxRE9INFJIQ2hxVkVnUTVGdWRUYlBiMjFlMmhqMUxGVGVpTlJ1dllVNVJqZkNiazM5eUpRYUhaUVhJb3lEQTN5LTYybDRHYWpSMHRIMGpGc3dwSEtfbDRlaDJnR3Q5alNBUzVyNXFfSW1VTQ?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-8481b59e3107/1200/750",
+    "id": "196167e53ed26413",
+    "title": "Artificial Intelligence sector study 2024 - GOV.UK",
+    "description": "Artificial Intelligence sector study 2024 GOV.UK",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQckI5cEZnVzM1TjMyR20zTEluREhLRFFxS0hBSy1ac2NPSWNPdV9yam5nNklqVkx0QnFkQkRWclZDSDZ4UkpnODNQX09mYjZYeGpHajJSSEVSZl9ZcWl1bHpnM3dfSk5FMXI0YWRBR3VaWDlWN2pPZ1ZwSS1wVWdLcFJaNUlsQjJHNEl3aTVUOHU5azNya1dsTXhTVnBtWWJTM0h1d285UU9fRkpCVmJ0SHVqMjZqbk5kNi10X0daeGthQU1P?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-0903116954dd/1200/750",
     "source": "Google News Technology Business",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2025-02-10T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086669+00:00",
+    "published_at": "2025-09-03T07:00:00+00:00",
+    "fetched_at": "2026-05-18T19:21:25.602478+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "7d877cdff40f9501",
+    "title": "Five Toyota Group Companies to Accelerate Skill Development and Innovation in AI and Software - トヨタ自動車株式会社 公式企業サイト",
+    "description": "Five Toyota Group Companies to Accelerate Skill Development and Innovation in AI and Software トヨタ自動車株式会社 公式企業サイト",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TT0dNM2FIRW5FcnpmTVVpb3hyNlhLNXg5cGRlWEYwbmVxM1doN1lyZnM4TlVBSlprMGd0Xzd5UkNpVTctV0VnakpUYmdLRV94TFBVRnRGY25za0xIX0JNNHZ6dDlEaWRH?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-278dba0fd2b5/1200/750",
+    "source": "Google News Technology Business",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2025-05-22T07:00:00+00:00",
+    "fetched_at": "2026-05-18T19:21:25.602539+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "317acece3b4b2232",
+    "title": "Strategies for Safeguarding AI Innovation: Navigating the Complex IP Landscape for AI Technologies - ArentFox Schiff",
+    "description": "Strategies for Safeguarding AI Innovation: Navigating the Complex IP Landscape for AI Technologies ArentFox Schiff",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcnZYa1F0UkVYTjh6WlBpUGVpUENWRkphb3R2TF8tUFhUYnpVSUVRbUR2SFgxb1I0ZEREb0tuT1d6VlFvYXVsVDRuUHMtVGZKZXpQN2ZOckRveEgzS0pfY3lidWpTczlaMW45czMyd0ZVWnBscUE0RW1NaU9Vc25aVDBlUGNRMlU3dFRHa0cwLUdjaTRFWllhVzZIQXFWemZ1eUFoT3VaeThzUWl1OTV0UVQwSGMzZlltZHlZ?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-78bf711a4273/1200/750",
+    "source": "Google News Technology Business",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2025-04-04T07:00:00+00:00",
+    "fetched_at": "2026-05-18T19:21:25.602590+00:00",
     "missing_core_fill": true
   },
   {
@@ -1712,7 +1725,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-05-29T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086708+00:00",
+    "fetched_at": "2026-05-18T19:21:25.602637+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "8e256a238ae5b6a3",
+    "title": "How an AI-enabled software product development life cycle will fuel innovation - McKinsey & Company",
+    "description": "How an AI-enabled software product development life cycle will fuel innovation McKinsey & Company",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOXzA4OUxyTWRNOVZQbmVjQ3paWlJtSjlDMHlGTjljOVBjOVh5RDZYUUNfWDdCOE5pbHVZVEN1WUpSYUZKcmIyb016RWpSUDBuWVBxVTVpTm5GcGdNUC14ZjQwZWo2Z2ZwS2hqWlYyMDYxSE9Oa2JTS2Q1M212dV96LUZVZnhHTHVORUhsVHJrYnlxRE9INFJIQ2hxVkVnUTVGdWRUYlBiMjFlMmhqMUxGVGVpTlJ1dllVNVJqZkNiazM5eUpRYUhaUVhJb3lEQTN5LTYybDRHYWpSMHRIMGpGc3dwSEtfbDRlaDJnR3Q5alNBUzVyNXFfSW1VTQ?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-8481b59e3107/1200/750",
+    "source": "Google News Technology Business",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2025-02-10T08:00:00+00:00",
+    "fetched_at": "2026-05-18T19:21:25.602688+00:00",
     "missing_core_fill": true
   },
   {
@@ -1725,7 +1751,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-11-05T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086740+00:00",
+    "fetched_at": "2026-05-18T19:21:25.602749+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "64f951c590a16c78",
+    "title": "Is secure AI the smartest tool in a leader’s innovation kit? - Raconteur",
+    "description": "Is secure AI the smartest tool in a leader’s innovation kit? Raconteur",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYWU5LVlkZ09IcktodDFvUW1iazdCdWZRUGNkTUhBbmJkd29jcFptMkZaeXlvMG40aTlNLS0zaHQyYTVyVXplTUF3cUZDSGNjWnhpVXU5OURKTDZ4U0RfRXF1TGx6UnRuY2dSbU8zbFNUa05FVXN0ZkxNVFVvQlJNX1FBZE1UWmF4Ti1YWW9hVl9GUWxwQ2NrM3VfYw?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-26a49b8bb3c3/1200/750",
+    "source": "Google News Technology Business",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2025-05-27T08:17:25+00:00",
+    "fetched_at": "2026-05-18T19:21:25.602848+00:00",
     "missing_core_fill": true
   },
   {
@@ -1738,7 +1777,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-03-31T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086775+00:00",
+    "fetched_at": "2026-05-18T19:21:25.602899+00:00",
     "missing_core_fill": true
   },
   {
@@ -1751,34 +1790,316 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-04-09T07:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086810+00:00",
+    "fetched_at": "2026-05-18T19:21:25.602946+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "556707fd90a7d2fd",
-    "title": "Which Software Companies Will Benefit from AI? - Goldman Sachs",
-    "description": "Which Software Companies Will Benefit from AI? Goldman Sachs",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcy1sUXpaQXQwWW16RFN1aWFxY2ZwTjFXQ2ZIZ0xHcW91LXJHUUJvZ2R6T1B5UW1Ub3BITldWNVhyRktGZFJUb09Qa0drQVhmNjBubnZUS2hDV3F2OXd3c3NhVzRvQ1JXZzZpc3l4TVRQR0RvcUNuMlhaenJWenptZGt5S2ljdlM5ejBwWlRzWDNScXZXVFlF?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-26ade4539603/1200/750",
-    "source": "Google News Technology Business",
+    "id": "b1c02550aa4eef3f",
+    "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
+    "description": "Just a year ago, we launched AWS Transform for .NET, Mainframe and VMware workloads, the first agentic AI service purpose-built for modernizing enterprise applications at scale. At re:Invent 2025, we introduced AWS Transform custom, which enables organizations to modernize and transform code at scale using AWS-managed and custom transformations. You can upgrade language versions, migrate […]",
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/",
+    "image": "https://picsum.photos/seed/wv-news-81baca34699c/1200/750",
+    "source": "AWS News",
+    "source_id": "src-074",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T19:13:20+00:00",
+    "fetched_at": "2026-05-18T19:17:49.943459+00:00"
+  },
+  {
+    "id": "9b7c2c5fe5fb237e",
+    "title": "How to upgrade your 'incompatible' Windows 10 PC to Windows 11 - for free",
+    "description": "Microsoft really doesn't want customers to upgrade older PCs to Windows 11, but there are workarounds for all but the oldest devices. Extended security updates for Windows 10 will stop in just a few months, so it's time to plan your exit strategy.",
+    "url": "https://www.zdnet.com/article/how-to-upgrade-your-incompatible-windows-10-pc-to-windows-11/",
+    "image": "https://picsum.photos/seed/wv-news-0f5c8d7895ba/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T19:11:00+00:00",
+    "fetched_at": "2026-05-18T19:17:48.862803+00:00"
+  },
+  {
+    "id": "3d0c22a25306447c",
+    "title": "I found the best early Memorial Day Walmart deals: Apple, Dyson, and more on sale",
+    "description": "Memorial Day is almost here, and Walmart has already slashed prices on top tech.",
+    "url": "https://www.zdnet.com/article/best-early-memorial-day-walmart-deals/",
+    "image": "https://picsum.photos/seed/wv-news-f1880fe9a6a2/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T18:44:53+00:00",
+    "fetched_at": "2026-05-18T19:17:48.862876+00:00"
+  },
+  {
+    "id": "a55206643c633067",
+    "title": "Why Wave is my new go-to terminal app - how I use this powerful tool",
+    "description": "The Linux, MacOS, and Windows terminal is no longer just for commands. Thanks to apps like Wave, you can have a veritable toolbox at your disposal in a single window.",
+    "url": "https://www.zdnet.com/article/why-wave-just-became-my-go-to-terminal-app/",
+    "image": "https://picsum.photos/seed/wv-news-2a984abd9f44/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T18:30:42+00:00",
+    "fetched_at": "2026-05-18T19:17:48.862942+00:00"
+  },
+  {
+    "id": "269c13dadc0b4458",
+    "title": "X accounts are limited to 50 posts and 200 replies a day unless they pay for a blue checkmark",
+    "description": "Free X accounts have been hit with major restrictions.",
+    "url": "https://www.engadget.com/2175771/x-free-accounts-limited-to-50-posts-and-200-replies-a-day/",
+    "image": "https://www.engadget.com/img/gallery/x-accounts-are-limited-to-50-posts-and-200-replies-a-day-unless-they-pay-for-a-blue-checkmark/l-intro-1779127772.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T18:12:31+00:00",
+    "fetched_at": "2026-05-18T19:17:46.968278+00:00"
+  },
+  {
+    "id": "db9a86b6597a8aaf",
+    "title": "These 11 Automatic Cat Feeders Were the Best We Tested in 2026",
+    "description": "",
+    "url": "https://www.wired.com/gallery/best-automatic-cat-feeders/",
+    "image": "https://media.wired.com/photos/6a0b2e0760e580d0daee595e/master/pass/The%20Best%20Automatic%20Cat%20Feeders%20top%20art%20052026%20SOURCE%20PetKit-cheerble.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T18:06:12+00:00",
+    "fetched_at": "2026-05-18T19:17:46.846057+00:00"
+  },
+  {
+    "id": "60710b540747d9aa",
+    "title": "Yes, you can serve a website from a $1 microcontroller",
+    "description": "Well, page is more accurate, but the source code is available if you want to try doing something even crazier",
+    "url": "https://www.theregister.com/offbeat/2026/05/18/yes-you-can-serve-a-website-from-a-1-microcontroller/5242096",
+    "image": "https://image.theregister.com/?imageId=5242134&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T18:00:57+00:00",
+    "fetched_at": "2026-05-18T19:17:48.729152+00:00"
+  },
+  {
+    "id": "f7e2b8f2a422f45d",
+    "title": "Sony raises PS Plus prices for one- and three-month subscriptions",
+    "description": "Sony is blaming PS Plus price increases on \"ongoing market conditions.\"",
+    "url": "https://www.engadget.com/2175751/sony-raises-ps-plus-prices-for-one-and-three-month-subscriptions/",
+    "image": "https://www.engadget.com/img/gallery/sony-raises-ps-plus-prices-for-one-and-three-month-subscriptions/l-intro-1779127061.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T17:58:57+00:00",
+    "fetched_at": "2026-05-18T19:17:46.968353+00:00"
+  },
+  {
+    "id": "5d811dc6f6b21df6",
+    "title": "The jury in the OpenAI case has ruled against Elon Musk",
+    "description": "The three week trial ended with less than two hours of deliberation.",
+    "url": "https://www.engadget.com/2175740/the-jury-in-the-openai-case-has-ruled-against-elon-musk/",
+    "image": "https://www.engadget.com/img/gallery/the-jury-in-the-openai-case-has-ruled-against-elon-musk/l-intro-1779129828.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T17:50:50+00:00",
+    "fetched_at": "2026-05-18T19:17:46.968419+00:00"
+  },
+  {
+    "id": "df12a740adb1f209",
+    "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+    "description": "",
+    "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+    "image": "https://media.wired.com/photos/6a07b49c3e66727feabf05fc/master/pass/Model-Behavior-Altman-v-Musk-Verdict-Business.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T17:40:30+00:00",
+    "fetched_at": "2026-05-18T19:17:46.846119+00:00"
+  },
+  {
+    "id": "36f2182b5c604e12",
+    "title": "How to watch the Google I/O 2026 keynote",
+    "description": "Google's keynote on Tuesday will include a boatload of AI news and perhaps some Android XR updates.",
+    "url": "https://www.engadget.com/2175638/how-to-watch-google-io-2026-keynote/",
+    "image": "https://www.engadget.com/img/gallery/how-to-watch-the-google-io-2026-keynote/l-intro-1779122874.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T16:49:07+00:00",
+    "fetched_at": "2026-05-18T19:17:46.968476+00:00"
+  },
+  {
+    "id": "ca3b7adacc0d413b",
+    "title": "Sony hit with a class action lawsuit for allegedly profiting from tariff-related price hikes",
+    "description": "The case against Sony is similar to ones filed against Nintendo and Amazon.",
+    "url": "https://www.engadget.com/2175588/sony-hit-with-a-class-action-lawsuit-for-allegedly-profiting-from-tariff-related-price-hikes/",
+    "image": "https://www.engadget.com/img/gallery/sony-hit-with-a-class-action-lawsuit-for-allegedly-profiting-from-tariff-related-price-hikes/l-intro-1779121308.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T16:23:32+00:00",
+    "fetched_at": "2026-05-18T19:17:46.968532+00:00"
+  },
+  {
+    "id": "db00097b4d723c4a",
+    "title": "Linux kernel flaw opens root-only files to unprivileged users",
+    "description": "Plus ModuleJail, a radical proposal for minimizing the impact of similar bugs",
+    "url": "https://www.theregister.com/security/2026/05/18/linux-kernel-flaw-opens-root-only-files-to-unprivileged-users/5241950",
+    "image": "https://image.theregister.com/?imageId=1683625&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T16:20:00+00:00",
+    "fetched_at": "2026-05-18T19:17:48.729223+00:00"
+  },
+  {
+    "id": "c7789bb0e940f391",
+    "title": "Elon Musk reportedly owes quite a few of his employees $420",
+    "description": "xAI promised workers the money in exchange for tax information to train Grok.",
+    "url": "https://www.engadget.com/2175582/elon-musk-reportedly-owes-quite-a-few-of-his-employees-420-dollars/",
+    "image": "https://www.engadget.com/img/gallery/elon-musk-reportedly-owes-quite-a-few-of-his-employees-420/l-intro-1779121067.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T16:19:56+00:00",
+    "fetched_at": "2026-05-18T19:17:46.968586+00:00"
+  },
+  {
+    "id": "01abf30fb05c48fc",
+    "title": "I asked Codex AI to customize my Hyprland desktop - it worked, but beginners beware",
+    "description": "Hyrpland is a fantastic Linux window manager, but it can be complicated to configure. I asked Codex to write a .conf file - here's how that went.",
+    "url": "https://www.zdnet.com/article/codex-to-customize-my-hyprland-desktop/",
+    "image": "https://picsum.photos/seed/wv-news-b6d1be8a039a/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T16:13:00+00:00",
+    "fetched_at": "2026-05-18T19:17:48.863004+00:00"
+  },
+  {
+    "id": "45f7798332bc450c",
+    "title": "Volvo reveals $58,400 starting price for the EX60",
+    "description": "Volvo's upcoming mainstream EV SUV is available to order now.",
+    "url": "https://www.engadget.com/2175462/volvo-reveals-58400-starting-price-for-the-ex60/",
+    "image": "https://www.engadget.com/img/gallery/volvo-reveals-58400-starting-price-for-the-ex60/l-intro-1779115713.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T16:00:00+00:00",
+    "fetched_at": "2026-05-18T19:17:46.968641+00:00"
+  },
+  {
+    "id": "7a7d46fbb4dcd5e1",
+    "title": "Revamped Siri will reportedly offer autodeleting chats",
+    "description": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. […]",
+    "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+    "image": "https://picsum.photos/seed/wv-fill-4100e9862b1b/1200/750",
+    "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-02-18T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086843+00:00",
+    "published_at": "2026-05-18T15:41:41.336661+00:00",
+    "fetched_at": "2026-05-18T15:41:41.336663+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "2383a20210e57b23",
-    "title": "International AI-Focused Tech Company Establishes Innovation Office in New Orleans - Louisiana Economic Development (.gov)",
-    "description": "International AI-Focused Tech Company Establishes Innovation Office in New Orleans Louisiana Economic Development (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX1VyaTZYcGkzTzJUbEZJUGVjVzFuWjZXeXVkMlFSSzFpb1BKQXppcGl0LVJGRmI4cHJDNmplRXdxbDFJTGRDeExwWVNhYXZkRlJQQkNkbG1BaHpXV2VhNWNDOFJyVjkycHJPVVVjeS04RjBnaU5DNUFtT0kyWTc0QTcxSEtvYWNCQzNXYXhrMzZYNks4NzRQakxJZ0J5QU1CN2FKN2E0d09EV00yelE4eU5MaEZJZWllWDJyZnFaZ3Rhdw?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-787a6776ef40/1200/750",
-    "source": "Google News Technology Business",
+    "id": "a65f8e68f74bdd5d",
+    "title": "Microsoft is retiring Teams’ Together Mode",
+    "description": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more simplified Teams experience. The feature used AI […]",
+    "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+    "image": "https://picsum.photos/seed/wv-fill-9548044f1c1e/1200/750",
+    "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2024-12-12T08:00:00+00:00",
-    "fetched_at": "2026-05-18T15:41:41.086878+00:00",
+    "published_at": "2026-05-18T15:41:41.336625+00:00",
+    "fetched_at": "2026-05-18T15:41:41.336627+00:00",
     "missing_core_fill": true
+  },
+  {
+    "id": "398a6ada7ce6ceef",
+    "title": "Disco Elysium’s spiritual successor can’t escape its phantoms",
+    "description": "Zero Parades: For Dead Spies wants you to question the price of forgiveness. After leading a crew of spies through a failed operation, protagonist Cascade is willing to pay whatever amount is needed to reestablish contact not just with fellow agents, but with the friends she let down. After being \"frozen\" for five years and […]",
+    "url": "https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium",
+    "image": "https://picsum.photos/seed/wv-fill-0004ea0e5354/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T15:41:41.336589+00:00",
+    "fetched_at": "2026-05-18T15:41:41.336591+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "b565e570cbdb3832",
+    "title": "Bad, Bad, Bad, Bad Roommate",
+    "description": "The wildfires that would come to engulf Los Angeles had just begun to burn when Frankee Grove finally admitted to herself that she needed a roommate. It was January 2025, and Grove, then 42, had recently broken up with her boyfriend of six years. They had lived together in a two-bedroom Spanish bungalow on a […]",
+    "url": "https://www.theverge.com/cs/features/919365/bad-roommate-housing-los-angeles-eviction",
+    "image": "https://picsum.photos/seed/wv-fill-35d021ad54d9/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T15:41:41.336548+00:00",
+    "fetched_at": "2026-05-18T15:41:41.336550+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "1a663b5cd7f21189",
+    "title": "Leaked images reveal Sony’s 10th anniversary ‘ColleXion’ headphones",
+    "description": "We now have a good idea of what Sony's upcoming 10th anniversary headphones will look like before their expected launch tomorrow. Leaked image renders of what appears to be Sony's 1000X \"The ColleXion\" Edition have been shared online by OnLeaks and HotEUDeals, showing thicker leatherette padding and \"generously sized\" earcups compared to Sony's current WH-1000XM6 […]",
+    "url": "https://www.theverge.com/tech/932262/sony-1000x-headphone-collexion-image-spec-leaks",
+    "image": "https://picsum.photos/seed/wv-fill-4a8097cbef1e/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T15:41:41.336502+00:00",
+    "fetched_at": "2026-05-18T15:41:41.336504+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "49575e2d12467655",
+    "title": "Starlink raises prices across satellite internet plans",
+    "description": "Starlink is raising prices across its satellite internet plans in the US - including Standby Mode - with the cheapest 100Mbps Residential plan going from $50 to $55 / month, as reported earlier by PCMag. Meanwhile, Starlink's 200Mbps residential plan has jumped from $80 to $85 / month, while the Residential Max plan went from […]",
+    "url": "https://www.theverge.com/science/932294/starlink-price-increase-standby-mode",
+    "image": "https://picsum.photos/seed/wv-fill-bdac3877f576/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T15:41:41.336458+00:00",
+    "fetched_at": "2026-05-18T15:41:41.336460+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "d6c29f23797e4232",
+    "title": "Exclusive: Jonah Peretti explains why he sold BuzzFeed",
+    "description": "Today, I’m talking with Jonah Peretti, who is, technically, the CEO of BuzzFeed — although that will be coming to an end very soon. Just days before we spoke, Jonah agreed to sell 52 percent of BuzzFeed for a total of $120 million to Byron Allen, who owns The Weather Channel, a number of broadcast […]",
+    "url": "https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media",
+    "image": "https://picsum.photos/seed/wv-fill-303871ab919e/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T15:41:41.336422+00:00",
+    "fetched_at": "2026-05-18T15:41:41.336423+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "db16af1da8d1bef7",
+    "title": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports",
+    "description": "Linux founder Linus Torvalds said in his most recent state of the kernel post that \"the continued flood of AI reports has basically made the security list almost entirely unmanageable, with enormous duplication due to different people finding the same things with the same tools,\" as The Register reports. That probably doesn't apply to stuff […]",
+    "url": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs",
+    "image": "https://picsum.photos/seed/wv-fill-d1df71edd3c5/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T15:41:41.336383+00:00",
+    "fetched_at": "2026-05-18T15:41:41.336385+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "ab6449cbc2f1f01b",
+    "title": "Europe tests laser links as satellite comms outgrow radio",
+    "description": "Greek mountaintop ground station aims infrared beams at CubeSats in ESA-backed optical networking trial",
+    "url": "https://www.theregister.com/networks/2026/05/18/europe-tests-laser-links-as-satellite-comms-outgrow-radio/5242012",
+    "image": "https://image.theregister.com/?imageId=5242044&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T15:38:00+00:00",
+    "fetched_at": "2026-05-18T19:17:48.729280+00:00"
   },
   {
     "id": "e5e0bc7d4d1c11db",
@@ -1790,7 +2111,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-18T15:36:55+00:00",
-    "fetched_at": "2026-05-18T15:38:20.690731+00:00"
+    "fetched_at": "2026-05-18T19:17:46.968693+00:00"
   },
   {
     "id": "b475d1c0ede48ffb",
@@ -1802,7 +2123,19 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-18T15:16:30+00:00",
-    "fetched_at": "2026-05-18T15:38:22.145956+00:00"
+    "fetched_at": "2026-05-18T19:17:48.863066+00:00"
+  },
+  {
+    "id": "67c23931a7d92ca1",
+    "title": "Dutch cops’ shame game works wonders as most wanted scammers now turned in",
+    "description": "Game Over?! gamified the identification of scammers who sought thrills from terrorising the elderly",
+    "url": "https://www.theregister.com/cyber-crime/2026/05/18/dutch-cops-shame-games-nets-74-wanted-fraudsters/5241980",
+    "image": "https://image.theregister.com/?imageId=5220456&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T15:09:25+00:00",
+    "fetched_at": "2026-05-18T19:17:48.729346+00:00"
   },
   {
     "id": "6f5b7760699e3b23",
@@ -1814,7 +2147,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-18T15:00:00+00:00",
-    "fetched_at": "2026-05-18T15:38:20.690780+00:00"
+    "fetched_at": "2026-05-18T19:17:46.968744+00:00"
   },
   {
     "id": "f0e1e6c5041e1346",
@@ -1826,7 +2159,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-18T14:52:00+00:00",
-    "fetched_at": "2026-05-18T15:38:22.146011+00:00"
+    "fetched_at": "2026-05-18T19:17:48.863125+00:00"
   },
   {
     "id": "35f4475f78f9b483",
@@ -1838,7 +2171,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-18T14:45:00+00:00",
-    "fetched_at": "2026-05-18T15:38:21.964453+00:00"
+    "fetched_at": "2026-05-18T19:17:48.729399+00:00"
   },
   {
     "id": "04a47b0817207378",
@@ -1850,7 +2183,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-18T14:45:00+00:00",
-    "fetched_at": "2026-05-18T15:38:22.146055+00:00"
+    "fetched_at": "2026-05-18T19:17:48.863213+00:00"
   },
   {
     "id": "d401ccae55ffb0c2",
@@ -1862,7 +2195,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-18T14:21:19+00:00",
-    "fetched_at": "2026-05-18T15:38:22.146094+00:00"
+    "fetched_at": "2026-05-18T19:17:48.863273+00:00"
   },
   {
     "id": "b6a7ad5ffb7da1e3",
@@ -1874,7 +2207,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-18T14:15:00+00:00",
-    "fetched_at": "2026-05-18T15:38:21.964505+00:00"
+    "fetched_at": "2026-05-18T19:17:48.729451+00:00"
   },
   {
     "id": "718d1978857528c9",
@@ -1886,7 +2219,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-18T14:05:00+00:00",
-    "fetched_at": "2026-05-18T15:38:22.146131+00:00"
+    "fetched_at": "2026-05-18T19:17:48.863329+00:00"
   },
   {
     "id": "71b95643997ba8ec",
@@ -1898,7 +2231,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-18T14:00:00+00:00",
-    "fetched_at": "2026-05-18T15:38:20.690825+00:00"
+    "fetched_at": "2026-05-18T19:17:46.968795+00:00"
   },
   {
     "id": "dd3f380a5e179fb7",
@@ -1910,7 +2243,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-18T14:00:00+00:00",
-    "fetched_at": "2026-05-18T15:38:20.690871+00:00"
+    "fetched_at": "2026-05-18T19:17:46.968850+00:00"
   },
   {
     "id": "0a9cd53c78e85a47",
@@ -1922,7 +2255,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-18T13:45:00+00:00",
-    "fetched_at": "2026-05-18T15:38:21.964559+00:00"
+    "fetched_at": "2026-05-18T19:17:48.729498+00:00"
   },
   {
     "id": "7367d52a1673f187",
@@ -1934,7 +2267,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-18T13:38:01+00:00",
-    "fetched_at": "2026-05-18T15:38:20.481188+00:00"
+    "fetched_at": "2026-05-18T19:17:46.846201+00:00"
   },
   {
     "id": "2fc7e5200db8f865",
@@ -1946,7 +2279,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-18T13:25:11+00:00",
-    "fetched_at": "2026-05-18T15:38:20.690913+00:00"
+    "fetched_at": "2026-05-18T19:17:46.968903+00:00"
   },
   {
     "id": "2d74da163943bd5d",
@@ -2023,7 +2356,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-18T13:02:00+00:00",
-    "fetched_at": "2026-05-18T15:38:21.964594+00:00"
+    "fetched_at": "2026-05-18T19:17:48.729548+00:00"
   },
   {
     "id": "fd8c045ed799effe",
@@ -2035,7 +2368,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-18T13:00:43+00:00",
-    "fetched_at": "2026-05-18T15:38:22.146167+00:00"
+    "fetched_at": "2026-05-18T19:17:48.863387+00:00"
   },
   {
     "id": "8bd3b49a1f97e651",
@@ -2047,7 +2380,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-18T12:15:00+00:00",
-    "fetched_at": "2026-05-18T15:38:21.964630+00:00"
+    "fetched_at": "2026-05-18T19:17:48.729624+00:00"
   },
   {
     "id": "bdbf06e5faa40f32",
@@ -2072,7 +2405,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-18T11:30:00+00:00",
-    "fetched_at": "2026-05-18T15:38:21.964666+00:00"
+    "fetched_at": "2026-05-18T19:17:48.729681+00:00"
   },
   {
     "id": "194d3b3c7f91b29c",
@@ -2084,7 +2417,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-18T11:00:00+00:00",
-    "fetched_at": "2026-05-18T15:38:20.481300+00:00"
+    "fetched_at": "2026-05-18T19:17:46.846254+00:00"
   },
   {
     "id": "6b232aab9efab9ea",
@@ -2096,7 +2429,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-18T11:00:00+00:00",
-    "fetched_at": "2026-05-18T15:38:20.481378+00:00"
+    "fetched_at": "2026-05-18T19:17:46.846305+00:00"
   },
   {
     "id": "b9b15f36963707ac",
@@ -2108,7 +2441,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-18T10:48:00+00:00",
-    "fetched_at": "2026-05-18T15:38:21.964703+00:00"
+    "fetched_at": "2026-05-18T19:17:48.729732+00:00"
   },
   {
     "id": "6cef47d29c88cff4",
@@ -2120,7 +2453,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-18T10:30:00+00:00",
-    "fetched_at": "2026-05-18T15:38:20.481413+00:00"
+    "fetched_at": "2026-05-18T19:17:46.846357+00:00"
   },
   {
     "id": "2b005279dfd3dd8a",
@@ -2132,7 +2465,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-18T10:00:44+00:00",
-    "fetched_at": "2026-05-18T15:38:22.146199+00:00"
+    "fetched_at": "2026-05-18T19:17:48.863440+00:00"
   },
   {
     "id": "85ed0a0357f0324d",
@@ -2144,7 +2477,19 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-18T10:00:00+00:00",
-    "fetched_at": "2026-05-18T15:38:20.481588+00:00"
+    "fetched_at": "2026-05-18T19:17:46.846416+00:00"
+  },
+  {
+    "id": "210c7a7c78264981",
+    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+    "description": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "image": "https://picsum.photos/seed/wv-news-a9b165e8bac9/1200/750",
+    "source": "OpenAI News",
+    "source_id": "src-072",
+    "category": "tehnologija",
+    "published_at": "2026-05-18T10:00:00+00:00",
+    "fetched_at": "2026-05-18T19:17:49.768305+00:00"
   },
   {
     "id": "58a9ebe919564e94",
@@ -2156,7 +2501,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-18T09:54:01+00:00",
-    "fetched_at": "2026-05-18T15:38:21.964742+00:00"
+    "fetched_at": "2026-05-18T19:17:48.729781+00:00"
   },
   {
     "id": "b2edcf72bbe86ff4",
@@ -2180,7 +2525,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-18T09:30:00+00:00",
-    "fetched_at": "2026-05-18T15:38:20.481634+00:00"
+    "fetched_at": "2026-05-18T19:17:46.846469+00:00"
   },
   {
     "id": "ce983c4f7a8f3102",
@@ -2204,7 +2549,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-18T09:00:00+00:00",
-    "fetched_at": "2026-05-18T15:38:20.481727+00:00"
+    "fetched_at": "2026-05-18T19:17:46.846530+00:00"
   },
   {
     "id": "4420fbdb288c21ad",
@@ -2264,7 +2609,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-18T06:00:00+00:00",
-    "fetched_at": "2026-05-18T15:38:23.776473+00:00"
+    "fetched_at": "2026-05-18T19:17:50.203325+00:00"
   },
   {
     "id": "01eb3e1e5b7f6f43",
@@ -2300,7 +2645,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-18T01:33:00+00:00",
-    "fetched_at": "2026-05-18T15:38:22.146233+00:00"
+    "fetched_at": "2026-05-18T19:17:48.863498+00:00"
   },
   {
     "id": "d920ca82aadff907",
@@ -2469,173 +2814,5 @@
     "category": "tehnologija",
     "published_at": "2026-05-17T13:00:45+00:00",
     "fetched_at": "2026-05-18T15:38:22.146369+00:00"
-  },
-  {
-    "id": "6f4ab9c5d82b62e4",
-    "title": "Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use",
-    "description": "",
-    "url": "https://www.wired.com/review/oto-smart-sprinkler/",
-    "image": "https://media.wired.com/photos/6a07975ab881502fc5a53048/master/pass/review%20Oto%20smart%20sprinkler%20top%20art%20052026%20SOURCE%20Amazon.jpg",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-17T11:02:00+00:00",
-    "fetched_at": "2026-05-18T15:38:20.481769+00:00"
-  },
-  {
-    "id": "8008fa4e02bc434a",
-    "title": "Classic 7 is Windows 10 LTSC cosplaying as Windows 7",
-    "description": "Uncanny rebuild resurrects the 2009 desktop, complete with support, updates, and licensing questions",
-    "url": "https://www.theregister.com/oses/2026/05/17/classic-7-is-windows-10-ltsc-cosplaying-as-windows-7/5241291",
-    "image": "https://image.theregister.com/?imageId=5241309&width=800",
-    "source": "The Register",
-    "source_id": "src-068",
-    "category": "tehnologija",
-    "published_at": "2026-05-17T11:00:00+00:00",
-    "fetched_at": "2026-05-18T10:58:17.151734+00:00"
-  },
-  {
-    "id": "46759f072f926ecd",
-    "title": "The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet",
-    "description": "",
-    "url": "https://www.wired.com/story/best-grills-and-smart-grills/",
-    "image": "https://media.wired.com/photos/69fcbf5164b2ad9bfec625d5/master/pass/The%20Best%20Grills%20top%20art%20052026%20SOURCE%20Amazon.jpg",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-17T10:33:00+00:00",
-    "fetched_at": "2026-05-18T15:38:20.481825+00:00"
-  },
-  {
-    "id": "a9db071c7d4a313f",
-    "title": "Take Control of Your Debt With These Free Tools",
-    "description": "",
-    "url": "https://www.wired.com/story/free-debt-calculator-apps-services/",
-    "image": "https://media.wired.com/photos/6a07af0d15ab2e3b1df980cc/master/pass/Take-Control-of-your-Debt-Gear.jpg",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-17T10:30:00+00:00",
-    "fetched_at": "2026-05-18T15:38:20.481869+00:00"
-  },
-  {
-    "id": "b9a797c5f3093e22",
-    "title": "If You’re a Serious Bowler, You Need to Know About Bowling Lane Oil",
-    "description": "",
-    "url": "https://www.wired.com/story/bowling-lane-oil/",
-    "image": "https://media.wired.com/photos/6a05f9001c8db51b97e24242/master/pass/GettyImages-2056592495.jpg",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-17T10:00:00+00:00",
-    "fetched_at": "2026-05-18T15:38:20.481942+00:00"
-  },
-  {
-    "id": "f7462089580207b4",
-    "title": "I tried ditching my laptop for a more futuristic setup - and found 5 surprising alternatives",
-    "description": "From XR glasses to headsets to tablets, here's how various work systems fared over 30 days.",
-    "url": "https://www.zdnet.com/article/i-ditched-laptop-for-xr-headset-tablet-phone-what-i-learned/",
-    "image": "https://picsum.photos/seed/wv-news-c705d3747807/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-17T10:00:00+00:00",
-    "fetched_at": "2026-05-18T13:19:18.810517+00:00"
-  },
-  {
-    "id": "d68e34c4e2cf0fb6",
-    "title": "The First Atomic Bomb Test in 1945 Created an Entirely New Material",
-    "description": "",
-    "url": "https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/",
-    "image": "https://media.wired.com/photos/6a072e02cc137669535c6a52/master/pass/clatrato_calcio_rame_%20silicio.png",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-17T09:30:00+00:00",
-    "fetched_at": "2026-05-18T15:38:20.481982+00:00"
-  },
-  {
-    "id": "a09c3d142623e75d",
-    "title": "The best NAS devices of 2026: Expert tested and reviewed",
-    "description": "The best NAS storage devices of 2026 offer effortless storage solutions for home and professional use. These are our favorites including hardware we use ourselves.",
-    "url": "https://www.zdnet.com/article/best-network-attached-storage/",
-    "image": "https://picsum.photos/seed/wv-news-a9f0b68ad3fa/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-17T09:00:47+00:00",
-    "fetched_at": "2026-05-18T13:19:18.810567+00:00"
-  },
-  {
-    "id": "9a1af8b465171769",
-    "title": "Gaza Is Rebuilding With Lego-Like Bricks Made From Rubble",
-    "description": "",
-    "url": "https://www.wired.com/story/gaza-is-rebuilding-with-lego-like-bricks-made-from-rubble/",
-    "image": "https://media.wired.com/photos/6a0776bdd75c523381f5884f/master/pass/Rubble_Lead.jpg",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-17T09:00:00+00:00",
-    "fetched_at": "2026-05-18T13:19:17.331035+00:00"
-  },
-  {
-    "id": "54c9510b7b88cc9c",
-    "title": "Wanted: Digital chief for England's schools. Must enjoy data, AI, and concrete problems",
-    "description": "Are you ready to RAAC?",
-    "url": "https://www.theregister.com/public-sector/2026/05/17/wanted-digital-chief-for-englands-schools-must-enjoy-data-ai-and-concrete-problems/5240242",
-    "image": "https://image.theregister.com/?imageId=5240303&width=800",
-    "source": "The Register",
-    "source_id": "src-068",
-    "category": "tehnologija",
-    "published_at": "2026-05-17T08:30:00+00:00",
-    "fetched_at": "2026-05-18T09:47:45.011729+00:00"
-  },
-  {
-    "id": "6205768364ac7b27",
-    "title": "What to read this weekend: Celestial Lights and If Destruction Be Our Lot",
-    "description": "Here's what we read (and liked) this week.",
-    "url": "https://www.engadget.com/2174600/what-to-read-this-weekend-celestial-lights-if-destruction-be-our-lot/",
-    "image": "https://www.engadget.com/img/gallery/what-to-read-this-weekend-celestial-lights-and-if-destruction-be-our-lot/l-intro-1778964805.jpg",
-    "source": "Engadget",
-    "source_id": "src-065",
-    "category": "tehnologija",
-    "published_at": "2026-05-16T21:00:04+00:00",
-    "fetched_at": "2026-05-18T13:19:17.543209+00:00"
-  },
-  {
-    "id": "8c3fb208c87580f4",
-    "title": "SpaceX is reportedly getting ready to go public as early as June",
-    "description": "Reuters reported that SpaceX could make the initial announcement by next Wednesday.",
-    "url": "https://www.engadget.com/2174556/spacex-is-reportedly-getting-ready-to-go-public-as-early-as-june/",
-    "image": "https://www.engadget.com/img/gallery/spacex-is-reportedly-getting-ready-to-go-public-as-early-as-june/l-intro-1778958197.jpg",
-    "source": "Engadget",
-    "source_id": "src-065",
-    "category": "tehnologija",
-    "published_at": "2026-05-16T19:08:20+00:00",
-    "fetched_at": "2026-05-18T13:19:17.543256+00:00"
-  },
-  {
-    "id": "8b1af9378ea86b87",
-    "title": "Analogue 3D's latest update lets you save whenever you want",
-    "description": "No more frustrating deaths in between save points.",
-    "url": "https://www.engadget.com/2174519/analogue-3d-latest-update-lets-you-save-whenever-you-want/",
-    "image": "https://www.engadget.com/img/gallery/analogue-3ds-latest-update-lets-you-save-whenever-you-want/l-intro-1778953723.jpg",
-    "source": "Engadget",
-    "source_id": "src-065",
-    "category": "tehnologija",
-    "published_at": "2026-05-16T17:56:22+00:00",
-    "fetched_at": "2026-05-18T13:19:17.543301+00:00"
-  },
-  {
-    "id": "23ea3d9e88c8e81a",
-    "title": "Engadget review recap: Razr Fold, Bose Lifestyle Ultra Speaker, Ultrahuman Ring Pro and more",
-    "description": "A roundup of recent reviews published by Engadget.",
-    "url": "https://www.engadget.com/2174499/engadget-review-recap-razr-fold-bose-lifestyle-ultra-speaker-ultrahuman-ring-pro/",
-    "image": "https://www.engadget.com/img/gallery/engadget-review-recap-razr-fold-bose-lifestyle-ultra-speaker-ultrahuman-ring-pro-and-more/l-intro-1778951755.jpg",
-    "source": "Engadget",
-    "source_id": "src-065",
-    "category": "tehnologija",
-    "published_at": "2026-05-16T17:30:00+00:00",
-    "fetched_at": "2026-05-18T13:19:17.543347+00:00"
   }
 ]

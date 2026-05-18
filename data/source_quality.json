@@ -1,53 +1,9 @@
 {
-  "updated_at": "2026-05-18T15:42:07.458576+00:00",
+  "updated_at": "2026-05-18T19:21:52.194337+00:00",
   "sources": 194,
-  "ok": 124,
-  "problem": 56,
+  "ok": 118,
+  "problem": 60,
   "items": [
-    {
-      "id": "extra-journal-kultura",
-      "name": "Journal.hr - kultura",
-      "category": "kultura",
-      "url": "https://www.journal.hr/kultura/",
-      "status": "ok",
-      "label": "radi",
-      "count": 18,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "extra-journal-lifestyle",
-      "name": "Journal.hr - lifestyle",
-      "category": "lifestyle",
-      "url": "https://www.journal.hr/lifestyle/",
-      "status": "ok",
-      "label": "radi",
-      "count": 18,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "extra-journal-ljepota",
-      "name": "Journal.hr - ljepota",
-      "category": "lifestyle",
-      "url": "https://www.journal.hr/ljepota/",
-      "status": "ok",
-      "label": "radi",
-      "count": 18,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "extra-journal-moda",
-      "name": "Journal.hr - moda",
-      "category": "lifestyle",
-      "url": "https://www.journal.hr/moda/",
-      "status": "ok",
-      "label": "radi",
-      "count": 18,
-      "score": 100,
-      "error": ""
-    },
     {
       "id": "src-074",
       "name": "AWS News",
@@ -192,6 +148,17 @@
       "error": ""
     },
     {
+      "id": "src-165",
+      "name": "Decanter",
+      "category": "pica",
+      "url": "https://www.decanter.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-109",
       "name": "Design Milk",
       "category": "dizajn",
@@ -302,17 +269,6 @@
       "error": ""
     },
     {
-      "id": "src-050",
-      "name": "FreightWaves",
-      "category": "trzista",
-      "url": "https://www.freightwaves.com/news/feed",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-071",
       "name": "Google AI Blog",
       "category": "tehnologija",
@@ -361,28 +317,6 @@
       "name": "Jeweller Magazine",
       "category": "nakit",
       "url": "https://www.jewellermagazine.com/rss/jeweller.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "extra-journal-gastro",
-      "name": "Journal.hr - gastro",
-      "category": "hedonizam",
-      "url": "https://www.journal.hr/lifestyle/gastro/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "extra-journal-interijeri",
-      "name": "Journal.hr - interijeri",
-      "category": "dizajn",
-      "url": "https://www.journal.hr/lifestyle/interijeri/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -460,17 +394,6 @@
       "name": "NBER Digest",
       "category": "ekonomija",
       "url": "https://www.nber.org/rss/new.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-083",
-      "name": "Nature News",
-      "category": "znanost",
-      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -676,6 +599,17 @@
       "error": ""
     },
     {
+      "id": "src-112",
+      "name": "Wallpaper",
+      "category": "dizajn",
+      "url": "https://www.wallpaper.com/rss",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-063",
       "name": "Wired",
       "category": "tehnologija",
@@ -735,6 +669,17 @@
       "name": "Finance Monthly",
       "category": "financije",
       "url": "https://www.finance-monthly.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-050",
+      "name": "FreightWaves",
+      "category": "trzista",
+      "url": "https://www.freightwaves.com/news/feed",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -973,17 +918,6 @@
       "error": ""
     },
     {
-      "id": "src-037",
-      "name": "Investing.com Economic Indicators",
-      "category": "financije",
-      "url": "https://www.investing.com/rss/forex.rss",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-036",
       "name": "Investing.com News",
       "category": "financije",
@@ -1094,10 +1028,10 @@
       "error": ""
     },
     {
-      "id": "src-098",
-      "name": "MuseumNext",
-      "category": "kultura",
-      "url": "https://www.museumnext.com/feed/",
+      "id": "src-079",
+      "name": "NASA Breaking News",
+      "category": "znanost",
+      "url": "https://www.nasa.gov/news-release/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1105,10 +1039,10 @@
       "error": ""
     },
     {
-      "id": "src-079",
-      "name": "NASA Breaking News",
+      "id": "src-083",
+      "name": "Nature News",
       "category": "znanost",
-      "url": "https://www.nasa.gov/news-release/feed/",
+      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1270,17 +1204,6 @@
       "error": ""
     },
     {
-      "id": "src-124",
-      "name": "Highsnobiety",
-      "category": "lifestyle",
-      "url": "https://www.highsnobiety.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 9,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-025",
       "name": "Our World in Data",
       "category": "ekonomija",
@@ -1288,6 +1211,17 @@
       "status": "ok",
       "label": "radi",
       "count": 9,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-124",
+      "name": "Highsnobiety",
+      "category": "lifestyle",
+      "url": "https://www.highsnobiety.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 8,
       "score": 100,
       "error": ""
     },
@@ -1446,6 +1380,17 @@
       "error": ""
     },
     {
+      "id": "src-037",
+      "name": "Investing.com Economic Indicators",
+      "category": "financije",
+      "url": "https://www.investing.com/rss/forex.rss",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
       "id": "src-163",
       "name": "JCK",
       "category": "nakit",
@@ -1461,6 +1406,17 @@
       "name": "Kellogg Insight",
       "category": "poslovanje",
       "url": "https://insight.kellogg.northwestern.edu/feed",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
+      "id": "src-098",
+      "name": "MuseumNext",
+      "category": "kultura",
+      "url": "https://www.museumnext.com/feed/",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -1699,17 +1655,6 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "id": "src-165",
-      "name": "Decanter",
-      "category": "pica",
-      "url": "https://www.decanter.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "HTTP Error 503: Backend is unhealthy"
-    },
-    {
       "id": "src-120",
       "name": "Design Taxi",
       "category": "dizajn",
@@ -1884,6 +1829,72 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "extra-journal-gastro",
+      "name": "Journal.hr - gastro",
+      "category": "hedonizam",
+      "url": "https://www.journal.hr/lifestyle/gastro/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "extra-journal-interijeri",
+      "name": "Journal.hr - interijeri",
+      "category": "dizajn",
+      "url": "https://www.journal.hr/lifestyle/interijeri/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "extra-journal-kultura",
+      "name": "Journal.hr - kultura",
+      "category": "kultura",
+      "url": "https://www.journal.hr/kultura/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "extra-journal-lifestyle",
+      "name": "Journal.hr - lifestyle",
+      "category": "lifestyle",
+      "url": "https://www.journal.hr/lifestyle/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "extra-journal-ljepota",
+      "name": "Journal.hr - ljepota",
+      "category": "lifestyle",
+      "url": "https://www.journal.hr/ljepota/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "extra-journal-moda",
+      "name": "Journal.hr - moda",
+      "category": "lifestyle",
+      "url": "https://www.journal.hr/moda/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-048",
@@ -2104,17 +2115,6 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-112",
-      "name": "Wallpaper",
-      "category": "dizajn",
-      "url": "https://www.wallpaper.com/rss",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "HTTP Error 503: Backend is unhealthy"
     },
     {
       "id": "src-017",
