@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-18T08:48:29.823001+00:00",
+  "updated_at": "2026-05-18T08:54:19.298152+00:00",
   "sources": 69,
-  "ok_sources": 12,
-  "events_count": 149,
+  "ok_sources": 14,
+  "events_count": 171,
   "results": [
     {
       "id": "infozagreb-events",
@@ -74,8 +74,9 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "kazalište / mjuzikl",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "id": "teatar-exit",
@@ -333,9 +334,8 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "kazalište / premijere",
-      "status": "fallback",
-      "count": 1,
-      "error": "<urlopen error timed out>"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "opera-paris",
@@ -606,9 +606,8 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "muzej / izložbe",
-      "status": "fallback",
-      "count": 1,
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "count": 14
     },
     {
       "id": "centre-pompidou",
@@ -659,8 +658,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "program_link_only",
-      "count": 1
+      "status": "ok",
+      "count": 10
     },
     {
       "id": "uffizi",
