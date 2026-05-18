@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-18T07:47:35.771299+00:00",
+  "updated_at": "2026-05-18T07:55:46.628674+00:00",
   "sources": 194,
-  "ok_sources": 126,
-  "failed_sources": 54,
+  "ok_sources": 127,
+  "failed_sources": 53,
   "items_by_source": {
     "McKinsey Insights": 12,
     "Journal.hr - gastro": 13,
@@ -16,10 +16,10 @@
     "Symbol Quorum - poduzetništvo": 6,
     "Symbol Quorum - kultura i umjetnost": 8,
     "NBER Digest": 12,
+    "Seeking Alpha Market News": 14,
     "Variety": 78,
     "Hollywood Reporter": 13,
     "Deadline": 70,
-    "Seeking Alpha Market News": 13,
     "Investing.com Economic Indicators": 13,
     "Forbes Business": 81,
     "DesignWanted": 13,
@@ -32,7 +32,7 @@
     "CleanTechnica": 13,
     "PV Magazine": 12,
     "Wallpaper": 47,
-    "Investing.com News": 99,
+    "Investing.com News": 107,
     "ScienceDaily": 12,
     "Luxuo": 5,
     "Fratello": 13,
@@ -42,12 +42,12 @@
     "Fast Company": 24,
     "MarketWatch Top Stories": 24,
     "Creative Review": 14,
+    "ArchDaily": 31,
     "Yanko Design": 23,
     "ZDNET": 12,
     "Phys.org": 44,
     "Finextra": 12,
     "Our World in Data": 11,
-    "ArchDaily": 29,
     "The Verge": 10,
     "Robb Report": 14,
     "Engadget": 27,
@@ -505,6 +505,15 @@
       "status": "ok"
     },
     {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
       "id": "src-139",
       "name": "NBER Digest",
       "category": "ekonomija",
@@ -721,15 +730,6 @@
       "status": "ok"
     },
     {
-      "id": "src-108",
-      "name": "ArchDaily",
-      "category": "dizajn",
-      "url": "https://www.archdaily.com/search/projects/rss",
-      "kind": "rss",
-      "count": 11,
-      "status": "ok"
-    },
-    {
       "id": "src-125",
       "name": "Design Milk Lifestyle",
       "category": "lifestyle",
@@ -779,6 +779,15 @@
       "name": "Airport Technology",
       "category": "trzista",
       "url": "https://www.airport-technology.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-108",
+      "name": "ArchDaily",
+      "category": "dizajn",
+      "url": "https://www.archdaily.com/search/projects/rss",
       "kind": "rss",
       "count": 10,
       "status": "ok"
@@ -1691,16 +1700,6 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
-      "kind": "rss",
-      "count": 0,
-      "status": "failed",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
       "id": "src-034",
       "name": "Nasdaq Markets",
       "category": "financije",
@@ -1937,6 +1936,6 @@
     }
   ],
   "active_limit": 1660,
-  "archive_count": 723,
+  "archive_count": 734,
   "gallery_count": 500
 }
