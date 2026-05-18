@@ -1,5 +1,239 @@
 [
   {
+    "id": "b000752361064d84",
+    "title": "Za jedne kontroverzan, za druge oslobađajuć: Bio je hrvatski kandidat za Oscara, napokon dolazi u kina",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/lijepa-vecer-lijep-dan-film/",
+    "image": "https://www.journal.hr/wp-content/uploads/2024/09/Lijepa-vecer-lijep-dan-4-768x321.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.636480+00:00",
+    "fetched_at": "2026-05-18T22:46:11.636482+00:00",
+    "html_source": true
+  },
+  {
+    "id": "22e3121dbe99355c",
+    "title": "Nova generacija na putu uspjeha: Ostvarenje mlade hrvatske filmašice gledamo u Cannesu",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/odbaceni-a-uspravni-film/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Left-Behind-Still-Standing-4-2-768x534.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.636332+00:00",
+    "fetched_at": "2026-05-18T22:46:11.636335+00:00",
+    "html_source": true
+  },
+  {
+    "id": "942fed2f058347d3",
+    "title": "Filmski maraton: Zendaya je jedna od najuzbudljivijih mladih glumica, a ovo su joj najbolje uloge",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/zendaya-filmski-maraton/",
+    "image": "https://www.journal.hr/wp-content/uploads/2024/10/Zendaya_imdb-4-768x405.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.636162+00:00",
+    "fetched_at": "2026-05-18T22:46:11.636164+00:00",
+    "html_source": true
+  },
+  {
+    "id": "db52a187020db77d",
+    "title": "Filmski maraton: 10 najboljih glazbenih biografskih filmova koje možete pogledati",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/glazbeni-biografski-filmovi-filmski-maraton/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/glazbeni-biografski-filmovi_imdb-4-768x640.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.636077+00:00",
+    "fetched_at": "2026-05-18T22:46:11.636079+00:00",
+    "html_source": true
+  },
+  {
+    "id": "f6d1d6784debce4e",
+    "title": "Filmski maraton: Povodom Vrag nosi Pradu 2, izdvajamo 19 najboljih izvedbi Meryl Streep",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/filmski-maraton-meryl-streep/",
+    "image": "https://www.journal.hr/wp-content/uploads/2023/06/Meryl-Streep_imdb-6-768x484.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.635986+00:00",
+    "fetched_at": "2026-05-18T22:46:11.635988+00:00",
+    "html_source": true
+  },
+  {
+    "id": "878708f0cc444159",
+    "title": "Filmski maraton: Prije nego što u kina stigne Odiseja, prisjećamo se najboljih uloga Matta Damona",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/matt-damon-filmski-maraton/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Matt-Damon_imdb-10-768x510.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.635901+00:00",
+    "fetched_at": "2026-05-18T22:46:11.635902+00:00",
+    "html_source": true
+  },
+  {
+    "id": "ceca6b8f3aeb3a38",
+    "title": "Film, kazalište i TV Ovaj film već je veliki kandidat za osvajanje Zlatne palme na Filmskom festivalu u Cannesu",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/fatherland-film/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Filmski-festival-u-Cannesu_imdb-6-768x576.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.635810+00:00",
+    "fetched_at": "2026-05-18T22:46:11.635812+00:00",
+    "html_source": true
+  },
+  {
+    "id": "77ea5e5ea747d710",
+    "title": "Film, kazalište i TV Pogledali smo: Druga sezona serije Beef kaotična je i sjajno odglumljena, ali nema čar koju smo očekivali",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/beef-pogledali-smo-drugu-sezonu/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Beef_imdb-2-768x432.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.635603+00:00",
+    "fetched_at": "2026-05-18T22:46:11.635605+00:00",
+    "html_source": true
+  },
+  {
+    "id": "484ef2c46f4846ba",
+    "title": "Film, kazalište i TV Vrag nosi Pradu 2 je sve što smo htjeli i ništa više. To je s jedne strane sjajno, a s druge razočaravajuće",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/vrag-nosi-pradu-2-pogledali-smo/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Vrag-nosi-Pradu-2_imdb-1-768x512.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.635507+00:00",
+    "fetched_at": "2026-05-18T22:46:11.635509+00:00",
+    "html_source": true
+  },
+  {
+    "id": "2378e074c22f4784",
+    "title": "Knjige Krhka dob je izazovno, uzbudljivo, na momente čak i jezivo djelo. O njemu piše Ilina Cenov",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/knjige/krhka-dob-ilina-cenov-procitali-smo/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/zena_pexels-yaroslav-shuraev-5978341-768x581.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.635407+00:00",
+    "fetched_at": "2026-05-18T22:46:11.635409+00:00",
+    "html_source": true
+  },
+  {
+    "id": "fb1c73aaa4e05412",
+    "title": "Film, kazalište i TV Hoće li ovo biti najveći flop na Cannesu? Ni francuske ikone nisu mogle spasiti ovaj film od pljuvanja kritičara",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/parallel-tales-film/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Parallel-Tales_profimedia-1099070130-550x367.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.635308+00:00",
+    "fetched_at": "2026-05-18T22:46:11.635310+00:00",
+    "html_source": true
+  },
+  {
+    "id": "15d15fa804d7aefa",
+    "title": "Film, kazalište i TV Izdvojili smo 24 nadolazeća filma koja se očekuju ove godine, a o kojima će se najviše pričati",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/nadolazeci-filmovi-2026/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/01/Josephine_imdb-550x310.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.635170+00:00",
+    "fetched_at": "2026-05-18T22:46:11.635172+00:00",
+    "html_source": true
+  },
+  {
+    "id": "e744bfc876639c1a",
+    "title": "Film, kazalište i TV Još jedna velika izmjena čeka nas vezano uz novu sezonu serije Bridgerton. No, ova će se svima svidjeti",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/bridgerton-peta-sezona/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/02/Bridgerton_imdb-3-550x367.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.635053+00:00",
+    "fetched_at": "2026-05-18T22:46:11.635055+00:00",
+    "html_source": true
+  },
+  {
+    "id": "5e15aea31c7d04ef",
+    "title": "Film, kazalište i TV Šest nerazvikanih stranih serija na Netflixu koje možda niste pogledali, a trebali biste",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/strane-serije-netflix/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/strane-serije_imdb-2-550x367.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.634932+00:00",
+    "fetched_at": "2026-05-18T22:46:11.634934+00:00",
+    "html_source": true
+  },
+  {
+    "id": "da657d3af7b0e0a3",
+    "title": "Film, kazalište i TV Novi horor hit otkriva koja je razlika između ljubavi i opsesije. Jeste li ga već pogledali?",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/zaludenost-horor-film/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Zaludenost-1-768x513.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.634810+00:00",
+    "fetched_at": "2026-05-18T22:46:11.634812+00:00",
+    "html_source": true
+  },
+  {
+    "id": "f1d1a86a3f827a1c",
+    "title": "Film, kazalište i TV Sinoć je imao premijeru na Filmskom festivalu u Cannesu, a već ga nazivaju kultnim klasikom",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/hope-film/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Hope_profimedia-1099994214-1080x1620.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.634680+00:00",
+    "fetched_at": "2026-05-18T22:46:11.634683+00:00",
+    "html_source": true
+  },
+  {
+    "id": "6bafad1c479fae38",
+    "title": "Glazba Zovu ih vizionarima glazbene scene, a ovaj razgovor je to potvrdio. Empire Of The Sun uskoro na Šalati",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/glazba/empire-of-the-sun-luke-steele-intervju/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Empire-od-the-sun_imdb.jpeg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.634553+00:00",
+    "fetched_at": "2026-05-18T22:46:11.634556+00:00",
+    "html_source": true
+  },
+  {
+    "id": "bc71359995c2aaeb",
+    "title": "Umjetnost i dizajn Ivica Ivčević svojim fotografijama polako nas uvlači u ljetnu nostalgiju",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/umjetnost-i-dizajn/ivica-ivcevic-fotografija-intervju/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/jadrolinija3-1080x1440.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:46:11.634404+00:00",
+    "fetched_at": "2026-05-18T22:46:11.634421+00:00",
+    "html_source": true
+  },
+  {
     "id": "0917d00a97c0e3fa",
     "title": "„Svinje obožavaju sladoled!”",
     "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
@@ -8,8 +242,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T19:18:37.561495+00:00",
-    "fetched_at": "2026-05-18T19:18:37.561497+00:00",
+    "published_at": "2026-05-18T22:46:01.150761+00:00",
+    "fetched_at": "2026-05-18T22:46:01.150762+00:00",
     "html_source": true
   },
   {
@@ -21,8 +255,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T19:18:37.561379+00:00",
-    "fetched_at": "2026-05-18T19:18:37.561382+00:00",
+    "published_at": "2026-05-18T22:46:01.150670+00:00",
+    "fetched_at": "2026-05-18T22:46:01.150672+00:00",
     "html_source": true
   },
   {
@@ -34,8 +268,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T19:18:37.561258+00:00",
-    "fetched_at": "2026-05-18T19:18:37.561262+00:00",
+    "published_at": "2026-05-18T22:46:01.150574+00:00",
+    "fetched_at": "2026-05-18T22:46:01.150576+00:00",
     "html_source": true
   },
   {
@@ -47,8 +281,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T19:18:37.561110+00:00",
-    "fetched_at": "2026-05-18T19:18:37.561113+00:00",
+    "published_at": "2026-05-18T22:46:01.150478+00:00",
+    "fetched_at": "2026-05-18T22:46:01.150480+00:00",
     "html_source": true
   },
   {
@@ -60,8 +294,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T19:18:37.560993+00:00",
-    "fetched_at": "2026-05-18T19:18:37.560995+00:00",
+    "published_at": "2026-05-18T22:46:01.150383+00:00",
+    "fetched_at": "2026-05-18T22:46:01.150385+00:00",
     "html_source": true
   },
   {
@@ -73,8 +307,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T19:18:37.560863+00:00",
-    "fetched_at": "2026-05-18T19:18:37.560866+00:00",
+    "published_at": "2026-05-18T22:46:01.150262+00:00",
+    "fetched_at": "2026-05-18T22:46:01.150264+00:00",
     "html_source": true
   },
   {
@@ -86,8 +320,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T19:18:37.560741+00:00",
-    "fetched_at": "2026-05-18T19:18:37.560744+00:00",
+    "published_at": "2026-05-18T22:46:01.150158+00:00",
+    "fetched_at": "2026-05-18T22:46:01.150161+00:00",
     "html_source": true
   },
   {
@@ -99,9 +333,525 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T19:18:37.560533+00:00",
-    "fetched_at": "2026-05-18T19:18:37.560545+00:00",
+    "published_at": "2026-05-18T22:46:01.149965+00:00",
+    "fetched_at": "2026-05-18T22:46:01.149982+00:00",
     "html_source": true
+  },
+  {
+    "id": "1bea66dfa2b4b691",
+    "title": "Nicolas Winding Refn’s ‘Her Private Hell’ Heats Up Cannes With 12-Minute Standing Ovation",
+    "description": "Monday night belonged to Nicolas Winding Refn at Cannes and though his trippy psychedelic female ensemble pic, Her Private Hell, is playing out of competition, it spiced up the Grand Theatre Lumiere with a 12-minute standing ovation, the second of the night after Fjord. The movie stars Sophie Thatcher, Havana Rose Liu, Kristine Froseth and […]",
+    "url": "https://deadline.com/2026/05/nicolas-winding-refns-her-private-hell-cannes-standing-ovation-1236914843/",
+    "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2276971199.jpg",
+    "source": "Deadline",
+    "source_id": "src-104",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:44:04+00:00",
+    "fetched_at": "2026-05-18T22:45:24.419670+00:00"
+  },
+  {
+    "id": "c654ebd97eaf754b",
+    "title": "‘The Rookie’ Season 8 Finale Sets New Streaming Record, Hits Demo Season High & Tops Season 7 Closer With 9.25 Live+7 Multiplatform Viewers",
+    "description": "ABC’s The Rookie continues to defy its age, posting a year-to-year viewership bump with its Season 8 finale. The action-packed May 5 closer, which delivered an epic Chenford proposal years in the making followed by a shocking twist, delivered 9.25 million total viewers in Nielsen National Live+7 Day Big Data Plus Panel program ratings across […]",
+    "url": "https://deadline.com/2026/05/the-rookie-season-8-finale-ratings-viewerhip-2025-26-season-1236915092/",
+    "image": "https://deadline.com/wp-content/uploads/2026/05/RookieFinaleBeach.jpg",
+    "source": "Deadline",
+    "source_id": "src-104",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:39:14+00:00",
+    "fetched_at": "2026-05-18T22:45:24.419778+00:00"
+  },
+  {
+    "id": "73137c3aaed1ff59",
+    "title": "T-Mobile Enters Competitive Carrier Fray With ‘15-Minute Switch’ Offer on Heels of Price Hikes",
+    "description": "Whether for gas or groceries, it’s no secret that prices have been rising in recent months, and now, that has extended to mobile coverage as well. AT&T quietly unveiled a rate hike last month, while Verizon raised prices on select multi-device plans last year. Now, T-Mobile, which has also raised prices (though just once in […]",
+    "url": "https://variety.com/2026/shopping/tech/t-mobile-15-minute-switch-offer-prices-best-plans-online-1236734428/",
+    "image": "https://variety.com/wp-content/uploads/2026/02/T-Mobile-Fiber-Home-Internet-VR-Featured.jpg",
+    "source": "Variety",
+    "source_id": "src-102",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:39:11+00:00",
+    "fetched_at": "2026-05-18T22:45:24.203116+00:00"
+  },
+  {
+    "id": "d44f20e14e4fbd2f",
+    "title": "British Museum Unveils Elaborate Display for Bayeux Tapestry",
+    "description": "The museum will display the artifact flat for the first time in recent history. The post British Museum Unveils Elaborate Display for Bayeux Tapestry appeared first on Artnet News .",
+    "url": "https://news.artnet.com/art-world/bayeux-tapestry-british-museum-display-2774434",
+    "image": "https://picsum.photos/seed/wv-news-7ff93e1283a1/1200/750",
+    "source": "Artnet News",
+    "source_id": "src-094",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:35:52+00:00",
+    "fetched_at": "2026-05-18T22:45:21.455658+00:00"
+  },
+  {
+    "id": "e36422941d03211d",
+    "title": "Judith Light Hopes ‘The Terror: Devil In Silver’ Can Use Horror to Tell an Important Story",
+    "description": "The actress also reflects on how the television landscape has changed throughout her career and her latest role in Marvel’s ‘The Punisher: One Last Kill.’",
+    "url": "https://www.hollywoodreporter.com/tv/tv-features/judith-light-the-terror-devil-in-silver-punisher-interview-1236598900/",
+    "image": "https://picsum.photos/seed/wv-news-a32fef556101/1200/750",
+    "source": "Hollywood Reporter",
+    "source_id": "src-103",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:04:24+00:00",
+    "fetched_at": "2026-05-18T22:45:24.278055+00:00"
+  },
+  {
+    "id": "799ef233bf1c84c8",
+    "title": "Our Summer Art Reading List",
+    "description": "Whenever I’m stuck in a reading rut, I find that art books of any kind are the only ones that can rescue me. This time, it’s Kory Stamper’s True Color , a transfixing story about the man who originated Merriam-Webster Dictionary’s definitions for",
+    "url": "https://hyperallergic.com/our-summer-art-reading-list/",
+    "image": "https://picsum.photos/seed/wv-news-c955c271efd2/1200/750",
+    "source": "Hyperallergic",
+    "source_id": "src-091",
+    "category": "kultura",
+    "published_at": "2026-05-18T22:00:53+00:00",
+    "fetched_at": "2026-05-18T22:45:20.718011+00:00"
+  },
+  {
+    "id": "e17a21a208a23ba4",
+    "title": "Music Industry Moves: Red Light Founder Coran Capshaw to Be Honored at T.J. Martell Foundation Gala; Japanese Trio Number_i Signs With Atlantic",
+    "description": "Red Light Management founder Coran Capshaw will be honoroed by the T.J. Martell Foundation, the music industry foundation that provides funds for cancer research, at its 51st annual New York Honors Gala on September 15 at Cipriani 42nd Street in New York City. The foundation’s board of trustees will present Capshaw — pictured above with […]",
+    "url": "https://variety.com/2026/music/news/coran-capshaw-honored-tj-martell-1236753040/",
+    "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-869592374-e1779140999332.jpg",
+    "source": "Variety",
+    "source_id": "src-102",
+    "category": "kultura",
+    "published_at": "2026-05-18T21:54:02+00:00",
+    "fetched_at": "2026-05-18T22:45:24.203207+00:00"
+  },
+  {
+    "id": "7198c8dfcd6e93c3",
+    "title": "Everything We Know About Prime Video’s ‘Boys Of Tommen’ Adaptation So Far",
+    "description": "Prime Video is not stopping with its YA book adaptation momentum. The streamer has several projects in the works and rolling out this summer, and Boys of Tommen is its latest big project boosted by Booktok. For everything we know about the upcoming college-set series adaptation of Chloe Walsh’s books, read on. When will The […]",
+    "url": "https://deadline.com/feature/boys-of-tommen-news-updates-adaptation-prime-video-1236915108/",
+    "image": "https://deadline.com/wp-content/uploads/2026/02/Boys-of-Tommen-Nicole-Clemens.jpg",
+    "source": "Deadline",
+    "source_id": "src-104",
+    "category": "kultura",
+    "published_at": "2026-05-18T21:51:49+00:00",
+    "fetched_at": "2026-05-18T22:45:24.419860+00:00"
+  },
+  {
+    "id": "f3b2c2a359ccd6c0",
+    "title": "Elon Musk Rages Against “Terrible Activist Oakland Judge” & Jury After Losing $150 Billion OpenAI Trial; Accuses Sam Altman Again Of “Stealing A Charity”",
+    "description": "“There is no question to anyone following the case in detail that Altman & Brockman did in fact enrich themselves by stealing a charity,” Elon Musk, wrote Monday, stomping his feet after losing his big-bucks lawsuit against his now estranged OpenAI co-founders Sam Altman and Greg Brockman. Tossing in a Trump caps, the world’s sometimes […]",
+    "url": "https://deadline.com/2026/05/elon-musk-response-openai-trial-verdict-1236915076/",
+    "image": "https://deadline.com/wp-content/uploads/2026/05/elon-musk-openai-suit.jpg",
+    "source": "Deadline",
+    "source_id": "src-104",
+    "category": "kultura",
+    "published_at": "2026-05-18T21:49:41+00:00",
+    "fetched_at": "2026-05-18T22:45:24.419953+00:00"
+  },
+  {
+    "id": "e4b1c2755d37008a",
+    "title": "‘Yokoso Scooby-Doo!’ Anime Series Set At Tubi; Frank Welker & Matthew Lillard To Reprise Original Roles",
+    "description": "The Scooby-Doo franchise is expanding with the new anime series Yokoso Scooby-Doo, a Tubi Original set in Japan. Two franchise stars will voice their characters for the series: Frank Welker as Scooby-Doo and Matthew Lillard as Shaggy. In the series, while visiting Japan on the ultimate foodie adventure, Scooby-Doo and Shaggy unwittingly unleash hundreds of […]",
+    "url": "https://deadline.com/2026/05/yokoso-scooby-doo-anime-series-tubi-matthew-lillard-1236915079/",
+    "image": "https://deadline.com/wp-content/uploads/2026/05/Yokoso-Scooby-Doo-.jpg",
+    "source": "Deadline",
+    "source_id": "src-104",
+    "category": "kultura",
+    "published_at": "2026-05-18T21:49:09+00:00",
+    "fetched_at": "2026-05-18T22:45:24.420032+00:00"
+  },
+  {
+    "id": "18f16bd75249694f",
+    "title": "‘I Punched a Hole in the Box and Got Out’: Nathan Lane, Laurie Metcalf and a Tony-Nominated ‘Death of a Salesman’ Revival for the Ages",
+    "description": "The best onstage production of Arthur Miller’s “Death of a Salesman” in a generation is also, conveniently, the one that settles two long-running perceptions of its two Tony-nominated thespians. The first is about Nathan Lane — and, as it turns out, the 70-year-old veteran offers the clearest read on where he is in this career […]",
+    "url": "https://variety.com/2026/legit/awards/nathan-lane-laurie-metcalf-death-of-a-salesman-brian-dennehy-1236752959/",
+    "image": "https://variety.com/wp-content/uploads/2026/05/P106DIF5.jpg",
+    "source": "Variety",
+    "source_id": "src-102",
+    "category": "kultura",
+    "published_at": "2026-05-18T21:43:35+00:00",
+    "fetched_at": "2026-05-18T22:45:24.203327+00:00"
+  },
+  {
+    "id": "13f25478fc0f7e3a",
+    "title": "Guatemala stakes claim to stone lintel by 'the Michelangelo of the pre-Columbian era' that was repatriated to Mexico",
+    "description": "The artefact is a rare surviving work created by the artist Mayuy more than 1,000 years ago",
+    "url": "https://www.theartnewspaper.com/2026/05/18/guatemala-maya-stone-lintel-mayuy-mexico-repatriation",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/4c72e0ac9256dd607237f4959d97ef4b1994c1e6-1034x1301.png?w=140",
+    "source": "The Art Newspaper",
+    "source_id": "src-092",
+    "category": "kultura",
+    "published_at": "2026-05-18T21:43:03+00:00",
+    "fetched_at": "2026-05-18T22:45:20.934935+00:00"
+  },
+  {
+    "id": "3d9cfd19f1d904bf",
+    "title": "Mark Fuhrman Dies: LAPD Detective At Center Of O.J. Simpson Murder Trial Was 74",
+    "description": "Mark Fuhrman, the former LAPD detective who discovered the bloody glove that became as pivotal to the O.J. Simpson murder trial as the epithet-spewing cop himself would be, died Tuesday, May 12, in Idaho, where he resided. He was 74. The Kootenai County Coroner Office confirmed to Deadline that Furman died on May 12. The […]",
+    "url": "https://deadline.com/2026/05/mark-fuhrman-dead-1236915078/",
+    "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-1258896733.jpg",
+    "source": "Deadline",
+    "source_id": "src-104",
+    "category": "kultura",
+    "published_at": "2026-05-18T21:41:46+00:00",
+    "fetched_at": "2026-05-18T22:45:24.420096+00:00"
+  },
+  {
+    "id": "cba2feae588c10ab",
+    "title": "A Contemporary Art Haven Just a PATH Ride Away",
+    "description": "More than a third of Mana Contemporary’s artists opened their spaces to the public for its spring open studios event, the largest participation number in years.",
+    "url": "https://hyperallergic.com/a-contemporary-art-haven-just-a-path-ride-away/",
+    "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/05/IMG_7747-2-1.jpeg",
+    "source": "Hyperallergic",
+    "source_id": "src-091",
+    "category": "kultura",
+    "published_at": "2026-05-18T21:20:25+00:00",
+    "fetched_at": "2026-05-18T22:45:20.718082+00:00"
+  },
+  {
+    "id": "e65af4e8b21c30fb",
+    "title": "Disney Accused of Staging Pedro Pascal ‘Mandalorian’ Fan Surprise With Influencers",
+    "description": "'The Mandalorian and Grogu' star seemingly stunned a group of Disneyland tourists on Smuggler's Run. But things weren't exactly how they appeared. Here's what happened.",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/pedro-pascal-mandalorian-disney-staged-stunt-1236598888/",
+    "image": "https://picsum.photos/seed/wv-news-b4bc8aa01a29/1200/750",
+    "source": "Hollywood Reporter",
+    "source_id": "src-103",
+    "category": "kultura",
+    "published_at": "2026-05-18T21:15:02+00:00",
+    "fetched_at": "2026-05-18T22:45:24.278140+00:00"
+  },
+  {
+    "id": "882d720025d5a279",
+    "title": "‘Run Amok’ and Stanley Tucci’s ‘Big Night’ Among New Jersey’s Lighthouse Film Festival’s Line-Up – Film News in Brief",
+    "description": "The Patrick Wilson and Molly Ringwald-led “Run Amok,” Matthew Giaquinto’s “Red Flag” and Campbell Scott and Stanley Tucci’s “Big Night” are among the titles set to screen at the Lighthouse International Film Festival . The festival will take place June 10 through 14 on Long Beach Island, N.J. LIFF’s 2026 lineup includes a range of […]",
+    "url": "https://variety.com/2026/film/news/film-news-in-brief-may-18-2026-1236750364/",
+    "image": "https://variety.com/wp-content/uploads/2026/01/shbyrylavRun_Amok-Still_1-scaled-1.webp",
+    "source": "Variety",
+    "source_id": "src-102",
+    "category": "kultura",
+    "published_at": "2026-05-18T21:15:00+00:00",
+    "fetched_at": "2026-05-18T22:45:24.203418+00:00"
+  },
+  {
+    "id": "6d75ec864723cb5e",
+    "title": "Martin Wong’s Brick Monument to Popeye",
+    "description": "He repurposed bygone cartoon characters and gave them new life with a queer, magpie sensibility, which still pops two decades after his death.",
+    "url": "https://hyperallergic.com/martin-wongs-brick-monument-to-popeye/",
+    "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/05/Martin-Wong--Oy---Veh----1991--acrylic-on-plywood--1-.jpeg",
+    "source": "Hyperallergic",
+    "source_id": "src-091",
+    "category": "kultura",
+    "published_at": "2026-05-18T21:14:47+00:00",
+    "fetched_at": "2026-05-18T22:45:20.718139+00:00"
+  },
+  {
+    "id": "badccd4add2567e2",
+    "title": "59th Carnegie International tests the limits of connection and inclusion",
+    "description": "Titled ‘If the word we’, the recurring exhibition's 2026-27 edition strives to celebrate both world-class artists and the community in and around Pittsburgh",
+    "url": "https://www.theartnewspaper.com/2026/05/18/59th-carnegie-international-explores-connection-and-division",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/bca95edf4f154de3ab8b9ace43ef4d7cb5b51b60-2000x1458.jpg?w=140",
+    "source": "The Art Newspaper",
+    "source_id": "src-092",
+    "category": "kultura",
+    "published_at": "2026-05-18T21:13:23+00:00",
+    "fetched_at": "2026-05-18T22:45:20.935012+00:00"
+  },
+  {
+    "id": "4a8aaa23b27f9044",
+    "title": "Paramount+’s ‘The Madison’ Goes Market to Table in a Wide Mix of Themed FYC Promotions (EXCLUSIVE)",
+    "description": "Greetings from Variety Awards Headquarters! Today is May 18, 2026, which means it’s 24 days until nominations-round voting begins on June 11; 35 days until nominations-round voting ends on June 22 at 10 p.m.; and 53 days until Emmy nominations are announced on July 10. And looking far ahead, it’s 119 days until the 78th Emmy Awards on Sept. 14 on NBC. And we’re back to Los Angeles! The upfronts were quite […]",
+    "url": "https://variety.com/2026/tv/awards/the-madison-emmy-fyc-promotions-awards-hq-may-18-1236752871/",
+    "image": "https://variety.com/wp-content/uploads/2026/01/MADISON_104_101024_EM_00046_RT.jpg",
+    "source": "Variety",
+    "source_id": "src-102",
+    "category": "kultura",
+    "published_at": "2026-05-18T21:03:24+00:00",
+    "fetched_at": "2026-05-18T22:45:24.203508+00:00"
+  },
+  {
+    "id": "5df4d070ef4ae8d5",
+    "title": "‘Yokoso Scooby-Doo!’ Anime Series Lands at Tubi, Starring Matthew Lillard and Frank Welker in Main Voice Roles",
+    "description": "Zoinks! “Scooby-Doo” is going anime. Tubi has acquired the new animated series “Yokoso Scooby-Doo!” — which means “Welcome Scooby-Doo” — which focuses on Scooby-Doo and Shaggy, and stars “Scooby-Doo!” voice regulars Frank Welker (“Scoob!”) and Matthew Lillard (“Scream”) as the two main roles. “Yokoso Scooby-Doo!” is the first original anime “Scooby-Doo!” series, and is produced […]",
+    "url": "https://variety.com/2026/tv/news/yokoso-scooby-doo-anime-tubi-matthew-lillard-frank-welker-1236752103/",
+    "image": "https://variety.com/wp-content/uploads/2026/05/Scooby-Doo-anime.jpeg",
+    "source": "Variety",
+    "source_id": "src-102",
+    "category": "kultura",
+    "published_at": "2026-05-18T21:00:00+00:00",
+    "fetched_at": "2026-05-18T22:45:24.203603+00:00"
+  },
+  {
+    "id": "0c5ed93fce5ed848",
+    "title": "Tubi Nabs ‘Scooby-Doo’ Anime Series From Warner Bros. Animation",
+    "description": "The show will follow Scooby and Shaggy to Japan, where they encounter mythical monsters.",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/scooby-doo-anime-series-tubi-1236598747/",
+    "image": "https://picsum.photos/seed/wv-news-2fdcb727d13f/1200/750",
+    "source": "Hollywood Reporter",
+    "source_id": "src-103",
+    "category": "kultura",
+    "published_at": "2026-05-18T21:00:00+00:00",
+    "fetched_at": "2026-05-18T22:45:24.278206+00:00"
+  },
+  {
+    "id": "15098077031d5512",
+    "title": "The ‘Is God Is’ Ending Had People “Yelling” in Screenings — Just as Director Aleshea Harris Would Like It",
+    "description": "The first-time feature screenwriter and director makes a major impression with ‘Is God Is.’ She gets into a spoilery chat on the film that has critics raving.",
+    "url": "https://www.hollywoodreporter.com/movies/movie-features/is-god-is-aleshea-harris-interview-1236598965/",
+    "image": "https://picsum.photos/seed/wv-news-f0d0fe004b31/1200/750",
+    "source": "Hollywood Reporter",
+    "source_id": "src-103",
+    "category": "kultura",
+    "published_at": "2026-05-18T20:58:32+00:00",
+    "fetched_at": "2026-05-18T22:45:24.278285+00:00"
+  },
+  {
+    "id": "297c04728a1c1212",
+    "title": "Tom Kane Dies: ‘Star Wars: The Clone Wars’, ‘Powerpuff Girls’, ‘Archer’ Voice Actor Was 64",
+    "description": "Tom Kane, the prolific voice actor whose credits include Yoda on Star Wars: The Clone Wars, The Powerpuff Girls, Archer and scores of video games, died today, May 18, in Kansas City after having suffered a stroke more than five years ago. He was 64. His death was announced on social media by Galactic Productions, […]",
+    "url": "https://deadline.com/2026/05/tom-kane-dead-clone-wars-1236915028/",
+    "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-82244405-e1779135789584.jpg",
+    "source": "Deadline",
+    "source_id": "src-104",
+    "category": "kultura",
+    "published_at": "2026-05-18T20:55:27+00:00",
+    "fetched_at": "2026-05-18T22:45:24.420168+00:00"
+  },
+  {
+    "id": "82e62d1f2fc54679",
+    "title": "‘Dungeon Crawler Carl’ Author on That ‘Sexy’ Ending to ‘A Parade of Horribles,’ What’s Coming in Final Two Books",
+    "description": "SPOILER ALERT: This story contains major spoilers for “A Parade of Horribles,” the eighth book in Matt Dinniman’s “Dungeon Crawler Carl” series. The “Dungeon Crawler Carl” lit RPG novel series ended its eighth installment, “A Parade of Horribles,” with several bombshells that will shake up the journey for Carl, Princess Donut, Mongo, Ren and their now-expanded […]",
+    "url": "https://variety.com/2026/tv/news/parade-of-horribles-ending-scolopendra-dungeon-crawler-carl-1236750323/",
+    "image": "https://variety.com/wp-content/uploads/2026/05/Dungeon-Crawler-Carl-Matt-Dinniman.jpg",
+    "source": "Variety",
+    "source_id": "src-102",
+    "category": "kultura",
+    "published_at": "2026-05-18T20:46:16+00:00",
+    "fetched_at": "2026-05-18T22:45:24.203689+00:00"
+  },
+  {
+    "id": "4664aec91561a655",
+    "title": "‘Very Young Frankenstein’ Lives at FX With Series Order",
+    "description": "Zach Galifianakis, Dolly Wells and Spencer House will star in the new take on the classic Mel Brooks movie.",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/very-young-frankenstein-series-order-fx-1236598953/",
+    "image": "https://picsum.photos/seed/wv-news-cc4c5629d558/1200/750",
+    "source": "Hollywood Reporter",
+    "source_id": "src-103",
+    "category": "kultura",
+    "published_at": "2026-05-18T20:33:52+00:00",
+    "fetched_at": "2026-05-18T22:45:24.278364+00:00"
+  },
+  {
+    "id": "47b23836fd76df07",
+    "title": "‘Greyhound’ DP Shelly Johnson Elected President of American Society of Cinematographers",
+    "description": "“Greyhound” and “Jurassic Park III” DP Shelly Johnson has been elected the 50th President of the American Society of Cinematographers. The ASC board of governors has announced a new slate of officers. Johnson, who takes the reigns from incumbent President Mandy Walker, previously served as the org’s president from 2023-25. The Board also voted in Vice […]",
+    "url": "https://variety.com/2026/artisans/news/shelly-johnson-president-american-society-of-cinematographers-1236752948/",
+    "image": "https://variety.com/wp-content/uploads/2026/05/2034555797.jpg",
+    "source": "Variety",
+    "source_id": "src-102",
+    "category": "kultura",
+    "published_at": "2026-05-18T20:26:29+00:00",
+    "fetched_at": "2026-05-18T22:45:24.203769+00:00"
+  },
+  {
+    "id": "3e1f4f1608bdae7c",
+    "title": "Stunning Frescoes in This Madrid Church Received a Facelift—But the Spanish Artist Buried Beneath Them Is Still Missing His Head",
+    "description": "Goya's frescoes are given new life in a church in Spain that also serves as the final resting place for most of the artist's body. The mystery of his missing skull has inspired poems and artworks",
+    "url": "https://www.smithsonianmag.com/smart-news/stunning-frescoes-in-this-madrid-church-received-a-facelift-but-goya-the-spanish-artist-buried-beneath-them-is-still-missing-his-head-180988756/",
+    "image": "https://th-thumbnailer.cdn-si-edu.com/2Uj9jOrA-rI45l4D_DXMtgL1IP4=/420x240/filters:focal(480x480:481x481)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/95/2c/952ccc2d-03c5-4343-a58c-495313b3ba4b/francisco_de_goya_y_lucientes_041.jpg",
+    "source": "Smithsonian Magazine",
+    "source_id": "src-097",
+    "category": "kultura",
+    "published_at": "2026-05-18T20:10:47+00:00",
+    "fetched_at": "2026-05-18T22:45:22.752354+00:00"
+  },
+  {
+    "id": "97051bfab58f96ac",
+    "title": "Cannes Crowd Embraces ‘Fjord’ With Raucous Standing Ovation",
+    "description": "The English-language debut of Palme d'Or winner Cristian Mungiu stars Sebastian Stan and Renate Reinsve.",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/cannes-embraces-fjord-with-raucous-standing-ovation-1236598916/",
+    "image": "https://picsum.photos/seed/wv-news-6ea0ff950fba/1200/750",
+    "source": "Hollywood Reporter",
+    "source_id": "src-103",
+    "category": "kultura",
+    "published_at": "2026-05-18T20:07:37+00:00",
+    "fetched_at": "2026-05-18T22:45:24.278423+00:00"
+  },
+  {
+    "id": "ab3fb5224b22e595",
+    "title": "‘Very Young Frankenstein’ Ordered to Series at FX",
+    "description": "FX has given a series order to “Very Young Frankenstein.” The project was first announced with a pilot order in 2025. Exact plot details are still under wraps, aside from the fact it is inspired by the classic Mel Brooks-Gene Wilder comedy “Young Frankenstein.” As previously reported, the show stars Zach Galifianakis, Dolly Wells and […]",
+    "url": "https://variety.com/2026/tv/news/very-young-frankenstein-series-fx-1236752933/",
+    "image": "https://variety.com/wp-content/uploads/2016/08/young-frankenstein.jpg",
+    "source": "Variety",
+    "source_id": "src-102",
+    "category": "kultura",
+    "published_at": "2026-05-18T20:05:23+00:00",
+    "fetched_at": "2026-05-18T22:45:24.203839+00:00"
+  },
+  {
+    "id": "7d03d57b256e4c40",
+    "title": "Seattle Art Museum Workers Move to Unionize",
+    "description": "Over 100 employees are urging the museum to voluntarily recognize the union, citing unsustainable wages and subpar benefits.",
+    "url": "https://hyperallergic.com/seattle-art-museum-workers-move-to-unionize/",
+    "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/05/SAM-Ext_3.jpg",
+    "source": "Hyperallergic",
+    "source_id": "src-091",
+    "category": "kultura",
+    "published_at": "2026-05-18T20:05:22+00:00",
+    "fetched_at": "2026-05-18T22:45:20.718188+00:00"
+  },
+  {
+    "id": "64340cd925e42397",
+    "title": "The New York Times Files Another Lawsuit Against Pentagon, This Time Over Press Escort Policy",
+    "description": "UPDATED, with Pentagon statement: The New York Times filed a new lawsuit against the Department of Defense and Secretary Pete Hegseth, this time challenging a policy that requires credentialed journalists to have an official escort when inside the Pentagon. In the lawsuit, the Times’ attorneys wrote that the purpose of the policy “is to restrict […]",
+    "url": "https://deadline.com/2026/05/new-york-times-pentagon-pete-hegseth-1236914916/",
+    "image": "https://deadline.com/wp-content/uploads/2021/03/The-New-York-Times.jpg",
+    "source": "Deadline",
+    "source_id": "src-104",
+    "category": "kultura",
+    "published_at": "2026-05-18T20:03:41+00:00",
+    "fetched_at": "2026-05-18T22:45:24.420232+00:00"
+  },
+  {
+    "id": "9ca38fe784d19c6a",
+    "title": "‘Very Young Frankenstein’ Starring Zach Galifianakis Gets Series Order, FX Exec Calls It “A Completely Original Take” On Mel Brooks Classic",
+    "description": "EXCLUSIVE: FX has picked up to series its last outstanding pilot, Very Young Frankenstein, a comedy based on Mel Brooks’ 1974 cult classic 20th Century Studios film Young Frankenstein. The series for FX and Hulu comes from the What We Do In the Shadows trio of Stefani Robinson, Taika Waititi and Garrett Basch, who executive […]",
+    "url": "https://deadline.com/2026/05/very-young-frankenstein-zach-galifianakis-fx-series-taika-waititi-1236914710/",
+    "image": "https://deadline.com/wp-content/uploads/2025/06/MEl-Brooks.jpg",
+    "source": "Deadline",
+    "source_id": "src-104",
+    "category": "kultura",
+    "published_at": "2026-05-18T20:00:00+00:00",
+    "fetched_at": "2026-05-18T22:45:24.420391+00:00"
+  },
+  {
+    "id": "5588a486e6acb6ca",
+    "title": "Cristian Mungiu’s ‘Fjord’ Starring Sebastian Stan and Renate Reinsve Gets Exuberant 12-Minute Ovation — Longest Of The Year So Far In Cannes",
+    "description": "Palme d’Or winner Cristian Mungiu‘s latest film Fjord, starring Sebastian Stan (The Apprentice) and Renate Reinsve (Sentimental Value), had its world premiere in Cannes on Monday night and received a 12-minute ovation. The runners-up ovation-wise at this point in the festival are James Gray’s Paper Tiger, which last night got a 10-minute salute, and Ryusuke Hamaguchi’s […]",
+    "url": "https://deadline.com/2026/05/cristian-mungiu-fjord-sebastian-stan-standing-ovation-cannes-1236914627/",
+    "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2276939991.jpg",
+    "source": "Deadline",
+    "source_id": "src-104",
+    "category": "kultura",
+    "published_at": "2026-05-18T19:59:50+00:00",
+    "fetched_at": "2026-05-18T22:45:24.420481+00:00"
+  },
+  {
+    "id": "1032e6bb259ec5dc",
+    "title": "Sebastian Stan and Renate Reinsve Shed Tears as Devastating Family Drama ‘Fjord’ Gets 10-Minute Cannes Premiere Standing Ovation",
+    "description": "The Cannes Film Festival flipped for “Fjord” on Monday night, as Cristian Mungiu’s heart-wrenching family legal saga starring Sebastian Stan and Renate Reinsve brought searing drama to the Grand Palais. A Romanian family with strict religious beliefs emigrates to a sleepy Norwegian village — watching as clashing social norms escalates into a living nightmare when […]",
+    "url": "https://variety.com/2026/film/news/sebastian-stan-fjord-cannes-premeire-renate-reinsve-1236736780/",
+    "image": "https://variety.com/wp-content/uploads/2026/05/fjord.png",
+    "source": "Variety",
+    "source_id": "src-102",
+    "category": "kultura",
+    "published_at": "2026-05-18T19:56:09+00:00",
+    "fetched_at": "2026-05-18T22:45:24.203918+00:00"
+  },
+  {
+    "id": "8931061e3af6a92d",
+    "title": "Marvel Comics Shake-Up: TV Chief Brad Winderbaum Takes on Publishing as Veteran Dan Buckley Exits",
+    "description": "At the same time, David Abdo will segue from Disney's music group to serve as general manager, comics and franchise.",
+    "url": "https://www.hollywoodreporter.com/business/business-news/marvel-comics-shakeup-brad-winderbaum-dan-buckley-1236598922/",
+    "image": "https://picsum.photos/seed/wv-news-0013612e2bf9/1200/750",
+    "source": "Hollywood Reporter",
+    "source_id": "src-103",
+    "category": "kultura",
+    "published_at": "2026-05-18T19:50:19+00:00",
+    "fetched_at": "2026-05-18T22:45:24.278477+00:00"
+  },
+  {
+    "id": "37857b98c7d38cdc",
+    "title": "Louvre Reveals Architects for $1 Billion Expansion",
+    "description": "Selldorf Architects and Studios Architecture Paris will lead the overhaul, including a dedicated Mona Lisa gallery. The post Louvre Reveals Architects for $1 Billion Expansion appeared first on Artnet News .",
+    "url": "https://news.artnet.com/art-world/louvre-architects-2774247",
+    "image": "https://picsum.photos/seed/wv-news-d404e03df236/1200/750",
+    "source": "Artnet News",
+    "source_id": "src-094",
+    "category": "kultura",
+    "published_at": "2026-05-18T19:42:49+00:00",
+    "fetched_at": "2026-05-18T22:45:21.455739+00:00"
+  },
+  {
+    "id": "e307ce68cdf3a980",
+    "title": "Horst Antes at 90: Major Shows Celebrate German New Figuration Pioneer",
+    "description": "Galerie Koch in Hannover marks the German artist's 90th birthday by brining together a diverse range of work dated from across more than four decades of his career. The post Horst Antes at 90: Major Shows Celebrate German New Figuration Pioneer appeared first on Artnet News .",
+    "url": "https://news.artnet.com/art-world/horst-antes-galerie-koch-2774208",
+    "image": "https://picsum.photos/seed/wv-news-722af55c2e84/1200/750",
+    "source": "Artnet News",
+    "source_id": "src-094",
+    "category": "kultura",
+    "published_at": "2026-05-18T19:40:44+00:00",
+    "fetched_at": "2026-05-18T22:45:21.455808+00:00"
+  },
+  {
+    "id": "2d52cbcee75d08d9",
+    "title": "J-pop Trio Number_i Signs With Atlantic Records, Working on New Music Out Later This Year",
+    "description": "The group continues to top the chars in Japan and have begun making an international push through U.S. festivals and a recent signing with WME.",
+    "url": "https://www.hollywoodreporter.com/music/music-news/j-pop-trio-number_i-atlantic-records-signing-1236598186/",
+    "image": "https://picsum.photos/seed/wv-news-a46906b32af3/1200/750",
+    "source": "Hollywood Reporter",
+    "source_id": "src-103",
+    "category": "kultura",
+    "published_at": "2026-05-18T19:37:46+00:00",
+    "fetched_at": "2026-05-18T22:45:24.278530+00:00"
+  },
+  {
+    "id": "7e56ea696f23bcea",
+    "title": "Who’s That Nude Figure on a Washing Machine Outside the New Museum?",
+    "description": "Sarah Lucas’s new public sculpture “VENUS VICTORIA,” on view for the next two years, subverts the mostly male history of public monuments.",
+    "url": "https://hyperallergic.com/whos-that-nude-figure-on-a-washing-machine-outside-the-new-museum/",
+    "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/05/DSC_0068.jpg",
+    "source": "Hyperallergic",
+    "source_id": "src-091",
+    "category": "kultura",
+    "published_at": "2026-05-18T19:31:32+00:00",
+    "fetched_at": "2026-05-18T22:45:20.718245+00:00"
+  },
+  {
+    "id": "822f80af4ea9fdb9",
+    "title": "Disney Hit With Class Action Over Facial Recognition Technology at Park Entrances",
+    "description": "Most visitors are unaware of the tools and opt into having their faces scanned. Mass adoption of the tools at sports and entertainment venues have sparked concerns of a privatized surveillance state.",
+    "url": "https://www.hollywoodreporter.com/business/business-news/disney-class-action-lawsuit-facial-recognition-disneyland-1236598890/",
+    "image": "https://picsum.photos/seed/wv-news-73952afd1622/1200/750",
+    "source": "Hollywood Reporter",
+    "source_id": "src-103",
+    "category": "kultura",
+    "published_at": "2026-05-18T19:24:06+00:00",
+    "fetched_at": "2026-05-18T22:45:24.278582+00:00"
+  },
+  {
+    "id": "f1a4bbe1b7c0ef82",
+    "title": "Thousands Decry Right-Wing “Smear Campaign” Against Misan Harriman",
+    "description": "“Truth itself is on the line,” the Southbank Centre board chair told Hyperallergic, rejecting accusations of antisemitism leveled by conservative outlets.",
+    "url": "https://hyperallergic.com/thousands-decry-right-wing-smear-campaign-against-misan-harriman/",
+    "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/05/IMG-20260514-WA0010.jpg",
+    "source": "Hyperallergic",
+    "source_id": "src-091",
+    "category": "kultura",
+    "published_at": "2026-05-18T19:23:51+00:00",
+    "fetched_at": "2026-05-18T22:45:20.718316+00:00"
+  },
+  {
+    "id": "ba7c9e28dc00c612",
+    "title": "Simi Valley Brush Fire Burns Structures & Triggers Evacuations",
+    "description": "UPDATE 1:55 PM: The Sandy Fire brush fire in Simi Valley, California, has now expanded to over 500 acres, according to local media reports. Over 200 firefighters are on the scene, “being supported by three air tankers and six helicopters conducting aggressive aerial suppression operations in coordination with ground crews,” the Ventura County Fire Department […]",
+    "url": "https://deadline.com/2026/05/simi-valley-brush-fire-burns-structures-evacuations-1236914889/",
+    "image": "https://deadline.com/wp-content/uploads/2026/05/simi-valley-brush-fire.jpg",
+    "source": "Deadline",
+    "source_id": "src-104",
+    "category": "kultura",
+    "published_at": "2026-05-18T19:21:46+00:00",
+    "fetched_at": "2026-05-18T22:45:24.420545+00:00"
+  },
+  {
+    "id": "ed870a8bdcac04ee",
+    "title": "The Ebola Outbreak in Africa Was Declared a Global Health Emergency by the WHO. Here's What to Know About the Rare but Severe Illness",
+    "description": "The international health agency notes that the outbreak does not meet the criteria for a pandemic, and the U.S. Centers for Disease Control and Prevention says that the risk to the American public is low",
+    "url": "https://www.smithsonianmag.com/smart-news/the-ebola-outbreak-in-africa-was-declared-a-global-health-emergency-by-the-who-heres-what-to-know-about-the-rare-but-severe-illness-180988758/",
+    "image": "https://th-thumbnailer.cdn-si-edu.com/JcA6mvCAj8_PQVrvl1_Oc9_wUtw=/420x240/filters:focal(1800x1200:1801x1201)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a1/fc/a1fc3e5f-60ab-49ea-829b-aff455639026/ebola-outbreak2.jpg",
+    "source": "Smithsonian Magazine",
+    "source_id": "src-097",
+    "category": "kultura",
+    "published_at": "2026-05-18T19:16:20+00:00",
+    "fetched_at": "2026-05-18T22:45:22.752430+00:00"
   },
   {
     "id": "2c73a1589a7a10d9",
@@ -113,7 +863,7 @@
     "source_id": "src-103",
     "category": "kultura",
     "published_at": "2026-05-18T19:15:00+00:00",
-    "fetched_at": "2026-05-18T19:17:58.978448+00:00"
+    "fetched_at": "2026-05-18T22:45:24.278629+00:00"
   },
   {
     "id": "aab6cae08802a580",
@@ -125,7 +875,7 @@
     "source_id": "src-104",
     "category": "kultura",
     "published_at": "2026-05-18T19:08:03+00:00",
-    "fetched_at": "2026-05-18T19:18:00.243611+00:00"
+    "fetched_at": "2026-05-18T22:45:24.420625+00:00"
   },
   {
     "id": "95da99ce444dffce",
@@ -137,7 +887,7 @@
     "source_id": "src-091",
     "category": "kultura",
     "published_at": "2026-05-18T19:05:57+00:00",
-    "fetched_at": "2026-05-18T19:17:53.587502+00:00"
+    "fetched_at": "2026-05-18T22:45:20.718363+00:00"
   },
   {
     "id": "31d7a8102d8cb355",
@@ -189,15 +939,15 @@
   },
   {
     "id": "8f69a968e6940c3b",
-    "title": "John Chamberlain’s Former Studio Hosts a Star-Studded New Interview Series",
-    "description": "The artist's estate is launching the series, filmed on his beloved couches, on the eve of his centennial. The post John Chamberlain’s Former Studio Hosts a Star-Studded New Interview Series appeared first on Artnet News .",
+    "title": "John Chamberlain Estate Launches Star-Studded New Interview Series",
+    "description": "The series, filmed on the artist's beloved couches, is dropping on the eve of his centennial. The post John Chamberlain Estate Launches Star-Studded New Interview Series appeared first on Artnet News .",
     "url": "https://news.artnet.com/art-world/john-chamberlain-on-the-couch-series-2774186",
-    "image": "https://picsum.photos/seed/wv-news-df418de474f5/1200/750",
+    "image": "https://picsum.photos/seed/wv-news-565bda3db203/1200/750",
     "source": "Artnet News",
     "source_id": "src-094",
     "category": "kultura",
     "published_at": "2026-05-18T18:47:13+00:00",
-    "fetched_at": "2026-05-18T19:17:54.347033+00:00"
+    "fetched_at": "2026-05-18T22:45:21.455868+00:00"
   },
   {
     "id": "403eca6c2bbc47a8",
@@ -209,7 +959,7 @@
     "source_id": "src-097",
     "category": "kultura",
     "published_at": "2026-05-18T18:46:34+00:00",
-    "fetched_at": "2026-05-18T19:17:55.652022+00:00"
+    "fetched_at": "2026-05-18T22:45:22.752490+00:00"
   },
   {
     "id": "a11233bad68b65f3",
@@ -221,7 +971,7 @@
     "source_id": "src-094",
     "category": "kultura",
     "published_at": "2026-05-18T18:45:40+00:00",
-    "fetched_at": "2026-05-18T19:17:54.347121+00:00"
+    "fetched_at": "2026-05-18T22:45:21.455933+00:00"
   },
   {
     "id": "efb9a26fe85694a7",
@@ -233,7 +983,7 @@
     "source_id": "src-095",
     "category": "kultura",
     "published_at": "2026-05-18T18:45:10+00:00",
-    "fetched_at": "2026-05-18T19:17:54.641808+00:00"
+    "fetched_at": "2026-05-18T22:45:21.694767+00:00"
   },
   {
     "id": "aba551255e5a6be8",
@@ -269,7 +1019,7 @@
     "source_id": "src-105",
     "category": "kultura",
     "published_at": "2026-05-18T18:26:03+00:00",
-    "fetched_at": "2026-05-18T19:18:00.613858+00:00"
+    "fetched_at": "2026-05-18T22:45:24.510748+00:00"
   },
   {
     "id": "074c4878d5964a0d",
@@ -293,7 +1043,7 @@
     "source_id": "src-097",
     "category": "kultura",
     "published_at": "2026-05-18T18:17:09+00:00",
-    "fetched_at": "2026-05-18T19:17:55.652089+00:00"
+    "fetched_at": "2026-05-18T22:45:22.752539+00:00"
   },
   {
     "id": "5a460a8f2129fcac",
@@ -317,7 +1067,7 @@
     "source_id": "src-094",
     "category": "kultura",
     "published_at": "2026-05-18T18:14:44+00:00",
-    "fetched_at": "2026-05-18T19:17:54.347220+00:00"
+    "fetched_at": "2026-05-18T22:45:21.455989+00:00"
   },
   {
     "id": "dbd830d1ed966e94",
@@ -449,7 +1199,7 @@
     "source_id": "src-091",
     "category": "kultura",
     "published_at": "2026-05-18T17:54:00+00:00",
-    "fetched_at": "2026-05-18T19:17:53.587573+00:00"
+    "fetched_at": "2026-05-18T22:45:20.718407+00:00"
   },
   {
     "id": "f9cad1b5b6336822",
@@ -509,7 +1259,7 @@
     "source_id": "src-091",
     "category": "kultura",
     "published_at": "2026-05-18T17:30:51+00:00",
-    "fetched_at": "2026-05-18T19:17:53.587632+00:00"
+    "fetched_at": "2026-05-18T22:45:20.718457+00:00"
   },
   {
     "id": "7857d8a51c5ae882",
@@ -617,241 +1367,7 @@
     "source_id": "src-097",
     "category": "kultura",
     "published_at": "2026-05-18T16:00:00+00:00",
-    "fetched_at": "2026-05-18T19:17:55.652167+00:00"
-  },
-  {
-    "id": "b000752361064d84",
-    "title": "Za jedne kontroverzan, za druge oslobađajuć: Bio je hrvatski kandidat za Oscara, napokon dolazi u kina",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/lijepa-vecer-lijep-dan-film/",
-    "image": "https://www.journal.hr/wp-content/uploads/2024/09/Lijepa-vecer-lijep-dan-4-768x321.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.528613+00:00",
-    "fetched_at": "2026-05-18T15:39:22.528614+00:00",
-    "html_source": true
-  },
-  {
-    "id": "22e3121dbe99355c",
-    "title": "Nova generacija na putu uspjeha: Ostvarenje mlade hrvatske filmašice gledamo u Cannesu",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/odbaceni-a-uspravni-film/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Left-Behind-Still-Standing-4-2-768x534.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.528488+00:00",
-    "fetched_at": "2026-05-18T15:39:22.528489+00:00",
-    "html_source": true
-  },
-  {
-    "id": "942fed2f058347d3",
-    "title": "Filmski maraton: Zendaya je jedna od najuzbudljivijih mladih glumica, a ovo su joj najbolje uloge",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/zendaya-filmski-maraton/",
-    "image": "https://www.journal.hr/wp-content/uploads/2024/10/Zendaya_imdb-4-768x405.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.528365+00:00",
-    "fetched_at": "2026-05-18T15:39:22.528366+00:00",
-    "html_source": true
-  },
-  {
-    "id": "db52a187020db77d",
-    "title": "Filmski maraton: 10 najboljih glazbenih biografskih filmova koje možete pogledati",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/glazbeni-biografski-filmovi-filmski-maraton/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/glazbeni-biografski-filmovi_imdb-4-768x640.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.528298+00:00",
-    "fetched_at": "2026-05-18T15:39:22.528299+00:00",
-    "html_source": true
-  },
-  {
-    "id": "f6d1d6784debce4e",
-    "title": "Filmski maraton: Povodom Vrag nosi Pradu 2, izdvajamo 19 najboljih izvedbi Meryl Streep",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/filmski-maraton-meryl-streep/",
-    "image": "https://www.journal.hr/wp-content/uploads/2023/06/Meryl-Streep_imdb-6-768x484.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.528228+00:00",
-    "fetched_at": "2026-05-18T15:39:22.528229+00:00",
-    "html_source": true
-  },
-  {
-    "id": "878708f0cc444159",
-    "title": "Filmski maraton: Prije nego što u kina stigne Odiseja, prisjećamo se najboljih uloga Matta Damona",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/matt-damon-filmski-maraton/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Matt-Damon_imdb-10-768x510.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.528159+00:00",
-    "fetched_at": "2026-05-18T15:39:22.528160+00:00",
-    "html_source": true
-  },
-  {
-    "id": "ceca6b8f3aeb3a38",
-    "title": "Film, kazalište i TV Ovaj film već je veliki kandidat za osvajanje Zlatne palme na Filmskom festivalu u Cannesu",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/fatherland-film/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Filmski-festival-u-Cannesu_imdb-6-768x576.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.528085+00:00",
-    "fetched_at": "2026-05-18T15:39:22.528087+00:00",
-    "html_source": true
-  },
-  {
-    "id": "77ea5e5ea747d710",
-    "title": "Film, kazalište i TV Pogledali smo: Druga sezona serije Beef kaotična je i sjajno odglumljena, ali nema čar koju smo očekivali",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/beef-pogledali-smo-drugu-sezonu/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Beef_imdb-2-768x432.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.527921+00:00",
-    "fetched_at": "2026-05-18T15:39:22.527922+00:00",
-    "html_source": true
-  },
-  {
-    "id": "484ef2c46f4846ba",
-    "title": "Film, kazalište i TV Vrag nosi Pradu 2 je sve što smo htjeli i ništa više. To je s jedne strane sjajno, a s druge razočaravajuće",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/vrag-nosi-pradu-2-pogledali-smo/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Vrag-nosi-Pradu-2_imdb-1-768x512.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.527846+00:00",
-    "fetched_at": "2026-05-18T15:39:22.527847+00:00",
-    "html_source": true
-  },
-  {
-    "id": "2378e074c22f4784",
-    "title": "Knjige Krhka dob je izazovno, uzbudljivo, na momente čak i jezivo djelo. O njemu piše Ilina Cenov",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/knjige/krhka-dob-ilina-cenov-procitali-smo/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/zena_pexels-yaroslav-shuraev-5978341-768x581.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.527768+00:00",
-    "fetched_at": "2026-05-18T15:39:22.527769+00:00",
-    "html_source": true
-  },
-  {
-    "id": "fb1c73aaa4e05412",
-    "title": "Film, kazalište i TV Hoće li ovo biti najveći flop na Cannesu? Ni francuske ikone nisu mogle spasiti ovaj film od pljuvanja kritičara",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/parallel-tales-film/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Parallel-Tales_profimedia-1099070130-550x367.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.527689+00:00",
-    "fetched_at": "2026-05-18T15:39:22.527690+00:00",
-    "html_source": true
-  },
-  {
-    "id": "15d15fa804d7aefa",
-    "title": "Film, kazalište i TV Izdvojili smo 24 nadolazeća filma koja se očekuju ove godine, a o kojima će se najviše pričati",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/nadolazeci-filmovi-2026/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/01/Josephine_imdb-550x310.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.527593+00:00",
-    "fetched_at": "2026-05-18T15:39:22.527594+00:00",
-    "html_source": true
-  },
-  {
-    "id": "e744bfc876639c1a",
-    "title": "Film, kazalište i TV Još jedna velika izmjena čeka nas vezano uz novu sezonu serije Bridgerton. No, ova će se svima svidjeti",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/bridgerton-peta-sezona/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/02/Bridgerton_imdb-3-550x367.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.527488+00:00",
-    "fetched_at": "2026-05-18T15:39:22.527490+00:00",
-    "html_source": true
-  },
-  {
-    "id": "5e15aea31c7d04ef",
-    "title": "Film, kazalište i TV Šest nerazvikanih stranih serija na Netflixu koje možda niste pogledali, a trebali biste",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/strane-serije-netflix/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/strane-serije_imdb-2-550x367.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.527394+00:00",
-    "fetched_at": "2026-05-18T15:39:22.527395+00:00",
-    "html_source": true
-  },
-  {
-    "id": "da657d3af7b0e0a3",
-    "title": "Film, kazalište i TV Novi horor hit otkriva koja je razlika između ljubavi i opsesije. Jeste li ga već pogledali?",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/zaludenost-horor-film/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Zaludenost-1-768x513.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.527302+00:00",
-    "fetched_at": "2026-05-18T15:39:22.527303+00:00",
-    "html_source": true
-  },
-  {
-    "id": "f1d1a86a3f827a1c",
-    "title": "Film, kazalište i TV Sinoć je imao premijeru na Filmskom festivalu u Cannesu, a već ga nazivaju kultnim klasikom",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/hope-film/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Hope_profimedia-1099994214-1080x1620.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.527200+00:00",
-    "fetched_at": "2026-05-18T15:39:22.527202+00:00",
-    "html_source": true
-  },
-  {
-    "id": "6bafad1c479fae38",
-    "title": "Glazba Zovu ih vizionarima glazbene scene, a ovaj razgovor je to potvrdio. Empire Of The Sun uskoro na Šalati",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/glazba/empire-of-the-sun-luke-steele-intervju/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Empire-od-the-sun_imdb.jpeg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.527105+00:00",
-    "fetched_at": "2026-05-18T15:39:22.527107+00:00",
-    "html_source": true
-  },
-  {
-    "id": "bc71359995c2aaeb",
-    "title": "Umjetnost i dizajn Ivica Ivčević svojim fotografijama polako nas uvlači u ljetnu nostalgiju",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/umjetnost-i-dizajn/ivica-ivcevic-fotografija-intervju/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/jadrolinija3-1080x1440.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T15:39:22.526995+00:00",
-    "fetched_at": "2026-05-18T15:39:22.527009+00:00",
-    "html_source": true
+    "fetched_at": "2026-05-18T22:45:22.752584+00:00"
   },
   {
     "id": "0c6fb991d363bc69",
@@ -875,7 +1391,7 @@
     "source_id": "src-092",
     "category": "kultura",
     "published_at": "2026-05-18T15:34:17+00:00",
-    "fetched_at": "2026-05-18T19:17:53.761556+00:00"
+    "fetched_at": "2026-05-18T22:45:20.935098+00:00"
   },
   {
     "id": "088f8b93c3f5c253",
@@ -899,7 +1415,7 @@
     "source_id": "src-091",
     "category": "kultura",
     "published_at": "2026-05-18T15:30:47+00:00",
-    "fetched_at": "2026-05-18T19:17:53.587697+00:00"
+    "fetched_at": "2026-05-18T22:45:20.718509+00:00"
   },
   {
     "id": "4c9c84c46489c95d",
@@ -911,7 +1427,7 @@
     "source_id": "src-094",
     "category": "kultura",
     "published_at": "2026-05-18T15:26:11+00:00",
-    "fetched_at": "2026-05-18T19:17:54.347298+00:00"
+    "fetched_at": "2026-05-18T22:45:21.456050+00:00"
   },
   {
     "id": "b2d8a51171ac301d",
@@ -971,7 +1487,7 @@
     "source_id": "src-094",
     "category": "kultura",
     "published_at": "2026-05-18T15:10:54+00:00",
-    "fetched_at": "2026-05-18T19:17:54.347389+00:00"
+    "fetched_at": "2026-05-18T22:45:21.456138+00:00"
   },
   {
     "id": "3c20ccb1a1308fd6",
@@ -1011,7 +1527,7 @@
   },
   {
     "id": "2294739b5c7ffd95",
-    "title": "These Colorful Contemporary Artworks Just Joined the Hirshhorn Museum as the D.C. Landmark Celebrated Its 50th Anniversary",
+    "title": "These Colorful Contemporary Artworks Join the Hirshhorn Museum's Collection as the D.C. Landmark Continues to Celebrate Its 50th Anniversary",
     "description": "The museum is also preparing to reopen its redesigned sculpture garden, featuring new works from eight artists, this fall",
     "url": "https://www.smithsonianmag.com/smart-news/these-colorful-contemporary-artworks-just-joined-the-hirshhorn-museum-as-the-dc-landmark-celebrated-its-50th-anniversary-180988749/",
     "image": "https://th-thumbnailer.cdn-si-edu.com/NYQbn2raqietDF45rO_x1O-psWs=/420x240/filters:focal(1500x1114:1501x1115)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4f/d9/4fd96151-3ef3-4c0e-8e3e-69837df15e84/mickalene_thomas.jpg",
@@ -1019,7 +1535,7 @@
     "source_id": "src-097",
     "category": "kultura",
     "published_at": "2026-05-18T15:00:18+00:00",
-    "fetched_at": "2026-05-18T19:17:55.652227+00:00"
+    "fetched_at": "2026-05-18T22:45:22.752631+00:00"
   },
   {
     "id": "c2b8fc1f0c73daf2",
@@ -1187,7 +1703,7 @@
     "source_id": "src-095",
     "category": "kultura",
     "published_at": "2026-05-18T14:26:54+00:00",
-    "fetched_at": "2026-05-18T19:17:54.641923+00:00"
+    "fetched_at": "2026-05-18T22:45:21.694884+00:00"
   },
   {
     "id": "4e0781f9470652b2",
@@ -1247,7 +1763,7 @@
     "source_id": "src-097",
     "category": "kultura",
     "published_at": "2026-05-18T14:00:00+00:00",
-    "fetched_at": "2026-05-18T19:17:55.652283+00:00"
+    "fetched_at": "2026-05-18T22:45:22.752679+00:00"
   },
   {
     "id": "688c7ad5e48e556f",
@@ -1271,7 +1787,7 @@
     "source_id": "src-094",
     "category": "kultura",
     "published_at": "2026-05-18T13:37:06+00:00",
-    "fetched_at": "2026-05-18T19:17:54.347460+00:00"
+    "fetched_at": "2026-05-18T22:45:21.456195+00:00"
   },
   {
     "id": "55cfedf727394e6f",
@@ -1355,7 +1871,7 @@
     "source_id": "src-105",
     "category": "kultura",
     "published_at": "2026-05-18T13:00:00+00:00",
-    "fetched_at": "2026-05-18T19:18:00.613940+00:00"
+    "fetched_at": "2026-05-18T22:45:24.510824+00:00"
   },
   {
     "id": "5e22326dee1977cb",
@@ -1475,7 +1991,7 @@
     "source_id": "src-092",
     "category": "kultura",
     "published_at": "2026-05-18T12:52:57+00:00",
-    "fetched_at": "2026-05-18T19:17:53.761633+00:00"
+    "fetched_at": "2026-05-18T22:45:20.935153+00:00"
   },
   {
     "id": "191c3f95bcb0f2f1",
@@ -1535,7 +2051,7 @@
     "source_id": "src-092",
     "category": "kultura",
     "published_at": "2026-05-18T12:05:04+00:00",
-    "fetched_at": "2026-05-18T19:17:53.761724+00:00"
+    "fetched_at": "2026-05-18T22:45:20.935204+00:00"
   },
   {
     "id": "6c425bd6093c2851",
@@ -1559,7 +2075,7 @@
     "source_id": "src-097",
     "category": "kultura",
     "published_at": "2026-05-18T12:00:00+00:00",
-    "fetched_at": "2026-05-18T19:17:55.652340+00:00"
+    "fetched_at": "2026-05-18T22:45:22.752726+00:00"
   },
   {
     "id": "6bab100ea6e491dc",
@@ -1607,7 +2123,7 @@
     "source_id": "src-092",
     "category": "kultura",
     "published_at": "2026-05-18T11:27:58+00:00",
-    "fetched_at": "2026-05-18T19:17:53.761806+00:00"
+    "fetched_at": "2026-05-18T22:45:20.935271+00:00"
   },
   {
     "id": "96ec47b24c0efce5",
@@ -1655,7 +2171,7 @@
     "source_id": "src-092",
     "category": "kultura",
     "published_at": "2026-05-18T11:03:25+00:00",
-    "fetched_at": "2026-05-18T19:17:53.761866+00:00"
+    "fetched_at": "2026-05-18T22:45:20.935339+00:00"
   },
   {
     "id": "7b21975333be36ab",
@@ -1715,7 +2231,7 @@
     "source_id": "src-105",
     "category": "kultura",
     "published_at": "2026-05-18T10:05:00+00:00",
-    "fetched_at": "2026-05-18T19:18:00.614006+00:00"
+    "fetched_at": "2026-05-18T22:45:24.510881+00:00"
   },
   {
     "id": "61ed772af73f42e1",
@@ -1739,7 +2255,7 @@
     "source_id": "src-105",
     "category": "kultura",
     "published_at": "2026-05-18T10:03:00+00:00",
-    "fetched_at": "2026-05-18T19:18:00.614067+00:00"
+    "fetched_at": "2026-05-18T22:45:24.510937+00:00"
   },
   {
     "id": "a4b9a89abc69775e",
@@ -1751,7 +2267,7 @@
     "source_id": "src-092",
     "category": "kultura",
     "published_at": "2026-05-18T10:02:13+00:00",
-    "fetched_at": "2026-05-18T19:17:53.761925+00:00"
+    "fetched_at": "2026-05-18T22:45:20.935389+00:00"
   },
   {
     "id": "acb838c9b60478bb",
@@ -1763,7 +2279,7 @@
     "source_id": "src-105",
     "category": "kultura",
     "published_at": "2026-05-18T10:02:00+00:00",
-    "fetched_at": "2026-05-18T19:18:00.614156+00:00"
+    "fetched_at": "2026-05-18T22:45:24.511000+00:00"
   },
   {
     "id": "a2815957ddb92835",
@@ -1775,7 +2291,7 @@
     "source_id": "src-105",
     "category": "kultura",
     "published_at": "2026-05-18T10:01:00+00:00",
-    "fetched_at": "2026-05-18T19:18:00.614236+00:00"
+    "fetched_at": "2026-05-18T22:45:24.511056+00:00"
   },
   {
     "id": "d92bf3b83c921b88",
@@ -1799,7 +2315,7 @@
     "source_id": "src-091",
     "category": "kultura",
     "published_at": "2026-05-18T10:00:17+00:00",
-    "fetched_at": "2026-05-18T19:17:53.587757+00:00"
+    "fetched_at": "2026-05-18T22:45:20.718557+00:00"
   },
   {
     "id": "96cdf4db4193186c",
@@ -1811,7 +2327,7 @@
     "source_id": "src-105",
     "category": "kultura",
     "published_at": "2026-05-18T10:00:00+00:00",
-    "fetched_at": "2026-05-18T19:18:00.614296+00:00"
+    "fetched_at": "2026-05-18T22:45:24.511106+00:00"
   },
   {
     "id": "876e697a557cb921",
@@ -1908,7 +2424,7 @@
     "source_id": "src-096",
     "category": "kultura",
     "published_at": "2026-05-18T09:00:38+00:00",
-    "fetched_at": "2026-05-18T19:17:55.565662+00:00"
+    "fetched_at": "2026-05-18T22:45:22.576732+00:00"
   },
   {
     "id": "ffe03bd2790d2f93",
@@ -2005,7 +2521,7 @@
     "source_id": "src-099",
     "category": "kultura",
     "published_at": "2026-05-18T08:01:32+00:00",
-    "fetched_at": "2026-05-18T19:17:56.491299+00:00"
+    "fetched_at": "2026-05-18T22:45:23.648550+00:00"
   },
   {
     "id": "5424ca4aca736c7c",
@@ -2017,7 +2533,7 @@
     "source_id": "src-096",
     "category": "kultura",
     "published_at": "2026-05-18T08:00:50+00:00",
-    "fetched_at": "2026-05-18T19:17:55.565766+00:00"
+    "fetched_at": "2026-05-18T22:45:22.576833+00:00"
   },
   {
     "id": "5157d8b1d254f536",
@@ -2509,7 +3025,7 @@
     "source_id": "src-099",
     "category": "kultura",
     "published_at": "2026-05-18T02:28:38+00:00",
-    "fetched_at": "2026-05-18T19:17:56.491366+00:00"
+    "fetched_at": "2026-05-18T22:45:23.648615+00:00"
   },
   {
     "id": "2c607f5562143e6e",
@@ -2533,7 +3049,7 @@
     "source_id": "src-099",
     "category": "kultura",
     "published_at": "2026-05-18T02:08:23+00:00",
-    "fetched_at": "2026-05-18T19:17:56.491425+00:00"
+    "fetched_at": "2026-05-18T22:45:23.648669+00:00"
   },
   {
     "id": "89404ad7c34ff49b",
@@ -2618,641 +3134,5 @@
     "category": "kultura",
     "published_at": "2026-05-18T01:07:33+00:00",
     "fetched_at": "2026-05-18T07:20:32.727471+00:00"
-  },
-  {
-    "id": "bd10698320927877",
-    "title": "Julianne Hough & Bruno Tonioli Reflect On Longevity Of ‘Dancing With The Stars’: “Everybody Was Saying, ‘This Is Never Gonna Work'”",
-    "description": "Dancing with the Stars may be a reality competition staple today, but that wasn’t always the case, as co-host Julianne Hough and judge Bruno Tonioli recall. In a recent interview with People at the 2026 Disney Upfront, Hough and Tonioli reflected on the pervasive doubt about whether the format would work. “I mean, this show […]",
-    "url": "https://deadline.com/2026/05/julianne-hough-bruno-tonioli-dwts-early-days-longevity-1236913952/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/dwts.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-18T00:08:57+00:00",
-    "fetched_at": "2026-05-18T07:11:35.687943+00:00"
-  },
-  {
-    "id": "e3aa60bf04c894a3",
-    "title": "Inside the 2026 Tony Nominees Event: Carrie Coon Calls for Universal Childcare, Brandon Uranowitz and Stephanie Hsu Want a Better Broadway",
-    "description": "There is one day every Tony Awards season when the campaigning quiets down. No one has won anything yet, no speeches have been delivered, and for a few hours the nominees simply get to celebrate being in the room together. At the annual Tony Awards nominees luncheon, Broadway’s biggest stars, breakthrough performers and veteran craftspeople […]",
-    "url": "https://variety.com/2026/legit/awards/tonys-nominees-luncheon-2026-carrie-coon-stephanie-hsu-1236751882/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/P106DHRS.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-18T00:00:35+00:00",
-    "fetched_at": "2026-05-18T05:50:01.788880+00:00"
-  },
-  {
-    "id": "ac0478af0e395d98",
-    "title": "‘Sheep in the Box’ Review: Kore-eda’s Sweet but Limp Sci-Fi Fable About a 7-Year-Old AI Humanoid",
-    "description": "or all the fantasy simplicity of the premise, there’s no structure to it, and though the humanoid Kakeru increases in agency and brains as the movie goes on, it still never figures out who he is.",
-    "url": "https://variety.com/2026/film/reviews/sheep-in-the-box-review-hirokazu-kore-eda-1236751690/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/★SHEEP-IN-THE-BOX-1_Main.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T23:44:29+00:00",
-    "fetched_at": "2026-05-18T05:50:01.788934+00:00"
-  },
-  {
-    "id": "d02c8da5b59cf5e0",
-    "title": "Cannes Audience Gives ‘Hope’ A 7-Minute Standing Ovation",
-    "description": "Filmmaker Na Hong-Jin’s in Competition sci-fi thriller Hope received a seven-minute standing ovation in Cannes this evening. Na praised the audience for staying with his two hour and forty minute epic alien thriller. During the premiere screening, at least three incredible action set-pieces drew exuberant applause. Had it ended 20 minutes earlier, the applause would’ve been […]",
-    "url": "https://deadline.com/2026/05/cannes-hope-movie-standing-ovation-1236913780/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/jin.png",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T22:39:27+00:00",
-    "fetched_at": "2026-05-18T06:57:09.431793+00:00"
-  },
-  {
-    "id": "379b5863d45a78ec",
-    "title": "‘Hope’ Review: It’s Aliens Vs. South Korean Villagers In Na Hong-Jin’s Wild, Nonstop-Action Genre Movie – Cannes Film Festival",
-    "description": "Much has been written about this year’s Cannes Film Festival being ignored by studios and crowd-pleasing blockbuster-type movies, in favor of the more familiar auteur-driven quieter films. Well, fasten your seat belts. Cannes just unveiled Hope, a sci-fi alien monster mash from South Korean director Na Hong-Jin that never lets up for a minute of […]",
-    "url": "https://deadline.com/2026/05/hope-review-aliens-vs-south-koreans-cannes-film-festival-1236913546/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/Hope_9fc57e.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T22:39:00+00:00",
-    "fetched_at": "2026-05-18T05:50:02.164580+00:00"
-  },
-  {
-    "id": "9d50941b02318810",
-    "title": "‘Hope’ Unleashes a Bats— Crazy Korean Monster Movie on Cannes and Earns 6-Minute Standing Ovation",
-    "description": "“Hope” — an extremely ambitious blockbuster hopeful about an alien invasion in a sleepy South Korean mountain town — jolted the Cannes Film Festival awake on Sunday night with a 6-minute ovation. Directed by Na Hong-jin, the big-budget epic combined a gritty survival story and an original sci-fi mythology — no one quite knew what […]",
-    "url": "https://variety.com/2026/film/festivals/michael-fassbender-alicia-vikander-cannes-ovation-hope-1236742469/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-2276755512.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T22:38:24+00:00",
-    "fetched_at": "2026-05-17T22:39:39.421434+00:00"
-  },
-  {
-    "id": "8bfdd93ae2e0cca1",
-    "title": "‘Hope’ Review: Na Hong-jin’s Overlong Creature Feature is a Guns-Blazing Riot of Bawdy Humor, Bad CGI and Brilliant Action",
-    "description": "For a whole decade since 2016’s extraordinarily uncanny horror-hybrid “The Wailing,” fans of Korean director Na Hong-jin have been peering anxiously at the horizon awaiting his next uncategorizable genre mash-up. More recently, like a bumbling local police chief removing his mirrored aviators to squint at an unidentifiable what-the-hell-is-that wreaking havoc in the distance, we’ve tracked […]",
-    "url": "https://variety.com/2026/film/reviews/hope-review-na-hong-jin-1236750496/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/Hope.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T22:10:00+00:00",
-    "fetched_at": "2026-05-17T22:39:39.421528+00:00"
-  },
-  {
-    "id": "aa635b27fb130d96",
-    "title": "Bob Odenkirk Reflects On Heart Attack During ‘Better Call Saul’ Filming: “I Was Gone, I Turned Gray”",
-    "description": "Bob Odenkirk recently reflected on his near-death heart attack that took place on the set of Better Call Saul. The two-time Emmy-winning writer/actor sat down with The Times U.K. while promoting the overseas release of action-comedy Normal when he opened up about the health incident, which took place amid the pandemic and filming the last […]",
-    "url": "https://deadline.com/2026/05/bob-odenkirk-reflects-on-heart-attack-better-call-saul-set-1236913835/",
-    "image": "https://deadline.com/wp-content/uploads/2023/04/bob-odenkirk-mcu.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T21:43:12+00:00",
-    "fetched_at": "2026-05-18T05:50:02.164636+00:00"
-  },
-  {
-    "id": "a03e1c1ece5b4275",
-    "title": "‘Mobile Suit Gundam Hathaway: The Sorcery Of Nymph Circe’ Pops As Long Running Franchise Powers On – Specialty Box Office",
-    "description": "The latest film in the long running and popular sci-fi Gundam franchise had a noteworthy debut with $810k on 894 screens. Mobile Suit Gundam Hathaway: The Sorcery Of Nymph Circe is the first in the series distributed directly in North America by its producer, Bandai Namco Filmworks, and further proof of how additive anime has […]",
-    "url": "https://deadline.com/2026/05/indie-film-box-office-new-mobile-suit-gundam-hathaway-anime-1236913679/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/image1_03c2ce.jpeg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T20:08:01+00:00",
-    "fetched_at": "2026-05-18T05:50:02.164693+00:00"
-  },
-  {
-    "id": "712ae7135bc0e099",
-    "title": "ACM Awards Producers on What to Expect Sunday Night: Shania’s First Country Hosting Gig, Show’s Return to Vegas, 17 Performances in 2½ Hours and Meeting the Ella Langley Moment",
-    "description": "Ella Langley has conquered not just the country world but the music world generally this year with her song “Choosin’ Texas.” But for the producers of the Academy of Country Music Awards, this year’s show is all about choosin’ Vegas. Certainly no fight is being picked with the Lone Star state, where the ACM Awards […]",
-    "url": "https://variety.com/2026/music/news/acm-awards-producers-shania-twain-ella-langley-preview-1236751769/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/Top-Nominated-9x16-1-e1779042402456.png",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T20:00:31+00:00",
-    "fetched_at": "2026-05-17T22:39:39.421606+00:00"
-  },
-  {
-    "id": "8ca5f17008501b62",
-    "title": "Maxime Saada Says Canal+ Will No Longer Work With Signatories Of “Time To Switch-Off Bolloré” Petition",
-    "description": "The gloves are off. Maxime Saada, Canal+ Chair and CEO, has hit back at an open letter launched on the opening night of the Cannes Film Festival sounding the alarm over tycoon Vincent Bolloré’s growing control of the French entertainment and media sectors. The petition titled “Time To Switch-Off Bolloré” was signed by 600 cinema professional […]",
-    "url": "https://deadline.com/2026/05/maxime-saada-canal-plus-signatories-boycott-petition-1236913758/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/MixCollage-17-May-2026-09-50-PM-3828.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T19:56:23+00:00",
-    "fetched_at": "2026-05-17T22:39:42.969475+00:00"
-  },
-  {
-    "id": "7a9acc687e439ea4",
-    "title": "‘A Girl’s Story’ Review: Judith Godrèche’s Assured Feature Debut Tells a Bitter Tale of Sexual Initiation in 1950s France",
-    "description": "The resemblance between Judith Godrèche and her daughter Tess Barthélemy — also the luminous lead of her mother’s debut feature “A Girl’s Life” — will be particularly powerful for anyone familiar with Godrèche’s teenage breakthrough role in the 1990 Jacques Doillon drama “The Disenchanted.” Watching the doe-eyed Barthélémy in this assured adaptation of Annie Ernaux’s […]",
-    "url": "https://variety.com/2026/film/reviews/a-girls-story-review-1236751784/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/201222.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T19:52:10+00:00",
-    "fetched_at": "2026-05-17T22:39:39.421678+00:00"
-  },
-  {
-    "id": "9f7c967423e10858",
-    "title": "Boots Riley Urges ‘I Love Boosters’ Audiences To See Film On Opening Weekend Or “It’s Game Over”",
-    "description": "Following its world premiere at SXSW, Boots Riley wants to give his surreal arthouse sophomore feature a chance at the box office. The I Love Boosters writer/director took to social media this weekend to chat with fans and urged “everyone go see this” on the May 22nd opening weekend in order to get it a […]",
-    "url": "https://deadline.com/2026/05/boots-riley-urges-see-i-love-boosters-opening-weekend-1236913690/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/MCDIILO_EC111.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T19:35:45+00:00",
-    "fetched_at": "2026-05-17T22:39:42.969545+00:00"
-  },
-  {
-    "id": "10c6fd97f6b05213",
-    "title": "Annette Bening on Going Head-to-Head With Beth and Rip on ‘Dutton Ranch,’ Perfecting That Accent and Wardrobe, and Bringing ‘Vulnerability and Desperation’ to Beulah",
-    "description": "“Dutton Ranch” is a high-profile “Yellowstone” spinoff, but Annette Bening, a new addition to Taylor Sheridan’s universe, has been stealing every scene she’s been in. Bening plays Beulah Jackson, a larger-than-life Texas businesswoman who owns and operates 10 Petal Ranch along with her family. But this matriarch isn’t afraid to make some tough decisions, and […]",
-    "url": "https://variety.com/2026/tv/features/dutton-ranch-annette-bening-beulah-wardrobe-accent-feuds-1236750443/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/RP_102_LS_0909_0085_RT.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T19:30:57+00:00",
-    "fetched_at": "2026-05-17T22:39:39.421765+00:00"
-  },
-  {
-    "id": "0e882be9e2e0cac5",
-    "title": "Sterling K. Brown Explains Why ‘Is God Is’ Role Appealed To Him: “I Love Seeing Black Women Win”",
-    "description": "With his sinister new role in Is God Is, Sterling K. Brown was eager to work with writer/director Aleshea Harris on her feature debut. The Oscar nominee, who plays the Monster in Harris’ thriller, explained that he was excited to work on the “incredibly creative” film from the Pulitzer-nominated playwright that lets Black women be […]",
-    "url": "https://deadline.com/2026/05/sterling-k-brown-is-god-is-love-seeing-black-women-win-1236913671/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/MCDISGO_MG013.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T19:12:05+00:00",
-    "fetched_at": "2026-05-17T22:39:42.969616+00:00"
-  },
-  {
-    "id": "426f8c84f6e9e385",
-    "title": "David Lean Documentary Gives Us A Heartbreaking Reason To Truly Hate Movie Critics; Find Out What They Did To One Of Our Greatest Directors – Cannes Film Festival",
-    "description": "At the Cannes Film Festival you expect to get into big arguments about the quality of the movies on view. It goes with the territory. Everyone has an opinion and most are not afraid to give one. That is fine. Among critics (and I hate that term), of which I am one for Deadline, I […]",
-    "url": "https://deadline.com/2026/05/david-lean-documentary-hate-movie-critics-cannes-festival-1236907479/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/DLS_M_66815_Alamy_P0BRAF_David-Lean.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T19:00:00+00:00",
-    "fetched_at": "2026-05-17T22:39:42.969683+00:00"
-  },
-  {
-    "id": "d1a70b749c809666",
-    "title": "‘Garance’ Receives Wild 12-Minute Standing Ovation At Cannes Premiere",
-    "description": "In what looks to be the longest – and certainly one of the most enthusiastic – standing ovations of the 2026 Cannes Film Festival, Jeanne Herry’s Garance received a wild 12-minutes of applause after the film ended. Co-stars Adèle Exarchopoulos, Sara Giraudeau and Mathilde Roehrich could be seen exchanging hugs and the plaudits continued. Competition […]",
-    "url": "https://deadline.com/2026/05/garance-cannes-wild-12-minute-standing-ovation-1236913673/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2276735327.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T18:55:04+00:00",
-    "fetched_at": "2026-05-17T22:39:42.969805+00:00"
-  },
-  {
-    "id": "b75688f974991c72",
-    "title": "‘Another Day’ Review: Adèle Exarchopoulos Gives an Understated and Deeply Lived-In Performance in Jeanne Herry’s Graceful Alcoholism Drama",
-    "description": "From Billy Wilder’s “The Lost Weekend” to the Sandra Bullock-starrer “28 Days” and beyond, cinema has a long tradition of substance abuse and recovery stories. There is something inherently cinematic and moving about a struggling person’s by-the-bootstraps journey to healing, with a lifetime’s worth of trials and tribulations. Just two years ago, Nora Fingscheidt’s tough […]",
-    "url": "https://variety.com/2026/film/reviews/another-day-review-1236751639/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/200936.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T18:52:28+00:00",
-    "fetched_at": "2026-05-17T22:39:39.421834+00:00"
-  },
-  {
-    "id": "95725723a99e2330",
-    "title": "YouTube & MK2 Execs Discuss Creators In The Traditional Film Ecosystem With Markiplier At The Inaugural Cannes Creators Summit",
-    "description": "“The ship has sailed,” film producer Serge Hayat explained this morning during the Marché du Film’s inaugural Creator Economy Summit. There is no longer a question, he continued, about whether content creators have a space in the film industry. They are here and have begun to change how films are made and can be distributed, […]",
-    "url": "https://deadline.com/2026/05/youtube-mk2-markiplier-cannes-creators-summit-2026-1236913633/",
-    "image": "https://deadline.com/wp-content/uploads/2023/04/Iron-Lung.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T18:15:57+00:00",
-    "fetched_at": "2026-05-17T22:39:42.969865+00:00"
-  },
-  {
-    "id": "3eba9255f271bce4",
-    "title": "ACMs 2026 Livestream: How to Watch the Country Music Awards Show Online for Free",
-    "description": "Shania Twain hosts and Lainey Wilson, Miranda Lambert, Kacey Musgraves and Little Big Town are among the performers for tonight’s Academy of Country Music Awards ceremony, taking place live from Las Vegas. As with previous years, the 2026 ACMs air live on Prime Video, Amazon’s subscriber-based streaming service. Viewers can sign into their Amazon Prime […]",
-    "url": "https://variety.com/2026/shopping/news/acm-awards-2026-livestream-watch-award-show-online-free-1236751730/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/watch-acm-awards-2026-online-free.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T18:02:52+00:00",
-    "fetched_at": "2026-05-17T22:39:39.421895+00:00"
-  },
-  {
-    "id": "9e9c4a3012e0f02f",
-    "title": "‘Dear England’ Creator James Graham’s Message To The National Soccer Team: Please Don’t Watch My Show",
-    "description": "Dear England creator James Graham is chasing big ratings for the BBC adaptation of his hit stage play, but there’s a handful of people who he’d be quite happy to give it a miss. Speaking at the launch of of Dear England in London and with the soccer World Cup on the horizon, Graham said […]",
-    "url": "https://deadline.com/2026/05/dear-england-james-grahams-gareth-southgate-bbc-fiennes-1236906077/",
-    "image": "https://deadline.com/wp-content/uploads/2025/12/1.-Joseph-Fiennes-as-Gareth-Southgate.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T18:00:00+00:00",
-    "fetched_at": "2026-05-17T22:39:42.969924+00:00"
-  },
-  {
-    "id": "b708164d49bd7985",
-    "title": "Barbra Streisand Will Not Attend Cannes Closing Ceremony To Accept Honorary Palme D’Or Due To Injury",
-    "description": "The legendary Barbra Streisand announced in a statement this afternoon that she will not be on hand Saturday to accept her honorary Palme d’or at the Cannes Closing Ceremony. The festival has indicated it will go forward with the tribute. Here is Streisand’s statement: On the advice of my doctors, as I continue recovering from […]",
-    "url": "https://deadline.com/2026/05/barbra-streisand-no-cannes-palme-dor-1236913628/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/streisand.png",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T17:54:40+00:00",
-    "fetched_at": "2026-05-17T22:39:42.969983+00:00"
-  },
-  {
-    "id": "4f0eecb1476a41dc",
-    "title": "Barbra Streisand Unable to Attend Cannes Closing Ceremony to Accept Honorary Palme d’Or After Knee Injury",
-    "description": "Barbra Streisand is unable to attend the Cannes Film Festival closing ceremony to accept her honorary Palme d’Or after suffering a knee injury. “On the advice of my doctors, as I continue recovering from a knee injury, I am sadly unable to attend the Festival de Cannes this year,” Streisand said in a statement on […]",
-    "url": "https://variety.com/2026/film/festivals/barbra-streisand-cant-attend-cannes-palme-dor-knee-injury-1236751729/",
-    "image": "https://variety.com/wp-content/uploads/2026/03/barbra.jpeg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T17:43:26+00:00",
-    "fetched_at": "2026-05-17T22:39:39.421959+00:00"
-  },
-  {
-    "id": "60bb8f1555ad491f",
-    "title": "Moby Joins Paris-Set Queer Comedy ‘Jim Queen’ Ahead Of Cannes Premiere",
-    "description": "EXCLUSIVE: Moby and Lindsay Hicks of Little Walnut have signed on as executive producers for Nicolas Athane and Marco Nguyen’s animated feature film Jim Queen, which is world premiering at Cannes this evening. Directed by Nicolas Athane and Marco Nguyen, Jim Queen was written by Athane with Simon Balteaux and Brice Chevillard. The film is produced by David Alric and Arthur Delabays. Arthur Cohen, […]",
-    "url": "https://deadline.com/2026/05/moby-joins-queer-comedy-jim-queen-ahead-of-cannes-premiere-1236913612/",
-    "image": "https://deadline.com/wp-content/uploads/2025/05/JIMQUEEN.png",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T17:41:42+00:00",
-    "fetched_at": "2026-05-17T22:11:31.084724+00:00"
-  },
-  {
-    "id": "18f6108959f80126",
-    "title": "Cate Blanchett Says, “MeToo Got Killed Very Quickly” And That “A Systemic Layer Of Abuse” Remains",
-    "description": "“MeToo got killed very quickly,” Cate Blanchett reportedly said during one of the festival’s Rendez-vous conversations today in Cannes. As a result, the Oscar-winner maintained, gender imbalance is still wildly present in the industry. “I’m still on film sets and I do the headcount every day, and it is still…there’s 10 women and there’s 75 men, […]",
-    "url": "https://deadline.com/2026/05/cate-blanchett-metoo-got-killed-very-quickly-1236913583/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2276702391.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T17:23:05+00:00",
-    "fetched_at": "2026-05-17T22:11:31.084789+00:00"
-  },
-  {
-    "id": "d7a3d3d2c3330e97",
-    "title": "Ryan Gosling Was Fired From ‘Lovely Bones’ After Gaining 60 Pounds. Peter Jackson Now Speaks Out: ‘Anytime We Recast an Actor, It’s Actually Our Fault’",
-    "description": "Peter Jackson is finally weighing in on Ryan Gosling’s infamous recasting in “The Lonely Bones,” the director’s 2009 adaptation of Alice Sebold’s novel. Gosling was originally cast as the father of Saoirse Ronan’s lead character, but revealed to THR in 2010 that he was fired from the movie after he gained 60 pounds for the role without […]",
-    "url": "https://variety.com/2026/film/news/peter-jackson-fired-ryan-gosling-lovely-bones-weight-gain-1236751523/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/MixCollage-17-May-2026-08-40-AM-4977.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T17:06:48+00:00",
-    "fetched_at": "2026-05-17T22:39:39.422026+00:00"
-  },
-  {
-    "id": "49239d29209ed745",
-    "title": "Spencer Pratt Plans To Leave L.A. If He Loses Mayoral Bid: “I Will Be Done”",
-    "description": "As Spencer Pratt films his latest reality show about his bid for Los Angeles mayor, the stakes have never been higher. The Hills alum recently said he plans to leave LA altogether if he loses the June 2 primary or the Nov. 3 election, but if he wins, Pratt “will rebuild” after losing his home […]",
-    "url": "https://deadline.com/2026/05/spencer-pratt-plans-leave-la-if-loses-mayoral-bid-1236913593/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2265032253-e1779036865298.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T17:01:14+00:00",
-    "fetched_at": "2026-05-17T18:47:25.264529+00:00"
-  },
-  {
-    "id": "df3b0df4460c98f7",
-    "title": "The Oscars’ New Inclusion Rules Wouldn’t Disqualify Any Best Picture Nominee in History. So Why Is Elon Musk Melting Down Over ‘The Odyssey’?",
-    "description": "Andy Samberg answered this one for us back in 2020. Here’s the short version (because we’ve gone over this). Every best picture winner in the Academy’s 98-year history — from the silent-era film “Wings” in 1929 through the most recent political action epic “One Battle After Another” this past March — clears the Academy’s Representation […]",
-    "url": "https://variety.com/2026/film/awards/academy-diversity-standards-best-picture-elon-musk-odyssey-1236751219/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/Christopher-Nolan-Elon-Musk-Lupita-Nyongo.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T16:30:00+00:00",
-    "fetched_at": "2026-05-17T22:39:39.422091+00:00"
-  },
-  {
-    "id": "b6942f5faf273b7d",
-    "title": "‘Laalo’ Producers Soul Sutra Unveil 12-Film Gujarati Slate at Cannes Film Market, Eye Global Co-Productions (EXCLUSIVE)",
-    "description": "Indian production company Soul Sutra is presenting a 12-film Gujarati-language development and production slate at the Cannes Film Market this week. The banner is led by Indian National Film Award-winning actor-producer Manasi Parekh and singer-producer Parthiv Gohil, who co-produced “Laalo – Krishna Sada Sahaayate” – the Ankit Sakhiya-directed devotional drama that became the highest-grossing Gujarati-language […]",
-    "url": "https://variety.com/2026/film/markets-festivals/laalo-producers-soul-sutra-gujarati-slate-cannes-film-market-1236751687/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/Laalo-team.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T16:28:17+00:00",
-    "fetched_at": "2026-05-17T22:11:30.842623+00:00"
-  },
-  {
-    "id": "477477b562fc3241",
-    "title": "Happy 60th Birthday, ‘Pet Sounds’: Beach Boys Mike Love, Al Jardine and Bruce Johnston Recall the Making and Aftermath of One of Rock’s Greatest Albums",
-    "description": "Once upon a time, “Pet Sounds” seemed like the runt of the Beach Boys’ litter, at least on the record company ledger, if hardly by artistic reputation. But as the album turns 60 years old this weekend, it’s thought of less of a cult record, as it was considered for years or even decades after […]",
-    "url": "https://variety.com/2026/music/news/pet-sounds-beach-boys-60th-classic-album-interviews-1236751617/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/DSC_8368_qiZ4dllW_20260513033035.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T16:19:46+00:00",
-    "fetched_at": "2026-05-17T18:47:24.922729+00:00"
-  },
-  {
-    "id": "ba08b522f38c35fd",
-    "title": "French Tech Entrepreneur Adrien Nussenbaum Launches Palatio Films With Daniel Auteuil’s Cannes Movie ‘When Night Falls’",
-    "description": "Adrien Nussenbaum, the French tech entrepreneur who co-founded e-commerce powerhouse Mirakl, is stepping into the movie business with the launch of Palatio Films, a new production company making its Cannes debut with Daniel Auteuil’s WWII drama “When Night Falls.” Bowing at Cannes Premiere, the film marks a major career pivot for Nussenbaum, who recently stepped […]",
-    "url": "https://variety.com/2026/film/global/french-tech-adrien-nussenbaum-palatio-films-daniel-auteuil-1236751657/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/0N6A2741AdrienNussenbaum-PHOTO-RUDY-WAKS-PALATIO-FILMS.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T16:11:58+00:00",
-    "fetched_at": "2026-05-17T18:47:24.922800+00:00"
-  },
-  {
-    "id": "fbe92db445d98af0",
-    "title": "White House Posts Image Of Trump As Famously British 007 Amid James Bond Casting",
-    "description": "With the search officially underway for the next James Bond, it appears Donald Trump is trying to dust off what remains of his onscreen career. On Saturday, the White House reacted to news that casting director Nina Gold (The Force Awakens, Game of Thrones, The Crown) has begun auditions for the new 007, sharing an […]",
-    "url": "https://deadline.com/2026/05/white-house-posts-image-trump-007-amid-james-bond-casting-1236913556/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/Donald-Trump-James-Bond-2-shot.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T16:09:58+00:00",
-    "fetched_at": "2026-05-17T18:47:25.264598+00:00"
-  },
-  {
-    "id": "499fc5ca2f84362c",
-    "title": "‘Michael’ Surpasses $700 Million Globally, ‘Devil Wears Prada 2’ Nears $550 Million Milestone",
-    "description": "Can’t stop the King of Pop. “Michael,” a biopic about the musical icon, has cleared a major box office milestone with more than $700 million globally. Over the weekend, the film returned to No. 1 at the international box office with $57.7 million from 83 foreign markets. The crowd-pleaser — distributed by Universal internationally and […]",
-    "url": "https://variety.com/2026/film/box-office/michael-box-office-milestone-700-million-devil-wears-prada-2-1236751625/",
-    "image": "https://variety.com/wp-content/uploads/2026/04/maven-unit-240504-00234rc-crop3.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T16:09:44+00:00",
-    "fetched_at": "2026-05-17T18:47:24.922871+00:00"
-  },
-  {
-    "id": "4e9f7ce2b9af3be9",
-    "title": "Daniel Hong Thriller ‘Dead End’ Lands at EST N8 for Cannes Film Market Launch (EXCLUSIVE)",
-    "description": "International sales and financing outfit EST N8 has secured worldwide rights to “Dead End,” a Taiwanese action crime thriller from director Chan Chun-hao, and has launched the title to global buyers at the Cannes Film Market. The film centers on Lin Sheng-yi, a former baseball star whose career collapsed under a game-fixing scandal. Returning to […]",
-    "url": "https://variety.com/2026/film/markets-festivals/daniel-hong-thriller-dead-end-est-n8-cannes-1236751663/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/Dead-End.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T16:03:06+00:00",
-    "fetched_at": "2026-05-17T18:47:24.922943+00:00"
-  },
-  {
-    "id": "937d48d94adf2033",
-    "title": "Blood, Blasphemy and Boning: Ken Russell’s ‘The Devils’ Turns 55, and It’s Still the Freshest, Wildest Film at Cannes",
-    "description": "Typically, the Cannes Classics section is not one of the festival’s major noise-makers. Mostly comprising restorations of classic titles and new documentaries about film history, it is, for most attendees who don’t specifically work in repertory cinema, a place to take a breather, to dip into the pleasures of the old amid the whirling rush […]",
-    "url": "https://variety.com/2026/film/news/blood-blasphemy-and-boning-ken-russells-the-devils-turns-55-at-cannes-1236751045/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/1-KR71-CANNES-KEY-SET-FULL-FRAME.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T16:00:00+00:00",
-    "fetched_at": "2026-05-17T18:47:24.923015+00:00"
-  },
-  {
-    "id": "f348f540c13b080d",
-    "title": "No Message Could Have Been Any Clearer: ‘Michael’ No. 1 Around The Globe With $704M WW Cume; ‘Devil 2’ Va-Va-Vooms Past Half Billion – Global Box Office",
-    "description": "Refresh for more…No payola going on here, just pure ticket sales around the world. Michael remained atop the box office charts like it was a 1982 Billboard music chart, reclaiming No. 1 in his fourth frame with $83.8M ($26.1M U.S./$57.7M Int’l in 83 territories) for a running global cume of $703.8M ($282.7M U.S./$421M overseas). The […]",
-    "url": "https://deadline.com/2026/05/box-office-michael-devil-wears-prada-2-1236913316/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/Devil-Wears-Prada-2-Michael-2-shot.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T15:33:47+00:00",
-    "fetched_at": "2026-05-17T18:47:25.264673+00:00"
-  },
-  {
-    "id": "dfc55a7f7f81785a",
-    "title": "Five Wild Cannes Market Projects: From Boy-Love Horror-Romance ‘Paint You on My Bed Sheet’ to ‘Deathgasm II Goremageddon’",
-    "description": "There are some 4,000 films being sold at this year’s Cannes Marché du Film, the world’s leading film bazaar held in the depths of the Palais des Festivals where sellers from 140 countries are hawking their goods with colorful, often outrageous fliers and posters adorning the market’s roughly 300 stands. A stroll through its halls […]",
-    "url": "https://variety.com/2026/film/festivals/cannes-market-craziest-films-for-sale-boy-love-horror-paint-bed-sheet-to-deathgasm-1236751528/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/Canes-Market5.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T15:32:24+00:00",
-    "fetched_at": "2026-05-17T17:55:31.854857+00:00"
-  },
-  {
-    "id": "8599bc355c7e2400",
-    "title": "Cate Blanchett and Selena Gomez Set to Star in Brady Corbet’s New ‘X-Rated’ Epic",
-    "description": "Cate Blanchett and Selena Gomez are set to star in “The Brutalist” director Brady Corbet’s next film alongside Michael Fassbender. During a masterclass at Cannes Film Festival on Sunday, Blanchett let slip that she’s “about to work with Brady Corbet on a film.” Variety has confirmed that she has indeed been cast in the Oscar-nominated […]",
-    "url": "https://variety.com/2026/film/festivals/cate-blanchett-selena-gomez-brady-corbet-new-film-1236751573/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/cate-selena.png",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T15:27:03+00:00",
-    "fetched_at": "2026-05-17T17:32:34.240439+00:00"
-  },
-  {
-    "id": "f53e54b39fd011a5",
-    "title": "James Gray Gives Update On Scarlett Johansson’s Absence From ‘Paper Tiger’ Premiere In Cannes",
-    "description": "At a Cannes where some have grumbled about a paucity of studio movies (and thus stars), the absence of Scarlett Johansson at last night’s premiere of Paper Tiger was notable. During the movie’s rousing 10-minute standing ovation director James Gray tried to make a call to the actress, according to reports and social media videos. […]",
-    "url": "https://deadline.com/2026/05/scarlett-johnasson-missing-paper-tiger-movie-premiere-1236907906/",
-    "image": "https://deadline.com/wp-content/uploads/2025/05/GettyImages-2216112226-e1751237103322.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T15:21:17+00:00",
-    "fetched_at": "2026-05-17T18:47:25.264745+00:00"
-  },
-  {
-    "id": "bd3334fc262fb978",
-    "title": "Inside Netflix’s ‘Call My Agent The Movie’: George Clooney Cameo, Cannes Shoot and Andrea’s Big Comeback (EXCLUSIVE)",
-    "description": "Five years after the fourth and final season of the hit French series “Call My Agent!” won an International Emmy Award, the gang is back for a feature film that sends its beloved agent-turned-filmmaker Andréa Martel (Camille Cottin) into the south of France and straight into the chaos of a movie shoot gone off the […]",
-    "url": "https://variety.com/2026/film/global/call-my-agent-movie-george-clooney-cameo-cannes-netlix-1236750852/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/Redcarpet-cannes-TizianoDaSilva-@tiziano.raw_.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T15:19:32+00:00",
-    "fetched_at": "2026-05-17T16:27:43.416537+00:00"
-  },
-  {
-    "id": "968a53982cb0bb57",
-    "title": "‘Moulin’ Review: László Nemes Directs a Narratively Flat, Visually Arresting Spy Drama",
-    "description": "Perhaps it takes an outsider to approach a figure of national pride with cinematic honesty. In that vein, Hungarian maestro László Nemes is a perfect fit on paper for “Moulin,” a biographical film about Jean Moulin, a French Resistance fighter of considerable acclaim. However, in practice, the drama of this World War II spy saga […]",
-    "url": "https://variety.com/2026/film/news/moulin-review-1236751436/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/G75FOJT7HNGEVLHLFM5CHOM6MA.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T15:10:00+00:00",
-    "fetched_at": "2026-05-17T16:27:43.416610+00:00"
-  },
-  {
-    "id": "45ec8c765b6780cb",
-    "title": "The Book News We Covered This Week",
-    "description": "Five years of banned books data, the bestselling books of the week, Huntington Beach's $1 million censorship loss, and more",
-    "url": "https://bookriot.com/today-in-books-may-17-2026/",
-    "image": "https://picsum.photos/seed/wv-news-207674d9a555/1200/750",
-    "source": "Book Riot",
-    "source_id": "src-105",
-    "category": "kultura",
-    "published_at": "2026-05-17T15:00:00+00:00",
-    "fetched_at": "2026-05-18T19:18:00.614355+00:00"
-  },
-  {
-    "id": "e932ce75cdb51c57",
-    "title": "Maggie Kang On Why Paying Homage To Her Roots Was Important In Making ‘KPop Demon Hunters’: “I Wanted Every Part Of This Movie To Be Korean”",
-    "description": "If original IP is the golden ticket in the film industry, Maggie Kang has found it and taken it to unprecedented levels with the breakout success of her animated feature KPop Demon Hunters. Based on an original idea from Kang about a Korean girl band battling underworld invaders, it has not only become Netflix’s most […]",
-    "url": "https://deadline.com/2026/05/maggie-kang-interview-kpop-demon-hunters-1236882980/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/KPop-Demon-Hunters.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T15:00:00+00:00",
-    "fetched_at": "2026-05-17T18:47:25.264855+00:00"
-  },
-  {
-    "id": "05f72dccb6d82f72",
-    "title": "Jeanne Herry Talks Cannes Contender ‘Another Day’ Starring Adèle Exarchopoulos As Struggling Actress In Denial About Her Alcoholism: “She Is At The Top Of Her Game Right Now”",
-    "description": "French director Jeanne Herry hits the red carpet this evening in Cannes for the premiere of Another Day, starring Adèle Exarchopoulos as a jobbing actress navigating the instability of her profession, alcoholism, family tragedy and love. It is actress, director and screenwriter Herry’s fourth feature directorial credit after Elle L’ Adore (2014), In Safe Hands […]",
-    "url": "https://deadline.com/2026/05/jeanne-herry-cannes-another-day-adele-exarchopoulos-1236911900/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2153961584.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T14:59:50+00:00",
-    "fetched_at": "2026-05-17T18:47:25.264933+00:00"
-  },
-  {
-    "id": "000e2d4a149cc294",
-    "title": "Box Office: ‘Michael’ Returns to No. 1 in Fourth Weekend, ‘Obsession’ Starts Strong With $16 Million",
-    "description": "“Michael” has moonwalked back to No. 1 at the domestic box office, earning a strong $26 million in its fourth weekend of release. In a sign of its remarkable staying power, “Michael” towered over several more recent releases, such as “The Devil Wears Prada 2” and “Mortal Kombat II” as well as newcomers like the […]",
-    "url": "https://variety.com/2026/film/box-office/box-office-michael-reclaims-first-place-obsession-starts-strong-1236751550/",
-    "image": "https://variety.com/wp-content/uploads/2026/04/maven-trailer-grab-00001r2.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T14:42:57+00:00",
-    "fetched_at": "2026-05-17T16:27:43.416716+00:00"
-  },
-  {
-    "id": "15665a249d61abe6",
-    "title": "‘Michael’ King Of Box Office With $26M U.S., $83M WW; ‘Obsession’ Romances $16M+ & ‘A-‘ CinemaScore – Sunday AM Box Office Update",
-    "description": "SUNDAY AM: Michael remain not only the King of Pop but the King of the B.O. with $26.1M, and he won the world over as well with a global fourth frame of $83.8M. The global running cume for the Graham King produced movie keeps making a run at his previous 4x Oscar winning hit, Bohemian […]",
-    "url": "https://deadline.com/2026/05/box-office-obsession-michael-devil-wears-prada-2-1236906122/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/Michael-The-Devil-Wears-Prada-2-Obsession.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T14:40:00+00:00",
-    "fetched_at": "2026-05-17T18:47:25.265006+00:00"
-  },
-  {
-    "id": "9383f31693d491d5",
-    "title": "‘Paper Tiger’: What The Critics Are Saying About James Gray’s Cannes Film With Adam Driver, Scarlett Johansson & Miles Teller",
-    "description": "James Gray’s sixth film at the Cannes Film Festival, Paper Tiger, drew a ten-minute standing ovation last night following its world premiere at the Grand Theatre Lumiere. The movie, starring Scarlett Johansson, Adam Driver and Miles Teller, follows two brothers who pursue the American Dream but get entangled in a dangerous Russian mafia scheme that terrorizes their family. Bonds […]",
-    "url": "https://deadline.com/2026/05/paper-tiger-what-the-critics-are-saying-reviews-james-gray-1236907899/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/Paper-Tiger-cannes.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T14:36:00+00:00",
-    "fetched_at": "2026-05-17T18:15:31.060110+00:00"
-  },
-  {
-    "id": "72b93eb7e8dac476",
-    "title": "‘All The President’s Men‘ At 50: Key Players Describe A Prescient Look At Today’s Dysfunctional Political Landscape",
-    "description": "In a special three-part series — including All the Presidents’ Men, Taxi Driver and Rocky — Deadline is looking back a half-century to 1976, an incredible year for movies. “We saw this movie as something that had a different level to it. It was monumental,” says All the President’s Men’s associate producer Michael Britton. “Most […]",
-    "url": "https://deadline.com/2026/05/all-the-presidents-men-robert-redford-dustin-hoffman-1236886200/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/Rocky.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T14:00:00+00:00",
-    "fetched_at": "2026-05-17T17:55:33.531489+00:00"
-  },
-  {
-    "id": "8ad3654081956b35",
-    "title": "Japan’s K2 Pictures Unveils $33M Fund & Slate Additions Including Takashi Miike’s Kabuki Documentary",
-    "description": "Japanese production and finance house K2 Pictures has announced the closing of its first film fund, through which it has raised $33M (JPY5BN), as well as new additions to its slate including Takashi Miike’s first documentary. At a press event in Cannes today, the company also said it has raised $67M in debt financing for […]",
-    "url": "https://deadline.com/2026/05/japan-k2-pictures-takashi-miike-shunji-iwai-hiroya-oku-1236907901/",
-    "image": "https://deadline.com/wp-content/uploads/2026/03/MixCollage-31-Mar-2026-11-50-AM-1860.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T13:45:00+00:00",
-    "fetched_at": "2026-05-17T17:32:34.380645+00:00"
-  },
-  {
-    "id": "0f4e15a945c1d165",
-    "title": "Cate Blanchett Says #MeToo ‘Got Killed Very Quickly’ and She’s Still on Movie Sets Where There’s ’10 Women and 75 Men’: ‘It Just Gets Boring’",
-    "description": "Cate Blanchett joined Cannes moderator Didier Allouch for a talk at the 2026 edition of the film festival and lamented how the #MeToo movement “got killed very quickly.” The two-time Oscar winner notably served as Cannes jury president in 2018 at the height of #MeToo and led a women’s march where she held hands with […]",
-    "url": "https://variety.com/2026/film/news/cate-blanchett-cannes-metoo-killed-quickly-1236751533/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-2276602620.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T13:28:35+00:00",
-    "fetched_at": "2026-05-17T14:50:00.404455+00:00"
-  },
-  {
-    "id": "8f2e5fbdadb90fb2",
-    "title": "Edinburgh Film Festival Director on 2026 Edition, Continuing ‘Expansion’ in Third Year Since Relaunch and Building a ‘Home for Independent Cinema’",
-    "description": "The Edinburgh International Film Festival this year celebrates both its 79th edition overall and its third edition since it went through a major relaunch in 2023. In just two years since it was resurrected, there’s been solid growth at the Scottish event, with the EIFF25 lineup including 43 new feature films — 18 of them world […]",
-    "url": "https://variety.com/2026/film/global/edinburgh-film-festival-boss-2026-edition-1236751511/",
-    "image": "https://variety.com/wp-content/uploads/2025/08/54675938401_f48359dde1_5k-1.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T13:14:41+00:00",
-    "fetched_at": "2026-05-17T14:50:00.404541+00:00"
-  },
-  {
-    "id": "452484a94b6853af",
-    "title": "Triple Threat: Natasha Lyonne, Sean Lennon & Evan Ross Launch Ariadne; ‘Vitruvian Scumbag’ Transhumanism Docuseries Inaugural Offering From Indie Studio",
-    "description": "EXCLUSIVE: A supergroup by any other name: Natasha Lyonne, Evan Ross and Sean Lennon have banded together to form indie studio Ariadne. Hitting the ground and the Croisette running, the first project from the new endeavor is transhumanism docuseries Vitruvian Scumbag, which started filming last month. With a moniker drawn from Greek mythology, the trio […]",
-    "url": "https://deadline.com/2026/05/natasha-lyonne-sean-lennon-evan-ross-ariadne-launch-1236907576/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/lennon-ross-lyonne-nyc-getty-1.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-17T13:06:00+00:00",
-    "fetched_at": "2026-05-17T17:32:34.380724+00:00"
-  },
-  {
-    "id": "1aa456f474bf2022",
-    "title": "Mel Brooks to Donate His Expansive Career Archive to National Comedy Center in New York",
-    "description": "Mel Brooks has donated his career archive of more than 150,000 documents and 5,000 photographs to the National Comedy Center in Jamestown, N.Y., the same nonprofit institution that holds the papers of Brooks’ longtime collaborator Carl Reiner. The archive includes Brooks’ earliest notes on comedy during his service in World War II through his years […]",
-    "url": "https://variety.com/2026/biz/news/mel-brooks-archive-donate-national-comedy-center-jamestown-1236751304/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-452276660-e1778978267794.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-17T13:05:00+00:00",
-    "fetched_at": "2026-05-17T14:50:00.404617+00:00"
   }
 ]
