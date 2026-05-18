@@ -54,7 +54,7 @@
   const fallback=document.getElementById('fallback');
   let pdfDoc=null,pageNo=1,scale=Math.max(.75,Math.min(1.25,window.innerWidth/680)),pdfUrl='';
   const setStatus=t=>status.textContent=t;
-  function rel(path){return '../'+String(path||'').replace(/^\.\.\//,'').replace(/^\//,'');}
+  function rel(path){return '../'+String(path||'').replace(/^\.\.\//,'').replace(/^\//,'').replace(/#/g,'%23');}
   async function render(){
     if(!pdfDoc) return;
     setStatus('Učitavanje stranice...');
