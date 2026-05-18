@@ -1,21 +1,22 @@
 {
-  "updated_at": "2026-05-18T06:51:04.237771+00:00",
+  "updated_at": "2026-05-18T06:58:31.203183+00:00",
   "sources": 194,
-  "ok_sources": 126,
-  "failed_sources": 54,
+  "ok_sources": 120,
+  "failed_sources": 60,
   "items_by_source": {
     "McKinsey Insights": 12,
+    "Symbol Quorum - lifestyle": 5,
+    "Symbol Quorum - gastronomija": 6,
+    "Symbol Quorum - poduzetništvo": 6,
+    "Symbol Quorum - kultura i umjetnost": 8,
+    "NBER Digest": 12,
+    "Hypebeast": 37,
     "Journal.hr - gastro": 12,
     "Journal.hr - interijeri": 12,
     "Journal.hr - kultura": 18,
     "Journal.hr - lifestyle": 10,
     "Journal.hr - ljepota": 18,
     "Journal.hr - moda": 18,
-    "Symbol Quorum - lifestyle": 5,
-    "Symbol Quorum - gastronomija": 6,
-    "Symbol Quorum - poduzetništvo": 6,
-    "Symbol Quorum - kultura i umjetnost": 8,
-    "NBER Digest": 12,
     "Decanter": 45,
     "Forbes Innovation": 53,
     "Investing.com Economic Indicators": 11,
@@ -25,7 +26,6 @@
     "Forbes Business": 81,
     "CleanTechnica": 13,
     "PV Magazine": 12,
-    "Hypebeast": 36,
     "Deadline": 66,
     "Hollywood Reporter": 10,
     "Wallpaper": 47,
@@ -135,42 +135,6 @@
     "Bloomberg Hrvatska - tržišta": 5
   },
   "feed_results": [
-    {
-      "id": "extra-journal-kultura",
-      "name": "Journal.hr - kultura",
-      "category": "kultura",
-      "url": "https://www.journal.hr/kultura/",
-      "kind": "html",
-      "count": 18,
-      "status": "ok"
-    },
-    {
-      "id": "extra-journal-lifestyle",
-      "name": "Journal.hr - lifestyle",
-      "category": "lifestyle",
-      "url": "https://www.journal.hr/lifestyle/",
-      "kind": "html",
-      "count": 18,
-      "status": "ok"
-    },
-    {
-      "id": "extra-journal-ljepota",
-      "name": "Journal.hr - ljepota",
-      "category": "lifestyle",
-      "url": "https://www.journal.hr/ljepota/",
-      "kind": "html",
-      "count": 18,
-      "status": "ok"
-    },
-    {
-      "id": "extra-journal-moda",
-      "name": "Journal.hr - moda",
-      "category": "lifestyle",
-      "url": "https://www.journal.hr/moda/",
-      "kind": "html",
-      "count": 18,
-      "status": "ok"
-    },
     {
       "id": "src-074",
       "name": "AWS News",
@@ -429,24 +393,6 @@
       "category": "nakit",
       "url": "https://www.jewellermagazine.com/rss/jeweller.xml",
       "kind": "rss",
-      "count": 12,
-      "status": "ok"
-    },
-    {
-      "id": "extra-journal-gastro",
-      "name": "Journal.hr - gastro",
-      "category": "hedonizam",
-      "url": "https://www.journal.hr/lifestyle/gastro/",
-      "kind": "html",
-      "count": 12,
-      "status": "ok"
-    },
-    {
-      "id": "extra-journal-interijeri",
-      "name": "Journal.hr - interijeri",
-      "category": "dizajn",
-      "url": "https://www.journal.hr/lifestyle/interijeri/",
-      "kind": "html",
       "count": 12,
       "status": "ok"
     },
@@ -1662,6 +1608,66 @@
       "status": "empty"
     },
     {
+      "id": "extra-journal-gastro",
+      "name": "Journal.hr - gastro",
+      "category": "hedonizam",
+      "url": "https://www.journal.hr/lifestyle/gastro/",
+      "kind": "html",
+      "count": 0,
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "extra-journal-interijeri",
+      "name": "Journal.hr - interijeri",
+      "category": "dizajn",
+      "url": "https://www.journal.hr/lifestyle/interijeri/",
+      "kind": "html",
+      "count": 0,
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "extra-journal-kultura",
+      "name": "Journal.hr - kultura",
+      "category": "kultura",
+      "url": "https://www.journal.hr/kultura/",
+      "kind": "html",
+      "count": 0,
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "extra-journal-lifestyle",
+      "name": "Journal.hr - lifestyle",
+      "category": "lifestyle",
+      "url": "https://www.journal.hr/lifestyle/",
+      "kind": "html",
+      "count": 0,
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "extra-journal-ljepota",
+      "name": "Journal.hr - ljepota",
+      "category": "lifestyle",
+      "url": "https://www.journal.hr/ljepota/",
+      "kind": "html",
+      "count": 0,
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "extra-journal-moda",
+      "name": "Journal.hr - moda",
+      "category": "lifestyle",
+      "url": "https://www.journal.hr/moda/",
+      "kind": "html",
+      "count": 0,
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
       "id": "src-009",
       "name": "Kellogg Insight",
       "category": "poslovanje",
@@ -1937,6 +1943,6 @@
     }
   ],
   "active_limit": 1660,
-  "archive_count": 669,
+  "archive_count": 670,
   "gallery_count": 500
 }
