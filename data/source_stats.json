@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-18T06:43:02.518404+00:00",
+  "updated_at": "2026-05-18T06:47:26.316163+00:00",
   "sources": 194,
   "ok_sources": 127,
-  "failed_sources": 53,
+  "failed_sources": 54,
   "items_by_source": {
     "McKinsey Insights": 12,
     "Journal.hr - gastro": 12,
@@ -16,17 +16,17 @@
     "Symbol Quorum - poduzetništvo": 6,
     "Symbol Quorum - kultura i umjetnost": 8,
     "NBER Digest": 12,
+    "Decanter": 45,
+    "Forbes Innovation": 53,
     "Investing.com Economic Indicators": 11,
     "The Register": 47,
     "Variety": 75,
     "Seeking Alpha Market News": 9,
-    "Decanter": 44,
+    "Forbes Business": 81,
     "CleanTechnica": 13,
     "PV Magazine": 12,
     "Hypebeast": 36,
-    "Forbes Innovation": 52,
     "Deadline": 66,
-    "Forbes Business": 79,
     "Hollywood Reporter": 10,
     "Wallpaper": 47,
     "OilPrice": 12,
@@ -1796,7 +1796,8 @@
       "url": "https://www.strategy-business.com/rss",
       "kind": "rss",
       "count": 0,
-      "status": "empty"
+      "status": "failed",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
     },
     {
       "id": "src-137",
@@ -1936,6 +1937,6 @@
     }
   ],
   "active_limit": 1660,
-  "archive_count": 665,
+  "archive_count": 669,
   "gallery_count": 500
 }
