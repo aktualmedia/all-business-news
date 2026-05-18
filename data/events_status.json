@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-18T11:01:02.491968+00:00",
+  "updated_at": "2026-05-18T11:33:23.148551+00:00",
   "sources": 69,
   "ok_sources": 13,
-  "events_count": 162,
+  "events_count": 163,
   "results": [
     {
       "id": "infozagreb-events",
@@ -232,7 +232,7 @@
       "city": "London",
       "type": "kazalište / West End",
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     {
       "id": "royal-opera-house",
@@ -271,9 +271,8 @@
       "country": "SAD",
       "city": "New York",
       "type": "kazalište / Broadway / premijere",
-      "status": "fallback",
-      "count": 1,
-      "error": "The read operation timed out"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "broadway-com",
@@ -596,9 +595,8 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "muzej / izložbe",
-      "status": "fallback",
-      "count": 1,
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "musee-orsay",
