@@ -2,7 +2,8 @@
   const BASE_KEYWORDS = [
     'WEB VIJESTI','All Business News','Aktual Media','Aktual Media d.o.o.','Nermin Sefić','Nermin Sefic','Nermin','Sefić','Sefic',
     'vijesti','agregator vijesti','objave','ekonomija','business','poduzetništvo','poslovanje','financije','tržišta','kapital',
-    'tehnologija','znanost','kultura','umjetnost','muzeji','galerije','umjetnici','film','dizajn','arhitektura','lifestyle','Symbol','Symbol galerija','digitalna izdanja'
+    'tehnologija','znanost','kultura','umjetnost','muzeji','galerije','umjetnici','film','dizajn','arhitektura','lifestyle','Symbol','Symbol galerija','digitalna izdanja',
+    'Bloomberg Hrvatska','Journal.hr','Symbol Quorum','hedonizam','satovi','nakit','pića'
   ];
   const PAGE = {
     home:['naslovnica','portal vijesti','Aktual Media vijesti'],
@@ -21,6 +22,7 @@
   function siteLink(path){ if(/^https?:|^mailto:|^viber:|^tel:/.test(path)) return path; return basePath()+String(path).replace(/^\/+/, ''); }
   function meta(sel, key, val, content){let el=document.head.querySelector(sel); if(!el){el=document.createElement('meta'); el.setAttribute(key,val); document.head.appendChild(el);} el.content=content;}
   function link(rel, href){let el=document.head.querySelector(`link[rel="${rel}"]`); if(!el){el=document.createElement('link'); el.rel=rel; document.head.appendChild(el);} el.href=href;}
+  function addJsonLd(id, obj){let s=document.head.querySelector(`script[data-jsonld-id="${id}"]`); if(!s){s=document.createElement('script'); s.type='application/ld+json'; s.dataset.jsonldId=id; document.head.appendChild(s);} s.textContent=JSON.stringify(obj);}
   function ensureNav(){
     document.querySelectorAll('.top-nav').forEach(nav=>{
       if(!nav.querySelector('a[href$="symbol-galerija/index.html"]') && !nav.querySelector('a[href="../symbol-galerija/index.html"]')){
@@ -64,20 +66,26 @@
     const title=document.title || h1;
     const desc='WEB VIJESTI / All Business News je agregator vijesti Aktual Media d.o.o. s poslovnim, ekonomskim, kulturnim, tehnološkim i autorskim objavama. Autor objava: Nermin Sefić.';
     const keywords=[...(PAGE[p]||[]),...BASE_KEYWORDS].filter((v,i,a)=>a.indexOf(v)===i).join(', ');
+    const url=canonical();
     meta('meta[name="description"]','name','description',desc);
     meta('meta[name="keywords"]','name','keywords',keywords);
     meta('meta[name="author"]','name','author','Nermin Sefić, Nermin Sefic, Aktual Media d.o.o.');
     meta('meta[name="publisher"]','name','publisher','Aktual Media d.o.o.');
-    meta('meta[name="robots"]','name','robots','index, follow, max-image-preview:large, max-snippet:-1');
+    meta('meta[name="robots"]','name','robots','index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1');
     meta('meta[property="og:title"]','property','og:title',title);
     meta('meta[property="og:description"]','property','og:description',desc);
     meta('meta[property="og:site_name"]','property','og:site_name','WEB VIJESTI / All Business News');
+    meta('meta[property="og:url"]','property','og:url',url);
+    meta('meta[property="og:type"]','property','og:type',p==='posts' ? 'article' : 'website');
     meta('meta[property="article:author"]','property','article:author','Nermin Sefić');
     meta('meta[name="twitter:title"]','name','twitter:title',title);
     meta('meta[name="twitter:description"]','name','twitter:description',desc);
-    link('canonical', canonical());
-    let s=document.head.querySelector('script[data-seo-json="1"]'); if(!s){s=document.createElement('script'); s.type='application/ld+json'; s.dataset.seoJson='1'; document.head.appendChild(s);} 
-    s.textContent=JSON.stringify({'@context':'https://schema.org','@type':'WebSite',name:h1,url:canonical(),inLanguage:'hr-HR',author:{'@type':'Person',name:'Nermin Sefić',alternateName:['Nermin Sefic','Nermin','Sefić','Sefic']},publisher:{'@type':'Organization',name:'Aktual Media d.o.o.'},keywords});
+    meta('meta[name="twitter:card"]','name','twitter:card','summary_large_image');
+    link('canonical', url);
+    link('manifest', siteLink('site.webmanifest'));
+    addJsonLd('website', {'@context':'https://schema.org','@type':'WebSite',name:'WEB VIJESTI / All Business News',url:siteLink(''),inLanguage:'hr-HR',publisher:{'@type':'Organization',name:'Aktual Media d.o.o.'},potentialAction:{'@type':'SearchAction',target:siteLink('vijesti/index.html')+'?q={search_term_string}','query-input':'required name=search_term_string'}});
+    addJsonLd('webpage', {'@context':'https://schema.org','@type':p==='posts'?'Article':'WebPage',headline:h1,name:title,description:desc,url,inLanguage:'hr-HR',isPartOf:{'@type':'WebSite',name:'WEB VIJESTI / All Business News',url:siteLink('')},author:{'@type':'Person',name:'Nermin Sefić',alternateName:['Nermin Sefic','Nermin','Sefić','Sefic']},publisher:{'@type':'Organization',name:'Aktual Media d.o.o.'},dateModified:new Date().toISOString(),keywords});
+    addJsonLd('breadcrumb', {'@context':'https://schema.org','@type':'BreadcrumbList',itemListElement:[{'@type':'ListItem',position:1,name:'HOME',item:siteLink('')},{'@type':'ListItem',position:2,name:h1,item:url}]});
   }
   document.readyState==='loading'?document.addEventListener('DOMContentLoaded',run):run();
 })();
