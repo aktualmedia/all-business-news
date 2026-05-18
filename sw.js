@@ -1,12 +1,14 @@
-const CACHE_NAME = 'web-vijesti-cache-v3';
+const CACHE_NAME = 'web-vijesti-cache-20260518-v8';
 const CORE_ASSETS = [
   '/all-business-news/',
   '/all-business-news/index.html',
   '/all-business-news/assets/style.css',
   '/all-business-news/assets/editorial-redesign.css',
+  '/all-business-news/assets/home-loader.js',
   '/all-business-news/assets/app.js',
   '/all-business-news/assets/seo-meta.js',
   '/all-business-news/assets/visitor-counter.js',
+  '/all-business-news/assets/performance.js',
   '/all-business-news/site.webmanifest'
 ];
 
@@ -27,8 +29,8 @@ self.addEventListener('fetch', event => {
   if(url.origin !== location.origin) return;
   if(!url.pathname.startsWith('/all-business-news/')) return;
 
-  if(url.pathname.endsWith('.json')) {
-    event.respondWith(fetch(req).then(res => {
+  if(url.pathname.endsWith('.json') || url.pathname.endsWith('/index.html') || url.pathname.endsWith('sw.js')) {
+    event.respondWith(fetch(req, {cache:'no-store'}).then(res => {
       const copy = res.clone();
       caches.open(CACHE_NAME).then(cache => cache.put(req, copy));
       return res;
