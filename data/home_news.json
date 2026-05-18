@@ -9,7 +9,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 13 May 2026",
-    "fetched_at": "2026-05-18T22:44:27.757226+00:00"
+    "fetched_at": "2026-05-18T23:47:19.656262+00:00"
   },
   {
     "id": "a4949db277709e71",
@@ -57,7 +57,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T22:44:27.756969+00:00"
+    "fetched_at": "2026-05-18T23:47:19.655981+00:00"
   },
   {
     "id": "e2fac71a9a137318",
@@ -69,7 +69,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T22:44:27.757018+00:00"
+    "fetched_at": "2026-05-18T23:47:19.656029+00:00"
   },
   {
     "id": "a8dbea1b4e140770",
@@ -81,7 +81,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T22:44:27.757076+00:00"
+    "fetched_at": "2026-05-18T23:47:19.656090+00:00"
   },
   {
     "id": "9c18e0c4b70616b1",
@@ -93,7 +93,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T22:44:27.757120+00:00"
+    "fetched_at": "2026-05-18T23:47:19.656136+00:00"
   },
   {
     "id": "2c10a0aaf1486a96",
@@ -105,7 +105,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T22:44:27.757166+00:00"
+    "fetched_at": "2026-05-18T23:47:19.656184+00:00"
   },
   {
     "id": "de5565fafd73c427",
@@ -117,7 +117,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-18T22:44:27.756612+00:00"
+    "fetched_at": "2026-05-18T23:47:19.655639+00:00"
   },
   {
     "id": "a98eee73d2e97e01",
@@ -129,7 +129,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-18T22:44:27.756699+00:00"
+    "fetched_at": "2026-05-18T23:47:19.655715+00:00"
   },
   {
     "id": "b17b2d7b43d45173",
@@ -141,7 +141,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-18T22:44:27.756761+00:00"
+    "fetched_at": "2026-05-18T23:47:19.655773+00:00"
   },
   {
     "id": "415368da854b2685",
@@ -153,7 +153,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-18T22:44:27.756810+00:00"
+    "fetched_at": "2026-05-18T23:47:19.655823+00:00"
   },
   {
     "id": "5e8b365c73bc0fa8",
@@ -165,7 +165,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-18T22:44:27.756867+00:00"
+    "fetched_at": "2026-05-18T23:47:19.655880+00:00"
   },
   {
     "id": "492451d320b59777",
@@ -177,7 +177,59 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-18T22:44:27.756913+00:00"
+    "fetched_at": "2026-05-18T23:47:19.655926+00:00"
+  },
+  {
+    "id": "0f74d2ed54eb872b",
+    "title": "Non-profit fintech Legacy aims to upend charitable giving",
+    "description": "UK-based fintech Legacy has launched a non-profit app designed to modernise how people give to charity, bringing together over 11,000 UK charities into a single interface.",
+    "url": "https://www.finextra.com/newsarticle/47769/non-profit-fintech-legacy-aims-to-upend-charitable-giving?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-fdef026f8e5e/1200/750",
+    "source": "Finextra",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-19T00:01:00+00:00",
+    "fetched_at": "2026-05-18T23:52:26.352614+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "5d1f53ba4403b767",
+    "title": "HSBC automates remortgages",
+    "description": "HSBC has adopted technology from LMS to automate remortgage applications, reducing friction by eliminating manual paperwork.",
+    "url": "https://www.finextra.com/newsarticle/47770/hsbc-automates-remortgages?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-63856a170c12/1200/750",
+    "source": "Finextra",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-19T00:01:00+00:00",
+    "fetched_at": "2026-05-18T23:52:26.352667+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "9f9ec1dab784f892",
+    "title": "RBA moves from experimentation to commercial realisation of tokenized asset markets",
+    "description": "The Reserve Bank of Australia (RBA) and the Digital Finance Cooperative Research Centre (DFCRC) have published a report detailing the findings of Project Acacia – a joint initiative examining the use of digital money and settlement infrastructure to support the development of wholesale tokenised asset markets.",
+    "url": "https://www.finextra.com/newsarticle/47771/rba-moves-from-experimentation-to-commercial-realisation-of-tokenized-asset-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-f2e7fd7f527e/1200/750",
+    "source": "Finextra",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-19T00:01:00+00:00",
+    "fetched_at": "2026-05-18T23:52:26.352728+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "e8a8af4064c56613",
+    "title": "Emerchantpay collaborates with Visa to offer instalment payments for UK merchants",
+    "description": "Global payment service provider and acquirer emerchantpay today announces the integration of Visa Instalments Services (VIS) into its payment platform, as part of its ongoing collaboration with Visa, a world leader in digital payments.",
+    "url": "https://www.finextra.com/pressarticle/109864/emerchantpay-collaborates-with-visa-to-offer-instalment-payments-for-uk-merchants?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-ce72303706ec/1200/750",
+    "source": "Finextra",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-19T00:01:00+00:00",
+    "fetched_at": "2026-05-18T23:52:26.353171+00:00",
+    "core_business_science_fill": true
   },
   {
     "id": "e9b147d805f457e9",
@@ -188,8 +240,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-18T22:48:44.158159+00:00",
-    "fetched_at": "2026-05-18T22:48:44.158161+00:00",
+    "published_at": "2026-05-18T23:52:44.736702+00:00",
+    "fetched_at": "2026-05-18T23:52:44.736704+00:00",
     "missing_core_fill": true
   },
   {
@@ -201,8 +253,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-18T22:48:44.158112+00:00",
-    "fetched_at": "2026-05-18T22:48:44.158114+00:00",
+    "published_at": "2026-05-18T23:52:44.736647+00:00",
+    "fetched_at": "2026-05-18T23:52:44.736649+00:00",
     "missing_core_fill": true
   },
   {
@@ -214,8 +266,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-18T22:48:44.158063+00:00",
-    "fetched_at": "2026-05-18T22:48:44.158065+00:00",
+    "published_at": "2026-05-18T23:52:44.736601+00:00",
+    "fetched_at": "2026-05-18T23:52:44.736603+00:00",
     "missing_core_fill": true
   },
   {
@@ -227,8 +279,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-18T22:48:44.158012+00:00",
-    "fetched_at": "2026-05-18T22:48:44.158014+00:00",
+    "published_at": "2026-05-18T23:52:44.736554+00:00",
+    "fetched_at": "2026-05-18T23:52:44.736556+00:00",
     "missing_core_fill": true
   },
   {
@@ -240,8 +292,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-18T22:48:44.157964+00:00",
-    "fetched_at": "2026-05-18T22:48:44.157966+00:00",
+    "published_at": "2026-05-18T23:52:44.736510+00:00",
+    "fetched_at": "2026-05-18T23:52:44.736512+00:00",
     "missing_core_fill": true
   },
   {
@@ -253,8 +305,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-18T22:48:44.157917+00:00",
-    "fetched_at": "2026-05-18T22:48:44.157919+00:00",
+    "published_at": "2026-05-18T23:52:44.736463+00:00",
+    "fetched_at": "2026-05-18T23:52:44.736465+00:00",
     "missing_core_fill": true
   },
   {
@@ -266,8 +318,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-18T22:48:44.157864+00:00",
-    "fetched_at": "2026-05-18T22:48:44.157866+00:00",
+    "published_at": "2026-05-18T23:52:44.736411+00:00",
+    "fetched_at": "2026-05-18T23:52:44.736413+00:00",
     "missing_core_fill": true
   },
   {
@@ -279,8 +331,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-18T22:48:44.157817+00:00",
-    "fetched_at": "2026-05-18T22:48:44.157819+00:00",
+    "published_at": "2026-05-18T23:52:44.736365+00:00",
+    "fetched_at": "2026-05-18T23:52:44.736368+00:00",
     "missing_core_fill": true
   },
   {
@@ -292,8 +344,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-18T22:48:44.157758+00:00",
-    "fetched_at": "2026-05-18T22:48:44.157761+00:00",
+    "published_at": "2026-05-18T23:52:44.736310+00:00",
+    "fetched_at": "2026-05-18T23:52:44.736312+00:00",
     "missing_core_fill": true
   },
   {
@@ -305,8 +357,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-18T22:48:44.157677+00:00",
-    "fetched_at": "2026-05-18T22:48:44.157690+00:00",
+    "published_at": "2026-05-18T23:52:44.736217+00:00",
+    "fetched_at": "2026-05-18T23:52:44.736231+00:00",
     "missing_core_fill": true
   },
   {
@@ -318,8 +370,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T22:48:38.035850+00:00",
-    "fetched_at": "2026-05-18T22:48:38.035852+00:00",
+    "published_at": "2026-05-18T23:52:36.022996+00:00",
+    "fetched_at": "2026-05-18T23:52:36.022998+00:00",
     "missing_core_fill": true
   },
   {
@@ -331,8 +383,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T22:48:38.035806+00:00",
-    "fetched_at": "2026-05-18T22:48:38.035808+00:00",
+    "published_at": "2026-05-18T23:52:36.022952+00:00",
+    "fetched_at": "2026-05-18T23:52:36.022954+00:00",
     "missing_core_fill": true
   },
   {
@@ -344,8 +396,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T22:48:38.035755+00:00",
-    "fetched_at": "2026-05-18T22:48:38.035757+00:00",
+    "published_at": "2026-05-18T23:52:36.022904+00:00",
+    "fetched_at": "2026-05-18T23:52:36.022906+00:00",
     "missing_core_fill": true
   },
   {
@@ -357,8 +409,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T22:48:38.035710+00:00",
-    "fetched_at": "2026-05-18T22:48:38.035712+00:00",
+    "published_at": "2026-05-18T23:52:36.022861+00:00",
+    "fetched_at": "2026-05-18T23:52:36.022863+00:00",
     "missing_core_fill": true
   },
   {
@@ -370,8 +422,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T22:48:38.035664+00:00",
-    "fetched_at": "2026-05-18T22:48:38.035666+00:00",
+    "published_at": "2026-05-18T23:52:36.022815+00:00",
+    "fetched_at": "2026-05-18T23:52:36.022817+00:00",
     "missing_core_fill": true
   },
   {
@@ -383,8 +435,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T22:48:38.035609+00:00",
-    "fetched_at": "2026-05-18T22:48:38.035611+00:00",
+    "published_at": "2026-05-18T23:52:36.022763+00:00",
+    "fetched_at": "2026-05-18T23:52:36.022765+00:00",
     "missing_core_fill": true
   },
   {
@@ -396,8 +448,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T22:48:38.035553+00:00",
-    "fetched_at": "2026-05-18T22:48:38.035555+00:00",
+    "published_at": "2026-05-18T23:52:36.022708+00:00",
+    "fetched_at": "2026-05-18T23:52:36.022710+00:00",
     "missing_core_fill": true
   },
   {
@@ -409,8 +461,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T22:48:38.035505+00:00",
-    "fetched_at": "2026-05-18T22:48:38.035507+00:00",
+    "published_at": "2026-05-18T23:52:36.022661+00:00",
+    "fetched_at": "2026-05-18T23:52:36.022663+00:00",
     "missing_core_fill": true
   },
   {
@@ -422,8 +474,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T22:48:38.035448+00:00",
-    "fetched_at": "2026-05-18T22:48:38.035451+00:00",
+    "published_at": "2026-05-18T23:52:36.022605+00:00",
+    "fetched_at": "2026-05-18T23:52:36.022607+00:00",
     "missing_core_fill": true
   },
   {
@@ -435,125 +487,138 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-18T22:48:38.035361+00:00",
-    "fetched_at": "2026-05-18T22:48:38.035378+00:00",
+    "published_at": "2026-05-18T23:52:36.022530+00:00",
+    "fetched_at": "2026-05-18T23:52:36.022542+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "bfca281b6dff31c5",
-    "title": "Profusa submits equity purchase notice to Ascent Partners under credit agreement",
+    "id": "6e0d0eb8679ef2f1",
+    "title": "60 Degrees Pharmaceuticals appoints Eric Francois to board of directors",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/sec-filings/profusa-submits-equity-purchase-notice-to-ascent-partners-under-credit-agreement-93CH-4697212",
-    "image": "https://picsum.photos/seed/wv-core-175b697b1055/1200/750",
+    "url": "https://www.investing.com/news/sec-filings/60-degrees-pharmaceuticals-appoints-eric-francois-to-board-of-directors-93CH-4697271",
+    "image": "https://picsum.photos/seed/wv-core-15de10781c13/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-18T22:48:30.383150+00:00",
-    "fetched_at": "2026-05-18T22:48:30.383152+00:00",
+    "published_at": "2026-05-18T23:52:25.807287+00:00",
+    "fetched_at": "2026-05-18T23:52:25.807289+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "dce377df044ae51a",
-    "title": "Form 144 ALARM.COM HOLDINGS For: 18 May",
+    "id": "32cb006d608bad0e",
+    "title": "Form 144 Figma For: 18 May",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/filings/form-144-alarmcom-holdings-for-18-may-93CH-4697213",
-    "image": "https://picsum.photos/seed/wv-core-9f298fad86ac/1200/750",
+    "url": "https://www.investing.com/news/filings/form-144-figma-for-18-may-93CH-4697272",
+    "image": "https://picsum.photos/seed/wv-core-91c3b1f0e6b4/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-18T22:48:30.383125+00:00",
-    "fetched_at": "2026-05-18T22:48:30.383127+00:00",
+    "published_at": "2026-05-18T23:52:25.807262+00:00",
+    "fetched_at": "2026-05-18T23:52:25.807264+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "0ee2d93c068066f6",
-    "title": "Form 144 CME GROUP INC. For: 18 May",
+    "id": "7c3ef4dbe894b65b",
+    "title": "Five dead, including two suspects, after shooting at San Diego mosque",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/filings/form-144-cme-group-inc-for-18-may-93CH-4697214",
-    "image": "https://picsum.photos/seed/wv-core-627f1e5ed00c/1200/750",
+    "url": "https://www.investing.com/news/world-news/mayor-reports-active-shooter-situation-at-islamic-center-of-san-diego-4696740",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H1IL_L.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-18T22:48:30.383102+00:00",
-    "fetched_at": "2026-05-18T22:48:30.383104+00:00",
+    "published_at": "2026-05-18T23:52:25.807225+00:00",
+    "fetched_at": "2026-05-18T23:52:25.807227+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "6d36e22d716c4202",
-    "title": "US crude futures fall over 2% as Trump says he holds off scheduled attack on Iran",
+    "id": "8cfa3f7c7ec88feb",
+    "title": "Old National Bancorp shareholders approve director slate and compensation matters",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/commodities-news/us-crude-futures-fall-over-2-as-trump-says-he-holds-off-scheduled-attack-on-iran-4697215",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H1JY_L.jpg",
+    "url": "https://www.investing.com/news/sec-filings/old-national-bancorp-shareholders-approve-director-slate-and-compensation-matters-93CH-4697274",
+    "image": "https://picsum.photos/seed/wv-core-6f58b3968461/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-18T22:48:30.383078+00:00",
-    "fetched_at": "2026-05-18T22:48:30.383080+00:00",
+    "published_at": "2026-05-18T23:52:25.807202+00:00",
+    "fetched_at": "2026-05-18T23:52:25.807204+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "3c0cd66c3886caf2",
-    "title": "Martine Rothblatt, United Therapeutics chairperson & CEO, sells $5.4m in stock",
+    "id": "f4c4037cb0605bbd",
+    "title": "RBA worried higher energy costs could quickly lift consumer prices",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-chairperson--ceo-sells-54m-in-stock-93CH-4697216",
-    "image": "https://picsum.photos/seed/wv-core-8490b0a778a4/1200/750",
+    "url": "https://www.investing.com/news/economy-news/rba-worried-higher-energy-costs-could-quickly-lift-consumer-prices-4697275",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H1LS_L.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-18T22:48:30.383051+00:00",
-    "fetched_at": "2026-05-18T22:48:30.383053+00:00",
+    "published_at": "2026-05-18T23:52:25.807175+00:00",
+    "fetched_at": "2026-05-18T23:52:25.807177+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "6f22e7d3f9d1c8e5",
-    "title": "EA entertainment president Laura Miele sells $501k in EA stock",
+    "id": "f2613ef797c863a7",
+    "title": "Actor Jon Voight met with Trump to advocate for Hollywood tax incentives",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/insider-trading-news/ea-entertainment-president-laura-miele-sells-501k-in-ea-stock-93CH-4697217",
-    "image": "https://i-invdn-com.investing.com/news/LYNXMPEA9R0ZD_M.jpg",
+    "url": "https://www.investing.com/news/general-news/actor-jon-voight-met-with-trump-to-advocate-for-hollywood-tax-incentives-4697252",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H1L1_L.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-18T22:48:30.383022+00:00",
-    "fetched_at": "2026-05-18T22:48:30.383024+00:00",
+    "published_at": "2026-05-18T23:52:25.807140+00:00",
+    "fetched_at": "2026-05-18T23:52:25.807142+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "c2fe07cbb8e09f51",
-    "title": "Edwards Lifesciences CVP Lippis sells $50,306 of common stock",
+    "id": "964fae02d0bdcfc6",
+    "title": "Form 144 Oceaneering International For: 18 May",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/insider-trading-news/edwards-lifesciences-cvp-lippis-sells-50306-of-common-stock-93CH-4697218",
-    "image": "https://picsum.photos/seed/wv-core-0cd9402f7d4a/1200/750",
+    "url": "https://www.investing.com/news/filings/form-144-oceaneering-international-for-18-may-93CH-4697276",
+    "image": "https://picsum.photos/seed/wv-core-d34f99f0787a/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-18T22:48:30.382996+00:00",
-    "fetched_at": "2026-05-18T22:48:30.382998+00:00",
+    "published_at": "2026-05-18T23:52:25.807114+00:00",
+    "fetched_at": "2026-05-18T23:52:25.807116+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "8d1830018cd329d9",
-    "title": "Form 144 UPWORK INC. For: 18 May",
+    "id": "e4333f9751f3388b",
+    "title": "Chord Energy EVP and COO Henke sells $186,257 in common stock",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/filings/form-144-upwork-inc-for-18-may-93CH-4697219",
-    "image": "https://picsum.photos/seed/wv-core-e4ec269bb10f/1200/750",
+    "url": "https://www.investing.com/news/insider-trading-news/chord-energy-evp-and-coo-henke-sells-186257-in-common-stock-93CH-4697277",
+    "image": "https://picsum.photos/seed/wv-core-25b046d4a616/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-18T22:48:30.382965+00:00",
-    "fetched_at": "2026-05-18T22:48:30.382968+00:00",
+    "published_at": "2026-05-18T23:52:25.807089+00:00",
+    "fetched_at": "2026-05-18T23:52:25.807091+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "ec9ee071b389e96b",
-    "title": "Dropbox CEO Andrew Houston sells $973,549 in stock",
+    "id": "dc08e3c6382f804a",
+    "title": "O’Reilly Automotive elects board members and approves executive compensation",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/insider-trading-news/dropbox-ceo-andrew-houston-sells-973549-in-stock-93CH-4697220",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "url": "https://www.investing.com/news/sec-filings/oreilly-automotive-elects-board-members-and-approves-executive-compensation-93CH-4697278",
+    "image": "https://picsum.photos/seed/wv-core-1bd12e08cc28/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-18T22:48:30.382915+00:00",
-    "fetched_at": "2026-05-18T22:48:30.382933+00:00",
+    "published_at": "2026-05-18T23:52:25.807058+00:00",
+    "fetched_at": "2026-05-18T23:52:25.807061+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "a8f2750feb119af3",
+    "title": "Valero Energy’s SWOT analysis: refining giant faces supply headwinds",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/swot-analysis/valero-energys-swot-analysis-refining-giant-faces-supply-headwinds-93CH-4697279",
+    "image": "https://picsum.photos/seed/wv-core-e922e1e29e25/1200/750",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-18T23:52:25.807006+00:00",
+    "fetched_at": "2026-05-18T23:52:25.807019+00:00",
     "core_business_science_fill": true
   },
   {
@@ -565,8 +630,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T22:46:12.412509+00:00",
-    "fetched_at": "2026-05-18T22:46:12.412511+00:00",
+    "published_at": "2026-05-18T23:49:35.421761+00:00",
+    "fetched_at": "2026-05-18T23:49:35.421763+00:00",
     "html_source": true
   },
   {
@@ -578,8 +643,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T22:46:12.412355+00:00",
-    "fetched_at": "2026-05-18T22:46:12.412358+00:00",
+    "published_at": "2026-05-18T23:49:35.421624+00:00",
+    "fetched_at": "2026-05-18T23:49:35.421627+00:00",
     "html_source": true
   },
   {
@@ -591,8 +656,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T22:46:12.412211+00:00",
-    "fetched_at": "2026-05-18T22:46:12.412212+00:00",
+    "published_at": "2026-05-18T23:49:35.421506+00:00",
+    "fetched_at": "2026-05-18T23:49:35.421508+00:00",
     "html_source": true
   },
   {
@@ -604,8 +669,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T22:46:12.412054+00:00",
-    "fetched_at": "2026-05-18T22:46:12.412056+00:00",
+    "published_at": "2026-05-18T23:49:35.421359+00:00",
+    "fetched_at": "2026-05-18T23:49:35.421361+00:00",
     "html_source": true
   },
   {
@@ -617,8 +682,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T22:46:12.411889+00:00",
-    "fetched_at": "2026-05-18T22:46:12.411890+00:00",
+    "published_at": "2026-05-18T23:49:35.421202+00:00",
+    "fetched_at": "2026-05-18T23:49:35.421204+00:00",
     "html_source": true
   },
   {
@@ -630,8 +695,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T22:46:12.411738+00:00",
-    "fetched_at": "2026-05-18T22:46:12.411740+00:00",
+    "published_at": "2026-05-18T23:49:35.421067+00:00",
+    "fetched_at": "2026-05-18T23:49:35.421069+00:00",
     "html_source": true
   },
   {
@@ -643,8 +708,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T22:46:12.411572+00:00",
-    "fetched_at": "2026-05-18T22:46:12.411574+00:00",
+    "published_at": "2026-05-18T23:49:35.420917+00:00",
+    "fetched_at": "2026-05-18T23:49:35.420919+00:00",
     "html_source": true
   },
   {
@@ -656,8 +721,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T22:46:12.411394+00:00",
-    "fetched_at": "2026-05-18T22:46:12.411397+00:00",
+    "published_at": "2026-05-18T23:49:35.420761+00:00",
+    "fetched_at": "2026-05-18T23:49:35.420763+00:00",
     "html_source": true
   },
   {
@@ -669,8 +734,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T22:46:12.411180+00:00",
-    "fetched_at": "2026-05-18T22:46:12.411182+00:00",
+    "published_at": "2026-05-18T23:49:35.420609+00:00",
+    "fetched_at": "2026-05-18T23:49:35.420611+00:00",
     "html_source": true
   },
   {
@@ -682,8 +747,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T22:46:12.410996+00:00",
-    "fetched_at": "2026-05-18T22:46:12.410998+00:00",
+    "published_at": "2026-05-18T23:49:35.420440+00:00",
+    "fetched_at": "2026-05-18T23:49:35.420442+00:00",
     "html_source": true
   },
   {
@@ -695,8 +760,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T22:46:12.410844+00:00",
-    "fetched_at": "2026-05-18T22:46:12.410846+00:00",
+    "published_at": "2026-05-18T23:49:35.420302+00:00",
+    "fetched_at": "2026-05-18T23:49:35.420305+00:00",
     "html_source": true
   },
   {
@@ -708,8 +773,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T22:46:12.410662+00:00",
-    "fetched_at": "2026-05-18T22:46:12.410678+00:00",
+    "published_at": "2026-05-18T23:49:35.420130+00:00",
+    "fetched_at": "2026-05-18T23:49:35.420143+00:00",
     "html_source": true
   },
   {
@@ -721,8 +786,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T22:46:12.160563+00:00",
-    "fetched_at": "2026-05-18T22:46:12.160565+00:00",
+    "published_at": "2026-05-18T23:49:34.744576+00:00",
+    "fetched_at": "2026-05-18T23:49:34.744579+00:00",
     "html_source": true
   },
   {
@@ -734,8 +799,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T22:46:12.160381+00:00",
-    "fetched_at": "2026-05-18T22:46:12.160383+00:00",
+    "published_at": "2026-05-18T23:49:34.744413+00:00",
+    "fetched_at": "2026-05-18T23:49:34.744416+00:00",
     "html_source": true
   },
   {
@@ -747,8 +812,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T22:46:12.160221+00:00",
-    "fetched_at": "2026-05-18T22:46:12.160223+00:00",
+    "published_at": "2026-05-18T23:49:34.744280+00:00",
+    "fetched_at": "2026-05-18T23:49:34.744282+00:00",
     "html_source": true
   },
   {
@@ -760,8 +825,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T22:46:12.160052+00:00",
-    "fetched_at": "2026-05-18T22:46:12.160054+00:00",
+    "published_at": "2026-05-18T23:49:34.744121+00:00",
+    "fetched_at": "2026-05-18T23:49:34.744123+00:00",
     "html_source": true
   },
   {
@@ -773,8 +838,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T22:46:12.159893+00:00",
-    "fetched_at": "2026-05-18T22:46:12.159895+00:00",
+    "published_at": "2026-05-18T23:49:34.743982+00:00",
+    "fetched_at": "2026-05-18T23:49:34.743984+00:00",
     "html_source": true
   },
   {
@@ -786,8 +851,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T22:46:12.159739+00:00",
-    "fetched_at": "2026-05-18T22:46:12.159742+00:00",
+    "published_at": "2026-05-18T23:49:34.743849+00:00",
+    "fetched_at": "2026-05-18T23:49:34.743852+00:00",
     "html_source": true
   },
   {
@@ -799,8 +864,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T22:46:12.159592+00:00",
-    "fetched_at": "2026-05-18T22:46:12.159594+00:00",
+    "published_at": "2026-05-18T23:49:34.743720+00:00",
+    "fetched_at": "2026-05-18T23:49:34.743722+00:00",
     "html_source": true
   },
   {
@@ -812,8 +877,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T22:46:12.159428+00:00",
-    "fetched_at": "2026-05-18T22:46:12.159430+00:00",
+    "published_at": "2026-05-18T23:49:34.743578+00:00",
+    "fetched_at": "2026-05-18T23:49:34.743581+00:00",
     "html_source": true
   },
   {
@@ -825,8 +890,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T22:46:12.159227+00:00",
-    "fetched_at": "2026-05-18T22:46:12.159230+00:00",
+    "published_at": "2026-05-18T23:49:34.743416+00:00",
+    "fetched_at": "2026-05-18T23:49:34.743418+00:00",
     "html_source": true
   },
   {
@@ -838,8 +903,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T22:46:12.159068+00:00",
-    "fetched_at": "2026-05-18T22:46:12.159070+00:00",
+    "published_at": "2026-05-18T23:49:34.743272+00:00",
+    "fetched_at": "2026-05-18T23:49:34.743275+00:00",
     "html_source": true
   },
   {
@@ -851,73 +916,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T22:46:12.158893+00:00",
-    "fetched_at": "2026-05-18T22:46:12.158895+00:00",
-    "html_source": true
-  },
-  {
-    "id": "bbc1c1f7c473d89c",
-    "title": "U regiji koju nazivaju skrivenim blagom Italije pronašli smo vilu čije uređenje očarava skladom starog i novog Ponedjeljak, 18. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/interijeri/villa-manodori-roncolo-1888/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Villa-Manodori_Simone-Furiosi-5-768x512.jpg",
-    "source": "Journal.hr - interijeri",
-    "source_id": "extra-journal-interijeri",
-    "category": "dizajn",
-    "published_at": "2026-05-18T22:46:12.158708+00:00",
-    "fetched_at": "2026-05-18T22:46:12.158725+00:00",
-    "html_source": true
-  },
-  {
-    "id": "b000752361064d84",
-    "title": "Za jedne kontroverzan, za druge oslobađajuć: Bio je hrvatski kandidat za Oscara, napokon dolazi u kina",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/lijepa-vecer-lijep-dan-film/",
-    "image": "https://www.journal.hr/wp-content/uploads/2024/09/Lijepa-vecer-lijep-dan-4-768x321.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T22:46:11.636480+00:00",
-    "fetched_at": "2026-05-18T22:46:11.636482+00:00",
-    "html_source": true
-  },
-  {
-    "id": "22e3121dbe99355c",
-    "title": "Nova generacija na putu uspjeha: Ostvarenje mlade hrvatske filmašice gledamo u Cannesu",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/odbaceni-a-uspravni-film/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Left-Behind-Still-Standing-4-2-768x534.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T22:46:11.636332+00:00",
-    "fetched_at": "2026-05-18T22:46:11.636335+00:00",
-    "html_source": true
-  },
-  {
-    "id": "942fed2f058347d3",
-    "title": "Filmski maraton: Zendaya je jedna od najuzbudljivijih mladih glumica, a ovo su joj najbolje uloge",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/zendaya-filmski-maraton/",
-    "image": "https://www.journal.hr/wp-content/uploads/2024/10/Zendaya_imdb-4-768x405.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T22:46:11.636162+00:00",
-    "fetched_at": "2026-05-18T22:46:11.636164+00:00",
-    "html_source": true
-  },
-  {
-    "id": "db52a187020db77d",
-    "title": "Filmski maraton: 10 najboljih glazbenih biografskih filmova koje možete pogledati",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/glazbeni-biografski-filmovi-filmski-maraton/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/glazbeni-biografski-filmovi_imdb-4-768x640.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T22:46:11.636077+00:00",
-    "fetched_at": "2026-05-18T22:46:11.636079+00:00",
+    "published_at": "2026-05-18T23:49:34.743096+00:00",
+    "fetched_at": "2026-05-18T23:49:34.743099+00:00",
     "html_source": true
   }
 ]
