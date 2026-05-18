@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-18T07:55:46.590446+00:00",
+  "updated_at": "2026-05-18T08:08:36.989512+00:00",
   "sources": 69,
   "ok_sources": 13,
-  "events_count": 172,
+  "events_count": 162,
   "results": [
     {
       "id": "infozagreb-events",
@@ -27,13 +27,12 @@
     {
       "id": "hnk-zagreb",
       "name": "HNK Zagreb",
-      "url": "https://www.hnk.hr/hr/program/",
+      "url": "https://www.hnk.hr/hr/raspored/",
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "kazalište / opera / balet",
-      "status": "fallback",
-      "count": 1,
-      "error": "HTTP Error 404: Not Found"
+      "status": "ok",
+      "count": 1
     },
     {
       "id": "kerempuh",
@@ -272,9 +271,8 @@
       "country": "SAD",
       "city": "New York",
       "type": "kazalište / Broadway / premijere",
-      "status": "fallback",
-      "count": 1,
-      "error": "The read operation timed out"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "broadway-com",
@@ -659,8 +657,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "ok",
-      "count": 10
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "uffizi",
