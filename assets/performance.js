@@ -1,9 +1,18 @@
 (() => {
   const repo = '/all-business-news/';
+  const BUILD = '20260518-hero-align-cache-v7';
   function registerSW(){
     if(!('serviceWorker' in navigator)) return;
     const base = location.pathname.includes(repo) ? repo : '/';
-    navigator.serviceWorker.register(base + 'sw.js', {scope: base}).catch(() => null);
+    navigator.serviceWorker.register(base + 'sw.js?v=' + BUILD, {scope: base}).then(reg => reg.update()).catch(() => null);
+  }
+  async function clearOldCaches(){
+    try{
+      if('caches' in window){
+        const keys = await caches.keys();
+        await Promise.all(keys.filter(k => !k.includes(BUILD)).map(k => caches.delete(k)));
+      }
+    }catch(e){}
   }
   function addResourceHints(){
     const origins = ['https://picsum.photos','https://i.ytimg.com','https://www.youtube-nocookie.com','https://ipwho.is','https://api.open-meteo.com'];
@@ -21,6 +30,39 @@
     }, {rootMargin:'300px'});
     els.forEach(el => io.observe(el));
   }
+  function syncHeroColumns(){
+    const hero = document.querySelector('.hero');
+    if(!hero) return;
+    const left = hero.children[0];
+    const right = hero.querySelector('aside') || hero.children[1];
+    if(!left || !right) return;
+    left.style.minHeight = '';
+    right.style.minHeight = '';
+    if(window.innerWidth <= 1040) return;
+    requestAnimationFrame(() => {
+      const target = Math.max(left.offsetHeight, right.offsetHeight);
+      left.style.minHeight = target + 'px';
+      right.style.minHeight = target + 'px';
+    });
+  }
+  function installHeroAlignStyles(){
+    if(document.getElementById('wvHeroAlignStyles')) return;
+    const s=document.createElement('style'); s.id='wvHeroAlignStyles';
+    s.textContent=`.hero{align-items:stretch!important}.hero>div:first-child{display:flex!important;flex-direction:column!important}.hero>aside{height:100%;display:flex!important;flex-direction:column!important}.hero>div:first-child #wvWeather{margin-top:auto!important}@media(max-width:1040px){.hero>div:first-child,.hero>aside{min-height:auto!important;height:auto!important}.hero>div:first-child #wvWeather{margin-top:22px!important}}`;
+    document.head.appendChild(s);
+  }
+  function watchHero(){
+    syncHeroColumns();
+    [150,400,900,1600,2600,4200].forEach(ms => setTimeout(syncHeroColumns, ms));
+    window.addEventListener('resize', syncHeroColumns, {passive:true});
+    if('MutationObserver' in window){
+      const hero=document.querySelector('.hero');
+      if(hero){
+        const mo=new MutationObserver(() => syncHeroColumns());
+        mo.observe(hero,{childList:true,subtree:true,attributes:true});
+      }
+    }
+  }
   function wIcon(code){
     if([0,1].includes(code)) return ['sun','Vedro'];
     if([2,3,45,48].includes(code)) return ['cloud','Oblačno'];
@@ -29,7 +71,6 @@
     if([82,95,96,99].includes(code)) return ['storm','Oluja'];
     return ['cloud','Vrijeme'];
   }
-  function localPath(path){ const base = location.pathname.includes(repo) ? repo : '/'; return base + String(path).replace(/^\/+/, ''); }
   function installWeatherStyles(){
     if(document.getElementById('wvWeatherStyles')) return;
     const s=document.createElement('style'); s.id='wvWeatherStyles';
@@ -66,9 +107,11 @@
       let html=''; for(let i=1;i<Math.min(5,(daily.time||[]).length);i++){ const [ic,ds]=wIcon(daily.weather_code?.[i]); html+=`<article class="wv-day"><span>${dayName(daily.time[i],g)}</span><div class="wv-anim small ${ic}"></div><small>${ds}</small><strong>${Math.round(daily.temperature_2m_max?.[i]||0)}° / ${Math.round(daily.temperature_2m_min?.[i]||0)}°</strong></article>`; }
       document.getElementById('wvWeatherDays').innerHTML=html;
       setInterval(()=>{ const el=document.getElementById('wvWeatherTime'); if(el) el.textContent=time(g); },30000);
+      syncHeroColumns();
     }catch(e){ document.getElementById('wvWeatherLoc').textContent='Vrijeme nije dostupno'; document.getElementById('wvWeatherText').textContent='Pokušaj ponovno kasnije.'; }
   }
   document.addEventListener('DOMContentLoaded', () => {
-    addResourceHints(); lazyBackgrounds(); initWeather(); setTimeout(registerSW, 1000);
+    clearOldCaches(); addResourceHints(); lazyBackgrounds(); installHeroAlignStyles(); initWeather(); watchHero(); setTimeout(registerSW, 1000);
   });
+  window.addEventListener('load', syncHeroColumns);
 })();
