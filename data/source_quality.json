@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-18T13:23:05.001845+00:00",
+  "updated_at": "2026-05-18T15:42:07.458576+00:00",
   "sources": 194,
-  "ok": 126,
-  "problem": 54,
+  "ok": 124,
+  "problem": 56,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -185,17 +185,6 @@
       "name": "Deadline",
       "category": "kultura",
       "url": "https://deadline.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-165",
-      "name": "Decanter",
-      "category": "pica",
-      "url": "https://www.decanter.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -467,17 +456,6 @@
       "error": ""
     },
     {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-139",
       "name": "NBER Digest",
       "category": "ekonomija",
@@ -691,17 +669,6 @@
       "name": "VinePair",
       "category": "pica",
       "url": "https://vinepair.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-112",
-      "name": "Wallpaper",
-      "category": "dizajn",
-      "url": "https://www.wallpaper.com/rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1138,6 +1105,17 @@
       "error": ""
     },
     {
+      "id": "src-079",
+      "name": "NASA Breaking News",
+      "category": "znanost",
+      "url": "https://www.nasa.gov/news-release/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-151",
       "name": "Packaging Gateway",
       "category": "trzista",
@@ -1292,6 +1270,17 @@
       "error": ""
     },
     {
+      "id": "src-124",
+      "name": "Highsnobiety",
+      "category": "lifestyle",
+      "url": "https://www.highsnobiety.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 9,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-025",
       "name": "Our World in Data",
       "category": "ekonomija",
@@ -1354,17 +1343,6 @@
       "status": "ok",
       "label": "radi",
       "count": 6,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-124",
-      "name": "Highsnobiety",
-      "category": "lifestyle",
-      "url": "https://www.highsnobiety.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 5,
       "score": 100,
       "error": ""
     },
@@ -1721,6 +1699,17 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
+      "id": "src-165",
+      "name": "Decanter",
+      "category": "pica",
+      "url": "https://www.decanter.com/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 503: Backend is unhealthy"
+    },
+    {
       "id": "src-120",
       "name": "Design Taxi",
       "category": "dizajn",
@@ -1919,15 +1908,15 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "id": "src-079",
-      "name": "NASA Breaking News",
-      "category": "znanost",
-      "url": "https://www.nasa.gov/news-release/feed/",
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
       "status": "failed",
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-034",
@@ -2115,6 +2104,17 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "src-112",
+      "name": "Wallpaper",
+      "category": "dizajn",
+      "url": "https://www.wallpaper.com/rss",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 503: Backend is unhealthy"
     },
     {
       "id": "src-017",

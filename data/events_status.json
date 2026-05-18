@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-18T13:21:46.421142+00:00",
+  "updated_at": "2026-05-18T15:40:47.625147+00:00",
   "sources": 69,
-  "ok_sources": 14,
-  "events_count": 173,
+  "ok_sources": 13,
+  "events_count": 165,
   "results": [
     {
       "id": "infozagreb-events",
@@ -128,7 +128,7 @@
       "city": "Zagreb",
       "type": "galerija / izložbe",
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     {
       "id": "tehnicki-muzej",
@@ -595,9 +595,8 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "muzej / izložbe",
-      "status": "fallback",
-      "count": 1,
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "musee-orsay",
@@ -658,8 +657,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "ok",
-      "count": 10
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "uffizi",
