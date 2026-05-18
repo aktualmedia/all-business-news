@@ -1,0 +1,66 @@
+[
+  {
+    "id": "hnk-zagreb",
+    "name": "HNK Zagreb",
+    "category": "kazalište",
+    "location": "Trg Republike Hrvatske 15, Zagreb",
+    "url": "https://www.hnk.hr/hr/program/",
+    "enabled": true
+  },
+  {
+    "id": "gavella",
+    "name": "Dramsko kazalište Gavella",
+    "category": "kazalište",
+    "location": "Frankopanska 10, Zagreb",
+    "url": "https://www.gavella.hr/hr/program/",
+    "enabled": true
+  },
+  {
+    "id": "kerempuh",
+    "name": "Satiričko kazalište Kerempuh",
+    "category": "kazalište",
+    "location": "Ilica 31, Zagreb",
+    "url": "https://kazalistekerempuh.hr/program/",
+    "enabled": true
+  },
+  {
+    "id": "zekaem",
+    "name": "Zagrebačko kazalište mladih / ZKM",
+    "category": "kazalište",
+    "location": "Teslina 7, Zagreb",
+    "url": "https://www.zekaem.hr/program/",
+    "enabled": true
+  },
+  {
+    "id": "komedija",
+    "name": "Kazalište Komedija",
+    "category": "kazalište",
+    "location": "Kaptol 9, Zagreb",
+    "url": "https://www.komedija.hr/www/repertoar/",
+    "enabled": true
+  },
+  {
+    "id": "teatar-exit",
+    "name": "Teatar Exit",
+    "category": "kazalište",
+    "location": "Ilica 208, Zagreb",
+    "url": "https://www.teatarexit.hr/program/",
+    "enabled": true
+  },
+  {
+    "id": "tresnja",
+    "name": "Kazalište Trešnja",
+    "category": "kazalište za djecu",
+    "location": "Mošćenička 1, Zagreb",
+    "url": "https://kazaliste-tresnja.hr/program/",
+    "enabled": true
+  },
+  {
+    "id": "zkl",
+    "name": "Zagrebačko kazalište lutaka",
+    "category": "kazalište za djecu",
+    "location": "Baruna Trenka 3, Zagreb",
+    "url": "https://zkl.hr/program/",
+    "enabled": true
+  }
+]
