@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-18T09:50:13.854751+00:00",
+  "updated_at": "2026-05-18T10:12:56.188436+00:00",
   "sources": 69,
-  "ok_sources": 13,
+  "ok_sources": 14,
   "events_count": 171,
   "results": [
     {
@@ -127,7 +127,7 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "galerija / izložbe",
-      "status": "program_link_only",
+      "status": "ok",
       "count": 1
     },
     {

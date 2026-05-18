@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-18T09:50:13.998163+00:00",
+  "updated_at": "2026-05-18T10:12:56.320433+00:00",
   "sources": 194,
-  "ok": 126,
-  "problem": 53,
+  "ok": 127,
+  "problem": 54,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -1116,6 +1116,17 @@
       "error": ""
     },
     {
+      "id": "src-098",
+      "name": "MuseumNext",
+      "category": "kultura",
+      "url": "https://www.museumnext.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-079",
       "name": "NASA Breaking News",
       "category": "znanost",
@@ -1424,17 +1435,6 @@
       "error": ""
     },
     {
-      "id": "src-115",
-      "name": "Dezeen Design",
-      "category": "dizajn",
-      "url": "https://www.dezeen.com/design/feed/",
-      "status": "empty",
-      "label": "prazan feed",
-      "count": 0,
-      "score": 55,
-      "error": ""
-    },
-    {
       "id": "src-119",
       "name": "Dezeen Interiors",
       "category": "dizajn",
@@ -1483,17 +1483,6 @@
       "name": "Kellogg Insight",
       "category": "poslovanje",
       "url": "https://insight.kellogg.northwestern.edu/feed",
-      "status": "empty",
-      "label": "prazan feed",
-      "count": 0,
-      "score": 55,
-      "error": ""
-    },
-    {
-      "id": "src-098",
-      "name": "MuseumNext",
-      "category": "kultura",
-      "url": "https://www.museumnext.com/feed/",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -1752,6 +1741,17 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "src-115",
+      "name": "Dezeen Design",
+      "category": "dizajn",
+      "url": "https://www.dezeen.com/design/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "The read operation timed out"
     },
     {
       "id": "src-132",
