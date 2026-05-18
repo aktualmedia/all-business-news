@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-18T13:17:50.503096+00:00",
+  "updated_at": "2026-05-18T13:23:05.001845+00:00",
   "sources": 194,
-  "ok": 125,
-  "problem": 55,
+  "ok": 126,
+  "problem": 54,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -207,6 +207,17 @@
       "name": "Design Milk",
       "category": "dizajn",
       "url": "https://design-milk.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-118",
+      "name": "DesignWanted",
+      "category": "dizajn",
+      "url": "https://designwanted.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -449,6 +460,17 @@
       "name": "MindBodyGreen",
       "category": "lifestyle",
       "url": "https://www.mindbodygreen.com/rss.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1116,17 +1138,6 @@
       "error": ""
     },
     {
-      "id": "src-079",
-      "name": "NASA Breaking News",
-      "category": "znanost",
-      "url": "https://www.nasa.gov/news-release/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-151",
       "name": "Packaging Gateway",
       "category": "trzista",
@@ -1732,17 +1743,6 @@
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "id": "src-118",
-      "name": "DesignWanted",
-      "category": "dizajn",
-      "url": "https://designwanted.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
-    },
-    {
       "id": "src-132",
       "name": "Dezeen Events",
       "category": "lifestyle",
@@ -1894,7 +1894,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 502: Bad Gateway"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "src-048",
@@ -1919,15 +1919,15 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
+      "id": "src-079",
+      "name": "NASA Breaking News",
+      "category": "znanost",
+      "url": "https://www.nasa.gov/news-release/feed/",
       "status": "failed",
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "id": "src-034",
