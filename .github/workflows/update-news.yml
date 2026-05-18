@@ -14,6 +14,10 @@ on:
       - ".github/workflows/update-news.yml"
       - "update_news.py"
       - "postprocess_news.py"
+      - "generate_seo.py"
+      - "assets/app.js"
+      - "assets/seo-meta.js"
+      - "index.html"
 
 permissions:
   contents: write
@@ -41,18 +45,19 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Azuriraj vijesti i galeriju
+      - name: Azuriraj vijesti galeriju i SEO
         run: |
           echo "START UPDATE: $(date -u)"
           python update_news.py || echo "update_news.py nije prosao do kraja, nastavljam postprocess"
           python postprocess_news.py
+          python generate_seo.py
           echo "END UPDATE: $(date -u)"
 
       - name: Spremi promjene
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/news.json data/archive.json data/category_news data/category_counts.json data/generated_at.json data/source_stats.json data/manual_gallery.json
-          git commit -m "Automatsko azuriranje vijesti i galerije" || echo "Nema promjena za commit"
+          git add data/news.json data/archive.json data/category_news data/category_counts.json data/generated_at.json data/source_stats.json data/manual_gallery.json data/seo_index.json sitemap.xml sitemap-news.xml urllist.txt site.webmanifest llms.txt robots.txt
+          git commit -m "Automatsko azuriranje vijesti galerije i SEO datoteka" || echo "Nema promjena za commit"
           git pull --rebase || true
           git push || true
