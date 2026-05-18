@@ -18,6 +18,9 @@ on:
       - "assets/app.js"
       - "assets/seo-meta.js"
       - "index.html"
+      - "objave/**"
+      - "autor/**"
+      - "data/ai_posts.json"
 
 permissions:
   contents: write
