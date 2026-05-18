@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T15:40:47.625147+00:00",
+  "updated_at": "2026-05-18T16:39:59.756053+00:00",
   "sources": 69,
   "ok_sources": 13,
   "events_count": 165,
@@ -333,8 +333,9 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "kazalište / premijere",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "<urlopen error timed out>"
     },
     {
       "id": "opera-paris",
