@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T07:39:40.479409+00:00",
+  "updated_at": "2026-05-18T07:47:35.771299+00:00",
   "sources": 194,
   "ok_sources": 126,
   "failed_sources": 54,
@@ -16,6 +16,7 @@
     "Symbol Quorum - poduzetništvo": 6,
     "Symbol Quorum - kultura i umjetnost": 8,
     "NBER Digest": 12,
+    "Variety": 78,
     "Hollywood Reporter": 13,
     "Deadline": 70,
     "Seeking Alpha Market News": 13,
@@ -26,7 +27,6 @@
     "Forbes Innovation": 56,
     "Monochrome Watches": 12,
     "OilPrice": 13,
-    "Variety": 77,
     "Decanter": 46,
     "The Register": 47,
     "CleanTechnica": 13,
@@ -1937,6 +1937,6 @@
     }
   ],
   "active_limit": 1660,
-  "archive_count": 718,
+  "archive_count": 723,
   "gallery_count": 500
 }

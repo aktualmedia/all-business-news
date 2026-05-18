@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-18T07:39:40.446953+00:00",
+  "updated_at": "2026-05-18T07:47:35.734194+00:00",
   "sources": 69,
-  "ok_sources": 12,
-  "events_count": 163,
+  "ok_sources": 11,
+  "events_count": 157,
   "results": [
     {
       "id": "infozagreb-events",
@@ -272,8 +272,9 @@
       "country": "SAD",
       "city": "New York",
       "type": "kazalište / Broadway / premijere",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "The read operation timed out"
     },
     {
       "id": "broadway-com",
@@ -565,8 +566,9 @@
       "country": "Ujedinjeno Kraljevstvo",
       "city": "London",
       "type": "galerija / izložbe",
-      "status": "ok",
-      "count": 7
+      "status": "fallback",
+      "count": 1,
+      "error": "HTTP Error 520: <none>"
     },
     {
       "id": "british-museum",
