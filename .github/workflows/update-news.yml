@@ -3,9 +3,7 @@ name: Update vijesti - rucno i automatski
 on:
   workflow_dispatch:
   schedule:
-    # Primarni satni update: svako puno vrijeme + 7 minuta
     - cron: "7 * * * *"
-    # Rezervni okidač: ako GitHub preskoči satni termin zbog opterećenja
     - cron: "37 * * * *"
   push:
     branches:
@@ -15,6 +13,7 @@ on:
       - "update_news.py"
       - "update_events.py"
       - "postprocess_news.py"
+      - "generate_home_data.py"
       - "generate_seo.py"
       - "assets/app.js"
       - "assets/seo-meta.js"
@@ -22,6 +21,10 @@ on:
       - "dogadjanja/**"
       - "objave/**"
       - "autor/**"
+      - "nermin-sefic/**"
+      - "aktual-media/**"
+      - "web-vijesti/**"
+      - "symbol-casopis/**"
       - "data/ai_posts.json"
       - "data/person.json"
       - "data/events_sources.json"
@@ -53,12 +56,13 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Azuriraj vijesti dogadjanja galeriju i SEO
+      - name: Azuriraj vijesti dogadjanja home podatke galeriju i SEO
         run: |
           echo "START UPDATE: $(date -u)"
           python update_news.py || echo "update_news.py nije prosao do kraja, nastavljam postprocess"
           python update_events.py || echo "update_events.py nije prosao do kraja, nastavljam dalje"
           python postprocess_news.py
+          python generate_home_data.py
           python generate_seo.py
           echo "END UPDATE: $(date -u)"
 
@@ -66,7 +70,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/news.json data/archive.json data/category_news data/category_counts.json data/generated_at.json data/source_stats.json data/manual_gallery.json data/events_calendar.json data/events_status.json data/manual_events.json data/seo_index.json sitemap.xml sitemap-news.xml sitemap-posts.xml sitemap-authors.xml sitemap-events.xml urllist.txt site.webmanifest llms.txt robots.txt
-          git commit -m "Automatsko azuriranje vijesti dogadjanja galerije i SEO datoteka" || echo "Nema promjena za commit"
+          git add data/news.json data/archive.json data/category_news data/category_counts.json data/generated_at.json data/source_stats.json data/source_quality.json data/manual_gallery.json data/events_calendar.json data/events_status.json data/manual_events.json data/home_news.json data/home_events.json data/home_symbol.json data/home_status.json data/seo_index.json sitemap.xml sitemap-news.xml sitemap-posts.xml sitemap-authors.xml sitemap-events.xml urllist.txt site.webmanifest llms.txt robots.txt
+          git commit -m "Automatsko azuriranje vijesti dogadjanja home podataka galerije i SEO datoteka" || echo "Nema promjena za commit"
           git pull --rebase || true
           git push || true
