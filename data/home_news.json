@@ -9,19 +9,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 13 May 2026",
-    "fetched_at": "2026-05-18T10:09:29.696738+00:00"
-  },
-  {
-    "id": "27c389a18212551b",
-    "title": "The AI assembly line: Strategic imperatives for CEOs",
-    "description": "AI has proven its potential, but value remains hard to scale. To turn experimentation into sustained performance, CEOs must reimagine their organizations.",
-    "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-ai-assembly-line-strategic-imperatives-for-ceos",
-    "image": "https://picsum.photos/seed/wv-news-b307f2bc0797/1200/750",
-    "source": "McKinsey Insights",
-    "source_id": "src-004",
-    "category": "poslovanje",
-    "published_at": "Wed, 13 May 2026",
-    "fetched_at": "2026-05-18T10:09:29.696770+00:00"
+    "fetched_at": "2026-05-18T10:57:25.654774+00:00"
   },
   {
     "id": "a4949db277709e71",
@@ -33,7 +21,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 13 May 2026",
-    "fetched_at": "2026-05-18T10:09:29.696811+00:00"
+    "fetched_at": "2026-05-18T10:57:25.654836+00:00"
+  },
+  {
+    "id": "27c389a18212551b",
+    "title": "The AI assembly line: Strategic imperatives for CEOs",
+    "description": "AI has proven its potential, but value remains hard to scale. To turn experimentation into sustained performance, CEOs must reimagine their organizations.",
+    "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-ai-assembly-line-strategic-imperatives-for-ceos",
+    "image": "https://picsum.photos/seed/wv-news-b307f2bc0797/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Wed, 13 May 2026",
+    "fetched_at": "2026-05-18T10:57:25.654886+00:00"
   },
   {
     "id": "29a44bc5a3cd29ef",
@@ -45,7 +45,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 13 May 2026",
-    "fetched_at": "2026-05-18T10:09:29.696851+00:00"
+    "fetched_at": "2026-05-18T10:57:25.654950+00:00"
   },
   {
     "id": "b4cea2ca3d77a858",
@@ -57,7 +57,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T10:09:29.696545+00:00"
+    "fetched_at": "2026-05-18T10:57:25.654481+00:00"
   },
   {
     "id": "e2fac71a9a137318",
@@ -69,7 +69,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T10:09:29.696582+00:00"
+    "fetched_at": "2026-05-18T10:57:25.654537+00:00"
   },
   {
     "id": "a8dbea1b4e140770",
@@ -81,7 +81,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T10:09:29.696625+00:00"
+    "fetched_at": "2026-05-18T10:57:25.654603+00:00"
   },
   {
     "id": "9c18e0c4b70616b1",
@@ -93,7 +93,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T10:09:29.696658+00:00"
+    "fetched_at": "2026-05-18T10:57:25.654655+00:00"
   },
   {
     "id": "2c10a0aaf1486a96",
@@ -105,7 +105,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T10:09:29.696691+00:00"
+    "fetched_at": "2026-05-18T10:57:25.654706+00:00"
   },
   {
     "id": "415368da854b2685",
@@ -117,7 +117,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-18T10:09:29.696382+00:00"
+    "fetched_at": "2026-05-18T10:57:25.654272+00:00"
   },
   {
     "id": "5e8b365c73bc0fa8",
@@ -129,7 +129,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-18T10:09:29.696458+00:00"
+    "fetched_at": "2026-05-18T10:57:25.654358+00:00"
   },
   {
     "id": "492451d320b59777",
@@ -141,31 +141,150 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-18T10:09:29.696499+00:00"
+    "fetched_at": "2026-05-18T10:57:25.654416+00:00"
   },
   {
-    "id": "05f24a279ff19ef6",
-    "title": "UK regulators warn of new threats from frontier AI models",
-    "description": "The FCA, Bank of England and HM Treasury are warning banks to prepare for a new wave of powerful cyber attacks from AI-driven 'frontier' models.",
-    "url": "https://www.finextra.com/newsarticle/47768/uk-regulators-warn-of-new-threats-from-frontier-ai-models?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "image": "https://picsum.photos/seed/wv-news-16360e3d50c7/1200/750",
-    "source": "Finextra",
-    "source_id": "src-038",
-    "category": "financije",
-    "published_at": "2026-05-18T10:37:00+00:00",
-    "fetched_at": "2026-05-18T10:10:13.170471+00:00"
+    "id": "c599f33e61ecaaa7",
+    "title": "Where José Andrés Eats Spanish Food in Washington, D.C.",
+    "description": "In the latest episode of Let’s Do Lunch, celebrity chef José Andrés sits down for a bite at Spanish restaurant Casa Teresa in Washington, D.C. where he savors classic Catalonian dishes made by chef and owner Rubén García, who was mentored by Andrés. While he waits for his food, Andrés lists iconic D.C. chefs that made […]",
+    "url": "https://www.eater.com/dining-out/959215/jose-andres-washington-dc-casa-teresa",
+    "image": "https://picsum.photos/seed/wv-premium-35ba0d05a07e/1200/750",
+    "source": "Eater",
+    "source_id": "premium-hrana",
+    "category": "hrana",
+    "published_at": "2026-05-18T11:01:23.544794+00:00",
+    "fetched_at": "2026-05-18T11:01:23.544796+00:00",
+    "premium_category_fill": true
   },
   {
-    "id": "91add6c6105083c5",
-    "title": "OpenAI begins roll out of personal finance suite",
-    "description": "OpenAI has released a preview of a new integration with account aggregator Plaid that enables ChatGPT users to connect all of their accounts and ask questions ranging from spending analysis to future financial planning.",
-    "url": "https://www.finextra.com/newsarticle/47767/openai-begins-roll-out-of-personal-finance-suite?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "image": "https://picsum.photos/seed/wv-news-c33d1f10726a/1200/750",
-    "source": "Finextra",
-    "source_id": "src-038",
-    "category": "financije",
-    "published_at": "2026-05-18T10:19:00+00:00",
-    "fetched_at": "2026-05-18T10:10:13.170534+00:00"
+    "id": "b53e2618739eda4c",
+    "title": "Nyesha Arrington Eats Collard Green Lasagna with Issa Rae in Los Angeles",
+    "description": "In this episode of Plateworthy, host Nyesha Arrington returns to her hometown for the third and final stop on her California food tour. Her time in Los Angeles kicks off with pastries at Santa Canela in Highland Park. Pastry chef Ellen Ramos shows Arrington how she makes champurrado doughnuts with fresh masa, burnt-vanilla cream-stuffed conchas, […]",
+    "url": "https://www.eater.com/video/960181/where-nyesha-arrington-eats-in-los-angeles",
+    "image": "https://picsum.photos/seed/wv-premium-a372a23ca8da/1200/750",
+    "source": "Eater",
+    "source_id": "premium-hrana",
+    "category": "hrana",
+    "published_at": "2026-05-18T11:01:23.544736+00:00",
+    "fetched_at": "2026-05-18T11:01:23.544739+00:00",
+    "premium_category_fill": true
+  },
+  {
+    "id": "e9b147d805f457e9",
+    "title": "How I Built a Community Around My Bakery",
+    "description": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and interviews. Everyone needs a convenient, accessible place to socialize. But maintaining a cafe, bar, restaurant, or hybrid space that fits the bill has its challenges. In this three-part series, we’re partnering with Spectrum Business to put […]",
+    "url": "https://www.eater.com/pre-shift/960336/downtime-bakery-bakers-hang-philadelphia-pre-shift",
+    "image": "https://picsum.photos/seed/wv-premium-8ebf285610b4/1200/750",
+    "source": "Eater",
+    "source_id": "premium-hrana",
+    "category": "hrana",
+    "published_at": "2026-05-18T11:01:23.544682+00:00",
+    "fetched_at": "2026-05-18T11:01:23.544685+00:00",
+    "premium_category_fill": true
+  },
+  {
+    "id": "ddb82558a16d6a47",
+    "title": "Here Are the 2026 James Beard Awards Restaurant, Chef, and Media Award Finalists",
+    "description": "The James Beard Foundation has now announced all of its nominees for the 2026 James Beard Awards. The awards represent one of the highest honors in the restaurant industry, recognizing chefs and restaurants across the United States. In February, the foundation announced the winners of its America’s Classic Award, which honors six “independently owned restaurants […]",
+    "url": "https://www.eater.com/dining-out/951811/2026-james-beard-awards-restaurant-chef-finalists",
+    "image": "https://picsum.photos/seed/wv-premium-3a6f7d1070be/1200/750",
+    "source": "Eater",
+    "source_id": "premium-hrana",
+    "category": "hrana",
+    "published_at": "2026-05-18T11:01:23.544630+00:00",
+    "fetched_at": "2026-05-18T11:01:23.544632+00:00",
+    "premium_category_fill": true
+  },
+  {
+    "id": "d15b068c8b193835",
+    "title": "The Best Mother’s Day Gifts for a Discerning, Food-Loving Mom",
+    "description": "Before I was a trusted food writer, beloved journalist, and renowned recommender of gifts, I was a son. A son with a mother. So, as you can imagine, I take Mother’s Day very seriously. Surely, the woman who gave the world a gift as spectacular as, well, me deserves something pretty special in return. I […]",
+    "url": "https://www.eater.com/24420355/best-mothers-day-gifts-for-food-lovers",
+    "image": "https://picsum.photos/seed/wv-premium-29b6efdad4a7/1200/750",
+    "source": "Eater",
+    "source_id": "premium-hrana",
+    "category": "hrana",
+    "published_at": "2026-05-18T11:01:23.544574+00:00",
+    "fetched_at": "2026-05-18T11:01:23.544577+00:00",
+    "premium_category_fill": true
+  },
+  {
+    "id": "4388e4a0f33d9b0d",
+    "title": "Quince Sells Caviar and Wine Now. Is It Any Good?",
+    "description": "For years, Quince has been a website that I knew as “that place to get affordable cashmere sweaters.” But as its offerings have expanded further and further, from home goods and luggage to jewelry and perfume, it’s also become a source for diamonds, caviar, and even Dom Perignon. The site has been dabbling in gourmet […]",
+    "url": "https://www.eater.com/shopping/960397/quince-caviar-wine-coffee-review",
+    "image": "https://picsum.photos/seed/wv-premium-9fe339b1d7ac/1200/750",
+    "source": "Eater",
+    "source_id": "premium-hrana",
+    "category": "hrana",
+    "published_at": "2026-05-18T11:01:23.544517+00:00",
+    "fetched_at": "2026-05-18T11:01:23.544520+00:00",
+    "premium_category_fill": true
+  },
+  {
+    "id": "0bd41fc4d7bcdee0",
+    "title": "Why the Nordstrom Cafe Was the Ultimate Mother-Daughter Experience",
+    "description": "A version of this post originally appeared on May 6 in our newsletter Eater Today. Sign up here to receive stories like this in your inbox. Eating lunch and shopping are two of my mother’s favorite things — she reminded me as much by voice note when mentioned I was planning to write a piece about a […]",
+    "url": "https://www.eater.com/food-culture/960443/nordstrom-cafe-mother-daughter-nostalgia-tomato-soup-grilled-cheese",
+    "image": "https://picsum.photos/seed/wv-premium-52eee69aebb0/1200/750",
+    "source": "Eater",
+    "source_id": "premium-hrana",
+    "category": "hrana",
+    "published_at": "2026-05-18T11:01:23.544462+00:00",
+    "fetched_at": "2026-05-18T11:01:23.544465+00:00",
+    "premium_category_fill": true
+  },
+  {
+    "id": "4579de8db72152cf",
+    "title": "New York’s Buzziest New Restaurant Is a Pub",
+    "description": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and interviews. Now Open is a yearlong series celebrating some of 2026’s most exciting new restaurants. Throughout the year, we’ll check in with teams in Chicago, New York City, and Washington, D.C. to hear what it’s really […]",
+    "url": "https://www.eater.com/pre-shift/961028/deans-pub-new-york-pre-shift",
+    "image": "https://picsum.photos/seed/wv-premium-34a01eace50e/1200/750",
+    "source": "Eater",
+    "source_id": "premium-hrana",
+    "category": "hrana",
+    "published_at": "2026-05-18T11:01:23.544404+00:00",
+    "fetched_at": "2026-05-18T11:01:23.544407+00:00",
+    "premium_category_fill": true
+  },
+  {
+    "id": "b39f91669df53f88",
+    "title": "Restaurants Are in Their Blue Period",
+    "description": "Amid a stretch of red-brick buildings, the Brooklyn restaurant Margot, right at the corner on a busy intersection, stands out. It’s blue: very blue, its two-story exterior painted the color of a pair of Prue Leith’s glasses, a chore coat worn by a server at a trendy natural wine bar, or a Molly Baz cookbook. […]",
+    "url": "https://www.eater.com/food-culture/961654/bright-blue-yves-klein-restaurants-trend",
+    "image": "https://picsum.photos/seed/wv-premium-09503dd38692/1200/750",
+    "source": "Eater",
+    "source_id": "premium-hrana",
+    "category": "hrana",
+    "published_at": "2026-05-18T11:01:23.544335+00:00",
+    "fetched_at": "2026-05-18T11:01:23.544338+00:00",
+    "premium_category_fill": true
+  },
+  {
+    "id": "031016eec499f823",
+    "title": "How I Got My Job Running Cafes Out of Climbing Gyms",
+    "description": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and interviews. Everyone needs a convenient, accessible place to socialize. But maintaining a cafe, bar, restaurant, or hybrid space that fits the bill has its challenges. In this three-part series, we’re partnering with Spectrum Business to put […]",
+    "url": "https://www.eater.com/pre-shift/961011/georgies-vital-joeleen-ng-cafe-pre-shift",
+    "image": "https://picsum.photos/seed/wv-premium-8c100ff382c0/1200/750",
+    "source": "Eater",
+    "source_id": "premium-hrana",
+    "category": "hrana",
+    "published_at": "2026-05-18T11:01:23.544262+00:00",
+    "fetched_at": "2026-05-18T11:01:23.544274+00:00",
+    "premium_category_fill": true
+  },
+  {
+    "id": "df83fb2a058cffa3",
+    "title": "Olivier Goudet increases Treasury Wine Estates stake",
+    "description": "French billionaire Olivier Goudet has increased his holding in Treasury Wine Estates, reinforcing support for the Australian wine giant as it prepares to unveil a long term recovery strategy. The move comes as investors closely watch chief executive Sam Fischer’s plans to revive growth and rebuild confidence. The post Olivier Goudet increases Treasury Wine Estates stake appeared first on The Drinks Business .",
+    "url": "https://www.thedrinksbusiness.com/2026/05/olivier-goudet-increases-treasury-wine-estates-stake/",
+    "image": "https://www.thedrinksbusiness.com/content/uploads/2026/05/PPenfolds-hi-res-bottles-1280x959-1-1-1-1.jpg",
+    "source": "The Drinks Business",
+    "source_id": "premium-pica",
+    "category": "pica",
+    "published_at": "2026-05-18T10:59:36+00:00",
+    "fetched_at": "2026-05-18T11:01:09.175916+00:00",
+    "premium_category_fill": true
   },
   {
     "id": "1447e3ea8142ef42",
@@ -176,8 +295,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T10:11:33.667208+00:00",
-    "fetched_at": "2026-05-18T10:11:33.667209+00:00",
+    "published_at": "2026-05-18T10:59:25.727944+00:00",
+    "fetched_at": "2026-05-18T10:59:25.727947+00:00",
     "html_source": true
   },
   {
@@ -189,8 +308,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T10:11:33.667083+00:00",
-    "fetched_at": "2026-05-18T10:11:33.667084+00:00",
+    "published_at": "2026-05-18T10:59:25.727789+00:00",
+    "fetched_at": "2026-05-18T10:59:25.727792+00:00",
     "html_source": true
   },
   {
@@ -202,8 +321,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T10:11:33.666979+00:00",
-    "fetched_at": "2026-05-18T10:11:33.666980+00:00",
+    "published_at": "2026-05-18T10:59:25.727655+00:00",
+    "fetched_at": "2026-05-18T10:59:25.727657+00:00",
     "html_source": true
   },
   {
@@ -215,8 +334,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T10:11:33.666847+00:00",
-    "fetched_at": "2026-05-18T10:11:33.666849+00:00",
+    "published_at": "2026-05-18T10:59:25.727494+00:00",
+    "fetched_at": "2026-05-18T10:59:25.727496+00:00",
     "html_source": true
   },
   {
@@ -228,8 +347,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T10:11:33.666710+00:00",
-    "fetched_at": "2026-05-18T10:11:33.666711+00:00",
+    "published_at": "2026-05-18T10:59:25.727323+00:00",
+    "fetched_at": "2026-05-18T10:59:25.727325+00:00",
     "html_source": true
   },
   {
@@ -241,8 +360,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T10:11:33.666590+00:00",
-    "fetched_at": "2026-05-18T10:11:33.666591+00:00",
+    "published_at": "2026-05-18T10:59:25.727163+00:00",
+    "fetched_at": "2026-05-18T10:59:25.727167+00:00",
     "html_source": true
   },
   {
@@ -254,8 +373,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T10:11:33.666456+00:00",
-    "fetched_at": "2026-05-18T10:11:33.666457+00:00",
+    "published_at": "2026-05-18T10:59:25.726952+00:00",
+    "fetched_at": "2026-05-18T10:59:25.726955+00:00",
     "html_source": true
   },
   {
@@ -267,8 +386,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T10:11:33.666308+00:00",
-    "fetched_at": "2026-05-18T10:11:33.666309+00:00",
+    "published_at": "2026-05-18T10:59:25.726772+00:00",
+    "fetched_at": "2026-05-18T10:59:25.726775+00:00",
     "html_source": true
   },
   {
@@ -280,8 +399,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T10:11:33.666151+00:00",
-    "fetched_at": "2026-05-18T10:11:33.666152+00:00",
+    "published_at": "2026-05-18T10:59:25.726596+00:00",
+    "fetched_at": "2026-05-18T10:59:25.726599+00:00",
     "html_source": true
   },
   {
@@ -293,8 +412,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T10:11:33.666005+00:00",
-    "fetched_at": "2026-05-18T10:11:33.666007+00:00",
+    "published_at": "2026-05-18T10:59:25.726402+00:00",
+    "fetched_at": "2026-05-18T10:59:25.726405+00:00",
     "html_source": true
   },
   {
@@ -306,8 +425,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T10:11:33.665886+00:00",
-    "fetched_at": "2026-05-18T10:11:33.665888+00:00",
+    "published_at": "2026-05-18T10:59:25.726222+00:00",
+    "fetched_at": "2026-05-18T10:59:25.726226+00:00",
     "html_source": true
   },
   {
@@ -319,8 +438,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-18T10:11:33.665740+00:00",
-    "fetched_at": "2026-05-18T10:11:33.665755+00:00",
+    "published_at": "2026-05-18T10:59:25.725990+00:00",
+    "fetched_at": "2026-05-18T10:59:25.726001+00:00",
     "html_source": true
   },
   {
@@ -332,8 +451,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T10:11:33.096729+00:00",
-    "fetched_at": "2026-05-18T10:11:33.096731+00:00",
+    "published_at": "2026-05-18T10:59:25.423506+00:00",
+    "fetched_at": "2026-05-18T10:59:25.423508+00:00",
     "html_source": true
   },
   {
@@ -345,8 +464,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T10:11:33.096595+00:00",
-    "fetched_at": "2026-05-18T10:11:33.096597+00:00",
+    "published_at": "2026-05-18T10:59:25.423327+00:00",
+    "fetched_at": "2026-05-18T10:59:25.423329+00:00",
     "html_source": true
   },
   {
@@ -358,8 +477,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T10:11:33.096450+00:00",
-    "fetched_at": "2026-05-18T10:11:33.096452+00:00",
+    "published_at": "2026-05-18T10:59:25.423137+00:00",
+    "fetched_at": "2026-05-18T10:59:25.423141+00:00",
     "html_source": true
   },
   {
@@ -371,8 +490,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T10:11:33.096320+00:00",
-    "fetched_at": "2026-05-18T10:11:33.096322+00:00",
+    "published_at": "2026-05-18T10:59:25.422963+00:00",
+    "fetched_at": "2026-05-18T10:59:25.422966+00:00",
     "html_source": true
   },
   {
@@ -384,8 +503,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T10:11:33.096190+00:00",
-    "fetched_at": "2026-05-18T10:11:33.096191+00:00",
+    "published_at": "2026-05-18T10:59:25.422791+00:00",
+    "fetched_at": "2026-05-18T10:59:25.422794+00:00",
     "html_source": true
   },
   {
@@ -397,8 +516,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T10:11:33.096068+00:00",
-    "fetched_at": "2026-05-18T10:11:33.096070+00:00",
+    "published_at": "2026-05-18T10:59:25.422627+00:00",
+    "fetched_at": "2026-05-18T10:59:25.422629+00:00",
     "html_source": true
   },
   {
@@ -410,8 +529,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T10:11:33.095949+00:00",
-    "fetched_at": "2026-05-18T10:11:33.095951+00:00",
+    "published_at": "2026-05-18T10:59:25.422475+00:00",
+    "fetched_at": "2026-05-18T10:59:25.422477+00:00",
     "html_source": true
   },
   {
@@ -423,8 +542,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T10:11:33.095834+00:00",
-    "fetched_at": "2026-05-18T10:11:33.095835+00:00",
+    "published_at": "2026-05-18T10:59:25.422326+00:00",
+    "fetched_at": "2026-05-18T10:59:25.422329+00:00",
     "html_source": true
   },
   {
@@ -436,8 +555,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T10:11:33.095706+00:00",
-    "fetched_at": "2026-05-18T10:11:33.095708+00:00",
+    "published_at": "2026-05-18T10:59:25.422158+00:00",
+    "fetched_at": "2026-05-18T10:59:25.422162+00:00",
     "html_source": true
   },
   {
@@ -449,8 +568,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T10:11:33.095552+00:00",
-    "fetched_at": "2026-05-18T10:11:33.095554+00:00",
+    "published_at": "2026-05-18T10:59:25.421947+00:00",
+    "fetched_at": "2026-05-18T10:59:25.421949+00:00",
     "html_source": true
   },
   {
@@ -462,8 +581,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T10:11:33.095414+00:00",
-    "fetched_at": "2026-05-18T10:11:33.095416+00:00",
+    "published_at": "2026-05-18T10:59:25.421770+00:00",
+    "fetched_at": "2026-05-18T10:59:25.421773+00:00",
     "html_source": true
   },
   {
@@ -475,8 +594,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-18T10:11:33.095219+00:00",
-    "fetched_at": "2026-05-18T10:11:33.095234+00:00",
+    "published_at": "2026-05-18T10:59:25.421559+00:00",
+    "fetched_at": "2026-05-18T10:59:25.421572+00:00",
     "html_source": true
   },
   {
@@ -488,8 +607,21 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.583630+00:00",
-    "fetched_at": "2026-05-18T10:11:32.583631+00:00",
+    "published_at": "2026-05-18T10:59:25.111810+00:00",
+    "fetched_at": "2026-05-18T10:59:25.111813+00:00",
+    "html_source": true
+  },
+  {
+    "id": "22e3121dbe99355c",
+    "title": "Nova generacija na putu uspjeha: Ostvarenje mlade hrvatske filmašice gledamo u Cannesu",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/odbaceni-a-uspravni-film/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Left-Behind-Still-Standing-4-2-768x534.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-18T10:59:25.111653+00:00",
+    "fetched_at": "2026-05-18T10:59:25.111656+00:00",
     "html_source": true
   },
   {
@@ -501,8 +633,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.583439+00:00",
-    "fetched_at": "2026-05-18T10:11:32.583443+00:00",
+    "published_at": "2026-05-18T10:59:25.111482+00:00",
+    "fetched_at": "2026-05-18T10:59:25.111485+00:00",
     "html_source": true
   },
   {
@@ -514,8 +646,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.583319+00:00",
-    "fetched_at": "2026-05-18T10:11:32.583320+00:00",
+    "published_at": "2026-05-18T10:59:25.111383+00:00",
+    "fetched_at": "2026-05-18T10:59:25.111385+00:00",
     "html_source": true
   },
   {
@@ -527,8 +659,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.583249+00:00",
-    "fetched_at": "2026-05-18T10:11:32.583251+00:00",
+    "published_at": "2026-05-18T10:59:25.111279+00:00",
+    "fetched_at": "2026-05-18T10:59:25.111281+00:00",
     "html_source": true
   },
   {
@@ -540,21 +672,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.583182+00:00",
-    "fetched_at": "2026-05-18T10:11:32.583183+00:00",
-    "html_source": true
-  },
-  {
-    "id": "22e3121dbe99355c",
-    "title": "Film, kazalište i TV Nova generacija na putu uspjeha: Ostvarenje mlade hrvatske filmašice gledamo u Cannesu",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/odbaceni-a-uspravni-film/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Left-Behind-Still-Standing-2-768x534.png",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.583110+00:00",
-    "fetched_at": "2026-05-18T10:11:32.583112+00:00",
+    "published_at": "2026-05-18T10:59:25.111177+00:00",
+    "fetched_at": "2026-05-18T10:59:25.111180+00:00",
     "html_source": true
   },
   {
@@ -566,8 +685,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.583036+00:00",
-    "fetched_at": "2026-05-18T10:11:32.583038+00:00",
+    "published_at": "2026-05-18T10:59:25.111048+00:00",
+    "fetched_at": "2026-05-18T10:59:25.111050+00:00",
     "html_source": true
   },
   {
@@ -579,8 +698,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.582911+00:00",
-    "fetched_at": "2026-05-18T10:11:32.582913+00:00",
+    "published_at": "2026-05-18T10:59:25.110824+00:00",
+    "fetched_at": "2026-05-18T10:59:25.110826+00:00",
     "html_source": true
   },
   {
@@ -592,8 +711,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.582832+00:00",
-    "fetched_at": "2026-05-18T10:11:32.582833+00:00",
+    "published_at": "2026-05-18T10:59:25.110715+00:00",
+    "fetched_at": "2026-05-18T10:59:25.110717+00:00",
     "html_source": true
   },
   {
@@ -605,8 +724,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.582753+00:00",
-    "fetched_at": "2026-05-18T10:11:32.582755+00:00",
+    "published_at": "2026-05-18T10:59:25.110603+00:00",
+    "fetched_at": "2026-05-18T10:59:25.110606+00:00",
     "html_source": true
   },
   {
@@ -618,8 +737,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.582676+00:00",
-    "fetched_at": "2026-05-18T10:11:32.582677+00:00",
+    "published_at": "2026-05-18T10:59:25.110493+00:00",
+    "fetched_at": "2026-05-18T10:59:25.110495+00:00",
     "html_source": true
   },
   {
@@ -631,8 +750,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.582580+00:00",
-    "fetched_at": "2026-05-18T10:11:32.582581+00:00",
+    "published_at": "2026-05-18T10:59:25.110361+00:00",
+    "fetched_at": "2026-05-18T10:59:25.110364+00:00",
     "html_source": true
   },
   {
@@ -644,8 +763,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.582488+00:00",
-    "fetched_at": "2026-05-18T10:11:32.582489+00:00",
+    "published_at": "2026-05-18T10:59:25.110233+00:00",
+    "fetched_at": "2026-05-18T10:59:25.110236+00:00",
     "html_source": true
   },
   {
@@ -657,8 +776,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.582390+00:00",
-    "fetched_at": "2026-05-18T10:11:32.582392+00:00",
+    "published_at": "2026-05-18T10:59:25.110078+00:00",
+    "fetched_at": "2026-05-18T10:59:25.110081+00:00",
     "html_source": true
   },
   {
@@ -670,8 +789,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.582281+00:00",
-    "fetched_at": "2026-05-18T10:11:32.582283+00:00",
+    "published_at": "2026-05-18T10:59:25.109949+00:00",
+    "fetched_at": "2026-05-18T10:59:25.109951+00:00",
     "html_source": true
   },
   {
@@ -683,8 +802,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.582179+00:00",
-    "fetched_at": "2026-05-18T10:11:32.582180+00:00",
+    "published_at": "2026-05-18T10:59:25.109812+00:00",
+    "fetched_at": "2026-05-18T10:59:25.109815+00:00",
     "html_source": true
   },
   {
@@ -696,8 +815,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.582082+00:00",
-    "fetched_at": "2026-05-18T10:11:32.582084+00:00",
+    "published_at": "2026-05-18T10:59:25.109682+00:00",
+    "fetched_at": "2026-05-18T10:59:25.109685+00:00",
     "html_source": true
   },
   {
@@ -709,8 +828,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-18T10:11:32.581970+00:00",
-    "fetched_at": "2026-05-18T10:11:32.581985+00:00",
+    "published_at": "2026-05-18T10:59:25.109541+00:00",
+    "fetched_at": "2026-05-18T10:59:25.109554+00:00",
     "html_source": true
   },
   {
@@ -722,8 +841,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T10:11:32.404437+00:00",
-    "fetched_at": "2026-05-18T10:11:32.404438+00:00",
+    "published_at": "2026-05-18T10:59:24.532705+00:00",
+    "fetched_at": "2026-05-18T10:59:24.532707+00:00",
     "html_source": true
   },
   {
@@ -735,8 +854,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T10:11:32.404351+00:00",
-    "fetched_at": "2026-05-18T10:11:32.404352+00:00",
+    "published_at": "2026-05-18T10:59:24.532597+00:00",
+    "fetched_at": "2026-05-18T10:59:24.532599+00:00",
     "html_source": true
   },
   {
@@ -748,8 +867,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T10:11:32.404279+00:00",
-    "fetched_at": "2026-05-18T10:11:32.404281+00:00",
+    "published_at": "2026-05-18T10:59:24.532492+00:00",
+    "fetched_at": "2026-05-18T10:59:24.532494+00:00",
     "html_source": true
   },
   {
@@ -761,8 +880,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T10:11:32.404183+00:00",
-    "fetched_at": "2026-05-18T10:11:32.404185+00:00",
+    "published_at": "2026-05-18T10:59:24.532356+00:00",
+    "fetched_at": "2026-05-18T10:59:24.532358+00:00",
     "html_source": true
   },
   {
@@ -774,8 +893,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T10:11:32.404001+00:00",
-    "fetched_at": "2026-05-18T10:11:32.404003+00:00",
+    "published_at": "2026-05-18T10:59:24.532077+00:00",
+    "fetched_at": "2026-05-18T10:59:24.532080+00:00",
     "html_source": true
   },
   {
@@ -787,8 +906,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T10:11:32.403870+00:00",
-    "fetched_at": "2026-05-18T10:11:32.403872+00:00",
+    "published_at": "2026-05-18T10:59:24.531902+00:00",
+    "fetched_at": "2026-05-18T10:59:24.531905+00:00",
     "html_source": true
   },
   {
@@ -800,125 +919,8 @@
     "source": "Journal.hr - lifestyle",
     "source_id": "extra-journal-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-18T10:11:32.403617+00:00",
-    "fetched_at": "2026-05-18T10:11:32.403619+00:00",
-    "html_source": true
-  },
-  {
-    "id": "2201b8b8d21e9649",
-    "title": "Posjetili smo Nuré – novi zagrebački restoran sa samo četiri stola o kojem se naveliko priča",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - lifestyle. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/gastro/nure-restoran-zagreb/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/01/Nure-restoran_mali-GIF.gif",
-    "source": "Journal.hr - lifestyle",
-    "source_id": "extra-journal-lifestyle",
-    "category": "lifestyle",
-    "published_at": "2026-05-18T10:11:32.403539+00:00",
-    "fetched_at": "2026-05-18T10:11:32.403540+00:00",
-    "html_source": true
-  },
-  {
-    "id": "8d540946bfecdccb",
-    "title": "U Zagrebu je otvoren tira-mi-su, mjesto posvećeno kultnoj talijanskoj slastici. Prve smo ih posjetile",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - lifestyle. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/gastro/nova-mjesta-otvorena-u-2026-u-zagrebu/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/tiramisu-13-768x1024.jpeg",
-    "source": "Journal.hr - lifestyle",
-    "source_id": "extra-journal-lifestyle",
-    "category": "lifestyle",
-    "published_at": "2026-05-18T10:11:32.403459+00:00",
-    "fetched_at": "2026-05-18T10:11:32.403461+00:00",
-    "html_source": true
-  },
-  {
-    "id": "e4b83c42eb9c9aed",
-    "title": "Putovanja Game changer za putovanja s djecom: U Termama Olimia uskoro se otvara prvi obiteljski hotel u Sloveniji",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - lifestyle. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/putovanja/family-hotel-vilinia-terme-olimia-slovenija/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Terme-Olimia_Family-hotel-Vilinia_mala-naslovna-foto-1080x1637.jpg",
-    "source": "Journal.hr - lifestyle",
-    "source_id": "extra-journal-lifestyle",
-    "category": "lifestyle",
-    "published_at": "2026-05-18T10:11:32.402771+00:00",
-    "fetched_at": "2026-05-18T10:11:32.402773+00:00",
-    "html_source": true
-  },
-  {
-    "id": "661ba7449f40d30f",
-    "title": "Konačno, ljetni parfem koji ne miriše kao krema za sunčanje. Ovaj je prozračan i svjež, ali s karakterom",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - ljepota. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/ljepota/vijesti-iz-ljepote/hermes-parfem-un-jardin-sous-la-mer/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/Hermes-parfem.gif",
-    "source": "Journal.hr - ljepota",
-    "source_id": "extra-journal-ljepota",
-    "category": "lifestyle",
-    "published_at": "2026-05-18T10:11:31.831304+00:00",
-    "fetched_at": "2026-05-18T10:11:31.831305+00:00",
-    "html_source": true
-  },
-  {
-    "id": "8feb007f7a6833fa",
-    "title": "Posjetili smo Paris Perfume Week i ovo su najzanimljiviji novi parfemi koje smo otkrili",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - ljepota. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/ljepota/trendovi-ljepota/paris-perfume-week-noviteti-niche-parfemi/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Paris-Perfume-Week-1_-768x768.jpg",
-    "source": "Journal.hr - ljepota",
-    "source_id": "extra-journal-ljepota",
-    "category": "lifestyle",
-    "published_at": "2026-05-18T10:11:31.831222+00:00",
-    "fetched_at": "2026-05-18T10:11:31.831223+00:00",
-    "html_source": true
-  },
-  {
-    "id": "ac44a7e55e0a7e22",
-    "title": "Ovaj moćni sastojak polako, ali sigurno preuzima glavnu ulogu u modernoj anti-age njezi kože",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - ljepota. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/ljepota/vijesti-iz-ljepote/alge-skincare-sastojak-hidratacija-anti-age/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/02/alge_skincare-1-1-768x960.jpg",
-    "source": "Journal.hr - ljepota",
-    "source_id": "extra-journal-ljepota",
-    "category": "lifestyle",
-    "published_at": "2026-05-18T10:11:31.831151+00:00",
-    "fetched_at": "2026-05-18T10:11:31.831153+00:00",
-    "html_source": true
-  },
-  {
-    "id": "ce9fe923fc0faf21",
-    "title": "Mikrobiom kože sve je važniji u skincareu, a ovo su sastojci koji ga štite",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - ljepota. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/ljepota/trendovi-ljepota/prebiotici-postbiotici-skincare-sastojci-mikrobiom-koze/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/prebiotici-i-postbiotici.gif",
-    "source": "Journal.hr - ljepota",
-    "source_id": "extra-journal-ljepota",
-    "category": "lifestyle",
-    "published_at": "2026-05-18T10:11:31.831071+00:00",
-    "fetched_at": "2026-05-18T10:11:31.831072+00:00",
-    "html_source": true
-  },
-  {
-    "id": "033d190f0c94bf37",
-    "title": "Insajderska beauty tajna je ovo ulje koje hidratizira, zaglađuje i ujednačava ten",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - ljepota. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/ljepota/trendovi-ljepota/ulje-pasjeg-trna-skincare-sastojak/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/ulje-pasjeg-trna-1-768x960.jpg",
-    "source": "Journal.hr - ljepota",
-    "source_id": "extra-journal-ljepota",
-    "category": "lifestyle",
-    "published_at": "2026-05-18T10:11:31.830999+00:00",
-    "fetched_at": "2026-05-18T10:11:31.831001+00:00",
-    "html_source": true
-  },
-  {
-    "id": "3c349e947a113fa3",
-    "title": "Najpodcjenjeniji skincare sastojak: U svijetu preopterećenih rutina, vraća koži ono što joj treba",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - ljepota. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/ljepota/trendovi-ljepota/gljive-skincare-hidratacija-iritacija-crvenilo/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/gljive-u-skincareu.gif",
-    "source": "Journal.hr - ljepota",
-    "source_id": "extra-journal-ljepota",
-    "category": "lifestyle",
-    "published_at": "2026-05-18T10:11:31.830920+00:00",
-    "fetched_at": "2026-05-18T10:11:31.830922+00:00",
+    "published_at": "2026-05-18T10:59:24.531560+00:00",
+    "fetched_at": "2026-05-18T10:59:24.531562+00:00",
     "html_source": true
   }
 ]
