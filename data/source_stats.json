@@ -1,87 +1,199 @@
 {
-  "updated_at": "2026-05-18T05:50:52.988574+00:00",
-  "sources": 180,
-  "ok_sources": 61,
+  "updated_at": "2026-05-18T06:23:09.134381+00:00",
+  "sources": 194,
+  "ok_sources": 126,
   "failed_sources": 54,
   "items_by_source": {
-    "Variety": 69,
+    "McKinsey Insights": 12,
+    "Journal.hr - gastro": 12,
+    "Journal.hr - interijeri": 12,
+    "Journal.hr - kultura": 18,
+    "Journal.hr - lifestyle": 10,
+    "Journal.hr - ljepota": 18,
+    "Journal.hr - moda": 18,
+    "Symbol Quorum - lifestyle": 5,
+    "Symbol Quorum - gastronomija": 6,
+    "Symbol Quorum - poduzetništvo": 6,
+    "Symbol Quorum - kultura i umjetnost": 8,
+    "NBER Digest": 12,
+    "PV Magazine": 12,
+    "Variety": 72,
+    "Seeking Alpha Market News": 7,
+    "Decanter": 43,
+    "Hypebeast": 35,
+    "Deadline": 66,
+    "Forbes Business": 79,
+    "Hollywood Reporter": 10,
+    "Wallpaper": 47,
+    "OilPrice": 12,
+    "CleanTechnica": 12,
+    "ScienceDaily": 12,
+    "Luxuo": 5,
     "Fratello": 13,
-    "Deadline": 63,
-    "Hypebeast": 34,
+    "Elite Traveler": 10,
+    "Investing.com News": 70,
     "Medical Xpress": 59,
-    "Forbes Business": 77,
-    "Investing.com News": 61,
     "Forbes Innovation": 52,
     "Fast Company": 24,
     "MarketWatch Top Stories": 24,
     "The Register": 45,
     "Creative Review": 14,
     "Yanko Design": 23,
+    "ZDNET": 12,
     "Phys.org": 44,
-    "Our World in Data": 12,
-    "ArchDaily": 30,
-    "Wallpaper": 47,
+    "Finextra": 12,
+    "Our World in Data": 11,
+    "ArchDaily": 29,
+    "The Verge": 10,
     "Robb Report": 14,
     "Engadget": 27,
+    "TechCrunch": 12,
+    "Highsnobiety": 7,
     "FreightWaves": 40,
     "VentureBeat": 9,
-    "Decanter": 39,
+    "NewBeauty": 12,
+    "Book Riot": 10,
     "Designboom": 13,
     "Entrepreneur": 11,
     "Quartz": 37,
-    "Wired": 43,
+    "VinePair": 12,
+    "MindBodyGreen": 12,
+    "Wired": 42,
     "Ars Technica": 21,
-    "InsideHook": 24,
+    "InsideHook": 23,
     "Monochrome Watches": 11,
-    "Finance Monthly": 37,
+    "Finance Monthly": 36,
+    "DesignWanted": 12,
     "The Art Newspaper": 37,
     "Worn & Wound": 10,
     "ETF Trends": 32,
     "Allure Beauty": 12,
+    "Hyperallergic": 15,
     "New Scientist": 40,
     "HODINKEE": 10,
-    "Hyperallergic": 13,
+    "OpenAI News": 12,
+    "MIT Technology Review": 10,
+    "NASA Breaking News": 10,
+    "Global Finance": 10,
+    "Artnet News": 10,
     "Smithsonian Magazine": 10,
+    "Federal Reserve Press": 12,
+    "Wine Enthusiast": 10,
     "Atlas Obscura": 26,
-    "AgFunderNews": 31,
-    "Construction Dive": 9,
+    "AgFunderNews": 36,
+    "Construction Dive": 10,
+    "Knowledge at Wharton": 10,
     "Colossal": 10,
+    "Investing.com Economic Indicators": 10,
     "Retail Dive": 10,
     "Banking Dive": 9,
-    "Manufacturing Dive": 8,
-    "Food Dive": 9,
-    "Automotive Dive": 10,
-    "Supply Chain Dive": 8,
+    "Manufacturing Dive": 9,
+    "Yale Environment 360": 12,
+    "Design Milk": 12,
+    "Food Dive": 10,
+    "Automotive Dive": 9,
+    "Supply Chain Dive": 10,
     "ESA": 9,
+    "Carbon Brief": 10,
     "Payments Dive": 10,
+    "Private Banker International": 10,
     "IEEE Spectrum": 26,
     "The Spirits Business": 30,
     "Cool Hunting": 10,
     "Catster": 10,
     "Dogster": 12,
-    "Supply Chain Brain": 30,
+    "Packaging Gateway": 10,
+    "Energy Monitor": 10,
+    "LSE Business Review": 10,
+    "Logistics Manager": 9,
+    "Open Culture": 12,
+    "Supply Chain Brain": 29,
+    "AWS News": 12,
+    "Nature News": 12,
+    "PLOS Biology": 12,
     "Jeweller Magazine": 29,
+    "FRED Blog": 10,
+    "Cloudflare Blog": 12,
+    "MIT Sloan Management Review": 12,
+    "Liberty Street Economics": 12,
     "INSEAD Knowledge": 8,
-    "NASA Breaking News": 1,
+    "ECB Press": 12,
+    "Bloomberg Hrvatska - ekonomija": 8,
+    "Modern Farmer": 10,
     "The Conversation Science": 19,
     "Google AI Blog": 20,
+    "Bloomberg Hrvatska - poslovanje": 12,
     "The Jewellery Editor": 20,
-    "The Conversation Economy": 13
+    "The Conversation Economy": 13,
+    "Microsoft Blog": 10,
+    "Design Milk Lifestyle": 11,
+    "Airport Technology": 10,
+    "Bloomberg Hrvatska - financije": 6,
+    "MuseumNext": 10,
+    "MarketWatch Markets": 12,
+    "Bloomberg Hrvatska - tržišta": 5
   },
   "feed_results": [
+    {
+      "id": "extra-journal-kultura",
+      "name": "Journal.hr - kultura",
+      "category": "kultura",
+      "url": "https://www.journal.hr/kultura/",
+      "kind": "html",
+      "count": 18,
+      "status": "ok"
+    },
+    {
+      "id": "extra-journal-lifestyle",
+      "name": "Journal.hr - lifestyle",
+      "category": "lifestyle",
+      "url": "https://www.journal.hr/lifestyle/",
+      "kind": "html",
+      "count": 18,
+      "status": "ok"
+    },
+    {
+      "id": "extra-journal-ljepota",
+      "name": "Journal.hr - ljepota",
+      "category": "lifestyle",
+      "url": "https://www.journal.hr/ljepota/",
+      "kind": "html",
+      "count": 18,
+      "status": "ok"
+    },
+    {
+      "id": "extra-journal-moda",
+      "name": "Journal.hr - moda",
+      "category": "lifestyle",
+      "url": "https://www.journal.hr/moda/",
+      "kind": "html",
+      "count": 18,
+      "status": "ok"
+    },
+    {
+      "id": "src-074",
+      "name": "AWS News",
+      "category": "tehnologija",
+      "url": "https://aws.amazon.com/blogs/aws/feed/",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-058",
+      "name": "AgFunderNews",
+      "category": "trzista",
+      "url": "https://agfundernews.com/feed",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
     {
       "id": "extra-beauty-001",
       "name": "Allure Beauty",
       "category": "lifestyle",
       "url": "https://www.allure.com/feed/rss",
-      "count": 12,
-      "status": "ok"
-    },
-    {
-      "id": "src-108",
-      "name": "ArchDaily",
-      "category": "dizajn",
-      "url": "https://www.archdaily.com/search/projects/rss",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -90,6 +202,7 @@
       "name": "Ars Technica",
       "category": "tehnologija",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -98,6 +211,61 @@
       "name": "Atlas Obscura",
       "category": "lifestyle",
       "url": "https://www.atlasobscura.com/feeds/latest",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "extra-bloomberg-hr-002",
+      "name": "Bloomberg Hrvatska - ekonomija",
+      "category": "ekonomija",
+      "url": "https://news.google.com/rss/search?q=site:bloomberg.com%20Croatia%20economy&hl=hr&gl=HR&ceid=HR:hr",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "extra-bloomberg-hr-003",
+      "name": "Bloomberg Hrvatska - financije",
+      "category": "financije",
+      "url": "https://news.google.com/rss/search?q=site:bloomberg.com%20Croatia%20finance&hl=hr&gl=HR&ceid=HR:hr",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "extra-bloomberg-hr-001",
+      "name": "Bloomberg Hrvatska - poslovanje",
+      "category": "poslovanje",
+      "url": "https://news.google.com/rss/search?q=site:bloomberg.com%20Croatia%20business&hl=hr&gl=HR&ceid=HR:hr",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "extra-bloomberg-hr-004",
+      "name": "Bloomberg Hrvatska - tržišta",
+      "category": "trzista",
+      "url": "https://news.google.com/rss/search?q=site:bloomberg.com%20Croatia%20markets&hl=hr&gl=HR&ceid=HR:hr",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-089",
+      "name": "CleanTechnica",
+      "category": "znanost",
+      "url": "https://cleantechnica.com/feed/",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-075",
+      "name": "Cloudflare Blog",
+      "category": "tehnologija",
+      "url": "https://blog.cloudflare.com/rss/",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -106,6 +274,7 @@
       "name": "Creative Review",
       "category": "kultura",
       "url": "https://www.creativereview.co.uk/feed/",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -114,6 +283,7 @@
       "name": "Deadline",
       "category": "kultura",
       "url": "https://deadline.com/feed/",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -122,6 +292,25 @@
       "name": "Decanter",
       "category": "pica",
       "url": "https://www.decanter.com/feed/",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-109",
+      "name": "Design Milk",
+      "category": "dizajn",
+      "url": "https://design-milk.com/feed/",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-118",
+      "name": "DesignWanted",
+      "category": "dizajn",
+      "url": "https://designwanted.com/feed/",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -130,6 +319,16 @@
       "name": "Dogster",
       "category": "lifestyle",
       "url": "https://www.dogster.com/feed",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-019",
+      "name": "ECB Press",
+      "category": "ekonomija",
+      "url": "https://www.ecb.europa.eu/rss/press.html",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -138,6 +337,7 @@
       "name": "Engadget",
       "category": "tehnologija",
       "url": "https://www.engadget.com/rss.xml",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -146,14 +346,25 @@
       "name": "Fast Company",
       "category": "poslovanje",
       "url": "https://www.fastcompany.com/rss.xml",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
     {
-      "id": "src-145",
-      "name": "Finance Monthly",
+      "id": "src-020",
+      "name": "Federal Reserve Press",
+      "category": "ekonomija",
+      "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-038",
+      "name": "Finextra",
       "category": "financije",
-      "url": "https://www.finance-monthly.com/feed/",
+      "url": "https://www.finextra.com/rss/headlines.aspx",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -162,6 +373,7 @@
       "name": "Forbes Business",
       "category": "poslovanje",
       "url": "https://www.forbes.com/business/feed/",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -170,6 +382,7 @@
       "name": "Forbes Innovation",
       "category": "poslovanje",
       "url": "https://www.forbes.com/innovation/feed/",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -178,6 +391,7 @@
       "name": "FreightWaves",
       "category": "trzista",
       "url": "https://www.freightwaves.com/news/feed",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -186,14 +400,16 @@
       "name": "Google AI Blog",
       "category": "tehnologija",
       "url": "https://blog.google/technology/ai/rss/",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
     {
-      "id": "src-123",
-      "name": "Hypebeast",
-      "category": "lifestyle",
-      "url": "https://hypebeast.com/feed",
+      "id": "src-091",
+      "name": "Hyperallergic",
+      "category": "kultura",
+      "url": "https://hyperallergic.com/feed/",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -202,14 +418,7 @@
       "name": "IEEE Spectrum",
       "category": "tehnologija",
       "url": "https://spectrum.ieee.org/rss/fulltext",
-      "count": 12,
-      "status": "ok"
-    },
-    {
-      "id": "src-121",
-      "name": "InsideHook",
-      "category": "lifestyle",
-      "url": "https://www.insidehook.com/feed",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -218,6 +427,61 @@
       "name": "Jeweller Magazine",
       "category": "nakit",
       "url": "https://www.jewellermagazine.com/rss/jeweller.xml",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "extra-journal-gastro",
+      "name": "Journal.hr - gastro",
+      "category": "hedonizam",
+      "url": "https://www.journal.hr/lifestyle/gastro/",
+      "kind": "html",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "extra-journal-interijeri",
+      "name": "Journal.hr - interijeri",
+      "category": "dizajn",
+      "url": "https://www.journal.hr/lifestyle/interijeri/",
+      "kind": "html",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-030",
+      "name": "Liberty Street Economics",
+      "category": "ekonomija",
+      "url": "https://libertystreeteconomics.newyorkfed.org/feed/",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-002",
+      "name": "MIT Sloan Management Review",
+      "category": "poslovanje",
+      "url": "https://sloanreview.mit.edu/feed/",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-032",
+      "name": "MarketWatch Markets",
+      "category": "financije",
+      "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-004",
+      "name": "McKinsey Insights",
+      "category": "poslovanje",
+      "url": "https://www.mckinsey.com/insights/rss.aspx",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -226,6 +490,34 @@
       "name": "Medical Xpress",
       "category": "znanost",
       "url": "https://medicalxpress.com/rss-feed/",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "extra-care-002",
+      "name": "MindBodyGreen",
+      "category": "lifestyle",
+      "url": "https://www.mindbodygreen.com/rss.xml",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-139",
+      "name": "NBER Digest",
+      "category": "ekonomija",
+      "url": "https://www.nber.org/rss/new.xml",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-083",
+      "name": "Nature News",
+      "category": "znanost",
+      "url": "https://www.nature.com/nature.rss",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -234,6 +526,61 @@
       "name": "New Scientist",
       "category": "znanost",
       "url": "https://www.newscientist.com/feed/home/",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "extra-beauty-003",
+      "name": "NewBeauty",
+      "category": "lifestyle",
+      "url": "https://www.newbeauty.com/feed/",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-047",
+      "name": "OilPrice",
+      "category": "trzista",
+      "url": "https://oilprice.com/rss/main",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-096",
+      "name": "Open Culture",
+      "category": "kultura",
+      "url": "https://www.openculture.com/feed",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-072",
+      "name": "OpenAI News",
+      "category": "tehnologija",
+      "url": "https://openai.com/news/rss.xml",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-084",
+      "name": "PLOS Biology",
+      "category": "znanost",
+      "url": "https://journals.plos.org/plosbiology/feed/atom",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-060",
+      "name": "PV Magazine",
+      "category": "trzista",
+      "url": "https://www.pv-magazine.com/feed/",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -242,6 +589,7 @@
       "name": "Phys.org",
       "category": "znanost",
       "url": "https://phys.org/rss-feed/",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -250,14 +598,25 @@
       "name": "Quartz",
       "category": "poslovanje",
       "url": "https://qz.com/rss",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
     {
-      "id": "src-057",
-      "name": "Supply Chain Brain",
-      "category": "trzista",
-      "url": "https://www.supplychainbrain.com/rss/topic/1145-news",
+      "id": "src-076",
+      "name": "ScienceDaily",
+      "category": "znanost",
+      "url": "https://www.sciencedaily.com/rss/all.xml",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-061",
+      "name": "TechCrunch",
+      "category": "tehnologija",
+      "url": "https://techcrunch.com/feed/",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -266,6 +625,7 @@
       "name": "The Art Newspaper",
       "category": "kultura",
       "url": "https://www.theartnewspaper.com/rss.xml",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -274,6 +634,7 @@
       "name": "The Conversation Economy",
       "category": "ekonomija",
       "url": "https://theconversation.com/global/topics/economy-29/articles.atom",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -282,6 +643,7 @@
       "name": "The Conversation Science",
       "category": "znanost",
       "url": "https://theconversation.com/global/topics/science-62/articles.atom",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -290,6 +652,7 @@
       "name": "The Jewellery Editor",
       "category": "nakit",
       "url": "https://www.thejewelleryeditor.com/feed/",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -298,6 +661,7 @@
       "name": "The Register",
       "category": "tehnologija",
       "url": "https://www.theregister.com/headlines.atom",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -306,6 +670,16 @@
       "name": "The Spirits Business",
       "category": "pica",
       "url": "https://www.thespiritsbusiness.com/feed/",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-166",
+      "name": "VinePair",
+      "category": "pica",
+      "url": "https://vinepair.com/feed/",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -314,6 +688,7 @@
       "name": "Wallpaper",
       "category": "dizajn",
       "url": "https://www.wallpaper.com/rss",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
@@ -322,14 +697,97 @@
       "name": "Wired",
       "category": "tehnologija",
       "url": "https://www.wired.com/feed/rss",
+      "kind": "rss",
       "count": 12,
       "status": "ok"
     },
     {
-      "id": "src-056",
-      "name": "Automotive Dive",
+      "id": "src-087",
+      "name": "Yale Environment 360",
+      "category": "znanost",
+      "url": "https://e360.yale.edu/feed.xml",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-069",
+      "name": "ZDNET",
+      "category": "tehnologija",
+      "url": "https://www.zdnet.com/news/rss.xml",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
+      "id": "src-108",
+      "name": "ArchDaily",
+      "category": "dizajn",
+      "url": "https://www.archdaily.com/search/projects/rss",
+      "kind": "rss",
+      "count": 11,
+      "status": "ok"
+    },
+    {
+      "id": "src-125",
+      "name": "Design Milk Lifestyle",
+      "category": "lifestyle",
+      "url": "https://design-milk.com/category/lifestyle/feed/",
+      "kind": "rss",
+      "count": 11,
+      "status": "ok"
+    },
+    {
+      "id": "src-145",
+      "name": "Finance Monthly",
+      "category": "financije",
+      "url": "https://www.finance-monthly.com/feed/",
+      "kind": "rss",
+      "count": 11,
+      "status": "ok"
+    },
+    {
+      "id": "src-123",
+      "name": "Hypebeast",
+      "category": "lifestyle",
+      "url": "https://hypebeast.com/feed",
+      "kind": "rss",
+      "count": 11,
+      "status": "ok"
+    },
+    {
+      "id": "src-121",
+      "name": "InsideHook",
+      "category": "lifestyle",
+      "url": "https://www.insidehook.com/feed",
+      "kind": "rss",
+      "count": 11,
+      "status": "ok"
+    },
+    {
+      "id": "src-057",
+      "name": "Supply Chain Brain",
       "category": "trzista",
-      "url": "https://www.automotivedive.com/feeds/news/",
+      "url": "https://www.supplychainbrain.com/rss/topic/1145-news",
+      "kind": "rss",
+      "count": 11,
+      "status": "ok"
+    },
+    {
+      "id": "src-152",
+      "name": "Airport Technology",
+      "category": "trzista",
+      "url": "https://www.airport-technology.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-094",
+      "name": "Artnet News",
+      "category": "kultura",
+      "url": "https://news.artnet.com/feed",
+      "kind": "rss",
       "count": 10,
       "status": "ok"
     },
@@ -338,6 +796,25 @@
       "name": "Banking Dive",
       "category": "financije",
       "url": "https://www.bankingdive.com/feeds/news/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-105",
+      "name": "Book Riot",
+      "category": "kultura",
+      "url": "https://bookriot.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-088",
+      "name": "Carbon Brief",
+      "category": "znanost",
+      "url": "https://www.carbonbrief.org/feed/",
+      "kind": "rss",
       "count": 10,
       "status": "ok"
     },
@@ -346,6 +823,7 @@
       "name": "Catster",
       "category": "lifestyle",
       "url": "https://www.catster.com/feed",
+      "kind": "rss",
       "count": 10,
       "status": "ok"
     },
@@ -354,134 +832,7 @@
       "name": "Colossal",
       "category": "kultura",
       "url": "https://www.thisiscolossal.com/feed/",
-      "count": 10,
-      "status": "ok"
-    },
-    {
-      "id": "src-122",
-      "name": "Cool Hunting",
-      "category": "lifestyle",
-      "url": "https://coolhunting.com/feed/",
-      "count": 10,
-      "status": "ok"
-    },
-    {
-      "id": "src-107",
-      "name": "Designboom",
-      "category": "dizajn",
-      "url": "https://www.designboom.com/feed/",
-      "count": 10,
-      "status": "ok"
-    },
-    {
-      "id": "src-012",
-      "name": "Entrepreneur",
-      "category": "poslovanje",
-      "url": "https://www.entrepreneur.com/latest.rss",
-      "count": 10,
-      "status": "ok"
-    },
-    {
-      "id": "src-158",
-      "name": "Fratello",
-      "category": "satovi",
-      "url": "https://www.fratellowatches.com/feed/",
-      "count": 10,
-      "status": "ok"
-    },
-    {
-      "id": "src-157",
-      "name": "HODINKEE",
-      "category": "satovi",
-      "url": "https://www.hodinkee.com/articles/rss.xml",
-      "count": 10,
-      "status": "ok"
-    },
-    {
-      "id": "src-091",
-      "name": "Hyperallergic",
-      "category": "kultura",
-      "url": "https://hyperallergic.com/feed/",
-      "count": 10,
-      "status": "ok"
-    },
-    {
-      "id": "src-031",
-      "name": "MarketWatch Top Stories",
-      "category": "financije",
-      "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
-      "count": 10,
-      "status": "ok"
-    },
-    {
-      "id": "src-159",
-      "name": "Monochrome Watches",
-      "category": "satovi",
-      "url": "https://monochrome-watches.com/feed/",
-      "count": 10,
-      "status": "ok"
-    },
-    {
-      "id": "src-025",
-      "name": "Our World in Data",
-      "category": "ekonomija",
-      "url": "https://ourworldindata.org/atom.xml",
-      "count": 10,
-      "status": "ok"
-    },
-    {
-      "id": "src-040",
-      "name": "Payments Dive",
-      "category": "financije",
-      "url": "https://www.paymentsdive.com/feeds/news/",
-      "count": 10,
-      "status": "ok"
-    },
-    {
-      "id": "src-052",
-      "name": "Retail Dive",
-      "category": "trzista",
-      "url": "https://www.retaildive.com/feeds/news/",
-      "count": 10,
-      "status": "ok"
-    },
-    {
-      "id": "src-169",
-      "name": "Robb Report",
-      "category": "hedonizam",
-      "url": "https://robbreport.com/feed/",
-      "count": 10,
-      "status": "ok"
-    },
-    {
-      "id": "src-097",
-      "name": "Smithsonian Magazine",
-      "category": "kultura",
-      "url": "https://www.smithsonianmag.com/rss/latest_articles/",
-      "count": 10,
-      "status": "ok"
-    },
-    {
-      "id": "src-102",
-      "name": "Variety",
-      "category": "kultura",
-      "url": "https://variety.com/feed/",
-      "count": 10,
-      "status": "ok"
-    },
-    {
-      "id": "src-160",
-      "name": "Worn & Wound",
-      "category": "satovi",
-      "url": "https://wornandwound.com/feed/",
-      "count": 10,
-      "status": "ok"
-    },
-    {
-      "id": "src-110",
-      "name": "Yanko Design",
-      "category": "dizajn",
-      "url": "https://www.yankodesign.com/feed/",
+      "kind": "rss",
       "count": 10,
       "status": "ok"
     },
@@ -490,6 +841,331 @@
       "name": "Construction Dive",
       "category": "trzista",
       "url": "https://www.constructiondive.com/feeds/news/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-122",
+      "name": "Cool Hunting",
+      "category": "lifestyle",
+      "url": "https://coolhunting.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-107",
+      "name": "Designboom",
+      "category": "dizajn",
+      "url": "https://www.designboom.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-170",
+      "name": "Elite Traveler",
+      "category": "hedonizam",
+      "url": "https://elitetraveler.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-059",
+      "name": "Energy Monitor",
+      "category": "trzista",
+      "url": "https://www.energymonitor.ai/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-012",
+      "name": "Entrepreneur",
+      "category": "poslovanje",
+      "url": "https://www.entrepreneur.com/latest.rss",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-029",
+      "name": "FRED Blog",
+      "category": "ekonomija",
+      "url": "https://fredblog.stlouisfed.org/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-055",
+      "name": "Food Dive",
+      "category": "trzista",
+      "url": "https://www.fooddive.com/feeds/news/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-158",
+      "name": "Fratello",
+      "category": "satovi",
+      "url": "https://www.fratellowatches.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-146",
+      "name": "Global Finance",
+      "category": "financije",
+      "url": "https://gfmag.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-157",
+      "name": "HODINKEE",
+      "category": "satovi",
+      "url": "https://www.hodinkee.com/articles/rss.xml",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-103",
+      "name": "Hollywood Reporter",
+      "category": "kultura",
+      "url": "https://www.hollywoodreporter.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-037",
+      "name": "Investing.com Economic Indicators",
+      "category": "financije",
+      "url": "https://www.investing.com/rss/forex.rss",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-036",
+      "name": "Investing.com News",
+      "category": "financije",
+      "url": "https://www.investing.com/rss/news.rss",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-007",
+      "name": "Knowledge at Wharton",
+      "category": "poslovanje",
+      "url": "https://knowledge.wharton.upenn.edu/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-138",
+      "name": "LSE Business Review",
+      "category": "ekonomija",
+      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-066",
+      "name": "MIT Technology Review",
+      "category": "tehnologija",
+      "url": "https://www.technologyreview.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-053",
+      "name": "Manufacturing Dive",
+      "category": "trzista",
+      "url": "https://www.manufacturingdive.com/feeds/news/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-031",
+      "name": "MarketWatch Top Stories",
+      "category": "financije",
+      "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-073",
+      "name": "Microsoft Blog",
+      "category": "tehnologija",
+      "url": "https://blogs.microsoft.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-129",
+      "name": "Modern Farmer",
+      "category": "lifestyle",
+      "url": "https://modernfarmer.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-159",
+      "name": "Monochrome Watches",
+      "category": "satovi",
+      "url": "https://monochrome-watches.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-098",
+      "name": "MuseumNext",
+      "category": "kultura",
+      "url": "https://www.museumnext.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-079",
+      "name": "NASA Breaking News",
+      "category": "znanost",
+      "url": "https://www.nasa.gov/news-release/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-151",
+      "name": "Packaging Gateway",
+      "category": "trzista",
+      "url": "https://www.packaging-gateway.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-040",
+      "name": "Payments Dive",
+      "category": "financije",
+      "url": "https://www.paymentsdive.com/feeds/news/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-147",
+      "name": "Private Banker International",
+      "category": "financije",
+      "url": "https://www.privatebankerinternational.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-052",
+      "name": "Retail Dive",
+      "category": "trzista",
+      "url": "https://www.retaildive.com/feeds/news/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-169",
+      "name": "Robb Report",
+      "category": "hedonizam",
+      "url": "https://robbreport.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-097",
+      "name": "Smithsonian Magazine",
+      "category": "kultura",
+      "url": "https://www.smithsonianmag.com/rss/latest_articles/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-051",
+      "name": "Supply Chain Dive",
+      "category": "trzista",
+      "url": "https://www.supplychaindive.com/feeds/news/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-062",
+      "name": "The Verge",
+      "category": "tehnologija",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-102",
+      "name": "Variety",
+      "category": "kultura",
+      "url": "https://variety.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-168",
+      "name": "Wine Enthusiast",
+      "category": "pica",
+      "url": "https://www.wineenthusiast.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-160",
+      "name": "Worn & Wound",
+      "category": "satovi",
+      "url": "https://wornandwound.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-110",
+      "name": "Yanko Design",
+      "category": "dizajn",
+      "url": "https://www.yankodesign.com/feed/",
+      "kind": "rss",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "src-056",
+      "name": "Automotive Dive",
+      "category": "trzista",
+      "url": "https://www.automotivedive.com/feeds/news/",
+      "kind": "rss",
       "count": 9,
       "status": "ok"
     },
@@ -498,46 +1174,52 @@
       "name": "ESA",
       "category": "znanost",
       "url": "https://www.esa.int/rssfeed/Our_Activities",
+      "kind": "rss",
       "count": 9,
       "status": "ok"
     },
     {
-      "id": "src-055",
-      "name": "Food Dive",
+      "id": "src-150",
+      "name": "Logistics Manager",
       "category": "trzista",
-      "url": "https://www.fooddive.com/feeds/news/",
+      "url": "https://www.logisticsmanager.com/feed/",
+      "kind": "rss",
       "count": 9,
       "status": "ok"
     },
     {
-      "id": "src-036",
-      "name": "Investing.com News",
-      "category": "financije",
-      "url": "https://www.investing.com/rss/news.rss",
+      "id": "src-025",
+      "name": "Our World in Data",
+      "category": "ekonomija",
+      "url": "https://ourworldindata.org/atom.xml",
+      "kind": "rss",
       "count": 9,
       "status": "ok"
     },
     {
-      "id": "src-053",
-      "name": "Manufacturing Dive",
-      "category": "trzista",
-      "url": "https://www.manufacturingdive.com/feeds/news/",
-      "count": 9,
-      "status": "ok"
-    },
-    {
-      "id": "src-051",
-      "name": "Supply Chain Dive",
-      "category": "trzista",
-      "url": "https://www.supplychaindive.com/feeds/news/",
+      "id": "extra-symbol-kultura",
+      "name": "Symbol Quorum - kultura i umjetnost",
+      "category": "kultura",
+      "url": "https://symbol-quorum.com/category/kultura-umjetnost/",
+      "kind": "html",
       "count": 8,
       "status": "ok"
     },
     {
-      "id": "src-058",
-      "name": "AgFunderNews",
-      "category": "trzista",
-      "url": "https://agfundernews.com/feed",
+      "id": "src-124",
+      "name": "Highsnobiety",
+      "category": "lifestyle",
+      "url": "https://www.highsnobiety.com/feed/",
+      "kind": "rss",
+      "count": 7,
+      "status": "ok"
+    },
+    {
+      "id": "src-033",
+      "name": "Seeking Alpha Market News",
+      "category": "financije",
+      "url": "https://seekingalpha.com/market_currents.xml",
+      "kind": "rss",
       "count": 7,
       "status": "ok"
     },
@@ -546,15 +1228,44 @@
       "name": "VentureBeat",
       "category": "tehnologija",
       "url": "https://venturebeat.com/feed/",
+      "kind": "rss",
       "count": 7,
       "status": "ok"
     },
     {
-      "id": "src-079",
-      "name": "NASA Breaking News",
-      "category": "znanost",
-      "url": "https://www.nasa.gov/news-release/feed/",
-      "count": 1,
+      "id": "extra-symbol-gastronomija",
+      "name": "Symbol Quorum - gastronomija",
+      "category": "pica",
+      "url": "https://symbol-quorum.com/category/gastronomija/",
+      "kind": "html",
+      "count": 6,
+      "status": "ok"
+    },
+    {
+      "id": "extra-symbol-poduzetnistvo",
+      "name": "Symbol Quorum - poduzetništvo",
+      "category": "poslovanje",
+      "url": "https://symbol-quorum.com/category/poduzetnistvo/",
+      "kind": "html",
+      "count": 6,
+      "status": "ok"
+    },
+    {
+      "id": "src-171",
+      "name": "Luxuo",
+      "category": "hedonizam",
+      "url": "https://www.luxuo.com/feed",
+      "kind": "rss",
+      "count": 5,
+      "status": "ok"
+    },
+    {
+      "id": "extra-symbol-lifestyle",
+      "name": "Symbol Quorum - lifestyle",
+      "category": "lifestyle",
+      "url": "https://symbol-quorum.com/category/lifestyle/",
+      "kind": "html",
+      "count": 5,
       "status": "ok"
     },
     {
@@ -562,31 +1273,17 @@
       "name": "AI Magazine",
       "category": "tehnologija",
       "url": "https://aimagazine.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-074",
-      "name": "AWS News",
-      "category": "tehnologija",
-      "url": "https://aws.amazon.com/blogs/aws/feed/",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-152",
-      "name": "Airport Technology",
-      "category": "trzista",
-      "url": "https://www.airport-technology.com/feed/",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-116",
       "name": "Archinect",
       "category": "dizajn",
       "url": "https://archinect.com/feed",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -596,23 +1293,17 @@
       "name": "Artforum",
       "category": "kultura",
       "url": "https://www.artforum.com/rss.xml",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-094",
-      "name": "Artnet News",
-      "category": "kultura",
-      "url": "https://news.artnet.com/feed",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-005",
       "name": "BCG Insights",
       "category": "poslovanje",
       "url": "https://www.bcg.com/publications/rss.xml",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -622,6 +1313,7 @@
       "name": "BIS",
       "category": "ekonomija",
       "url": "https://www.bis.org/rss/bispress.xml",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -631,6 +1323,7 @@
       "name": "Bain Insights",
       "category": "poslovanje",
       "url": "https://www.bain.com/insights/rss/",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -640,6 +1333,7 @@
       "name": "Bank of England News",
       "category": "ekonomija",
       "url": "https://www.bankofengland.co.uk/news/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -649,23 +1343,17 @@
       "name": "Beauty Packaging",
       "category": "lifestyle",
       "url": "https://www.beautypackaging.com/rss/contents/view_breaking-news/",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-105",
-      "name": "Book Riot",
-      "category": "kultura",
-      "url": "https://bookriot.com/feed/",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-022",
       "name": "Brookings Economy",
       "category": "ekonomija",
       "url": "https://www.brookings.edu/topic/economy/feed/",
+      "kind": "rss",
       "count": 0,
       "status": "empty"
     },
@@ -674,6 +1362,7 @@
       "name": "BusinessGreen",
       "category": "poslovanje",
       "url": "https://www.businessgreen.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -683,23 +1372,17 @@
       "name": "Byrdie",
       "category": "lifestyle",
       "url": "https://www.byrdie.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "src-088",
-      "name": "Carbon Brief",
-      "category": "znanost",
-      "url": "https://www.carbonbrief.org/feed/",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-043",
       "name": "Central Banking",
       "category": "financije",
       "url": "https://www.centralbanking.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -709,31 +1392,17 @@
       "name": "Chicago Fed Blog",
       "category": "ekonomija",
       "url": "https://www.chicagofed.org/rss/rss.xml",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-089",
-      "name": "CleanTechnica",
-      "category": "znanost",
-      "url": "https://cleantechnica.com/feed/",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-075",
-      "name": "Cloudflare Blog",
-      "category": "tehnologija",
-      "url": "https://blog.cloudflare.com/rss/",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-111",
       "name": "Core77",
       "category": "dizajn",
       "url": "https://www.core77.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -743,6 +1412,7 @@
       "name": "Cyber Magazine",
       "category": "tehnologija",
       "url": "https://cybermagazine.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -752,6 +1422,7 @@
       "name": "Dallas Fed Economics",
       "category": "ekonomija",
       "url": "https://www.dallasfed.org/rss/research.xml",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -761,31 +1432,17 @@
       "name": "Data Centre Magazine",
       "category": "tehnologija",
       "url": "https://datacentremagazine.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-109",
-      "name": "Design Milk",
-      "category": "dizajn",
-      "url": "https://design-milk.com/feed/",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-125",
-      "name": "Design Milk Lifestyle",
-      "category": "lifestyle",
-      "url": "https://design-milk.com/category/lifestyle/feed/",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-120",
       "name": "Design Taxi",
       "category": "dizajn",
       "url": "https://designtaxi.com/rss.php",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -795,23 +1452,17 @@
       "name": "Design Week",
       "category": "kultura",
       "url": "https://www.designweek.co.uk/feed/",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "src-118",
-      "name": "DesignWanted",
-      "category": "dizajn",
-      "url": "https://designwanted.com/feed/",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-106",
       "name": "Dezeen",
       "category": "dizajn",
       "url": "https://www.dezeen.com/feed/",
+      "kind": "rss",
       "count": 0,
       "status": "empty"
     },
@@ -820,6 +1471,7 @@
       "name": "Dezeen Architecture",
       "category": "dizajn",
       "url": "https://www.dezeen.com/architecture/feed/",
+      "kind": "rss",
       "count": 0,
       "status": "empty"
     },
@@ -828,6 +1480,7 @@
       "name": "Dezeen Design",
       "category": "dizajn",
       "url": "https://www.dezeen.com/design/feed/",
+      "kind": "rss",
       "count": 0,
       "status": "empty"
     },
@@ -836,6 +1489,7 @@
       "name": "Dezeen Events",
       "category": "lifestyle",
       "url": "https://www.dezeen.com/events-guide/feed/",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -845,6 +1499,7 @@
       "name": "Dezeen Interiors",
       "category": "dizajn",
       "url": "https://www.dezeen.com/interiors/feed/",
+      "kind": "rss",
       "count": 0,
       "status": "empty"
     },
@@ -853,14 +1508,7 @@
       "name": "Dwell",
       "category": "dizajn",
       "url": "https://www.dwell.com/feed",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-019",
-      "name": "ECB Press",
-      "category": "ekonomija",
-      "url": "https://www.ecb.europa.eu/rss/press.html",
+      "kind": "rss",
       "count": 0,
       "status": "empty"
     },
@@ -869,49 +1517,37 @@
       "name": "ETF Trends",
       "category": "financije",
       "url": "https://www.etftrends.com/feed/",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "src-170",
-      "name": "Elite Traveler",
-      "category": "hedonizam",
-      "url": "https://elitetraveler.com/feed/",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-148",
       "name": "Energy Digital",
       "category": "trzista",
       "url": "https://energydigital.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-059",
-      "name": "Energy Monitor",
-      "category": "trzista",
-      "url": "https://www.energymonitor.ai/feed/",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-086",
       "name": "Environment + Energy Leader",
       "category": "znanost",
       "url": "https://www.environmentalleader.com/feed/",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
-      "error": "HTTP Error 422: Unprocessable Entity"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "src-078",
       "name": "EurekAlert",
       "category": "znanost",
       "url": "https://www.eurekalert.org/rss.xml",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -921,48 +1557,27 @@
       "name": "Eurostat",
       "category": "ekonomija",
       "url": "https://ec.europa.eu/eurostat/web/rss/news-releases",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: "
-    },
-    {
-      "id": "src-029",
-      "name": "FRED Blog",
-      "category": "ekonomija",
-      "url": "https://fredblog.stlouisfed.org/feed/",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-020",
-      "name": "Federal Reserve Press",
-      "category": "ekonomija",
-      "url": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-143",
       "name": "FinTech Magazine",
       "category": "financije",
       "url": "https://fintechmagazine.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-038",
-      "name": "Finextra",
-      "category": "financije",
-      "url": "https://www.finextra.com/rss/headlines.aspx",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-133",
       "name": "Forbes Entrepreneurs",
       "category": "poslovanje",
       "url": "https://www.forbes.com/entrepreneurs/feed/",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -972,48 +1587,27 @@
       "name": "Forbes Leadership",
       "category": "poslovanje",
       "url": "https://www.forbes.com/leadership/feed/",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-146",
-      "name": "Global Finance",
-      "category": "financije",
-      "url": "https://gfmag.com/feed/",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-001",
       "name": "Harvard Business Review",
       "category": "poslovanje",
       "url": "https://hbr.org/feed",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-124",
-      "name": "Highsnobiety",
-      "category": "lifestyle",
-      "url": "https://www.highsnobiety.com/feed/",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-103",
-      "name": "Hollywood Reporter",
-      "category": "kultura",
-      "url": "https://www.hollywoodreporter.com/feed/",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-016",
       "name": "IMF Blog",
       "category": "ekonomija",
       "url": "https://www.imf.org/en/Blogs/RSS",
+      "kind": "rss",
       "count": 0,
       "status": "empty"
     },
@@ -1022,6 +1616,7 @@
       "name": "INSEAD Knowledge",
       "category": "poslovanje",
       "url": "https://knowledge.insead.edu/rss.xml",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 403: Forbidden"
@@ -1031,6 +1626,7 @@
       "name": "Inc",
       "category": "poslovanje",
       "url": "https://www.inc.com/rss.xml",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -1040,23 +1636,17 @@
       "name": "InsurTech Digital",
       "category": "financije",
       "url": "https://insurtechdigital.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-037",
-      "name": "Investing.com Economic Indicators",
-      "category": "financije",
-      "url": "https://www.investing.com/rss/forex.rss",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-100",
       "name": "It's Nice That",
       "category": "kultura",
       "url": "https://www.itsnicethat.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -1066,6 +1656,7 @@
       "name": "JCK",
       "category": "nakit",
       "url": "https://www.jckonline.com/feed/",
+      "kind": "rss",
       "count": 0,
       "status": "empty"
     },
@@ -1074,6 +1665,7 @@
       "name": "Kellogg Insight",
       "category": "poslovanje",
       "url": "https://insight.kellogg.northwestern.edu/feed",
+      "kind": "rss",
       "count": 0,
       "status": "empty"
     },
@@ -1082,145 +1674,37 @@
       "name": "Kitco News",
       "category": "trzista",
       "url": "https://www.kitco.com/rss/news.xml",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-007",
-      "name": "Knowledge at Wharton",
-      "category": "poslovanje",
-      "url": "https://knowledge.wharton.upenn.edu/feed/",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-138",
-      "name": "LSE Business Review",
-      "category": "ekonomija",
-      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-030",
-      "name": "Liberty Street Economics",
-      "category": "ekonomija",
-      "url": "https://libertystreeteconomics.newyorkfed.org/feed/",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-150",
-      "name": "Logistics Manager",
-      "category": "trzista",
-      "url": "https://www.logisticsmanager.com/feed/",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-127",
       "name": "Lonely Planet",
       "category": "lifestyle",
       "url": "https://www.lonelyplanet.com/news/feed",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-171",
-      "name": "Luxuo",
-      "category": "hedonizam",
-      "url": "https://www.luxuo.com/feed",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-002",
-      "name": "MIT Sloan Management Review",
-      "category": "poslovanje",
-      "url": "https://sloanreview.mit.edu/feed/",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-066",
-      "name": "MIT Technology Review",
-      "category": "tehnologija",
-      "url": "https://www.technologyreview.com/feed/",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-032",
-      "name": "MarketWatch Markets",
-      "category": "financije",
-      "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-004",
-      "name": "McKinsey Insights",
-      "category": "poslovanje",
-      "url": "https://www.mckinsey.com/insights/rss.aspx",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-073",
-      "name": "Microsoft Blog",
-      "category": "tehnologija",
-      "url": "https://blogs.microsoft.com/feed/",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "extra-care-002",
-      "name": "MindBodyGreen",
-      "category": "lifestyle",
-      "url": "https://www.mindbodygreen.com/rss.xml",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-049",
       "name": "Mining.com",
       "category": "trzista",
       "url": "https://www.mining.com/feed/",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "src-129",
-      "name": "Modern Farmer",
-      "category": "lifestyle",
-      "url": "https://modernfarmer.com/feed/",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-098",
-      "name": "MuseumNext",
-      "category": "kultura",
-      "url": "https://www.museumnext.com/feed/",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-139",
-      "name": "NBER Digest",
-      "category": "ekonomija",
-      "url": "https://www.nber.org/rss/new.xml",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-034",
       "name": "Nasdaq Markets",
       "category": "financije",
       "url": "https://www.nasdaq.com/feed/rssoutbound?category=Markets",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "The read operation timed out"
@@ -1230,88 +1714,27 @@
       "name": "Nasdaq Stocks",
       "category": "financije",
       "url": "https://www.nasdaq.com/feed/rssoutbound?category=Stocks",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "The read operation timed out"
-    },
-    {
-      "id": "src-083",
-      "name": "Nature News",
-      "category": "znanost",
-      "url": "https://www.nature.com/nature.rss",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "extra-beauty-003",
-      "name": "NewBeauty",
-      "category": "lifestyle",
-      "url": "https://www.newbeauty.com/feed/",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-018",
       "name": "OECD Newsroom",
       "category": "ekonomija",
       "url": "https://www.oecd.org/newsroom/publicationsdocuments/rss.xml",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "src-047",
-      "name": "OilPrice",
-      "category": "trzista",
-      "url": "https://oilprice.com/rss/main",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-096",
-      "name": "Open Culture",
-      "category": "kultura",
-      "url": "https://www.openculture.com/feed",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-072",
-      "name": "OpenAI News",
-      "category": "tehnologija",
-      "url": "https://openai.com/news/rss.xml",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-084",
-      "name": "PLOS Biology",
-      "category": "znanost",
-      "url": "https://journals.plos.org/plosbiology/feed/atom",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-060",
-      "name": "PV Magazine",
-      "category": "trzista",
-      "url": "https://www.pv-magazine.com/feed/",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-151",
-      "name": "Packaging Gateway",
-      "category": "trzista",
-      "url": "https://www.packaging-gateway.com/feed/",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-131",
       "name": "PetMD",
       "category": "lifestyle",
       "url": "https://www.petmd.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -1321,23 +1744,17 @@
       "name": "Peterson Institute",
       "category": "ekonomija",
       "url": "https://www.piie.com/rss.xml",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "src-147",
-      "name": "Private Banker International",
-      "category": "financije",
-      "url": "https://www.privatebankerinternational.com/feed/",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-149",
       "name": "Procurement Magazine",
       "category": "trzista",
       "url": "https://procurementmag.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -1347,40 +1764,27 @@
       "name": "Risk.net",
       "category": "financije",
       "url": "https://www.risk.net/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-076",
-      "name": "ScienceDaily",
-      "category": "znanost",
-      "url": "https://www.sciencedaily.com/rss/all.xml",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-082",
       "name": "Scientific American",
       "category": "znanost",
       "url": "https://www.scientificamerican.com/feed/",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-033",
-      "name": "Seeking Alpha Market News",
-      "category": "financije",
-      "url": "https://seekingalpha.com/market_currents.xml",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-008",
       "name": "Stanford GSB Insights",
       "category": "poslovanje",
       "url": "https://www.gsb.stanford.edu/insights/rss.xml",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -1390,6 +1794,7 @@
       "name": "Strategy+Business",
       "category": "poslovanje",
       "url": "https://www.strategy-business.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "empty"
     },
@@ -1398,23 +1803,17 @@
       "name": "Sustainability Magazine",
       "category": "poslovanje",
       "url": "https://sustainabilitymag.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-061",
-      "name": "TechCrunch",
-      "category": "tehnologija",
-      "url": "https://techcrunch.com/feed/",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-156",
       "name": "Technology Magazine",
       "category": "tehnologija",
       "url": "https://technologymagazine.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -1424,6 +1823,7 @@
       "name": "The Banker",
       "category": "financije",
       "url": "https://www.thebanker.com/rss.xml",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -1433,6 +1833,7 @@
       "name": "The Dodo",
       "category": "lifestyle",
       "url": "https://www.thedodo.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -1442,6 +1843,7 @@
       "name": "The Paypers",
       "category": "financije",
       "url": "https://thepaypers.com/rss.xml",
+      "kind": "rss",
       "count": 0,
       "status": "empty"
     },
@@ -1450,23 +1852,17 @@
       "name": "The Spruce Pets",
       "category": "lifestyle",
       "url": "https://www.thesprucepets.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "src-062",
-      "name": "The Verge",
-      "category": "tehnologija",
-      "url": "https://www.theverge.com/rss/index.xml",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-161",
       "name": "Time+Tide Watches",
       "category": "satovi",
       "url": "https://timeandtidewatches.com/feed/",
+      "kind": "rss",
       "count": 0,
       "status": "empty"
     },
@@ -1475,6 +1871,7 @@
       "name": "Trading Economics",
       "category": "trzista",
       "url": "https://tradingeconomics.com/rss/news.aspx",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 403: Forbidden"
@@ -1484,23 +1881,17 @@
       "name": "Treehugger",
       "category": "lifestyle",
       "url": "https://www.treehugger.com/rss",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "src-166",
-      "name": "VinePair",
-      "category": "pica",
-      "url": "https://vinepair.com/feed/",
-      "count": 0,
-      "status": "empty"
     },
     {
       "id": "src-024",
       "name": "VoxEU",
       "category": "ekonomija",
       "url": "https://cepr.org/voxeu/rss.xml",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -1510,14 +1901,7 @@
       "name": "Well+Good",
       "category": "lifestyle",
       "url": "https://www.wellandgood.com/feed/",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-168",
-      "name": "Wine Enthusiast",
-      "category": "pica",
-      "url": "https://www.wineenthusiast.com/feed/",
+      "kind": "rss",
       "count": 0,
       "status": "empty"
     },
@@ -1526,6 +1910,7 @@
       "name": "World Architecture Community",
       "category": "dizajn",
       "url": "https://worldarchitecture.org/architecture-news/?rss",
+      "kind": "rss",
       "count": 0,
       "status": "empty"
     },
@@ -1534,6 +1919,7 @@
       "name": "World Bank Blogs",
       "category": "ekonomija",
       "url": "https://blogs.worldbank.org/en/rss.xml",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
@@ -1543,28 +1929,13 @@
       "name": "World Economic Forum",
       "category": "ekonomija",
       "url": "https://www.weforum.org/agenda/feed",
+      "kind": "rss",
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "src-087",
-      "name": "Yale Environment 360",
-      "category": "znanost",
-      "url": "https://e360.yale.edu/feed.xml",
-      "count": 0,
-      "status": "empty"
-    },
-    {
-      "id": "src-069",
-      "name": "ZDNET",
-      "category": "tehnologija",
-      "url": "https://www.zdnet.com/news/rss.xml",
-      "count": 0,
-      "status": "empty"
     }
   ],
   "active_limit": 1660,
-  "archive_count": 0,
+  "archive_count": 629,
   "gallery_count": 500
 }
