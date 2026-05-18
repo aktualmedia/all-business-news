@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T08:54:19.329660+00:00",
+  "updated_at": "2026-05-18T09:06:21.139828+00:00",
   "sources": 194,
   "ok_sources": 126,
   "failed_sources": 54,
@@ -17,17 +17,28 @@
     "Symbol Quorum - poduzetništvo": 6,
     "Symbol Quorum - kultura i umjetnost": 8,
     "NBER Digest": 12,
+    "Phys.org": 47,
+    "Banking Dive": 10,
+    "Supply Chain Dive": 12,
+    "Retail Dive": 13,
+    "Manufacturing Dive": 11,
+    "Construction Dive": 12,
+    "Food Dive": 12,
+    "Automotive Dive": 10,
+    "Hypebeast": 49,
+    "MarketWatch Top Stories": 25,
+    "Seeking Alpha Market News": 21,
+    "ScienceDaily": 14,
     "Packaging Gateway": 15,
     "PV Magazine": 13,
+    "Luxuo": 6,
     "Hollywood Reporter": 17,
     "Variety": 82,
     "Logistics Manager": 13,
     "Yanko Design": 24,
     "Deadline": 73,
     "The Spirits Business": 32,
-    "Seeking Alpha Market News": 19,
     "The Register": 49,
-    "Hypebeast": 47,
     "Investing.com Economic Indicators": 15,
     "OilPrice": 14,
     "Engadget": 28,
@@ -39,19 +50,15 @@
     "DesignWanted": 13,
     "Monochrome Watches": 12,
     "Decanter": 46,
-    "Investing.com News": 126,
+    "Investing.com News": 135,
+    "Fast Company": 26,
     "CleanTechnica": 13,
-    "Fast Company": 25,
     "Wallpaper": 47,
-    "ScienceDaily": 12,
-    "Luxuo": 5,
     "Fratello": 13,
     "Elite Traveler": 10,
     "Medical Xpress": 59,
-    "MarketWatch Top Stories": 24,
     "ArchDaily": 31,
     "ZDNET": 12,
-    "Phys.org": 44,
     "Our World in Data": 11,
     "The Verge": 10,
     "Robb Report": 14,
@@ -87,17 +94,10 @@
     "Wine Enthusiast": 10,
     "Atlas Obscura": 26,
     "AgFunderNews": 36,
-    "Construction Dive": 10,
     "Knowledge at Wharton": 10,
     "Colossal": 10,
-    "Retail Dive": 10,
-    "Banking Dive": 9,
-    "Manufacturing Dive": 9,
     "Yale Environment 360": 12,
     "Design Milk": 12,
-    "Food Dive": 10,
-    "Automotive Dive": 9,
-    "Supply Chain Dive": 10,
     "ESA": 9,
     "Carbon Brief": 10,
     "Payments Dive": 10,
@@ -307,6 +307,15 @@
       "status": "ok"
     },
     {
+      "id": "src-118",
+      "name": "DesignWanted",
+      "category": "dizajn",
+      "url": "https://designwanted.com/feed/",
+      "kind": "rss",
+      "count": 12,
+      "status": "ok"
+    },
+    {
       "id": "extra-pets-003",
       "name": "Dogster",
       "category": "lifestyle",
@@ -500,15 +509,6 @@
       "name": "MindBodyGreen",
       "category": "lifestyle",
       "url": "https://www.mindbodygreen.com/rss.xml",
-      "kind": "rss",
-      "count": 12,
-      "status": "ok"
-    },
-    {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
       "kind": "rss",
       "count": 12,
       "status": "ok"
@@ -1207,15 +1207,6 @@
       "status": "ok"
     },
     {
-      "id": "src-124",
-      "name": "Highsnobiety",
-      "category": "lifestyle",
-      "url": "https://www.highsnobiety.com/feed/",
-      "kind": "rss",
-      "count": 7,
-      "status": "ok"
-    },
-    {
       "id": "src-033",
       "name": "Seeking Alpha Market News",
       "category": "financije",
@@ -1231,6 +1222,15 @@
       "url": "https://venturebeat.com/feed/",
       "kind": "rss",
       "count": 7,
+      "status": "ok"
+    },
+    {
+      "id": "src-124",
+      "name": "Highsnobiety",
+      "category": "lifestyle",
+      "url": "https://www.highsnobiety.com/feed/",
+      "kind": "rss",
+      "count": 6,
       "status": "ok"
     },
     {
@@ -1457,16 +1457,6 @@
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "src-118",
-      "name": "DesignWanted",
-      "category": "dizajn",
-      "url": "https://designwanted.com/feed/",
-      "kind": "rss",
-      "count": 0,
-      "status": "failed",
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "id": "src-106",
@@ -1699,6 +1689,16 @@
       "count": 0,
       "status": "failed",
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
+      "kind": "rss",
+      "count": 0,
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-034",
@@ -1937,6 +1937,6 @@
     }
   ],
   "active_limit": 1660,
-  "archive_count": 804,
+  "archive_count": 838,
   "gallery_count": 500
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T08:54:19.443327+00:00",
+  "updated_at": "2026-05-18T09:06:21.259471+00:00",
   "sources": 194,
   "ok": 126,
   "problem": 54,
@@ -207,6 +207,17 @@
       "name": "Design Milk",
       "category": "dizajn",
       "url": "https://design-milk.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-118",
+      "name": "DesignWanted",
+      "category": "dizajn",
+      "url": "https://designwanted.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -449,17 +460,6 @@
       "name": "MindBodyGreen",
       "category": "lifestyle",
       "url": "https://www.mindbodygreen.com/rss.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1314,17 +1314,6 @@
       "error": ""
     },
     {
-      "id": "src-124",
-      "name": "Highsnobiety",
-      "category": "lifestyle",
-      "url": "https://www.highsnobiety.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 7,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-033",
       "name": "Seeking Alpha Market News",
       "category": "financije",
@@ -1343,6 +1332,17 @@
       "status": "ok",
       "label": "radi",
       "count": 7,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-124",
+      "name": "Highsnobiety",
+      "category": "lifestyle",
+      "url": "https://www.highsnobiety.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 6,
       "score": 100,
       "error": ""
     },
@@ -1743,17 +1743,6 @@
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "id": "src-118",
-      "name": "DesignWanted",
-      "category": "dizajn",
-      "url": "https://designwanted.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
-    },
-    {
       "id": "src-132",
       "name": "Dezeen Events",
       "category": "lifestyle",
@@ -1928,6 +1917,17 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-034",
