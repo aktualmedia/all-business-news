@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T18:34:06.324509+00:00",
+  "updated_at": "2026-05-18T05:49:39.364084+00:00",
   "sources": 13,
   "ok_sources": 1,
   "events_count": 2,
@@ -87,7 +87,7 @@
       "type": "muzej",
       "status": "failed",
       "count": 0,
-      "error": "HTTP Error 404: Not Found"
+      "error": "<urlopen error timed out>"
     },
     {
       "id": "etnografski-muzej",
