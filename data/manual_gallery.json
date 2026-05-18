@@ -90,6 +90,16 @@
     "auto_from_news": true
   },
   {
+    "title": "Where AI is creating real value in real estate",
+    "description": "McKinsey Insights · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-7bdb00658b5e/1200/750",
+    "category": "muzeji",
+    "label": "MUZEJI",
+    "source_url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/where-ai-is-creating-real-value-in-real-estate",
+    "created_at": "Fri, 15 May 2026",
+    "auto_from_news": true
+  },
+  {
     "title": "From AI table stakes to AI advantage: Building competitive moats",
     "description": "McKinsey Insights · fotografija iz vijesti",
     "image": "https://picsum.photos/seed/wv-news-f5025c55b446/1200/750",
@@ -110,16 +120,6 @@
     "auto_from_news": true
   },
   {
-    "title": "Where AI is creating real value in real estate",
-    "description": "McKinsey Insights · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-7bdb00658b5e/1200/750",
-    "category": "muzeji",
-    "label": "MUZEJI",
-    "source_url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/where-ai-is-creating-real-value-in-real-estate",
-    "created_at": "Fri, 15 May 2026",
-    "auto_from_news": true
-  },
-  {
     "title": "OpenAI begins roll out of personal finance suite",
     "description": "Finextra · fotografija iz vijesti",
     "image": "https://picsum.photos/seed/wv-news-c33d1f10726a/1200/750",
@@ -127,6 +127,1336 @@
     "label": "FINANCIJE",
     "source_url": "https://www.finextra.com/newsarticle/47767/openai-begins-roll-out-of-personal-finance-suite?utm_medium=rssfinextra&utm_source=finextrafeed",
     "created_at": "2026-05-18T10:19:00+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Pad Thai je kultni tajlandski street food koji je osvojio svijet. Imamo recept koji možete napraviti kod kuće Utorak, 12. svibnja 2026.",
+    "description": "Journal.hr - gastro · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/pad-thai-recept-768x432.jpg",
+    "category": "hedonizam",
+    "label": "HEDONIZAM",
+    "source_url": "https://www.journal.hr/lifestyle/gastro/pad-thai-recept/",
+    "created_at": "2026-05-18T09:48:48.409333+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Restoran Fenix u hotelu Hyatt Regency Zadar otvorio drugu sezonu Srijeda, 13. svibnja 2026.",
+    "description": "Journal.hr - gastro · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Fenix_1-768x512.jpg",
+    "category": "hedonizam",
+    "label": "HEDONIZAM",
+    "source_url": "https://www.journal.hr/lifestyle/gastro/restoran-fenix-hotel-hyatt-regency-zadar-nova-sezona/",
+    "created_at": "2026-05-18T09:48:48.409189+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Boogie Moonlight Sessions nastavlja se uz goste iz regije. Ove subote u Boogie stižu nova velika imena Četvrtak, 14. svibnja 2026.",
+    "description": "Journal.hr - gastro · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/boogie-moonlight-sessions-3-768x432.jpg",
+    "category": "hedonizam",
+    "label": "HEDONIZAM",
+    "source_url": "https://www.journal.hr/lifestyle/gastro/boogie-moonlight-sessions-druga-vecer/",
+    "created_at": "2026-05-18T09:48:48.409069+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Počeli su dani jagoda 2026. u Le Bistrou i Baru Hotela Esplanade. Nude razne slastice i koktele Četvrtak, 14. svibnja 2026.",
+    "description": "Journal.hr - gastro · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Dani-jagoda-2026-photo-by-Lili-Basic.jpg-28-768x512.jpg",
+    "category": "hedonizam",
+    "label": "HEDONIZAM",
+    "source_url": "https://www.journal.hr/lifestyle/gastro/dani-jagoda-2026-hotel-esplanade/",
+    "created_at": "2026-05-18T09:48:48.408927+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Najzabavniji proljetni festival Beats&Bites od idućeg tjedna ponovno na Mažurancu. Imamo detalje Četvrtak, 14. svibnja 2026.",
+    "description": "Journal.hr - gastro · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/bits-bites-festival-7-768x432.jpg",
+    "category": "film",
+    "label": "FILM",
+    "source_url": "https://www.journal.hr/lifestyle/gastro/beats-bites-2026/",
+    "created_at": "2026-05-18T09:48:48.408778+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Chef Jurica Obrol gostuje u Pizzi Shango, a donosimo i cijeli popis aktualnih gastro događanja u Zagrebu Petak, 15. svibnja 2026.",
+    "description": "Journal.hr - gastro · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/gastro-dogadanja-u-zg-scaled-e1778751170850-768x576.jpeg",
+    "category": "hedonizam",
+    "label": "HEDONIZAM",
+    "source_url": "https://www.journal.hr/lifestyle/gastro/gastro-dogadanja-u-zagrebu-2026/",
+    "created_at": "2026-05-18T09:48:48.408641+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Naš savršen doručak u zadnje vrijeme uključuje zobene pahuljice, limun, mak i pistacije. Imamo recept Petak, 15. svibnja 2026.",
+    "description": "Journal.hr - gastro · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/zobene-s-limunom-i-pistacijama-scaled-e1778066760309-768x505.jpg",
+    "category": "hedonizam",
+    "label": "HEDONIZAM",
+    "source_url": "https://www.journal.hr/lifestyle/gastro/zobene-pahuljice-s-limunom-i-pistacijama/",
+    "created_at": "2026-05-18T09:48:48.408488+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Chicken rice bowl je lagan, ukusan i brzo gotov obrok, idealan za ručak ili večeru. Imamo recept Petak, 15. svibnja 2026.",
+    "description": "Journal.hr - gastro · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/chicken-rice-bowls-1-scaled-e1778682272170-768x505.jpg",
+    "category": "hedonizam",
+    "label": "HEDONIZAM",
+    "source_url": "https://www.journal.hr/lifestyle/gastro/chicken-rice-bowl/",
+    "created_at": "2026-05-18T09:48:48.408334+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Pronašli smo recept za rustikalni tart s malinama, jagodama i bijelom čokoladom Subota, 16. svibnja 2026.",
+    "description": "Journal.hr - gastro · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2024/05/Rustikalni-tart-s-malinama-jagodama-i-bijelom-cokoladom_Zara-home-768x605.jpg",
+    "category": "hedonizam",
+    "label": "HEDONIZAM",
+    "source_url": "https://www.journal.hr/lifestyle/gastro/tart-s-malinama-jagodama-i-bijelom-cokoladom-zara-home/",
+    "created_at": "2026-05-18T09:48:48.408173+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "James Henry je zgodan australski chef koji je pomogao redefinirati parišku gastronomiju Nedjelja, 17. svibnja 2026.",
+    "description": "Journal.hr - gastro · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/James-Henry-3-768x471.webp",
+    "category": "hedonizam",
+    "label": "HEDONIZAM",
+    "source_url": "https://www.journal.hr/lifestyle/gastro/chef-james-henry/",
+    "created_at": "2026-05-18T09:48:48.407979+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Tost sa graškom i ricottom mogao bi vam postati omiljen doručak, imamo najbolji recept Nedjelja, 17. svibnja 2026.",
+    "description": "Journal.hr - gastro · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2025/06/tost-s-ricottom-i-graskom-e1778749471418-768x512.jpg",
+    "category": "hedonizam",
+    "label": "HEDONIZAM",
+    "source_url": "https://www.journal.hr/lifestyle/gastro/tost-sa-graskom-i-ricottom/",
+    "created_at": "2026-05-18T09:48:48.407820+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Kada ste zadnji put jeli zapečene palačinke sa sirom? Donosimo najbolji domaći recept Ponedjeljak, 18. svibnja 2026.",
+    "description": "Journal.hr - gastro · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/02/zapecene-palacinke-sa-sirom-1-scaled-e1770365408629-768x512.jpg",
+    "category": "hedonizam",
+    "label": "HEDONIZAM",
+    "source_url": "https://www.journal.hr/lifestyle/gastro/zapecene-palacinke-sa-sirom/",
+    "created_at": "2026-05-18T09:48:48.407661+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Možete li zamisliti stan bez zidova? Ovaj interijer pokazuje kako otvoren prostor mijenja svakodnevicu Utorak, 05. svibnja 2026.",
+    "description": "Journal.hr - interijeri · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/stan-bez-zidova_prag_rdth-studio-filip-beranek-1-768x512.jpg",
+    "category": "dizajn",
+    "label": "DIZAJN",
+    "source_url": "https://www.journal.hr/lifestyle/interijeri/stan-bez-zidova-rdth-studio/",
+    "created_at": "2026-05-18T09:48:47.857627+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Poznati zagrebački hotel dobiva potpuno novo lice. Sve o projektu i planovima za ovu lokaciju Srijeda, 06. svibnja 2026.",
+    "description": "Journal.hr - interijeri · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/novi-hotel-u-Zagrebu_Tiberius-Hotels_Marriott-International-1-768x434.jpg",
+    "category": "dizajn",
+    "label": "DIZAJN",
+    "source_url": "https://www.journal.hr/lifestyle/interijeri/hotel-u-zagrebu-hotel-academia-obnova/",
+    "created_at": "2026-05-18T09:48:47.857471+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Tajni raj uz obalu: Grčki smještaj koji pruža idiličan bijeg od svakodnevice Petak, 08. svibnja 2026.",
+    "description": "Journal.hr - interijeri · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2025/03/Seaweed-Studio-u-Grckoj_-Airbnb-768x512.jpg",
+    "category": "dizajn",
+    "label": "DIZAJN",
+    "source_url": "https://www.journal.hr/lifestyle/interijeri/seaweed-studio-otok-milos-grcka-smjestaj/",
+    "created_at": "2026-05-18T09:48:47.857304+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Interijer ove kuće elegantan je i bezvremenski primjer rekonstrukcije vile iz kasnih 30-ih godina Subota, 09. svibnja 2026.",
+    "description": "Journal.hr - interijeri · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/vila-u-Ceskoj-villa-m-boysplaynice-01-9-768x576.jpg",
+    "category": "dizajn",
+    "label": "DIZAJN",
+    "source_url": "https://www.journal.hr/lifestyle/interijeri/vila-u-ceskoj-villa-m/",
+    "created_at": "2026-05-18T09:48:47.857159+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Kultni hotel Francuske rivijere, koji je navodno posjećivala i Audrey Hepburn, ponovo otvara vrata Nedjelja, 10. svibnja 2026.",
+    "description": "Journal.hr - interijeri · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Le-Beauvallon-hotel_glavna-naslovna-foto-768x473.jpg",
+    "category": "dizajn",
+    "label": "DIZAJN",
+    "source_url": "https://www.journal.hr/lifestyle/putovanja/le-beauvallon-hotel-saint-tropez/",
+    "created_at": "2026-05-18T09:48:47.857009+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "U Splitu otvoren prvi Design Hotel: Evo kako izgleda glamur na Bačvicama Ponedjeljak, 11. svibnja 2026.",
+    "description": "Journal.hr - interijeri · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/03/Venturo-5-768x549.jpg",
+    "category": "dizajn",
+    "label": "DIZAJN",
+    "source_url": "https://www.journal.hr/lifestyle/interijeri/boutique-hotel-venturo-split-design-hotels-marriott-international/",
+    "created_at": "2026-05-18T09:48:47.856871+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Pariški hotel L’Aventure je posveta art deco estetici, noćnom životu i bojama Utorak, 12. svibnja 2026.",
+    "description": "Journal.hr - interijeri · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/LAventure-Paris-2-768x512.webp",
+    "category": "dizajn",
+    "label": "DIZAJN",
+    "source_url": "https://www.journal.hr/lifestyle/interijeri/hotel-laventure-pariz-francuska/",
+    "created_at": "2026-05-18T09:48:47.856736+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Nova IKEA PS kolekcija od sljedećeg je tjedna u prodaji, a osim fotelje na napuhavanje imamo još favorita Srijeda, 13. svibnja 2026.",
+    "description": "Journal.hr - interijeri · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/IKEA-PS-2026-kolekcija_17-1-e1778671308815-768x577.jpg",
+    "category": "dizajn",
+    "label": "DIZAJN",
+    "source_url": "https://www.journal.hr/lifestyle/interijeri/ikea-ps-kolekcija-2026-journal-favoriti/",
+    "created_at": "2026-05-18T09:48:47.856611+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Obiteljski dom u kojem umjetnost ne služi samo kao dekoracija, već kao dio koji oblikuje prostor Srijeda, 13. svibnja 2026.",
+    "description": "Journal.hr - interijeri · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2025/02/X-AE-M-22_open_space_6-wizia_studio-2025-1-768x528.jpg",
+    "category": "dizajn",
+    "label": "DIZAJN",
+    "source_url": "https://www.journal.hr/lifestyle/interijeri/x-ae-m-22-obiteljski-dom-u-kojem-umjetnost-ima-glavnu-rijec/",
+    "created_at": "2026-05-18T09:48:47.856472+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Home Edit: Želite urediti glazbeni kutak u svom domu? Zara Home ima komade koji spajaju dizajn i dobar zvuk Petak, 15. svibnja 2026.",
+    "description": "Journal.hr - interijeri · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2025/10/kako-urediti-glazbeni-kutak-u-domu_Zara-Home_glavna-naslovna-768x511.jpg",
+    "category": "dizajn",
+    "label": "DIZAJN",
+    "source_url": "https://www.journal.hr/lifestyle/interijeri/glazbeni-kutak-u-domu-home-edit/",
+    "created_at": "2026-05-18T09:48:47.856311+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Tko se boji boje još? Interijer ovog stana ne zazire od kolorita, a ružičastu kuhinju teško je “izbaciti” iz glave Subota, 16. svibnja 2026.",
+    "description": "Journal.hr - interijeri · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/ASAP-Pitro-Sammer_Stan-u-Becu-6-768x576.jpg",
+    "category": "dizajn",
+    "label": "DIZAJN",
+    "source_url": "https://www.journal.hr/lifestyle/interijeri/stan-u-becu-asap-pitro-sammer/",
+    "created_at": "2026-05-18T09:48:47.856149+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Stan za četveročlanu obitelj u obnovi je uspješno spojio originalne elemente i moderni interijer Nedjelja, 17. svibnja 2026.",
+    "description": "Journal.hr - interijeri · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/stan-u-Milanu_Offstage-1-768x515.png",
+    "category": "dizajn",
+    "label": "DIZAJN",
+    "source_url": "https://www.journal.hr/lifestyle/interijeri/stan-u-milanu-offstage/",
+    "created_at": "2026-05-18T09:48:47.855974+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Za jedne kontroverzan, za druge oslobađajuć: Bio je hrvatski kandidat za Oscara, napokon dolazi u kina",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2024/09/Lijepa-vecer-lijep-dan-4-768x321.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/lijepa-vecer-lijep-dan-film/",
+    "created_at": "2026-05-18T09:48:47.271578+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Filmski maraton: Zendaya je jedna od najuzbudljivijih mladih glumica, a ovo su joj najbolje uloge",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2024/10/Zendaya_imdb-4-768x405.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/zendaya-filmski-maraton/",
+    "created_at": "2026-05-18T09:48:47.271368+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Filmski maraton: 10 najboljih glazbenih biografskih filmova koje možete pogledati",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/glazbeni-biografski-filmovi_imdb-4-768x640.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/glazbeni-biografski-filmovi-filmski-maraton/",
+    "created_at": "2026-05-18T09:48:47.271278+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Filmski maraton: Povodom Vrag nosi Pradu 2, izdvajamo 19 najboljih izvedbi Meryl Streep",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2023/06/Meryl-Streep_imdb-6-768x484.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://www.journal.hr/kultura/filmski-maraton-meryl-streep/",
+    "created_at": "2026-05-18T09:48:47.271180+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Filmski maraton: Prije nego što u kina stigne Odiseja, prisjećamo se najboljih uloga Matta Damona",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Matt-Damon_imdb-10-768x510.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/matt-damon-filmski-maraton/",
+    "created_at": "2026-05-18T09:48:47.271093+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Film, kazalište i TV Nova generacija na putu uspjeha: Ostvarenje mlade hrvatske filmašice gledamo u Cannesu",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Left-Behind-Still-Standing-2-768x534.png",
+    "category": "film",
+    "label": "FILM",
+    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/odbaceni-a-uspravni-film/",
+    "created_at": "2026-05-18T09:48:47.271004+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Film, kazalište i TV Ovaj film već je veliki kandidat za osvajanje Zlatne palme na Filmskom festivalu u Cannesu",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Filmski-festival-u-Cannesu_imdb-6-768x576.jpg",
+    "category": "film",
+    "label": "FILM",
+    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/fatherland-film/",
+    "created_at": "2026-05-18T09:48:47.270908+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Film, kazalište i TV Pogledali smo: Druga sezona serije Beef kaotična je i sjajno odglumljena, ali nema čar koju smo očekivali",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Beef_imdb-2-768x432.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/beef-pogledali-smo-drugu-sezonu/",
+    "created_at": "2026-05-18T09:48:47.270755+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Film, kazalište i TV Vrag nosi Pradu 2 je sve što smo htjeli i ništa više. To je s jedne strane sjajno, a s druge razočaravajuće",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Vrag-nosi-Pradu-2_imdb-1-768x512.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/vrag-nosi-pradu-2-pogledali-smo/",
+    "created_at": "2026-05-18T09:48:47.270657+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Knjige Krhka dob je izazovno, uzbudljivo, na momente čak i jezivo djelo. O njemu piše Ilina Cenov",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/zena_pexels-yaroslav-shuraev-5978341-768x581.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://www.journal.hr/kultura/knjige/krhka-dob-ilina-cenov-procitali-smo/",
+    "created_at": "2026-05-18T09:48:47.270559+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Film, kazalište i TV Film Remarkably Bright Creatures donosi nesvakidašnju priču o prijateljstvu, obitelji i nadi",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Remarkably-Bright-Creatures_imdb-550x297.jpg",
+    "category": "film",
+    "label": "FILM",
+    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/remarkably-bright-creatures-netflix/",
+    "created_at": "2026-05-18T09:48:47.270461+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Film, kazalište i TV Hoće li ovo biti najveći flop na Cannesu? Ni francuske ikone nisu mogle spasiti ovaj film od pljuvanja kritičara",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Parallel-Tales_profimedia-1099070130-550x367.jpg",
+    "category": "film",
+    "label": "FILM",
+    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/parallel-tales-film/",
+    "created_at": "2026-05-18T09:48:47.270350+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Film, kazalište i TV Izdvojili smo 24 nadolazeća filma koja se očekuju ove godine, a o kojima će se najviše pričati",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/01/Josephine_imdb-550x310.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/nadolazeci-filmovi-2026/",
+    "created_at": "2026-05-18T09:48:47.270222+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Film, kazalište i TV Još jedna velika izmjena čeka nas vezano uz novu sezonu serije Bridgerton. No, ova će se svima svidjeti",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/02/Bridgerton_imdb-3-550x367.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/bridgerton-peta-sezona/",
+    "created_at": "2026-05-18T09:48:47.270110+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Film, kazalište i TV Šest nerazvikanih stranih serija na Netflixu koje možda niste pogledali, a trebali biste",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/strane-serije_imdb-1-768x512.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/strane-serije-netflix/",
+    "created_at": "2026-05-18T09:48:47.269999+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Film, kazalište i TV Novi horor hit otkriva koja je razlika između ljubavi i opsesije. Jeste li ga već pogledali?",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/zaludenost.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/zaludenost-horor-film/",
+    "created_at": "2026-05-18T09:48:47.269885+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Glazba Zovu ih vizionarima glazbene scene, a ovaj razgovor je to potvrdio. Empire Of The Sun uskoro na Šalati",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Empire-od-the-sun_imdb.jpeg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://www.journal.hr/kultura/glazba/empire-of-the-sun-luke-steele-intervju/",
+    "created_at": "2026-05-18T09:48:47.269768+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Umjetnost i dizajn Ivica Ivčević svojim fotografijama polako nas uvlači u ljetnu nostalgiju",
+    "description": "Journal.hr - kultura · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/jadrolinija3-1080x1440.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://www.journal.hr/kultura/umjetnost-i-dizajn/ivica-ivcevic-fotografija-intervju/",
+    "created_at": "2026-05-18T09:48:47.269642+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Putovanja INSTA(NT) TRAVEL: Pastirsko naselje i zadivljujuć pogled s Velike planine prekrivene šafranima",
+    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2023/04/Collage-Maker-08-Apr-2023-10-50-AM-5052-768x403.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/lifestyle/putovanja/velika-planina-slovenija-putovanje/",
+    "created_at": "2026-05-18T09:48:46.685740+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Putovanja INSTA(NT) TRAVEL: Donosimo 5 super ideja kamo otići na izlet za Prvi maj",
+    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2025/04/Prvi-maj_izleti_julie-jensen-dupe-768x1021.jpeg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/lifestyle/putovanja/vikend-izleti-prvi-maj/",
+    "created_at": "2026-05-18T09:48:46.685647+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Putovanja INSTA(NT) TRAVEL: Trg u obliku školjke i tajne srednjovjekovnog grada u Toskani koji morate doživjeti",
+    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/01/siena-768x432.png",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/lifestyle/putovanja/siena-toskana-italija/",
+    "created_at": "2026-05-18T09:48:46.685555+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Putovanja Destinacija o kojoj maštamo: Španjolski grad poznat po ukusnim jelima i predivnoj plaži",
+    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2023/03/Valencia-Espania-550x824.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/lifestyle/putovanja/valencija-spanjolski-grad-koji-nudi-nezaboravno-iskustvo/",
+    "created_at": "2026-05-18T09:48:46.685437+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Putovanja Zagrebački hotel Esplanade pridružio se prestižnom globalnom programu GHA DISCOVERY",
+    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Esplanade-Zagreb-Hotel-gha-discovery.-2-1-e1778864909175-768x417.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/lifestyle/putovanja/esplanade-gha-discovery/",
+    "created_at": "2026-05-18T09:48:46.685201+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Putovanja Putovanja autom kroz Europu: Ove rute pamtit ćete zauvijek",
+    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/03/Putovanja-autom-po-Europi.gif",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/lifestyle/putovanja/putovanja-autom-kroz-europu-rute-koje-se-pamte/",
+    "created_at": "2026-05-18T09:48:46.685050+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Zagreb je dobio novo mjesto sa svježom tjesteninom i za jesti i ponijeti. Posjetili smo Pašta Eat & Shop",
+    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/01/Pasta-eat-shop_Martina-Movric-16-768x1152.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/lifestyle/gastro/pasta-eat-and-shop-zagreb/",
+    "created_at": "2026-05-18T09:48:46.684750+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Posjetili smo Nuré – novi zagrebački restoran sa samo četiri stola o kojem se naveliko priča",
+    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/01/Nure-restoran_mali-GIF.gif",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/lifestyle/gastro/nure-restoran-zagreb/",
+    "created_at": "2026-05-18T09:48:46.684653+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "U Zagrebu je otvoren tira-mi-su, mjesto posvećeno kultnoj talijanskoj slastici. Prve smo ih posjetile",
+    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/tiramisu-13-768x1024.jpeg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/lifestyle/gastro/nova-mjesta-otvorena-u-2026-u-zagrebu/",
+    "created_at": "2026-05-18T09:48:46.684554+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Putovanja Game changer za putovanja s djecom: U Termama Olimia uskoro se otvara prvi obiteljski hotel u Sloveniji",
+    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Terme-Olimia_Family-hotel-Vilinia_mala-naslovna-foto-1080x1637.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/lifestyle/putovanja/family-hotel-vilinia-terme-olimia-slovenija/",
+    "created_at": "2026-05-18T09:48:46.683696+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Konačno, ljetni parfem koji ne miriše kao krema za sunčanje. Ovaj je prozračan i svjež, ali s karakterom",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/03/Hermes-parfem.gif",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/ljepota/vijesti-iz-ljepote/hermes-parfem-un-jardin-sous-la-mer/",
+    "created_at": "2026-05-18T09:48:46.126635+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Posjetili smo Paris Perfume Week i ovo su najzanimljiviji novi parfemi koje smo otkrili",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Paris-Perfume-Week-1_-768x768.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/paris-perfume-week-noviteti-niche-parfemi/",
+    "created_at": "2026-05-18T09:48:46.126543+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Ovaj moćni sastojak polako, ali sigurno preuzima glavnu ulogu u modernoj anti-age njezi kože",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/02/alge_skincare-1-1-768x960.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/ljepota/vijesti-iz-ljepote/alge-skincare-sastojak-hidratacija-anti-age/",
+    "created_at": "2026-05-18T09:48:46.126456+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Mikrobiom kože sve je važniji u skincareu, a ovo su sastojci koji ga štite",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/03/prebiotici-i-postbiotici.gif",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/prebiotici-postbiotici-skincare-sastojci-mikrobiom-koze/",
+    "created_at": "2026-05-18T09:48:46.126366+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Insajderska beauty tajna je ovo ulje koje hidratizira, zaglađuje i ujednačava ten",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/03/ulje-pasjeg-trna-1-768x960.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/ulje-pasjeg-trna-skincare-sastojak/",
+    "created_at": "2026-05-18T09:48:46.126267+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Najpodcjenjeniji skincare sastojak: U svijetu preopterećenih rutina, vraća koži ono što joj treba",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/03/gljive-u-skincareu.gif",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/gljive-skincare-hidratacija-iritacija-crvenilo/",
+    "created_at": "2026-05-18T09:48:46.126180+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Svi luduju za PDRN skincare proizvodima, a čini vam se da samo vama ne djeluju? Znamo zašto",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/pdrn-670-550x550.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/pdrn-skincare-proizvodi/",
+    "created_at": "2026-05-18T09:48:46.126090+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Proizvodi rasprodani u pet minuta, a onda je krenula drama: zašto svi pričaju o beauty brendu Alix Earle?",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/03/alix-earle_reale-actives-550x733.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/ljepota/vijesti-iz-ljepote/beauty-industrija-dogadaji-brendovi/",
+    "created_at": "2026-05-18T09:48:46.125988+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Fileri za usne su prošlost? Ovi tretmani daju plump efekt, ali zadržavaju prirodan izgled",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/03/lip-boosteri-naslovna-e1773920942268-768x459.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/lip-boosteri-usne-puniji-izgled-plump-efekt/",
+    "created_at": "2026-05-18T09:48:46.125881+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Aesop vs. nova generacija luksuznih brendova: Može li ponovno redefinirati kategoriju koju je sam stvorio?",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/aesop.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/aesop-skincare-beauty-brend/",
+    "created_at": "2026-05-18T09:48:46.125769+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Business to fun: Kako poslovni look brzinski transformirati u onaj za after work druženje?",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2023/09/Armani-Luminous-Silk_Franjo-Matkovic-11-1080x1440.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://specijal.journal.hr/Armani-Luminous-Silk-puder-business-to-fun-lookovi/",
+    "created_at": "2026-05-18T09:48:46.125671+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Pegla stare i sprječava nove bore: Predlažemo anti-age rutinu sa samo tri drogerijska proizvoda",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2024/11/Nivea-Q10-editorijal_Sanja-Jagatic-7-1080x1620.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/nivea-q10-serum-krema-filer-serum-skincare-anti-age/",
+    "created_at": "2026-05-18T09:48:46.125564+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Office siren, but make it Journal: Kako bismo se šminkali za posao da ne postoje pravila?",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2024/10/beauty-editorial-journal-2-1080x1440.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://specijal.journal.hr/beauty-editorial-office-siren/",
+    "created_at": "2026-05-18T09:48:46.125451+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Neukrotiva kosa više nije izgovor. Kako smo pripitomili volumen Pamele Badžek i napravili sleek frizuru?",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2025/05/Syoss-x-Journal-3-1080x1350.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://specijal.journal.hr/syoss-intense-keratin-linija-pamela-badzek-beauty-editorijal/",
+    "created_at": "2026-05-18T09:48:46.125337+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Journal beauty editorijal: Što se dogodi kad cvijeće zamijeni šminku?",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2025/06/Beauty-editorijal-2.gif",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://specijal.journal.hr/journal-beauty-editorijal-proljece-boje-cvijece/",
+    "created_at": "2026-05-18T09:48:46.125207+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Journal x Chanel beauty editorijal: Priča o disciplini, nježnosti i transformaciji",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/01/Journal-x-Chanel-28-1-1080x1440.jpeg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://specijal.journal.hr/chanel-beauty-editorijal-balet/",
+    "created_at": "2026-05-18T09:48:46.125100+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Mermaidcore estetika vraća se na velika vrata: Dégradé nokti su nova ljetna ‘it’ manikura",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2023/05/chrome-mermaid-nokti-1080x1440.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/mermaidcore-nokti-manikura-trend-ljeto/",
+    "created_at": "2026-05-18T09:48:46.124987+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Sleek frizure dobile su minimalistički, retro twist koji će dominirati ove sezone",
+    "description": "Journal.hr - ljepota · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/no-part-slick-back-ponytail-2-1080x1349.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/no-part-slick-back-ponytail-hair-trend/",
+    "created_at": "2026-05-18T09:48:46.124849+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Krokodil više nije isti – Lacoste je predstavio proljetnu verziju loga",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/03/lacoste-1-2-e1774265905592-550x550.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/moda/trendovi/lacoste-redizajn-krokodil-logotip/",
+    "created_at": "2026-05-18T09:48:45.570498+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Mokasine su definitivno među najchic proljetnim cipelama, a mi donosimo najbolje modele",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/03/Mass-cipele-23-1-scaled-e1774436598269-768x425.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/moda/trendovi/mass-chic-cipele-mokasine/",
+    "created_at": "2026-05-18T09:48:45.570394+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "U modi, tijelo je opet u fokusu. Vraćamo se seksepilnim krojevima, a ovako to rade vodeće modne kuće",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Mugler-1080x1620.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/moda/trendovi/seksepil-u-modi-tijelo-odjeca/",
+    "created_at": "2026-05-18T09:48:45.570248+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Journal wishlista: Jedan ili dva džempera? Toteme je predstavio jako zanimljivo pletivo",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2025/10/toteme-pletivo.gif",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/moda/trendovi/journal-wishlista-toteme-dzemper/",
+    "created_at": "2026-05-18T09:48:45.570158+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Journal wishlista: Polo Ralph Lauren vestica je primjer kako bezvremenski komadi ne moraju biti dosadni",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/03/Polo-Ralph-Lauren-1.gif",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/moda/trendovi/journal-wishlista-polo-ralph-lauren-vestica/",
+    "created_at": "2026-05-18T09:48:45.570070+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Journal wishlista: Nove Loewe cipele su nas podsjetile da moda može biti zabavna i nosiva – istovremeno",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Loewe-Origami-cipele.gif",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/moda/trendovi/journal-wishlista-loewe-origami-cipele/",
+    "created_at": "2026-05-18T09:48:45.569981+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "2025. godinu otvaramo provokacijom – Vlaho Arbulić u transformaciji na koju nećete ostati ravnodušni",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2025/01/Vlaho-Arbulic-Journal-Specijal-6-1080x1350.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://specijal.journal.hr/journal-modni-editorijal-vlaho-arbulic/",
+    "created_at": "2026-05-18T09:48:45.569856+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Moć transformacije: Mia Matić nosi novu H&M Studio kolekciju",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2024/03/Mia-Matic-HM-Studio-Journal-hr-Foto-Franjo-Matkovic-2-1080x1440.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://specijal.journal.hr/hm-studio-spring-2024-mia-matic-za-journal/",
+    "created_at": "2026-05-18T09:48:45.569744+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Moć transformacije: Karla Kirschner je Claudia Schiffer novog doba",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2024/10/Moc-transformacije-Claudia-Schiffer-8-1080x1440.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://specijal.journal.hr/moc-transformacije-karla-kirschner-claudia-schiffer/",
+    "created_at": "2026-05-18T09:48:45.569634+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Most između svjetova: Raiven u novom editorijalu spaja prošlost i budućnost, avangardu i visoku modu",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2025/04/Raiven-x-Journal-9-1080x1350.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://specijal.journal.hr/raiven-modni-editorijal-journal-specijal/",
+    "created_at": "2026-05-18T09:48:45.569530+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Journal Valentine’s Special: Elena Dizdar i Sandy Bogovac u najintimnijem izdanju do sada",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/02/Elena-i-Sandy_Franjo-Matkovic-8-e1770813387965-768x813.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://specijal.journal.hr/elena-dizdar-i-sandy-bogovac-modni-editorijal/",
+    "created_at": "2026-05-18T09:48:45.569417+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Ona je elegancija, drama i misterij, a ovo je njezin teren. Mona žena mijenja pravila modne igre",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2025/12/Mona-Journal-gif-5.gif",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/moda/vijesti/mona-editorijal-modni-brend-trendi-komadi/",
+    "created_at": "2026-05-18T09:48:45.569319+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Toma Medvešek i Lav Novosel pokazuju kako izgleda nova generacija modernih muškaraca",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2025/11/Toma-Medvesek-i-Lav-Novosel-2-768x512.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://specijal.journal.hr/toma-medvesek-lav-novosel-porsche-loreal-editorijal/",
+    "created_at": "2026-05-18T09:48:45.569217+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "‘Ja bih pjevala i da nisam ova Nina Badrić’: Razgovarali smo s jednom od naših najvećih glazbenih ikona",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/01/Nina-Badric.gif",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://specijal.journal.hr/nina-badric-intervju-modni-editorijal/",
+    "created_at": "2026-05-18T09:48:45.569124+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Helen Mirren je lice nove Stella McCartney kampanje, ali nije riječ samo o modnoj priči",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Hellen-Mirren-Stella-McCartney-2-1080x1350.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/moda/vijesti/helen-mirren-stella-mccartney-kampanja/",
+    "created_at": "2026-05-18T09:48:45.568994+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Hailey Bieber je novo lice kampanje za jesensku kolekciju modne kuće Alaïa",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Hailey-Bieber-x-Alaia-1-e1778236707923-768x497.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/moda/vijesti/hailey-bieber-alaia-novo-lice-ambasadorica/",
+    "created_at": "2026-05-18T09:48:45.568820+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Zara ima odličnu ponudu lanenih odijela. Napravili smo selekciju",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Zara-laneni-kompleti-6.webp",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/moda/trendovi/zara-lanena-odijela-proljetni-komadi/",
+    "created_at": "2026-05-18T09:48:45.568701+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Journal bag guide: Nova Dior Médaillon torba stavlja romantiku u prvi plan",
+    "description": "Journal.hr - moda · fotografija iz vijesti",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Dior-medaillon-torba.gif",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://www.journal.hr/moda/vijesti/dior-medaillon-flap-bag-torba/",
+    "created_at": "2026-05-18T09:48:45.568575+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Strastveni modni svijet Aleksandre Dojčinović",
+    "description": "Symbol Quorum - lifestyle · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2024/02/Ivana-Nola-2-1-1010x1024.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://symbol-quorum.com/strastveni-modni-svijet-aleksandre-dojcinovic/",
+    "created_at": "2026-05-18T09:48:44.849292+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Ivana Nola – Ljepota bez starosnih granica",
+    "description": "Symbol Quorum - lifestyle · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2024/06/IMG_7712-1024x682.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://symbol-quorum.com/ivana-nola-ljepota-bez-starosnih-granica/",
+    "created_at": "2026-05-18T09:48:44.849183+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Andro Vlahušić: “Dubrovnik ni za što!”",
+    "description": "Symbol Quorum - lifestyle · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/02/suzana-holtgrave3-1024x678.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://symbol-quorum.com/andro-vlahusic-dubrovnik-ni-za-sto/",
+    "created_at": "2026-05-18T09:48:44.849079+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Ikona stila koja je fotografijom osvojila modni svijet",
+    "description": "Symbol Quorum - lifestyle · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/04/b2-793x1024.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://symbol-quorum.com/ikona-stila-koja-je-fotografijom-osvojila-modni-svijet/",
+    "created_at": "2026-05-18T09:48:44.848972+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Vizionar hrvatske modne scene",
+    "description": "Symbol Quorum - lifestyle · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/43_Zepter-Hotel-Belgrade-2018-1-683x1024.jpg",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://symbol-quorum.com/vizionar-hrvatske-modne-scene/",
+    "created_at": "2026-05-18T09:48:44.848854+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "„Ne želim od rajčice praviti jagodu“",
+    "description": "Symbol Quorum - gastronomija · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2024/08/Galić-5copy-1024x683.jpg",
+    "category": "pica",
+    "label": "PIĆA",
+    "source_url": "https://symbol-quorum.com/ne-zelim-od-rajcice-praviti-jagodu/",
+    "created_at": "2026-05-18T09:48:42.590435+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Ljubav su vina, a vina su Galić",
+    "description": "Symbol Quorum - gastronomija · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2024/12/IMG_3045-1024x985.jpeg",
+    "category": "pica",
+    "label": "PIĆA",
+    "source_url": "https://symbol-quorum.com/ljubav-su-vina-a-vina-su-galic/",
+    "created_at": "2026-05-18T09:48:42.590332+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Srž Mediterana, snaga tradicije",
+    "description": "Symbol Quorum - gastronomija · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/03/Le-Premier_Mesek_Mislav_MSK_0097-1024x682.jpg",
+    "category": "pica",
+    "label": "PIĆA",
+    "source_url": "https://symbol-quorum.com/srz-mediterana-snaga-tradicije/",
+    "created_at": "2026-05-18T09:48:42.590221+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Chef za zadovoljne goste",
+    "description": "Symbol Quorum - gastronomija · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/07/01-velika-1.jpg",
+    "category": "pica",
+    "label": "PIĆA",
+    "source_url": "https://symbol-quorum.com/chef-za-zadovoljne-goste/",
+    "created_at": "2026-05-18T09:48:42.590124+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Chef koji se vratio kući",
+    "description": "Symbol Quorum - gastronomija · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/mrmr2-1024x849.jpg",
+    "category": "pica",
+    "label": "PIĆA",
+    "source_url": "https://symbol-quorum.com/chef-koji-se-vratio-kuci/",
+    "created_at": "2026-05-18T09:48:42.589975+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "„Živjeti bolje, duže i sretnije – to je naš cilj i motivacija”",
+    "description": "Symbol Quorum - poduzetništvo · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/01/bart--1024x546.jpg",
+    "category": "poslovanje",
+    "label": "POSLOVANJE",
+    "source_url": "https://symbol-quorum.com/zivjeti-bolje-duze-i-sretnije-to-je-nas-cilj-i-motivacija/",
+    "created_at": "2026-05-18T09:48:39.994083+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "„Znatiželja je temelj svake uspješne znanstvene karijere”",
+    "description": "Symbol Quorum - poduzetništvo · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/03/MG_0929-1024x682.jpg",
+    "category": "poslovanje",
+    "label": "POSLOVANJE",
+    "source_url": "https://symbol-quorum.com/znatizelja-je-temelj-svake-uspjesne-znanstvene-karijere/",
+    "created_at": "2026-05-18T09:48:39.993981+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Laska mi da smo uistinu mijenjali društvo na bolje",
+    "description": "Symbol Quorum - poduzetništvo · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/08/MG_9492-1024x682.jpg",
+    "category": "poslovanje",
+    "label": "POSLOVANJE",
+    "source_url": "https://symbol-quorum.com/laska-mi-da-smo-uistinu-mijenjali-drustvo-na-bolje/",
+    "created_at": "2026-05-18T09:48:39.993760+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "„Moja zvijezda vodilja je zlatni rez”",
+    "description": "Symbol Quorum - poduzetništvo · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/08/IGOR-ZEPTER-1-1024x960.jpg",
+    "category": "poslovanje",
+    "label": "POSLOVANJE",
+    "source_url": "https://symbol-quorum.com/moja-zvijezda-vodilja-je-zlatni-rez/",
+    "created_at": "2026-05-18T09:48:39.993658+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Filozofija Zeptera: zdravlje, dugovječnost, ljepota i održiva elegancija",
+    "description": "Symbol Quorum - poduzetništvo · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/maratea14-6-1024x682.jpeg",
+    "category": "poslovanje",
+    "label": "POSLOVANJE",
+    "source_url": "https://symbol-quorum.com/filozofija-zeptera-zdravlje-dugovjecnost-ljepota-i-odrziva-elegancija/",
+    "created_at": "2026-05-18T09:48:39.993499+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "„Svinje obožavaju sladoled!”",
+    "description": "Symbol Quorum - kultura i umjetnost · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/09/U3A1849-943x1024.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://symbol-quorum.com/svinje-obozavaju-sladoled/",
+    "created_at": "2026-05-18T09:48:37.018447+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "„Glumac živi i stvara sve dok se raduje svakoj novoj ulozi”",
+    "description": "Symbol Quorum - kultura i umjetnost · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/10/iva-1024x940.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://symbol-quorum.com/glumac-zivi-i-stvara-sve-dok-se-raduje-svakoj-novoj-ulozi/",
+    "created_at": "2026-05-18T09:48:37.018351+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "„HNK i naša publika zaista su nešto posebno”",
+    "description": "Symbol Quorum - kultura i umjetnost · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/11/image00022-1024x682.jpeg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://symbol-quorum.com/hnk-i-nasa-publika-zaista-su-nesto-posebno/",
+    "created_at": "2026-05-18T09:48:37.018239+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "„Džuli je moja osobna iskaznica”",
+    "description": "Symbol Quorum - kultura i umjetnost · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/mf.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://symbol-quorum.com/dzuli-je-moja-osobna-iskaznica/",
+    "created_at": "2026-05-18T09:48:37.018142+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "„Jako dobro znam koliko je teško svirati ljeti na otvorenom…”",
+    "description": "Symbol Quorum - kultura i umjetnost · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/anita-kontrec-foto-mara-bratos-14-1024x682.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://symbol-quorum.com/jako-dobro-znam-koliko-je-tesko-svirati-ljeti-na-otvorenom/",
+    "created_at": "2026-05-18T09:48:37.018045+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "„Svi smo kreatori svijeta u kojem živimo”",
+    "description": "Symbol Quorum - kultura i umjetnost · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/selma2-1024x960.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://symbol-quorum.com/svi-smo-kreatori-svijeta-u-kojem-zivimo/",
+    "created_at": "2026-05-18T09:48:37.017935+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "„Ostvarila sam ono što mnogi umjetnici ne uspiju ni za pedeset godina karijere”",
+    "description": "Symbol Quorum - kultura i umjetnost · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/DSC03739-964x1024.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://symbol-quorum.com/ostvarila-sam-ono-sto-mnogi-umjetnici-ne-uspiju-ni-za-pedeset-godina-karijere/",
+    "created_at": "2026-05-18T09:48:37.017830+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Očuvanje istinskog duha umjetnosti",
+    "description": "Symbol Quorum - kultura i umjetnost · fotografija iz vijesti",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/IMG_8224-1-1024x712.jpg",
+    "category": "kultura",
+    "label": "KULTURA",
+    "source_url": "https://symbol-quorum.com/ocuvanje-istinskog-duha-umjetnosti/",
+    "created_at": "2026-05-18T09:48:37.017649+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "More Paths or More Contrast? A Theory of Experimentation Breadth -- by Joshua S. Gans, Luca Gius",
+    "description": "NBER Digest · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-0b33066e38bf/1200/750",
+    "category": "ekonomija",
+    "label": "EKONOMIJA",
+    "source_url": "https://www.nber.org/papers/w35207#fromrss",
+    "created_at": "2026-05-18T09:48:14.288163+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "The Cost of Intermediary Market Power for Distressed Borrowers -- by Winston Wei Dou, Wei Wang, Wenyu Wang",
+    "description": "NBER Digest · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-5b810bd2cf54/1200/750",
+    "category": "ekonomija",
+    "label": "EKONOMIJA",
+    "source_url": "https://www.nber.org/papers/w35206#fromrss",
+    "created_at": "2026-05-18T09:48:14.288076+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Flood Risk, Insurance, and Housing in the United States -- by Suvy Qin, John L. Voorheis",
+    "description": "NBER Digest · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-01736d28a968/1200/750",
+    "category": "muzeji",
+    "label": "MUZEJI",
+    "source_url": "https://www.nber.org/papers/w35204#fromrss",
+    "created_at": "2026-05-18T09:48:14.287994+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "The Geography of Lifecycle Human Capital Accumulation -- by Ben Sprung-Keyser, Sonya Porter",
+    "description": "NBER Digest · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-d4c842099b57/1200/750",
+    "category": "ekonomija",
+    "label": "EKONOMIJA",
+    "source_url": "https://www.nber.org/papers/w35203#fromrss",
+    "created_at": "2026-05-18T09:48:14.287912+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Fiscal Policy and Transition Risk -- by Stefano Carattini, Garth Heutel, Givi Melkadze, Inès Mourelon",
+    "description": "NBER Digest · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-405c4f2b92e1/1200/750",
+    "category": "ekonomija",
+    "label": "EKONOMIJA",
+    "source_url": "https://www.nber.org/papers/w35202#fromrss",
+    "created_at": "2026-05-18T09:48:14.287804+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Intertemporal Arbitrage and Optimal Operation of Pumped Hydro Energy Storage -- by Isabel Figuerola-Ferretti, Eduardo S. Schwartz",
+    "description": "NBER Digest · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-f36bc6cee1f4/1200/750",
+    "category": "ekonomija",
+    "label": "EKONOMIJA",
+    "source_url": "https://www.nber.org/papers/w35201#fromrss",
+    "created_at": "2026-05-18T09:48:14.287727+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Credibility and Precommitment in Socialist Constitutionalism -- by Sebastian Edwards",
+    "description": "NBER Digest · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-9a38baffcf7e/1200/750",
+    "category": "muzeji",
+    "label": "MUZEJI",
+    "source_url": "https://www.nber.org/papers/w35200#fromrss",
+    "created_at": "2026-05-18T09:48:14.287649+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "How do Workers Learn? Theory and Evidence on the Roots of Lifecycle Human Capital Accumulation -- by Xiao Ma, Alejandro Nakab, Daniela Vidart",
+    "description": "NBER Digest · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-234eba568eda/1200/750",
+    "category": "ekonomija",
+    "label": "EKONOMIJA",
+    "source_url": "https://www.nber.org/papers/w35199#fromrss",
+    "created_at": "2026-05-18T09:48:14.287583+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "The Effects of GLP-1 Use on Mental Health, Self-rated Health, Employment and Marriage -- by Robert Kaestner, Cuiping Schiman",
+    "description": "NBER Digest · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-07ae3f6482eb/1200/750",
+    "category": "ekonomija",
+    "label": "EKONOMIJA",
+    "source_url": "https://www.nber.org/papers/w35198#fromrss",
+    "created_at": "2026-05-18T09:48:14.287520+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Global Policy Spillovers: How Environmental Policies Propagate through Product Attributes -- by Koichiro Ito, James M. Sallee, Jonathan (Andrew) Smith",
+    "description": "NBER Digest · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-afbd34d327b9/1200/750",
+    "category": "muzeji",
+    "label": "MUZEJI",
+    "source_url": "https://www.nber.org/papers/w35197#fromrss",
+    "created_at": "2026-05-18T09:48:14.287454+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Making Sense of Labor Market Indicators Amid Data Imperfections -- by Scott A. Brave, Erin E. Crust, Stefano Eusepi, Bart Hobijn, Ayşegül Şahin",
+    "description": "NBER Digest · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-39d6db151303/1200/750",
+    "category": "film",
+    "label": "FILM",
+    "source_url": "https://www.nber.org/papers/w35196#fromrss",
+    "created_at": "2026-05-18T09:48:14.287347+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "AlphaPortfolio: Goal-Oriented Investment Management Through Deep Reinforcement Learning -- by Lin William Cong, Ke Tang, Jingyuan Wang",
+    "description": "NBER Digest · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-21cf80121130/1200/750",
+    "category": "muzeji",
+    "label": "MUZEJI",
+    "source_url": "https://www.nber.org/papers/w35195#fromrss",
+    "created_at": "2026-05-18T09:48:14.287183+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Snap, YouTube, and TikTok settle suit over harm to students",
+    "description": "The Verge · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-393e071e899a/1200/750",
+    "category": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source_url": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
+    "created_at": "2026-05-18T09:46:17+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Projeto Paradiso and Embratur Announce ‘The Blue Trail’ Amongst First Round of Selected Films for Screen Brasil, Confirm Expanded Second Edition (EXCLUSIVE)",
+    "description": "Variety · fotografija iz vijesti",
+    "image": "https://variety.com/wp-content/uploads/2026/05/VARIETY-SIZING-3.png",
+    "category": "film",
+    "label": "FILM",
+    "source_url": "https://variety.com/2026/film/global/projeto-paradiso-embratur-screen-brasil-1236750281/",
+    "created_at": "2026-05-18T09:45:36+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Japan Is Turning a Disaster-Struck Airport Into the World's First Pokémon Terminal",
+    "description": "Hypebeast · fotografija iz vijesti",
+    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F18%2FNoto-Satoyama-Pokemon-With-You-Airport-ishikawa-prefecture-Opening-Info.jpg?w=800&cbr=1&q=90&fit=max",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://hypebeast.com/2026/5/noto-satoyama-pokemon-with-you-airport-ishikawa-prefecture-opening-info",
+    "created_at": "2026-05-18T09:44:44+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Official Images of the Vibram x Nike Air Force 1 Low “Bomber Grey”",
+    "description": "Hypebeast · fotografija iz vijesti",
+    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F18%2Fvibram-nike-air-force-1-low-barely-grey-city-grey-bomber-grey-speed-yellow-ih1943-002-official-imges-0.jpg?w=800&cbr=1&q=90&fit=max",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://hypebeast.com/2026/5/vibram-nike-air-force-1-low-barely-grey-city-grey-bomber-grey-speed-yellow-ih1943-002-official-imges",
+    "created_at": "2026-05-18T09:43:12+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Anti-Bolloré Letter Organizers Respond To Canal+ CEO Maxime Saada’s Boycott Comments: “This Threat Confirms Our Fears”",
+    "description": "Deadline · fotografija iz vijesti",
+    "image": "https://deadline.com/wp-content/uploads/2016/06/canal-plus.png",
+    "category": "film",
+    "label": "FILM",
+    "source_url": "https://deadline.com/2026/05/anti-bollore-letter-organizers-respond-maxime-saada-canal-1236914240/",
+    "created_at": "2026-05-18T09:41:40+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Quant ratings on Berkshire Hathaway's top holdings: AAPL, AXP, KO, BAC",
+    "description": "Seeking Alpha Market News · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-363b8cb0b064/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://seekingalpha.com/news/4594250-quant-ratings-on-berkshire-hathaways-top-holdings-aapl-axp-ko-bac?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "created_at": "2026-05-18T09:41:39+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "In Tierra del Fuego, a hunt for the rodent carrier of hantavirus",
+    "description": "Phys.org · fotografija iz vijesti",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-first-person-to-di.jpg",
+    "category": "znanost",
+    "label": "ZNANOST",
+    "source_url": "https://phys.org/news/2026-05-tierra-del-fuego-rodent-carrier.html",
+    "created_at": "2026-05-18T09:40:01+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "The 'most bullish chart in the world' for bonds - T.S. Lombard",
+    "description": "Seeking Alpha Market News · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-e0e7b57090ac/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://seekingalpha.com/news/4594270-the-most-bullish-chart-in-the-world-for-bonds-t-s-lombard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "created_at": "2026-05-18T09:39:04+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Oddity is masterfully tense horror from the director of Hokum",
+    "description": "The Verge · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-ef09d9740949/1200/750",
+    "category": "film",
+    "label": "FILM",
+    "source_url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
+    "created_at": "2026-05-18T09:36:35+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Earnings Snapshot: Baidu Non-GAAP EPADS beats consensus at $1.75; revenue in-line",
+    "description": "Seeking Alpha Market News · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-7ff665002c55/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://seekingalpha.com/news/4594263-earnings-snapshot-baidu-non-gaap-epads-beats-consensus-at-175-revenue-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "created_at": "2026-05-18T09:35:07+00:00",
     "auto_from_news": true
   },
   {
@@ -140,1233 +1470,53 @@
     "auto_from_news": true
   },
   {
-    "title": "Pad Thai je kultni tajlandski street food koji je osvojio svijet. Imamo recept koji možete napraviti kod kuće Utorak, 12. svibnja 2026.",
-    "description": "Journal.hr - gastro · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/pad-thai-recept-768x432.jpg",
-    "category": "hedonizam",
-    "label": "HEDONIZAM",
-    "source_url": "https://www.journal.hr/lifestyle/gastro/pad-thai-recept/",
-    "created_at": "2026-05-18T09:30:42.111653+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Restoran Fenix u hotelu Hyatt Regency Zadar otvorio drugu sezonu Srijeda, 13. svibnja 2026.",
-    "description": "Journal.hr - gastro · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Fenix_1-768x512.jpg",
-    "category": "hedonizam",
-    "label": "HEDONIZAM",
-    "source_url": "https://www.journal.hr/lifestyle/gastro/restoran-fenix-hotel-hyatt-regency-zadar-nova-sezona/",
-    "created_at": "2026-05-18T09:30:42.111503+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Boogie Moonlight Sessions nastavlja se uz goste iz regije. Ove subote u Boogie stižu nova velika imena Četvrtak, 14. svibnja 2026.",
-    "description": "Journal.hr - gastro · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/boogie-moonlight-sessions-3-768x432.jpg",
-    "category": "hedonizam",
-    "label": "HEDONIZAM",
-    "source_url": "https://www.journal.hr/lifestyle/gastro/boogie-moonlight-sessions-druga-vecer/",
-    "created_at": "2026-05-18T09:30:42.111374+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Počeli su dani jagoda 2026. u Le Bistrou i Baru Hotela Esplanade. Nude razne slastice i koktele Četvrtak, 14. svibnja 2026.",
-    "description": "Journal.hr - gastro · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Dani-jagoda-2026-photo-by-Lili-Basic.jpg-28-768x512.jpg",
-    "category": "hedonizam",
-    "label": "HEDONIZAM",
-    "source_url": "https://www.journal.hr/lifestyle/gastro/dani-jagoda-2026-hotel-esplanade/",
-    "created_at": "2026-05-18T09:30:42.111215+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Najzabavniji proljetni festival Beats&Bites od idućeg tjedna ponovno na Mažurancu. Imamo detalje Četvrtak, 14. svibnja 2026.",
-    "description": "Journal.hr - gastro · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/bits-bites-festival-7-768x432.jpg",
+    "title": "New BBC Boss Matt Brittin Warns Staff ‘Tough Choices Are Unavoidable as We Make Savings’ on First Day in the Job",
+    "description": "Variety · fotografija iz vijesti",
+    "image": "https://variety.com/wp-content/uploads/2026/03/Matt-Brittin.jpg",
     "category": "film",
     "label": "FILM",
-    "source_url": "https://www.journal.hr/lifestyle/gastro/beats-bites-2026/",
-    "created_at": "2026-05-18T09:30:42.111043+00:00",
+    "source_url": "https://variety.com/2026/tv/global/matt-brittin-bbc-director-general-first-day-tough-choices-1236752178/",
+    "created_at": "2026-05-18T09:30:43+00:00",
     "auto_from_news": true
   },
   {
-    "title": "Chef Jurica Obrol gostuje u Pizzi Shango, a donosimo i cijeli popis aktualnih gastro događanja u Zagrebu Petak, 15. svibnja 2026.",
-    "description": "Journal.hr - gastro · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/gastro-dogadanja-u-zg-scaled-e1778751170850-768x576.jpeg",
-    "category": "hedonizam",
-    "label": "HEDONIZAM",
-    "source_url": "https://www.journal.hr/lifestyle/gastro/gastro-dogadanja-u-zagrebu-2026/",
-    "created_at": "2026-05-18T09:30:42.110891+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Naš savršen doručak u zadnje vrijeme uključuje zobene pahuljice, limun, mak i pistacije. Imamo recept Petak, 15. svibnja 2026.",
-    "description": "Journal.hr - gastro · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/zobene-s-limunom-i-pistacijama-scaled-e1778066760309-768x505.jpg",
-    "category": "hedonizam",
-    "label": "HEDONIZAM",
-    "source_url": "https://www.journal.hr/lifestyle/gastro/zobene-pahuljice-s-limunom-i-pistacijama/",
-    "created_at": "2026-05-18T09:30:42.110720+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Chicken rice bowl je lagan, ukusan i brzo gotov obrok, idealan za ručak ili večeru. Imamo recept Petak, 15. svibnja 2026.",
-    "description": "Journal.hr - gastro · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/chicken-rice-bowls-1-scaled-e1778682272170-768x505.jpg",
-    "category": "hedonizam",
-    "label": "HEDONIZAM",
-    "source_url": "https://www.journal.hr/lifestyle/gastro/chicken-rice-bowl/",
-    "created_at": "2026-05-18T09:30:42.110532+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Pronašli smo recept za rustikalni tart s malinama, jagodama i bijelom čokoladom Subota, 16. svibnja 2026.",
-    "description": "Journal.hr - gastro · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2024/05/Rustikalni-tart-s-malinama-jagodama-i-bijelom-cokoladom_Zara-home-768x605.jpg",
-    "category": "hedonizam",
-    "label": "HEDONIZAM",
-    "source_url": "https://www.journal.hr/lifestyle/gastro/tart-s-malinama-jagodama-i-bijelom-cokoladom-zara-home/",
-    "created_at": "2026-05-18T09:30:42.110359+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "James Henry je zgodan australski chef koji je pomogao redefinirati parišku gastronomiju Nedjelja, 17. svibnja 2026.",
-    "description": "Journal.hr - gastro · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/James-Henry-3-768x471.webp",
-    "category": "hedonizam",
-    "label": "HEDONIZAM",
-    "source_url": "https://www.journal.hr/lifestyle/gastro/chef-james-henry/",
-    "created_at": "2026-05-18T09:30:42.110172+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Tost sa graškom i ricottom mogao bi vam postati omiljen doručak, imamo najbolji recept Nedjelja, 17. svibnja 2026.",
-    "description": "Journal.hr - gastro · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/06/tost-s-ricottom-i-graskom-e1778749471418-768x512.jpg",
-    "category": "hedonizam",
-    "label": "HEDONIZAM",
-    "source_url": "https://www.journal.hr/lifestyle/gastro/tost-sa-graskom-i-ricottom/",
-    "created_at": "2026-05-18T09:30:42.110016+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Kada ste zadnji put jeli zapečene palačinke sa sirom? Donosimo najbolji domaći recept Ponedjeljak, 18. svibnja 2026.",
-    "description": "Journal.hr - gastro · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/02/zapecene-palacinke-sa-sirom-1-scaled-e1770365408629-768x512.jpg",
-    "category": "hedonizam",
-    "label": "HEDONIZAM",
-    "source_url": "https://www.journal.hr/lifestyle/gastro/zapecene-palacinke-sa-sirom/",
-    "created_at": "2026-05-18T09:30:42.109831+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Možete li zamisliti stan bez zidova? Ovaj interijer pokazuje kako otvoren prostor mijenja svakodnevicu Utorak, 05. svibnja 2026.",
-    "description": "Journal.hr - interijeri · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/stan-bez-zidova_prag_rdth-studio-filip-beranek-1-768x512.jpg",
+    "title": "sweeping timber roof crowns a workshop reviving rural craft traditions in china",
+    "description": "Designboom · fotografija iz vijesti",
+    "image": "https://www.designboom.com/wp-content/uploads/2026/05/sweeping-timber-roof-workshop-reviving-rural-craft-traditions-china-primary-architects-designboom-700-500x400-22b08q85r617.jpg",
     "category": "dizajn",
     "label": "DIZAJN",
-    "source_url": "https://www.journal.hr/lifestyle/interijeri/stan-bez-zidova-rdth-studio/",
-    "created_at": "2026-05-18T09:30:41.511828+00:00",
+    "source_url": "https://www.designboom.com/architecture/sweeping-timber-roof-workshop-reviving-rural-craft-traditions-china-primary-architects/",
+    "created_at": "2026-05-18T09:30:18+00:00",
     "auto_from_news": true
   },
   {
-    "title": "Poznati zagrebački hotel dobiva potpuno novo lice. Sve o projektu i planovima za ovu lokaciju Srijeda, 06. svibnja 2026.",
-    "description": "Journal.hr - interijeri · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/novi-hotel-u-Zagrebu_Tiberius-Hotels_Marriott-International-1-768x434.jpg",
-    "category": "dizajn",
-    "label": "DIZAJN",
-    "source_url": "https://www.journal.hr/lifestyle/interijeri/hotel-u-zagrebu-hotel-academia-obnova/",
-    "created_at": "2026-05-18T09:30:41.511637+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Tajni raj uz obalu: Grčki smještaj koji pruža idiličan bijeg od svakodnevice Petak, 08. svibnja 2026.",
-    "description": "Journal.hr - interijeri · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/03/Seaweed-Studio-u-Grckoj_-Airbnb-768x512.jpg",
-    "category": "dizajn",
-    "label": "DIZAJN",
-    "source_url": "https://www.journal.hr/lifestyle/interijeri/seaweed-studio-otok-milos-grcka-smjestaj/",
-    "created_at": "2026-05-18T09:30:41.511455+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Interijer ove kuće elegantan je i bezvremenski primjer rekonstrukcije vile iz kasnih 30-ih godina Subota, 09. svibnja 2026.",
-    "description": "Journal.hr - interijeri · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/vila-u-Ceskoj-villa-m-boysplaynice-01-9-768x576.jpg",
-    "category": "dizajn",
-    "label": "DIZAJN",
-    "source_url": "https://www.journal.hr/lifestyle/interijeri/vila-u-ceskoj-villa-m/",
-    "created_at": "2026-05-18T09:30:41.511305+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Kultni hotel Francuske rivijere, koji je navodno posjećivala i Audrey Hepburn, ponovo otvara vrata Nedjelja, 10. svibnja 2026.",
-    "description": "Journal.hr - interijeri · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Le-Beauvallon-hotel_glavna-naslovna-foto-768x473.jpg",
-    "category": "dizajn",
-    "label": "DIZAJN",
-    "source_url": "https://www.journal.hr/lifestyle/putovanja/le-beauvallon-hotel-saint-tropez/",
-    "created_at": "2026-05-18T09:30:41.511140+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "U Splitu otvoren prvi Design Hotel: Evo kako izgleda glamur na Bačvicama Ponedjeljak, 11. svibnja 2026.",
-    "description": "Journal.hr - interijeri · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/Venturo-5-768x549.jpg",
-    "category": "dizajn",
-    "label": "DIZAJN",
-    "source_url": "https://www.journal.hr/lifestyle/interijeri/boutique-hotel-venturo-split-design-hotels-marriott-international/",
-    "created_at": "2026-05-18T09:30:41.510984+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Pariški hotel L’Aventure je posveta art deco estetici, noćnom životu i bojama Utorak, 12. svibnja 2026.",
-    "description": "Journal.hr - interijeri · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/LAventure-Paris-2-768x512.webp",
-    "category": "dizajn",
-    "label": "DIZAJN",
-    "source_url": "https://www.journal.hr/lifestyle/interijeri/hotel-laventure-pariz-francuska/",
-    "created_at": "2026-05-18T09:30:41.510838+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Nova IKEA PS kolekcija od sljedećeg je tjedna u prodaji, a osim fotelje na napuhavanje imamo još favorita Srijeda, 13. svibnja 2026.",
-    "description": "Journal.hr - interijeri · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/IKEA-PS-2026-kolekcija_17-1-e1778671308815-768x577.jpg",
-    "category": "dizajn",
-    "label": "DIZAJN",
-    "source_url": "https://www.journal.hr/lifestyle/interijeri/ikea-ps-kolekcija-2026-journal-favoriti/",
-    "created_at": "2026-05-18T09:30:41.510695+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Obiteljski dom u kojem umjetnost ne služi samo kao dekoracija, već kao dio koji oblikuje prostor Srijeda, 13. svibnja 2026.",
-    "description": "Journal.hr - interijeri · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/02/X-AE-M-22_open_space_6-wizia_studio-2025-1-768x528.jpg",
-    "category": "dizajn",
-    "label": "DIZAJN",
-    "source_url": "https://www.journal.hr/lifestyle/interijeri/x-ae-m-22-obiteljski-dom-u-kojem-umjetnost-ima-glavnu-rijec/",
-    "created_at": "2026-05-18T09:30:41.510523+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Home Edit: Želite urediti glazbeni kutak u svom domu? Zara Home ima komade koji spajaju dizajn i dobar zvuk Petak, 15. svibnja 2026.",
-    "description": "Journal.hr - interijeri · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/10/kako-urediti-glazbeni-kutak-u-domu_Zara-Home_glavna-naslovna-768x511.jpg",
-    "category": "dizajn",
-    "label": "DIZAJN",
-    "source_url": "https://www.journal.hr/lifestyle/interijeri/glazbeni-kutak-u-domu-home-edit/",
-    "created_at": "2026-05-18T09:30:41.510340+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Tko se boji boje još? Interijer ovog stana ne zazire od kolorita, a ružičastu kuhinju teško je “izbaciti” iz glave Subota, 16. svibnja 2026.",
-    "description": "Journal.hr - interijeri · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/ASAP-Pitro-Sammer_Stan-u-Becu-6-768x576.jpg",
-    "category": "dizajn",
-    "label": "DIZAJN",
-    "source_url": "https://www.journal.hr/lifestyle/interijeri/stan-u-becu-asap-pitro-sammer/",
-    "created_at": "2026-05-18T09:30:41.510174+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Stan za četveročlanu obitelj u obnovi je uspješno spojio originalne elemente i moderni interijer Nedjelja, 17. svibnja 2026.",
-    "description": "Journal.hr - interijeri · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/stan-u-Milanu_Offstage-1-768x515.png",
-    "category": "dizajn",
-    "label": "DIZAJN",
-    "source_url": "https://www.journal.hr/lifestyle/interijeri/stan-u-milanu-offstage/",
-    "created_at": "2026-05-18T09:30:41.509973+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Za jedne kontroverzan, za druge oslobađajuć: Bio je hrvatski kandidat za Oscara, napokon dolazi u kina",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2024/09/Lijepa-vecer-lijep-dan-4-768x321.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/lijepa-vecer-lijep-dan-film/",
-    "created_at": "2026-05-18T09:30:40.831125+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Filmski maraton: Zendaya je jedna od najuzbudljivijih mladih glumica, a ovo su joj najbolje uloge",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2024/10/Zendaya_imdb-4-768x405.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/zendaya-filmski-maraton/",
-    "created_at": "2026-05-18T09:30:40.830892+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Filmski maraton: 10 najboljih glazbenih biografskih filmova koje možete pogledati",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/glazbeni-biografski-filmovi_imdb-4-768x640.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/glazbeni-biografski-filmovi-filmski-maraton/",
-    "created_at": "2026-05-18T09:30:40.830807+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Filmski maraton: Povodom Vrag nosi Pradu 2, izdvajamo 19 najboljih izvedbi Meryl Streep",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2023/06/Meryl-Streep_imdb-6-768x484.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://www.journal.hr/kultura/filmski-maraton-meryl-streep/",
-    "created_at": "2026-05-18T09:30:40.830716+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Filmski maraton: Prije nego što u kina stigne Odiseja, prisjećamo se najboljih uloga Matta Damona",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Matt-Damon_imdb-10-768x510.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/matt-damon-filmski-maraton/",
-    "created_at": "2026-05-18T09:30:40.830619+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Film, kazalište i TV Nova generacija na putu uspjeha: Ostvarenje mlade hrvatske filmašice gledamo u Cannesu",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Left-Behind-Still-Standing-2-768x534.png",
+    "title": "‘Orange-Flavoured Wedding’ Is All About Family and “How Emotions Flow Between Its Members,” Says Christophe Honoré (Exclusive Cannes Clip)",
+    "description": "Hollywood Reporter · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-4b019540bebe/1200/750",
     "category": "film",
     "label": "FILM",
-    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/odbaceni-a-uspravni-film/",
-    "created_at": "2026-05-18T09:30:40.830531+00:00",
+    "source_url": "https://www.hollywoodreporter.com/movies/movie-news/cannes-orange-flavoured-wedding-christoph-honore-film-clip-1236597663/",
+    "created_at": "2026-05-18T09:30:00+00:00",
     "auto_from_news": true
   },
   {
-    "title": "Film, kazalište i TV Ovaj film već je veliki kandidat za osvajanje Zlatne palme na Filmskom festivalu u Cannesu",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Filmski-festival-u-Cannesu_imdb-6-768x576.jpg",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/fatherland-film/",
-    "created_at": "2026-05-18T09:30:40.830439+00:00",
+    "title": "An ICE Firearms Trainer Was Involved in At Least 4 Deadly Shootings",
+    "description": "Wired · fotografija iz vijesti",
+    "image": "https://media.wired.com/photos/6a07ac4cb881502fc5a534cb/master/pass/security_ICE_firearms_trainer_deadly.jpg",
+    "category": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source_url": "https://www.wired.com/story/an-ice-firearms-trainer-was-involved-in-at-least-4-deadly-shootings/",
+    "created_at": "2026-05-18T09:30:00+00:00",
     "auto_from_news": true
   },
   {
-    "title": "Film, kazalište i TV Pogledali smo: Druga sezona serije Beef kaotična je i sjajno odglumljena, ali nema čar koju smo očekivali",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Beef_imdb-2-768x432.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/beef-pogledali-smo-drugu-sezonu/",
-    "created_at": "2026-05-18T09:30:40.830286+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Film, kazalište i TV Vrag nosi Pradu 2 je sve što smo htjeli i ništa više. To je s jedne strane sjajno, a s druge razočaravajuće",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Vrag-nosi-Pradu-2_imdb-1-768x512.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/vrag-nosi-pradu-2-pogledali-smo/",
-    "created_at": "2026-05-18T09:30:40.830190+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Knjige Krhka dob je izazovno, uzbudljivo, na momente čak i jezivo djelo. O njemu piše Ilina Cenov",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/zena_pexels-yaroslav-shuraev-5978341-768x581.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://www.journal.hr/kultura/knjige/krhka-dob-ilina-cenov-procitali-smo/",
-    "created_at": "2026-05-18T09:30:40.830090+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Film, kazalište i TV Film Remarkably Bright Creatures donosi nesvakidašnju priču o prijateljstvu, obitelji i nadi",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Remarkably-Bright-Creatures_imdb-550x297.jpg",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/remarkably-bright-creatures-netflix/",
-    "created_at": "2026-05-18T09:30:40.829992+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Film, kazalište i TV Hoće li ovo biti najveći flop na Cannesu? Ni francuske ikone nisu mogle spasiti ovaj film od pljuvanja kritičara",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Parallel-Tales_profimedia-1099070130-550x367.jpg",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/parallel-tales-film/",
-    "created_at": "2026-05-18T09:30:40.829877+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Film, kazalište i TV Izdvojili smo 24 nadolazeća filma koja se očekuju ove godine, a o kojima će se najviše pričati",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/01/Josephine_imdb-550x310.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/nadolazeci-filmovi-2026/",
-    "created_at": "2026-05-18T09:30:40.829754+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Film, kazalište i TV Još jedna velika izmjena čeka nas vezano uz novu sezonu serije Bridgerton. No, ova će se svima svidjeti",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/02/Bridgerton_imdb-3-550x367.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/bridgerton-peta-sezona/",
-    "created_at": "2026-05-18T09:30:40.829625+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Film, kazalište i TV Šest nerazvikanih stranih serija na Netflixu koje možda niste pogledali, a trebali biste",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/strane-serije_imdb-1-768x512.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/strane-serije-netflix/",
-    "created_at": "2026-05-18T09:30:40.829504+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Film, kazalište i TV Novi horor hit otkriva koja je razlika između ljubavi i opsesije. Jeste li ga već pogledali?",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/zaludenost.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://www.journal.hr/kultura/film-kazaliste-tv/zaludenost-horor-film/",
-    "created_at": "2026-05-18T09:30:40.829383+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Glazba Zovu ih vizionarima glazbene scene, a ovaj razgovor je to potvrdio. Empire Of The Sun uskoro na Šalati",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Empire-od-the-sun_imdb.jpeg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://www.journal.hr/kultura/glazba/empire-of-the-sun-luke-steele-intervju/",
-    "created_at": "2026-05-18T09:30:40.829266+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Umjetnost i dizajn Ivica Ivčević svojim fotografijama polako nas uvlači u ljetnu nostalgiju",
-    "description": "Journal.hr - kultura · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/jadrolinija3-1080x1440.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://www.journal.hr/kultura/umjetnost-i-dizajn/ivica-ivcevic-fotografija-intervju/",
-    "created_at": "2026-05-18T09:30:40.829129+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Putovanja INSTA(NT) TRAVEL: Pastirsko naselje i zadivljujuć pogled s Velike planine prekrivene šafranima",
-    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2023/04/Collage-Maker-08-Apr-2023-10-50-AM-5052-768x403.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/lifestyle/putovanja/velika-planina-slovenija-putovanje/",
-    "created_at": "2026-05-18T09:30:40.283591+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Putovanja INSTA(NT) TRAVEL: Donosimo 5 super ideja kamo otići na izlet za Prvi maj",
-    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/04/Prvi-maj_izleti_julie-jensen-dupe-768x1021.jpeg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/lifestyle/putovanja/vikend-izleti-prvi-maj/",
-    "created_at": "2026-05-18T09:30:40.283494+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Putovanja INSTA(NT) TRAVEL: Trg u obliku školjke i tajne srednjovjekovnog grada u Toskani koji morate doživjeti",
-    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/01/siena-768x432.png",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/lifestyle/putovanja/siena-toskana-italija/",
-    "created_at": "2026-05-18T09:30:40.283402+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Putovanja Destinacija o kojoj maštamo: Španjolski grad poznat po ukusnim jelima i predivnoj plaži",
-    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2023/03/Valencia-Espania-550x824.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/lifestyle/putovanja/valencija-spanjolski-grad-koji-nudi-nezaboravno-iskustvo/",
-    "created_at": "2026-05-18T09:30:40.283281+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Putovanja Zagrebački hotel Esplanade pridružio se prestižnom globalnom programu GHA DISCOVERY",
-    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Esplanade-Zagreb-Hotel-gha-discovery.-2-1-e1778864909175-768x417.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/lifestyle/putovanja/esplanade-gha-discovery/",
-    "created_at": "2026-05-18T09:30:40.283051+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Putovanja Putovanja autom kroz Europu: Ove rute pamtit ćete zauvijek",
-    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/Putovanja-autom-po-Europi.gif",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/lifestyle/putovanja/putovanja-autom-kroz-europu-rute-koje-se-pamte/",
-    "created_at": "2026-05-18T09:30:40.282884+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Zagreb je dobio novo mjesto sa svježom tjesteninom i za jesti i ponijeti. Posjetili smo Pašta Eat & Shop",
-    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/01/Pasta-eat-shop_Martina-Movric-16-768x1152.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/lifestyle/gastro/pasta-eat-and-shop-zagreb/",
-    "created_at": "2026-05-18T09:30:40.282551+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Posjetili smo Nuré – novi zagrebački restoran sa samo četiri stola o kojem se naveliko priča",
-    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/01/Nure-restoran_mali-GIF.gif",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/lifestyle/gastro/nure-restoran-zagreb/",
-    "created_at": "2026-05-18T09:30:40.282454+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "U Zagrebu je otvoren tira-mi-su, mjesto posvećeno kultnoj talijanskoj slastici. Prve smo ih posjetile",
-    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/tiramisu-13-768x1024.jpeg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/lifestyle/gastro/nova-mjesta-otvorena-u-2026-u-zagrebu/",
-    "created_at": "2026-05-18T09:30:40.282355+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Putovanja Game changer za putovanja s djecom: U Termama Olimia uskoro se otvara prvi obiteljski hotel u Sloveniji",
-    "description": "Journal.hr - lifestyle · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Terme-Olimia_Family-hotel-Vilinia_mala-naslovna-foto-1080x1637.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/lifestyle/putovanja/family-hotel-vilinia-terme-olimia-slovenija/",
-    "created_at": "2026-05-18T09:30:40.281505+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Konačno, ljetni parfem koji ne miriše kao krema za sunčanje. Ovaj je prozračan i svjež, ali s karakterom",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/Hermes-parfem.gif",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/ljepota/vijesti-iz-ljepote/hermes-parfem-un-jardin-sous-la-mer/",
-    "created_at": "2026-05-18T09:30:39.429202+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Posjetili smo Paris Perfume Week i ovo su najzanimljiviji novi parfemi koje smo otkrili",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Paris-Perfume-Week-1_-768x768.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/paris-perfume-week-noviteti-niche-parfemi/",
-    "created_at": "2026-05-18T09:30:39.429113+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Ovaj moćni sastojak polako, ali sigurno preuzima glavnu ulogu u modernoj anti-age njezi kože",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/02/alge_skincare-1-1-768x960.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/ljepota/vijesti-iz-ljepote/alge-skincare-sastojak-hidratacija-anti-age/",
-    "created_at": "2026-05-18T09:30:39.429025+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Mikrobiom kože sve je važniji u skincareu, a ovo su sastojci koji ga štite",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/prebiotici-i-postbiotici.gif",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/prebiotici-postbiotici-skincare-sastojci-mikrobiom-koze/",
-    "created_at": "2026-05-18T09:30:39.428936+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Insajderska beauty tajna je ovo ulje koje hidratizira, zaglađuje i ujednačava ten",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/ulje-pasjeg-trna-1-768x960.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/ulje-pasjeg-trna-skincare-sastojak/",
-    "created_at": "2026-05-18T09:30:39.428845+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Najpodcjenjeniji skincare sastojak: U svijetu preopterećenih rutina, vraća koži ono što joj treba",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/gljive-u-skincareu.gif",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/gljive-skincare-hidratacija-iritacija-crvenilo/",
-    "created_at": "2026-05-18T09:30:39.428757+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Svi luduju za PDRN skincare proizvodima, a čini vam se da samo vama ne djeluju? Znamo zašto",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/pdrn-670-550x550.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/pdrn-skincare-proizvodi/",
-    "created_at": "2026-05-18T09:30:39.428653+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Proizvodi rasprodani u pet minuta, a onda je krenula drama: zašto svi pričaju o beauty brendu Alix Earle?",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/alix-earle_reale-actives-550x733.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/ljepota/vijesti-iz-ljepote/beauty-industrija-dogadaji-brendovi/",
-    "created_at": "2026-05-18T09:30:39.428546+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Fileri za usne su prošlost? Ovi tretmani daju plump efekt, ali zadržavaju prirodan izgled",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/lip-boosteri-naslovna-e1773920942268-768x459.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/lip-boosteri-usne-puniji-izgled-plump-efekt/",
-    "created_at": "2026-05-18T09:30:39.428431+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Aesop vs. nova generacija luksuznih brendova: Može li ponovno redefinirati kategoriju koju je sam stvorio?",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/aesop.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/aesop-skincare-beauty-brend/",
-    "created_at": "2026-05-18T09:30:39.428312+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Business to fun: Kako poslovni look brzinski transformirati u onaj za after work druženje?",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2023/09/Armani-Luminous-Silk_Franjo-Matkovic-11-1080x1440.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://specijal.journal.hr/Armani-Luminous-Silk-puder-business-to-fun-lookovi/",
-    "created_at": "2026-05-18T09:30:39.428209+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Pegla stare i sprječava nove bore: Predlažemo anti-age rutinu sa samo tri drogerijska proizvoda",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2024/11/Nivea-Q10-editorijal_Sanja-Jagatic-7-1080x1620.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/nivea-q10-serum-krema-filer-serum-skincare-anti-age/",
-    "created_at": "2026-05-18T09:30:39.428093+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Office siren, but make it Journal: Kako bismo se šminkali za posao da ne postoje pravila?",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2024/10/beauty-editorial-journal-2-1080x1440.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://specijal.journal.hr/beauty-editorial-office-siren/",
-    "created_at": "2026-05-18T09:30:39.427971+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Neukrotiva kosa više nije izgovor. Kako smo pripitomili volumen Pamele Badžek i napravili sleek frizuru?",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/05/Syoss-x-Journal-3-1080x1350.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://specijal.journal.hr/syoss-intense-keratin-linija-pamela-badzek-beauty-editorijal/",
-    "created_at": "2026-05-18T09:30:39.427856+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Journal beauty editorijal: Što se dogodi kad cvijeće zamijeni šminku?",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/06/Beauty-editorijal-2.gif",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://specijal.journal.hr/journal-beauty-editorijal-proljece-boje-cvijece/",
-    "created_at": "2026-05-18T09:30:39.427737+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Journal x Chanel beauty editorijal: Priča o disciplini, nježnosti i transformaciji",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/01/Journal-x-Chanel-28-1-1080x1440.jpeg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://specijal.journal.hr/chanel-beauty-editorijal-balet/",
-    "created_at": "2026-05-18T09:30:39.427610+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Mermaidcore estetika vraća se na velika vrata: Dégradé nokti su nova ljetna ‘it’ manikura",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2023/05/chrome-mermaid-nokti-1080x1440.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/mermaidcore-nokti-manikura-trend-ljeto/",
-    "created_at": "2026-05-18T09:30:39.427490+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Sleek frizure dobile su minimalistički, retro twist koji će dominirati ove sezone",
-    "description": "Journal.hr - ljepota · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/no-part-slick-back-ponytail-2-1080x1349.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/ljepota/trendovi-ljepota/no-part-slick-back-ponytail-hair-trend/",
-    "created_at": "2026-05-18T09:30:39.427342+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Krokodil više nije isti – Lacoste je predstavio proljetnu verziju loga",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/lacoste-1-2-e1774265905592-550x550.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/moda/trendovi/lacoste-redizajn-krokodil-logotip/",
-    "created_at": "2026-05-18T09:30:39.273731+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Mokasine su definitivno među najchic proljetnim cipelama, a mi donosimo najbolje modele",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/Mass-cipele-23-1-scaled-e1774436598269-768x425.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/moda/trendovi/mass-chic-cipele-mokasine/",
-    "created_at": "2026-05-18T09:30:39.273608+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "U modi, tijelo je opet u fokusu. Vraćamo se seksepilnim krojevima, a ovako to rade vodeće modne kuće",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Mugler-1080x1620.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/moda/trendovi/seksepil-u-modi-tijelo-odjeca/",
-    "created_at": "2026-05-18T09:30:39.273454+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Journal wishlista: Jedan ili dva džempera? Toteme je predstavio jako zanimljivo pletivo",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/10/toteme-pletivo.gif",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/moda/trendovi/journal-wishlista-toteme-dzemper/",
-    "created_at": "2026-05-18T09:30:39.273364+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Journal wishlista: Polo Ralph Lauren vestica je primjer kako bezvremenski komadi ne moraju biti dosadni",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/Polo-Ralph-Lauren-1.gif",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/moda/trendovi/journal-wishlista-polo-ralph-lauren-vestica/",
-    "created_at": "2026-05-18T09:30:39.273277+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Journal wishlista: Nove Loewe cipele su nas podsjetile da moda može biti zabavna i nosiva – istovremeno",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Loewe-Origami-cipele.gif",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/moda/trendovi/journal-wishlista-loewe-origami-cipele/",
-    "created_at": "2026-05-18T09:30:39.273185+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "2025. godinu otvaramo provokacijom – Vlaho Arbulić u transformaciji na koju nećete ostati ravnodušni",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/01/Vlaho-Arbulic-Journal-Specijal-6-1080x1350.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://specijal.journal.hr/journal-modni-editorijal-vlaho-arbulic/",
-    "created_at": "2026-05-18T09:30:39.273053+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Moć transformacije: Mia Matić nosi novu H&M Studio kolekciju",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2024/03/Mia-Matic-HM-Studio-Journal-hr-Foto-Franjo-Matkovic-2-1080x1440.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://specijal.journal.hr/hm-studio-spring-2024-mia-matic-za-journal/",
-    "created_at": "2026-05-18T09:30:39.272929+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Moć transformacije: Karla Kirschner je Claudia Schiffer novog doba",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2024/10/Moc-transformacije-Claudia-Schiffer-8-1080x1440.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://specijal.journal.hr/moc-transformacije-karla-kirschner-claudia-schiffer/",
-    "created_at": "2026-05-18T09:30:39.272813+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Most između svjetova: Raiven u novom editorijalu spaja prošlost i budućnost, avangardu i visoku modu",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/04/Raiven-x-Journal-9-1080x1350.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://specijal.journal.hr/raiven-modni-editorijal-journal-specijal/",
-    "created_at": "2026-05-18T09:30:39.272702+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Journal Valentine’s Special: Elena Dizdar i Sandy Bogovac u najintimnijem izdanju do sada",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/02/Elena-i-Sandy_Franjo-Matkovic-8-e1770813387965-768x813.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://specijal.journal.hr/elena-dizdar-i-sandy-bogovac-modni-editorijal/",
-    "created_at": "2026-05-18T09:30:39.272572+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Ona je elegancija, drama i misterij, a ovo je njezin teren. Mona žena mijenja pravila modne igre",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/12/Mona-Journal-gif-5.gif",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/moda/vijesti/mona-editorijal-modni-brend-trendi-komadi/",
-    "created_at": "2026-05-18T09:30:39.272477+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Toma Medvešek i Lav Novosel pokazuju kako izgleda nova generacija modernih muškaraca",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/11/Toma-Medvesek-i-Lav-Novosel-2-768x512.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://specijal.journal.hr/toma-medvesek-lav-novosel-porsche-loreal-editorijal/",
-    "created_at": "2026-05-18T09:30:39.272383+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "‘Ja bih pjevala i da nisam ova Nina Badrić’: Razgovarali smo s jednom od naših najvećih glazbenih ikona",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/01/Nina-Badric.gif",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://specijal.journal.hr/nina-badric-intervju-modni-editorijal/",
-    "created_at": "2026-05-18T09:30:39.272288+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Helen Mirren je lice nove Stella McCartney kampanje, ali nije riječ samo o modnoj priči",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Hellen-Mirren-Stella-McCartney-2-1080x1350.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/moda/vijesti/helen-mirren-stella-mccartney-kampanja/",
-    "created_at": "2026-05-18T09:30:39.272154+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Hailey Bieber je novo lice kampanje za jesensku kolekciju modne kuće Alaïa",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Hailey-Bieber-x-Alaia-1-e1778236707923-768x497.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/moda/vijesti/hailey-bieber-alaia-novo-lice-ambasadorica/",
-    "created_at": "2026-05-18T09:30:39.271958+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Zara ima odličnu ponudu lanenih odijela. Napravili smo selekciju",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Zara-laneni-kompleti-6.webp",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/moda/trendovi/zara-lanena-odijela-proljetni-komadi/",
-    "created_at": "2026-05-18T09:30:39.271832+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Journal bag guide: Nova Dior Médaillon torba stavlja romantiku u prvi plan",
-    "description": "Journal.hr - moda · fotografija iz vijesti",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Dior-medaillon-torba.gif",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.journal.hr/moda/vijesti/dior-medaillon-flap-bag-torba/",
-    "created_at": "2026-05-18T09:30:39.271690+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Strastveni modni svijet Aleksandre Dojčinović",
-    "description": "Symbol Quorum - lifestyle · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2024/02/Ivana-Nola-2-1-1010x1024.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://symbol-quorum.com/strastveni-modni-svijet-aleksandre-dojcinovic/",
-    "created_at": "2026-05-18T09:30:38.444650+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Ivana Nola – Ljepota bez starosnih granica",
-    "description": "Symbol Quorum - lifestyle · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2024/06/IMG_7712-1024x682.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://symbol-quorum.com/ivana-nola-ljepota-bez-starosnih-granica/",
-    "created_at": "2026-05-18T09:30:38.444551+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Andro Vlahušić: “Dubrovnik ni za što!”",
-    "description": "Symbol Quorum - lifestyle · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/02/suzana-holtgrave3-1024x678.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://symbol-quorum.com/andro-vlahusic-dubrovnik-ni-za-sto/",
-    "created_at": "2026-05-18T09:30:38.444445+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Ikona stila koja je fotografijom osvojila modni svijet",
-    "description": "Symbol Quorum - lifestyle · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/04/b2-793x1024.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://symbol-quorum.com/ikona-stila-koja-je-fotografijom-osvojila-modni-svijet/",
-    "created_at": "2026-05-18T09:30:38.444333+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Vizionar hrvatske modne scene",
-    "description": "Symbol Quorum - lifestyle · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/43_Zepter-Hotel-Belgrade-2018-1-683x1024.jpg",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://symbol-quorum.com/vizionar-hrvatske-modne-scene/",
-    "created_at": "2026-05-18T09:30:38.444202+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "„Ne želim od rajčice praviti jagodu“",
-    "description": "Symbol Quorum - gastronomija · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2024/08/Galić-5copy-1024x683.jpg",
-    "category": "pica",
-    "label": "PIĆA",
-    "source_url": "https://symbol-quorum.com/ne-zelim-od-rajcice-praviti-jagodu/",
-    "created_at": "2026-05-18T09:30:36.332860+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Ljubav su vina, a vina su Galić",
-    "description": "Symbol Quorum - gastronomija · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2024/12/IMG_3045-1024x985.jpeg",
-    "category": "pica",
-    "label": "PIĆA",
-    "source_url": "https://symbol-quorum.com/ljubav-su-vina-a-vina-su-galic/",
-    "created_at": "2026-05-18T09:30:36.332757+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Srž Mediterana, snaga tradicije",
-    "description": "Symbol Quorum - gastronomija · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/03/Le-Premier_Mesek_Mislav_MSK_0097-1024x682.jpg",
-    "category": "pica",
-    "label": "PIĆA",
-    "source_url": "https://symbol-quorum.com/srz-mediterana-snaga-tradicije/",
-    "created_at": "2026-05-18T09:30:36.332644+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Chef za zadovoljne goste",
-    "description": "Symbol Quorum - gastronomija · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/07/01-velika-1.jpg",
-    "category": "pica",
-    "label": "PIĆA",
-    "source_url": "https://symbol-quorum.com/chef-za-zadovoljne-goste/",
-    "created_at": "2026-05-18T09:30:36.332548+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Chef koji se vratio kući",
-    "description": "Symbol Quorum - gastronomija · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/mrmr2-1024x849.jpg",
-    "category": "pica",
-    "label": "PIĆA",
-    "source_url": "https://symbol-quorum.com/chef-koji-se-vratio-kuci/",
-    "created_at": "2026-05-18T09:30:36.332397+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "„Živjeti bolje, duže i sretnije – to je naš cilj i motivacija”",
-    "description": "Symbol Quorum - poduzetništvo · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/01/bart--1024x546.jpg",
-    "category": "poslovanje",
-    "label": "POSLOVANJE",
-    "source_url": "https://symbol-quorum.com/zivjeti-bolje-duze-i-sretnije-to-je-nas-cilj-i-motivacija/",
-    "created_at": "2026-05-18T09:30:33.955943+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "„Znatiželja je temelj svake uspješne znanstvene karijere”",
-    "description": "Symbol Quorum - poduzetništvo · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/03/MG_0929-1024x682.jpg",
-    "category": "poslovanje",
-    "label": "POSLOVANJE",
-    "source_url": "https://symbol-quorum.com/znatizelja-je-temelj-svake-uspjesne-znanstvene-karijere/",
-    "created_at": "2026-05-18T09:30:33.955843+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Laska mi da smo uistinu mijenjali društvo na bolje",
-    "description": "Symbol Quorum - poduzetništvo · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/08/MG_9492-1024x682.jpg",
-    "category": "poslovanje",
-    "label": "POSLOVANJE",
-    "source_url": "https://symbol-quorum.com/laska-mi-da-smo-uistinu-mijenjali-drustvo-na-bolje/",
-    "created_at": "2026-05-18T09:30:33.955609+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "„Moja zvijezda vodilja je zlatni rez”",
-    "description": "Symbol Quorum - poduzetništvo · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/08/IGOR-ZEPTER-1-1024x960.jpg",
-    "category": "poslovanje",
-    "label": "POSLOVANJE",
-    "source_url": "https://symbol-quorum.com/moja-zvijezda-vodilja-je-zlatni-rez/",
-    "created_at": "2026-05-18T09:30:33.955508+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Filozofija Zeptera: zdravlje, dugovječnost, ljepota i održiva elegancija",
-    "description": "Symbol Quorum - poduzetništvo · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/maratea14-6-1024x682.jpeg",
-    "category": "poslovanje",
-    "label": "POSLOVANJE",
-    "source_url": "https://symbol-quorum.com/filozofija-zeptera-zdravlje-dugovjecnost-ljepota-i-odrziva-elegancija/",
-    "created_at": "2026-05-18T09:30:33.955351+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "„Svinje obožavaju sladoled!”",
-    "description": "Symbol Quorum - kultura i umjetnost · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/09/U3A1849-943x1024.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://symbol-quorum.com/svinje-obozavaju-sladoled/",
-    "created_at": "2026-05-18T09:30:31.259834+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "„Glumac živi i stvara sve dok se raduje svakoj novoj ulozi”",
-    "description": "Symbol Quorum - kultura i umjetnost · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/10/iva-1024x940.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://symbol-quorum.com/glumac-zivi-i-stvara-sve-dok-se-raduje-svakoj-novoj-ulozi/",
-    "created_at": "2026-05-18T09:30:31.259740+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "„HNK i naša publika zaista su nešto posebno”",
-    "description": "Symbol Quorum - kultura i umjetnost · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/11/image00022-1024x682.jpeg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://symbol-quorum.com/hnk-i-nasa-publika-zaista-su-nesto-posebno/",
-    "created_at": "2026-05-18T09:30:31.259628+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "„Džuli je moja osobna iskaznica”",
-    "description": "Symbol Quorum - kultura i umjetnost · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/mf.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://symbol-quorum.com/dzuli-je-moja-osobna-iskaznica/",
-    "created_at": "2026-05-18T09:30:31.259530+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "„Jako dobro znam koliko je teško svirati ljeti na otvorenom…”",
-    "description": "Symbol Quorum - kultura i umjetnost · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/anita-kontrec-foto-mara-bratos-14-1024x682.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://symbol-quorum.com/jako-dobro-znam-koliko-je-tesko-svirati-ljeti-na-otvorenom/",
-    "created_at": "2026-05-18T09:30:31.259431+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "„Svi smo kreatori svijeta u kojem živimo”",
-    "description": "Symbol Quorum - kultura i umjetnost · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/selma2-1024x960.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://symbol-quorum.com/svi-smo-kreatori-svijeta-u-kojem-zivimo/",
-    "created_at": "2026-05-18T09:30:31.259323+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "„Ostvarila sam ono što mnogi umjetnici ne uspiju ni za pedeset godina karijere”",
-    "description": "Symbol Quorum - kultura i umjetnost · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/DSC03739-964x1024.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://symbol-quorum.com/ostvarila-sam-ono-sto-mnogi-umjetnici-ne-uspiju-ni-za-pedeset-godina-karijere/",
-    "created_at": "2026-05-18T09:30:31.259212+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Očuvanje istinskog duha umjetnosti",
-    "description": "Symbol Quorum - kultura i umjetnost · fotografija iz vijesti",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/IMG_8224-1-1024x712.jpg",
-    "category": "kultura",
-    "label": "KULTURA",
-    "source_url": "https://symbol-quorum.com/ocuvanje-istinskog-duha-umjetnosti/",
-    "created_at": "2026-05-18T09:30:31.259019+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "More Paths or More Contrast? A Theory of Experimentation Breadth -- by Joshua S. Gans, Luca Gius",
-    "description": "NBER Digest · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-0b33066e38bf/1200/750",
-    "category": "ekonomija",
-    "label": "EKONOMIJA",
-    "source_url": "https://www.nber.org/papers/w35207#fromrss",
-    "created_at": "2026-05-18T09:30:12.146900+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "The Cost of Intermediary Market Power for Distressed Borrowers -- by Winston Wei Dou, Wei Wang, Wenyu Wang",
-    "description": "NBER Digest · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-5b810bd2cf54/1200/750",
-    "category": "ekonomija",
-    "label": "EKONOMIJA",
-    "source_url": "https://www.nber.org/papers/w35206#fromrss",
-    "created_at": "2026-05-18T09:30:12.146814+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Flood Risk, Insurance, and Housing in the United States -- by Suvy Qin, John L. Voorheis",
-    "description": "NBER Digest · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-01736d28a968/1200/750",
-    "category": "muzeji",
-    "label": "MUZEJI",
-    "source_url": "https://www.nber.org/papers/w35204#fromrss",
-    "created_at": "2026-05-18T09:30:12.146732+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "The Geography of Lifecycle Human Capital Accumulation -- by Ben Sprung-Keyser, Sonya Porter",
-    "description": "NBER Digest · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-d4c842099b57/1200/750",
-    "category": "ekonomija",
-    "label": "EKONOMIJA",
-    "source_url": "https://www.nber.org/papers/w35203#fromrss",
-    "created_at": "2026-05-18T09:30:12.146640+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Fiscal Policy and Transition Risk -- by Stefano Carattini, Garth Heutel, Givi Melkadze, Inès Mourelon",
-    "description": "NBER Digest · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-405c4f2b92e1/1200/750",
-    "category": "ekonomija",
-    "label": "EKONOMIJA",
-    "source_url": "https://www.nber.org/papers/w35202#fromrss",
-    "created_at": "2026-05-18T09:30:12.146540+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Intertemporal Arbitrage and Optimal Operation of Pumped Hydro Energy Storage -- by Isabel Figuerola-Ferretti, Eduardo S. Schwartz",
-    "description": "NBER Digest · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-f36bc6cee1f4/1200/750",
-    "category": "ekonomija",
-    "label": "EKONOMIJA",
-    "source_url": "https://www.nber.org/papers/w35201#fromrss",
-    "created_at": "2026-05-18T09:30:12.146465+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Credibility and Precommitment in Socialist Constitutionalism -- by Sebastian Edwards",
-    "description": "NBER Digest · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-9a38baffcf7e/1200/750",
-    "category": "muzeji",
-    "label": "MUZEJI",
-    "source_url": "https://www.nber.org/papers/w35200#fromrss",
-    "created_at": "2026-05-18T09:30:12.146391+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "How do Workers Learn? Theory and Evidence on the Roots of Lifecycle Human Capital Accumulation -- by Xiao Ma, Alejandro Nakab, Daniela Vidart",
-    "description": "NBER Digest · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-234eba568eda/1200/750",
-    "category": "ekonomija",
-    "label": "EKONOMIJA",
-    "source_url": "https://www.nber.org/papers/w35199#fromrss",
-    "created_at": "2026-05-18T09:30:12.146326+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "The Effects of GLP-1 Use on Mental Health, Self-rated Health, Employment and Marriage -- by Robert Kaestner, Cuiping Schiman",
-    "description": "NBER Digest · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-07ae3f6482eb/1200/750",
-    "category": "ekonomija",
-    "label": "EKONOMIJA",
-    "source_url": "https://www.nber.org/papers/w35198#fromrss",
-    "created_at": "2026-05-18T09:30:12.146266+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Global Policy Spillovers: How Environmental Policies Propagate through Product Attributes -- by Koichiro Ito, James M. Sallee, Jonathan (Andrew) Smith",
-    "description": "NBER Digest · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-afbd34d327b9/1200/750",
-    "category": "muzeji",
-    "label": "MUZEJI",
-    "source_url": "https://www.nber.org/papers/w35197#fromrss",
-    "created_at": "2026-05-18T09:30:12.146202+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Making Sense of Labor Market Indicators Amid Data Imperfections -- by Scott A. Brave, Erin E. Crust, Stefano Eusepi, Bart Hobijn, Ayşegül Şahin",
-    "description": "NBER Digest · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-39d6db151303/1200/750",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://www.nber.org/papers/w35196#fromrss",
-    "created_at": "2026-05-18T09:30:12.146092+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "AlphaPortfolio: Goal-Oriented Investment Management Through Deep Reinforcement Learning -- by Lin William Cong, Ke Tang, Jingyuan Wang",
-    "description": "NBER Digest · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-21cf80121130/1200/750",
-    "category": "muzeji",
-    "label": "MUZEJI",
-    "source_url": "https://www.nber.org/papers/w35195#fromrss",
-    "created_at": "2026-05-18T09:30:12.145934+00:00",
+    "title": "Baidu in charts: Baidu Core revenue falls for 4th straight quarter; iQIYI up",
+    "description": "Seeking Alpha Market News · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-7fcc8846348e/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://seekingalpha.com/news/4594268-baidu-in-charts-baidu-core-revenue-falls-for-4th-straight-quarter-iqiyi-up?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "created_at": "2026-05-18T09:29:07+00:00",
     "auto_from_news": true
   },
   {
@@ -2370,6 +2520,76 @@
     "auto_from_news": true
   },
   {
+    "title": "Citi forecasts server CPU market to hit $132B by 2030",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://picsum.photos/seed/wv-news-a116fdfa4f99/1200/750",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/stock-market-news/citi-forecasts-server-cpu-market-to-hit-132b-by-2030-93CH-4694931",
+    "created_at": "2026-05-18T07:31:39+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "MEXC Launches AI Strategy, Advancing Its End-to-End AI Trading Ecosystem",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/press-releases/mexc-launches-ai-strategy-advancing-its-endtoend-ai-trading-ecosystem-4694930",
+    "created_at": "2026-05-18T07:31:26+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Union Green Power Ranked Among the Top 10 Fastest-Growing Energy Companies in Europe in Q1 2026",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/press-releases/union-green-power-ranked-among-the-top-10-fastestgrowing-energy-companies-in-europe-in-q1-2026-4694929",
+    "created_at": "2026-05-18T07:31:26+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Latin America credit growth slows amid tighter financial conditions",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://i-invdn-com.investing.com/news/LYNXNPEC180BO_M.jpg",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/stock-market-news/latin-america-credit-growth-slows-amid-tighter-financial-conditions-93CH-4694928",
+    "created_at": "2026-05-18T07:30:40+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "China’s Xpeng begins mass production of robotaxis in Guangzhou",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H0MN_L.jpg",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/stock-market-news/chinas-xpeng-begins-mass-production-of-robotaxis-in-guangzhou-4694927",
+    "created_at": "2026-05-18T07:30:34+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Equity positioning climbs as tech stocks gain favor, Deutsche Bank says",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://i-invdn-com.investing.com/news/LYNXMPEB2C0AG_M.jpg",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/stock-market-news/equity-positioning-climbs-as-tech-stocks-gain-favor-deutsche-bank-says-93CH-4694926",
+    "created_at": "2026-05-18T07:30:27+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Why is Regeneron Pharmaceuticals stock plunging today?",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_M.jpg",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/stock-market-news/why-is-regeneron-pharmaceuticals-stock-plunging-today-93CH-4694925",
+    "created_at": "2026-05-18T07:30:07+00:00",
+    "auto_from_news": true
+  },
+  {
     "title": "‘Madame’ Takes Us Inside Paris’ Opulent Golden Triangle and a Gilded Cage (Exclusive Cannes Clip)",
     "description": "Hollywood Reporter · fotografija iz vijesti",
     "image": "https://picsum.photos/seed/wv-news-a1fe6165d59e/1200/750",
@@ -2387,6 +2607,26 @@
     "label": "TEHNOLOGIJA",
     "source_url": "https://www.theregister.com/personal-tech/2026/05/18/doom-soundtrack-added-to-national-recording-registry/5241709",
     "created_at": "2026-05-18T07:30:00+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Why is Dominion Energy stock surging today?",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://i-invdn-com.investing.com/news/LYNXMPECB601J_M.jpg",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/stock-market-news/why-is-dominion-energy-stock-surging-today-93CH-4694912",
+    "created_at": "2026-05-18T07:29:33+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Wells Fargo upgrades ADP stock rating on stabilizing fundamentals",
+    "description": "Investing.com News · fotografija iz vijesti",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "category": "financije",
+    "label": "FINANCIJE",
+    "source_url": "https://www.investing.com/news/analyst-ratings/wells-fargo-upgrades-adp-stock-rating-on-stabilizing-fundamentals-93CH-4694911",
+    "created_at": "2026-05-18T07:29:26+00:00",
     "auto_from_news": true
   },
   {
@@ -2417,6 +2657,16 @@
     "label": "FINANCIJE",
     "source_url": "https://seekingalpha.com/news/4594255-astrazeneca-wins-us-fda-approval-for-hypertension-drug-baxfendy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
     "created_at": "2026-05-18T07:20:27+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Stop selling what you think your customers need and start doing this instead",
+    "description": "Fast Company · fotografija iz vijesti",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-91520040-start-selling-what-your-customers-actually-need-and-want.jpg",
+    "category": "poslovanje",
+    "label": "POSLOVANJE",
+    "source_url": "https://www.fastcompany.com/91520040/stop-selling-what-you-think-customers-need-sales-strategies",
+    "created_at": "2026-05-18T07:18:00+00:00",
     "auto_from_news": true
   },
   {
@@ -2457,16 +2707,6 @@
     "label": "FINANCIJE",
     "source_url": "https://www.investing.com/analysis/fx-outlook-bearish-yield-curve-steepening-hits-risk-assets-200680452",
     "created_at": "2026-05-18T07:14:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Musk says SpaceX IPO plans underway, space stocks rally",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/stock-market-news/musk-says-spacex-ipo-plans-underway-space-stocks-rally-93CH-4694871",
-    "created_at": "2026-05-18T07:13:20+00:00",
     "auto_from_news": true
   },
   {
@@ -2607,6 +2847,16 @@
     "label": "SATOVI",
     "source_url": "https://monochrome-watches.com/bell-and-ross-br-x3-patrouille-de-france-introducing-price/",
     "created_at": "2026-05-18T07:00:42+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Your AI strategy is only as strong as the people who run it",
+    "description": "Fast Company · fotografija iz vijesti",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-91541710-your-AI-is-only-as-good-as-the-team-running-it.jpg",
+    "category": "film",
+    "label": "FILM",
+    "source_url": "https://www.fastcompany.com/91541710/your-ai-strategy-is-only-as-strong-as-the-people-who-run-it",
+    "created_at": "2026-05-18T07:00:00+00:00",
     "auto_from_news": true
   },
   {
@@ -2847,6 +3097,16 @@
     "label": "FINANCIJE",
     "source_url": "https://seekingalpha.com/news/4594246-range-impact-gaap-eps-of--002-revenue-of-092m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
     "created_at": "2026-05-18T06:26:06+00:00",
+    "auto_from_news": true
+  },
+  {
+    "title": "Wrist Check: SGA Celebrates Back-to-Back MVP With Audemars Piguet Watches for His OKC Teammates",
+    "description": "Hypebeast · fotografija iz vijesti",
+    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F18%2Fwrist-check-shai-gilgeous-alexander-mvp-celebration-audesmars-piguet-royal-oak-offshore-diver-gift-okc-teammates-000.jpg?w=800&cbr=1&q=90&fit=max",
+    "category": "lifestyle",
+    "label": "LIFESTYLE",
+    "source_url": "https://hypebeast.com/2026/5/wrist-check-shai-gilgeous-alexander-mvp-celebration-audesmars-piguet-royal-oak-offshore-diver-gift-okc-teammates",
+    "created_at": "2026-05-18T06:25:45+00:00",
     "auto_from_news": true
   },
   {
@@ -4737,266 +4997,6 @@
     "label": "TEHNOLOGIJA",
     "source_url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
     "created_at": "2026-05-17T19:46:34+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "NextEra to discuss paying about $76 per share for Dominion, Bloomberg News reports",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4G0F2_L.jpg",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/stock-market-news/nextera-to-discuss-paying-about-76-per-share-for-dominion-bloomberg-news-reports-4694567",
-    "created_at": "2026-05-17T19:42:30+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Crocs Put Its Most Stylish Trail Sneaker in Drive",
-    "description": "Highsnobiety · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-20d3dc5c7795/1200/750",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.highsnobiety.com/p/crocs-quick-trail-racer/",
-    "created_at": "2026-05-17T19:37:57+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "adidas Designed Luxed-Up Superstar “Birks”",
-    "description": "Highsnobiety · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-30ec7c4a0819/1200/750",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.highsnobiety.com/p/adidas-adimule-superstar/",
-    "created_at": "2026-05-17T19:37:04+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Boots Riley Urges ‘I Love Boosters’ Audiences To See Film On Opening Weekend Or “It’s Game Over”",
-    "description": "Deadline · fotografija iz vijesti",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/MCDIILO_EC111.jpg",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://deadline.com/2026/05/boots-riley-urges-see-i-love-boosters-opening-weekend-1236913690/",
-    "created_at": "2026-05-17T19:35:45+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Nike’s Scaly Tennis Sneaker Is Part Reptile, All Luxury",
-    "description": "Highsnobiety · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-345d47f023fa/1200/750",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.highsnobiety.com/p/nike-tennis-classic-premium-watch-band-black/",
-    "created_at": "2026-05-17T19:35:39+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Nike Brewed Its OG Sneaker to Perfection",
-    "description": "Highsnobiety · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-287340af2c7a/1200/750",
-    "category": "lifestyle",
-    "label": "LIFESTYLE",
-    "source_url": "https://www.highsnobiety.com/p/nike-moon-shoe-baroque-brown/",
-    "created_at": "2026-05-17T19:34:10+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Walmart and Target are about to show just how much shopping habits have changed due to the Iran war",
-    "description": "MarketWatch Top Stories · fotografija iz vijesti",
-    "image": "https://images.mktw.net/im-42340520",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-show-just-how-much-shopping-habits-have-changed-due-to-the-iran-war-105b34d9?mod=mw_rss_topstories",
-    "created_at": "2026-05-17T19:34:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Canadian national health agency confirms 1 positive hantavirus test",
-    "description": "Medical Xpress · fotografija iz vijesti",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/canadian-national-heal.jpg",
-    "category": "znanost",
-    "label": "ZNANOST",
-    "source_url": "https://medicalxpress.com/news/2026-05-canadian-national-health-agency-positive.html",
-    "created_at": "2026-05-17T19:31:55+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Annette Bening on Going Head-to-Head With Beth and Rip on ‘Dutton Ranch,’ Perfecting That Accent and Wardrobe, and Bringing ‘Vulnerability and Desperation’ to Beulah",
-    "description": "Variety · fotografija iz vijesti",
-    "image": "https://variety.com/wp-content/uploads/2026/05/RP_102_LS_0909_0085_RT.jpg",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://variety.com/2026/tv/features/dutton-ranch-annette-bening-beulah-wardrobe-accent-feuds-1236750443/",
-    "created_at": "2026-05-17T19:30:57+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Military jets’ crew members safely ejected after Idaho air-show collision, Navy says",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://i-invdn-com.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/world-news/military-jets-crew-members-safely-ejected-after-idaho-airshow-collision-navy-says-4694566",
-    "created_at": "2026-05-17T19:30:13+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Does an infant's body fat relate to cognitive and motor development?",
-    "description": "Medical Xpress · fotografija iz vijesti",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/babies.jpg",
-    "category": "znanost",
-    "label": "ZNANOST",
-    "source_url": "https://medicalxpress.com/news/2026-05-infant-body-fat-cognitive-motor.html",
-    "created_at": "2026-05-17T19:30:02+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Pediatric pulmonary rehab improves exercise ability, quality of life",
-    "description": "Medical Xpress · fotografija iz vijesti",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/child-play.jpg",
-    "category": "znanost",
-    "label": "ZNANOST",
-    "source_url": "https://medicalxpress.com/news/2026-05-pediatric-pulmonary-rehab-ability-quality.html",
-    "created_at": "2026-05-17T19:30:01+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Nvidia is getting some help as it props up S&P 500 earnings growth",
-    "description": "MarketWatch Top Stories · fotografija iz vijesti",
-    "image": "https://images.mktw.net/im-96113264",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.marketwatch.com/story/nvidia-is-getting-some-help-as-it-props-up-s-p-500-earnings-growth-1f3a8a52?mod=mw_rss_topstories",
-    "created_at": "2026-05-17T19:25:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Amazon is facing a class action lawsuit for not refunding its customers after 'unlawful' tariffs",
-    "description": "Engadget · fotografija iz vijesti",
-    "image": "https://www.engadget.com/img/gallery/amazon-is-facing-a-class-action-lawsuit-for-not-refunding-its-customers-after-unlawful-tariffs/l-intro-1779045175.jpg",
-    "category": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source_url": "https://www.engadget.com/2174992/amazon-facing-class-action-lawsuit-for-not-refunding-its-customers-after-unlawful-tariffs/",
-    "created_at": "2026-05-17T19:25:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Surrounded by stardust: Antarctic ice cores confirm Earth is accumulating iron-60 from local interstellar cloud",
-    "description": "Phys.org · fotografija iz vijesti",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/surrounded-by-stardust.jpg",
-    "category": "znanost",
-    "label": "ZNANOST",
-    "source_url": "https://phys.org/news/2026-05-stardust-antarctic-ice-cores-earth.html",
-    "created_at": "2026-05-17T19:20:01+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Dennis Locorriere, Dr. Hook Lead Singer, Dies At 76",
-    "description": "Forbes Business · fotografija iz vijesti",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0a13760fbfaebeb6563b6d/0x0.jpg?width=960",
-    "category": "poslovanje",
-    "label": "POSLOVANJE",
-    "source_url": "https://www.forbes.com/sites/timlammers/2026/05/17/dennis-locorriere-dr-hook-lead-singer-dies-at-76/",
-    "created_at": "2026-05-17T19:19:34+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "BYD’s Boxy Off-Road Brand Just Built an ‘Anti-Minimalist’ 1,000-HP Supercar",
-    "description": "Yanko Design · fotografija iz vijesti",
-    "image": "https://www.yankodesign.com/images/design_news/2026/05/byds-boxy-off-road-brand-just-built-an-anti-minimalist-1000-hp-supercar/fang_cheng_bao_formula_x_1.jpg",
-    "category": "dizajn",
-    "label": "DIZAJN",
-    "source_url": "https://www.yankodesign.com/2026/05/17/byds-boxy-off-road-brand-just-built-an-anti-minimalist-1000-hp-supercar/?utm_source=rss&utm_medium=rss&utm_campaign=byds-boxy-off-road-brand-just-built-an-anti-minimalist-1000-hp-supercar",
-    "created_at": "2026-05-17T19:15:05+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Sterling K. Brown Explains Why ‘Is God Is’ Role Appealed To Him: “I Love Seeing Black Women Win”",
-    "description": "Deadline · fotografija iz vijesti",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/MCDISGO_MG013.jpg",
-    "category": "film",
-    "label": "FILM",
-    "source_url": "https://deadline.com/2026/05/sterling-k-brown-is-god-is-love-seeing-black-women-win-1236913671/",
-    "created_at": "2026-05-17T19:12:05+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "What former poker champion turned investing coach Annie Duke says most of us get wrong about risk",
-    "description": "MarketWatch Top Stories · fotografija iz vijesti",
-    "image": "https://images.mktw.net/im-74133084",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.marketwatch.com/story/hold-stocks-or-fold-em-former-world-series-of-poker-champion-annie-duke-tells-you-how-to-decide-6ded9e52?mod=mw_rss_topstories",
-    "created_at": "2026-05-17T19:12:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Meet the Nvidias of power — 5 stocks winning Big Tech’s $700 billion AI energy grab",
-    "description": "MarketWatch Top Stories · fotografija iz vijesti",
-    "image": "https://images.mktw.net/im-95360799",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories",
-    "created_at": "2026-05-17T19:10:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Terraria developer confirms cross-play is coming and teases 15th anniversary collector's items",
-    "description": "Engadget · fotografija iz vijesti",
-    "image": "https://www.engadget.com/img/gallery/terraria-developer-confirms-cross-play-is-coming-and-teases-15th-anniversary-collectors-items/l-intro-1779044503.jpg",
-    "category": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source_url": "https://www.engadget.com/2174984/terraria-developer-confirms-cross-play-is-coming-and-teases-15th-anniversary-collector-items/",
-    "created_at": "2026-05-17T19:09:57+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Your 3–6 months of emergency savings won’t cut it — why the job market now demands an 18-month cash cushion",
-    "description": "MarketWatch Top Stories · fotografija iz vijesti",
-    "image": "https://images.mktw.net/im-66507434",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.marketwatch.com/story/you-now-need-18-months-of-emergency-savings-because-of-how-much-ai-is-disrupting-the-workforce-86dbac97?mod=mw_rss_topstories",
-    "created_at": "2026-05-17T19:08:00+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Cuba accuses US of fabrication after Axios report alleging drone threat",
-    "description": "Investing.com News · fotografija iz vijesti",
-    "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-    "category": "financije",
-    "label": "FINANCIJE",
-    "source_url": "https://www.investing.com/news/world-news/us-assesses-drone-threat-from-cuba-axios-reports-4694529",
-    "created_at": "2026-05-17T19:06:07+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "No Betting Or Steroids, Yet Star Still A Baseball Hall Of Fame Snub",
-    "description": "Forbes Business · fotografija iz vijesti",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a089f58db87095b5a5f4cf8/0x0.jpg?width=960&precrop=2076%2C1431%2Cx205%2Cy574",
-    "category": "poslovanje",
-    "label": "POSLOVANJE",
-    "source_url": "https://www.forbes.com/sites/chuckmurr/2026/05/17/no-betting-or--steroids-yet-baseball-star-still-a-hall-of-fame-snub/",
-    "created_at": "2026-05-17T19:01:09+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Longevity-linked APOE2 gene variant helps neurons repair DNA and resist aging",
-    "description": "Medical Xpress · fotografija iz vijesti",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/longevity-linked-apoe2.jpg",
-    "category": "muzeji",
-    "label": "MUZEJI",
-    "source_url": "https://medicalxpress.com/news/2026-05-longevity-linked-apoe2-gene-variant.html",
-    "created_at": "2026-05-17T19:00:01+00:00",
-    "auto_from_news": true
-  },
-  {
-    "title": "Clean Energy’s Dirty Secret Lies in Critical Mineral Extraction",
-    "description": "OilPrice · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-b33247bdeaff/1200/750",
-    "category": "trzista",
-    "label": "TRŽIŠTA",
-    "source_url": "https://oilprice.com/Energy/Energy-General/Clean-Energys-Dirty-Secret-Lies-in-Critical-Mineral-Extraction.html",
-    "created_at": "2026-05-17T19:00:00+00:00",
     "auto_from_news": true
   }
 ]

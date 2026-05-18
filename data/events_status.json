@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-18T09:32:00.243340+00:00",
+  "updated_at": "2026-05-18T09:50:13.854751+00:00",
   "sources": 69,
-  "ok_sources": 12,
-  "events_count": 162,
+  "ok_sources": 13,
+  "events_count": 171,
   "results": [
     {
       "id": "infozagreb-events",
@@ -74,9 +74,8 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "kazalište / mjuzikl",
-      "status": "fallback",
-      "count": 1,
-      "error": "HTTP Error 500: Internal Server Error"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "teatar-exit",
@@ -658,8 +657,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "program_link_only",
-      "count": 1
+      "status": "ok",
+      "count": 10
     },
     {
       "id": "uffizi",

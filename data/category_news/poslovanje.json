@@ -9,7 +9,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 13 May 2026",
-    "fetched_at": "2026-05-18T09:28:56.387070+00:00"
+    "fetched_at": "2026-05-18T09:46:54.249932+00:00"
   },
   {
     "id": "a4949db277709e71",
@@ -21,7 +21,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 13 May 2026",
-    "fetched_at": "2026-05-18T09:28:56.387126+00:00"
+    "fetched_at": "2026-05-18T09:46:54.249989+00:00"
   },
   {
     "id": "27c389a18212551b",
@@ -33,7 +33,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 13 May 2026",
-    "fetched_at": "2026-05-18T09:28:56.387169+00:00"
+    "fetched_at": "2026-05-18T09:46:54.250036+00:00"
   },
   {
     "id": "29a44bc5a3cd29ef",
@@ -45,7 +45,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 13 May 2026",
-    "fetched_at": "2026-05-18T09:28:56.387223+00:00"
+    "fetched_at": "2026-05-18T09:46:54.250095+00:00"
   },
   {
     "id": "b4cea2ca3d77a858",
@@ -57,7 +57,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T09:28:56.386815+00:00"
+    "fetched_at": "2026-05-18T09:46:54.249653+00:00"
   },
   {
     "id": "e2fac71a9a137318",
@@ -69,7 +69,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T09:28:56.386864+00:00"
+    "fetched_at": "2026-05-18T09:46:54.249704+00:00"
   },
   {
     "id": "a8dbea1b4e140770",
@@ -81,7 +81,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T09:28:56.386922+00:00"
+    "fetched_at": "2026-05-18T09:46:54.249769+00:00"
   },
   {
     "id": "9c18e0c4b70616b1",
@@ -93,7 +93,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T09:28:56.386965+00:00"
+    "fetched_at": "2026-05-18T09:46:54.249818+00:00"
   },
   {
     "id": "2c10a0aaf1486a96",
@@ -105,31 +105,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-18T09:28:56.387008+00:00"
-  },
-  {
-    "id": "415368da854b2685",
-    "title": "From AI table stakes to AI advantage: Building competitive moats",
-    "description": "When everyone has access to the same AI models, the winners are those who use them to build advantages that competitors can’t copy.",
-    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/from-ai-table-stakes-to-ai-advantage-building-competitive-moats",
-    "image": "https://picsum.photos/seed/wv-news-f5025c55b446/1200/750",
-    "source": "McKinsey Insights",
-    "source_id": "src-004",
-    "category": "poslovanje",
-    "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-18T09:28:56.386601+00:00"
-  },
-  {
-    "id": "5e8b365c73bc0fa8",
-    "title": "Why it’s even more important to consider restructuring before spin-offs",
-    "description": "The market is always revealing new reasons for leaders to consider improving assets before spinning them off—but the principles for how to manage such transactions are enduring. Here are three of them.",
-    "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/why-its-even-more-important-to-consider-restructuring-before-spin-offs",
-    "image": "https://picsum.photos/seed/wv-news-03af23e9ef26/1200/750",
-    "source": "McKinsey Insights",
-    "source_id": "src-004",
-    "category": "poslovanje",
-    "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-18T09:28:56.386704+00:00"
+    "fetched_at": "2026-05-18T09:46:54.249866+00:00"
   },
   {
     "id": "492451d320b59777",
@@ -141,7 +117,31 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-18T09:28:56.386758+00:00"
+    "fetched_at": "2026-05-18T09:46:54.249465+00:00"
+  },
+  {
+    "id": "415368da854b2685",
+    "title": "From AI table stakes to AI advantage: Building competitive moats",
+    "description": "When everyone has access to the same AI models, the winners are those who use them to build advantages that competitors can’t copy.",
+    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/from-ai-table-stakes-to-ai-advantage-building-competitive-moats",
+    "image": "https://picsum.photos/seed/wv-news-f5025c55b446/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Fri, 15 May 2026",
+    "fetched_at": "2026-05-18T09:46:54.249533+00:00"
+  },
+  {
+    "id": "5e8b365c73bc0fa8",
+    "title": "Why it’s even more important to consider restructuring before spin-offs",
+    "description": "The market is always revealing new reasons for leaders to consider improving assets before spinning them off—but the principles for how to manage such transactions are enduring. Here are three of them.",
+    "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/why-its-even-more-important-to-consider-restructuring-before-spin-offs",
+    "image": "https://picsum.photos/seed/wv-news-03af23e9ef26/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Fri, 15 May 2026",
+    "fetched_at": "2026-05-18T09:46:54.249596+00:00"
   },
   {
     "id": "2e0af54d8d40a2e9",
@@ -152,8 +152,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-18T09:30:33.955943+00:00",
-    "fetched_at": "2026-05-18T09:30:33.955945+00:00",
+    "published_at": "2026-05-18T09:48:39.994083+00:00",
+    "fetched_at": "2026-05-18T09:48:39.994085+00:00",
     "html_source": true
   },
   {
@@ -165,8 +165,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-18T09:30:33.955843+00:00",
-    "fetched_at": "2026-05-18T09:30:33.955845+00:00",
+    "published_at": "2026-05-18T09:48:39.993981+00:00",
+    "fetched_at": "2026-05-18T09:48:39.993983+00:00",
     "html_source": true
   },
   {
@@ -178,8 +178,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-18T09:30:33.955609+00:00",
-    "fetched_at": "2026-05-18T09:30:33.955611+00:00",
+    "published_at": "2026-05-18T09:48:39.993760+00:00",
+    "fetched_at": "2026-05-18T09:48:39.993762+00:00",
     "html_source": true
   },
   {
@@ -191,8 +191,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-18T09:30:33.955508+00:00",
-    "fetched_at": "2026-05-18T09:30:33.955511+00:00",
+    "published_at": "2026-05-18T09:48:39.993658+00:00",
+    "fetched_at": "2026-05-18T09:48:39.993660+00:00",
     "html_source": true
   },
   {
@@ -204,8 +204,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-18T09:30:33.955351+00:00",
-    "fetched_at": "2026-05-18T09:30:33.955353+00:00",
+    "published_at": "2026-05-18T09:48:39.993499+00:00",
+    "fetched_at": "2026-05-18T09:48:39.993502+00:00",
     "html_source": true
   },
   {
@@ -217,8 +217,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-18T09:30:33.955219+00:00",
-    "fetched_at": "2026-05-18T09:30:33.955236+00:00",
+    "published_at": "2026-05-18T09:48:39.993375+00:00",
+    "fetched_at": "2026-05-18T09:48:39.993388+00:00",
     "html_source": true
   },
   {
@@ -231,7 +231,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-18T09:12:57+00:00",
-    "fetched_at": "2026-05-18T09:29:02.101963+00:00"
+    "fetched_at": "2026-05-18T09:47:00.097491+00:00"
   },
   {
     "id": "09eec0c256d0a106",
@@ -243,7 +243,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-18T09:11:14+00:00",
-    "fetched_at": "2026-05-18T09:29:02.102052+00:00"
+    "fetched_at": "2026-05-18T09:47:00.097555+00:00"
   },
   {
     "id": "a902fd2d199279c0",
@@ -255,7 +255,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-18T09:11:09+00:00",
-    "fetched_at": "2026-05-18T09:29:02.102119+00:00"
+    "fetched_at": "2026-05-18T09:47:00.097602+00:00"
   },
   {
     "id": "74c23b7aef5cb097",
@@ -267,7 +267,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-18T09:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:02.102181+00:00"
+    "fetched_at": "2026-05-18T09:47:00.097648+00:00"
   },
   {
     "id": "d1357e40ff990bf9",
@@ -279,7 +279,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-18T09:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:02.102245+00:00"
+    "fetched_at": "2026-05-18T09:47:00.097697+00:00"
   },
   {
     "id": "a67e26b305b1b74d",
@@ -291,7 +291,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-18T09:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:02.102315+00:00"
+    "fetched_at": "2026-05-18T09:47:00.097743+00:00"
   },
   {
     "id": "4d21e6e3d096c403",
@@ -303,7 +303,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-18T08:02:31+00:00",
-    "fetched_at": "2026-05-18T09:29:01.383024+00:00"
+    "fetched_at": "2026-05-18T09:46:59.192638+00:00"
   },
   {
     "id": "120be0e08ca07f0c",
@@ -315,7 +315,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-18T08:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:11.129437+00:00"
+    "fetched_at": "2026-05-18T09:48:12.899532+00:00"
   },
   {
     "id": "f4417b40f0caa236",
@@ -327,7 +327,19 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-18T07:36:29+00:00",
-    "fetched_at": "2026-05-18T09:29:01.383098+00:00"
+    "fetched_at": "2026-05-18T09:46:59.192705+00:00"
+  },
+  {
+    "id": "583cd7a06a24d4bd",
+    "title": "Stop selling what you think your customers need and start doing this instead",
+    "description": "I used to think I was a great salesperson because I had all the right answers. I knew my product inside and out. I could explain every feature, every benefit, every reason someone should say yes. And I did what most people do—I led with that. Confident. Certain. Ready to convince. And I lost deals I should have won. I remember one pitch early in my career like it happened yesterday. I walked into the room fully prepared. My slides circled the room like a victory lap. I spoke for ten minutes straight, laying out exactly why my offer was the perfect solution. When I finished, the client looked at me and said, “That’s nice… but that’s not what I’m looking for.” It was a gut punch. Not because they rejected me—but because I realized something in that moment: I never once asked what they wanted. I was so focused on what I thought they needed that I skipped the only step that mattered—understa",
+    "url": "https://www.fastcompany.com/91520040/stop-selling-what-you-think-customers-need-sales-strategies",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-91520040-start-selling-what-your-customers-actually-need-and-want.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-18T07:18:00+00:00",
+    "fetched_at": "2026-05-18T09:47:00.010314+00:00"
   },
   {
     "id": "0a22bc7eb4b55ce6",
@@ -339,7 +351,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-18T07:15:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.383157+00:00"
+    "fetched_at": "2026-05-18T09:46:59.192763+00:00"
   },
   {
     "id": "19f4a98b9336e1a1",
@@ -351,7 +363,19 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-18T07:00:44+00:00",
-    "fetched_at": "2026-05-18T09:30:11.129580+00:00"
+    "fetched_at": "2026-05-18T09:48:12.899669+00:00"
+  },
+  {
+    "id": "3d12e4eb1842849b",
+    "title": "Your AI strategy is only as strong as the people who run it",
+    "description": "In a recent survey of senior leaders at large U.S. and U.K. professional services firms, 61% said they had abandoned at least one AI project in the past year because their people lacked the skills to deliver it. Deloitte’s “2026 State of AI in the Enterprise” report, based on a survey of more than 3,200 business and IT leaders across 24 countries, found that insufficient worker skills are now the single “ biggest barrier to integrating AI into the business .” There is no quick or easy solution to this problem. While it is possible to bring in new hires or contractors with the short-term capabilities you need, this approach is not sustainable in the long term as it is both expensive and creates critical dependencies. And it is equally impossible to flip a switch to develop these capabilities in-house overnight. But businesses can start the vital process of building those skills systematic",
+    "url": "https://www.fastcompany.com/91541710/your-ai-strategy-is-only-as-strong-as-the-people-who-run-it",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-91541710-your-AI-is-only-as-good-as-the-team-running-it.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-18T07:00:00+00:00",
+    "fetched_at": "2026-05-18T09:47:00.010858+00:00"
   },
   {
     "id": "654af09a07664fff",
@@ -363,7 +387,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-18T07:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:11.129636+00:00"
+    "fetched_at": "2026-05-18T09:48:12.899725+00:00"
   },
   {
     "id": "ca4259e9abb2b61a",
@@ -375,7 +399,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-18T06:41:00+00:00",
-    "fetched_at": "2026-05-18T09:30:11.129711+00:00"
+    "fetched_at": "2026-05-18T09:48:12.899786+00:00"
   },
   {
     "id": "4253ce7d91175b7b",
@@ -387,7 +411,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-18T06:30:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.963629+00:00"
+    "fetched_at": "2026-05-18T09:47:00.011347+00:00"
   },
   {
     "id": "9a92ec3529ef1078",
@@ -399,7 +423,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-18T06:23:19+00:00",
-    "fetched_at": "2026-05-18T09:29:01.383210+00:00"
+    "fetched_at": "2026-05-18T09:46:59.192815+00:00"
   },
   {
     "id": "42bd7ebd5b4eeca9",
@@ -411,7 +435,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-18T06:15:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.383259+00:00"
+    "fetched_at": "2026-05-18T09:46:59.192867+00:00"
   },
   {
     "id": "18df57d7d62eba15",
@@ -423,7 +447,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-18T06:12:36+00:00",
-    "fetched_at": "2026-05-18T09:30:11.129771+00:00"
+    "fetched_at": "2026-05-18T09:48:12.899841+00:00"
   },
   {
     "id": "56ff9311b0997098",
@@ -435,7 +459,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-18T06:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.383312+00:00"
+    "fetched_at": "2026-05-18T09:46:59.192924+00:00"
   },
   {
     "id": "ca1147c051dbc174",
@@ -447,7 +471,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-18T06:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.383358+00:00"
+    "fetched_at": "2026-05-18T09:46:59.192975+00:00"
   },
   {
     "id": "bed2d56720695bec",
@@ -459,7 +483,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-18T06:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.963996+00:00"
+    "fetched_at": "2026-05-18T09:47:00.011665+00:00"
   },
   {
     "id": "4cb609c48d5dc430",
@@ -471,7 +495,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-18T03:57:11+00:00",
-    "fetched_at": "2026-05-18T09:29:01.383404+00:00"
+    "fetched_at": "2026-05-18T09:46:59.193025+00:00"
   },
   {
     "id": "995c380383b4f70b",
@@ -483,7 +507,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-18T03:33:45+00:00",
-    "fetched_at": "2026-05-18T09:29:01.383449+00:00"
+    "fetched_at": "2026-05-18T09:46:59.193074+00:00"
   },
   {
     "id": "d245cc7276b1aeff",
@@ -495,7 +519,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-18T03:18:35+00:00",
-    "fetched_at": "2026-05-18T09:30:11.129874+00:00"
+    "fetched_at": "2026-05-18T09:48:12.899951+00:00"
   },
   {
     "id": "b814beee889045d9",
@@ -507,7 +531,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-18T03:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.964256+00:00"
+    "fetched_at": "2026-05-18T09:47:00.011893+00:00"
   },
   {
     "id": "b70b2e52827bbcce",
@@ -519,7 +543,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-18T02:30:01+00:00",
-    "fetched_at": "2026-05-18T09:29:01.383505+00:00"
+    "fetched_at": "2026-05-18T09:46:59.193135+00:00"
   },
   {
     "id": "64c194c2a22a4005",
@@ -531,7 +555,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-18T02:29:59+00:00",
-    "fetched_at": "2026-05-18T09:29:01.383569+00:00"
+    "fetched_at": "2026-05-18T09:46:59.193202+00:00"
   },
   {
     "id": "cd164cebe84337ee",
@@ -543,7 +567,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-18T02:01:40+00:00",
-    "fetched_at": "2026-05-18T09:29:01.383614+00:00"
+    "fetched_at": "2026-05-18T09:46:59.193252+00:00"
   },
   {
     "id": "5dcfddf1b0836f08",
@@ -567,7 +591,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-17T23:55:44+00:00",
-    "fetched_at": "2026-05-18T09:30:11.129927+00:00"
+    "fetched_at": "2026-05-18T09:48:12.900007+00:00"
   },
   {
     "id": "94e73c59a1ac3c3a",
@@ -579,7 +603,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-17T23:45:09+00:00",
-    "fetched_at": "2026-05-18T09:30:11.129978+00:00"
+    "fetched_at": "2026-05-18T09:48:12.900061+00:00"
   },
   {
     "id": "6e3cea72a479e3b7",
@@ -639,7 +663,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-17T22:29:43+00:00",
-    "fetched_at": "2026-05-18T09:30:11.130027+00:00"
+    "fetched_at": "2026-05-18T09:48:12.900117+00:00"
   },
   {
     "id": "cd598c4093df43c3",
@@ -651,7 +675,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-17T21:52:10+00:00",
-    "fetched_at": "2026-05-18T09:30:11.130077+00:00"
+    "fetched_at": "2026-05-18T09:48:12.900171+00:00"
   },
   {
     "id": "ebca10092538bf73",
@@ -1023,7 +1047,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-17T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.685306+00:00"
+    "fetched_at": "2026-05-18T09:46:59.512957+00:00"
   },
   {
     "id": "4f1e2355accfb74a",
@@ -1071,7 +1095,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-17T13:01:16+00:00",
-    "fetched_at": "2026-05-18T09:29:02.102385+00:00"
+    "fetched_at": "2026-05-18T09:47:00.097789+00:00"
   },
   {
     "id": "8c0744403cba0f5d",
@@ -1203,7 +1227,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-17T11:17:09+00:00",
-    "fetched_at": "2026-05-18T09:29:02.102455+00:00"
+    "fetched_at": "2026-05-18T09:47:00.097836+00:00"
   },
   {
     "id": "9282edbe9dc59abc",
@@ -1215,7 +1239,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-17T11:11:13+00:00",
-    "fetched_at": "2026-05-18T09:29:02.102527+00:00"
+    "fetched_at": "2026-05-18T09:47:00.097882+00:00"
   },
   {
     "id": "09b06a3975073f1c",
@@ -1335,7 +1359,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-17T09:12:21+00:00",
-    "fetched_at": "2026-05-18T09:29:02.102604+00:00"
+    "fetched_at": "2026-05-18T09:47:00.097926+00:00"
   },
   {
     "id": "8d119760773d433d",
@@ -1347,7 +1371,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-17T09:12:09+00:00",
-    "fetched_at": "2026-05-18T09:29:02.102668+00:00"
+    "fetched_at": "2026-05-18T09:47:00.097969+00:00"
   },
   {
     "id": "2025f4b1c7ea1b80",
@@ -1359,7 +1383,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-17T09:11:37+00:00",
-    "fetched_at": "2026-05-18T09:29:02.102771+00:00"
+    "fetched_at": "2026-05-18T09:47:00.098023+00:00"
   },
   {
     "id": "cfbdb4092ee1e444",
@@ -1407,7 +1431,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-17T09:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.964915+00:00"
+    "fetched_at": "2026-05-18T09:47:00.012477+00:00"
   },
   {
     "id": "709b855689d06033",
@@ -2351,7 +2375,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-16T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.685386+00:00"
+    "fetched_at": "2026-05-18T09:46:59.513031+00:00"
   },
   {
     "id": "62ced072617c1f27",
@@ -2759,7 +2783,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-16T00:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.685438+00:00"
+    "fetched_at": "2026-05-18T09:46:59.513085+00:00"
   },
   {
     "id": "c5ba57d1126f356d",
@@ -2857,7 +2881,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-15T19:18:00+00:00",
-    "fetched_at": "2026-05-18T09:28:57.475289+00:00"
+    "fetched_at": "2026-05-18T09:46:55.507115+00:00"
   },
   {
     "id": "078f7be32bea746f",
@@ -2885,7 +2909,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-15T19:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.685488+00:00"
+    "fetched_at": "2026-05-18T09:46:59.513139+00:00"
   },
   {
     "id": "2e77c7ac28fdd055",
@@ -2897,7 +2921,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-15T19:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.685534+00:00"
+    "fetched_at": "2026-05-18T09:46:59.513191+00:00"
   },
   {
     "id": "3b21834a48d3a48d",
@@ -2957,7 +2981,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-15T18:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.685591+00:00"
+    "fetched_at": "2026-05-18T09:46:59.513248+00:00"
   },
   {
     "id": "25d6651e438db244",
@@ -3017,7 +3041,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-15T17:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.685820+00:00"
+    "fetched_at": "2026-05-18T09:46:59.513493+00:00"
   },
   {
     "id": "e1078577b7afd3be",
@@ -3089,7 +3113,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-15T15:30:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.685652+00:00"
+    "fetched_at": "2026-05-18T09:46:59.513326+00:00"
   },
   {
     "id": "252441b975d0d81f",
@@ -3165,7 +3189,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-15T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.685727+00:00"
+    "fetched_at": "2026-05-18T09:46:59.513390+00:00"
   },
   {
     "id": "052338452a227a06",
@@ -3209,6 +3233,6 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-15T13:30:00+00:00",
-    "fetched_at": "2026-05-18T09:29:01.685777+00:00"
+    "fetched_at": "2026-05-18T09:46:59.513444+00:00"
   }
 ]

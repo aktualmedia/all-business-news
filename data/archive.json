@@ -1,5 +1,365 @@
 [
   {
+    "id": "f645a0eb9caae8a6",
+    "title": "AI boosts backlog to 10-month high, but only for biggest contractors",
+    "description": "Orders for future projects are lower than a year ago for builders with less than $100 million in revenue.",
+    "url": "https://www.constructiondive.com/news/ai-backlog-high-biggest-contractors/820285/",
+    "image": "https://imgproxy.divecdn.com/cehmuNRFeLZlM6SBYTKLHOoQUJezmw_HenW43JVGJ_Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQzMTYzNzEwLmpwZw==.webp",
+    "source": "Construction Dive",
+    "source_id": "src-054",
+    "category": "trzista",
+    "published_at": "2026-05-14T19:05:00+00:00",
+    "fetched_at": "2026-05-18T09:47:41.852450+00:00"
+  },
+  {
+    "id": "8c4abf463670ae39",
+    "title": "Castoro Cellars deploys Saga Robotics’ UV-C bots across 600 organic acres",
+    "description": "“We believe it is the beginning of a much larger shift for growers across California and beyond,\" says Castoro Cellars cofounder Niels Udsen. The post Castoro Cellars deploys Saga Robotics’ UV-C bots across 600 organic acres appeared first on AgFunderNews .",
+    "url": "https://agfundernews.com/castoro-cellars-deploys-saga-robotics-uv-c-bots-across-600-organic-acres",
+    "image": "https://agfundernews.com/wp-content/uploads/2026/05/p7rprpudp5e.jpg",
+    "source": "AgFunderNews",
+    "source_id": "src-058",
+    "category": "trzista",
+    "published_at": "2026-05-14T19:00:18+00:00",
+    "fetched_at": "2026-05-18T09:47:42.916213+00:00"
+  },
+  {
+    "id": "19ef64ccfb87d40e",
+    "slug": "2026-05-14-london-s-wellcome-collection-returns-2-000-manuscripts-to-the-jain-community-80",
+    "title": "London's Wellcome Collection returns 2,000 manuscripts to the Jain community",
+    "url": "https://www.theartnewspaper.com/2026/05/14/wellcome-collection-returns-2000-manuscripts-to-the-jain-community",
+    "summary": "Unusually, the objects will not be transferred to their country of origin but to the UK Institute of Jainology for deposit at the University of Birmingham",
+    "source": "The Art Newspaper",
+    "source_id": "src-092",
+    "category": "kultura",
+    "category_label": "Kultura",
+    "published_at": "2026-05-14T19:00:17+00:00",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/7b2b07e00770ecbd1a9131e700fd0087fef1b75f-4938x2124.jpg?w=140",
+    "is_aggregated": true,
+    "local_path": "https://www.theartnewspaper.com/2026/05/14/wellcome-collection-returns-2000-manuscripts-to-the-jain-community",
+    "description": "Unusually, the objects will not be transferred to their country of origin but to the UK Institute of Jainology for deposit at the University of Birmingham"
+  },
+  {
+    "id": "0a363c1f18b7b9c2",
+    "title": "AgriFood Signals: S2G Investments bags $1bn, Oishii makes first close of Series C, Corteva picks crop protection HQ",
+    "description": "Plus: A World Bank-hosted fund opens grant money to bolster food security. The post AgriFood Signals: S2G Investments bags $1bn, Oishii makes first close of Series C, Corteva picks crop protection HQ appeared first on AgFunderNews .",
+    "url": "https://agfundernews.com/agrifood-signals-s2g-investments-bags-1bn-oishii-makes-first-close-of-series-c-corteva-picks-crop-protection-hq",
+    "image": "https://agfundernews.com/wp-content/uploads/2026/05/Resurrect-Bio-cofounders-Dr-Cian-Duggan-left-and-Prof-Tolga-Bozkurt-right-Image-credit-Resurrect-Bio-150x150.jpg",
+    "source": "AgFunderNews",
+    "source_id": "src-058",
+    "category": "trzista",
+    "published_at": "2026-05-14T19:00:03+00:00",
+    "fetched_at": "2026-05-18T09:47:42.916295+00:00"
+  },
+  {
+    "id": "1d5694873ebe1484",
+    "slug": "2026-05-14-blood-can-either-be-a-connective-tissue-or-something-used-for-division-jordan-e",
+    "title": "‘Blood can either be a connective tissue or something used for division’: Jordan Eagles on his show a Pioneer Works",
+    "url": "https://www.theartnewspaper.com/2026/05/14/jordan-eagles-on-his-show-a-pioneer-works",
+    "summary": "The artist uses the Mets baseball team and his own blood to explore his battle for belonging and the politics of health",
+    "source": "The Art Newspaper",
+    "source_id": "src-092",
+    "category": "kultura",
+    "category_label": "Kultura",
+    "published_at": "2026-05-14T18:53:44+00:00",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/3df224f18b4b3e2c3a0fc14172e93bad74b821cd-1500x1032.jpg?w=140",
+    "is_aggregated": true,
+    "local_path": "https://www.theartnewspaper.com/2026/05/14/jordan-eagles-on-his-show-a-pioneer-works",
+    "description": "The artist uses the Mets baseball team and his own blood to explore his battle for belonging and the politics of health"
+  },
+  {
+    "id": "1cd2d2133cd74dd2",
+    "slug": "2026-05-14-tl-linehaul-rates-surge-in-april-cass-says-bf3755",
+    "title": "TL linehaul rates surge in April, Cass says",
+    "url": "https://www.freightwaves.com/news/tl-linehaul-rates-surge-in-april-cass-says",
+    "summary": "Supply constraints are pushing truckload rates to cycle highs, according to data from Cass Information Systems. The post TL linehaul rates surge in April, Cass says appeared first on FreightWaves .",
+    "source": "FreightWaves",
+    "source_id": "src-050",
+    "category": "trzista",
+    "category_label": "Tržišta",
+    "published_at": "2026-05-14T18:52:31+00:00",
+    "image": "https://www.freightwaves.com/wp-content/uploads/2026/05/14/a-closeup-of-a-tractor-trailer-on-a-highway.jpg",
+    "is_aggregated": true,
+    "local_path": "https://www.freightwaves.com/news/tl-linehaul-rates-surge-in-april-cass-says",
+    "description": "Supply constraints are pushing truckload rates to cycle highs, according to data from Cass Information Systems. The post TL linehaul rates surge in April, Cass says appeared first on FreightWaves ."
+  },
+  {
+    "id": "4bf02988de8544bf",
+    "title": "Tarte’s Custom Kit Sale Is Back—and Every Full-Size Product Breaks Down to $11",
+    "description": "",
+    "url": "https://www.newbeauty.com/view/tarte-annual-custom-kit-sale",
+    "image": "https://picsum.photos/seed/wv-news-fcf6a81b9a80/1200/750",
+    "source": "NewBeauty",
+    "source_id": "extra-beauty-003",
+    "category": "lifestyle",
+    "published_at": "2026-05-14T18:45:00+00:00",
+    "fetched_at": "2026-05-18T09:48:55.012851+00:00"
+  },
+  {
+    "id": "d06c25a219011702",
+    "slug": "2026-05-14-tide-is-turning-in-favor-of-clean-energy-stocks-76815e",
+    "title": "Tide Is Turning in Favor of Clean Energy Stocks",
+    "url": "https://www.etftrends.com/etf-building-blocks-content-hub/tide-turning-favor-clean-energy-stocks/",
+    "summary": "Roughly four and a half months into 2026, it’s widely known that the energy sector is the best-performing group in the S&P 500. The war in Iran is playing a big part in that movie, as higher oil prices are propelling an array of fossil fuels stocks. Don’t leave clean energy equities and ETFs such [...] The post Tide Is Turning in Favor of Clean Energy Stocks appeared first on ETF Trends .",
+    "source": "ETF Trends",
+    "source_id": "src-041",
+    "category": "financije",
+    "category_label": "Financije",
+    "published_at": "2026-05-14T18:42:45+00:00",
+    "image": "https://www.etftrends.com/wp-content/uploads/2026/05/shutterstock_2691623043-440x250.jpg",
+    "is_aggregated": true,
+    "local_path": "https://www.etftrends.com/etf-building-blocks-content-hub/tide-turning-favor-clean-energy-stocks/",
+    "description": "Roughly four and a half months into 2026, it’s widely known that the energy sector is the best-performing group in the S&P 500. The war in Iran is playing a big part in that movie, as higher oil prices are propelling an array of fossil fuels stocks. Don’t leave clean energy equities and ETFs such [...] The post Tide Is Turning in Favor of Clean Energy Stocks appeared first on ETF Trends ."
+  },
+  {
+    "id": "f9b68ce9dd2a309e",
+    "slug": "2026-05-14-sophie-rivera-s-first-survey-focuses-on-experimentation-6df4cd",
+    "title": "Sophie Rivera's first survey focuses on experimentation",
+    "url": "https://www.theartnewspaper.com/2026/05/14/sophie-rivera-first-survey-focuses-on-experimentation",
+    "summary": "The show at El Museo del Barrio seeks to introduce audiences to a more playful and exploratory side of her work",
+    "source": "The Art Newspaper",
+    "source_id": "src-092",
+    "category": "kultura",
+    "category_label": "Kultura",
+    "published_at": "2026-05-14T18:33:52+00:00",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/9db78f9155e3a3d9e0ff78a53f34bf2aa69a505a-5372x5341.jpg?w=140",
+    "is_aggregated": true,
+    "local_path": "https://www.theartnewspaper.com/2026/05/14/sophie-rivera-first-survey-focuses-on-experimentation",
+    "description": "The show at El Museo del Barrio seeks to introduce audiences to a more playful and exploratory side of her work"
+  },
+  {
+    "id": "935c294ec085d9d3",
+    "slug": "2026-05-14-new-dollar-tree-distribution-center-to-support-700-southwest-stores-cba959",
+    "title": "New Dollar Tree distribution center to support 700 Southwest stores",
+    "url": "https://www.freightwaves.com/news/new-dollar-tree-distribution-center-to-support-700-southwest-stores",
+    "summary": "Dollar Tree’s massive new distribution center in Arizona is ready to go live. The post New Dollar Tree distribution center to support 700 Southwest stores appeared first on FreightWaves .",
+    "source": "FreightWaves",
+    "source_id": "src-050",
+    "category": "trzista",
+    "category_label": "Tržišta",
+    "published_at": "2026-05-14T18:31:42+00:00",
+    "image": "https://www.freightwaves.com/wp-content/uploads/2026/05/14/shutterstock_2443599055-1-scaled.jpg",
+    "is_aggregated": true,
+    "local_path": "https://www.freightwaves.com/news/new-dollar-tree-distribution-center-to-support-700-southwest-stores",
+    "description": "Dollar Tree’s massive new distribution center in Arizona is ready to go live. The post New Dollar Tree distribution center to support 700 Southwest stores appeared first on FreightWaves ."
+  },
+  {
+    "id": "85703a6496449c38",
+    "slug": "2026-05-14-the-freight-broker-insurance-gap-is-now-real-d053ef",
+    "title": "The freight Broker insurance gap is now real",
+    "url": "https://www.freightwaves.com/news/the-freight-broker-insurance-gap-is-now-real",
+    "summary": "The Supreme Court just opened the courthouse doors to negligent-hiring claims against brokers. The only federally required financial backstop is a surety bond designed to make sure carriers get paid. It was never meant to cover a wrongful death. The post The freight Broker insurance gap is now real appeared first on FreightWaves .",
+    "source": "FreightWaves",
+    "source_id": "src-050",
+    "category": "trzista",
+    "category_label": "Tržišta",
+    "published_at": "2026-05-14T18:24:54+00:00",
+    "image": "https://www.freightwaves.com/wp-content/uploads/2026/05/14/rob-c-6-23-1.jpg",
+    "is_aggregated": true,
+    "local_path": "https://www.freightwaves.com/news/the-freight-broker-insurance-gap-is-now-real",
+    "description": "The Supreme Court just opened the courthouse doors to negligent-hiring claims against brokers. The only federally required financial backstop is a surety bond designed to make sure carriers get paid. It was never meant to cover a wrongful death. The post The freight Broker insurance gap is now real appeared first on FreightWaves ."
+  },
+  {
+    "id": "1d3a5f295cd1f099",
+    "title": "BofE to soften plans for stablecoin restrictions",
+    "description": "The Bank of England look set to ease planned stablecoin restrictions in the face of industry pushback, according to the Financial Times.",
+    "url": "https://www.finextra.com/newsarticle/47757/bofe-to-soften-plans-for-stablecoin-restrictions?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-news-6607dfda9826/1200/750",
+    "source": "Finextra",
+    "source_id": "src-038",
+    "category": "financije",
+    "published_at": "2026-05-14T18:22:00+00:00",
+    "fetched_at": "2026-05-18T09:47:35.850388+00:00"
+  },
+  {
+    "id": "0035b9068e90a478",
+    "slug": "2026-05-14-i-get-strong-gut-reactions-jonathan-travis-on-what-he-collects-and-why-ea1c3c",
+    "title": "'I get strong gut reactions': Jonathan Travis on what he collects and why",
+    "url": "https://www.theartnewspaper.com/2026/05/14/jonathan-travis-on-what-he-collects-and-why",
+    "summary": "The art collector and realtor, who has helped dozens of galleries relocate to Tribeca and co-founded the Wolf Hill artist residency, craves a Caravaggio but could do without art-fair small talk",
+    "source": "The Art Newspaper",
+    "source_id": "src-092",
+    "category": "kultura",
+    "category_label": "Kultura",
+    "published_at": "2026-05-14T18:21:56+00:00",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/537cd7d56cab08207cb71ae8ea67188999dbe6cf-1247x1972.jpg?rect=41,335,1053,1056&w=140",
+    "is_aggregated": true,
+    "local_path": "https://www.theartnewspaper.com/2026/05/14/jonathan-travis-on-what-he-collects-and-why",
+    "description": "The art collector and realtor, who has helped dozens of galleries relocate to Tribeca and co-founded the Wolf Hill artist residency, craves a Caravaggio but could do without art-fair small talk"
+  },
+  {
+    "id": "11c87aeb0f273666",
+    "slug": "2026-05-14-claude-code-s-goals-separates-the-agent-that-works-from-the-one-that-decides-it",
+    "title": "Claude Code's '/goals' separates the agent that works from the one that decides it's done",
+    "url": "https://venturebeat.com/orchestration/claude-codes-goals-separates-the-agent-that-works-from-the-one-that-decides-its-done",
+    "summary": "A code migration agent finishes its run, and the pipeline looks green. But several pieces were never compiled — and it took days to catch. That's not a model failure; that's an agent deciding it was done before it actually was. Many enterprises are now seeing that production AI agent pipelines fail not because of the models’ abilities but because the model behind the agent decides to stop. Several methods to prevent premature task exits are now available from LangChain, Google and OpenAI, though these often rely on separate evaluation systems. The newest method comes from Anthropic: /goals on Claude Code , which formally separates task execution and task evaluation. Coding agents work in a loop: they read files, run commands, edit code and then check whether the task is done. Claude Code /goals essentially adds a second layer to that loop. After a user defines a goal, Claude will continue to turn by turn, but an evaluator model comes…",
+    "source": "VentureBeat",
+    "source_id": "src-067",
+    "category": "tehnologija",
+    "category_label": "Tehnologija",
+    "published_at": "2026-05-14T18:12:38+00:00",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5QiomvIzQxDISGQKVn7eKY/011a91af16b826b08b6ebe91a862d994/crimedy7_illustration_of_a_robot_boss_in_an_office_--ar_169_-_c9873131-7077-4f20-ac26-301b6b5f1a1a_3.png?w=300&q=30",
+    "is_aggregated": true,
+    "local_path": "https://venturebeat.com/orchestration/claude-codes-goals-separates-the-agent-that-works-from-the-one-that-decides-its-done",
+    "description": "A code migration agent finishes its run, and the pipeline looks green. But several pieces were never compiled — and it took days to catch. That's not a model failure; that's an agent deciding it was done before it actually was. Many enterprises are now seeing that production AI agent pipelines fail not because of the models’ abilities but because the model behind the agent decides to stop. Several methods to prevent premature task exits are now available from LangChain, Google and OpenAI, though these often rely on separate evaluation systems. The newest method comes from Anthropic: /goals on Claude Code , which formally separates task execution and task evaluation. Coding agents work in a loop: they read files, run commands, edit code and then check whether the task is done. Claude Code /goals essentially adds a second layer to that loop. After a user defines a goal, Claude will continu"
+  },
+  {
+    "id": "e61ca0892046ac69",
+    "title": "Heura Foods hits positive EBITDA in Q1: ‘a turning point for the European plant-based sector’",
+    "description": "“While the plant-based meat category declined overall in Spain in 2025, we are reversing the trend and gaining momentum within the market,\" says cofounder Bernat Añaños. The post Heura Foods hits positive EBITDA in Q1: ‘a turning point for the European plant-based sector’ appeared first on AgFunderNews .",
+    "url": "https://agfundernews.com/heura-foods-hits-positive-ebitda-in-q1-a-turning-point-for-the-european-plant-based-sector",
+    "image": "https://picsum.photos/seed/wv-news-0fd22a61e5e9/1200/750",
+    "source": "AgFunderNews",
+    "source_id": "src-058",
+    "category": "trzista",
+    "published_at": "2026-05-14T18:00:29+00:00",
+    "fetched_at": "2026-05-18T09:47:42.916385+00:00"
+  },
+  {
+    "id": "02131400c8b2a06d",
+    "title": "IEEE Society Helps Researchers Meet Their Next Corporate Backer",
+    "description": "The IEEE Communications Society (ComSoc) ’s Research Collaboration Pitch Session initiative is proving to be a catalyst for meaningful engagement between academic researchers and industry innovators. Launched last year, the program connects promising researchers with industry leaders who can offer them funding, mentorship, and connections to bring interesting ideas closer to real-world deployment. Rather than relying on chance encounters at conferences, the pitch sessions create a focused environment. Five academic presenters share their work with five industry representatives, known as “innovation scouts”: senior leaders primarily chosen from ComSoc’s Corporate Program partner companies such as Ericsson , Intel , Keysight , and Nokia . The curated format ensures that each idea receives dedicated attention from professionals who are seeking new concepts aligned with their organization’s",
+    "url": "https://spectrum.ieee.org/ieee-society-pitch-sessions",
+    "image": "https://spectrum.ieee.org/media-library/a-man-giving-a-presentation-in-front-of-a-roundtable-audience.jpg?id=66734604&width=980",
+    "source": "IEEE Spectrum",
+    "source_id": "src-070",
+    "category": "tehnologija",
+    "published_at": "2026-05-14T18:00:02+00:00",
+    "fetched_at": "2026-05-18T09:47:45.399177+00:00"
+  },
+  {
+    "id": "7946801a7bd28e90",
+    "title": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
+    "description": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
+    "image": "https://picsum.photos/seed/wv-news-bd577d2695f8/1200/750",
+    "source": "Federal Reserve Press",
+    "source_id": "src-020",
+    "category": "ekonomija",
+    "published_at": "2026-05-14T18:00:00+00:00",
+    "fetched_at": "2026-05-18T09:47:02.815400+00:00"
+  },
+  {
+    "id": "6318a86e6eee72f4",
+    "title": "Vinny's Circle in Chicago, Illinois",
+    "description": "At DePaul University in Lincoln Park, a small alcove can be found off the east side of the Quad between the John T. Richardson Library and the Schmidt Academic Center. This alcove is called St. Vincent's circle, but most students refer to it as \"Vinny's Circle\". The alcove houses a bronze statue of St. Vincent De Paul sitting and engaging in lively conversation with two bronze DePaul students. A stone circle is set before the statues; DePaul University's logo rests in the middle, surrounded by the words: COMMUNION, DIGNITY, EDUCATION. Because of how the two buildings around the alcove are set up, three quarters of it are closed off. If one stands on top of the university logo and speaks, they'll hear their voices echo off of the walls of DePaul's campus. Local Campus Lore often sees students visit the location at night, yelling out their wishes into the echo chamber. It's said that they",
+    "url": "https://www.atlasobscura.com/places/vinnys-circle",
+    "image": "https://img.atlasobscura.com/Zr-y1mtK4EFlO9snbyNzeOrsJ3ABtKfhiYb4Ip2MxtU/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hNGIw/NTNhYS05M2VlLTRm/MjAtYjUxNS0xNzcy/NGQ3OTZiYjdiODVh/OGZmYTIyMTdiMWU0/MDVfSU1HXzg1MDMu/anBlZw.jpg",
+    "source": "Atlas Obscura",
+    "source_id": "src-128",
+    "category": "lifestyle",
+    "published_at": "2026-05-14T18:00:00+00:00",
+    "fetched_at": "2026-05-18T09:48:11.020953+00:00"
+  },
+  {
+    "id": "10ef8741e6b773b6",
+    "slug": "2026-05-14-tech-is-hot-but-don-t-ignore-the-income-component-c44d94",
+    "title": "Tech Is Hot, But Don’t Ignore The Income Component",
+    "url": "https://www.etftrends.com/monthly-income-content-hub/tech-hot-but-dont-ignore-income-component/",
+    "summary": "With the artificial intelligence (AI) stock rally broadening to include names beyond the magnificent seven, the Nasdaq-100 Index (NDX), as of May 12, sported a year-to-date gain of more than 16%. That’s more than enough to appease many investors, perhaps prompting them to ignore the index’s scant dividend yield of 0.40%. Still, some investors want [...] The post Tech Is Hot, But Don’t Ignore The Income Component appeared first on ETF Trends .",
+    "source": "ETF Trends",
+    "source_id": "src-041",
+    "category": "financije",
+    "category_label": "Financije",
+    "published_at": "2026-05-14T17:58:37+00:00",
+    "image": "https://www.etftrends.com/wp-content/uploads/2026/05/shutterstock_2759832807-e1778779437558-440x250.jpg",
+    "is_aggregated": true,
+    "local_path": "https://www.etftrends.com/monthly-income-content-hub/tech-hot-but-dont-ignore-income-component/",
+    "description": "With the artificial intelligence (AI) stock rally broadening to include names beyond the magnificent seven, the Nasdaq-100 Index (NDX), as of May 12, sported a year-to-date gain of more than 16%. That’s more than enough to appease many investors, perhaps prompting them to ignore the index’s scant dividend yield of 0.40%. Still, some investors want [...] The post Tech Is Hot, But Don’t Ignore The Income Component appeared first on ETF Trends ."
+  },
+  {
+    "id": "bf6c48dd0ab340da",
+    "title": "This Fizzy, Citrusy Gin Drink Is Sunshine in a Glass",
+    "description": "Carrot juice, fresh citrus, and aquafaba join forces in the summery Clementine Fizz cocktail. Here's how to make the bright gin drink at home. The post This Fizzy, Citrusy Gin Drink Is Sunshine in a Glass appeared first on Wine Enthusiast .",
+    "url": "https://www.wineenthusiast.com/recipe/clementine-fizz-cocktail/",
+    "image": "https://picsum.photos/seed/wv-news-fade8e3841b6/1200/750",
+    "source": "Wine Enthusiast",
+    "source_id": "src-168",
+    "category": "pica",
+    "published_at": "2026-05-14T17:46:26+00:00",
+    "fetched_at": "2026-05-18T09:48:29.074741+00:00"
+  },
+  {
+    "id": "1fa807f98ab73aa5",
+    "title": "Cargill to launch cocoa-free chocolate in US",
+    "description": "NextCoa, made in partnership with Voyage Foods, gives food companies a new option to “future-proof” supply, a Cargill senior product line specialist said.",
+    "url": "https://www.fooddive.com/news/cargill-voyage-foods-coca-free-chocolate-alternative-nextcoa/820275/",
+    "image": "https://imgproxy.divecdn.com/u77MNg3syKIKqgygLdiQPBY7OcAggrp9q0pg0u_HJng/g:nowe:0:108/c:1501:848/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaG90b19DcmVkaXRfVm95YWdlX0Zvb2RzXy1fQ2hvY29sYXRlVGFibGV0b3BfMDAyMi5qcGc=.webp",
+    "source": "Food Dive",
+    "source_id": "src-055",
+    "category": "trzista",
+    "published_at": "2026-05-14T17:31:00+00:00",
+    "fetched_at": "2026-05-18T09:47:42.111476+00:00"
+  },
+  {
+    "id": "3c127295cc3c5f8f",
+    "slug": "2026-05-14-grad-to-be-turns-graduation-cap-into-rust-powered-light-show-3da6c2",
+    "title": "Grad-to-be turns graduation cap into Rust-powered light show",
+    "url": "https://www.theregister.com/offbeat/2026/05/14/grad-to-be-turns-graduation-cap-into-rust-powered-light-show/5240682",
+    "summary": "Eric Park tells us he doesn't plan to wear his modified cap to commencement, but his code's available for anyone with no such qualms and an upcoming ceremony",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "category_label": "Tehnologija",
+    "published_at": "2026-05-14T17:30:19+00:00",
+    "image": "https://image.theregister.com/?imageId=5240731&width=800",
+    "is_aggregated": true,
+    "local_path": "https://www.theregister.com/offbeat/2026/05/14/grad-to-be-turns-graduation-cap-into-rust-powered-light-show/5240682",
+    "description": "Eric Park tells us he doesn't plan to wear his modified cap to commencement, but his code's available for anyone with no such qualms and an upcoming ceremony"
+  },
+  {
+    "id": "c21e60f24a3cdaed",
+    "slug": "2026-05-14-trans-pacific-ocean-rates-remain-above-pre-war-levels-despite-muted-outlook-e52",
+    "title": "Trans-Pacific ocean rates remain above pre-war levels despite muted outlook",
+    "url": "https://www.freightwaves.com/news/trans-pacific-ocean-rates-remain-above-pre-war-levels-despite-muted-outlook",
+    "summary": "Ocean freight rates on the trans-Pacific remain above pre-war levels as retailers warn of tepid peak season gains. The post Trans-Pacific ocean rates remain above pre-war levels despite muted outlook appeared first on FreightWaves .",
+    "source": "FreightWaves",
+    "source_id": "src-050",
+    "category": "trzista",
+    "category_label": "Tržišta",
+    "published_at": "2026-05-14T17:25:16+00:00",
+    "image": "https://www.freightwaves.com/wp-content/uploads/2025/10/15/shanghaiport-1.jpg",
+    "is_aggregated": true,
+    "local_path": "https://www.freightwaves.com/news/trans-pacific-ocean-rates-remain-above-pre-war-levels-despite-muted-outlook",
+    "description": "Ocean freight rates on the trans-Pacific remain above pre-war levels as retailers warn of tepid peak season gains. The post Trans-Pacific ocean rates remain above pre-war levels despite muted outlook appeared first on FreightWaves ."
+  },
+  {
+    "id": "a4c70601f95d8e8d",
+    "title": "CISL Seoul Is the Korean Skin-Care Secret Behind My Glass Skin",
+    "description": "",
+    "url": "https://www.newbeauty.com/view/cisl-seoul-3-step-system-review",
+    "image": "https://picsum.photos/seed/wv-news-c1c76fd24193/1200/750",
+    "source": "NewBeauty",
+    "source_id": "extra-beauty-003",
+    "category": "lifestyle",
+    "published_at": "2026-05-14T17:23:00+00:00",
+    "fetched_at": "2026-05-18T09:48:55.012897+00:00"
+  },
+  {
+    "id": "2731e516c4626eb7",
+    "title": "Four Seasons Park Lane Just Revealed Newly Refurbished Suites",
+    "description": "One of London’s best-regarded hotels has had a facelift.",
+    "url": "https://elitetraveler.com/travel/travel-news/four-seasons-park-lane-new-suites",
+    "image": "https://picsum.photos/seed/wv-news-e91f7382907b/1200/750",
+    "source": "Elite Traveler",
+    "source_id": "src-170",
+    "category": "hedonizam",
+    "published_at": "2026-05-14T17:12:02+00:00",
+    "fetched_at": "2026-05-18T09:48:30.384506+00:00"
+  },
+  {
+    "id": "f2f074121191ec32",
+    "title": "PCOS Has Officially Been Renamed: Introducing PMOS",
+    "description": "",
+    "url": "https://www.newbeauty.com/view/pcos-gets-a-new-name-introducing-pmos",
+    "image": "https://picsum.photos/seed/wv-news-56c51e0b4516/1200/750",
+    "source": "NewBeauty",
+    "source_id": "extra-beauty-003",
+    "category": "lifestyle",
+    "published_at": "2026-05-14T17:11:14+00:00",
+    "fetched_at": "2026-05-18T09:48:55.012942+00:00"
+  },
+  {
     "id": "4220b3be77dc63bb",
     "slug": "2026-05-14-why-drnz-is-outflying-shld-ytd-in-a-drone-etf-dog-fight-132529",
     "title": "Why DRNZ Is Outflying SHLD YTD in a Drone ETF Dog Fight",
@@ -25,7 +385,7 @@
     "source_id": "src-159",
     "category": "satovi",
     "published_at": "2026-05-14T17:00:41+00:00",
-    "fetched_at": "2026-05-18T09:30:17.918803+00:00"
+    "fetched_at": "2026-05-18T09:48:24.408191+00:00"
   },
   {
     "id": "d37774940bbde34d",
@@ -37,7 +397,7 @@
     "source_id": "extra-beauty-003",
     "category": "lifestyle",
     "published_at": "2026-05-14T17:00:35+00:00",
-    "fetched_at": "2026-05-18T09:30:42.862862+00:00"
+    "fetched_at": "2026-05-18T09:48:55.012988+00:00"
   },
   {
     "id": "40b4f4f5c7032da2",
@@ -49,7 +409,7 @@
     "source_id": "src-157",
     "category": "satovi",
     "published_at": "2026-05-14T17:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:17.215650+00:00"
+    "fetched_at": "2026-05-18T09:48:23.643116+00:00"
   },
   {
     "id": "419e7df9c7024f1c",
@@ -61,7 +421,7 @@
     "source_id": "src-121",
     "category": "lifestyle",
     "published_at": "2026-05-14T16:58:27+00:00",
-    "fetched_at": "2026-05-18T09:30:08.433293+00:00"
+    "fetched_at": "2026-05-18T09:48:09.256363+00:00"
   },
   {
     "id": "a64f487378695a27",
@@ -73,7 +433,7 @@
     "source_id": "src-170",
     "category": "hedonizam",
     "published_at": "2026-05-14T16:57:25+00:00",
-    "fetched_at": "2026-05-18T09:30:23.475840+00:00"
+    "fetched_at": "2026-05-18T09:48:30.384562+00:00"
   },
   {
     "id": "4faca87428fa8de2",
@@ -101,7 +461,7 @@
     "source_id": "src-121",
     "category": "lifestyle",
     "published_at": "2026-05-14T16:43:27+00:00",
-    "fetched_at": "2026-05-18T09:30:08.433361+00:00"
+    "fetched_at": "2026-05-18T09:48:09.256434+00:00"
   },
   {
     "id": "395d5e8e2919b66a",
@@ -113,7 +473,7 @@
     "source_id": "src-079",
     "category": "znanost",
     "published_at": "2026-05-14T16:32:09+00:00",
-    "fetched_at": "2026-05-18T09:29:47.013051+00:00"
+    "fetched_at": "2026-05-18T09:47:47.584006+00:00"
   },
   {
     "id": "b79f0aa6e727464b",
@@ -141,7 +501,7 @@
     "source_id": "src-052",
     "category": "trzista",
     "published_at": "2026-05-14T16:24:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.421880+00:00"
+    "fetched_at": "2026-05-18T09:47:41.462525+00:00"
   },
   {
     "id": "de4fc4df3a883040",
@@ -153,7 +513,7 @@
     "source_id": "src-042",
     "category": "financije",
     "published_at": "2026-05-14T16:21:38+00:00",
-    "fetched_at": "2026-05-18T09:29:38.581652+00:00"
+    "fetched_at": "2026-05-18T09:47:36.673942+00:00"
   },
   {
     "id": "06ee67101224e421",
@@ -181,7 +541,7 @@
     "source_id": "src-170",
     "category": "hedonizam",
     "published_at": "2026-05-14T16:10:07+00:00",
-    "fetched_at": "2026-05-18T09:30:23.475893+00:00"
+    "fetched_at": "2026-05-18T09:48:30.384616+00:00"
   },
   {
     "id": "494e3f7cc765f542",
@@ -209,7 +569,7 @@
     "source_id": "src-095",
     "category": "kultura",
     "published_at": "2026-05-14T16:07:20+00:00",
-    "fetched_at": "2026-05-18T09:29:51.352562+00:00"
+    "fetched_at": "2026-05-18T09:47:51.925618+00:00"
   },
   {
     "id": "70203b94f19d6f97",
@@ -221,7 +581,7 @@
     "source_id": "src-160",
     "category": "satovi",
     "published_at": "2026-05-14T16:00:32+00:00",
-    "fetched_at": "2026-05-18T09:30:18.146654+00:00"
+    "fetched_at": "2026-05-18T09:48:24.622078+00:00"
   },
   {
     "id": "355ec6ff16b427bd",
@@ -233,7 +593,7 @@
     "source_id": "src-128",
     "category": "lifestyle",
     "published_at": "2026-05-14T16:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:09.457563+00:00"
+    "fetched_at": "2026-05-18T09:48:11.021081+00:00"
   },
   {
     "id": "e4400197c8eb43ae",
@@ -261,7 +621,7 @@
     "source_id": "src-042",
     "category": "financije",
     "published_at": "2026-05-14T15:45:40+00:00",
-    "fetched_at": "2026-05-18T09:29:38.581742+00:00"
+    "fetched_at": "2026-05-18T09:47:36.674017+00:00"
   },
   {
     "id": "ce1768fd4ade7518",
@@ -301,7 +661,7 @@
     "source_id": "src-052",
     "category": "trzista",
     "published_at": "2026-05-14T15:38:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.421946+00:00"
+    "fetched_at": "2026-05-18T09:47:41.462599+00:00"
   },
   {
     "id": "ca11d4692e70ee92",
@@ -313,7 +673,7 @@
     "source_id": "src-053",
     "category": "trzista",
     "published_at": "2026-05-14T15:36:07+00:00",
-    "fetched_at": "2026-05-18T09:29:41.482329+00:00"
+    "fetched_at": "2026-05-18T09:47:41.649524+00:00"
   },
   {
     "id": "34c33f61a8758396",
@@ -325,7 +685,7 @@
     "source_id": "extra-beauty-003",
     "category": "lifestyle",
     "published_at": "2026-05-14T15:30:00+00:00",
-    "fetched_at": "2026-05-18T09:30:42.862910+00:00"
+    "fetched_at": "2026-05-18T09:48:55.013040+00:00"
   },
   {
     "id": "ab36553532812ca3",
@@ -353,7 +713,7 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-14T15:24:08+00:00",
-    "fetched_at": "2026-05-18T08:51:09.012915+00:00"
+    "fetched_at": "2026-05-18T09:47:40.777897+00:00"
   },
   {
     "id": "d5c57c2b8a7dad79",
@@ -405,7 +765,7 @@
     "source_id": "src-157",
     "category": "satovi",
     "published_at": "2026-05-14T15:12:00+00:00",
-    "fetched_at": "2026-05-18T09:30:17.215709+00:00"
+    "fetched_at": "2026-05-18T09:48:23.643162+00:00"
   },
   {
     "id": "6694c7ae932fa8ce",
@@ -465,7 +825,7 @@
     "source_id": "src-054",
     "category": "trzista",
     "published_at": "2026-05-14T15:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.619115+00:00"
+    "fetched_at": "2026-05-18T09:47:41.852525+00:00"
   },
   {
     "id": "0619ef635fca2f26",
@@ -477,7 +837,7 @@
     "source_id": "src-147",
     "category": "financije",
     "published_at": "2026-05-14T14:59:47+00:00",
-    "fetched_at": "2026-05-18T09:30:15.331721+00:00"
+    "fetched_at": "2026-05-18T09:48:19.510832+00:00"
   },
   {
     "id": "e527415ad4dbb28e",
@@ -489,7 +849,7 @@
     "source_id": "src-079",
     "category": "znanost",
     "published_at": "2026-05-14T14:55:08+00:00",
-    "fetched_at": "2026-05-18T09:29:47.013116+00:00"
+    "fetched_at": "2026-05-18T09:47:47.584072+00:00"
   },
   {
     "id": "e321b7282514a8b9",
@@ -501,7 +861,7 @@
     "source_id": "src-055",
     "category": "trzista",
     "published_at": "2026-05-14T14:54:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.688488+00:00"
+    "fetched_at": "2026-05-18T09:47:42.111546+00:00"
   },
   {
     "id": "d3ba77244cf67dbd",
@@ -513,7 +873,7 @@
     "source_id": "src-055",
     "category": "trzista",
     "published_at": "2026-05-14T14:51:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.688550+00:00"
+    "fetched_at": "2026-05-18T09:47:42.111611+00:00"
   },
   {
     "id": "95d8672e6fd38097",
@@ -525,7 +885,7 @@
     "source_id": "extra-beauty-003",
     "category": "lifestyle",
     "published_at": "2026-05-14T14:45:00+00:00",
-    "fetched_at": "2026-05-18T09:30:42.862949+00:00"
+    "fetched_at": "2026-05-18T09:48:55.013085+00:00"
   },
   {
     "id": "14a77992301dfcb3",
@@ -565,7 +925,7 @@
     "source_id": "src-040",
     "category": "financije",
     "published_at": "2026-05-14T14:29:00+00:00",
-    "fetched_at": "2026-05-18T09:29:38.367716+00:00"
+    "fetched_at": "2026-05-18T09:47:36.499020+00:00"
   },
   {
     "id": "7cbd93d447bd115b",
@@ -577,7 +937,7 @@
     "source_id": "src-054",
     "category": "trzista",
     "published_at": "2026-05-14T14:28:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.619182+00:00"
+    "fetched_at": "2026-05-18T09:47:41.852595+00:00"
   },
   {
     "id": "bb33419396f6c004",
@@ -589,7 +949,7 @@
     "source_id": "src-147",
     "category": "financije",
     "published_at": "2026-05-14T14:25:09+00:00",
-    "fetched_at": "2026-05-18T09:30:15.331783+00:00"
+    "fetched_at": "2026-05-18T09:48:19.510897+00:00"
   },
   {
     "id": "325f7b5d4d91f387",
@@ -601,7 +961,7 @@
     "source_id": "src-040",
     "category": "financije",
     "published_at": "2026-05-14T14:22:00+00:00",
-    "fetched_at": "2026-05-18T09:29:38.367788+00:00"
+    "fetched_at": "2026-05-18T09:47:36.499094+00:00"
   },
   {
     "id": "017ec61c8255ff4f",
@@ -657,7 +1017,7 @@
     "source_id": "src-056",
     "category": "trzista",
     "published_at": "2026-05-14T14:15:43+00:00",
-    "fetched_at": "2026-05-18T09:29:41.950168+00:00"
+    "fetched_at": "2026-05-18T09:47:42.395569+00:00"
   },
   {
     "id": "a870b6cf16433552",
@@ -733,7 +1093,7 @@
     "source_id": "src-160",
     "category": "satovi",
     "published_at": "2026-05-14T14:00:40+00:00",
-    "fetched_at": "2026-05-18T09:30:18.146771+00:00"
+    "fetched_at": "2026-05-18T09:48:24.622178+00:00"
   },
   {
     "id": "9cdd7bdfc7ffcd76",
@@ -757,7 +1117,7 @@
     "source_id": "src-020",
     "category": "ekonomija",
     "published_at": "2026-05-14T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.157545+00:00"
+    "fetched_at": "2026-05-18T09:47:02.815457+00:00"
   },
   {
     "id": "2192c605fee96511",
@@ -769,7 +1129,7 @@
     "source_id": "src-055",
     "category": "trzista",
     "published_at": "2026-05-14T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.688612+00:00"
+    "fetched_at": "2026-05-18T09:47:42.111684+00:00"
   },
   {
     "id": "cd1225338d4c3f58",
@@ -797,7 +1157,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-14T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.008830+00:00"
+    "fetched_at": "2026-05-18T09:47:49.163888+00:00"
   },
   {
     "id": "642452fa786b8665",
@@ -809,7 +1169,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-14T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.008959+00:00"
+    "fetched_at": "2026-05-18T09:47:49.164006+00:00"
   },
   {
     "id": "3191634f427dba7e",
@@ -821,7 +1181,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-14T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.009042+00:00"
+    "fetched_at": "2026-05-18T09:47:49.164092+00:00"
   },
   {
     "id": "c4f575524bb72e45",
@@ -833,7 +1193,7 @@
     "source_id": "src-128",
     "category": "lifestyle",
     "published_at": "2026-05-14T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:09.457667+00:00"
+    "fetched_at": "2026-05-18T09:48:11.021183+00:00"
   },
   {
     "id": "1016e6f053dc01b3",
@@ -845,7 +1205,7 @@
     "source_id": "src-164",
     "category": "nakit",
     "published_at": "2026-05-14T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:20.252836+00:00"
+    "fetched_at": "2026-05-18T09:48:26.472825+00:00"
   },
   {
     "id": "e225853a777bb9c6",
@@ -857,7 +1217,7 @@
     "source_id": "src-164",
     "category": "nakit",
     "published_at": "2026-05-14T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:20.252956+00:00"
+    "fetched_at": "2026-05-18T09:48:26.472937+00:00"
   },
   {
     "id": "d46da686d7923fce",
@@ -885,7 +1245,7 @@
     "source_id": "src-051",
     "category": "trzista",
     "published_at": "2026-05-14T13:59:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.274890+00:00"
+    "fetched_at": "2026-05-18T09:47:41.237938+00:00"
   },
   {
     "id": "cfa5148adab169a6",
@@ -913,7 +1273,7 @@
     "source_id": "src-051",
     "category": "trzista",
     "published_at": "2026-05-14T13:51:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.274945+00:00"
+    "fetched_at": "2026-05-18T09:47:41.237997+00:00"
   },
   {
     "id": "634715d99b3626fa",
@@ -937,7 +1297,7 @@
     "source_id": "src-095",
     "category": "kultura",
     "published_at": "2026-05-14T13:42:52+00:00",
-    "fetched_at": "2026-05-18T09:29:51.352655+00:00"
+    "fetched_at": "2026-05-18T09:47:51.925711+00:00"
   },
   {
     "id": "94bed287afec8fa2",
@@ -965,7 +1325,7 @@
     "source_id": "src-040",
     "category": "financije",
     "published_at": "2026-05-14T13:32:09+00:00",
-    "fetched_at": "2026-05-18T09:29:38.367850+00:00"
+    "fetched_at": "2026-05-18T09:47:36.499159+00:00"
   },
   {
     "id": "4847c1df0ec4a71f",
@@ -1009,7 +1369,7 @@
     "source_id": "src-150",
     "category": "trzista",
     "published_at": "2026-05-14T13:17:07+00:00",
-    "fetched_at": "2026-05-18T09:30:16.210776+00:00"
+    "fetched_at": "2026-05-18T09:48:21.131418+00:00"
   },
   {
     "id": "931c2c2ee635e065",
@@ -1037,7 +1397,7 @@
     "source_id": "src-166",
     "category": "pica",
     "published_at": "2026-05-14T13:00:45+00:00",
-    "fetched_at": "2026-05-18T09:30:20.590720+00:00"
+    "fetched_at": "2026-05-18T09:48:27.036872+00:00"
   },
   {
     "id": "999752cb13c5a7dc",
@@ -1049,7 +1409,7 @@
     "source_id": "src-166",
     "category": "pica",
     "published_at": "2026-05-14T13:00:41+00:00",
-    "fetched_at": "2026-05-18T09:30:20.590827+00:00"
+    "fetched_at": "2026-05-18T09:48:27.036974+00:00"
   },
   {
     "id": "1ddc7aeafce141c8",
@@ -1061,7 +1421,7 @@
     "source_id": "src-109",
     "category": "dizajn",
     "published_at": "2026-05-14T13:00:30+00:00",
-    "fetched_at": "2026-05-18T09:29:55.152107+00:00"
+    "fetched_at": "2026-05-18T09:48:05.144105+00:00"
   },
   {
     "id": "5aeff458c5d44fe1",
@@ -1073,7 +1433,7 @@
     "source_id": "src-029",
     "category": "ekonomija",
     "published_at": "2026-05-14T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.055761+00:00"
+    "fetched_at": "2026-05-18T09:47:06.695432+00:00"
   },
   {
     "id": "1625e9d0faad3c88",
@@ -1101,7 +1461,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-14T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:43.235994+00:00"
+    "fetched_at": "2026-05-18T09:47:44.085407+00:00"
   },
   {
     "id": "2e85e780378c0dc8",
@@ -1113,7 +1473,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-14T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:43.236062+00:00"
+    "fetched_at": "2026-05-18T09:47:44.085476+00:00"
   },
   {
     "id": "3e12c692082774f4",
@@ -1125,7 +1485,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-14T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:45.154891+00:00"
+    "fetched_at": "2026-05-18T09:47:45.864614+00:00"
   },
   {
     "id": "0f3de20662a17100",
@@ -1137,7 +1497,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-14T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:45.808728+00:00"
+    "fetched_at": "2026-05-18T09:47:46.471003+00:00"
   },
   {
     "id": "845b22b9dfaa1d67",
@@ -1165,7 +1525,7 @@
     "source_id": "src-042",
     "category": "financije",
     "published_at": "2026-05-14T12:52:31+00:00",
-    "fetched_at": "2026-05-18T09:29:38.581809+00:00"
+    "fetched_at": "2026-05-18T09:47:36.674088+00:00"
   },
   {
     "id": "427efe16363934d4",
@@ -1177,7 +1537,7 @@
     "source_id": "src-166",
     "category": "pica",
     "published_at": "2026-05-14T12:30:41+00:00",
-    "fetched_at": "2026-05-18T09:30:20.590919+00:00"
+    "fetched_at": "2026-05-18T09:48:27.037064+00:00"
   },
   {
     "id": "cb11448ef7be5e90",
@@ -1205,7 +1565,7 @@
     "source_id": "src-054",
     "category": "trzista",
     "published_at": "2026-05-14T12:24:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.619244+00:00"
+    "fetched_at": "2026-05-18T09:47:41.852662+00:00"
   },
   {
     "id": "ef79dca7c63f7d24",
@@ -1233,7 +1593,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-14T12:10:00+00:00",
-    "fetched_at": "2026-05-18T09:29:43.236133+00:00"
+    "fetched_at": "2026-05-18T09:47:44.085551+00:00"
   },
   {
     "id": "bb7938227c8ff973",
@@ -1277,7 +1637,7 @@
     "source_id": "src-122",
     "category": "lifestyle",
     "published_at": "2026-05-14T11:45:00+00:00",
-    "fetched_at": "2026-05-18T09:30:08.561115+00:00"
+    "fetched_at": "2026-05-18T09:48:09.460994+00:00"
   },
   {
     "id": "538bb955624af7ea",
@@ -1337,7 +1697,7 @@
     "source_id": "src-051",
     "category": "trzista",
     "published_at": "2026-05-14T11:26:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.275003+00:00"
+    "fetched_at": "2026-05-18T09:47:41.238057+00:00"
   },
   {
     "id": "f0c318b092766540",
@@ -1405,7 +1765,7 @@
     "source_id": "src-147",
     "category": "financije",
     "published_at": "2026-05-14T11:01:57+00:00",
-    "fetched_at": "2026-05-18T09:30:15.331843+00:00"
+    "fetched_at": "2026-05-18T09:48:19.510962+00:00"
   },
   {
     "id": "2f45e55a59b2ad3e",
@@ -1433,7 +1793,7 @@
     "source_id": "src-158",
     "category": "satovi",
     "published_at": "2026-05-14T11:00:16+00:00",
-    "fetched_at": "2026-05-18T09:30:17.841081+00:00"
+    "fetched_at": "2026-05-18T09:48:24.317160+00:00"
   },
   {
     "id": "4e09ff697a4a96aa",
@@ -1445,7 +1805,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-05-14T11:00:09+00:00",
-    "fetched_at": "2026-05-18T09:28:55.965849+00:00"
+    "fetched_at": "2026-05-18T09:46:53.636190+00:00"
   },
   {
     "id": "f1eb1a05bdb10cfc",
@@ -1457,7 +1817,7 @@
     "source_id": "src-030",
     "category": "ekonomija",
     "published_at": "2026-05-14T11:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.466888+00:00"
+    "fetched_at": "2026-05-18T09:47:06.948946+00:00"
   },
   {
     "id": "d451e55c204553ca",
@@ -1485,7 +1845,7 @@
     "source_id": "src-147",
     "category": "financije",
     "published_at": "2026-05-14T10:58:15+00:00",
-    "fetched_at": "2026-05-18T09:30:15.331902+00:00"
+    "fetched_at": "2026-05-18T09:48:19.511024+00:00"
   },
   {
     "id": "4dc7381a9d48ac39",
@@ -1497,7 +1857,7 @@
     "source_id": "src-166",
     "category": "pica",
     "published_at": "2026-05-14T10:55:58+00:00",
-    "fetched_at": "2026-05-18T09:30:20.591032+00:00"
+    "fetched_at": "2026-05-18T09:48:27.037154+00:00"
   },
   {
     "id": "f268a4cee23cd5e9",
@@ -1509,7 +1869,7 @@
     "source_id": "src-145",
     "category": "financije",
     "published_at": "2026-05-14T10:55:08+00:00",
-    "fetched_at": "2026-05-18T09:30:15.155463+00:00"
+    "fetched_at": "2026-05-18T09:48:18.703508+00:00"
   },
   {
     "id": "3919c0792805fdd9",
@@ -1521,7 +1881,7 @@
     "source_id": "src-145",
     "category": "financije",
     "published_at": "2026-05-14T10:52:29+00:00",
-    "fetched_at": "2026-05-18T09:30:15.155582+00:00"
+    "fetched_at": "2026-05-18T09:48:18.703621+00:00"
   },
   {
     "id": "4a9d9b632e9c4585",
@@ -1581,7 +1941,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-14T10:40:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.348432+00:00"
+    "fetched_at": "2026-05-18T09:47:49.909633+00:00"
   },
   {
     "id": "f5494a73bbae77bf",
@@ -1609,7 +1969,7 @@
     "source_id": "src-166",
     "category": "pica",
     "published_at": "2026-05-14T10:30:45+00:00",
-    "fetched_at": "2026-05-18T09:30:20.591120+00:00"
+    "fetched_at": "2026-05-18T09:48:27.037237+00:00"
   },
   {
     "id": "6dee442cd2301903",
@@ -1709,7 +2069,7 @@
     "source_id": "src-145",
     "category": "financije",
     "published_at": "2026-05-14T10:14:11+00:00",
-    "fetched_at": "2026-05-18T09:30:15.155715+00:00"
+    "fetched_at": "2026-05-18T09:48:18.703736+00:00"
   },
   {
     "id": "09712400fc9d0b0f",
@@ -1753,7 +2113,7 @@
     "source_id": "src-166",
     "category": "pica",
     "published_at": "2026-05-14T10:00:14+00:00",
-    "fetched_at": "2026-05-18T09:30:20.591212+00:00"
+    "fetched_at": "2026-05-18T09:48:27.037338+00:00"
   },
   {
     "id": "737e90607388df2b",
@@ -1765,7 +2125,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-14T10:00:01+00:00",
-    "fetched_at": "2026-05-18T09:29:44.576932+00:00"
+    "fetched_at": "2026-05-18T09:47:45.399296+00:00"
   },
   {
     "id": "85d0aa9d1c461416",
@@ -1777,7 +2137,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-14T10:00:01+00:00",
-    "fetched_at": "2026-05-18T09:29:44.577706+00:00"
+    "fetched_at": "2026-05-18T09:47:45.399935+00:00"
   },
   {
     "id": "830b1f87edd6045e",
@@ -1805,7 +2165,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-14T10:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:43.236196+00:00"
+    "fetched_at": "2026-05-18T09:47:44.085617+00:00"
   },
   {
     "id": "9212df44d26919fa",
@@ -1833,7 +2193,7 @@
     "source_id": "src-145",
     "category": "financije",
     "published_at": "2026-05-14T09:54:06+00:00",
-    "fetched_at": "2026-05-18T09:30:15.155840+00:00"
+    "fetched_at": "2026-05-18T09:48:18.703854+00:00"
   },
   {
     "id": "9e7c4927960b4082",
@@ -1845,7 +2205,7 @@
     "source_id": "src-059",
     "category": "trzista",
     "published_at": "2026-05-14T09:49:20+00:00",
-    "fetched_at": "2026-05-18T09:29:42.374513+00:00"
+    "fetched_at": "2026-05-18T09:47:42.982999+00:00"
   },
   {
     "id": "febcdbc6f93f734e",
@@ -1857,7 +2217,7 @@
     "source_id": "src-150",
     "category": "trzista",
     "published_at": "2026-05-14T09:47:27+00:00",
-    "fetched_at": "2026-05-18T09:30:16.210842+00:00"
+    "fetched_at": "2026-05-18T09:48:21.131486+00:00"
   },
   {
     "id": "1fdfac28ac89c4b1",
@@ -1869,7 +2229,7 @@
     "source_id": "src-147",
     "category": "financije",
     "published_at": "2026-05-14T09:41:00+00:00",
-    "fetched_at": "2026-05-18T09:30:15.331967+00:00"
+    "fetched_at": "2026-05-18T09:48:19.511089+00:00"
   },
   {
     "id": "fbf0c62125d63fb0",
@@ -1929,7 +2289,7 @@
     "source_id": "src-138",
     "category": "ekonomija",
     "published_at": "2026-05-14T09:14:01+00:00",
-    "fetched_at": "2026-05-18T09:30:11.569557+00:00"
+    "fetched_at": "2026-05-18T09:48:13.706839+00:00"
   },
   {
     "id": "ace4c2c45398df4b",
@@ -1957,7 +2317,7 @@
     "source_id": "src-059",
     "category": "trzista",
     "published_at": "2026-05-14T09:01:16+00:00",
-    "fetched_at": "2026-05-18T09:29:42.374581+00:00"
+    "fetched_at": "2026-05-18T09:47:42.983078+00:00"
   },
   {
     "id": "2d55dc33e63547ce",
@@ -1969,7 +2329,7 @@
     "source_id": "src-096",
     "category": "kultura",
     "published_at": "2026-05-14T09:00:42+00:00",
-    "fetched_at": "2026-05-18T09:29:52.040274+00:00"
+    "fetched_at": "2026-05-18T09:47:52.778185+00:00"
   },
   {
     "id": "292f0eea0443266d",
@@ -1981,7 +2341,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-14T09:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:43.236258+00:00"
+    "fetched_at": "2026-05-18T09:47:44.085680+00:00"
   },
   {
     "id": "d9861dd372188086",
@@ -2097,7 +2457,7 @@
     "source_id": "src-150",
     "category": "trzista",
     "published_at": "2026-05-14T08:27:04+00:00",
-    "fetched_at": "2026-05-18T09:30:16.210900+00:00"
+    "fetched_at": "2026-05-18T09:48:21.131550+00:00"
   },
   {
     "id": "0d58c32d05a7b4ed",
@@ -2125,7 +2485,7 @@
     "source_id": "src-150",
     "category": "trzista",
     "published_at": "2026-05-14T08:01:34+00:00",
-    "fetched_at": "2026-05-18T09:30:16.210960+00:00"
+    "fetched_at": "2026-05-18T09:48:21.131614+00:00"
   },
   {
     "id": "610a34fce6b1614c",
@@ -2153,7 +2513,7 @@
     "source_id": "src-096",
     "category": "kultura",
     "published_at": "2026-05-14T08:00:06+00:00",
-    "fetched_at": "2026-05-18T09:29:52.040341+00:00"
+    "fetched_at": "2026-05-18T09:47:52.778254+00:00"
   },
   {
     "id": "519c641d31580249",
@@ -2253,7 +2613,7 @@
     "source_id": "src-051",
     "category": "trzista",
     "published_at": "2026-05-14T04:20:39+00:00",
-    "fetched_at": "2026-05-18T09:29:41.275056+00:00"
+    "fetched_at": "2026-05-18T09:47:41.238113+00:00"
   },
   {
     "id": "b79e495833994acd",
@@ -2265,7 +2625,7 @@
     "source_id": "src-079",
     "category": "znanost",
     "published_at": "2026-05-14T04:01:00+00:00",
-    "fetched_at": "2026-05-18T09:29:47.013161+00:00"
+    "fetched_at": "2026-05-18T09:47:47.584123+00:00"
   },
   {
     "id": "f7d757311dc78989",
@@ -2293,7 +2653,7 @@
     "source_id": "src-118",
     "category": "dizajn",
     "published_at": "2026-05-14T04:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:07.953656+00:00"
+    "fetched_at": "2026-05-18T09:48:08.677329+00:00"
   },
   {
     "id": "fac6cc8e4c727c82",
@@ -2321,7 +2681,7 @@
     "source_id": "src-099",
     "category": "kultura",
     "published_at": "2026-05-14T02:54:19+00:00",
-    "fetched_at": "2026-05-18T09:29:52.842857+00:00"
+    "fetched_at": "2026-05-18T09:48:01.614715+00:00"
   },
   {
     "id": "80b6771bfe90b000",
@@ -2365,7 +2725,7 @@
     "source_id": "src-099",
     "category": "kultura",
     "published_at": "2026-05-14T02:41:06+00:00",
-    "fetched_at": "2026-05-18T09:29:52.842968+00:00"
+    "fetched_at": "2026-05-18T09:48:01.614828+00:00"
   },
   {
     "id": "b0434a0984cf6b77",
@@ -2377,7 +2737,7 @@
     "source_id": "src-099",
     "category": "kultura",
     "published_at": "2026-05-14T02:32:52+00:00",
-    "fetched_at": "2026-05-18T09:29:52.843019+00:00"
+    "fetched_at": "2026-05-18T09:48:01.614880+00:00"
   },
   {
     "id": "48c14398597d86ea",
@@ -2509,7 +2869,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-14T00:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:45.154934+00:00"
+    "fetched_at": "2026-05-18T09:47:45.864665+00:00"
   },
   {
     "id": "bb5c98dd59b11b1a",
@@ -2521,7 +2881,7 @@
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-13T22:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:48.933852+00:00"
+    "fetched_at": "2026-05-18T09:47:48.849398+00:00"
   },
   {
     "id": "a41d5e2628f73c47",
@@ -2533,7 +2893,7 @@
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-13T22:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:48.933914+00:00"
+    "fetched_at": "2026-05-18T09:47:48.849462+00:00"
   },
   {
     "id": "a8904007d9872e2b",
@@ -2545,7 +2905,7 @@
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-13T22:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:48.933961+00:00"
+    "fetched_at": "2026-05-18T09:47:48.849515+00:00"
   },
   {
     "id": "a4706770f7307a29",
@@ -2557,7 +2917,7 @@
     "source_id": "src-058",
     "category": "trzista",
     "published_at": "2026-05-13T21:46:42+00:00",
-    "fetched_at": "2026-05-18T09:29:42.257070+00:00"
+    "fetched_at": "2026-05-18T09:47:42.916459+00:00"
   },
   {
     "id": "3fa5bafb9f93857a",
@@ -2585,7 +2945,7 @@
     "source_id": "src-121",
     "category": "lifestyle",
     "published_at": "2026-05-13T21:15:10+00:00",
-    "fetched_at": "2026-05-18T09:30:08.433433+00:00"
+    "fetched_at": "2026-05-18T09:48:09.256508+00:00"
   },
   {
     "id": "4ada61d8e73221cb",
@@ -2629,7 +2989,7 @@
     "source_id": "src-054",
     "category": "trzista",
     "published_at": "2026-05-13T20:33:46+00:00",
-    "fetched_at": "2026-05-18T09:29:41.619307+00:00"
+    "fetched_at": "2026-05-18T09:47:41.852730+00:00"
   },
   {
     "id": "795b2ab99d018c3c",
@@ -2641,7 +3001,7 @@
     "source_id": "src-056",
     "category": "trzista",
     "published_at": "2026-05-13T20:24:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.950241+00:00"
+    "fetched_at": "2026-05-18T09:47:42.395643+00:00"
   },
   {
     "id": "f1f099e97277be75",
@@ -2665,7 +3025,7 @@
     "source_id": "src-095",
     "category": "kultura",
     "published_at": "2026-05-13T20:22:16+00:00",
-    "fetched_at": "2026-05-18T09:29:51.352754+00:00"
+    "fetched_at": "2026-05-18T09:47:51.925795+00:00"
   },
   {
     "id": "0075321c35190342",
@@ -2725,7 +3085,7 @@
     "source_id": "src-160",
     "category": "satovi",
     "published_at": "2026-05-13T20:00:13+00:00",
-    "fetched_at": "2026-05-18T09:30:18.146869+00:00"
+    "fetched_at": "2026-05-18T09:48:24.622269+00:00"
   },
   {
     "id": "3ea37775794344a7",
@@ -2737,7 +3097,7 @@
     "source_id": "src-128",
     "category": "lifestyle",
     "published_at": "2026-05-13T20:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:09.457934+00:00"
+    "fetched_at": "2026-05-18T09:48:11.021305+00:00"
   },
   {
     "id": "7f8a8b216da848dc",
@@ -2765,7 +3125,7 @@
     "source_id": "extra-bloomberg-hr-001",
     "category": "poslovanje",
     "published_at": "2026-05-13T19:50:00+00:00",
-    "fetched_at": "2026-05-18T09:30:25.951813+00:00"
+    "fetched_at": "2026-05-18T09:48:31.994722+00:00"
   },
   {
     "id": "31cc8187a04bd9ce",
@@ -2777,7 +3137,7 @@
     "source_id": "src-019",
     "category": "ekonomija",
     "published_at": "2026-05-13T19:50:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.087175+00:00"
+    "fetched_at": "2026-05-18T09:47:02.738706+00:00"
   },
   {
     "id": "3ac77b642776ab96",
@@ -2789,7 +3149,7 @@
     "source_id": "src-079",
     "category": "znanost",
     "published_at": "2026-05-13T19:47:08+00:00",
-    "fetched_at": "2026-05-18T09:29:47.013248+00:00"
+    "fetched_at": "2026-05-18T09:47:47.584215+00:00"
   },
   {
     "id": "55e9cb274e2a4248",
@@ -2833,7 +3193,7 @@
     "source_id": "src-079",
     "category": "znanost",
     "published_at": "2026-05-13T19:17:12+00:00",
-    "fetched_at": "2026-05-18T09:29:47.013312+00:00"
+    "fetched_at": "2026-05-18T09:47:47.584294+00:00"
   },
   {
     "id": "dce30d09a0592a15",
@@ -2845,7 +3205,7 @@
     "source_id": "src-095",
     "category": "kultura",
     "published_at": "2026-05-13T19:17:05+00:00",
-    "fetched_at": "2026-05-18T09:29:51.352838+00:00"
+    "fetched_at": "2026-05-18T09:47:51.925882+00:00"
   },
   {
     "id": "84f557cb728d6139",
@@ -2857,7 +3217,7 @@
     "source_id": "src-168",
     "category": "pica",
     "published_at": "2026-05-13T19:08:44+00:00",
-    "fetched_at": "2026-05-18T09:30:22.512473+00:00"
+    "fetched_at": "2026-05-18T09:48:29.074809+00:00"
   },
   {
     "id": "0cbe3ae0a5e24c1a",
@@ -2901,7 +3261,7 @@
     "source_id": "src-019",
     "category": "ekonomija",
     "published_at": "2026-05-13T19:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.087239+00:00"
+    "fetched_at": "2026-05-18T09:47:02.738763+00:00"
   },
   {
     "id": "d77d443ef495d588",
@@ -2929,7 +3289,7 @@
     "source_id": "src-051",
     "category": "trzista",
     "published_at": "2026-05-13T18:23:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.275127+00:00"
+    "fetched_at": "2026-05-18T09:47:41.238183+00:00"
   },
   {
     "id": "e93be73b4e723811",
@@ -2957,7 +3317,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-13T18:10:11+00:00",
-    "fetched_at": "2026-05-18T09:28:57.475378+00:00"
+    "fetched_at": "2026-05-18T09:46:55.507196+00:00"
   },
   {
     "id": "9ff34c619b66342e",
@@ -2969,7 +3329,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-13T18:09:03+00:00",
-    "fetched_at": "2026-05-18T09:29:43.236329+00:00"
+    "fetched_at": "2026-05-18T09:47:44.085751+00:00"
   },
   {
     "id": "f6a6106f63dea6d3",
@@ -2981,7 +3341,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-13T18:00:42+00:00",
-    "fetched_at": "2026-05-18T09:29:47.769332+00:00"
+    "fetched_at": "2026-05-18T09:47:48.398626+00:00"
   },
   {
     "id": "7fad3afa497ab051",
@@ -2993,7 +3353,7 @@
     "source_id": "src-109",
     "category": "dizajn",
     "published_at": "2026-05-13T18:00:20+00:00",
-    "fetched_at": "2026-05-18T09:29:55.152175+00:00"
+    "fetched_at": "2026-05-18T09:48:05.144173+00:00"
   },
   {
     "id": "8b17ffa90bca302a",
@@ -3021,7 +3381,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-13T18:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:47.768820+00:00"
+    "fetched_at": "2026-05-18T09:47:48.398050+00:00"
   },
   {
     "id": "82d681e5b160ba7f",
@@ -3033,7 +3393,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-13T18:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:47.769200+00:00"
+    "fetched_at": "2026-05-18T09:47:48.398479+00:00"
   },
   {
     "id": "ba4016d708a60e0a",
@@ -3061,7 +3421,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-13T17:58:50+00:00",
-    "fetched_at": "2026-05-18T09:28:57.475449+00:00"
+    "fetched_at": "2026-05-18T09:46:55.507262+00:00"
   },
   {
     "id": "737273c15abb59b2",
@@ -3113,7 +3473,7 @@
     "source_id": "src-157",
     "category": "satovi",
     "published_at": "2026-05-13T17:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:17.215774+00:00"
+    "fetched_at": "2026-05-18T09:48:23.643227+00:00"
   },
   {
     "id": "b07b993610e5f553",
@@ -3125,7 +3485,7 @@
     "source_id": "src-042",
     "category": "financije",
     "published_at": "2026-05-13T16:49:07+00:00",
-    "fetched_at": "2026-05-18T09:29:38.581937+00:00"
+    "fetched_at": "2026-05-18T09:47:36.674224+00:00"
   },
   {
     "id": "a42cb71ac60fc935",
@@ -3137,7 +3497,7 @@
     "source_id": "src-053",
     "category": "trzista",
     "published_at": "2026-05-13T16:37:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.482450+00:00"
+    "fetched_at": "2026-05-18T09:47:41.649650+00:00"
   },
   {
     "id": "6ae9891ea8969886",
@@ -3161,7 +3521,7 @@
     "source_id": "src-053",
     "category": "trzista",
     "published_at": "2026-05-13T16:29:32+00:00",
-    "fetched_at": "2026-05-18T09:29:41.482500+00:00"
+    "fetched_at": "2026-05-18T09:47:41.649706+00:00"
   },
   {
     "id": "b0a976d9f6e608a2",
@@ -3221,7 +3581,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-13T16:00:40+00:00",
-    "fetched_at": "2026-05-18T09:29:47.768548+00:00"
+    "fetched_at": "2026-05-18T09:47:48.397809+00:00"
   },
   {
     "id": "ddc6ace26064dbb4",
@@ -3249,7 +3609,7 @@
     "source_id": "src-109",
     "category": "dizajn",
     "published_at": "2026-05-13T16:00:27+00:00",
-    "fetched_at": "2026-05-18T09:29:55.152236+00:00"
+    "fetched_at": "2026-05-18T09:48:05.144236+00:00"
   },
   {
     "id": "38214a261708c826",
@@ -3277,7 +3637,7 @@
     "source_id": "src-160",
     "category": "satovi",
     "published_at": "2026-05-13T16:00:15+00:00",
-    "fetched_at": "2026-05-18T09:30:18.146961+00:00"
+    "fetched_at": "2026-05-18T09:48:24.622370+00:00"
   },
   {
     "id": "a5a6db75a0477517",
@@ -3305,7 +3665,7 @@
     "source_id": "src-168",
     "category": "pica",
     "published_at": "2026-05-13T15:43:26+00:00",
-    "fetched_at": "2026-05-18T09:30:22.512527+00:00"
+    "fetched_at": "2026-05-18T09:48:29.074872+00:00"
   },
   {
     "id": "2feb96794265aa52",
@@ -3317,7 +3677,7 @@
     "source_id": "src-168",
     "category": "pica",
     "published_at": "2026-05-13T15:37:42+00:00",
-    "fetched_at": "2026-05-18T09:30:22.512593+00:00"
+    "fetched_at": "2026-05-18T09:48:29.074946+00:00"
   },
   {
     "id": "5a1e25ac361e92f5",
@@ -3329,7 +3689,7 @@
     "source_id": "src-058",
     "category": "trzista",
     "published_at": "2026-05-13T15:37:37+00:00",
-    "fetched_at": "2026-05-18T09:29:42.257129+00:00"
+    "fetched_at": "2026-05-18T09:47:42.916523+00:00"
   },
   {
     "id": "88cc44c038bd8b26",
@@ -3341,7 +3701,7 @@
     "source_id": "src-020",
     "category": "ekonomija",
     "published_at": "2026-05-13T15:30:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.157586+00:00"
+    "fetched_at": "2026-05-18T09:47:02.815504+00:00"
   },
   {
     "id": "99b474da6f841550",
@@ -3353,7 +3713,7 @@
     "source_id": "src-056",
     "category": "trzista",
     "published_at": "2026-05-13T15:22:10+00:00",
-    "fetched_at": "2026-05-18T09:29:41.950319+00:00"
+    "fetched_at": "2026-05-18T09:47:42.395714+00:00"
   },
   {
     "id": "0ac01c4ec52f496c",
@@ -3377,7 +3737,7 @@
     "source_id": "extra-pets-003",
     "category": "lifestyle",
     "published_at": "2026-05-13T15:16:42+00:00",
-    "fetched_at": "2026-05-18T09:30:45.355785+00:00"
+    "fetched_at": "2026-05-18T09:48:57.929835+00:00"
   },
   {
     "id": "f4542b9d6c624da7",
@@ -3389,7 +3749,7 @@
     "source_id": "src-055",
     "category": "trzista",
     "published_at": "2026-05-13T15:15:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.688699+00:00"
+    "fetched_at": "2026-05-18T09:47:42.111759+00:00"
   },
   {
     "id": "21f77a768e33d11b",
@@ -3417,7 +3777,7 @@
     "source_id": "extra-pets-004",
     "category": "lifestyle",
     "published_at": "2026-05-13T15:04:04+00:00",
-    "fetched_at": "2026-05-18T09:30:47.107969+00:00"
+    "fetched_at": "2026-05-18T09:48:59.597338+00:00"
   },
   {
     "id": "dd6c1d3bf365976c",
@@ -3441,7 +3801,7 @@
     "source_id": "src-157",
     "category": "satovi",
     "published_at": "2026-05-13T15:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:17.215824+00:00"
+    "fetched_at": "2026-05-18T09:48:23.643295+00:00"
   },
   {
     "id": "4db9bbb65d5779d8",
@@ -3557,7 +3917,7 @@
     "source_id": "src-058",
     "category": "trzista",
     "published_at": "2026-05-13T14:06:23+00:00",
-    "fetched_at": "2026-05-18T09:29:42.257185+00:00"
+    "fetched_at": "2026-05-18T09:47:42.916583+00:00"
   },
   {
     "id": "17532193e24ed714",
@@ -3617,7 +3977,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-13T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.009174+00:00"
+    "fetched_at": "2026-05-18T09:47:49.164220+00:00"
   },
   {
     "id": "aa72b2562eac60dc",
@@ -3629,7 +3989,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-13T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.009292+00:00"
+    "fetched_at": "2026-05-18T09:47:49.164349+00:00"
   },
   {
     "id": "b4fa845d72bb9a48",
@@ -3657,7 +4017,7 @@
     "source_id": "src-095",
     "category": "kultura",
     "published_at": "2026-05-13T13:57:44+00:00",
-    "fetched_at": "2026-05-18T09:29:51.352919+00:00"
+    "fetched_at": "2026-05-18T09:47:51.925964+00:00"
   },
   {
     "id": "edddb2c0bf5c9e66",
@@ -3681,7 +4041,7 @@
     "source_id": "src-138",
     "category": "ekonomija",
     "published_at": "2026-05-13T13:50:19+00:00",
-    "fetched_at": "2026-05-18T09:30:11.569659+00:00"
+    "fetched_at": "2026-05-18T09:48:13.706936+00:00"
   },
   {
     "id": "5cdd3dc9adb07ac4",
@@ -3709,7 +4069,7 @@
     "source_id": "src-147",
     "category": "financije",
     "published_at": "2026-05-13T13:21:57+00:00",
-    "fetched_at": "2026-05-18T09:30:15.332024+00:00"
+    "fetched_at": "2026-05-18T09:48:19.511149+00:00"
   },
   {
     "id": "8b188376f4fd00fd",
@@ -3749,7 +4109,7 @@
     "source_id": "src-040",
     "category": "financije",
     "published_at": "2026-05-13T13:04:00+00:00",
-    "fetched_at": "2026-05-18T09:29:38.367909+00:00"
+    "fetched_at": "2026-05-18T09:47:36.499224+00:00"
   },
   {
     "id": "70afb22d55ee6c27",
@@ -3761,7 +4121,7 @@
     "source_id": "src-058",
     "category": "trzista",
     "published_at": "2026-05-13T13:00:46+00:00",
-    "fetched_at": "2026-05-18T09:29:42.257260+00:00"
+    "fetched_at": "2026-05-18T09:47:42.916659+00:00"
   },
   {
     "id": "83f362467cda7798",
@@ -3773,7 +4133,7 @@
     "source_id": "src-166",
     "category": "pica",
     "published_at": "2026-05-13T13:00:34+00:00",
-    "fetched_at": "2026-05-18T09:30:20.591308+00:00"
+    "fetched_at": "2026-05-18T09:48:27.037430+00:00"
   },
   {
     "id": "276b73b21944031a",
@@ -3785,7 +4145,7 @@
     "source_id": "src-109",
     "category": "dizajn",
     "published_at": "2026-05-13T13:00:22+00:00",
-    "fetched_at": "2026-05-18T09:29:55.152291+00:00"
+    "fetched_at": "2026-05-18T09:48:05.144307+00:00"
   },
   {
     "id": "5f21a6f486bf6ca4",
@@ -3813,7 +4173,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-13T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:45.808820+00:00"
+    "fetched_at": "2026-05-18T09:47:46.471085+00:00"
   },
   {
     "id": "7bf84c502ec0cbde",
@@ -3841,7 +4201,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-13T12:41:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.348491+00:00"
+    "fetched_at": "2026-05-18T09:47:49.909692+00:00"
   },
   {
     "id": "9013dae932901fff",
@@ -3853,7 +4213,7 @@
     "source_id": "src-166",
     "category": "pica",
     "published_at": "2026-05-13T12:30:53+00:00",
-    "fetched_at": "2026-05-18T09:30:20.591399+00:00"
+    "fetched_at": "2026-05-18T09:48:27.037522+00:00"
   },
   {
     "id": "35783962bf73902a",
@@ -4029,7 +4389,7 @@
     "source_id": "src-122",
     "category": "lifestyle",
     "published_at": "2026-05-13T11:09:05+00:00",
-    "fetched_at": "2026-05-18T09:30:08.561192+00:00"
+    "fetched_at": "2026-05-18T09:48:09.461067+00:00"
   },
   {
     "id": "98d285f0a3483926",
@@ -4041,7 +4401,7 @@
     "source_id": "src-122",
     "category": "lifestyle",
     "published_at": "2026-05-13T11:03:00+00:00",
-    "fetched_at": "2026-05-18T09:30:08.561252+00:00"
+    "fetched_at": "2026-05-18T09:48:09.461125+00:00"
   },
   {
     "id": "061c3a50905ee610",
@@ -4053,7 +4413,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-05-13T11:00:40+00:00",
-    "fetched_at": "2026-05-18T09:28:55.965964+00:00"
+    "fetched_at": "2026-05-18T09:46:53.636313+00:00"
   },
   {
     "id": "5502a50a46d6e39e",
@@ -4065,7 +4425,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-13T11:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:45.154978+00:00"
+    "fetched_at": "2026-05-18T09:47:45.864721+00:00"
   },
   {
     "id": "efec000ad9b5d8b3",
@@ -4077,7 +4437,7 @@
     "source_id": "src-147",
     "category": "financije",
     "published_at": "2026-05-13T10:57:29+00:00",
-    "fetched_at": "2026-05-18T09:30:15.332079+00:00"
+    "fetched_at": "2026-05-18T09:48:19.511209+00:00"
   },
   {
     "id": "04e4bf71a59538d9",
@@ -4161,7 +4521,7 @@
     "source_id": "src-118",
     "category": "dizajn",
     "published_at": "2026-05-13T10:29:10+00:00",
-    "fetched_at": "2026-05-18T09:30:07.953740+00:00"
+    "fetched_at": "2026-05-18T09:48:08.677400+00:00"
   },
   {
     "id": "b73ea32649a09c2a",
@@ -4269,7 +4629,7 @@
     "source_id": "src-059",
     "category": "trzista",
     "published_at": "2026-05-13T09:48:25+00:00",
-    "fetched_at": "2026-05-18T09:29:42.374638+00:00"
+    "fetched_at": "2026-05-18T09:47:42.983165+00:00"
   },
   {
     "id": "6e95385809a59803",
@@ -4297,7 +4657,7 @@
     "source_id": "src-096",
     "category": "kultura",
     "published_at": "2026-05-13T09:00:54+00:00",
-    "fetched_at": "2026-05-18T09:29:52.040404+00:00"
+    "fetched_at": "2026-05-18T09:47:52.778335+00:00"
   },
   {
     "id": "7a5abf4b586f8103",
@@ -4325,7 +4685,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-13T09:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:47.562697+00:00"
+    "fetched_at": "2026-05-18T09:47:48.157833+00:00"
   },
   {
     "id": "4ea4871a6897a04b",
@@ -4397,7 +4757,7 @@
     "source_id": "src-096",
     "category": "kultura",
     "published_at": "2026-05-13T08:00:47+00:00",
-    "fetched_at": "2026-05-18T09:29:52.040477+00:00"
+    "fetched_at": "2026-05-18T09:47:52.778414+00:00"
   },
   {
     "id": "cc4eb0e95eb0ac6a",
@@ -4441,7 +4801,7 @@
     "source_id": "src-056",
     "category": "trzista",
     "published_at": "2026-05-13T07:24:01+00:00",
-    "fetched_at": "2026-05-18T09:29:41.950376+00:00"
+    "fetched_at": "2026-05-18T09:47:42.395772+00:00"
   },
   {
     "id": "b7343bf214c72ff5",
@@ -4465,7 +4825,7 @@
     "source_id": "src-099",
     "category": "kultura",
     "published_at": "2026-05-13T07:19:06+00:00",
-    "fetched_at": "2026-05-18T09:29:52.843072+00:00"
+    "fetched_at": "2026-05-18T09:48:01.614937+00:00"
   },
   {
     "id": "5f5e50bea115c031",
@@ -4477,7 +4837,7 @@
     "source_id": "src-146",
     "category": "financije",
     "published_at": "2026-05-13T06:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:15.282263+00:00"
+    "fetched_at": "2026-05-18T09:48:19.219708+00:00"
   },
   {
     "id": "b1568ea66b5fdd6c",
@@ -4521,7 +4881,7 @@
     "source_id": "src-099",
     "category": "kultura",
     "published_at": "2026-05-13T02:48:47+00:00",
-    "fetched_at": "2026-05-18T09:29:52.843114+00:00"
+    "fetched_at": "2026-05-18T09:48:01.614982+00:00"
   },
   {
     "id": "0600b487d812d618",
@@ -4533,7 +4893,7 @@
     "source_id": "src-099",
     "category": "kultura",
     "published_at": "2026-05-13T02:41:31+00:00",
-    "fetched_at": "2026-05-18T09:29:52.843161+00:00"
+    "fetched_at": "2026-05-18T09:48:01.615033+00:00"
   },
   {
     "id": "749a06f109810378",
@@ -4545,7 +4905,7 @@
     "source_id": "src-053",
     "category": "trzista",
     "published_at": "2026-05-13T01:06:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.482560+00:00"
+    "fetched_at": "2026-05-18T09:47:41.649769+00:00"
   },
   {
     "id": "49432bd70e0887aa",
@@ -4557,7 +4917,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-13T00:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:45.155038+00:00"
+    "fetched_at": "2026-05-18T09:47:45.864786+00:00"
   },
   {
     "id": "71fea6f2eadfa201",
@@ -4617,7 +4977,7 @@
     "source_id": "src-160",
     "category": "satovi",
     "published_at": "2026-05-12T20:52:17+00:00",
-    "fetched_at": "2026-05-18T09:30:18.147064+00:00"
+    "fetched_at": "2026-05-18T09:48:24.622473+00:00"
   },
   {
     "id": "798a30a12d401098",
@@ -4665,7 +5025,7 @@
     "source_id": "src-157",
     "category": "satovi",
     "published_at": "2026-05-12T19:11:00+00:00",
-    "fetched_at": "2026-05-18T09:30:17.215874+00:00"
+    "fetched_at": "2026-05-18T09:48:23.643345+00:00"
   },
   {
     "id": "e944aeedd035287d",
@@ -4677,7 +5037,7 @@
     "source_id": "src-160",
     "category": "satovi",
     "published_at": "2026-05-12T19:00:16+00:00",
-    "fetched_at": "2026-05-18T09:30:18.147152+00:00"
+    "fetched_at": "2026-05-18T09:48:24.622559+00:00"
   },
   {
     "id": "2b35e8b2e51c6255",
@@ -4689,7 +5049,7 @@
     "source_id": "src-095",
     "category": "kultura",
     "published_at": "2026-05-12T19:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:51.353012+00:00"
+    "fetched_at": "2026-05-18T09:47:51.926052+00:00"
   },
   {
     "id": "5ac505954f4338d4",
@@ -4701,7 +5061,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-12T18:00:02+00:00",
-    "fetched_at": "2026-05-18T09:29:44.578412+00:00"
+    "fetched_at": "2026-05-18T09:47:45.400566+00:00"
   },
   {
     "id": "df8e9319a4aa3e7d",
@@ -4713,7 +5073,7 @@
     "source_id": "src-040",
     "category": "financije",
     "published_at": "2026-05-12T17:59:14+00:00",
-    "fetched_at": "2026-05-18T09:29:38.367965+00:00"
+    "fetched_at": "2026-05-18T09:47:36.499300+00:00"
   },
   {
     "id": "421272b1e8ed718f",
@@ -4725,7 +5085,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-12T17:15:15+00:00",
-    "fetched_at": "2026-05-18T09:29:44.578893+00:00"
+    "fetched_at": "2026-05-18T09:47:45.400965+00:00"
   },
   {
     "id": "71a29e7f69758527",
@@ -4753,7 +5113,7 @@
     "source_id": "src-157",
     "category": "satovi",
     "published_at": "2026-05-12T17:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:17.215920+00:00"
+    "fetched_at": "2026-05-18T09:48:23.643393+00:00"
   },
   {
     "id": "d16264db3942851b",
@@ -4781,7 +5141,7 @@
     "source_id": "src-168",
     "category": "pica",
     "published_at": "2026-05-12T16:34:11+00:00",
-    "fetched_at": "2026-05-18T09:30:22.512660+00:00"
+    "fetched_at": "2026-05-18T09:48:29.075021+00:00"
   },
   {
     "id": "0d50375bb5803c61",
@@ -4809,7 +5169,7 @@
     "source_id": "extra-pets-004",
     "category": "lifestyle",
     "published_at": "2026-05-12T16:13:13+00:00",
-    "fetched_at": "2026-05-18T09:30:47.108117+00:00"
+    "fetched_at": "2026-05-18T09:48:59.597470+00:00"
   },
   {
     "id": "5c639de97d168440",
@@ -4837,7 +5197,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-05-12T16:05:12+00:00",
-    "fetched_at": "2026-05-18T09:29:45.453405+00:00"
+    "fetched_at": "2026-05-18T09:47:46.182311+00:00"
   },
   {
     "id": "189104c4d7308b0c",
@@ -4849,7 +5209,7 @@
     "source_id": "src-109",
     "category": "dizajn",
     "published_at": "2026-05-12T16:00:47+00:00",
-    "fetched_at": "2026-05-18T09:29:55.152344+00:00"
+    "fetched_at": "2026-05-18T09:48:05.144360+00:00"
   },
   {
     "id": "9848972ab64d93fd",
@@ -4861,7 +5221,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-12T16:00:18+00:00",
-    "fetched_at": "2026-05-18T09:29:47.768647+00:00"
+    "fetched_at": "2026-05-18T09:47:48.397899+00:00"
   },
   {
     "id": "018cae1647ff71de",
@@ -4873,7 +5233,7 @@
     "source_id": "extra-pets-003",
     "category": "lifestyle",
     "published_at": "2026-05-12T15:58:35+00:00",
-    "fetched_at": "2026-05-18T09:30:45.355997+00:00"
+    "fetched_at": "2026-05-18T09:48:57.930015+00:00"
   },
   {
     "id": "7098cdc745a843d0",
@@ -4897,7 +5257,7 @@
     "source_id": "src-146",
     "category": "financije",
     "published_at": "2026-05-12T15:48:55+00:00",
-    "fetched_at": "2026-05-18T09:30:15.282337+00:00"
+    "fetched_at": "2026-05-18T09:48:19.219785+00:00"
   },
   {
     "id": "f4bd501feb1b5e34",
@@ -4909,7 +5269,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-12T15:45:59+00:00",
-    "fetched_at": "2026-05-18T09:28:57.475516+00:00"
+    "fetched_at": "2026-05-18T09:46:55.507345+00:00"
   },
   {
     "id": "23d885d46166374f",
@@ -4937,7 +5297,7 @@
     "source_id": "src-020",
     "category": "ekonomija",
     "published_at": "2026-05-12T15:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.157639+00:00"
+    "fetched_at": "2026-05-18T09:47:02.815561+00:00"
   },
   {
     "id": "6593ac2612a59b6f",
@@ -4949,7 +5309,7 @@
     "source_id": "src-030",
     "category": "ekonomija",
     "published_at": "2026-05-12T15:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.467015+00:00"
+    "fetched_at": "2026-05-18T09:47:06.949062+00:00"
   },
   {
     "id": "7d12c750a4ea6f38",
@@ -4961,7 +5321,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-12T15:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:45.155081+00:00"
+    "fetched_at": "2026-05-18T09:47:45.864835+00:00"
   },
   {
     "id": "0fa08376bd7637fc",
@@ -4973,7 +5333,7 @@
     "source_id": "src-157",
     "category": "satovi",
     "published_at": "2026-05-12T15:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:17.215964+00:00"
+    "fetched_at": "2026-05-18T09:48:23.643439+00:00"
   },
   {
     "id": "69abc9bde9d82fb1",
@@ -4985,7 +5345,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-12T14:58:48+00:00",
-    "fetched_at": "2026-05-18T09:28:57.475579+00:00"
+    "fetched_at": "2026-05-18T09:46:55.507413+00:00"
   },
   {
     "id": "4a01c2bc8abb7d1d",
@@ -4997,7 +5357,7 @@
     "source_id": "src-146",
     "category": "financije",
     "published_at": "2026-05-12T14:45:00+00:00",
-    "fetched_at": "2026-05-18T09:30:15.282397+00:00"
+    "fetched_at": "2026-05-18T09:48:19.219846+00:00"
   },
   {
     "id": "7229ab39ebb6d875",
@@ -5009,7 +5369,7 @@
     "source_id": "src-040",
     "category": "financije",
     "published_at": "2026-05-12T14:39:00+00:00",
-    "fetched_at": "2026-05-18T09:29:38.368020+00:00"
+    "fetched_at": "2026-05-18T09:47:36.499363+00:00"
   },
   {
     "id": "6f08038d69ab7896",
@@ -5069,7 +5429,7 @@
     "source_id": "src-109",
     "category": "dizajn",
     "published_at": "2026-05-12T14:00:08+00:00",
-    "fetched_at": "2026-05-18T09:29:55.152446+00:00"
+    "fetched_at": "2026-05-18T09:48:05.144478+00:00"
   },
   {
     "id": "a1372cdae0a9ec47",
@@ -5081,7 +5441,7 @@
     "source_id": "src-128",
     "category": "lifestyle",
     "published_at": "2026-05-12T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:09.458090+00:00"
+    "fetched_at": "2026-05-18T09:48:11.021447+00:00"
   },
   {
     "id": "ec3e3b4638b6bb9f",
@@ -5093,7 +5453,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-12T13:57:06+00:00",
-    "fetched_at": "2026-05-18T09:28:57.475633+00:00"
+    "fetched_at": "2026-05-18T09:46:55.507472+00:00"
   },
   {
     "id": "74f289e92d4d1884",
@@ -5105,7 +5465,7 @@
     "source_id": "src-109",
     "category": "dizajn",
     "published_at": "2026-05-12T13:00:09+00:00",
-    "fetched_at": "2026-05-18T09:29:55.152501+00:00"
+    "fetched_at": "2026-05-18T09:48:05.144536+00:00"
   },
   {
     "id": "f2c93fa9eccb7b0f",
@@ -5117,7 +5477,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-12T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:45.808882+00:00"
+    "fetched_at": "2026-05-18T09:47:46.471144+00:00"
   },
   {
     "id": "8727fef58c70ad25",
@@ -5129,7 +5489,7 @@
     "source_id": "src-040",
     "category": "financije",
     "published_at": "2026-05-12T12:38:44+00:00",
-    "fetched_at": "2026-05-18T09:29:38.368087+00:00"
+    "fetched_at": "2026-05-18T09:47:36.499424+00:00"
   },
   {
     "id": "a78104d85f64c89e",
@@ -5157,7 +5517,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-12T11:59:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.348558+00:00"
+    "fetched_at": "2026-05-18T09:47:49.909760+00:00"
   },
   {
     "id": "1645fd464eea97d1",
@@ -5185,7 +5545,7 @@
     "source_id": "src-122",
     "category": "lifestyle",
     "published_at": "2026-05-12T11:03:00+00:00",
-    "fetched_at": "2026-05-18T09:30:08.561315+00:00"
+    "fetched_at": "2026-05-18T09:48:09.461192+00:00"
   },
   {
     "id": "5e7ece8da87b0b3f",
@@ -5197,7 +5557,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-05-12T11:00:27+00:00",
-    "fetched_at": "2026-05-18T09:28:55.966413+00:00"
+    "fetched_at": "2026-05-18T09:46:53.640741+00:00"
   },
   {
     "id": "f88cce7e90d5c093",
@@ -5225,7 +5585,7 @@
     "source_id": "src-122",
     "category": "lifestyle",
     "published_at": "2026-05-12T10:49:00+00:00",
-    "fetched_at": "2026-05-18T09:30:08.561368+00:00"
+    "fetched_at": "2026-05-18T09:48:09.461251+00:00"
   },
   {
     "id": "3007a77c7b6d094d",
@@ -5237,7 +5597,7 @@
     "source_id": "src-019",
     "category": "ekonomija",
     "published_at": "2026-05-12T10:40:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.087287+00:00"
+    "fetched_at": "2026-05-18T09:47:02.738810+00:00"
   },
   {
     "id": "3c300e8dce1b212a",
@@ -5265,7 +5625,7 @@
     "source_id": "src-138",
     "category": "ekonomija",
     "published_at": "2026-05-12T10:12:09+00:00",
-    "fetched_at": "2026-05-18T09:30:11.569772+00:00"
+    "fetched_at": "2026-05-18T09:48:13.707026+00:00"
   },
   {
     "id": "ab95588b3379740b",
@@ -5277,7 +5637,7 @@
     "source_id": "src-122",
     "category": "lifestyle",
     "published_at": "2026-05-12T10:05:23+00:00",
-    "fetched_at": "2026-05-18T09:30:08.561417+00:00"
+    "fetched_at": "2026-05-18T09:48:09.461316+00:00"
   },
   {
     "id": "7adf0140a470c6f4",
@@ -5321,7 +5681,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-12T09:30:00+00:00",
-    "fetched_at": "2026-05-18T09:29:47.562774+00:00"
+    "fetched_at": "2026-05-18T09:47:48.157909+00:00"
   },
   {
     "id": "4955f185fa204123",
@@ -5333,7 +5693,7 @@
     "source_id": "src-118",
     "category": "dizajn",
     "published_at": "2026-05-12T09:23:57+00:00",
-    "fetched_at": "2026-05-18T09:30:07.953804+00:00"
+    "fetched_at": "2026-05-18T09:48:08.677466+00:00"
   },
   {
     "id": "b48535073a8b968d",
@@ -5345,7 +5705,7 @@
     "source_id": "src-096",
     "category": "kultura",
     "published_at": "2026-05-12T09:00:54+00:00",
-    "fetched_at": "2026-05-18T09:29:52.040561+00:00"
+    "fetched_at": "2026-05-18T09:47:52.778504+00:00"
   },
   {
     "id": "9deb18d81a66cdc7",
@@ -5357,7 +5717,7 @@
     "source_id": "src-059",
     "category": "trzista",
     "published_at": "2026-05-12T08:14:25+00:00",
-    "fetched_at": "2026-05-18T09:29:42.374716+00:00"
+    "fetched_at": "2026-05-18T09:47:42.983240+00:00"
   },
   {
     "id": "2f49f6a729174744",
@@ -5369,7 +5729,7 @@
     "source_id": "src-096",
     "category": "kultura",
     "published_at": "2026-05-12T08:00:35+00:00",
-    "fetched_at": "2026-05-18T09:29:52.040634+00:00"
+    "fetched_at": "2026-05-18T09:47:52.778582+00:00"
   },
   {
     "id": "7b68289376dab629",
@@ -5381,7 +5741,7 @@
     "source_id": "src-058",
     "category": "trzista",
     "published_at": "2026-05-12T07:00:53+00:00",
-    "fetched_at": "2026-05-18T09:29:42.257327+00:00"
+    "fetched_at": "2026-05-18T09:47:42.916723+00:00"
   },
   {
     "id": "2b36a7b111c6538c",
@@ -5393,7 +5753,7 @@
     "source_id": "src-146",
     "category": "financije",
     "published_at": "2026-05-12T06:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:15.282464+00:00"
+    "fetched_at": "2026-05-18T09:48:19.219917+00:00"
   },
   {
     "id": "882acb7172024015",
@@ -5473,7 +5833,7 @@
     "source_id": "extra-pets-004",
     "category": "lifestyle",
     "published_at": "2026-05-11T22:56:56+00:00",
-    "fetched_at": "2026-05-18T09:30:47.108242+00:00"
+    "fetched_at": "2026-05-18T09:48:59.597586+00:00"
   },
   {
     "id": "215a44d9a71e60c4",
@@ -5485,7 +5845,7 @@
     "source_id": "src-168",
     "category": "pica",
     "published_at": "2026-05-11T22:17:18+00:00",
-    "fetched_at": "2026-05-18T09:30:22.512724+00:00"
+    "fetched_at": "2026-05-18T09:48:29.075072+00:00"
   },
   {
     "id": "1de85889d35f61d9",
@@ -5497,7 +5857,7 @@
     "source_id": "src-058",
     "category": "trzista",
     "published_at": "2026-05-11T21:51:31+00:00",
-    "fetched_at": "2026-05-18T09:29:42.257389+00:00"
+    "fetched_at": "2026-05-18T09:47:42.916789+00:00"
   },
   {
     "id": "794c71f262c1fc3a",
@@ -5525,7 +5885,7 @@
     "source_id": "extra-pets-003",
     "category": "lifestyle",
     "published_at": "2026-05-11T20:39:35+00:00",
-    "fetched_at": "2026-05-18T09:30:45.356147+00:00"
+    "fetched_at": "2026-05-18T09:48:57.930147+00:00"
   },
   {
     "id": "443b65112fc8b8d6",
@@ -5553,7 +5913,7 @@
     "source_id": "extra-pets-003",
     "category": "lifestyle",
     "published_at": "2026-05-11T19:05:23+00:00",
-    "fetched_at": "2026-05-18T09:30:45.356257+00:00"
+    "fetched_at": "2026-05-18T09:48:57.930251+00:00"
   },
   {
     "id": "991f3b191edc62a1",
@@ -5565,7 +5925,7 @@
     "source_id": "extra-pets-004",
     "category": "lifestyle",
     "published_at": "2026-05-11T19:05:18+00:00",
-    "fetched_at": "2026-05-18T09:30:47.108352+00:00"
+    "fetched_at": "2026-05-18T09:48:59.597693+00:00"
   },
   {
     "id": "b1cf8106476f4896",
@@ -5609,7 +5969,7 @@
     "source_id": "src-062",
     "category": "tehnologija",
     "published_at": "2026-05-11T17:33:44+00:00",
-    "fetched_at": "2026-05-18T09:29:42.740970+00:00"
+    "fetched_at": "2026-05-18T09:47:43.449033+00:00"
   },
   {
     "id": "a0e835ff320458d4",
@@ -5649,7 +6009,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-05-11T16:08:26+00:00",
-    "fetched_at": "2026-05-18T09:29:45.453484+00:00"
+    "fetched_at": "2026-05-18T09:47:46.182386+00:00"
   },
   {
     "id": "53aa1f9aac00234a",
@@ -5661,7 +6021,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-11T16:00:51+00:00",
-    "fetched_at": "2026-05-18T09:29:47.768895+00:00"
+    "fetched_at": "2026-05-18T09:47:48.398123+00:00"
   },
   {
     "id": "832f9b8e6efc5bce",
@@ -5673,7 +6033,7 @@
     "source_id": "src-109",
     "category": "dizajn",
     "published_at": "2026-05-11T16:00:16+00:00",
-    "fetched_at": "2026-05-18T09:29:55.152560+00:00"
+    "fetched_at": "2026-05-18T09:48:05.144598+00:00"
   },
   {
     "id": "52cb999bbd9bb065",
@@ -5685,7 +6045,7 @@
     "source_id": "src-109",
     "category": "dizajn",
     "published_at": "2026-05-11T14:00:20+00:00",
-    "fetched_at": "2026-05-18T09:29:55.152613+00:00"
+    "fetched_at": "2026-05-18T09:48:05.144659+00:00"
   },
   {
     "id": "36dc608bfffcc9c2",
@@ -5697,7 +6057,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-11T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.009433+00:00"
+    "fetched_at": "2026-05-18T09:47:49.164464+00:00"
   },
   {
     "id": "43aab6a3963d4c75",
@@ -5709,7 +6069,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-11T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.009523+00:00"
+    "fetched_at": "2026-05-18T09:47:49.164555+00:00"
   },
   {
     "id": "ad56d52634fdfdf9",
@@ -5721,7 +6081,7 @@
     "source_id": "src-128",
     "category": "lifestyle",
     "published_at": "2026-05-11T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:09.458196+00:00"
+    "fetched_at": "2026-05-18T09:48:11.021546+00:00"
   },
   {
     "id": "55fee87eefab1b87",
@@ -5733,7 +6093,7 @@
     "source_id": "src-164",
     "category": "nakit",
     "published_at": "2026-05-11T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:20.253026+00:00"
+    "fetched_at": "2026-05-18T09:48:26.473005+00:00"
   },
   {
     "id": "1f1e78b237edb60a",
@@ -5745,7 +6105,7 @@
     "source_id": "src-164",
     "category": "nakit",
     "published_at": "2026-05-11T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:20.253078+00:00"
+    "fetched_at": "2026-05-18T09:48:26.473058+00:00"
   },
   {
     "id": "06f40541ad981daa",
@@ -5757,7 +6117,7 @@
     "source_id": "src-164",
     "category": "nakit",
     "published_at": "2026-05-11T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:20.253125+00:00"
+    "fetched_at": "2026-05-18T09:48:26.473111+00:00"
   },
   {
     "id": "27e1e4cc8557ee30",
@@ -5769,7 +6129,7 @@
     "source_id": "src-164",
     "category": "nakit",
     "published_at": "2026-05-11T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:20.253171+00:00"
+    "fetched_at": "2026-05-18T09:48:26.473159+00:00"
   },
   {
     "id": "b6ac4e097d36b4e5",
@@ -5781,7 +6141,7 @@
     "source_id": "src-164",
     "category": "nakit",
     "published_at": "2026-05-11T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:20.253218+00:00"
+    "fetched_at": "2026-05-18T09:48:26.473207+00:00"
   },
   {
     "id": "d1fbd54c7eab26ce",
@@ -5793,7 +6153,7 @@
     "source_id": "src-164",
     "category": "nakit",
     "published_at": "2026-05-11T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:20.253272+00:00"
+    "fetched_at": "2026-05-18T09:48:26.473266+00:00"
   },
   {
     "id": "121bac74acd40ba2",
@@ -5805,7 +6165,7 @@
     "source_id": "src-164",
     "category": "nakit",
     "published_at": "2026-05-11T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:20.253315+00:00"
+    "fetched_at": "2026-05-18T09:48:26.473336+00:00"
   },
   {
     "id": "baa9476f129997cc",
@@ -5817,7 +6177,7 @@
     "source_id": "src-164",
     "category": "nakit",
     "published_at": "2026-05-11T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:20.253364+00:00"
+    "fetched_at": "2026-05-18T09:48:26.473392+00:00"
   },
   {
     "id": "641df130a723cd11",
@@ -5829,7 +6189,7 @@
     "source_id": "src-164",
     "category": "nakit",
     "published_at": "2026-05-11T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:20.253407+00:00"
+    "fetched_at": "2026-05-18T09:48:26.473442+00:00"
   },
   {
     "id": "c5f044712e29e4d5",
@@ -5841,7 +6201,7 @@
     "source_id": "src-164",
     "category": "nakit",
     "published_at": "2026-05-11T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:20.253453+00:00"
+    "fetched_at": "2026-05-18T09:48:26.473494+00:00"
   },
   {
     "id": "38c67b6a0a16b896",
@@ -5853,7 +6213,7 @@
     "source_id": "src-029",
     "category": "ekonomija",
     "published_at": "2026-05-11T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.055850+00:00"
+    "fetched_at": "2026-05-18T09:47:06.695512+00:00"
   },
   {
     "id": "a48bdd94d5f7acbc",
@@ -5865,7 +6225,7 @@
     "source_id": "src-138",
     "category": "ekonomija",
     "published_at": "2026-05-11T12:44:21+00:00",
-    "fetched_at": "2026-05-18T09:30:11.569863+00:00"
+    "fetched_at": "2026-05-18T09:48:13.707113+00:00"
   },
   {
     "id": "ac51431ebc1336ea",
@@ -5877,7 +6237,7 @@
     "source_id": "src-122",
     "category": "lifestyle",
     "published_at": "2026-05-11T11:07:00+00:00",
-    "fetched_at": "2026-05-18T09:30:08.561471+00:00"
+    "fetched_at": "2026-05-18T09:48:09.461372+00:00"
   },
   {
     "id": "da42f50e71a08e2c",
@@ -5889,7 +6249,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-05-11T11:00:37+00:00",
-    "fetched_at": "2026-05-18T09:28:55.966508+00:00"
+    "fetched_at": "2026-05-18T09:46:53.640836+00:00"
   },
   {
     "id": "488b74f82a1eb16b",
@@ -5901,7 +6261,7 @@
     "source_id": "src-030",
     "category": "ekonomija",
     "published_at": "2026-05-11T11:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.467103+00:00"
+    "fetched_at": "2026-05-18T09:47:06.949147+00:00"
   },
   {
     "id": "cbc086425473772a",
@@ -5913,7 +6273,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-11T10:17:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.348615+00:00"
+    "fetched_at": "2026-05-18T09:47:49.909817+00:00"
   },
   {
     "id": "b49c44b8575ce507",
@@ -5925,7 +6285,7 @@
     "source_id": "src-129",
     "category": "lifestyle",
     "published_at": "2026-05-11T10:00:21+00:00",
-    "fetched_at": "2026-05-18T09:30:09.707961+00:00"
+    "fetched_at": "2026-05-18T09:48:11.329008+00:00"
   },
   {
     "id": "e410d0f28265d4a2",
@@ -5937,7 +6297,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-11T10:00:01+00:00",
-    "fetched_at": "2026-05-18T09:29:44.579007+00:00"
+    "fetched_at": "2026-05-18T09:47:45.401063+00:00"
   },
   {
     "id": "bf1ad63e8663cf5e",
@@ -5949,7 +6309,7 @@
     "source_id": "src-090",
     "category": "znanost",
     "published_at": "2026-05-11T09:27:39+00:00",
-    "fetched_at": "2026-05-18T09:29:50.149254+00:00"
+    "fetched_at": "2026-05-18T09:47:50.719785+00:00"
   },
   {
     "id": "cee3ae171e7ab5cb",
@@ -5961,7 +6321,7 @@
     "source_id": "src-096",
     "category": "kultura",
     "published_at": "2026-05-11T09:00:43+00:00",
-    "fetched_at": "2026-05-18T09:29:52.040707+00:00"
+    "fetched_at": "2026-05-18T09:47:52.778647+00:00"
   },
   {
     "id": "f158ed41f7177d33",
@@ -5973,7 +6333,7 @@
     "source_id": "src-096",
     "category": "kultura",
     "published_at": "2026-05-11T08:00:16+00:00",
-    "fetched_at": "2026-05-18T09:29:52.040771+00:00"
+    "fetched_at": "2026-05-18T09:47:52.778714+00:00"
   },
   {
     "id": "1aabd94abbd495b2",
@@ -5985,7 +6345,7 @@
     "source_id": "src-118",
     "category": "dizajn",
     "published_at": "2026-05-11T07:30:00+00:00",
-    "fetched_at": "2026-05-18T09:30:07.953874+00:00"
+    "fetched_at": "2026-05-18T09:48:08.677540+00:00"
   },
   {
     "id": "bbc8e8c9254e3555",
@@ -5997,7 +6357,7 @@
     "source_id": "src-059",
     "category": "trzista",
     "published_at": "2026-05-11T07:29:58+00:00",
-    "fetched_at": "2026-05-18T09:29:42.374765+00:00"
+    "fetched_at": "2026-05-18T09:47:42.983315+00:00"
   },
   {
     "id": "1cd088905798948a",
@@ -6009,7 +6369,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-11T06:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:44.794757+00:00"
+    "fetched_at": "2026-05-18T09:47:45.634603+00:00"
   },
   {
     "id": "d5598022f97625ee",
@@ -6037,7 +6397,7 @@
     "source_id": "src-019",
     "category": "ekonomija",
     "published_at": "2026-05-11T04:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.087331+00:00"
+    "fetched_at": "2026-05-18T09:47:02.738855+00:00"
   },
   {
     "id": "0c263653ad59c910",
@@ -6081,7 +6441,7 @@
     "source_id": "src-019",
     "category": "ekonomija",
     "published_at": "2026-05-10T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.087375+00:00"
+    "fetched_at": "2026-05-18T09:47:02.738903+00:00"
   },
   {
     "id": "daf85205d215b7ba",
@@ -6141,7 +6501,7 @@
     "source_id": "src-118",
     "category": "dizajn",
     "published_at": "2026-05-10T04:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:07.953949+00:00"
+    "fetched_at": "2026-05-18T09:48:08.677621+00:00"
   },
   {
     "id": "a7221307a2a97ae6",
@@ -6153,7 +6513,7 @@
     "source_id": "src-118",
     "category": "dizajn",
     "published_at": "2026-05-09T08:22:11+00:00",
-    "fetched_at": "2026-05-18T09:30:07.954009+00:00"
+    "fetched_at": "2026-05-18T09:48:08.677688+00:00"
   },
   {
     "id": "c965c3e0e16f7aa0",
@@ -6213,7 +6573,7 @@
     "source_id": "src-020",
     "category": "ekonomija",
     "published_at": "2026-05-08T21:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.157714+00:00"
+    "fetched_at": "2026-05-18T09:47:02.815611+00:00"
   },
   {
     "id": "4ab3b28716b11f2f",
@@ -6225,7 +6585,7 @@
     "source_id": "src-058",
     "category": "trzista",
     "published_at": "2026-05-08T20:38:31+00:00",
-    "fetched_at": "2026-05-18T09:29:42.257476+00:00"
+    "fetched_at": "2026-05-18T09:47:42.916874+00:00"
   },
   {
     "id": "d965d09e3932565d",
@@ -6237,7 +6597,7 @@
     "source_id": "src-128",
     "category": "lifestyle",
     "published_at": "2026-05-08T20:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:09.458348+00:00"
+    "fetched_at": "2026-05-18T09:48:11.021686+00:00"
   },
   {
     "id": "882ccc4936c3fb98",
@@ -6265,7 +6625,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-08T18:00:01+00:00",
-    "fetched_at": "2026-05-18T09:29:44.579378+00:00"
+    "fetched_at": "2026-05-18T09:47:45.401402+00:00"
   },
   {
     "id": "ddd292f0da38c604",
@@ -6277,7 +6637,7 @@
     "source_id": "src-128",
     "category": "lifestyle",
     "published_at": "2026-05-08T18:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:09.458464+00:00"
+    "fetched_at": "2026-05-18T09:48:11.021798+00:00"
   },
   {
     "id": "43695768eb91a56b",
@@ -6289,7 +6649,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-08T17:28:01+00:00",
-    "fetched_at": "2026-05-18T09:28:57.475713+00:00"
+    "fetched_at": "2026-05-18T09:46:55.507538+00:00"
   },
   {
     "id": "73c340bd21d385c7",
@@ -6301,7 +6661,7 @@
     "source_id": "src-096",
     "category": "kultura",
     "published_at": "2026-05-08T16:25:58+00:00",
-    "fetched_at": "2026-05-18T09:29:52.040831+00:00"
+    "fetched_at": "2026-05-18T09:47:52.778777+00:00"
   },
   {
     "id": "d60a22baaf023e0e",
@@ -6345,7 +6705,7 @@
     "source_id": "src-059",
     "category": "trzista",
     "published_at": "2026-05-08T15:33:25+00:00",
-    "fetched_at": "2026-05-18T09:29:42.374817+00:00"
+    "fetched_at": "2026-05-18T09:47:42.983376+00:00"
   },
   {
     "id": "72dfb8d96c9b43f2",
@@ -6357,7 +6717,7 @@
     "source_id": "src-122",
     "category": "lifestyle",
     "published_at": "2026-05-08T15:11:52+00:00",
-    "fetched_at": "2026-05-18T09:30:08.561533+00:00"
+    "fetched_at": "2026-05-18T09:48:09.461437+00:00"
   },
   {
     "id": "5aa66da5513a63ed",
@@ -6385,7 +6745,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-08T15:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:44.794822+00:00"
+    "fetched_at": "2026-05-18T09:47:45.634659+00:00"
   },
   {
     "id": "52a5cfc1f116ae90",
@@ -6413,7 +6773,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-08T13:50:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.348667+00:00"
+    "fetched_at": "2026-05-18T09:47:49.909870+00:00"
   },
   {
     "id": "9408673ee1f0ed3d",
@@ -6425,7 +6785,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-08T13:36:36+00:00",
-    "fetched_at": "2026-05-18T09:29:49.592816+00:00"
+    "fetched_at": "2026-05-18T09:47:50.141612+00:00"
   },
   {
     "id": "810da69fb5ec3d72",
@@ -6437,7 +6797,7 @@
     "source_id": "src-138",
     "category": "ekonomija",
     "published_at": "2026-05-08T13:23:48+00:00",
-    "fetched_at": "2026-05-18T09:30:11.569956+00:00"
+    "fetched_at": "2026-05-18T09:48:13.707207+00:00"
   },
   {
     "id": "b1093363681fe2ca",
@@ -6449,7 +6809,7 @@
     "source_id": "extra-bloomberg-hr-001",
     "category": "poslovanje",
     "published_at": "2026-05-08T13:18:58+00:00",
-    "fetched_at": "2026-05-18T09:30:25.951879+00:00"
+    "fetched_at": "2026-05-18T09:48:31.994791+00:00"
   },
   {
     "id": "7deadad89427f305",
@@ -6461,7 +6821,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-08T13:18:15+00:00",
-    "fetched_at": "2026-05-18T09:29:49.592884+00:00"
+    "fetched_at": "2026-05-18T09:47:50.141680+00:00"
   },
   {
     "id": "0e228fa4bfbf3349",
@@ -6473,7 +6833,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-08T13:07:00+00:00",
-    "fetched_at": "2026-05-18T09:29:47.562830+00:00"
+    "fetched_at": "2026-05-18T09:47:48.157969+00:00"
   },
   {
     "id": "c5a31237de6dcfe3",
@@ -6485,7 +6845,7 @@
     "source_id": "src-122",
     "category": "lifestyle",
     "published_at": "2026-05-08T11:08:00+00:00",
-    "fetched_at": "2026-05-18T09:30:08.561582+00:00"
+    "fetched_at": "2026-05-18T09:48:09.461492+00:00"
   },
   {
     "id": "a8133c116249ba78",
@@ -6497,7 +6857,7 @@
     "source_id": "src-030",
     "category": "ekonomija",
     "published_at": "2026-05-08T11:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.467203+00:00"
+    "fetched_at": "2026-05-18T09:47:06.949242+00:00"
   },
   {
     "id": "3148a5857b67168f",
@@ -6573,7 +6933,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-08T09:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:47.562894+00:00"
+    "fetched_at": "2026-05-18T09:47:48.158034+00:00"
   },
   {
     "id": "02efa3383167f565",
@@ -6585,7 +6945,7 @@
     "source_id": "src-059",
     "category": "trzista",
     "published_at": "2026-05-08T07:24:59+00:00",
-    "fetched_at": "2026-05-18T09:29:42.374864+00:00"
+    "fetched_at": "2026-05-18T09:47:42.983430+00:00"
   },
   {
     "id": "c8fb765747e37818",
@@ -6597,7 +6957,7 @@
     "source_id": "src-118",
     "category": "dizajn",
     "published_at": "2026-05-08T07:16:53+00:00",
-    "fetched_at": "2026-05-18T09:30:07.954067+00:00"
+    "fetched_at": "2026-05-18T09:48:08.677751+00:00"
   },
   {
     "id": "291f7319b5c6109d",
@@ -6609,7 +6969,7 @@
     "source_id": "src-019",
     "category": "ekonomija",
     "published_at": "2026-05-08T07:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.087415+00:00"
+    "fetched_at": "2026-05-18T09:47:02.738950+00:00"
   },
   {
     "id": "9007d1b7a330c074",
@@ -6621,7 +6981,7 @@
     "source_id": "src-059",
     "category": "trzista",
     "published_at": "2026-05-08T07:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:42.374915+00:00"
+    "fetched_at": "2026-05-18T09:47:42.983490+00:00"
   },
   {
     "id": "114798d2ac594766",
@@ -6649,7 +7009,7 @@
     "source_id": "extra-pets-004",
     "category": "lifestyle",
     "published_at": "2026-05-07T22:46:53+00:00",
-    "fetched_at": "2026-05-18T09:30:47.108512+00:00"
+    "fetched_at": "2026-05-18T09:48:59.597832+00:00"
   },
   {
     "id": "05b9585aa0cd4dca",
@@ -6661,7 +7021,7 @@
     "source_id": "extra-pets-003",
     "category": "lifestyle",
     "published_at": "2026-05-07T22:28:52+00:00",
-    "fetched_at": "2026-05-18T09:30:45.356459+00:00"
+    "fetched_at": "2026-05-18T09:48:57.930453+00:00"
   },
   {
     "id": "0ee4f41ac887965d",
@@ -6689,7 +7049,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-07T20:15:12+00:00",
-    "fetched_at": "2026-05-18T09:29:45.808940+00:00"
+    "fetched_at": "2026-05-18T09:47:46.471202+00:00"
   },
   {
     "id": "77c16f8ddca31d09",
@@ -6701,7 +7061,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-07T19:54:33+00:00",
-    "fetched_at": "2026-05-18T09:28:57.475772+00:00"
+    "fetched_at": "2026-05-18T09:46:55.507602+00:00"
   },
   {
     "id": "a850174467687804",
@@ -6713,7 +7073,7 @@
     "source_id": "src-019",
     "category": "ekonomija",
     "published_at": "2026-05-07T17:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.087453+00:00"
+    "fetched_at": "2026-05-18T09:47:02.738994+00:00"
   },
   {
     "id": "2a6ef3a613e15d4f",
@@ -6725,7 +7085,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-07T16:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:47.562966+00:00"
+    "fetched_at": "2026-05-18T09:47:48.158111+00:00"
   },
   {
     "id": "5d8f878ec2a44c54",
@@ -6737,7 +7097,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-07T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.009580+00:00"
+    "fetched_at": "2026-05-18T09:47:49.164615+00:00"
   },
   {
     "id": "5ba079f610ddf661",
@@ -6749,7 +7109,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-07T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.009906+00:00"
+    "fetched_at": "2026-05-18T09:47:49.164790+00:00"
   },
   {
     "id": "f8564e4300385b2f",
@@ -6761,7 +7121,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-07T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.010012+00:00"
+    "fetched_at": "2026-05-18T09:47:49.164889+00:00"
   },
   {
     "id": "0aeddccea722cc77",
@@ -6773,7 +7133,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-07T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.010237+00:00"
+    "fetched_at": "2026-05-18T09:47:49.165075+00:00"
   },
   {
     "id": "4754435380876865",
@@ -6785,7 +7145,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-07T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.010380+00:00"
+    "fetched_at": "2026-05-18T09:47:49.165211+00:00"
   },
   {
     "id": "c63964285d8f72dd",
@@ -6813,7 +7173,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-07T13:02:57+00:00",
-    "fetched_at": "2026-05-18T09:29:49.592962+00:00"
+    "fetched_at": "2026-05-18T09:47:50.141758+00:00"
   },
   {
     "id": "daa98a4ef341f4f9",
@@ -6825,7 +7185,7 @@
     "source_id": "src-029",
     "category": "ekonomija",
     "published_at": "2026-05-07T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.055924+00:00"
+    "fetched_at": "2026-05-18T09:47:06.695585+00:00"
   },
   {
     "id": "2d30a095857113ad",
@@ -6837,7 +7197,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-07T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:44.580841+00:00"
+    "fetched_at": "2026-05-18T09:47:45.402716+00:00"
   },
   {
     "id": "21b116d3240028a2",
@@ -6849,7 +7209,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-07T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:45.809000+00:00"
+    "fetched_at": "2026-05-18T09:47:46.471265+00:00"
   },
   {
     "id": "6a4f93d31521f70c",
@@ -6861,7 +7221,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-05-07T11:00:58+00:00",
-    "fetched_at": "2026-05-18T09:28:55.966582+00:00"
+    "fetched_at": "2026-05-18T09:46:53.640912+00:00"
   },
   {
     "id": "100bc406929b1935",
@@ -6873,7 +7233,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-07T09:59:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.348776+00:00"
+    "fetched_at": "2026-05-18T09:47:49.909953+00:00"
   },
   {
     "id": "271f0572d96769ea",
@@ -6885,7 +7245,7 @@
     "source_id": "src-138",
     "category": "ekonomija",
     "published_at": "2026-05-07T09:29:10+00:00",
-    "fetched_at": "2026-05-18T09:30:11.570042+00:00"
+    "fetched_at": "2026-05-18T09:48:13.707305+00:00"
   },
   {
     "id": "41e08018330da002",
@@ -6937,7 +7297,7 @@
     "source_id": "src-059",
     "category": "trzista",
     "published_at": "2026-05-07T07:50:45+00:00",
-    "fetched_at": "2026-05-18T09:29:42.374966+00:00"
+    "fetched_at": "2026-05-18T09:47:42.983545+00:00"
   },
   {
     "id": "30ecb7a580d491c3",
@@ -6949,7 +7309,7 @@
     "source_id": "src-019",
     "category": "ekonomija",
     "published_at": "2026-05-07T07:15:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.087507+00:00"
+    "fetched_at": "2026-05-18T09:47:02.739050+00:00"
   },
   {
     "id": "848a0d58a2c6d5dc",
@@ -6961,7 +7321,7 @@
     "source_id": "src-019",
     "category": "ekonomija",
     "published_at": "2026-05-07T06:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.087550+00:00"
+    "fetched_at": "2026-05-18T09:47:02.739097+00:00"
   },
   {
     "id": "1271a86cbc60c40b",
@@ -7005,7 +7365,7 @@
     "source_id": "src-118",
     "category": "dizajn",
     "published_at": "2026-05-07T04:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:07.954144+00:00"
+    "fetched_at": "2026-05-18T09:48:08.677829+00:00"
   },
   {
     "id": "2d082f0359123586",
@@ -7033,7 +7393,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-06T20:30:04+00:00",
-    "fetched_at": "2026-05-18T09:28:57.475826+00:00"
+    "fetched_at": "2026-05-18T09:46:55.507661+00:00"
   },
   {
     "id": "e9ef3adce9a937f7",
@@ -7045,7 +7405,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-06T20:24:58+00:00",
-    "fetched_at": "2026-05-18T09:28:57.475885+00:00"
+    "fetched_at": "2026-05-18T09:46:55.507727+00:00"
   },
   {
     "id": "b367f85d965779cf",
@@ -7073,7 +7433,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-06T18:00:01+00:00",
-    "fetched_at": "2026-05-18T09:29:44.581236+00:00"
+    "fetched_at": "2026-05-18T09:47:45.403075+00:00"
   },
   {
     "id": "e9586da5f59dcea0",
@@ -7101,7 +7461,7 @@
     "source_id": "src-162",
     "category": "nakit",
     "published_at": "2026-05-06T17:23:14+00:00",
-    "fetched_at": "2026-05-18T09:30:19.635934+00:00"
+    "fetched_at": "2026-05-18T09:48:25.808302+00:00"
   },
   {
     "id": "e7b039e0a6a49b3b",
@@ -7113,7 +7473,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-06T17:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:45.809049+00:00"
+    "fetched_at": "2026-05-18T09:47:46.471330+00:00"
   },
   {
     "id": "5386701d52a9be0d",
@@ -7141,7 +7501,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-06T16:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:44.794869+00:00"
+    "fetched_at": "2026-05-18T09:47:45.634704+00:00"
   },
   {
     "id": "3066dd26231e8b93",
@@ -7153,7 +7513,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-06T15:57:04+00:00",
-    "fetched_at": "2026-05-18T09:29:49.593040+00:00"
+    "fetched_at": "2026-05-18T09:47:50.141842+00:00"
   },
   {
     "id": "1832eabe2c56bf9e",
@@ -7165,7 +7525,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-05-06T15:36:44+00:00",
-    "fetched_at": "2026-05-18T09:29:45.453549+00:00"
+    "fetched_at": "2026-05-18T09:47:46.182452+00:00"
   },
   {
     "id": "464e2f521c69d25f",
@@ -7177,7 +7537,7 @@
     "source_id": "src-030",
     "category": "ekonomija",
     "published_at": "2026-05-06T15:30:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.467321+00:00"
+    "fetched_at": "2026-05-18T09:47:06.949368+00:00"
   },
   {
     "id": "8690e38a22bfc9a5",
@@ -7189,7 +7549,7 @@
     "source_id": "src-028",
     "category": "ekonomija",
     "published_at": "2026-05-06T14:53:09+00:00",
-    "fetched_at": "2026-05-18T09:29:07.952517+00:00"
+    "fetched_at": "2026-05-18T09:47:06.383562+00:00"
   },
   {
     "id": "7a4de4eceaf08617",
@@ -7201,7 +7561,7 @@
     "source_id": "src-028",
     "category": "ekonomija",
     "published_at": "2026-05-06T14:52:32+00:00",
-    "fetched_at": "2026-05-18T09:29:07.952963+00:00"
+    "fetched_at": "2026-05-18T09:47:06.383945+00:00"
   },
   {
     "id": "e020ea561000b30f",
@@ -7213,7 +7573,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-06T14:13:16+00:00",
-    "fetched_at": "2026-05-18T09:29:49.593099+00:00"
+    "fetched_at": "2026-05-18T09:47:50.141907+00:00"
   },
   {
     "id": "2e3f6932bbd195d1",
@@ -7449,7 +7809,7 @@
     "source_id": "extra-pets-003",
     "category": "lifestyle",
     "published_at": "2026-05-06T13:42:21+00:00",
-    "fetched_at": "2026-05-18T09:30:45.356579+00:00"
+    "fetched_at": "2026-05-18T09:48:57.930572+00:00"
   },
   {
     "id": "7446367e3225d168",
@@ -7461,7 +7821,7 @@
     "source_id": "extra-pets-004",
     "category": "lifestyle",
     "published_at": "2026-05-06T11:06:02+00:00",
-    "fetched_at": "2026-05-18T09:30:47.108629+00:00"
+    "fetched_at": "2026-05-18T09:48:59.597945+00:00"
   },
   {
     "id": "ffdd47186454584a",
@@ -7473,7 +7833,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-05-06T11:00:43+00:00",
-    "fetched_at": "2026-05-18T09:28:55.966658+00:00"
+    "fetched_at": "2026-05-18T09:46:53.640990+00:00"
   },
   {
     "id": "9b80e32e486c8205",
@@ -7501,7 +7861,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-06T10:06:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.348827+00:00"
+    "fetched_at": "2026-05-18T09:47:49.910007+00:00"
   },
   {
     "id": "184e49a834bda2a3",
@@ -7513,7 +7873,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-06T10:00:02+00:00",
-    "fetched_at": "2026-05-18T09:29:44.581341+00:00"
+    "fetched_at": "2026-05-18T09:47:45.403175+00:00"
   },
   {
     "id": "73bc56f9bb08753e",
@@ -7525,7 +7885,7 @@
     "source_id": "src-138",
     "category": "ekonomija",
     "published_at": "2026-05-06T09:31:19+00:00",
-    "fetched_at": "2026-05-18T09:30:11.570130+00:00"
+    "fetched_at": "2026-05-18T09:48:13.707394+00:00"
   },
   {
     "id": "c64848f3e14e17c6",
@@ -7553,7 +7913,7 @@
     "source_id": "src-019",
     "category": "ekonomija",
     "published_at": "2026-05-06T08:20:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.087589+00:00"
+    "fetched_at": "2026-05-18T09:47:02.739141+00:00"
   },
   {
     "id": "235094926994d5d7",
@@ -7581,7 +7941,7 @@
     "source_id": "src-019",
     "category": "ekonomija",
     "published_at": "2026-05-06T08:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.087630+00:00"
+    "fetched_at": "2026-05-18T09:47:02.739185+00:00"
   },
   {
     "id": "65e5bf346b56faae",
@@ -7609,7 +7969,7 @@
     "source_id": "extra-bloomberg-hr-001",
     "category": "poslovanje",
     "published_at": "2026-05-06T07:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:25.952074+00:00"
+    "fetched_at": "2026-05-18T09:48:31.995003+00:00"
   },
   {
     "id": "c919e4104f812339",
@@ -7665,7 +8025,7 @@
     "source_id": "extra-pets-003",
     "category": "lifestyle",
     "published_at": "2026-05-05T19:40:20+00:00",
-    "fetched_at": "2026-05-18T09:30:45.356779+00:00"
+    "fetched_at": "2026-05-18T09:48:57.930728+00:00"
   },
   {
     "id": "c407098f1767d5c4",
@@ -7677,7 +8037,7 @@
     "source_id": "extra-pets-004",
     "category": "lifestyle",
     "published_at": "2026-05-05T19:23:58+00:00",
-    "fetched_at": "2026-05-18T09:30:47.108774+00:00"
+    "fetched_at": "2026-05-18T09:48:59.598069+00:00"
   },
   {
     "id": "e299cbd8d9994eec",
@@ -7689,7 +8049,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-05-05T17:23:40+00:00",
-    "fetched_at": "2026-05-18T09:29:45.453605+00:00"
+    "fetched_at": "2026-05-18T09:47:46.182512+00:00"
   },
   {
     "id": "6997bac061cbeb13",
@@ -7717,7 +8077,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-05T16:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:44.794914+00:00"
+    "fetched_at": "2026-05-18T09:47:45.634750+00:00"
   },
   {
     "id": "96d403074d80609a",
@@ -7729,7 +8089,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-05T15:45:33+00:00",
-    "fetched_at": "2026-05-18T09:29:44.581544+00:00"
+    "fetched_at": "2026-05-18T09:47:45.403374+00:00"
   },
   {
     "id": "c12bffe444d21f23",
@@ -7741,7 +8101,7 @@
     "source_id": "src-019",
     "category": "ekonomija",
     "published_at": "2026-05-05T15:40:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.087668+00:00"
+    "fetched_at": "2026-05-18T09:47:02.739229+00:00"
   },
   {
     "id": "3453cfe586305624",
@@ -7753,7 +8113,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-05T14:19:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.348875+00:00"
+    "fetched_at": "2026-05-18T09:47:49.910057+00:00"
   },
   {
     "id": "7b9e70b5719c094c",
@@ -7797,7 +8157,7 @@
     "source_id": "src-138",
     "category": "ekonomija",
     "published_at": "2026-05-05T12:02:09+00:00",
-    "fetched_at": "2026-05-18T09:30:11.570218+00:00"
+    "fetched_at": "2026-05-18T09:48:13.707480+00:00"
   },
   {
     "id": "f2b996d466f3a12b",
@@ -7809,7 +8169,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-05-05T11:00:47+00:00",
-    "fetched_at": "2026-05-18T09:28:55.966758+00:00"
+    "fetched_at": "2026-05-18T09:46:53.641069+00:00"
   },
   {
     "id": "5e89fa9a155bd525",
@@ -7837,7 +8197,7 @@
     "source_id": "src-162",
     "category": "nakit",
     "published_at": "2026-05-05T10:57:27+00:00",
-    "fetched_at": "2026-05-18T09:30:19.636046+00:00"
+    "fetched_at": "2026-05-18T09:48:25.808405+00:00"
   },
   {
     "id": "ea627758f7f533de",
@@ -7849,7 +8209,7 @@
     "source_id": "src-073",
     "category": "tehnologija",
     "published_at": "2026-05-05T10:00:01+00:00",
-    "fetched_at": "2026-05-18T09:29:45.288603+00:00"
+    "fetched_at": "2026-05-18T09:47:45.991605+00:00"
   },
   {
     "id": "dc1b822773d836c9",
@@ -7893,7 +8253,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-05T07:55:20+00:00",
-    "fetched_at": "2026-05-18T09:29:49.593183+00:00"
+    "fetched_at": "2026-05-18T09:47:50.141992+00:00"
   },
   {
     "id": "2a746d8df3a0f55e",
@@ -7905,7 +8265,7 @@
     "source_id": "extra-pets-003",
     "category": "lifestyle",
     "published_at": "2026-05-04T20:06:31+00:00",
-    "fetched_at": "2026-05-18T09:30:45.356909+00:00"
+    "fetched_at": "2026-05-18T09:48:57.930843+00:00"
   },
   {
     "id": "a256ebd21d478abe",
@@ -7917,7 +8277,7 @@
     "source_id": "extra-pets-004",
     "category": "lifestyle",
     "published_at": "2026-05-04T19:52:31+00:00",
-    "fetched_at": "2026-05-18T09:30:47.108887+00:00"
+    "fetched_at": "2026-05-18T09:48:59.598177+00:00"
   },
   {
     "id": "16a20c2d50847611",
@@ -7929,7 +8289,7 @@
     "source_id": "extra-pets-003",
     "category": "lifestyle",
     "published_at": "2026-05-04T19:48:13+00:00",
-    "fetched_at": "2026-05-18T09:30:45.357014+00:00"
+    "fetched_at": "2026-05-18T09:48:57.930946+00:00"
   },
   {
     "id": "9a9bae169cce86b4",
@@ -7957,7 +8317,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-05-04T17:05:41+00:00",
-    "fetched_at": "2026-05-18T09:29:45.453698+00:00"
+    "fetched_at": "2026-05-18T09:47:46.182614+00:00"
   },
   {
     "id": "4d3c4343934e34e0",
@@ -7969,7 +8329,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-04T17:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:44.794954+00:00"
+    "fetched_at": "2026-05-18T09:47:45.634793+00:00"
   },
   {
     "id": "d57873920b3cb10e",
@@ -8013,7 +8373,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-04T15:30:00+00:00",
-    "fetched_at": "2026-05-18T09:29:44.794994+00:00"
+    "fetched_at": "2026-05-18T09:47:45.634837+00:00"
   },
   {
     "id": "af527c2a6b655503",
@@ -8025,7 +8385,7 @@
     "source_id": "src-029",
     "category": "ekonomija",
     "published_at": "2026-05-04T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.055990+00:00"
+    "fetched_at": "2026-05-18T09:47:06.695655+00:00"
   },
   {
     "id": "777fc079b5f143d4",
@@ -8037,7 +8397,7 @@
     "source_id": "src-129",
     "category": "lifestyle",
     "published_at": "2026-05-04T12:00:08+00:00",
-    "fetched_at": "2026-05-18T09:30:09.708052+00:00"
+    "fetched_at": "2026-05-18T09:48:11.329092+00:00"
   },
   {
     "id": "4d5caf08f43ca27b",
@@ -8065,7 +8425,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-05-04T11:00:55+00:00",
-    "fetched_at": "2026-05-18T09:28:55.966862+00:00"
+    "fetched_at": "2026-05-18T09:46:53.641172+00:00"
   },
   {
     "id": "7d21c201e2cc77f2",
@@ -8077,7 +8437,7 @@
     "source_id": "src-030",
     "category": "ekonomija",
     "published_at": "2026-05-04T11:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.467396+00:00"
+    "fetched_at": "2026-05-18T09:47:06.949449+00:00"
   },
   {
     "id": "978e002bcd025e81",
@@ -8105,7 +8465,7 @@
     "source_id": "src-057",
     "category": "trzista",
     "published_at": "2026-05-04T04:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:42.077609+00:00"
+    "fetched_at": "2026-05-18T09:47:42.718711+00:00"
   },
   {
     "id": "a33e6ab6efbf35ce",
@@ -8165,7 +8525,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-01T21:07:30+00:00",
-    "fetched_at": "2026-05-18T09:29:45.809185+00:00"
+    "fetched_at": "2026-05-18T09:47:46.471459+00:00"
   },
   {
     "id": "3536f1b30d38965e",
@@ -8177,7 +8537,7 @@
     "source_id": "extra-pets-003",
     "category": "lifestyle",
     "published_at": "2026-05-01T18:05:59+00:00",
-    "fetched_at": "2026-05-18T09:30:45.357133+00:00"
+    "fetched_at": "2026-05-18T09:48:57.931053+00:00"
   },
   {
     "id": "cd8a74017d0c60db",
@@ -8189,7 +8549,7 @@
     "source_id": "extra-pets-004",
     "category": "lifestyle",
     "published_at": "2026-05-01T17:55:01+00:00",
-    "fetched_at": "2026-05-18T09:30:47.109100+00:00"
+    "fetched_at": "2026-05-18T09:48:59.598369+00:00"
   },
   {
     "id": "53f74b87cb1ce77f",
@@ -8201,7 +8561,7 @@
     "source_id": "src-125",
     "category": "lifestyle",
     "published_at": "2026-05-01T17:00:32+00:00",
-    "fetched_at": "2026-05-18T09:30:09.112865+00:00"
+    "fetched_at": "2026-05-18T09:48:10.318666+00:00"
   },
   {
     "id": "185dc33a3c214ca8",
@@ -8213,7 +8573,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-01T15:28:36+00:00",
-    "fetched_at": "2026-05-18T09:29:49.593271+00:00"
+    "fetched_at": "2026-05-18T09:47:50.142081+00:00"
   },
   {
     "id": "422186a1023ed64a",
@@ -8225,7 +8585,7 @@
     "source_id": "src-020",
     "category": "ekonomija",
     "published_at": "2026-05-01T15:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.157756+00:00"
+    "fetched_at": "2026-05-18T09:47:02.815655+00:00"
   },
   {
     "id": "4b7c4d1406b2c166",
@@ -8237,7 +8597,7 @@
     "source_id": "src-030",
     "category": "ekonomija",
     "published_at": "2026-05-01T14:01:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.467506+00:00"
+    "fetched_at": "2026-05-18T09:47:06.949555+00:00"
   },
   {
     "id": "b24c3de79df75b83",
@@ -8249,7 +8609,7 @@
     "source_id": "src-030",
     "category": "ekonomija",
     "published_at": "2026-05-01T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.467605+00:00"
+    "fetched_at": "2026-05-18T09:47:06.949651+00:00"
   },
   {
     "id": "0a0bc5ee8203b4d5",
@@ -8261,7 +8621,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-01T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:45.809236+00:00"
+    "fetched_at": "2026-05-18T09:47:46.471512+00:00"
   },
   {
     "id": "a8d0b27d73b55980",
@@ -8273,7 +8633,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-01T12:17:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.348922+00:00"
+    "fetched_at": "2026-05-18T09:47:49.910107+00:00"
   },
   {
     "id": "bba76b2d52b40864",
@@ -8285,7 +8645,7 @@
     "source_id": "src-138",
     "category": "ekonomija",
     "published_at": "2026-05-01T10:36:23+00:00",
-    "fetched_at": "2026-05-18T09:30:11.570308+00:00"
+    "fetched_at": "2026-05-18T09:48:13.707572+00:00"
   },
   {
     "id": "e429d46384dba684",
@@ -8329,7 +8689,7 @@
     "source_id": "extra-pets-003",
     "category": "lifestyle",
     "published_at": "2026-04-30T19:20:32+00:00",
-    "fetched_at": "2026-05-18T09:30:45.357246+00:00"
+    "fetched_at": "2026-05-18T09:48:57.931158+00:00"
   },
   {
     "id": "84304957ad2a6cc8",
@@ -8357,7 +8717,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-04-30T15:37:28+00:00",
-    "fetched_at": "2026-05-18T09:29:49.593348+00:00"
+    "fetched_at": "2026-05-18T09:47:50.142159+00:00"
   },
   {
     "id": "dc30460732216955",
@@ -8369,7 +8729,7 @@
     "source_id": "src-125",
     "category": "lifestyle",
     "published_at": "2026-04-30T15:00:45+00:00",
-    "fetched_at": "2026-05-18T09:30:09.112938+00:00"
+    "fetched_at": "2026-05-18T09:48:10.318735+00:00"
   },
   {
     "id": "65bad520b8b39704",
@@ -8381,7 +8741,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-04-30T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:45.809285+00:00"
+    "fetched_at": "2026-05-18T09:47:46.471564+00:00"
   },
   {
     "id": "a7f53459c7999928",
@@ -8409,7 +8769,7 @@
     "source_id": "src-029",
     "category": "ekonomija",
     "published_at": "2026-04-30T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.056063+00:00"
+    "fetched_at": "2026-05-18T09:47:06.695729+00:00"
   },
   {
     "id": "42405a1235554afd",
@@ -8421,7 +8781,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-04-30T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:45.809346+00:00"
+    "fetched_at": "2026-05-18T09:47:46.471626+00:00"
   },
   {
     "id": "e8ba787f888995a4",
@@ -8449,7 +8809,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-04-30T11:00:06+00:00",
-    "fetched_at": "2026-05-18T09:28:55.966938+00:00"
+    "fetched_at": "2026-05-18T09:46:53.641245+00:00"
   },
   {
     "id": "9374a76d8a275427",
@@ -8477,7 +8837,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-04-30T09:07:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.348975+00:00"
+    "fetched_at": "2026-05-18T09:47:49.910166+00:00"
   },
   {
     "id": "d4c2ac3747e02649",
@@ -8505,7 +8865,7 @@
     "source_id": "src-020",
     "category": "ekonomija",
     "published_at": "2026-04-29T18:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.157796+00:00"
+    "fetched_at": "2026-05-18T09:47:02.815702+00:00"
   },
   {
     "id": "d250c7bb3c3ab107",
@@ -8565,7 +8925,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-04-29T11:00:36+00:00",
-    "fetched_at": "2026-05-18T09:28:55.967048+00:00"
+    "fetched_at": "2026-05-18T09:46:53.641371+00:00"
   },
   {
     "id": "0365a848b6f1ff3b",
@@ -8577,7 +8937,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-04-29T08:57:00+00:00",
-    "fetched_at": "2026-05-18T09:29:49.349025+00:00"
+    "fetched_at": "2026-05-18T09:47:49.910220+00:00"
   },
   {
     "id": "26f5138fff4d1a71",
@@ -8605,7 +8965,7 @@
     "source_id": "src-057",
     "category": "trzista",
     "published_at": "2026-04-29T04:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:42.077663+00:00"
+    "fetched_at": "2026-05-18T09:47:42.718762+00:00"
   },
   {
     "id": "35bb9b84276334e8",
@@ -8617,7 +8977,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-04-28T18:11:39+00:00",
-    "fetched_at": "2026-05-18T09:29:45.453773+00:00"
+    "fetched_at": "2026-05-18T09:47:46.182689+00:00"
   },
   {
     "id": "4f53389022f6bee5",
@@ -8661,7 +9021,7 @@
     "source_id": "src-073",
     "category": "tehnologija",
     "published_at": "2026-04-28T17:34:47+00:00",
-    "fetched_at": "2026-05-18T09:29:45.288716+00:00"
+    "fetched_at": "2026-05-18T09:47:45.991696+00:00"
   },
   {
     "id": "c076edccb35c8b97",
@@ -8673,7 +9033,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-04-28T16:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:44.795036+00:00"
+    "fetched_at": "2026-05-18T09:47:45.634879+00:00"
   },
   {
     "id": "77f882a4cdf85cb3",
@@ -8717,7 +9077,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-04-28T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:45.809396+00:00"
+    "fetched_at": "2026-05-18T09:47:46.471679+00:00"
   },
   {
     "id": "e10646e6e72681ea",
@@ -8729,7 +9089,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-04-28T11:00:42+00:00",
-    "fetched_at": "2026-05-18T09:28:55.967121+00:00"
+    "fetched_at": "2026-05-18T09:46:53.641444+00:00"
   },
   {
     "id": "9702582e502df396",
@@ -8757,7 +9117,7 @@
     "source_id": "src-162",
     "category": "nakit",
     "published_at": "2026-04-28T09:34:12+00:00",
-    "fetched_at": "2026-05-18T09:30:19.636135+00:00"
+    "fetched_at": "2026-05-18T09:48:25.808492+00:00"
   },
   {
     "id": "2c72d3d15adbd85a",
@@ -8785,7 +9145,7 @@
     "source_id": "src-073",
     "category": "tehnologija",
     "published_at": "2026-04-27T16:00:03+00:00",
-    "fetched_at": "2026-05-18T09:29:45.288799+00:00"
+    "fetched_at": "2026-05-18T09:47:45.991776+00:00"
   },
   {
     "id": "90922ab92527af74",
@@ -8813,7 +9173,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-04-27T15:01:28+00:00",
-    "fetched_at": "2026-05-18T09:29:45.453844+00:00"
+    "fetched_at": "2026-05-18T09:47:46.182760+00:00"
   },
   {
     "id": "7912eae92d36c53c",
@@ -8841,7 +9201,7 @@
     "source_id": "src-073",
     "category": "tehnologija",
     "published_at": "2026-04-27T13:00:02+00:00",
-    "fetched_at": "2026-05-18T09:29:45.288868+00:00"
+    "fetched_at": "2026-05-18T09:47:45.991847+00:00"
   },
   {
     "id": "f0dd60dce37a0b16",
@@ -8869,7 +9229,7 @@
     "source_id": "src-029",
     "category": "ekonomija",
     "published_at": "2026-04-27T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.056137+00:00"
+    "fetched_at": "2026-05-18T09:47:06.695808+00:00"
   },
   {
     "id": "faca0c75fcd600bb",
@@ -8881,7 +9241,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-04-27T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:44.795074+00:00"
+    "fetched_at": "2026-05-18T09:47:45.634922+00:00"
   },
   {
     "id": "0f46964c0f5568ed",
@@ -8909,7 +9269,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-04-27T11:00:09+00:00",
-    "fetched_at": "2026-05-18T09:28:55.967187+00:00"
+    "fetched_at": "2026-05-18T09:46:53.641512+00:00"
   },
   {
     "id": "4db63fa6c8522531",
@@ -8921,7 +9281,7 @@
     "source_id": "src-129",
     "category": "lifestyle",
     "published_at": "2026-04-27T10:00:55+00:00",
-    "fetched_at": "2026-05-18T09:30:09.708128+00:00"
+    "fetched_at": "2026-05-18T09:48:11.329166+00:00"
   },
   {
     "id": "6724af15975e7199",
@@ -8949,7 +9309,7 @@
     "source_id": "src-020",
     "category": "ekonomija",
     "published_at": "2026-04-24T20:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:04.157839+00:00"
+    "fetched_at": "2026-05-18T09:47:02.815752+00:00"
   },
   {
     "id": "b22dc58429a02302",
@@ -8961,7 +9321,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-04-24T19:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:44.795110+00:00"
+    "fetched_at": "2026-05-18T09:47:45.634962+00:00"
   },
   {
     "id": "08b39bf56092d424",
@@ -9069,7 +9429,7 @@
     "source_id": "src-029",
     "category": "ekonomija",
     "published_at": "2026-04-23T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.056199+00:00"
+    "fetched_at": "2026-05-18T09:47:06.695877+00:00"
   },
   {
     "id": "70a2e4b04003596f",
@@ -9081,7 +9441,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-04-23T12:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:44.795159+00:00"
+    "fetched_at": "2026-05-18T09:47:45.635014+00:00"
   },
   {
     "id": "98db98d5d84372b6",
@@ -9093,7 +9453,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-04-23T09:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:44.795199+00:00"
+    "fetched_at": "2026-05-18T09:47:45.635056+00:00"
   },
   {
     "id": "77e7a469d2fb9873",
@@ -9153,7 +9513,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-04-22T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:45.809456+00:00"
+    "fetched_at": "2026-05-18T09:47:46.471743+00:00"
   },
   {
     "id": "cf324357847c3823",
@@ -9165,7 +9525,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-04-22T12:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:44.795235+00:00"
+    "fetched_at": "2026-05-18T09:47:45.635097+00:00"
   },
   {
     "id": "28e3adbd79c614a1",
@@ -9177,7 +9537,7 @@
     "source_id": "src-162",
     "category": "nakit",
     "published_at": "2026-04-22T07:13:56+00:00",
-    "fetched_at": "2026-05-18T09:30:19.636218+00:00"
+    "fetched_at": "2026-05-18T09:48:25.808576+00:00"
   },
   {
     "id": "2fedbcdc815b4a66",
@@ -9189,7 +9549,7 @@
     "source_id": "src-073",
     "category": "tehnologija",
     "published_at": "2026-04-21T17:00:03+00:00",
-    "fetched_at": "2026-05-18T09:29:45.288943+00:00"
+    "fetched_at": "2026-05-18T09:47:45.991927+00:00"
   },
   {
     "id": "f182f7c3904dc4f6",
@@ -9233,7 +9593,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-04-20T15:53:21+00:00",
-    "fetched_at": "2026-05-18T09:29:45.453902+00:00"
+    "fetched_at": "2026-05-18T09:47:46.182820+00:00"
   },
   {
     "id": "324770b08a3dfdc3",
@@ -9245,7 +9605,7 @@
     "source_id": "src-029",
     "category": "ekonomija",
     "published_at": "2026-04-20T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.056257+00:00"
+    "fetched_at": "2026-05-18T09:47:06.695939+00:00"
   },
   {
     "id": "2e193bf3761afb4a",
@@ -9273,7 +9633,7 @@
     "source_id": "src-090",
     "category": "znanost",
     "published_at": "2026-04-17T12:19:37+00:00",
-    "fetched_at": "2026-05-18T09:29:50.149723+00:00"
+    "fetched_at": "2026-05-18T09:47:50.720188+00:00"
   },
   {
     "id": "5cb689020d54dc1d",
@@ -9285,7 +9645,7 @@
     "source_id": "src-129",
     "category": "lifestyle",
     "published_at": "2026-04-17T09:00:39+00:00",
-    "fetched_at": "2026-05-18T09:30:09.708202+00:00"
+    "fetched_at": "2026-05-18T09:48:11.329238+00:00"
   },
   {
     "id": "41df6fa88d2d3398",
@@ -9329,7 +9689,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-04-16T14:49:33+00:00",
-    "fetched_at": "2026-05-18T09:29:45.454082+00:00"
+    "fetched_at": "2026-05-18T09:47:46.183065+00:00"
   },
   {
     "id": "6a9d0ea706df1251",
@@ -9341,7 +9701,7 @@
     "source_id": "src-030",
     "category": "ekonomija",
     "published_at": "2026-04-16T14:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.467669+00:00"
+    "fetched_at": "2026-05-18T09:47:06.949719+00:00"
   },
   {
     "id": "3332fd328ea6e5ef",
@@ -9353,7 +9713,7 @@
     "source_id": "src-029",
     "category": "ekonomija",
     "published_at": "2026-04-16T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.056318+00:00"
+    "fetched_at": "2026-05-18T09:47:06.696005+00:00"
   },
   {
     "id": "068827376a57bede",
@@ -9381,7 +9741,7 @@
     "source_id": "src-030",
     "category": "ekonomija",
     "published_at": "2026-04-15T11:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.467765+00:00"
+    "fetched_at": "2026-05-18T09:47:06.949802+00:00"
   },
   {
     "id": "3818a47d4a6d0640",
@@ -9393,7 +9753,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-04-14T23:54:47+00:00",
-    "fetched_at": "2026-05-18T09:29:45.454150+00:00"
+    "fetched_at": "2026-05-18T09:47:46.183138+00:00"
   },
   {
     "id": "55306f43ad6bbb3f",
@@ -9421,7 +9781,7 @@
     "source_id": "src-030",
     "category": "ekonomija",
     "published_at": "2026-04-14T14:30:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.467841+00:00"
+    "fetched_at": "2026-05-18T09:47:06.949882+00:00"
   },
   {
     "id": "cc518dbf75d16c67",
@@ -9465,7 +9825,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-04-13T16:16:20+00:00",
-    "fetched_at": "2026-05-18T09:29:45.454216+00:00"
+    "fetched_at": "2026-05-18T09:47:46.183206+00:00"
   },
   {
     "id": "aa6385bdb7a9cad0",
@@ -9493,7 +9853,7 @@
     "source_id": "src-029",
     "category": "ekonomija",
     "published_at": "2026-04-13T13:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.056373+00:00"
+    "fetched_at": "2026-05-18T09:47:06.696068+00:00"
   },
   {
     "id": "a66cf12cbf30f2c5",
@@ -9505,7 +9865,7 @@
     "source_id": "src-030",
     "category": "ekonomija",
     "published_at": "2026-04-13T11:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.467934+00:00"
+    "fetched_at": "2026-05-18T09:47:06.949976+00:00"
   },
   {
     "id": "9c4a8d2ad5e1da5f",
@@ -9517,7 +9877,7 @@
     "source_id": "src-129",
     "category": "lifestyle",
     "published_at": "2026-04-13T10:00:28+00:00",
-    "fetched_at": "2026-05-18T09:30:09.708271+00:00"
+    "fetched_at": "2026-05-18T09:48:11.329322+00:00"
   },
   {
     "id": "0977f822f8811aac",
@@ -9545,7 +9905,7 @@
     "source_id": "src-028",
     "category": "ekonomija",
     "published_at": "2026-04-10T09:07:58+00:00",
-    "fetched_at": "2026-05-18T09:29:07.953495+00:00"
+    "fetched_at": "2026-05-18T09:47:06.384434+00:00"
   },
   {
     "id": "7c65dbd8b9484479",
@@ -9557,7 +9917,7 @@
     "source_id": "src-162",
     "category": "nakit",
     "published_at": "2026-04-09T15:56:57+00:00",
-    "fetched_at": "2026-05-18T09:30:19.636309+00:00"
+    "fetched_at": "2026-05-18T09:48:25.808667+00:00"
   },
   {
     "id": "1689903f698638d4",
@@ -9585,7 +9945,7 @@
     "source_id": "src-090",
     "category": "znanost",
     "published_at": "2026-04-07T12:58:14+00:00",
-    "fetched_at": "2026-05-18T09:29:50.150170+00:00"
+    "fetched_at": "2026-05-18T09:47:50.720620+00:00"
   },
   {
     "id": "09dcf264763d8562",
@@ -9613,7 +9973,7 @@
     "source_id": "src-129",
     "category": "lifestyle",
     "published_at": "2026-04-06T11:00:50+00:00",
-    "fetched_at": "2026-05-18T09:30:09.708335+00:00"
+    "fetched_at": "2026-05-18T09:48:11.329390+00:00"
   },
   {
     "id": "cb0fd7c969379fba",
@@ -9625,7 +9985,7 @@
     "source_id": "src-125",
     "category": "lifestyle",
     "published_at": "2026-04-03T14:00:13+00:00",
-    "fetched_at": "2026-05-18T09:30:09.113006+00:00"
+    "fetched_at": "2026-05-18T09:48:10.318799+00:00"
   },
   {
     "id": "d94b241dbe5032bc",
@@ -9653,7 +10013,7 @@
     "source_id": "src-162",
     "category": "nakit",
     "published_at": "2026-04-02T15:05:19+00:00",
-    "fetched_at": "2026-05-18T09:30:19.636388+00:00"
+    "fetched_at": "2026-05-18T09:48:25.808748+00:00"
   },
   {
     "id": "114a7a8ca2762d74",
@@ -9681,7 +10041,7 @@
     "source_id": "src-073",
     "category": "tehnologija",
     "published_at": "2026-03-31T15:08:49+00:00",
-    "fetched_at": "2026-05-18T09:29:45.289009+00:00"
+    "fetched_at": "2026-05-18T09:47:45.991996+00:00"
   },
   {
     "id": "04879898a231c6a1",
@@ -9725,7 +10085,7 @@
     "source_id": "src-129",
     "category": "lifestyle",
     "published_at": "2026-03-30T12:00:39+00:00",
-    "fetched_at": "2026-05-18T09:30:09.708399+00:00"
+    "fetched_at": "2026-05-18T09:48:11.329458+00:00"
   },
   {
     "id": "b6a111c75c40f395",
@@ -9737,7 +10097,7 @@
     "source_id": "src-090",
     "category": "znanost",
     "published_at": "2026-03-27T11:31:32+00:00",
-    "fetched_at": "2026-05-18T09:29:50.150569+00:00"
+    "fetched_at": "2026-05-18T09:47:50.721002+00:00"
   },
   {
     "id": "87d15048f1062a63",
@@ -9749,7 +10109,7 @@
     "source_id": "src-057",
     "category": "trzista",
     "published_at": "2026-03-26T19:08:39+00:00",
-    "fetched_at": "2026-05-18T09:29:42.077826+00:00"
+    "fetched_at": "2026-05-18T09:47:42.718889+00:00"
   },
   {
     "id": "64d2ba75eece1a8e",
@@ -9777,7 +10137,7 @@
     "source_id": "src-152",
     "category": "trzista",
     "published_at": "2026-03-26T15:51:49+00:00",
-    "fetched_at": "2026-05-18T09:30:16.493176+00:00"
+    "fetched_at": "2026-05-18T09:48:21.440364+00:00"
   },
   {
     "id": "8be31b9c6bc5d78c",
@@ -9789,7 +10149,7 @@
     "source_id": "src-125",
     "category": "lifestyle",
     "published_at": "2026-03-26T13:00:26+00:00",
-    "fetched_at": "2026-05-18T09:30:09.113061+00:00"
+    "fetched_at": "2026-05-18T09:48:10.318857+00:00"
   },
   {
     "id": "722a1aa62b639f87",
@@ -9801,7 +10161,7 @@
     "source_id": "extra-bloomberg-hr-001",
     "category": "poslovanje",
     "published_at": "2026-03-26T07:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:25.951997+00:00"
+    "fetched_at": "2026-05-18T09:48:31.994924+00:00"
   },
   {
     "id": "a4463115c9de4c28",
@@ -9813,7 +10173,7 @@
     "source_id": "src-125",
     "category": "lifestyle",
     "published_at": "2026-03-24T14:00:59+00:00",
-    "fetched_at": "2026-05-18T09:30:09.113127+00:00"
+    "fetched_at": "2026-05-18T09:48:10.318922+00:00"
   },
   {
     "id": "32a25da332276b0b",
@@ -9825,7 +10185,7 @@
     "source_id": "src-162",
     "category": "nakit",
     "published_at": "2026-03-24T06:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:19.636466+00:00"
+    "fetched_at": "2026-05-18T09:48:25.808826+00:00"
   },
   {
     "id": "9e936ae2ae0be1bc",
@@ -9837,7 +10197,7 @@
     "source_id": "src-129",
     "category": "lifestyle",
     "published_at": "2026-03-23T12:00:16+00:00",
-    "fetched_at": "2026-05-18T09:30:09.708462+00:00"
+    "fetched_at": "2026-05-18T09:48:11.329520+00:00"
   },
   {
     "id": "3efcc27e8c938e86",
@@ -9849,7 +10209,7 @@
     "source_id": "src-125",
     "category": "lifestyle",
     "published_at": "2026-03-20T15:00:48+00:00",
-    "fetched_at": "2026-05-18T09:30:09.113181+00:00"
+    "fetched_at": "2026-05-18T09:48:10.318977+00:00"
   },
   {
     "id": "212476f9fc1d9018",
@@ -9861,7 +10221,7 @@
     "source_id": "src-162",
     "category": "nakit",
     "published_at": "2026-03-20T12:31:32+00:00",
-    "fetched_at": "2026-05-18T09:30:19.636548+00:00"
+    "fetched_at": "2026-05-18T09:48:25.808910+00:00"
   },
   {
     "id": "c630545aace9f0f2",
@@ -9873,7 +10233,7 @@
     "source_id": "src-090",
     "category": "znanost",
     "published_at": "2026-03-20T11:24:38+00:00",
-    "fetched_at": "2026-05-18T09:29:50.151011+00:00"
+    "fetched_at": "2026-05-18T09:47:50.721384+00:00"
   },
   {
     "id": "edfb84e006e3c5d1",
@@ -9885,7 +10245,7 @@
     "source_id": "src-073",
     "category": "tehnologija",
     "published_at": "2026-03-17T15:04:10+00:00",
-    "fetched_at": "2026-05-18T09:29:45.289081+00:00"
+    "fetched_at": "2026-05-18T09:47:45.992071+00:00"
   },
   {
     "id": "74660d55154ada60",
@@ -9897,7 +10257,7 @@
     "source_id": "src-125",
     "category": "lifestyle",
     "published_at": "2026-03-17T13:00:39+00:00",
-    "fetched_at": "2026-05-18T09:30:09.113239+00:00"
+    "fetched_at": "2026-05-18T09:48:10.319034+00:00"
   },
   {
     "id": "4c44e48f2f98dcee",
@@ -9909,7 +10269,7 @@
     "source_id": "src-073",
     "category": "tehnologija",
     "published_at": "2026-03-16T20:29:56+00:00",
-    "fetched_at": "2026-05-18T09:29:45.289168+00:00"
+    "fetched_at": "2026-05-18T09:47:45.992155+00:00"
   },
   {
     "id": "a3696f80d6baaae7",
@@ -9921,7 +10281,7 @@
     "source_id": "src-090",
     "category": "znanost",
     "published_at": "2026-03-16T19:11:15+00:00",
-    "fetched_at": "2026-05-18T09:29:50.151479+00:00"
+    "fetched_at": "2026-05-18T09:47:50.721804+00:00"
   },
   {
     "id": "7aca9bee75e00d74",
@@ -9933,7 +10293,7 @@
     "source_id": "src-162",
     "category": "nakit",
     "published_at": "2026-03-16T17:04:36+00:00",
-    "fetched_at": "2026-05-18T09:30:19.636638+00:00"
+    "fetched_at": "2026-05-18T09:48:25.809001+00:00"
   },
   {
     "id": "28328b6aff6d64f4",
@@ -9945,7 +10305,7 @@
     "source_id": "src-090",
     "category": "znanost",
     "published_at": "2026-03-16T13:53:49+00:00",
-    "fetched_at": "2026-05-18T09:29:50.151897+00:00"
+    "fetched_at": "2026-05-18T09:47:50.722155+00:00"
   },
   {
     "id": "19390ff55bda4b10",
@@ -9957,7 +10317,7 @@
     "source_id": "src-129",
     "category": "lifestyle",
     "published_at": "2026-03-16T13:00:04+00:00",
-    "fetched_at": "2026-05-18T09:30:09.708525+00:00"
+    "fetched_at": "2026-05-18T09:48:11.329583+00:00"
   },
   {
     "id": "106a63604ff7aacf",
@@ -9969,7 +10329,7 @@
     "source_id": "src-090",
     "category": "znanost",
     "published_at": "2026-03-13T18:00:37+00:00",
-    "fetched_at": "2026-05-18T09:29:50.152449+00:00"
+    "fetched_at": "2026-05-18T09:47:50.722642+00:00"
   },
   {
     "id": "b9033e666fce9c35",
@@ -9981,7 +10341,7 @@
     "source_id": "src-073",
     "category": "tehnologija",
     "published_at": "2026-03-12T15:02:30+00:00",
-    "fetched_at": "2026-05-18T09:29:45.289238+00:00"
+    "fetched_at": "2026-05-18T09:47:45.992225+00:00"
   },
   {
     "id": "b269de450128793b",
@@ -9993,7 +10353,7 @@
     "source_id": "src-162",
     "category": "nakit",
     "published_at": "2026-03-12T10:05:10+00:00",
-    "fetched_at": "2026-05-18T09:30:19.636738+00:00"
+    "fetched_at": "2026-05-18T09:48:25.809086+00:00"
   },
   {
     "id": "0c608078f08c09bd",
@@ -10005,7 +10365,7 @@
     "source_id": "extra-bloomberg-hr-001",
     "category": "poslovanje",
     "published_at": "2026-03-11T22:57:11+00:00",
-    "fetched_at": "2026-05-18T09:30:25.951737+00:00"
+    "fetched_at": "2026-05-18T09:48:31.994645+00:00"
   },
   {
     "id": "81610170c403a72b",
@@ -10017,7 +10377,7 @@
     "source_id": "extra-bloomberg-hr-001",
     "category": "poslovanje",
     "published_at": "2026-03-11T09:55:48+00:00",
-    "fetched_at": "2026-05-18T09:30:25.951936+00:00"
+    "fetched_at": "2026-05-18T09:48:31.994856+00:00"
   },
   {
     "id": "65f52b3cf3890d25",
@@ -10029,7 +10389,7 @@
     "source_id": "extra-bloomberg-hr-001",
     "category": "poslovanje",
     "published_at": "2026-03-10T22:53:44+00:00",
-    "fetched_at": "2026-05-18T09:30:25.951485+00:00"
+    "fetched_at": "2026-05-18T09:48:31.994420+00:00"
   },
   {
     "id": "964ae13f85e3d292",
@@ -10041,7 +10401,7 @@
     "source_id": "src-129",
     "category": "lifestyle",
     "published_at": "2026-03-10T05:02:16+00:00",
-    "fetched_at": "2026-05-18T09:30:09.708584+00:00"
+    "fetched_at": "2026-05-18T09:48:11.329647+00:00"
   },
   {
     "id": "83dfc4c7016f0b81",
@@ -10053,7 +10413,7 @@
     "source_id": "src-073",
     "category": "tehnologija",
     "published_at": "2026-03-09T13:00:08+00:00",
-    "fetched_at": "2026-05-18T09:29:45.289305+00:00"
+    "fetched_at": "2026-05-18T09:47:45.992307+00:00"
   },
   {
     "id": "4fbff2149cee1b69",
@@ -10065,7 +10425,7 @@
     "source_id": "src-162",
     "category": "nakit",
     "published_at": "2026-03-08T16:04:26+00:00",
-    "fetched_at": "2026-05-18T09:30:19.636819+00:00"
+    "fetched_at": "2026-05-18T09:48:25.809173+00:00"
   },
   {
     "id": "de63a302ae3fafa7",
@@ -10077,7 +10437,7 @@
     "source_id": "src-125",
     "category": "lifestyle",
     "published_at": "2026-03-03T15:00:15+00:00",
-    "fetched_at": "2026-05-18T09:30:09.113291+00:00"
+    "fetched_at": "2026-05-18T09:48:10.319091+00:00"
   },
   {
     "id": "4d15b09d8614fa0e",
@@ -10089,7 +10449,7 @@
     "source_id": "src-125",
     "category": "lifestyle",
     "published_at": "2026-02-27T15:00:43+00:00",
-    "fetched_at": "2026-05-18T09:30:09.113348+00:00"
+    "fetched_at": "2026-05-18T09:48:10.319150+00:00"
   },
   {
     "id": "1b3d4347282f6af7",
@@ -10101,7 +10461,7 @@
     "source_id": "src-125",
     "category": "lifestyle",
     "published_at": "2026-02-26T16:00:37+00:00",
-    "fetched_at": "2026-05-18T09:30:09.113457+00:00"
+    "fetched_at": "2026-05-18T09:48:10.319251+00:00"
   },
   {
     "id": "1060ce5571f39cbd",
@@ -10113,7 +10473,7 @@
     "source_id": "src-162",
     "category": "nakit",
     "published_at": "2026-02-26T09:56:01+00:00",
-    "fetched_at": "2026-05-18T09:30:19.636893+00:00"
+    "fetched_at": "2026-05-18T09:48:25.809253+00:00"
   },
   {
     "id": "fabc662d71bf7660",
@@ -10125,7 +10485,7 @@
     "source_id": "src-057",
     "category": "trzista",
     "published_at": "2026-02-26T05:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:42.077885+00:00"
+    "fetched_at": "2026-05-18T09:47:42.718948+00:00"
   },
   {
     "id": "d5d986d83012f06f",
@@ -10137,7 +10497,7 @@
     "source_id": "src-125",
     "category": "lifestyle",
     "published_at": "2026-02-25T14:00:25+00:00",
-    "fetched_at": "2026-05-18T09:30:09.113517+00:00"
+    "fetched_at": "2026-05-18T09:48:10.319327+00:00"
   },
   {
     "id": "9a90fa8c0d7bcf98",
@@ -10149,7 +10509,7 @@
     "source_id": "src-057",
     "category": "trzista",
     "published_at": "2026-02-20T05:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:42.077934+00:00"
+    "fetched_at": "2026-05-18T09:47:42.719000+00:00"
   },
   {
     "id": "b860ca6df39484f5",
@@ -10161,7 +10521,7 @@
     "source_id": "src-090",
     "category": "znanost",
     "published_at": "2026-02-19T17:16:34+00:00",
-    "fetched_at": "2026-05-18T09:29:50.152832+00:00"
+    "fetched_at": "2026-05-18T09:47:50.722971+00:00"
   },
   {
     "id": "088312accbe53ef7",
@@ -10217,7 +10577,7 @@
     "source_id": "src-057",
     "category": "trzista",
     "published_at": "2026-02-02T05:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:42.077981+00:00"
+    "fetched_at": "2026-05-18T09:47:42.719049+00:00"
   },
   {
     "id": "a4322448237df80a",
@@ -10229,7 +10589,7 @@
     "source_id": "src-090",
     "category": "znanost",
     "published_at": "2026-01-27T16:34:06+00:00",
-    "fetched_at": "2026-05-18T09:29:50.153139+00:00"
+    "fetched_at": "2026-05-18T09:47:50.723240+00:00"
   },
   {
     "id": "aa3f079513b2b613",
@@ -10257,7 +10617,7 @@
     "source_id": "extra-bloomberg-hr-003",
     "category": "financije",
     "published_at": "2026-01-26T08:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:26.899807+00:00"
+    "fetched_at": "2026-05-18T09:48:32.966910+00:00"
   },
   {
     "id": "d5ed53e5bbcd5398",
@@ -10269,7 +10629,7 @@
     "source_id": "src-090",
     "category": "znanost",
     "published_at": "2026-01-23T17:31:37+00:00",
-    "fetched_at": "2026-05-18T09:29:50.153527+00:00"
+    "fetched_at": "2026-05-18T09:47:50.723593+00:00"
   },
   {
     "id": "ee441d84c7974b68",
@@ -10297,7 +10657,7 @@
     "source_id": "src-090",
     "category": "znanost",
     "published_at": "2026-01-21T17:28:00+00:00",
-    "fetched_at": "2026-05-18T09:29:50.153949+00:00"
+    "fetched_at": "2026-05-18T09:47:50.723947+00:00"
   },
   {
     "id": "19e7686a82b8499f",
@@ -10309,7 +10669,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-01-21T12:54:00+00:00",
-    "fetched_at": "2026-05-18T09:29:47.562310+00:00"
+    "fetched_at": "2026-05-18T09:47:48.157489+00:00"
   },
   {
     "id": "e174df0ffa4db57c",
@@ -10321,7 +10681,7 @@
     "source_id": "extra-bloomberg-hr-003",
     "category": "financije",
     "published_at": "2026-01-20T08:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:26.900018+00:00"
+    "fetched_at": "2026-05-18T09:48:32.967132+00:00"
   },
   {
     "id": "aaabb004ccaea34e",
@@ -10381,7 +10741,7 @@
     "source_id": "src-152",
     "category": "trzista",
     "published_at": "2025-12-19T15:13:03+00:00",
-    "fetched_at": "2026-05-18T09:30:16.493269+00:00"
+    "fetched_at": "2026-05-18T09:48:21.440444+00:00"
   },
   {
     "id": "205ed6cad8dbbd52",
@@ -10393,7 +10753,7 @@
     "source_id": "src-152",
     "category": "trzista",
     "published_at": "2025-12-19T15:09:39+00:00",
-    "fetched_at": "2026-05-18T09:30:16.493336+00:00"
+    "fetched_at": "2026-05-18T09:48:21.440508+00:00"
   },
   {
     "id": "7edea90a52f1997e",
@@ -10405,7 +10765,7 @@
     "source_id": "src-057",
     "category": "trzista",
     "published_at": "2025-12-18T15:30:08+00:00",
-    "fetched_at": "2026-05-18T09:29:42.078020+00:00"
+    "fetched_at": "2026-05-18T09:47:42.719094+00:00"
   },
   {
     "id": "df3aa6896a823ec6",
@@ -10417,7 +10777,7 @@
     "source_id": "src-152",
     "category": "trzista",
     "published_at": "2025-12-18T15:12:55+00:00",
-    "fetched_at": "2026-05-18T09:30:16.493400+00:00"
+    "fetched_at": "2026-05-18T09:48:21.440572+00:00"
   },
   {
     "id": "0a3df6a6b25f89c4",
@@ -10429,7 +10789,7 @@
     "source_id": "src-152",
     "category": "trzista",
     "published_at": "2025-12-18T14:52:17+00:00",
-    "fetched_at": "2026-05-18T09:30:16.493456+00:00"
+    "fetched_at": "2026-05-18T09:48:21.440633+00:00"
   },
   {
     "id": "cb757d41061f4f0c",
@@ -10441,7 +10801,7 @@
     "source_id": "src-152",
     "category": "trzista",
     "published_at": "2025-12-18T10:34:24+00:00",
-    "fetched_at": "2026-05-18T09:30:16.493520+00:00"
+    "fetched_at": "2026-05-18T09:48:21.440721+00:00"
   },
   {
     "id": "ff4be224aec7301e",
@@ -10453,7 +10813,7 @@
     "source_id": "src-152",
     "category": "trzista",
     "published_at": "2025-12-17T14:16:25+00:00",
-    "fetched_at": "2026-05-18T09:30:16.493585+00:00"
+    "fetched_at": "2026-05-18T09:48:21.440785+00:00"
   },
   {
     "id": "b7d7f5ef5d1efbca",
@@ -10465,7 +10825,7 @@
     "source_id": "src-152",
     "category": "trzista",
     "published_at": "2025-12-17T14:08:48+00:00",
-    "fetched_at": "2026-05-18T09:30:16.493648+00:00"
+    "fetched_at": "2026-05-18T09:48:21.440851+00:00"
   },
   {
     "id": "75550b427f96e330",
@@ -10477,7 +10837,7 @@
     "source_id": "src-152",
     "category": "trzista",
     "published_at": "2025-12-16T14:22:08+00:00",
-    "fetched_at": "2026-05-18T09:30:16.493731+00:00"
+    "fetched_at": "2026-05-18T09:48:21.440919+00:00"
   },
   {
     "id": "0511f087327f8008",
@@ -10489,7 +10849,7 @@
     "source_id": "src-152",
     "category": "trzista",
     "published_at": "2025-12-16T14:19:06+00:00",
-    "fetched_at": "2026-05-18T09:30:16.493797+00:00"
+    "fetched_at": "2026-05-18T09:48:21.440987+00:00"
   },
   {
     "id": "5931f640206fd926",
@@ -10549,7 +10909,7 @@
     "source_id": "src-057",
     "category": "trzista",
     "published_at": "2025-12-01T05:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:42.078071+00:00"
+    "fetched_at": "2026-05-18T09:47:42.719145+00:00"
   },
   {
     "id": "974f77d2c4a42b11",
@@ -10673,7 +11033,7 @@
     "source_id": "extra-bloomberg-hr-003",
     "category": "financije",
     "published_at": "2025-11-12T08:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:26.900082+00:00"
+    "fetched_at": "2026-05-18T09:48:32.967201+00:00"
   },
   {
     "id": "cd17e7619f68471b",
@@ -10741,7 +11101,7 @@
     "source_id": "src-057",
     "category": "trzista",
     "published_at": "2025-10-21T04:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:42.078109+00:00"
+    "fetched_at": "2026-05-18T09:47:42.719187+00:00"
   },
   {
     "id": "45701ca7d3db9ca5",
@@ -10797,7 +11157,7 @@
     "source_id": "src-057",
     "category": "trzista",
     "published_at": "2025-08-27T04:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:42.078154+00:00"
+    "fetched_at": "2026-05-18T09:47:42.719233+00:00"
   },
   {
     "id": "714e84080cc1d106",
@@ -10853,7 +11213,7 @@
     "source_id": "src-032",
     "category": "financije",
     "published_at": "2025-07-03T12:36:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.740621+00:00"
+    "fetched_at": "2026-05-18T09:47:07.101098+00:00"
   },
   {
     "id": "ee229685339e8a71",
@@ -10881,7 +11241,7 @@
     "source_id": "extra-bloomberg-hr-003",
     "category": "financije",
     "published_at": "2025-06-13T07:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:26.899947+00:00"
+    "fetched_at": "2026-05-18T09:48:32.967058+00:00"
   },
   {
     "id": "6935f40d9eedb158",
@@ -10941,7 +11301,7 @@
     "source_id": "extra-bloomberg-hr-002",
     "category": "ekonomija",
     "published_at": "2025-03-13T07:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:26.446359+00:00"
+    "fetched_at": "2026-05-18T09:48:32.475285+00:00"
   },
   {
     "id": "4805d7f876b55985",
@@ -10953,7 +11313,7 @@
     "source_id": "src-032",
     "category": "financije",
     "published_at": "2025-02-13T13:33:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.740712+00:00"
+    "fetched_at": "2026-05-18T09:47:07.101162+00:00"
   },
   {
     "id": "3f6abbc6d4969785",
@@ -10965,7 +11325,7 @@
     "source_id": "src-032",
     "category": "financije",
     "published_at": "2025-02-07T20:26:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.740783+00:00"
+    "fetched_at": "2026-05-18T09:47:07.101220+00:00"
   },
   {
     "id": "f02938c1918e9603",
@@ -10977,7 +11337,7 @@
     "source_id": "src-032",
     "category": "financije",
     "published_at": "2025-02-06T13:34:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.740837+00:00"
+    "fetched_at": "2026-05-18T09:47:07.101293+00:00"
   },
   {
     "id": "95d4834e56276a3d",
@@ -10989,7 +11349,7 @@
     "source_id": "src-032",
     "category": "financije",
     "published_at": "2025-02-03T13:46:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.740892+00:00"
+    "fetched_at": "2026-05-18T09:47:07.101355+00:00"
   },
   {
     "id": "593f8becf9270950",
@@ -11017,7 +11377,7 @@
     "source_id": "extra-bloomberg-hr-001",
     "category": "poslovanje",
     "published_at": "2025-01-19T08:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:25.951592+00:00"
+    "fetched_at": "2026-05-18T09:48:31.994518+00:00"
   },
   {
     "id": "16ad4edf5409ea7e",
@@ -11093,7 +11453,7 @@
     "source_id": "src-032",
     "category": "financije",
     "published_at": "2024-12-28T00:32:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.740957+00:00"
+    "fetched_at": "2026-05-18T09:47:07.101411+00:00"
   },
   {
     "id": "8c305282c55b4dd3",
@@ -11137,7 +11497,7 @@
     "source_id": "src-032",
     "category": "financije",
     "published_at": "2024-12-03T14:05:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.741022+00:00"
+    "fetched_at": "2026-05-18T09:47:07.101469+00:00"
   },
   {
     "id": "69f1724687bc96dd",
@@ -11161,7 +11521,7 @@
     "source_id": "src-032",
     "category": "financije",
     "published_at": "2024-11-19T08:55:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.741074+00:00"
+    "fetched_at": "2026-05-18T09:47:07.101525+00:00"
   },
   {
     "id": "3d685f5e8f85facf",
@@ -11189,7 +11549,7 @@
     "source_id": "src-032",
     "category": "financije",
     "published_at": "2024-11-13T13:52:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.741126+00:00"
+    "fetched_at": "2026-05-18T09:47:07.101581+00:00"
   },
   {
     "id": "5695fc9a6f97d399",
@@ -11201,7 +11561,7 @@
     "source_id": "src-032",
     "category": "financije",
     "published_at": "2024-11-12T13:53:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.741173+00:00"
+    "fetched_at": "2026-05-18T09:47:07.101635+00:00"
   },
   {
     "id": "7e31ed19a2dd8a46",
@@ -11213,7 +11573,7 @@
     "source_id": "extra-bloomberg-hr-002",
     "category": "ekonomija",
     "published_at": "2024-11-08T08:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:26.446437+00:00"
+    "fetched_at": "2026-05-18T09:48:32.475370+00:00"
   },
   {
     "id": "0ddef8a5e7c1eb98",
@@ -11241,7 +11601,7 @@
     "source_id": "src-032",
     "category": "financije",
     "published_at": "2024-11-05T08:39:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.741220+00:00"
+    "fetched_at": "2026-05-18T09:47:07.101691+00:00"
   },
   {
     "id": "00a5043e64835f8c",
@@ -11253,7 +11613,7 @@
     "source_id": "src-032",
     "category": "financije",
     "published_at": "2024-11-04T08:36:00+00:00",
-    "fetched_at": "2026-05-18T09:29:08.741261+00:00"
+    "fetched_at": "2026-05-18T09:47:07.101743+00:00"
   },
   {
     "id": "15b047acb9ea8960",
@@ -11281,7 +11641,7 @@
     "source_id": "extra-bloomberg-hr-001",
     "category": "poslovanje",
     "published_at": "2024-10-23T07:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:25.952137+00:00"
+    "fetched_at": "2026-05-18T09:48:31.995071+00:00"
   },
   {
     "id": "8c71bab1fca13e46",
@@ -11309,7 +11669,7 @@
     "source_id": "extra-bloomberg-hr-002",
     "category": "ekonomija",
     "published_at": "2024-09-30T07:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:26.446170+00:00"
+    "fetched_at": "2026-05-18T09:48:32.475074+00:00"
   },
   {
     "id": "1a9f118d9e9a6f31",
@@ -11353,7 +11713,7 @@
     "source_id": "extra-bloomberg-hr-001",
     "category": "poslovanje",
     "published_at": "2024-05-23T07:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:25.952196+00:00"
+    "fetched_at": "2026-05-18T09:48:31.995136+00:00"
   },
   {
     "id": "627c4fc8ca7080e4",
@@ -11365,7 +11725,7 @@
     "source_id": "src-028",
     "category": "ekonomija",
     "published_at": "2024-04-30T14:15:14+00:00",
-    "fetched_at": "2026-05-18T09:29:07.953862+00:00"
+    "fetched_at": "2026-05-18T09:47:06.384710+00:00"
   },
   {
     "id": "b9bfdfcfd2997533",
@@ -11377,7 +11737,7 @@
     "source_id": "src-028",
     "category": "ekonomija",
     "published_at": "2024-04-29T18:19:21+00:00",
-    "fetched_at": "2026-05-18T09:29:07.954179+00:00"
+    "fetched_at": "2026-05-18T09:47:06.384981+00:00"
   },
   {
     "id": "cb991a44a2007189",
@@ -11401,7 +11761,7 @@
     "source_id": "extra-bloomberg-hr-002",
     "category": "ekonomija",
     "published_at": "2023-11-13T08:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:26.446505+00:00"
+    "fetched_at": "2026-05-18T09:48:32.475444+00:00"
   },
   {
     "id": "feb12b1cf6d6a5d2",
@@ -11413,7 +11773,7 @@
     "source_id": "src-028",
     "category": "ekonomija",
     "published_at": "2023-03-28T16:50:57+00:00",
-    "fetched_at": "2026-05-18T09:29:07.954519+00:00"
+    "fetched_at": "2026-05-18T09:47:06.385300+00:00"
   },
   {
     "id": "c1589d17f95e7ccd",
@@ -11425,7 +11785,7 @@
     "source_id": "src-028",
     "category": "ekonomija",
     "published_at": "2023-03-27T15:12:29+00:00",
-    "fetched_at": "2026-05-18T09:29:07.954946+00:00"
+    "fetched_at": "2026-05-18T09:47:06.385661+00:00"
   },
   {
     "id": "71e0d1d7fb1f59fe",
@@ -11437,7 +11797,7 @@
     "source_id": "src-028",
     "category": "ekonomija",
     "published_at": "2023-03-02T06:07:04+00:00",
-    "fetched_at": "2026-05-18T09:29:07.955263+00:00"
+    "fetched_at": "2026-05-18T09:47:06.385948+00:00"
   },
   {
     "id": "a86dda6a2e7a53fa",
@@ -11461,7 +11821,7 @@
     "source_id": "src-028",
     "category": "ekonomija",
     "published_at": "2022-10-13T13:32:57+00:00",
-    "fetched_at": "2026-05-18T09:29:07.955615+00:00"
+    "fetched_at": "2026-05-18T09:47:06.386269+00:00"
   },
   {
     "id": "291ac0e33706f557",
@@ -11473,7 +11833,7 @@
     "source_id": "extra-bloomberg-hr-003",
     "category": "financije",
     "published_at": "2022-07-12T07:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:26.899873+00:00"
+    "fetched_at": "2026-05-18T09:48:32.966979+00:00"
   },
   {
     "id": "34ec12fd1536917a",
@@ -11485,7 +11845,7 @@
     "source_id": "extra-bloomberg-hr-002",
     "category": "ekonomija",
     "published_at": "2022-06-01T07:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:26.446286+00:00"
+    "fetched_at": "2026-05-18T09:48:32.475196+00:00"
   },
   {
     "id": "44e7f45919466316",
@@ -11497,7 +11857,7 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2022-05-17T20:12:32+00:00",
-    "fetched_at": "2026-05-18T09:29:41.178634+00:00"
+    "fetched_at": "2026-05-18T09:47:41.091264+00:00"
   },
   {
     "id": "c1548247d2d10212",
@@ -11509,7 +11869,7 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2022-05-12T15:46:28+00:00",
-    "fetched_at": "2026-05-18T09:29:41.178749+00:00"
+    "fetched_at": "2026-05-18T09:47:41.091357+00:00"
   },
   {
     "id": "ace34ca9e1467f1b",
@@ -11553,7 +11913,7 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2021-12-13T22:15:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.178829+00:00"
+    "fetched_at": "2026-05-18T09:47:41.091432+00:00"
   },
   {
     "id": "691eeab56d4aaa5a",
@@ -11565,7 +11925,7 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2021-08-12T20:10:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.178903+00:00"
+    "fetched_at": "2026-05-18T09:47:41.091504+00:00"
   },
   {
     "id": "0b85f0b8f7d09b95",
@@ -11577,7 +11937,7 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2021-06-27T18:00:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.178982+00:00"
+    "fetched_at": "2026-05-18T09:47:41.091581+00:00"
   },
   {
     "id": "df5945dfd5f4b24d",
@@ -11589,7 +11949,7 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2021-05-27T21:01:00+00:00",
-    "fetched_at": "2026-05-18T09:29:41.179040+00:00"
+    "fetched_at": "2026-05-18T09:47:41.091643+00:00"
   },
   {
     "id": "db5876d0d9b5df27",
@@ -11601,7 +11961,7 @@
     "source_id": "src-028",
     "category": "ekonomija",
     "published_at": "2021-01-14T14:47:27+00:00",
-    "fetched_at": "2026-05-18T09:29:07.955986+00:00"
+    "fetched_at": "2026-05-18T09:47:06.386602+00:00"
   },
   {
     "id": "c688db2454217551",
@@ -11613,7 +11973,7 @@
     "source_id": "extra-bloomberg-hr-004",
     "category": "trzista",
     "published_at": "2020-07-09T07:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:27.392058+00:00"
+    "fetched_at": "2026-05-18T09:48:33.487928+00:00"
   },
   {
     "id": "de06a1260ed30bd7",
@@ -11625,7 +11985,7 @@
     "source_id": "src-028",
     "category": "ekonomija",
     "published_at": "2019-12-19T13:50:57+00:00",
-    "fetched_at": "2026-05-18T09:29:07.956515+00:00"
+    "fetched_at": "2026-05-18T09:47:06.387065+00:00"
   },
   {
     "id": "593287d6afa56350",
@@ -11637,7 +11997,7 @@
     "source_id": "extra-bloomberg-hr-004",
     "category": "trzista",
     "published_at": "2019-07-05T07:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:27.391875+00:00"
+    "fetched_at": "2026-05-18T09:48:33.487732+00:00"
   },
   {
     "id": "7bcdbc03681a6367",
@@ -11649,7 +12009,7 @@
     "source_id": "extra-bloomberg-hr-004",
     "category": "trzista",
     "published_at": "2019-05-24T17:04:12+00:00",
-    "fetched_at": "2026-05-18T09:30:27.391939+00:00"
+    "fetched_at": "2026-05-18T09:48:33.487798+00:00"
   },
   {
     "id": "97a6d4cb38475dd9",
@@ -11661,7 +12021,7 @@
     "source_id": "extra-bloomberg-hr-004",
     "category": "trzista",
     "published_at": "2019-05-24T02:49:37+00:00",
-    "fetched_at": "2026-05-18T09:30:27.391998+00:00"
+    "fetched_at": "2026-05-18T09:48:33.487863+00:00"
   },
   {
     "id": "f98be8f958080390",
@@ -11673,7 +12033,7 @@
     "source_id": "src-028",
     "category": "ekonomija",
     "published_at": "2018-05-16T10:06:55+00:00",
-    "fetched_at": "2026-05-18T09:29:07.956946+00:00"
+    "fetched_at": "2026-05-18T09:47:06.387444+00:00"
   },
   {
     "id": "cd6ed424c12bd475",
@@ -11685,7 +12045,7 @@
     "source_id": "extra-bloomberg-hr-001",
     "category": "poslovanje",
     "published_at": "2017-08-24T07:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:25.952268+00:00"
+    "fetched_at": "2026-05-18T09:48:31.995215+00:00"
   },
   {
     "id": "4ccf642c8b20747c",
@@ -11709,7 +12069,7 @@
     "source_id": "extra-bloomberg-hr-004",
     "category": "trzista",
     "published_at": "2015-04-01T07:00:00+00:00",
-    "fetched_at": "2026-05-18T09:30:27.392117+00:00"
+    "fetched_at": "2026-05-18T09:48:33.487991+00:00"
   },
   {
     "id": "9b6c4cc911cca875",
@@ -11721,7 +12081,7 @@
     "source_id": "extra-bloomberg-hr-001",
     "category": "poslovanje",
     "published_at": "2015-01-28T05:52:56+00:00",
-    "fetched_at": "2026-05-18T09:30:25.951660+00:00"
+    "fetched_at": "2026-05-18T09:48:31.994583+00:00"
   },
   {
     "id": "a87c4cbb95a25315",
