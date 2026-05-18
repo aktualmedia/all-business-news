@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://aktualmedia.github.io/all-business-news/sitemap.xml
+Sitemap: https://aktualmedia.github.io/all-business-news/sitemap-news.xml
+
+# Tehničke JSON datoteke dopuštene su za čitanje jer pune javni portal.
