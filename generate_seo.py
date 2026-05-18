@@ -25,8 +25,9 @@ NOW = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
 STATIC_URLS = [
     ("", "hourly", "1.00"),
+    ("autor/nermin-sefic.html", "weekly", "0.96"),
     ("vijesti/index.html", "hourly", "0.95"),
-    ("objave/index.html", "daily", "0.92"),
+    ("objave/index.html", "daily", "0.94"),
     ("symbol/index.html", "weekly", "0.88"),
     ("digitalna-izdanja/index.html", "weekly", "0.84"),
     ("galerija/index.html", "daily", "0.82"),
@@ -77,14 +78,6 @@ def textify(v: str) -> str:
     return re.sub(r"\s+", " ", v).strip()
 
 
-def slugify(title: str) -> str:
-    title = textify(title).lower()
-    repl = str.maketrans({"č":"c","ć":"c","š":"s","ž":"z","đ":"d"})
-    title = title.translate(repl)
-    title = re.sub(r"[^a-z0-9]+", "-", title).strip("-")
-    return title[:92] or "vijest"
-
-
 def url(path: str) -> str:
     return SITE + quote(path.lstrip("/"), safe="/:?=&%#.-_")
 
@@ -133,7 +126,7 @@ def main():
     for p in posts if isinstance(posts, list) else []:
         path = str(p.get("url") or p.get("local_url") or "").lstrip("/")
         if path and not path.startswith("http"):
-            add(path, parse_date(p.get("published_at") or p.get("date")), "monthly", "0.78")
+            add(path, parse_date(p.get("published_at") or p.get("created_at") or p.get("date")), "weekly", "0.82")
 
     for e in editions if isinstance(editions, list) else []:
         path = str(e.get("url") or "").lstrip("/")
@@ -173,17 +166,20 @@ def main():
         "display": "standalone",
         "background_color": "#ffffff",
         "theme_color": "#111111",
-        "description": "Pregled poslovnih, ekonomskih, tehnoloških, kulturnih i autorskih vijesti.",
+        "description": "Pregled poslovnih, ekonomskih, tehnoloških, kulturnih i autorskih vijesti. Autor objava: Nermin Sefić.",
         "lang": "hr-HR"
     }, ensure_ascii=False, indent=2))
 
-    write("llms.txt", "# WEB VIJESTI / All Business News\n\nSlužbena stranica: https://aktualmedia.github.io/all-business-news/\n\nGlavne rubrike:\n- Vijesti: poslovanje, ekonomija, financije, tržišta, tehnologija, kultura, dizajn, znanost, lifestyle, hedonizam, satovi, nakit i pića.\n- Objave: autorski tekstovi Nermina Sefića.\n- Symbol: digitalna izdanja i PDF pregled.\n\nSitemap: https://aktualmedia.github.io/all-business-news/sitemap.xml\nNews sitemap: https://aktualmedia.github.io/all-business-news/sitemap-news.xml\n")
+    write("llms.txt", "# WEB VIJESTI / All Business News\n\nSlužbena stranica: https://aktualmedia.github.io/all-business-news/\n\nAutor objava: Nermin Sefić\nAutorski profil: https://aktualmedia.github.io/all-business-news/autor/nermin-sefic.html\n\nGlavne rubrike:\n- Vijesti: poslovanje, ekonomija, financije, tržišta, tehnologija, kultura, dizajn, znanost, lifestyle, hedonizam, satovi, nakit i pića.\n- Objave: autorski tekstovi Nermina Sefića o ekonomiji, businessu, poduzetništvu, kapitalu, reputaciji i digitalnoj imovini.\n- Symbol: digitalna izdanja i PDF pregled.\n\nSitemap: https://aktualmedia.github.io/all-business-news/sitemap.xml\nNews sitemap: https://aktualmedia.github.io/all-business-news/sitemap-news.xml\n")
 
     write_json("data/seo_index.json", {
         "generated_at": NOW,
         "site": SITE,
+        "author": "Nermin Sefić",
+        "author_url": SITE + "autor/nermin-sefic.html",
         "total_urls": len(simple_urls),
         "news_urls": len(news_entries),
+        "posts_urls": len(posts) if isinstance(posts, list) else 0,
         "sitemap": SITE + "sitemap.xml",
         "news_sitemap": SITE + "sitemap-news.xml",
         "robots": SITE + "robots.txt",
