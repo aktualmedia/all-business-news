@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-18T13:08:05.505518+00:00",
+  "updated_at": "2026-05-18T13:17:50.503096+00:00",
   "sources": 194,
-  "ok": 126,
-  "problem": 54,
+  "ok": 125,
+  "problem": 55,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -207,17 +207,6 @@
       "name": "Design Milk",
       "category": "dizajn",
       "url": "https://design-milk.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-118",
-      "name": "DesignWanted",
-      "category": "dizajn",
-      "url": "https://designwanted.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1743,6 +1732,17 @@
       "error": "HTTP Error 403: Forbidden"
     },
     {
+      "id": "src-118",
+      "name": "DesignWanted",
+      "category": "dizajn",
+      "url": "https://designwanted.com/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
+    },
+    {
       "id": "src-132",
       "name": "Dezeen Events",
       "category": "lifestyle",
@@ -1894,7 +1894,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 404: Not Found"
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "id": "src-048",
