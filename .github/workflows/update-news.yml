@@ -23,6 +23,7 @@ on:
       - "objave/**"
       - "autor/**"
       - "data/ai_posts.json"
+      - "data/person.json"
       - "data/events_sources.json"
       - "data/event_sources.json"
 
@@ -65,7 +66,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/news.json data/archive.json data/category_news data/category_counts.json data/generated_at.json data/source_stats.json data/manual_gallery.json data/events_calendar.json data/events_status.json data/manual_events.json data/seo_index.json sitemap.xml sitemap-news.xml urllist.txt site.webmanifest llms.txt robots.txt
+          git add data/news.json data/archive.json data/category_news data/category_counts.json data/generated_at.json data/source_stats.json data/manual_gallery.json data/events_calendar.json data/events_status.json data/manual_events.json data/seo_index.json sitemap.xml sitemap-news.xml sitemap-posts.xml sitemap-authors.xml sitemap-events.xml urllist.txt site.webmanifest llms.txt robots.txt
           git commit -m "Automatsko azuriranje vijesti dogadjanja galerije i SEO datoteka" || echo "Nema promjena za commit"
           git pull --rebase || true
           git push || true
