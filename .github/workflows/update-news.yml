@@ -11,11 +11,14 @@ on:
     paths:
       - ".github/workflows/update-news.yml"
       - "update_news.py"
+      - "fill_premium_categories.py"
       - "update_events.py"
       - "postprocess_news.py"
       - "generate_home_data.py"
       - "generate_seo.py"
       - "assets/app.js"
+      - "assets/home-lite.js"
+      - "assets/event-notice.js"
       - "assets/seo-meta.js"
       - "index.html"
       - "dogadjanja/**"
@@ -25,6 +28,11 @@ on:
       - "aktual-media/**"
       - "web-vijesti/**"
       - "symbol-casopis/**"
+      - "hrana/**"
+      - "nakit/**"
+      - "pica/**"
+      - "satovi/**"
+      - "hedonizam/**"
       - "data/ai_posts.json"
       - "data/person.json"
       - "data/events_sources.json"
@@ -62,6 +70,7 @@ jobs:
           python update_news.py || echo "update_news.py nije prosao do kraja, nastavljam postprocess"
           python update_events.py || echo "update_events.py nije prosao do kraja, nastavljam dalje"
           python postprocess_news.py
+          python fill_premium_categories.py || echo "fill_premium_categories.py nije prosao do kraja, nastavljam dalje"
           python generate_home_data.py
           python generate_seo.py
           echo "END UPDATE: $(date -u)"
