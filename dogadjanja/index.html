@@ -3,33 +3,42 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Događanja i kazališni kalendar | WEB VIJESTI</title>
-  <meta name="description" content="Kalendar događanja: kazališne predstave, programi kazališta, ručno unesena događanja, izložbe, koncerti i kulturni programi.">
-  <meta name="keywords" content="događanja, kalendar, kazalište, predstave, HNK Zagreb, Gavella, Kerempuh, ZKM, Komedija, Teatar Exit, Kazalište Trešnja, Zagrebačko kazalište lutaka, Zagreb, kultura">
+  <title>Svjetska događanja, kazališta, premijere i izložbe | WEB VIJESTI</title>
+  <meta name="description" content="Kalendar svjetskih i hrvatskih događanja: kazališne predstave, premijere, opere, baleti, muzeji, galerije i izložbe po državama, gradovima i institucijama.">
+  <meta name="keywords" content="događanja, kalendar, svjetska kazališta, premijere, izložbe, muzeji, galerije, opera, balet, London, New York, Pariz, Milano, Berlin, Beč, Zagreb">
   <meta name="robots" content="index, follow, max-image-preview:large">
   <link rel="canonical" href="https://aktualmedia.github.io/all-business-news/dogadjanja/">
-  <meta property="og:title" content="Događanja i kazališni kalendar | WEB VIJESTI">
-  <meta property="og:description" content="Kazališne predstave, kalendar i ručno unesena događanja.">
+  <meta property="og:title" content="Svjetska događanja, kazališta, premijere i izložbe | WEB VIJESTI">
+  <meta property="og:description" content="Kalendar događanja po državama, gradovima, muzejima, galerijama, kazalištima i institucijama.">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="WEB VIJESTI / All Business News">
   <link rel="stylesheet" href="../assets/style.css">
+  <style>.event-filter-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin:16px 0}.event-filter-grid input,.event-filter-grid select{border:1px solid var(--line,#ded7c8);border-radius:16px;padding:13px 14px;font-size:15px;background:#fff;color:#111}@media(max-width:900px){.event-filter-grid{grid-template-columns:1fr 1fr}}@media(max-width:640px){.event-filter-grid{grid-template-columns:1fr}}</style>
   <script>window.WV_PAGE="calendar"; window.WV_CATEGORY="";</script>
 </head>
 <body data-page="calendar" data-category="">
 <header class="site-header">
   <a class="brand" href="../index.html"><span class="brand-mark">WV</span><span><strong>WEB VIJESTI</strong><small>AKTUAL MEDIA D.O.O.</small></span></a>
   <nav class="top-nav" aria-label="GLAVNI IZBORNIK">
-    <a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../objave/index.html">OBJAVE</a><a href="../poslovanje/index.html">POSLOVANJE</a><a href="../kultura/index.html">KULTURA</a><a href="../galerija/index.html">GALERIJA</a><a href="../symbol/index.html">SYMBOL</a><a href="../video/index.html">VIDEO</a><a href="../radio/index.html">RADIO</a><a href="../dogadjanja/index.html">DOGAĐANJA</a><a href="../izvori/index.html">IZVORI</a><a href="../admin/index.html">ADMIN</a>
+    <a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../objave/index.html">OBJAVE</a><a href="../kultura/index.html">KULTURA</a><a href="../galerija/index.html">GALERIJA</a><a href="../symbol/index.html">SYMBOL</a><a href="../video/index.html">VIDEO</a><a href="../radio/index.html">RADIO</a><a href="../dogadjanja/index.html">DOGAĐANJA</a><a href="../izvori/index.html">IZVORI</a>
   </nav>
 </header>
 <main class="page-shell">
 <a class="home-button" href="../index.html">HOME – POVRATAK</a>
-<section class="hero compact"><p class="eyebrow">KALENDAR</p><h1>DOGAĐANJA</h1><p class="lead">Kalendar kazališnih predstava, kulturnih programa i ručno unesenih događanja. Za svaki program prikazuje se poveznica prema službenom izvoru kada je dostupna.</p></section>
-<section class="legal-box"><p><strong>Kazališni izvori:</strong> HNK Zagreb, Gavella, Kerempuh, ZKM, Komedija, Teatar Exit, Kazalište Trešnja i Zagrebačko kazalište lutaka. Ako pojedina stranica ne dopušta jasno automatsko čitanje termina, prikazuje se službeni programski link.</p></section>
+<section class="hero compact"><p class="eyebrow">KALENDAR</p><h1>DOGAĐANJA</h1><p class="lead">Kazališta, premijere, opere, baleti, muzeji, galerije i izložbe.</p></section>
+<section id="eventFilters" class="control-panel">
+  <div class="event-filter-grid">
+    <input id="eventSearch" type="search" placeholder="PRETRAŽI DOGAĐANJA...">
+    <select id="eventCountry"><option value="">SVE DRŽAVE</option></select>
+    <select id="eventCity"><option value="">SVI GRADOVI</option></select>
+    <select id="eventType"><option value="">SVE VRSTE</option></select>
+    <select id="eventInstitution"><option value="">SVE INSTITUCIJE</option></select>
+  </div>
+</section>
 <div id="eventsGrid" class="news-grid"></div>
 </main>
 <nav class="mobile-bottom-nav" aria-label="BRZA MOBILNA NAVIGACIJA"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../objave/index.html">OBJAVE</a><a href="../galerija/index.html">GALERIJA</a></nav>
-<footer class="site-footer"><p><strong>WEB VIJESTI / ALL BUSINESS NEWS</strong> · KALENDAR DOGAĐANJA I KAZALIŠNI PROGRAMI.</p></footer>
+<footer class="site-footer"><p><strong>WEB VIJESTI / ALL BUSINESS NEWS</strong> · DOGAĐANJA.</p></footer>
 <script src="../assets/app.js" defer></script>
 <script src="../assets/seo-meta.js" defer></script>
 </body>
