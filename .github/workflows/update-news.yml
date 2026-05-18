@@ -1,5 +1,5 @@
 name: Update vijesti - rucno i automatski
-# force-run: all-category-fillers-2026-05-18
+# force-run: symbol-quorum-en-all-category-fillers
 
 on:
   workflow_dispatch:
@@ -12,6 +12,7 @@ on:
     paths:
       - ".github/workflows/update-news.yml"
       - "update_news.py"
+      - "fill_symbol_quorum_en.py"
       - "fill_premium_categories.py"
       - "fill_core_business_science.py"
       - "fill_missing_core_categories.py"
@@ -73,6 +74,7 @@ jobs:
           python update_news.py || echo "update_news.py nije prosao do kraja, nastavljam postprocess"
           python update_events.py || echo "update_events.py nije prosao do kraja, nastavljam dalje"
           python postprocess_news.py
+          python fill_symbol_quorum_en.py || echo "fill_symbol_quorum_en.py nije prosao do kraja, nastavljam dalje"
           python fill_premium_categories.py || echo "fill_premium_categories.py nije prosao do kraja, nastavljam dalje"
           python fill_core_business_science.py || echo "fill_core_business_science.py nije prosao do kraja, nastavljam dalje"
           python fill_missing_core_categories.py || echo "fill_missing_core_categories.py nije prosao do kraja, nastavljam dalje"
