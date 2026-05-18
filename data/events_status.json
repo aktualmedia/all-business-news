@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T07:13:46.816868+00:00",
+  "updated_at": "2026-05-18T07:17:24.989851+00:00",
   "sources": 69,
   "ok_sources": 12,
   "events_count": 163,
@@ -272,8 +272,9 @@
       "country": "SAD",
       "city": "New York",
       "type": "kazalište / Broadway / premijere",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "The read operation timed out"
     },
     {
       "id": "broadway-com",
