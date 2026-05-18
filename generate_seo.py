@@ -16,7 +16,11 @@ NOW = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
 STATIC_URLS = [
     ("", "hourly", "1.00"),
+    ("web-vijesti/index.html", "weekly", "0.96"),
+    ("aktual-media/index.html", "weekly", "0.94"),
+    ("nermin-sefic/index.html", "weekly", "0.96"),
     ("autor/nermin-sefic.html", "weekly", "0.96"),
+    ("symbol-casopis/index.html", "weekly", "0.92"),
     ("vijesti/index.html", "hourly", "0.95"),
     ("objave/index.html", "daily", "0.94"),
     ("symbol/index.html", "weekly", "0.88"),
@@ -124,7 +128,8 @@ def main():
             bucket.append(entry)
 
     for path, freq, prio in STATIC_URLS:
-        add(path, NOW, freq, prio, author_entries if path.startswith("autor/") else None)
+        author_bucket = author_entries if path.startswith("autor/") or path.startswith("nermin-sefic/") else None
+        add(path, NOW, freq, prio, author_bucket)
 
     for p in posts if isinstance(posts, list) else []:
         path = str(p.get("url") or p.get("local_url") or "").lstrip("/")
