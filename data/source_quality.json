@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T19:34:42.200997+00:00",
+  "updated_at": "2026-05-19T22:55:38.920674+00:00",
   "sources": 194,
   "ok": 126,
   "problem": 54,
@@ -181,17 +181,6 @@
       "error": ""
     },
     {
-      "id": "src-104",
-      "name": "Deadline",
-      "category": "kultura",
-      "url": "https://deadline.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-165",
       "name": "Decanter",
       "category": "pica",
@@ -240,17 +229,6 @@
       "name": "ECB Press",
       "category": "ekonomija",
       "url": "https://www.ecb.europa.eu/rss/press.html",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-065",
-      "name": "Engadget",
-      "category": "tehnologija",
-      "url": "https://www.engadget.com/rss.xml",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -687,6 +665,17 @@
       "error": ""
     },
     {
+      "id": "src-068",
+      "name": "The Register",
+      "category": "tehnologija",
+      "url": "https://www.theregister.com/headlines.atom",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-167",
       "name": "The Spirits Business",
       "category": "pica",
@@ -764,6 +753,17 @@
       "error": ""
     },
     {
+      "id": "src-104",
+      "name": "Deadline",
+      "category": "kultura",
+      "url": "https://deadline.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-125",
       "name": "Design Milk Lifestyle",
       "category": "lifestyle",
@@ -775,10 +775,10 @@
       "error": ""
     },
     {
-      "id": "src-057",
-      "name": "Supply Chain Brain",
-      "category": "trzista",
-      "url": "https://www.supplychainbrain.com/rss/topic/1145-news",
+      "id": "src-065",
+      "name": "Engadget",
+      "category": "tehnologija",
+      "url": "https://www.engadget.com/rss.xml",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -786,10 +786,10 @@
       "error": ""
     },
     {
-      "id": "src-068",
-      "name": "The Register",
-      "category": "tehnologija",
-      "url": "https://www.theregister.com/headlines.atom",
+      "id": "src-057",
+      "name": "Supply Chain Brain",
+      "category": "trzista",
+      "url": "https://www.supplychainbrain.com/rss/topic/1145-news",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1226,6 +1226,17 @@
       "error": ""
     },
     {
+      "id": "src-102",
+      "name": "Variety",
+      "category": "kultura",
+      "url": "https://variety.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-168",
       "name": "Wine Enthusiast",
       "category": "pica",
@@ -1296,17 +1307,6 @@
       "name": "Robb Report",
       "category": "hedonizam",
       "url": "https://robbreport.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 9,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-102",
-      "name": "Variety",
-      "category": "kultura",
-      "url": "https://variety.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 9,

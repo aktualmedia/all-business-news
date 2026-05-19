@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T19:33:03.911013+00:00",
+  "updated_at": "2026-05-19T22:54:19.467203+00:00",
   "sources": 69,
   "ok_sources": 13,
   "events_count": 166,
@@ -11,9 +11,8 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "opći kalendar",
-      "status": "fallback",
-      "count": 1,
-      "error": "The read operation timed out"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "lisinski",
@@ -272,8 +271,9 @@
       "country": "SAD",
       "city": "New York",
       "type": "kazalište / Broadway / premijere",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "The read operation timed out"
     },
     {
       "id": "broadway-com",
@@ -720,8 +720,9 @@
       "country": "Australija",
       "city": "Melbourne",
       "type": "galerija / izložbe",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "The read operation timed out"
     }
   ]
 }
