@@ -1,5 +1,5 @@
 name: Update vijesti - rucno i automatski
-# force-run: symbol-quorum-en-all-category-fillers
+# force-run: full-refresh-all-categories-2026-05-18-1415
 
 on:
   workflow_dispatch:
