@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-19T11:27:05.893945+00:00",
+  "updated_at": "2026-05-19T11:49:42.661264+00:00",
   "sources": 194,
-  "ok": 126,
+  "ok": 125,
   "problem": 54,
   "items": [
     {
@@ -1006,17 +1006,6 @@
       "error": ""
     },
     {
-      "id": "src-037",
-      "name": "Investing.com Economic Indicators",
-      "category": "financije",
-      "url": "https://www.investing.com/rss/forex.rss",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-036",
       "name": "Investing.com News",
       "category": "financije",
@@ -1325,17 +1314,6 @@
       "error": ""
     },
     {
-      "id": "src-033",
-      "name": "Seeking Alpha Market News",
-      "category": "financije",
-      "url": "https://seekingalpha.com/market_currents.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 7,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-067",
       "name": "VentureBeat",
       "category": "tehnologija",
@@ -1343,6 +1321,17 @@
       "status": "ok",
       "label": "radi",
       "count": 7,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-033",
+      "name": "Seeking Alpha Market News",
+      "category": "financije",
+      "url": "https://seekingalpha.com/market_currents.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 6,
       "score": 100,
       "error": ""
     },
@@ -1461,6 +1450,17 @@
       "name": "IMF Blog",
       "category": "ekonomija",
       "url": "https://www.imf.org/en/Blogs/RSS",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
+      "id": "src-037",
+      "name": "Investing.com Economic Indicators",
+      "category": "financije",
+      "url": "https://www.investing.com/rss/forex.rss",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -1795,7 +1795,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "src-026",
