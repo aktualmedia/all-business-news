@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T11:49:42.661264+00:00",
+  "updated_at": "2026-05-19T17:06:57.406172+00:00",
   "sources": 194,
   "ok": 125,
   "problem": 54,
@@ -86,17 +86,6 @@
       "name": "ArchDaily",
       "category": "dizajn",
       "url": "https://www.archdaily.com/search/projects/rss",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-064",
-      "name": "Ars Technica",
-      "category": "tehnologija",
-      "url": "https://feeds.arstechnica.com/arstechnica/index",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -269,6 +258,17 @@
       "error": ""
     },
     {
+      "id": "src-014",
+      "name": "Fast Company",
+      "category": "poslovanje",
+      "url": "https://www.fastcompany.com/rss.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-020",
       "name": "Federal Reserve Press",
       "category": "ekonomija",
@@ -324,6 +324,17 @@
       "error": ""
     },
     {
+      "id": "src-050",
+      "name": "FreightWaves",
+      "category": "trzista",
+      "url": "https://www.freightwaves.com/news/feed",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-071",
       "name": "Google AI Blog",
       "category": "tehnologija",
@@ -372,6 +383,17 @@
       "name": "IEEE Spectrum",
       "category": "tehnologija",
       "url": "https://spectrum.ieee.org/rss/fulltext",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-121",
+      "name": "InsideHook",
+      "category": "lifestyle",
+      "url": "https://www.insidehook.com/feed",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -665,17 +687,6 @@
       "error": ""
     },
     {
-      "id": "src-068",
-      "name": "The Register",
-      "category": "tehnologija",
-      "url": "https://www.theregister.com/headlines.atom",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-167",
       "name": "The Spirits Business",
       "category": "pica",
@@ -742,6 +753,17 @@
       "error": ""
     },
     {
+      "id": "src-064",
+      "name": "Ars Technica",
+      "category": "tehnologija",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-125",
       "name": "Design Milk Lifestyle",
       "category": "lifestyle",
@@ -753,43 +775,21 @@
       "error": ""
     },
     {
-      "id": "src-014",
-      "name": "Fast Company",
-      "category": "poslovanje",
-      "url": "https://www.fastcompany.com/rss.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-050",
-      "name": "FreightWaves",
-      "category": "trzista",
-      "url": "https://www.freightwaves.com/news/feed",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-121",
-      "name": "InsideHook",
-      "category": "lifestyle",
-      "url": "https://www.insidehook.com/feed",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-057",
       "name": "Supply Chain Brain",
       "category": "trzista",
       "url": "https://www.supplychainbrain.com/rss/topic/1145-news",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-068",
+      "name": "The Register",
+      "category": "tehnologija",
+      "url": "https://www.theregister.com/headlines.atom",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -812,6 +812,17 @@
       "name": "Artnet News",
       "category": "kultura",
       "url": "https://news.artnet.com/feed",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-056",
+      "name": "Automotive Dive",
+      "category": "trzista",
+      "url": "https://www.automotivedive.com/feeds/news/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -867,17 +878,6 @@
       "name": "Colossal",
       "category": "kultura",
       "url": "https://www.thisiscolossal.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-054",
-      "name": "Construction Dive",
-      "category": "trzista",
-      "url": "https://www.constructiondive.com/feeds/news/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1006,6 +1006,17 @@
       "error": ""
     },
     {
+      "id": "src-037",
+      "name": "Investing.com Economic Indicators",
+      "category": "financije",
+      "url": "https://www.investing.com/rss/forex.rss",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-036",
       "name": "Investing.com News",
       "category": "financije",
@@ -1116,17 +1127,6 @@
       "error": ""
     },
     {
-      "id": "src-098",
-      "name": "MuseumNext",
-      "category": "kultura",
-      "url": "https://www.museumnext.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-079",
       "name": "NASA Breaking News",
       "category": "znanost",
@@ -1175,17 +1175,6 @@
       "name": "Retail Dive",
       "category": "trzista",
       "url": "https://www.retaildive.com/feeds/news/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-169",
-      "name": "Robb Report",
-      "category": "hedonizam",
-      "url": "https://robbreport.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1270,10 +1259,10 @@
       "error": ""
     },
     {
-      "id": "src-056",
-      "name": "Automotive Dive",
+      "id": "src-054",
+      "name": "Construction Dive",
       "category": "trzista",
-      "url": "https://www.automotivedive.com/feeds/news/",
+      "url": "https://www.constructiondive.com/feeds/news/",
       "status": "ok",
       "label": "radi",
       "count": 9,
@@ -1303,6 +1292,17 @@
       "error": ""
     },
     {
+      "id": "src-169",
+      "name": "Robb Report",
+      "category": "hedonizam",
+      "url": "https://robbreport.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 9,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "extra-symbol-kultura",
       "name": "Symbol Quorum - kultura i umjetnost",
       "category": "kultura",
@@ -1314,10 +1314,10 @@
       "error": ""
     },
     {
-      "id": "src-067",
-      "name": "VentureBeat",
-      "category": "tehnologija",
-      "url": "https://venturebeat.com/feed/",
+      "id": "src-033",
+      "name": "Seeking Alpha Market News",
+      "category": "financije",
+      "url": "https://seekingalpha.com/market_currents.xml",
       "status": "ok",
       "label": "radi",
       "count": 7,
@@ -1325,13 +1325,13 @@
       "error": ""
     },
     {
-      "id": "src-033",
-      "name": "Seeking Alpha Market News",
-      "category": "financije",
-      "url": "https://seekingalpha.com/market_currents.xml",
+      "id": "src-067",
+      "name": "VentureBeat",
+      "category": "tehnologija",
+      "url": "https://venturebeat.com/feed/",
       "status": "ok",
       "label": "radi",
-      "count": 6,
+      "count": 7,
       "score": 100,
       "error": ""
     },
@@ -1457,17 +1457,6 @@
       "error": ""
     },
     {
-      "id": "src-037",
-      "name": "Investing.com Economic Indicators",
-      "category": "financije",
-      "url": "https://www.investing.com/rss/forex.rss",
-      "status": "empty",
-      "label": "prazan feed",
-      "count": 0,
-      "score": 55,
-      "error": ""
-    },
-    {
       "id": "src-163",
       "name": "JCK",
       "category": "nakit",
@@ -1483,6 +1472,17 @@
       "name": "Kellogg Insight",
       "category": "poslovanje",
       "url": "https://insight.kellogg.northwestern.edu/feed",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
+      "id": "src-098",
+      "name": "MuseumNext",
+      "category": "kultura",
+      "url": "https://www.museumnext.com/feed/",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -1784,7 +1784,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 404: Not Found"
+      "error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1016)>"
     },
     {
       "id": "src-078",
