@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-19T05:56:59.050524+00:00",
+  "updated_at": "2026-05-19T10:45:15.971375+00:00",
   "sources": 194,
-  "ok": 127,
-  "problem": 53,
+  "ok": 125,
+  "problem": 55,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -75,6 +75,17 @@
       "name": "Allure Beauty",
       "category": "lifestyle",
       "url": "https://www.allure.com/feed/rss",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-108",
+      "name": "ArchDaily",
+      "category": "dizajn",
+      "url": "https://www.archdaily.com/search/projects/rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -258,10 +269,10 @@
       "error": ""
     },
     {
-      "id": "src-014",
-      "name": "Fast Company",
-      "category": "poslovanje",
-      "url": "https://www.fastcompany.com/rss.xml",
+      "id": "src-020",
+      "name": "Federal Reserve Press",
+      "category": "ekonomija",
+      "url": "https://www.federalreserve.gov/feeds/press_all.xml",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -269,10 +280,10 @@
       "error": ""
     },
     {
-      "id": "src-020",
-      "name": "Federal Reserve Press",
-      "category": "ekonomija",
-      "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "id": "src-145",
+      "name": "Finance Monthly",
+      "category": "financije",
+      "url": "https://www.finance-monthly.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -467,10 +478,10 @@
       "error": ""
     },
     {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
+      "id": "src-139",
+      "name": "NBER Digest",
+      "category": "ekonomija",
+      "url": "https://www.nber.org/rss/new.xml",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -478,10 +489,10 @@
       "error": ""
     },
     {
-      "id": "src-139",
-      "name": "NBER Digest",
-      "category": "ekonomija",
-      "url": "https://www.nber.org/rss/new.xml",
+      "id": "src-083",
+      "name": "Nature News",
+      "category": "znanost",
+      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -731,17 +742,6 @@
       "error": ""
     },
     {
-      "id": "src-108",
-      "name": "ArchDaily",
-      "category": "dizajn",
-      "url": "https://www.archdaily.com/search/projects/rss",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-125",
       "name": "Design Milk Lifestyle",
       "category": "lifestyle",
@@ -753,10 +753,10 @@
       "error": ""
     },
     {
-      "id": "src-145",
-      "name": "Finance Monthly",
-      "category": "financije",
-      "url": "https://www.finance-monthly.com/feed/",
+      "id": "src-014",
+      "name": "Fast Company",
+      "category": "poslovanje",
+      "url": "https://www.fastcompany.com/rss.xml",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -779,17 +779,6 @@
       "name": "InsideHook",
       "category": "lifestyle",
       "url": "https://www.insidehook.com/feed",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-057",
-      "name": "Supply Chain Brain",
-      "category": "trzista",
-      "url": "https://www.supplychainbrain.com/rss/topic/1145-news",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1142,17 +1131,6 @@
       "name": "NASA Breaking News",
       "category": "znanost",
       "url": "https://www.nasa.gov/news-release/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-083",
-      "name": "Nature News",
-      "category": "znanost",
-      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1930,6 +1908,17 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
       "id": "src-034",
       "name": "Nasdaq Markets",
       "category": "financije",
@@ -2027,6 +2016,17 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "src-057",
+      "name": "Supply Chain Brain",
+      "category": "trzista",
+      "url": "https://www.supplychainbrain.com/rss/topic/1145-news",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "The read operation timed out"
     },
     {
       "id": "src-137",
