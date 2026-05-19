@@ -57,7 +57,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-19T22:49:57.687449+00:00"
+    "fetched_at": "2026-05-19T23:43:32.515344+00:00"
   },
   {
     "id": "afe04b4cab8b18fe",
@@ -69,7 +69,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-19T22:49:57.687526+00:00"
+    "fetched_at": "2026-05-19T23:43:32.515417+00:00"
   },
   {
     "id": "25b3dba7ac823a67",
@@ -81,7 +81,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-19T22:49:57.687582+00:00"
+    "fetched_at": "2026-05-19T23:43:32.515464+00:00"
   },
   {
     "id": "f34e0846cfa4155f",
@@ -93,7 +93,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-19T22:49:57.687644+00:00"
+    "fetched_at": "2026-05-19T23:43:32.515516+00:00"
   },
   {
     "id": "b4cea2ca3d77a858",
@@ -105,7 +105,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-19T22:49:57.688084+00:00"
+    "fetched_at": "2026-05-19T23:43:32.515860+00:00"
   },
   {
     "id": "e2fac71a9a137318",
@@ -117,7 +117,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-19T22:49:57.688140+00:00"
+    "fetched_at": "2026-05-19T23:43:32.515905+00:00"
   },
   {
     "id": "a8dbea1b4e140770",
@@ -165,7 +165,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-19T22:49:57.687704+00:00"
+    "fetched_at": "2026-05-19T23:43:32.515564+00:00"
   },
   {
     "id": "a98eee73d2e97e01",
@@ -177,7 +177,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-19T22:49:57.687767+00:00"
+    "fetched_at": "2026-05-19T23:43:32.515619+00:00"
   },
   {
     "id": "b17b2d7b43d45173",
@@ -189,7 +189,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-19T22:49:57.687829+00:00"
+    "fetched_at": "2026-05-19T23:43:32.515672+00:00"
   },
   {
     "id": "415368da854b2685",
@@ -201,7 +201,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-19T22:49:57.687882+00:00"
+    "fetched_at": "2026-05-19T23:43:32.515715+00:00"
   },
   {
     "id": "5e8b365c73bc0fa8",
@@ -213,7 +213,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-19T22:49:57.687968+00:00"
+    "fetched_at": "2026-05-19T23:43:32.515766+00:00"
   },
   {
     "id": "492451d320b59777",
@@ -225,7 +225,46 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-19T22:49:57.688023+00:00"
+    "fetched_at": "2026-05-19T23:43:32.515810+00:00"
+  },
+  {
+    "id": "211e95f3f205dbe1",
+    "title": "Deutsche Bank applies AI to third party vendor risks",
+    "description": "Deutsche Bank is using artifical intelligence to speed up the tedious, time-consuming, process of reviewing third party vendor risks.",
+    "url": "https://www.finextra.com/newsarticle/47778/deutsche-bank-applies-ai-to-third-party-vendor-risks?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-11a830a5c7bb/1200/750",
+    "source": "Finextra",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-20T00:01:00+00:00",
+    "fetched_at": "2026-05-19T23:47:45.373133+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "1adf26b54cdb0727",
+    "title": "TSB reports spike in impersonation scams",
+    "description": "TSB is warning of a surge in impersonation scams as cases in the first quarter of this year have surpassed those recorded for full-year 2025, with the value of losses 116 percent higher.",
+    "url": "https://www.finextra.com/newsarticle/47779/tsb-reports-spike-in-impersonation-scams?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-fae9959fcf7f/1200/750",
+    "source": "Finextra",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-20T00:01:00+00:00",
+    "fetched_at": "2026-05-19T23:47:45.373189+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "e37c070abec5ae39",
+    "title": "Revolut rolls out crypto debit card",
+    "description": "Revolut has launched its first physical crypto debit card.",
+    "url": "https://www.finextra.com/newsarticle/47781/revolut-rolls-out-crypto-debit-card?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-398d3d623e1f/1200/750",
+    "source": "Finextra",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-20T00:01:00+00:00",
+    "fetched_at": "2026-05-19T23:47:45.373228+00:00",
+    "core_business_science_fill": true
   },
   {
     "id": "ddb82558a16d6a47",
@@ -236,8 +275,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-19T22:55:19.404878+00:00",
-    "fetched_at": "2026-05-19T22:55:19.404881+00:00",
+    "published_at": "2026-05-19T23:47:57.995296+00:00",
+    "fetched_at": "2026-05-19T23:47:57.995298+00:00",
     "missing_core_fill": true
   },
   {
@@ -249,8 +288,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-19T22:55:19.404827+00:00",
-    "fetched_at": "2026-05-19T22:55:19.404829+00:00",
+    "published_at": "2026-05-19T23:47:57.995245+00:00",
+    "fetched_at": "2026-05-19T23:47:57.995247+00:00",
     "missing_core_fill": true
   },
   {
@@ -262,8 +301,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-19T22:55:19.404774+00:00",
-    "fetched_at": "2026-05-19T22:55:19.404777+00:00",
+    "published_at": "2026-05-19T23:47:57.995194+00:00",
+    "fetched_at": "2026-05-19T23:47:57.995196+00:00",
     "missing_core_fill": true
   },
   {
@@ -275,8 +314,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-19T22:55:19.404724+00:00",
-    "fetched_at": "2026-05-19T22:55:19.404727+00:00",
+    "published_at": "2026-05-19T23:47:57.995146+00:00",
+    "fetched_at": "2026-05-19T23:47:57.995148+00:00",
     "missing_core_fill": true
   },
   {
@@ -288,8 +327,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-19T22:55:19.404674+00:00",
-    "fetched_at": "2026-05-19T22:55:19.404677+00:00",
+    "published_at": "2026-05-19T23:47:57.995099+00:00",
+    "fetched_at": "2026-05-19T23:47:57.995101+00:00",
     "missing_core_fill": true
   },
   {
@@ -301,8 +340,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-19T22:55:19.404617+00:00",
-    "fetched_at": "2026-05-19T22:55:19.404619+00:00",
+    "published_at": "2026-05-19T23:47:57.995043+00:00",
+    "fetched_at": "2026-05-19T23:47:57.995045+00:00",
     "missing_core_fill": true
   },
   {
@@ -314,8 +353,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-19T22:55:19.404568+00:00",
-    "fetched_at": "2026-05-19T22:55:19.404570+00:00",
+    "published_at": "2026-05-19T23:47:57.994996+00:00",
+    "fetched_at": "2026-05-19T23:47:57.994998+00:00",
     "missing_core_fill": true
   },
   {
@@ -327,8 +366,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-19T22:55:19.404508+00:00",
-    "fetched_at": "2026-05-19T22:55:19.404510+00:00",
+    "published_at": "2026-05-19T23:47:57.994926+00:00",
+    "fetched_at": "2026-05-19T23:47:57.994928+00:00",
     "missing_core_fill": true
   },
   {
@@ -340,8 +379,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-19T22:55:19.404443+00:00",
-    "fetched_at": "2026-05-19T22:55:19.404447+00:00",
+    "published_at": "2026-05-19T23:47:57.994864+00:00",
+    "fetched_at": "2026-05-19T23:47:57.994867+00:00",
     "missing_core_fill": true
   },
   {
@@ -353,34 +392,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-19T22:55:19.404373+00:00",
-    "fetched_at": "2026-05-19T22:55:19.404381+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "6269b97cfe3c8da4",
-    "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
-    "description": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SUV to help explain and interpret its surroundings to vehicle owners. The upgrade is possible thanks to Volvo's use of Google's embedded […]",
-    "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
-    "image": "https://picsum.photos/seed/wv-fill-0d582150f36b/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-19T22:55:12.694815+00:00",
-    "fetched_at": "2026-05-19T22:55:12.694817+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "deb19c314ecc2fe6",
-    "title": "Kickstarter just killed its new mature content rules",
-    "description": "Last week, we noted Kickstarter's new content guidelines, which had some pretty weird new additions, including a prohibition on \"sexual wellness products that are not designed for insertion or penetration and are not marketed primarily for sexual gratification.\" Those rules have now been eliminated and the company has restored an earlier version of its guidelines. […]",
-    "url": "https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules",
-    "image": "https://picsum.photos/seed/wv-fill-1a3b2591b029/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-19T22:55:12.694756+00:00",
-    "fetched_at": "2026-05-19T22:55:12.694758+00:00",
+    "published_at": "2026-05-19T23:47:57.994786+00:00",
+    "fetched_at": "2026-05-19T23:47:57.994799+00:00",
     "missing_core_fill": true
   },
   {
@@ -392,8 +405,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-19T22:55:12.694660+00:00",
-    "fetched_at": "2026-05-19T22:55:12.694662+00:00",
+    "published_at": "2026-05-19T23:47:51.762773+00:00",
+    "fetched_at": "2026-05-19T23:47:51.762775+00:00",
     "missing_core_fill": true
   },
   {
@@ -405,8 +418,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-19T22:55:12.694600+00:00",
-    "fetched_at": "2026-05-19T22:55:12.694602+00:00",
+    "published_at": "2026-05-19T23:47:51.762721+00:00",
+    "fetched_at": "2026-05-19T23:47:51.762722+00:00",
     "missing_core_fill": true
   },
   {
@@ -418,8 +431,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-19T22:55:12.694546+00:00",
-    "fetched_at": "2026-05-19T22:55:12.694549+00:00",
+    "published_at": "2026-05-19T23:47:51.762675+00:00",
+    "fetched_at": "2026-05-19T23:47:51.762677+00:00",
     "missing_core_fill": true
   },
   {
@@ -431,8 +444,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-19T22:55:12.694489+00:00",
-    "fetched_at": "2026-05-19T22:55:12.694491+00:00",
+    "published_at": "2026-05-19T23:47:51.762626+00:00",
+    "fetched_at": "2026-05-19T23:47:51.762627+00:00",
     "missing_core_fill": true
   },
   {
@@ -444,21 +457,21 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-19T22:55:12.694420+00:00",
-    "fetched_at": "2026-05-19T22:55:12.694423+00:00",
+    "published_at": "2026-05-19T23:47:51.762568+00:00",
+    "fetched_at": "2026-05-19T23:47:51.762570+00:00",
     "missing_core_fill": true
   },
   {
     "id": "cbf30ee45d24e098",
     "title": "We react to Google I/O 2026",
-    "description": "What better way to unwind from a two-hour-long keynote presentation than to pour over the weirdest and wildest details, from a Gmail bot you can converse with to DeepMind's leader saying the singularity is near. The Vergecast went live right after the show, with Senior AI Reporter Hayden Field joining me to discuss the highlights. […]",
+    "description": "What better way to unwind from a two-hour keynote presentation than to pore over the weirdest and wildest details, from a Gmail bot you can converse with to DeepMind's leader saying the singularity is near. The Vergecast went live right after the show, with senior AI reporter Hayden Field joining me to discuss the highlights. […]",
     "url": "https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026",
     "image": "https://picsum.photos/seed/wv-fill-0d4352facfa9/1200/750",
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-19T22:55:12.694362+00:00",
-    "fetched_at": "2026-05-19T22:55:12.694365+00:00",
+    "published_at": "2026-05-19T23:47:51.762522+00:00",
+    "fetched_at": "2026-05-19T23:47:51.762524+00:00",
     "missing_core_fill": true
   },
   {
@@ -470,8 +483,21 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-19T22:55:12.694294+00:00",
-    "fetched_at": "2026-05-19T22:55:12.694301+00:00",
+    "published_at": "2026-05-19T23:47:51.762472+00:00",
+    "fetched_at": "2026-05-19T23:47:51.762475+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "feca83ce0473c37e",
+    "title": "Plex is tripling the price of a lifetime pass to $750 after doubling it last year",
+    "description": "I am dying to know how much money Plex is about to make the next six weeks charging people to stream their own video from their own homes. Today, it's giving every prospective customer until July 1st to lock in a lifetime subscription at today's rates - before it triples the price to $750. Plex […]",
+    "url": "https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike",
+    "image": "https://picsum.photos/seed/wv-fill-3f4452be335b/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-19T23:47:51.762395+00:00",
+    "fetched_at": "2026-05-19T23:47:51.762407+00:00",
     "missing_core_fill": true
   },
   {
@@ -483,8 +509,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-19T22:55:05.294889+00:00",
-    "fetched_at": "2026-05-19T22:55:05.294891+00:00",
+    "published_at": "2026-05-19T23:47:45.212148+00:00",
+    "fetched_at": "2026-05-19T23:47:45.212150+00:00",
     "core_business_science_fill": true
   },
   {
@@ -496,8 +522,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-19T22:55:05.294863+00:00",
-    "fetched_at": "2026-05-19T22:55:05.294866+00:00",
+    "published_at": "2026-05-19T23:47:45.212113+00:00",
+    "fetched_at": "2026-05-19T23:47:45.212115+00:00",
     "core_business_science_fill": true
   },
   {
@@ -509,8 +535,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-19T22:55:05.294836+00:00",
-    "fetched_at": "2026-05-19T22:55:05.294839+00:00",
+    "published_at": "2026-05-19T23:47:45.212088+00:00",
+    "fetched_at": "2026-05-19T23:47:45.212090+00:00",
     "core_business_science_fill": true
   },
   {
@@ -522,8 +548,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-19T22:55:05.294807+00:00",
-    "fetched_at": "2026-05-19T22:55:05.294809+00:00",
+    "published_at": "2026-05-19T23:47:45.212062+00:00",
+    "fetched_at": "2026-05-19T23:47:45.212065+00:00",
     "core_business_science_fill": true
   },
   {
@@ -535,8 +561,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-19T22:55:05.294775+00:00",
-    "fetched_at": "2026-05-19T22:55:05.294778+00:00",
+    "published_at": "2026-05-19T23:47:45.212035+00:00",
+    "fetched_at": "2026-05-19T23:47:45.212038+00:00",
     "core_business_science_fill": true
   },
   {
@@ -548,8 +574,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-19T22:55:05.294734+00:00",
-    "fetched_at": "2026-05-19T22:55:05.294736+00:00",
+    "published_at": "2026-05-19T23:47:45.211996+00:00",
+    "fetched_at": "2026-05-19T23:47:45.211998+00:00",
     "core_business_science_fill": true
   },
   {
@@ -561,8 +587,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-19T22:55:05.294704+00:00",
-    "fetched_at": "2026-05-19T22:55:05.294706+00:00",
+    "published_at": "2026-05-19T23:47:45.211956+00:00",
+    "fetched_at": "2026-05-19T23:47:45.211958+00:00",
     "core_business_science_fill": true
   },
   {
@@ -574,8 +600,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-19T22:55:05.294672+00:00",
-    "fetched_at": "2026-05-19T22:55:05.294675+00:00",
+    "published_at": "2026-05-19T23:47:45.211928+00:00",
+    "fetched_at": "2026-05-19T23:47:45.211930+00:00",
     "core_business_science_fill": true
   },
   {
@@ -587,8 +613,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-19T22:55:05.294639+00:00",
-    "fetched_at": "2026-05-19T22:55:05.294642+00:00",
+    "published_at": "2026-05-19T23:47:45.211897+00:00",
+    "fetched_at": "2026-05-19T23:47:45.211900+00:00",
     "core_business_science_fill": true
   },
   {
@@ -600,8 +626,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-19T22:55:05.294594+00:00",
-    "fetched_at": "2026-05-19T22:55:05.294606+00:00",
+    "published_at": "2026-05-19T23:47:45.211851+00:00",
+    "fetched_at": "2026-05-19T23:47:45.211865+00:00",
     "core_business_science_fill": true
   },
   {
@@ -613,8 +639,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-19T22:52:02.423936+00:00",
-    "fetched_at": "2026-05-19T22:52:02.423940+00:00",
+    "published_at": "2026-05-19T23:45:13.747025+00:00",
+    "fetched_at": "2026-05-19T23:45:13.747027+00:00",
     "html_source": true
   },
   {
@@ -626,8 +652,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-19T22:52:02.423745+00:00",
-    "fetched_at": "2026-05-19T22:52:02.423748+00:00",
+    "published_at": "2026-05-19T23:45:13.746852+00:00",
+    "fetched_at": "2026-05-19T23:45:13.746854+00:00",
     "html_source": true
   },
   {
@@ -639,8 +665,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-19T22:52:02.423573+00:00",
-    "fetched_at": "2026-05-19T22:52:02.423575+00:00",
+    "published_at": "2026-05-19T23:45:13.746688+00:00",
+    "fetched_at": "2026-05-19T23:45:13.746690+00:00",
     "html_source": true
   },
   {
@@ -652,8 +678,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-19T22:52:02.423416+00:00",
-    "fetched_at": "2026-05-19T22:52:02.423418+00:00",
+    "published_at": "2026-05-19T23:45:13.746542+00:00",
+    "fetched_at": "2026-05-19T23:45:13.746543+00:00",
     "html_source": true
   },
   {
@@ -665,8 +691,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-19T22:52:02.423244+00:00",
-    "fetched_at": "2026-05-19T22:52:02.423246+00:00",
+    "published_at": "2026-05-19T23:45:13.746377+00:00",
+    "fetched_at": "2026-05-19T23:45:13.746379+00:00",
     "html_source": true
   },
   {
@@ -678,8 +704,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-19T22:52:02.423065+00:00",
-    "fetched_at": "2026-05-19T22:52:02.423068+00:00",
+    "published_at": "2026-05-19T23:45:13.746206+00:00",
+    "fetched_at": "2026-05-19T23:45:13.746208+00:00",
     "html_source": true
   },
   {
@@ -691,8 +717,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-19T22:52:02.422866+00:00",
-    "fetched_at": "2026-05-19T22:52:02.422869+00:00",
+    "published_at": "2026-05-19T23:45:13.746040+00:00",
+    "fetched_at": "2026-05-19T23:45:13.746042+00:00",
     "html_source": true
   },
   {
@@ -704,8 +730,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-19T22:52:02.422670+00:00",
-    "fetched_at": "2026-05-19T22:52:02.422673+00:00",
+    "published_at": "2026-05-19T23:45:13.745843+00:00",
+    "fetched_at": "2026-05-19T23:45:13.745845+00:00",
     "html_source": true
   },
   {
@@ -717,8 +743,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-19T22:52:02.422514+00:00",
-    "fetched_at": "2026-05-19T22:52:02.422517+00:00",
+    "published_at": "2026-05-19T23:45:13.745696+00:00",
+    "fetched_at": "2026-05-19T23:45:13.745699+00:00",
     "html_source": true
   },
   {
@@ -730,8 +756,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-19T22:52:02.422350+00:00",
-    "fetched_at": "2026-05-19T22:52:02.422353+00:00",
+    "published_at": "2026-05-19T23:45:13.745544+00:00",
+    "fetched_at": "2026-05-19T23:45:13.745547+00:00",
     "html_source": true
   },
   {
@@ -743,8 +769,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-19T22:52:02.422170+00:00",
-    "fetched_at": "2026-05-19T22:52:02.422173+00:00",
+    "published_at": "2026-05-19T23:45:13.745373+00:00",
+    "fetched_at": "2026-05-19T23:45:13.745375+00:00",
     "html_source": true
   },
   {
@@ -756,8 +782,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-19T22:52:02.421983+00:00",
-    "fetched_at": "2026-05-19T22:52:02.421998+00:00",
+    "published_at": "2026-05-19T23:45:13.745197+00:00",
+    "fetched_at": "2026-05-19T23:45:13.745212+00:00",
     "html_source": true
   },
   {
@@ -769,8 +795,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-19T22:52:01.874648+00:00",
-    "fetched_at": "2026-05-19T22:52:01.874650+00:00",
+    "published_at": "2026-05-19T23:45:13.295649+00:00",
+    "fetched_at": "2026-05-19T23:45:13.295651+00:00",
     "html_source": true
   },
   {
@@ -782,8 +808,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-19T22:52:01.874495+00:00",
-    "fetched_at": "2026-05-19T22:52:01.874497+00:00",
+    "published_at": "2026-05-19T23:45:13.295503+00:00",
+    "fetched_at": "2026-05-19T23:45:13.295505+00:00",
     "html_source": true
   },
   {
@@ -795,8 +821,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-19T22:52:01.874324+00:00",
-    "fetched_at": "2026-05-19T22:52:01.874327+00:00",
+    "published_at": "2026-05-19T23:45:13.295339+00:00",
+    "fetched_at": "2026-05-19T23:45:13.295341+00:00",
     "html_source": true
   },
   {
@@ -808,8 +834,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-19T22:52:01.874162+00:00",
-    "fetched_at": "2026-05-19T22:52:01.874164+00:00",
+    "published_at": "2026-05-19T23:45:13.295181+00:00",
+    "fetched_at": "2026-05-19T23:45:13.295183+00:00",
     "html_source": true
   },
   {
@@ -821,8 +847,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-19T22:52:01.874003+00:00",
-    "fetched_at": "2026-05-19T22:52:01.874006+00:00",
+    "published_at": "2026-05-19T23:45:13.295031+00:00",
+    "fetched_at": "2026-05-19T23:45:13.295033+00:00",
     "html_source": true
   },
   {
@@ -834,8 +860,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-19T22:52:01.873831+00:00",
-    "fetched_at": "2026-05-19T22:52:01.873834+00:00",
+    "published_at": "2026-05-19T23:45:13.294871+00:00",
+    "fetched_at": "2026-05-19T23:45:13.294873+00:00",
     "html_source": true
   },
   {
@@ -847,8 +873,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-19T22:52:01.873669+00:00",
-    "fetched_at": "2026-05-19T22:52:01.873672+00:00",
+    "published_at": "2026-05-19T23:45:13.294712+00:00",
+    "fetched_at": "2026-05-19T23:45:13.294714+00:00",
     "html_source": true
   },
   {
@@ -860,8 +886,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-19T22:52:01.873481+00:00",
-    "fetched_at": "2026-05-19T22:52:01.873483+00:00",
+    "published_at": "2026-05-19T23:45:13.294528+00:00",
+    "fetched_at": "2026-05-19T23:45:13.294530+00:00",
     "html_source": true
   },
   {
@@ -873,8 +899,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-19T22:52:01.873311+00:00",
-    "fetched_at": "2026-05-19T22:52:01.873314+00:00",
+    "published_at": "2026-05-19T23:45:13.294368+00:00",
+    "fetched_at": "2026-05-19T23:45:13.294370+00:00",
     "html_source": true
   },
   {
@@ -886,34 +912,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-19T22:52:01.873127+00:00",
-    "fetched_at": "2026-05-19T22:52:01.873130+00:00",
-    "html_source": true
-  },
-  {
-    "id": "bbc1c1f7c473d89c",
-    "title": "U regiji koju nazivaju skrivenim blagom Italije pronašli smo vilu čije uređenje očarava skladom starog i novog Ponedjeljak, 18. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/interijeri/villa-manodori-roncolo-1888/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Villa-Manodori_Simone-Furiosi-5-768x512.jpg",
-    "source": "Journal.hr - interijeri",
-    "source_id": "extra-journal-interijeri",
-    "category": "dizajn",
-    "published_at": "2026-05-19T22:52:01.872952+00:00",
-    "fetched_at": "2026-05-19T22:52:01.872956+00:00",
-    "html_source": true
-  },
-  {
-    "id": "d0dc96a484319941",
-    "title": "Stan u Splitu s galerijom, plavim akcentima i boravkom koji funkcionira kao unutrašnji trg Utorak, 19. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/interijeri/stan-c-studiodwg-split/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Stan-C_STUDIO-DWG-18-768x513.jpg",
-    "source": "Journal.hr - interijeri",
-    "source_id": "extra-journal-interijeri",
-    "category": "dizajn",
-    "published_at": "2026-05-19T22:52:01.872730+00:00",
-    "fetched_at": "2026-05-19T22:52:01.872744+00:00",
+    "published_at": "2026-05-19T23:45:13.294196+00:00",
+    "fetched_at": "2026-05-19T23:45:13.294198+00:00",
     "html_source": true
   }
 ]

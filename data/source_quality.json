@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T22:55:38.920674+00:00",
+  "updated_at": "2026-05-19T23:48:17.192652+00:00",
   "sources": 194,
   "ok": 126,
   "problem": 54,
@@ -1215,17 +1215,6 @@
       "error": ""
     },
     {
-      "id": "src-062",
-      "name": "The Verge",
-      "category": "tehnologija",
-      "url": "https://www.theverge.com/rss/index.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-102",
       "name": "Variety",
       "category": "kultura",
@@ -1307,6 +1296,17 @@
       "name": "Robb Report",
       "category": "hedonizam",
       "url": "https://robbreport.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 9,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-062",
+      "name": "The Verge",
+      "category": "tehnologija",
+      "url": "https://www.theverge.com/rss/index.xml",
       "status": "ok",
       "label": "radi",
       "count": 9,

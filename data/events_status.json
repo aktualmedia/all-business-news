@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T22:54:19.467203+00:00",
+  "updated_at": "2026-05-19T23:47:00.988365+00:00",
   "sources": 69,
   "ok_sources": 13,
   "events_count": 166,
@@ -335,8 +335,9 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "kazalište / premijere",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "<urlopen error timed out>"
     },
     {
       "id": "opera-paris",
@@ -720,9 +721,8 @@
       "country": "Australija",
       "city": "Melbourne",
       "type": "galerija / izložbe",
-      "status": "fallback",
-      "count": 1,
-      "error": "The read operation timed out"
+      "status": "program_link_only",
+      "count": 1
     }
   ]
 }
