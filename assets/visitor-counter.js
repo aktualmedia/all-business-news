@@ -2,6 +2,8 @@
   const START = 1310;
   const FIRST_DAY = '2026-05-18';
   const STORAGE_KEY = 'wv_read_counter_logic_v8_start_1310';
+  const repo = '/all-business-news/';
+  const PRIORITY_CATEGORIES = ['kultura','dizajn','pica','nakit','hedonizam'];
 
   function parts(){
     try{
@@ -64,11 +66,67 @@
     document.head.appendChild(s);
   }
   function tick(increment=false){ injectStyle(); ensureVisibleCard(); paint(calc(increment)); }
+
+  function esc(s){ return String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+  function basePath(){ const p = location.pathname; const i = p.indexOf(repo); return i >= 0 ? p.slice(0, i + repo.length) : '/'; }
+  function siteLink(path){ if(!path) return '#'; if(/^https?:|^mailto:|^viber:|^tel:/.test(path)) return path; return basePath() + String(path).replace(/^\/+/, ''); }
+  function newsUrl(n){ const local=String(n.local_url||n.local_path||''); if(local && !/^https?:/.test(local)) return siteLink(local); const external=String(n.url||local||''); return siteLink('citaj/index.html')+'?u='+encodeURIComponent(external)+'&t='+encodeURIComponent(n.title||'Vijest')+'&s='+encodeURIComponent(n.source||'')+'&c='+encodeURIComponent(n.category||'vijesti'); }
+  async function getJson(path, fallback){ try{ const r=await fetch(siteLink(path)+'?v='+Date.now(), {cache:'no-store'}); if(!r.ok) throw new Error(r.status); return await r.json(); }catch(e){ return fallback; } }
+  function hourSeed(){ const n=parts(); return `${n.date}-${n.hour}`; }
+  function rotate(arr, seed){ if(!arr.length) return arr; const offset = hash(seed) % arr.length; return arr.slice(offset).concat(arr.slice(0, offset)); }
+  function prioritize(list){
+    const priority = [];
+    const regular = [];
+    list.forEach(n => (PRIORITY_CATEGORIES.includes(String(n.category||'').toLowerCase()) ? priority : regular).push(n));
+    const p = rotate(priority, hourSeed()+':priority');
+    const r = rotate(regular, hourSeed()+':regular');
+    const out = [];
+    let pi=0, ri=0;
+    while(pi < p.length || ri < r.length){
+      for(let k=0;k<3 && pi<p.length;k++) out.push(p[pi++]);
+      if(ri<r.length) out.push(r[ri++]);
+    }
+    return out;
+  }
+  function card(n, i){
+    const url = newsUrl(n);
+    return `<article class="news-card"><img loading="${i<6?'eager':'lazy'}" decoding="async" src="${esc(n.image||'')}" alt=""><div class="card-body"><p class="meta">${esc(n.category||'VIJESTI')} · ${esc(n.source||'')}</p><h3><a href="${esc(url)}">${esc(n.title||'')}</a></h3><p>${esc(String(n.description||n.summary||'').slice(0,360))}</p><a class="button small" href="${esc(url)}">OTVORI VIJEST</a></div></article>`;
+  }
+  function renderPriorityNews(news){
+    const grid = document.getElementById('newsGrid');
+    if(!grid || !news.length) return;
+    const search = document.getElementById('searchInput');
+    const select = document.getElementById('categorySelect');
+    if((search && search.value) || (select && select.value)) return;
+    const arr = prioritize(news).slice(0,24);
+    grid.innerHTML = arr.map(card).join('');
+  }
+  function renderPriorityRotator(news){
+    const box = document.getElementById('latestRotatorBox');
+    if(!box || !news.length) return;
+    const arr = prioritize(news).slice(0,18);
+    const index = Math.floor(Date.now()/15000) % arr.length;
+    const n = arr[index];
+    const dots = arr.slice(0,6).map((_,i)=>`<span class="${i===index%6?'active':''}"></span>`).join('');
+    box.innerHTML = `<a class="latest-rotator-card" href="${esc(newsUrl(n))}"><img loading="eager" decoding="async" src="${esc(n.image||'')}" alt="${esc(n.title||'')}"><div><p class="meta">${esc(n.category||'VIJESTI')} · ${esc(n.source||'')}</p><h3>${esc(n.title||'')}</h3><p>${esc(String(n.description||n.summary||'').slice(0,170))}</p></div></a><div class="latest-rotator-dots">${dots}</div>`;
+  }
+  async function priorityBoot(){
+    if(!document.getElementById('newsGrid') && !document.getElementById('latestRotatorBox')) return;
+    const news = (await getJson('data/home_news.json', [])).filter(n => n && (n.title || n.description));
+    if(!news.length) return;
+    renderPriorityNews(news);
+    renderPriorityRotator(news);
+    setInterval(()=>renderPriorityRotator(news), 15000);
+    setInterval(()=>renderPriorityNews(news), 60*60*1000);
+  }
+
   function boot(){
     tick(true);
+    priorityBoot();
     document.addEventListener('click', e=>{ if(e.target && e.target.closest && e.target.closest('a,button')) tick(true); }, {passive:true});
     setTimeout(()=>tick(false),400);
     setTimeout(()=>tick(false),1400);
+    setTimeout(priorityBoot,1800);
     setInterval(()=>tick(false),15000);
   }
   document.readyState === 'loading' ? document.addEventListener('DOMContentLoaded', boot) : boot();
