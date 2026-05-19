@@ -4,7 +4,6 @@
   const basePath = () => { const p = location.pathname; const i = p.indexOf(repo); return i >= 0 ? p.slice(0, i + repo.length) : '/'; };
   const siteLink = p => !p ? basePath() : (/^https?:|^mailto:|^viber:|^tel:/.test(p) ? p : basePath() + String(p).replace(/^\/+/, ''));
   const absBase = () => location.origin + basePath();
-  const esc = s => String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   function meta(sel,k,v,c){ let el=document.head.querySelector(sel); if(!el){ el=document.createElement('meta'); el.setAttribute(k,v); document.head.appendChild(el); } el.content=c; }
   function alt(code,href){ if(document.head.querySelector('link[rel="alternate"][hreflang="'+code+'"]')) return; const x=document.createElement('link'); x.rel='alternate'; x.hreflang=code; x.href=href; document.head.appendChild(x); }
   function jsonld(id,obj){ let s=document.head.querySelector('script[data-jsonld-id="'+id+'"]'); if(!s){ s=document.createElement('script'); s.type='application/ld+json'; s.dataset.jsonldId=id; document.head.appendChild(s); } s.textContent=JSON.stringify(obj); }
@@ -19,17 +18,26 @@
     const title=document.title||'WEB VIJESTI / All Business News';
     const h1=document.querySelector('h1')?.innerText||title;
     const desc='WEB VIJESTI / All Business News donosi poslovne, ekonomske, financijske, tehnološke, kulturne i autorske objave, Symbol izdanja, galeriju, radio i događanja. Autor objava: Nermin Sefić.';
-    const kw='WEB VIJESTI, All Business News, Aktual Media, Nermin Sefić, ekonomija, financije, poslovanje, tržišta, kapital, tehnologija, kultura, Symbol, Symbol galerija, video preview, hedonizam, satovi, nakit, vina, hrana, događanja';
+    const kw='WEB VIJESTI, All Business News, Aktual Media, Nermin Sefić, ekonomija, financije, poslovanje, tržišta, kapital, tehnologija, kultura, Symbol, Symbol galerija, video preview, hedonizam, satovi, nakit, vina, hrana';
     const url=currentUrl();
     meta('meta[name="description"]','name','description',desc); meta('meta[name="keywords"]','name','keywords',kw); meta('meta[name="author"]','name','author','Nermin Sefić'); meta('meta[name="publisher"]','name','publisher','Aktual Media'); meta('meta[name="robots"]','name','robots','index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1');
     meta('meta[property="og:title"]','property','og:title',title); meta('meta[property="og:description"]','property','og:description',desc); meta('meta[property="og:url"]','property','og:url',url); meta('meta[property="og:type"]','property','og:type','website'); meta('meta[name="twitter:card"]','name','twitter:card','summary_large_image');
     jsonld('website', {'@context':'https://schema.org','@type':'WebSite',name:'WEB VIJESTI / All Business News',url:absBase(),inLanguage:'hr-HR',publisher:{'@type':'Organization',name:'Aktual Media'},author:{'@type':'Person',name:'Nermin Sefić'}});
-    jsonld('webpage', {'@context':'https://schema.org','@type':'WebPage',headline:h1,name:title,description:desc,url,inLanguage:'hr-HR',isPartOf:{'@type':'WebSite',name:'WEB VIJESTI / All Business News',url:absBase()}});
+    jsonld('webpage', {'@context':'https://schema.org','@type':'WebPage',headline:h1,name:title,description:desc,url:url,inLanguage:'hr-HR',isPartOf:{'@type':'WebSite',name:'WEB VIJESTI / All Business News',url:absBase()}});
   }
-  function nav(){ document.querySelectorAll('.top-nav').forEach(n=>{ if(!n.querySelector('[data-symbol-gallery]')){ const a=document.createElement('a'); a.href=siteLink('symbol-galerija/index.html'); a.textContent='SYMBOL GALERIJA'; a.dataset.symbolGallery='1'; const s=[...n.querySelectorAll('a')].find(x=>x.textContent.trim().toUpperCase()==='SYMBOL'); s?s.insertAdjacentElement('afterend',a):n.appendChild(a); } }); }
+  function nav(){
+    document.querySelectorAll('.top-nav').forEach(n=>{
+      const links=[...n.querySelectorAll('a')];
+      const hasGallery=links.some(a=>a.textContent.trim().toUpperCase()==='SYMBOL GALERIJA' || (a.getAttribute('href')||'').includes('symbol-galerija'));
+      if(!hasGallery){
+        const a=document.createElement('a'); a.href=siteLink('symbol-galerija/index.html'); a.textContent='SYMBOL GALERIJA'; a.dataset.symbolGallery='1';
+        const s=links.find(x=>x.textContent.trim().toUpperCase()==='SYMBOL'); s?s.insertAdjacentElement('afterend',a):n.appendChild(a);
+      }
+    });
+  }
   function floating(){ if(document.getElementById('floatingHomeBtn')) return; const a=document.createElement('a'); a.id='floatingHomeBtn'; a.href=siteLink('index.html'); a.textContent='HOME'; document.body.appendChild(a); const st=document.createElement('style'); st.textContent='#floatingHomeBtn{position:fixed;right:18px;bottom:82px;z-index:99999;display:grid;place-items:center;min-width:46px;height:46px;padding:0 13px;border-radius:999px;background:#111;color:#c8a44d;border:1px solid #c8a44d;text-decoration:none;font-size:.82rem;font-weight:1000;box-shadow:0 14px 32px rgba(0,0,0,.22)}#floatingHomeBtn:hover{background:#c8a44d;color:#111}@media(max-width:700px){#floatingHomeBtn{right:12px;bottom:72px;height:40px;min-width:40px;font-size:.74rem}}'; document.head.appendChild(st); }
   function video(){ document.querySelectorAll('.video-card').forEach(card=>{ if(card.querySelector('iframe')||card.querySelector('.video-lite')) return; const a=card.querySelector('a[href*="youtu"]'); const img=card.querySelector('img'); if(!a||!img) return; const m=a.href.match(/[?&]v=([^&]+)/)||a.href.match(/youtu\.be\/([^?]+)/); if(!m) return; const b=document.createElement('button'); b.className='video-lite'; b.innerHTML='<img src="'+img.src+'" alt=""><span>▶</span>'; img.replaceWith(b); b.onclick=()=>{ b.outerHTML='<iframe class="video-frame" loading="lazy" src="https://www.youtube-nocookie.com/embed/'+m[1]+'?autoplay=1" title="YouTube video" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>'; }; }); }
   function addStyles(){ if(document.getElementById('seoMetaPatchStyle')) return; const st=document.createElement('style'); st.id='seoMetaPatchStyle'; st.textContent='.video-lite{position:relative;display:block;width:100%;border:0;padding:0;background:#111;cursor:pointer}.video-lite img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block}.video-lite span{position:absolute;inset:0;display:grid;place-items:center;color:white;font-size:3rem;text-shadow:0 4px 18px rgba(0,0,0,.5)}.event-card,.event-card *{min-width:0;max-width:100%;overflow-wrap:anywhere}.event-card h3{word-break:break-word;hyphens:auto}'; document.head.appendChild(st); }
-  function run(){ addStyles(); seo(); languages(); nav(); floating(); video(); setTimeout(languages,1200); setTimeout(video,1500); }
+  function run(){ addStyles(); seo(); languages(); nav(); floating(); video(); setTimeout(languages,1200); setTimeout(nav,1200); setTimeout(video,1500); }
   document.readyState==='loading'?document.addEventListener('DOMContentLoaded',run):run();
 })();
