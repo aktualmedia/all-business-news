@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-19T11:17:33.172392+00:00",
+  "updated_at": "2026-05-19T11:27:05.893945+00:00",
   "sources": 194,
-  "ok": 125,
-  "problem": 55,
+  "ok": 126,
+  "problem": 54,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -218,6 +218,17 @@
       "name": "Design Milk",
       "category": "dizajn",
       "url": "https://design-milk.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-118",
+      "name": "DesignWanted",
+      "category": "dizajn",
+      "url": "https://designwanted.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -471,6 +482,17 @@
       "name": "NBER Digest",
       "category": "ekonomija",
       "url": "https://www.nber.org/rss/new.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-083",
+      "name": "Nature News",
+      "category": "znanost",
+      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1127,17 +1149,6 @@
       "error": ""
     },
     {
-      "id": "src-083",
-      "name": "Nature News",
-      "category": "znanost",
-      "url": "https://www.nature.com/nature.rss",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-151",
       "name": "Packaging Gateway",
       "category": "trzista",
@@ -1732,17 +1743,6 @@
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "id": "src-118",
-      "name": "DesignWanted",
-      "category": "dizajn",
-      "url": "https://designwanted.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
-    },
-    {
       "id": "src-132",
       "name": "Dezeen Events",
       "category": "lifestyle",
@@ -1795,7 +1795,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 404: Not Found"
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-026",
