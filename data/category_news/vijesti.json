@@ -8,8 +8,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "vijesti",
-    "published_at": "2026-05-19T11:49:21.256190+00:00",
-    "fetched_at": "2026-05-19T11:49:21.256193+00:00",
+    "published_at": "2026-05-19T17:06:37.773582+00:00",
+    "fetched_at": "2026-05-19T17:06:37.773585+00:00",
     "missing_core_fill": true
   },
   {
@@ -21,8 +21,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "vijesti",
-    "published_at": "2026-05-19T11:49:21.256124+00:00",
-    "fetched_at": "2026-05-19T11:49:21.256131+00:00",
+    "published_at": "2026-05-19T17:06:37.773529+00:00",
+    "fetched_at": "2026-05-19T17:06:37.773531+00:00",
     "missing_core_fill": true
   },
   {
@@ -34,8 +34,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "vijesti",
-    "published_at": "2026-05-19T11:49:21.256039+00:00",
-    "fetched_at": "2026-05-19T11:49:21.256041+00:00",
+    "published_at": "2026-05-19T17:06:37.773476+00:00",
+    "fetched_at": "2026-05-19T17:06:37.773478+00:00",
     "missing_core_fill": true
   },
   {
@@ -47,8 +47,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "vijesti",
-    "published_at": "2026-05-19T11:49:21.255986+00:00",
-    "fetched_at": "2026-05-19T11:49:21.255988+00:00",
+    "published_at": "2026-05-19T17:06:37.773420+00:00",
+    "fetched_at": "2026-05-19T17:06:37.773422+00:00",
     "missing_core_fill": true
   },
   {
@@ -60,8 +60,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "vijesti",
-    "published_at": "2026-05-19T11:49:21.255934+00:00",
-    "fetched_at": "2026-05-19T11:49:21.255937+00:00",
+    "published_at": "2026-05-19T17:06:37.773364+00:00",
+    "fetched_at": "2026-05-19T17:06:37.773367+00:00",
     "missing_core_fill": true
   },
   {
@@ -73,8 +73,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "vijesti",
-    "published_at": "2026-05-19T11:49:21.255884+00:00",
-    "fetched_at": "2026-05-19T11:49:21.255886+00:00",
+    "published_at": "2026-05-19T17:06:37.773311+00:00",
+    "fetched_at": "2026-05-19T17:06:37.773313+00:00",
     "missing_core_fill": true
   },
   {
@@ -86,8 +86,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "vijesti",
-    "published_at": "2026-05-19T11:49:21.255826+00:00",
-    "fetched_at": "2026-05-19T11:49:21.255828+00:00",
+    "published_at": "2026-05-19T17:06:37.773250+00:00",
+    "fetched_at": "2026-05-19T17:06:37.773252+00:00",
     "missing_core_fill": true
   },
   {
@@ -99,8 +99,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "vijesti",
-    "published_at": "2026-05-19T11:49:21.255775+00:00",
-    "fetched_at": "2026-05-19T11:49:21.255777+00:00",
+    "published_at": "2026-05-19T17:06:37.773196+00:00",
+    "fetched_at": "2026-05-19T17:06:37.773199+00:00",
     "missing_core_fill": true
   },
   {
@@ -112,8 +112,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "vijesti",
-    "published_at": "2026-05-19T11:49:21.255714+00:00",
-    "fetched_at": "2026-05-19T11:49:21.255717+00:00",
+    "published_at": "2026-05-19T17:06:37.773131+00:00",
+    "fetched_at": "2026-05-19T17:06:37.773134+00:00",
     "missing_core_fill": true
   },
   {
@@ -125,9 +125,61 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "vijesti",
-    "published_at": "2026-05-19T11:49:21.255639+00:00",
-    "fetched_at": "2026-05-19T11:49:21.255645+00:00",
+    "published_at": "2026-05-19T17:06:37.773052+00:00",
+    "fetched_at": "2026-05-19T17:06:37.773061+00:00",
     "missing_core_fill": true
+  },
+  {
+    "id": "12d3df41edb20e34",
+    "title": "Smashed Pork Tacos",
+    "description": "Izvorni naslov/sažetak s portala Bon Appetit. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.bonappetit.com/recipe/smashed-pork-tacos",
+    "image": "https://assets.bonappetit.com/photos/6a0b568ceaca471cdbfbe239/master/pass/20260507_04_Smashed%20Pork%20Tacos_114_FINAL.jpg",
+    "source": "Bon Appetit",
+    "source_id": "missing-core-hrana",
+    "category": "vijesti",
+    "published_at": "2026-05-19T17:00:00+00:00",
+    "fetched_at": "2026-05-19T17:06:37.996594+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "c3afbef8a80f61f1",
+    "title": "I Tried Every Rosé at Aldi, and This Under-$10 French Bottle Is the Best One You Can Buy",
+    "description": "According to a former wine buyer. READ MORE...",
+    "url": "https://www.thekitchn.com/aldi-best-rose-wine-2-23783190?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+    "image": "https://picsum.photos/seed/wv-premium-d5876431c2c5/1200/750",
+    "source": "The Kitchn",
+    "source_id": "premium-hrana",
+    "category": "vijesti",
+    "published_at": "2026-05-19T14:30:00+00:00",
+    "fetched_at": "2026-05-19T17:05:59.168695+00:00",
+    "premium_category_fill": true
+  },
+  {
+    "id": "be32d754bc40a480",
+    "title": "I Tried 7 Goldfish Flavors to Find Which One Pairs Best with a Martini (Thanks, Julia Child!)",
+    "description": "My favorite flavor was a total surprise. READ MORE...",
+    "url": "https://www.thekitchn.com/julia-child-goldfish-crackers-martini-review-23783489?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+    "image": "https://picsum.photos/seed/wv-premium-4d759964b931/1200/750",
+    "source": "The Kitchn",
+    "source_id": "premium-hrana",
+    "category": "vijesti",
+    "published_at": "2026-05-19T13:30:00+00:00",
+    "fetched_at": "2026-05-19T17:05:59.168839+00:00",
+    "premium_category_fill": true
+  },
+  {
+    "id": "99ca3025e262678e",
+    "title": "I Usually Doctor Up Jarred Pasta Sauce, but Rao’s New Creamy Drop Is Perfect",
+    "description": "Garlicky and peppery. READ MORE...",
+    "url": "https://www.thekitchn.com/raos-new-creamy-roasted-garlic-and-peppered-parmesan-23783476?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+    "image": "https://picsum.photos/seed/wv-premium-371302e878fb/1200/750",
+    "source": "The Kitchn",
+    "source_id": "premium-hrana",
+    "category": "vijesti",
+    "published_at": "2026-05-19T13:00:00+00:00",
+    "fetched_at": "2026-05-19T17:05:59.168925+00:00",
+    "premium_category_fill": true
   },
   {
     "id": "105e765c0658344f",
@@ -139,7 +191,7 @@
     "source_id": "missing-core-hrana",
     "category": "vijesti",
     "published_at": "2026-05-18T21:42:46+00:00",
-    "fetched_at": "2026-05-19T11:49:21.493860+00:00",
+    "fetched_at": "2026-05-19T17:06:37.996641+00:00",
     "missing_core_fill": true
   },
   {
@@ -152,7 +204,7 @@
     "source_id": "premium-hrana",
     "category": "vijesti",
     "published_at": "2026-05-18T21:15:00+00:00",
-    "fetched_at": "2026-05-19T11:48:45.344740+00:00",
+    "fetched_at": "2026-05-19T17:05:59.168995+00:00",
     "premium_category_fill": true
   },
   {
@@ -165,7 +217,7 @@
     "source_id": "premium-hrana",
     "category": "vijesti",
     "published_at": "2026-05-18T20:20:00+00:00",
-    "fetched_at": "2026-05-19T11:48:45.344833+00:00",
+    "fetched_at": "2026-05-19T17:05:59.169075+00:00",
     "premium_category_fill": true
   },
   {
@@ -178,7 +230,7 @@
     "source_id": "premium-hrana",
     "category": "vijesti",
     "published_at": "2026-05-18T20:00:00+00:00",
-    "fetched_at": "2026-05-19T11:48:45.344902+00:00",
+    "fetched_at": "2026-05-19T17:05:59.169140+00:00",
     "premium_category_fill": true
   },
   {
@@ -191,7 +243,7 @@
     "source_id": "premium-hrana",
     "category": "vijesti",
     "published_at": "2026-05-18T19:40:00+00:00",
-    "fetched_at": "2026-05-19T11:48:45.344980+00:00",
+    "fetched_at": "2026-05-19T17:05:59.169212+00:00",
     "premium_category_fill": true
   },
   {
@@ -217,7 +269,7 @@
     "source_id": "premium-hrana",
     "category": "vijesti",
     "published_at": "2026-05-18T18:46:39+00:00",
-    "fetched_at": "2026-05-19T11:48:45.345046+00:00",
+    "fetched_at": "2026-05-19T17:05:59.169274+00:00",
     "premium_category_fill": true
   },
   {
@@ -230,46 +282,7 @@
     "source_id": "missing-core-hrana",
     "category": "vijesti",
     "published_at": "2026-05-18T18:42:20+00:00",
-    "fetched_at": "2026-05-19T11:49:21.493903+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "b076846fb9d31784",
-    "title": "My Chicken Spiedini Are the Easiest Skewers I’ve Ever Made",
-    "description": "You don’t need to bust out the grill to make great skewers. READ MORE...",
-    "url": "https://www.thekitchn.com/speidini-recipe-23783198?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-    "image": "https://picsum.photos/seed/wv-premium-f236ca3a55af/1200/750",
-    "source": "The Kitchn",
-    "source_id": "premium-hrana",
-    "category": "vijesti",
-    "published_at": "2026-05-18T16:00:00+00:00",
-    "fetched_at": "2026-05-19T11:48:45.345148+00:00",
-    "premium_category_fill": true
-  },
-  {
-    "id": "af0afa4e2026a84f",
-    "title": "I Ditched Homemade Marinades for This Legendary $3 Steak House Dressing — And My Chicken Has Never Been Juicier",
-    "description": "Some classics never die, baby. READ MORE...",
-    "url": "https://www.thekitchn.com/kens-steak-house-italian-dressing-review-23783105?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-    "image": "https://picsum.photos/seed/wv-premium-6f0fed1a3246/1200/750",
-    "source": "The Kitchn",
-    "source_id": "premium-hrana",
-    "category": "vijesti",
-    "published_at": "2026-05-18T15:30:00+00:00",
-    "fetched_at": "2026-05-19T11:48:45.345226+00:00",
-    "premium_category_fill": true
-  },
-  {
-    "id": "a1d279cd2979a9ac",
-    "title": "Best Personal Blenders for Solo Smoothies & Small Jobs (2026)",
-    "description": "Izvorni naslov/sažetak s portala Bon Appetit. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.bonappetit.com/story/best-personal-blenders",
-    "image": "https://assets.bonappetit.com/photos/6a074977f0201a8cbc7a1328/master/pass/Personal%20Blenders%202.jpg",
-    "source": "Bon Appetit",
-    "source_id": "missing-core-hrana",
-    "category": "vijesti",
-    "published_at": "2026-05-18T15:29:10+00:00",
-    "fetched_at": "2026-05-19T11:49:21.493944+00:00",
+    "fetched_at": "2026-05-19T17:06:37.996680+00:00",
     "missing_core_fill": true
   }
 ]
