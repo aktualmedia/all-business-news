@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T18:34:00.175713+00:00",
+  "updated_at": "2026-05-19T19:34:42.200997+00:00",
   "sources": 194,
   "ok": 126,
   "problem": 54,
@@ -1226,17 +1226,6 @@
       "error": ""
     },
     {
-      "id": "src-102",
-      "name": "Variety",
-      "category": "kultura",
-      "url": "https://variety.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-168",
       "name": "Wine Enthusiast",
       "category": "pica",
@@ -1307,6 +1296,17 @@
       "name": "Robb Report",
       "category": "hedonizam",
       "url": "https://robbreport.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 9,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-102",
+      "name": "Variety",
+      "category": "kultura",
+      "url": "https://variety.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 9,

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T18:32:10.901461+00:00",
+  "updated_at": "2026-05-19T19:33:03.911013+00:00",
   "sources": 69,
   "ok_sources": 13,
   "events_count": 166,
@@ -11,8 +11,9 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "opći kalendar",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "The read operation timed out"
     },
     {
       "id": "lisinski",
@@ -596,9 +597,8 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "muzej / izložbe",
-      "status": "fallback",
-      "count": 1,
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "musee-orsay",
