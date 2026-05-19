@@ -1,7 +1,7 @@
 (() => {
-  const START = 629;
+  const START = 1310;
   const FIRST_DAY = '2026-05-18';
-  const STORAGE_KEY = 'wv_read_counter_logic_v7';
+  const STORAGE_KEY = 'wv_read_counter_logic_v8_start_1310';
 
   function parts(){
     try{
@@ -46,7 +46,7 @@
     if(!status) return null;
     const wrap = document.createElement('div');
     wrap.className = 'side-stat read-counter-card';
-    wrap.innerHTML = '<span>Brojač čitanja</span><strong id="wvReadCounter" data-wv-counter="reads">629</strong>';
+    wrap.innerHTML = '<span>Brojač čitanja</span><strong id="wvReadCounter" data-wv-counter="reads">1310</strong>';
     if(status.classList.contains('side-stat-list')) status.prepend(wrap); else status.appendChild(wrap);
     return wrap.querySelector('strong');
   }
