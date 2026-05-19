@@ -1,0 +1,63 @@
+name: Hourly force update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
+
+env:
+  TZ: Europe/Zagreb
+
+concurrency:
+  group: hourly-force-update
+  cancel-in-progress: true
+
+jobs:
+  hourly-force-update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run full update pipeline
+        run: |
+          echo "START HOURLY FORCE UPDATE: $(date -u)"
+          python update_news.py || echo "update_news.py failed, continuing"
+          python update_events.py || echo "update_events.py failed, continuing"
+          python postprocess_news.py || echo "postprocess_news.py failed, continuing"
+          python fill_symbol_quorum_en.py || echo "fill_symbol_quorum_en.py failed, continuing"
+          python fill_premium_categories.py || echo "fill_premium_categories.py failed, continuing"
+          python fill_core_business_science.py || echo "fill_core_business_science.py failed, continuing"
+          python fill_missing_core_categories.py || echo "fill_missing_core_categories.py failed, continuing"
+          python generate_home_data.py || echo "generate_home_data.py failed, continuing"
+          python generate_seo.py || echo "generate_seo.py failed, continuing"
+          python - <<'PY'
+          import json
+          from datetime import datetime, timezone
+          from pathlib import Path
+          p = Path('data/last_auto_update.json')
+          p.parent.mkdir(parents=True, exist_ok=True)
+          p.write_text(json.dumps({'updated_at': datetime.now(timezone.utc).isoformat(), 'source': 'hourly-force-update'}, ensure_ascii=False, indent=2), encoding='utf-8')
+          PY
+          echo "END HOURLY FORCE UPDATE: $(date -u)"
+
+      - name: Commit updated files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git pull --rebase || true
+          git add data sitemap.xml sitemap-news.xml sitemap-posts.xml sitemap-authors.xml sitemap-events.xml urllist.txt site.webmanifest llms.txt robots.txt || true
+          git commit -m "Hourly automatic update" || echo "No changes to commit"
+          git push || true
