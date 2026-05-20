@@ -1,96 +1,78 @@
 {
-  "updated_at": "2026-05-20T13:25:50.883501+00:00",
+  "updated_at": "2026-05-20T13:27:52.688180+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
-      "id": "symbol",
-      "label": "SYMBOL",
-      "count": 8,
-      "cover": "assets/editions/covers/symbol-8.jpg"
-    },
-    {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 38,
-      "cover": "https://deadline.com/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-11.38.13-e1779187174942.png"
+      "count": 80,
+      "cover": "https://deadline.com/wp-content/uploads/2026/04/GettyImages-2265995555.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 37,
-      "cover": "https://www.designboom.com/wp-content/uploads/2026/05/venice-architecture-biennale-2027-theme-Wang-Shu-Lu-Wenyu-designboom-700-500x400-22b08q85r399.jpg"
+      "count": 34,
+      "cover": "https://cdn.mos.cms.futurecdn.net/z9thPQTQ3zwA4npUpYqq99-1280-80.jpg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 37,
-      "cover": "https://robbreport.com/wp-content/uploads/2026/05/Louis-Vuitton-Color-Blossom-Watches-3.jpg"
+      "count": 7,
+      "cover": "https://robbreport.com/wp-content/uploads/2026/05/Daniel-Arsham-Porsche-911-restomod-opener.jpg"
     },
     {
       "id": "hrana",
       "label": "HRANA",
-      "count": 24,
-      "cover": "https://assets.bonappetit.com/photos/69f9bd3484048f1ba372b1e5/master/pass/Travel%20eds%20picks%202026%202.jpg"
+      "count": 2,
+      "cover": "https://assets.bonappetit.com/photos/672247310f38d6690f43967d/master/pass/best-soda-makers_LEDE_V9_102324_1902_VOG_Badge_final.jpg"
     },
     {
       "id": "pica",
       "label": "PIĆA",
-      "count": 37,
-      "cover": "https://www.thespiritsbusiness.com/content/uploads/2026/05/TFWA-Asia-Pacific-Exhibition-Conference-2026.jpg"
+      "count": 28,
+      "cover": "https://www.thespiritsbusiness.com/content/uploads/2026/05/Dalmore-Distillery-glass.jpg"
     },
     {
       "id": "satovi",
       "label": "SATOVI",
-      "count": 37,
-      "cover": "https://monochrome-watches.com/app/uploads/2026/05/Moritz-Grossmann-Backpage-Tremblage-Editions-200th-anniversary-review-4-600x237.jpg"
-    },
-    {
-      "id": "nakit",
-      "label": "NAKIT",
-      "count": 37,
-      "cover": "https://www.jewellermagazine.com/Img/172274"
+      "count": 5,
+      "cover": "https://monochrome-watches.com/app/uploads/2026/05/Awake-Son-Mai-Guilloche-Collection-38mm-1-600x237.jpg"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 37,
-      "cover": "https://coolhunting.com/wp-content/uploads/2026/05/26CDF1CD070128-CadillacF1Team_6991_HiRes-768x513.jpg"
+      "count": 28,
+      "cover": "https://coolhunting.com/wp-content/uploads/2026/05/img_6-768x432.jpg"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 37,
-      "cover": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Strait-of-Hormuz-TeleGeography.webp"
+      "count": 53,
+      "cover": "https://media.wired.com/photos/6a0b81bba9ee0c040889a5de/master/pass/Review%20Ride1Up%20Roadster%20V3%20top%20art%20052026%20SOURCE%20Ride1Up.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 37,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/democratic-republic-of.jpg"
+      "count": 102,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/harnessing-brain-imagi.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 37,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/665e0d2d8a36a8621d158fb0/0x0.jpg?width=960"
+      "count": 100,
+      "cover": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2276547271.jpg"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 37,
-      "cover": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "count": 52,
+      "cover": "https://images.mktw.net/im-11677072"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 37,
-      "cover": "https://agfundernews.com/wp-content/uploads/2026/05/grainflow-truck-detection-screenshot-150x150.jpg"
-    },
-    {
-      "id": "vijesti",
-      "label": "VIJESTI",
-      "count": 23,
-      "cover": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/133452ba-5209-482d-089c-c51f5b48b900/w=1024"
+      "count": 9,
+      "cover": "https://www.freightwaves.com/wp-content/uploads/2026/05/19/Volvo-13-litre-engine-ACT-Expo-2026-scaled.jpeg"
     }
   ]
 }
