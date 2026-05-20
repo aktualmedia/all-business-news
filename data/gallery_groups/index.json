@@ -1,5 +1,6 @@
 {
-  "updated_at": "2026-05-20T13:17:57.311213+00:00",
+  "updated_at": "2026-05-20T13:25:50.883501+00:00",
+  "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "symbol",
@@ -14,21 +15,21 @@
       "cover": "https://deadline.com/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-11.38.13-e1779187174942.png"
     },
     {
-      "id": "muzeji",
-      "label": "MUZEJI",
-      "count": 0,
-      "cover": ""
+      "id": "dizajn",
+      "label": "DIZAJN",
+      "count": 37,
+      "cover": "https://www.designboom.com/wp-content/uploads/2026/05/venice-architecture-biennale-2027-theme-Wang-Shu-Lu-Wenyu-designboom-700-500x400-22b08q85r399.jpg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 49,
+      "count": 37,
       "cover": "https://robbreport.com/wp-content/uploads/2026/05/Louis-Vuitton-Color-Blossom-Watches-3.jpg"
     },
     {
       "id": "hrana",
       "label": "HRANA",
-      "count": 34,
+      "count": 24,
       "cover": "https://assets.bonappetit.com/photos/69f9bd3484048f1ba372b1e5/master/pass/Travel%20eds%20picks%202026%202.jpg"
     },
     {
@@ -36,12 +37,6 @@
       "label": "PIĆA",
       "count": 37,
       "cover": "https://www.thespiritsbusiness.com/content/uploads/2026/05/TFWA-Asia-Pacific-Exhibition-Conference-2026.jpg"
-    },
-    {
-      "id": "vina",
-      "label": "VINA",
-      "count": 0,
-      "cover": ""
     },
     {
       "id": "satovi",
@@ -56,15 +51,15 @@
       "cover": "https://www.jewellermagazine.com/Img/172274"
     },
     {
-      "id": "dizajn",
-      "label": "DIZAJN",
-      "count": 47,
-      "cover": "https://www.designboom.com/wp-content/uploads/2026/05/venice-architecture-biennale-2027-theme-Wang-Shu-Lu-Wenyu-designboom-700-500x400-22b08q85r399.jpg"
+      "id": "lifestyle",
+      "label": "LIFESTYLE",
+      "count": 37,
+      "cover": "https://coolhunting.com/wp-content/uploads/2026/05/26CDF1CD070128-CadillacF1Team_6991_HiRes-768x513.jpg"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 46,
+      "count": 37,
       "cover": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Strait-of-Hormuz-TeleGeography.webp"
     },
     {
@@ -76,13 +71,13 @@
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 56,
+      "count": 37,
       "cover": "https://imageio.forbes.com/specials-images/imageserve/665e0d2d8a36a8621d158fb0/0x0.jpg?width=960"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 40,
+      "count": 37,
       "cover": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
@@ -96,12 +91,6 @@
       "label": "VIJESTI",
       "count": 23,
       "cover": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/133452ba-5209-482d-089c-c51f5b48b900/w=1024"
-    },
-    {
-      "id": "lifestyle",
-      "label": "LIFESTYLE",
-      "count": 37,
-      "cover": "https://coolhunting.com/wp-content/uploads/2026/05/26CDF1CD070128-CadillacF1Team_6991_HiRes-768x513.jpg"
     }
   ]
 }
