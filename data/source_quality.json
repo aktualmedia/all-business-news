@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-20T13:06:47.542652+00:00",
+  "updated_at": "2026-05-20T13:51:13.605839+00:00",
   "sources": 236,
-  "ok": 168,
-  "problem": 54,
+  "ok": 169,
+  "problem": 53,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -680,6 +680,17 @@
       "name": "MindBodyGreen",
       "category": "lifestyle",
       "url": "https://www.mindbodygreen.com/rss.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -2092,7 +2103,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "The read operation timed out"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "src-136",
@@ -2379,17 +2390,6 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-034",

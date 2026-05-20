@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-05-20T13:27:52.688180+00:00",
+  "updated_at": "2026-05-20T13:51:13.574408+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 80,
-      "cover": "https://deadline.com/wp-content/uploads/2026/04/GettyImages-2265995555.jpg"
+      "count": 81,
+      "cover": "https://variety.com/wp-content/uploads/2026/05/W.-Kamau-Bell.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 34,
-      "cover": "https://cdn.mos.cms.futurecdn.net/z9thPQTQ3zwA4npUpYqq99-1280-80.jpg"
+      "count": 36,
+      "cover": "https://www.yankodesign.com/images/design_news/2026/05/the-robots-that-built-seouls-robot-museum/raic-01.jpg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 7,
-      "cover": "https://robbreport.com/wp-content/uploads/2026/05/Daniel-Arsham-Porsche-911-restomod-opener.jpg"
+      "count": 8,
+      "cover": "https://www.journal.hr/wp-content/uploads/2026/05/Dani-jagoda-2026-photo-by-Lili-Basic.jpg-28-768x512.jpg"
     },
     {
       "id": "hrana",
@@ -47,32 +47,32 @@
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 53,
-      "cover": "https://media.wired.com/photos/6a0b81bba9ee0c040889a5de/master/pass/Review%20Ride1Up%20Roadster%20V3%20top%20art%20052026%20SOURCE%20Ride1Up.jpg"
+      "count": 50,
+      "cover": "https://image.theregister.com/?imageId=224816&width=800"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 102,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/harnessing-brain-imagi.jpg"
+      "count": 97,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/genome.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 100,
-      "cover": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2276547271.jpg"
+      "count": 107,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a0da85ebcef95a95ffb58e0/0x0.jpg"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 52,
-      "cover": "https://images.mktw.net/im-11677072"
+      "count": 49,
+      "cover": "https://www.finance-monthly.com/wp-content/uploads/2026/05/pexels-shvets-production-9774961-1024x682.jpg"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
       "count": 9,
-      "cover": "https://www.freightwaves.com/wp-content/uploads/2026/05/19/Volvo-13-litre-engine-ACT-Expo-2026-scaled.jpeg"
+      "cover": "https://imgproxy.divecdn.com/Kmj7ZSgdzrD65jwSAM5UhXiy9Ow7_RzQ23s8ndpYpAk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UdXJuZXJIaWdobWFya0dJbGJhbmVOWS5wbmc=.webp"
     }
   ]
 }
