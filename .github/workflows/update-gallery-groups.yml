@@ -4,6 +4,13 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "41 4 */2 * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "build_gallery_from_archive.py"
+      - "update_gallery_groups.py"
+      - ".github/workflows/update-gallery-groups.yml"
 
 permissions:
   contents: write
@@ -31,9 +38,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Azuriraj galeriju po grupama
+      - name: Azuriraj galeriju iz starih vijesti i po grupama
         run: |
           echo "START GALLERY GROUPS: $(date -u)"
+          python build_gallery_from_archive.py
           python update_gallery_groups.py
           echo "END GALLERY GROUPS: $(date -u)"
 
@@ -41,7 +49,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/gallery_groups data/home_gallery_groups.json data/gallery_groups_status.json
-          git commit -m "Azuriranje galerije po grupama" || echo "Nema promjena za commit"
+          git add data/manual_gallery.json data/gallery_status.json data/gallery_groups data/home_gallery_groups.json data/gallery_groups_status.json
+          git commit -m "Azuriranje galerije iz starih vijesti po grupama" || echo "Nema promjena za commit"
           git pull --rebase || true
           git push || true
