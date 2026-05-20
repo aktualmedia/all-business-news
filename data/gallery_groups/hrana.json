@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "gal-88682734917354",
+    "title": "The Travel Must-Haves BA Editors Swear by for Stress-Free Trips",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/69f9bd3484048f1ba372b1e5/master/pass/Travel%20eds%20picks%202026%202.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/story/travel-must-have-items",
+    "created_at": "2026-05-18T21:42:46+00:00"
+  },
+  {
+    "id": "gal-17770524747316",
+    "title": "Texas-Style Smoked Brisket",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/69dea1083b36b06eb8e8e2cb/master/pass/0713-BA-MPJT_01_final.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/recipe/how-to-make-texas-style-smoked-brisket",
+    "created_at": "2026-05-18T18:42:20+00:00"
+  },
+  {
+    "id": "gal-89816333318924",
+    "title": "Best Personal Blenders for Solo Smoothies & Small Jobs (2026)",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/6a074977f0201a8cbc7a1328/master/pass/Personal%20Blenders%202.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/story/best-personal-blenders",
+    "created_at": "2026-05-18T15:29:10+00:00"
+  },
+  {
+    "id": "gal-43668651910674",
+    "title": "Easy Shrimp Fajitas",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/69fe6bb8d79d22581c5b9f29/master/pass/shrimp-fajitas_RECIPE_V1_050626_4807_VOG_final.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/recipe/shrimp-fajitas",
+    "created_at": "2026-05-18T14:38:03+00:00"
+  },
+  {
+    "id": "gal-38099802647776",
+    "title": "If My Apartment Caught Fire, I’d Take My Ikea Rimforsa With Me",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/69e8fd37f305c93d84ff495b/master/pass/RIMFORSA%20ikea%202.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/story/ikea-rimforsa",
+    "created_at": "2026-05-18T14:08:14+00:00"
+  },
+  {
+    "id": "gal-36825564546378",
+    "title": "I’m a Newly Divorced Empty Nester. What Do I Cook Just for Myself?",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/6a01f74be2b8ab7bafae782f/master/pass/DearBA_options-2.png",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/story/dear-bon-appetit-may-18-solo-cooking",
+    "created_at": "2026-05-18T10:00:00+00:00"
+  },
+  {
+    "id": "gal-23958195722426",
+    "title": "Juneteenth Foods: 23 Recipes for a Cookout Celebration",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/6464e872314f814fbd4cc444/master/pass/20230327-TANYA-HOLLAND-0816%20(1).jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/gallery/juneteenth-food-recipes",
+    "created_at": "2026-05-17T12:00:00+00:00"
+  },
+  {
+    "id": "gal-35667898889157",
+    "title": "Muffuletta Potato Salad",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/6a076590c8c946fc51225ef8/master/pass/20260507_02_Muffuletta%20Potato%20Salad_048_FINAL.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/recipe/muffuletta-potato-salad",
+    "created_at": "2026-05-17T10:00:00+00:00"
+  },
+  {
+    "id": "gal-48626804914133",
+    "title": "Every Home Cook Needs a Salt Cellar Next to the Stove",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/6a075bfc7d26676da0b3b2df/master/pass/Salt%20Cellars%201.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/story/stylish-salt-cellars",
+    "created_at": "2026-05-15T17:48:03+00:00"
+  },
+  {
+    "id": "gal-72944910783210",
+    "title": "Curried Yellow Squash Soup",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/69f0d053d9ba379282ce288e/master/pass/curried-squash-soup_RECIPE_V1_042226_4824_VOG_final.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/recipe/summer-yellow-squash-soup",
+    "created_at": "2026-05-15T17:26:45+00:00"
+  },
+  {
+    "id": "gal-73147205404954",
+    "title": "We're Talking About Tipping at Restaurants Again",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/6a07472cf0201a8cbc7a1321/master/pass/GettyImages-200382681-001.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/story/open-tab-how-much-to-tip",
+    "created_at": "2026-05-15T17:06:06+00:00"
+  },
+  {
+    "id": "gal-10038796438191",
+    "title": "Inside Baltimore's Kinkiest Restaurant",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/69f8c164c8d5cf52955afb65/master/pass/DSCF1430.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/story/inside-baltimores-kinkiest-restaurant",
+    "created_at": "2026-05-15T14:05:33+00:00"
+  },
+  {
+    "id": "gal-83954753090858",
+    "title": "10-Minute Stir-Fry and More Recipes We Made This Week",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/6250a1eb399ba677f973cd75/master/pass/0408-lamb-stir-fry-lede.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-may-2026",
+    "created_at": "2026-05-15T10:00:00+00:00"
+  },
+  {
+    "id": "gal-70870093535043",
+    "title": "The Team Behind Netflix's 'Chef's Table' Is Launching Its First Food Festival This Summer",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/6a05ce4589190f7944577254/master/pass/Francis%20Mallman.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/story/chefs-table-new-food-festival",
+    "created_at": "2026-05-14T14:05:36+00:00"
+  },
+  {
+    "id": "gal-78955844824730",
+    "title": "Listen to BA Bake Club’s Podcast on Strawberry Roll Cake",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/69a71a2c92564059390651dc/master/pass/20260128_0426_03_Bake%20Club_Strawberry%20Swiss%20Roll_0113_FINAL_LEDE_Badge.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/story/listen-to-ba-bake-clubs-podcast-on-strawberry-roll-cake",
+    "created_at": "2026-05-14T14:00:00+00:00"
+  },
+  {
+    "id": "gal-63115639942244",
+    "title": "Miso Chicken Soba Bowls",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/69f0d2be71cb347c584b76e5/master/pass/cold-chicken-soba-noodles_RECIPE_V1_042226_4887_VOG_final.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/recipe/miso-chicken-soba-bowls",
+    "created_at": "2026-05-14T10:00:00+00:00"
+  },
+  {
+    "id": "gal-81400342814775",
+    "title": "Chicken Breasts Don’t Have to Be Sad Health Food",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/69f0d2b55455be5e947ff604/master/pass/cold-chicken-soba-noodles_LEDE_V1_042226_4899_VOG_final.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/story/good-for-you-chicken-poached",
+    "created_at": "2026-05-14T10:00:00+00:00"
+  },
+  {
+    "id": "gal-84636520526057",
+    "title": "Where to Stay in Atlanta If You Like to Eat",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/6a04e88c3c60d50603c428aa/master/pass/St%20Regis%20Atlanta.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/story/where-to-stay-food-lovers-atlanta",
+    "created_at": "2026-05-13T21:18:19+00:00"
+  },
+  {
+    "id": "gal-75760812260120",
+    "title": "34 Beautiful Cheese Boards To Buy If You Love Charcuterie",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/6a04dbcced4caa46671d58f6/master/pass/Cheeseboards2026%203.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/story/best-cheese-charcuterie-boards",
+    "created_at": "2026-05-13T21:09:44+00:00"
+  },
+  {
+    "id": "gal-10852821015031",
+    "title": "17 Best Grilled Fish Recipes for Easy Summer Dinners",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/5b082eb08afc88234c86986a/master/pass/grilled-swordfish-with-charred-leeks-and-citrus.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/gallery/grilled-fish-recipes",
+    "created_at": "2026-05-13T20:38:24+00:00"
+  },
+  {
+    "id": "gal-85447161484076",
+    "title": "Masienda's Masa Taquera Brings Taqueria-Style Tortillas to Your Kitchen",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/6a04d260532b99959b3feaf6/master/pass/Masienda%20Masa%20Taquera%20highly%20recommend.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/story/masienda-masa-taquera-review",
+    "created_at": "2026-05-13T20:10:42+00:00"
+  },
+  {
+    "id": "gal-44559545578661",
+    "title": "The Best Electrolyte Powder for Athletes Who Want Something That Tastes Good (2026)",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/6882642e5bf09216bfdf9849/master/pass/7.24_BA_Best-Electrolyte-Powder.3.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/story/best-electrolyte-drinks",
+    "created_at": "2026-05-19T23:30:11+00:00"
+  },
+  {
+    "id": "gal-25003813905992",
+    "title": "What Are Heirloom Tomatoes? A Complete Guide",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/6a0c8098c2441e8d206a2fd3/master/pass/BA0825tomato05.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/story/what-are-heirloom-tomatoes",
+    "created_at": "2026-05-19T19:00:24+00:00"
+  },
+  {
+    "id": "gal-16818541897840",
+    "title": "Smashed Pork Tacos",
+    "description": "Bon Appetit · fotografija iz ranije vijesti",
+    "image": "https://assets.bonappetit.com/photos/6a0b568ceaca471cdbfbe239/master/pass/20260507_04_Smashed%20Pork%20Tacos_114_FINAL.jpg",
+    "category": "hrana",
+    "source": "Bon Appetit",
+    "source_url": "https://www.bonappetit.com/recipe/smashed-pork-tacos",
+    "created_at": "2026-05-19T17:00:00+00:00"
+  },
+  {
+    "id": "ddb82558a16d6a47",
+    "title": "Here Are the 2026 James Beard Awards Restaurant, Chef, and Media Award Finalists",
+    "description": "The James Beard Foundation has now announced all of its nominees for the 2026 James Beard Awards. The awards represent one of the highest honors in the restaurant industry, recognizing chefs and restaurants across the United States. In February, the foundation announced the winners of its America’s Classic Award, which honors six “independently owned restaurants […]",
+    "image": "https://picsum.photos/seed/wv-fill-3a6f7d1070be/1200/750",
+    "category": "hrana",
+    "source": "Eater",
+    "source_url": "https://www.eater.com/dining-out/951811/2026-james-beard-awards-restaurant-chef-finalists",
+    "created_at": "2026-05-20T11:38:48.456494+00:00"
+  },
+  {
+    "id": "d15b068c8b193835",
+    "title": "The Best Mother’s Day Gifts for a Discerning, Food-Loving Mom",
+    "description": "Before I was a trusted food writer, beloved journalist, and renowned recommender of gifts, I was a son. A son with a mother. So, as you can imagine, I take Mother’s Day very seriously. Surely, the woman who gave the world a gift as spectacular as, well, me deserves something pretty special in return. I […]",
+    "image": "https://picsum.photos/seed/wv-fill-29b6efdad4a7/1200/750",
+    "category": "hrana",
+    "source": "Eater",
+    "source_url": "https://www.eater.com/24420355/best-mothers-day-gifts-for-food-lovers",
+    "created_at": "2026-05-20T11:38:48.456445+00:00"
+  },
+  {
+    "id": "4388e4a0f33d9b0d",
+    "title": "Quince Sells Caviar and Wine Now. Is It Any Good?",
+    "description": "For years, Quince has been a website that I knew as “that place to get affordable cashmere sweaters.” But as its offerings have expanded further and further, from home goods and luggage to jewelry and perfume, it’s also become a source for diamonds, caviar, and even Dom Perignon. The site has been dabbling in gourmet […]",
+    "image": "https://picsum.photos/seed/wv-fill-9fe339b1d7ac/1200/750",
+    "category": "hrana",
+    "source": "Eater",
+    "source_url": "https://www.eater.com/shopping/960397/quince-caviar-wine-coffee-review",
+    "created_at": "2026-05-20T11:38:48.456394+00:00"
+  },
+  {
+    "id": "0bd41fc4d7bcdee0",
+    "title": "Why the Nordstrom Cafe Was the Ultimate Mother-Daughter Experience",
+    "description": "A version of this post originally appeared on May 6 in our newsletter Eater Today. Sign up here to receive stories like this in your inbox. Eating lunch and shopping are two of my mother’s favorite things — she reminded me as much by voice note when mentioned I was planning to write a piece about a […]",
+    "image": "https://picsum.photos/seed/wv-fill-52eee69aebb0/1200/750",
+    "category": "hrana",
+    "source": "Eater",
+    "source_url": "https://www.eater.com/food-culture/960443/nordstrom-cafe-mother-daughter-nostalgia-tomato-soup-grilled-cheese",
+    "created_at": "2026-05-20T11:38:48.456349+00:00"
+  },
+  {
+    "id": "4579de8db72152cf",
+    "title": "New York’s Buzziest New Restaurant Is a Pub",
+    "description": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and interviews. Now Open is a yearlong series celebrating some of 2026’s most exciting new restaurants. Throughout the year, we’ll check in with teams in Chicago, New York City, and Washington, D.C. to hear what it’s really […]",
+    "image": "https://picsum.photos/seed/wv-fill-34a01eace50e/1200/750",
+    "category": "hrana",
+    "source": "Eater",
+    "source_url": "https://www.eater.com/pre-shift/961028/deans-pub-new-york-pre-shift",
+    "created_at": "2026-05-20T11:38:48.456301+00:00"
+  },
+  {
+    "id": "b39f91669df53f88",
+    "title": "Restaurants Are in Their Blue Period",
+    "description": "Amid a stretch of red-brick buildings, the Brooklyn restaurant Margot, right at the corner on a busy intersection, stands out. It’s blue: very blue, its two-story exterior painted the color of a pair of Prue Leith’s glasses, a chore coat worn by a server at a trendy natural wine bar, or a Molly Baz cookbook. […]",
+    "image": "https://picsum.photos/seed/wv-fill-09503dd38692/1200/750",
+    "category": "hrana",
+    "source": "Eater",
+    "source_url": "https://www.eater.com/food-culture/961654/bright-blue-yves-klein-restaurants-trend",
+    "created_at": "2026-05-20T11:38:48.456249+00:00"
+  },
+  {
+    "id": "031016eec499f823",
+    "title": "How I Got My Job Running Cafes Out of Climbing Gyms",
+    "description": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and interviews. Everyone needs a convenient, accessible place to socialize. But maintaining a cafe, bar, restaurant, or hybrid space that fits the bill has its challenges. In this three-part series, we’re partnering with Spectrum Business to put […]",
+    "image": "https://picsum.photos/seed/wv-fill-8c100ff382c0/1200/750",
+    "category": "hrana",
+    "source": "Eater",
+    "source_url": "https://www.eater.com/pre-shift/961011/georgies-vital-joeleen-ng-cafe-pre-shift",
+    "created_at": "2026-05-20T11:38:48.456202+00:00"
+  },
+  {
+    "id": "28305ffcb0f8bf17",
+    "title": "The 38 Best London Restaurants, According to Eater’s Local Dining Expert",
+    "description": "The story of the London food scene is one that includes dim sum, Sunday roasts, curries, pizza, sinasir, rarebits, banh mi, udon, pepper pot, sweetbread suya, and natural wine. Across cuisines, neighborhoods, and price points, all these dishes and drinks place London among the very best and most diverse places to eat in the world. […]",
+    "image": "https://picsum.photos/seed/wv-fill-828a5bcdde7b/1200/750",
+    "category": "hrana",
+    "source": "Eater",
+    "source_url": "https://www.eater.com/maps/best-london-restaurants-eater-38",
+    "created_at": "2026-05-20T11:38:48.456146+00:00"
+  },
+  {
+    "id": "0b277a3aea5ca4c7",
+    "title": "A New Ode to British Pubs Takes NYC By Storm",
+    "description": "A decade after opening beloved Soho bistro King, chef and owner Jess Shadbolt and co-owner Annie Shi just opened a classic British pub right next door. Dean’s serves standout British dishes like stargazy pie, a pot pie with a whole fish head gazing up from crust, as well as classics like crispy fish and chips. […]",
+    "image": "https://picsum.photos/seed/wv-fill-b79efc1fb64b/1200/750",
+    "category": "hrana",
+    "source": "Eater",
+    "source_url": "https://www.eater.com/video/962739/deans-british-pub-nyc-restaurant-opening-now-open",
+    "created_at": "2026-05-20T11:38:48.456088+00:00"
+  },
+  {
+    "id": "194f939859f6cfe8",
+    "title": "Introducing “In the Booth with Babish,” a New Podcast From Andrew Rea, Eater, and Vox Media",
+    "description": "Andrew Rea, also known as “Babish,” will be joining the Vox Media Podcast Network with In the Booth with Babish, a new podcast series in collaboration with Eater. Premiering on Tuesday, May 26, with new episodes dropping every other week across platforms, In the Booth with Babish will see Rea joined by chefs and celebrities […]",
+    "image": "https://picsum.photos/seed/wv-fill-f081159643ea/1200/750",
+    "category": "hrana",
+    "source": "Eater",
+    "source_url": "https://www.eater.com/press-room/962747/andrew-rea-babish-in-the-booth-with-babish-podcast",
+    "created_at": "2026-05-20T11:38:48.456014+00:00"
+  }
+]

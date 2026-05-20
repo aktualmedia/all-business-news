@@ -1,0 +1,26 @@
+{
+  "updated_at": "2026-05-20T12:51:48.181325+00:00",
+  "limit": 500,
+  "count": 500,
+  "source_policy": "archive_news_first_no_random_placeholders",
+  "skip_active_latest": 200,
+  "categories": {
+    "symbol": 8,
+    "kultura": 38,
+    "muzeji": 0,
+    "hedonizam": 37,
+    "hrana": 24,
+    "pica": 38,
+    "vina": 0,
+    "satovi": 37,
+    "nakit": 37,
+    "dizajn": 37,
+    "tehnologija": 37,
+    "znanost": 37,
+    "poslovanje": 37,
+    "financije": 37,
+    "trzista": 37,
+    "vijesti": 22,
+    "lifestyle": 37
+  }
+}

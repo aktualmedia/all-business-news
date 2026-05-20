@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T11:46:16.939076+00:00",
+  "updated_at": "2026-05-20T12:51:48.215632+00:00",
   "groups": [
     {
       "id": "symbol",
@@ -10,32 +10,32 @@
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 31,
-      "cover": "https://www.journal.hr/wp-content/uploads/2024/05/najbolje-pjesme-s-eurosonga_profimedia-2-768x895.jpg"
+      "count": 38,
+      "cover": "https://deadline.com/wp-content/uploads/2026/05/baywatch.webp"
     },
     {
       "id": "muzeji",
       "label": "MUZEJI",
-      "count": 23,
-      "cover": "https://picsum.photos/seed/wv-news-0f247dc14253/1200/750"
-    },
-    {
-      "id": "hedonizam",
-      "label": "HEDONIZAM",
-      "count": 12,
-      "cover": "https://www.journal.hr/wp-content/uploads/2026/05/Dani-jagoda-2026-photo-by-Lili-Basic.jpg-28-768x512.jpg"
-    },
-    {
-      "id": "hrana",
-      "label": "HRANA",
       "count": 0,
       "cover": ""
     },
     {
+      "id": "hedonizam",
+      "label": "HEDONIZAM",
+      "count": 49,
+      "cover": "https://www.journal.hr/wp-content/uploads/2026/05/Fenix_1-768x512.jpg"
+    },
+    {
+      "id": "hrana",
+      "label": "HRANA",
+      "count": 34,
+      "cover": "https://assets.bonappetit.com/photos/69f9bd3484048f1ba372b1e5/master/pass/Travel%20eds%20picks%202026%202.jpg"
+    },
+    {
       "id": "pica",
       "label": "PIĆA",
-      "count": 26,
-      "cover": "https://symbol-quorum.com/wp-content/uploads/2024/08/Galić-5copy-1024x683.jpg"
+      "count": 38,
+      "cover": "https://www.thespiritsbusiness.com/content/uploads/2026/05/Port-Charlotte-PC5-Redux-and-Octomore-OBA-Redux.jpg"
     },
     {
       "id": "vina",
@@ -46,62 +46,62 @@
     {
       "id": "satovi",
       "label": "SATOVI",
-      "count": 4,
-      "cover": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/05/Sero-Watch-Company-3.jpg"
+      "count": 37,
+      "cover": "https://monochrome-watches.com/app/uploads/2026/05/Moritz-Grossmann-Backpage-Tremblage-Editions-200th-anniversary-review-4-600x237.jpg"
     },
     {
       "id": "nakit",
       "label": "NAKIT",
-      "count": 0,
-      "cover": ""
+      "count": 37,
+      "cover": "https://www.jewellermagazine.com/Img/172274"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 17,
-      "cover": "https://www.journal.hr/wp-content/uploads/2026/05/vila-u-Ceskoj-villa-m-boysplaynice-01-9-768x576.jpg"
+      "count": 46,
+      "cover": "https://images.adsttc.com/media/images/6a04/ef75/fda2/da01/89bd/dba5/medium_jpg/unit-2f-mutter_12.jpg?1778708462"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 31,
-      "cover": "https://picsum.photos/seed/wv-fill-329bcaede81a/1200/750"
+      "count": 46,
+      "cover": "https://image.theregister.com/?imageId=5241260&width=800"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 19,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2025/cancer-patient-1.jpg"
+      "count": 37,
+      "cover": "https://images.newscientist.com/wp-content/uploads/2026/05/18155012/SEI_297313245.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 49,
-      "cover": "https://picsum.photos/seed/wv-news-c387a30e3a4b/1200/750"
+      "count": 56,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/69160b535d8e4f48a7836317/0x0.jpg?width=960&precrop=1262%2C591%2Cx0%2Cy14"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 113,
-      "cover": "https://picsum.photos/seed/wv-core-fe1dc0455db6/1200/750"
+      "count": 42,
+      "cover": "https://www.finance-monthly.com/wp-content/uploads/2026/05/pexels-artempodrez-8532833-576x1024.jpg"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 27,
-      "cover": "https://picsum.photos/seed/wv-news-002cc2188721/1200/750"
+      "count": 37,
+      "cover": "https://imgproxy.divecdn.com/vooX_2UILOdroQPt3nzK8oNLq-lsDw9rrJMzr91eTlo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTU4NDc1MDc2X3ZqQXBQZDQuanBn.webp"
     },
     {
       "id": "vijesti",
       "label": "VIJESTI",
-      "count": 67,
-      "cover": "https://picsum.photos/seed/wv-core-c0ecd415ce03/1200/750"
+      "count": 22,
+      "cover": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/133452ba-5209-482d-089c-c51f5b48b900/w=1024"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 81,
-      "cover": "https://www.journal.hr/wp-content/uploads/2023/04/Collage-Maker-08-Apr-2023-10-50-AM-5052-768x403.jpg"
+      "count": 37,
+      "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F18%2Ferling-haaland-breitling-chronomat-collection-interview-0.jpg?w=800&cbr=1&q=90&fit=max"
     }
   ]
 }

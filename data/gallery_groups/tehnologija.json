@@ -1,312 +1,462 @@
 [
   {
-    "id": "https://picsum.photos/seed/wv-fill-329bcaede81a/1200/750",
+    "id": "gal-42297679360245",
+    "title": "SAP's AI strategy: Come for the openness, stay because you have to",
+    "description": "The Register · fotografija iz ranije vijesti",
+    "image": "https://image.theregister.com/?imageId=5241260&width=800",
+    "category": "tehnologija",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/saas/2026/05/19/saps-ai-strategy-come-for-the-openness-stay-because-you-have-to/5241109",
+    "created_at": "2026-05-19T10:00:00+00:00"
+  },
+  {
+    "id": "gal-53453068568667",
+    "title": "Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen",
+    "description": "Wired · fotografija iz ranije vijesti",
+    "image": "https://media.wired.com/photos/682cb6d31586746a62573a1a/master/pass/DSC_3980%5B1%5D.JPG",
+    "category": "tehnologija",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/",
+    "created_at": "2026-05-19T10:00:00+00:00"
+  },
+  {
+    "id": "gal-26256361629659",
+    "title": "ZTE Showcases AI Interactive Flat Panel at the Broadband User Congress in Brazil",
+    "description": "The Register · fotografija iz ranije vijesti",
+    "image": "https://image.theregister.com/?imageId=5242495&width=800",
+    "category": "tehnologija",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/systems/2026/05/19/zte-showcases-ai-interactive-flat-panel-at-the-broadband-user-congress-in-brazil/5242492",
+    "created_at": "2026-05-19T09:59:43+00:00"
+  },
+  {
+    "id": "gal-54755311797646",
+    "title": "You Can Get Some of Your Nudes Removed From the Internet Under a New Law",
+    "description": "Wired · fotografija iz ranije vijesti",
+    "image": "https://media.wired.com/photos/6a0b9863184d81c61ce8ccd2/master/pass/GettyImages-2266607444.jpg",
+    "category": "tehnologija",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/how-to-remove-nudes-take-it-down-act/",
+    "created_at": "2026-05-19T09:30:00+00:00"
+  },
+  {
+    "id": "gal-15043273067605",
+    "title": "Windows Firewall stands between you and greasy delight",
+    "description": "The Register · fotografija iz ranije vijesti",
+    "image": "https://image.theregister.com/?imageId=5241184&width=800",
+    "category": "tehnologija",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/oses/2026/05/19/windows-firewall-stands-between-you-and-greasy-delight/5241050",
+    "created_at": "2026-05-19T09:15:00+00:00"
+  },
+  {
+    "id": "gal-87963985717717",
+    "title": "The class of 2026 has heard enough about AI, thanks",
+    "description": "The Register · fotografija iz ranije vijesti",
+    "image": "https://image.theregister.com/?imageId=5242126&width=800",
+    "category": "tehnologija",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/ai-ml/2026/05/19/the-class-of-2026-has-heard-enough-about-ai-thanks/5242080",
+    "created_at": "2026-05-19T08:30:00+00:00"
+  },
+  {
+    "id": "gal-24436155096143",
+    "title": "LG's UltraGear is a native 1,000Hz Full HD gaming monitor",
+    "description": "Engadget · fotografija iz ranije vijesti",
+    "image": "https://www.engadget.com/img/gallery/lg-unveils-a-native-1000hz-full-hd-gaming-monitor/l-intro-1779177708.jpg",
+    "category": "tehnologija",
+    "source": "Engadget",
+    "source_url": "https://www.engadget.com/2176218/lg-1000hz-gaming-monitor/",
+    "created_at": "2026-05-19T08:05:01+00:00"
+  },
+  {
+    "id": "gal-38624437366340",
+    "title": "Baidu says the quiet part out loud – you can’t build AI infrastructure, so clouds can cash in",
+    "description": "The Register · fotografija iz ranije vijesti",
+    "image": "https://image.theregister.com/?imageId=230838&width=800",
+    "category": "tehnologija",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/off-prem/2026/05/19/baidu-says-the-quiet-part-out-loud-you-cant-build-ai-infrastructure-so-clouds-can-cash-in/5242344",
+    "created_at": "2026-05-19T06:52:46+00:00"
+  },
+  {
+    "id": "gal-14089503487765",
+    "title": "Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026",
+    "description": "Wired · fotografija iz ranije vijesti",
+    "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+    "category": "tehnologija",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/tempo-meals-promo-code/",
+    "created_at": "2026-05-19T05:00:00+00:00"
+  },
+  {
+    "id": "gal-58419627093308",
+    "title": "HBO Max Promo Code: 50% Off | May",
+    "description": "Wired · fotografija iz ranije vijesti",
+    "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
+    "category": "tehnologija",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/max-promo-code/",
+    "created_at": "2026-05-19T05:00:00+00:00"
+  },
+  {
+    "id": "gal-48502512097990",
+    "title": "Norton Coupon Codes: Up to 58% Off",
+    "description": "Wired · fotografija iz ranije vijesti",
+    "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
+    "category": "tehnologija",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/norton-coupon-code/",
+    "created_at": "2026-05-19T05:00:00+00:00"
+  },
+  {
+    "id": "gal-96100864859072",
+    "title": "Limited Time: TurboTax Full Service Coupons This May",
+    "description": "Wired · fotografija iz ranije vijesti",
+    "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
+    "category": "tehnologija",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/turbotax-coupon/",
+    "created_at": "2026-05-19T05:00:00+00:00"
+  },
+  {
+    "id": "gal-37442475741350",
+    "title": "Booking.com Promo Codes: 20% Off | May 2026",
+    "description": "Wired · fotografija iz ranije vijesti",
+    "image": "https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg",
+    "category": "tehnologija",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/booking-com-promo-code/",
+    "created_at": "2026-05-19T05:00:00+00:00"
+  },
+  {
+    "id": "gal-82096931208550",
+    "title": "Lenovo Coupon Codes and Deals in May 2026",
+    "description": "Wired · fotografija iz ranije vijesti",
+    "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
+    "category": "tehnologija",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/lenovo-coupon-code/",
+    "created_at": "2026-05-19T05:00:00+00:00"
+  },
+  {
+    "id": "gal-31235911225190",
+    "title": "50% Off Home Depot Promo Codes | May 2026",
+    "description": "Wired · fotografija iz ranije vijesti",
+    "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+    "category": "tehnologija",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/home-depot-promo-code/",
+    "created_at": "2026-05-19T05:00:00+00:00"
+  },
+  {
+    "id": "gal-70508193730784",
+    "title": "iRobot Promo Code: 15% Off",
+    "description": "Wired · fotografija iz ranije vijesti",
+    "image": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png",
+    "category": "tehnologija",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/irobot-promo-code/",
+    "created_at": "2026-05-19T05:00:00+00:00"
+  },
+  {
+    "id": "gal-72406339022828",
+    "title": "Barkbox Promo Codes and Discounts: Up to 50% Off",
+    "description": "Wired · fotografija iz ranije vijesti",
+    "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
+    "category": "tehnologija",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/barkbox-promo-code/",
+    "created_at": "2026-05-19T05:00:00+00:00"
+  },
+  {
+    "id": "gal-75815634856684",
+    "title": "Iran hints it could interfere with submarine cables in the Strait of Hormuz",
+    "description": "The Register · fotografija iz ranije vijesti",
+    "image": "https://image.theregister.com/?imageId=4094156&width=800",
+    "category": "tehnologija",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/networks/2026/05/19/iran-hints-it-could-interfere-with-submarine-cables-in-the-strait-of-hormuz/5242319",
+    "created_at": "2026-05-19T04:27:22+00:00"
+  },
+  {
+    "id": "gal-27809551472683",
+    "title": "Meta is reportedly 'reassigning' 7,000 employees to AI-focused roles",
+    "description": "Engadget · fotografija iz ranije vijesti",
+    "image": "https://www.engadget.com/img/gallery/meta-is-reportedly-reassigning-7000-employees-to-ai-focused-roles/l-intro-1779162765.jpg",
+    "category": "tehnologija",
+    "source": "Engadget",
+    "source_url": "https://www.engadget.com/2176172/meta-reassigns-workers-ai-roles/",
+    "created_at": "2026-05-19T03:53:09+00:00"
+  },
+  {
+    "id": "gal-49695838074339",
+    "title": "VMware quietly debuts Arm hypervisor tech preview",
+    "description": "The Register · fotografija iz ranije vijesti",
+    "image": "https://image.theregister.com/?imageId=5242317&width=800",
+    "category": "tehnologija",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/virtualization/2026/05/19/vmware-quietly-debuts-arm-hypervisor-tech-preview/5242293",
+    "created_at": "2026-05-19T02:02:24+00:00"
+  },
+  {
+    "id": "gal-18596189930127",
+    "title": "Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them",
+    "description": "The Register · fotografija iz ranije vijesti",
+    "image": "https://image.theregister.com/?imageId=5242280&width=800",
+    "category": "tehnologija",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/security/2026/05/19/do-fear-the-reaper-stealer-swipes-macos-users-passwords-wallets-then-backdoors-them/5242258",
+    "created_at": "2026-05-18T23:32:48+00:00"
+  },
+  {
+    "id": "gal-72963424523779",
+    "title": "Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits",
+    "description": "VentureBeat · fotografija iz ranije vijesti",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1XDzPZJFfwFFbQO2sKS3JF/f8ddfdd76111779c860f78e5291eca38/context-layer-smk1.jpg?w=300&q=30",
+    "category": "tehnologija",
+    "source": "VentureBeat",
+    "source_url": "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits",
+    "created_at": "2026-05-18T23:17:44+00:00"
+  },
+  {
+    "id": "gal-69086926858947",
+    "title": "PSA: The first F1 race on Netflix is this weekend",
+    "description": "Engadget · fotografija iz ranije vijesti",
+    "image": "https://www.engadget.com/img/gallery/psa-the-first-f1-race-on-netflix-is-this-weekend/l-intro-1779144709.jpg",
+    "category": "tehnologija",
+    "source": "Engadget",
+    "source_url": "https://www.engadget.com/2176061/psa-the-first-f1-race-on-netflix-is-this-weekend/",
+    "created_at": "2026-05-18T22:55:41+00:00"
+  },
+  {
+    "id": "gal-27355541709862",
+    "title": "The big AI companies are going to see their margins disappear",
+    "description": "The Register · fotografija iz ranije vijesti",
+    "image": "https://image.theregister.com/?imageId=5242253&width=800",
+    "category": "tehnologija",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/ai-ml/2026/05/18/the-big-ai-companies-are-going-to-see-their-margins-disappear/5242227",
+    "created_at": "2026-05-18T22:33:02+00:00"
+  },
+  {
+    "id": "gal-59083899676107",
+    "title": "Shai-Hulud copycat worm infects yet another npm package",
+    "description": "The Register · fotografija iz ranije vijesti",
+    "image": "https://image.theregister.com/?imageId=5242247&width=800",
+    "category": "tehnologija",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/cyber-crime/2026/05/18/shai-hulud-copycat-hits-another-npm-package/5242180",
+    "created_at": "2026-05-18T22:07:59+00:00"
+  },
+  {
+    "id": "gal-45425427629831",
+    "title": "MAGA's Mace wants to make power bills great again, calls for datacenter moratorium",
+    "description": "The Register · fotografija iz ranije vijesti",
+    "image": "https://image.theregister.com/?imageId=5242250&width=800",
+    "category": "tehnologija",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/on-prem/2026/05/18/nancy-mace-wants-to-make-power-bills-great-again-with-datacenter-moratorium/5242160",
+    "created_at": "2026-05-18T21:40:05+00:00"
+  },
+  {
+    "id": "gal-13889122734489",
+    "title": "Disney faces a class action lawsuit over facial recognition tech",
+    "description": "Engadget · fotografija iz ranije vijesti",
+    "image": "https://www.engadget.com/img/gallery/disney-faces-a-class-action-lawsuit-over-facial-recognition-tech/l-intro-1779139695.jpg",
+    "category": "tehnologija",
+    "source": "Engadget",
+    "source_url": "https://www.engadget.com/2176016/disney-faces-a-class-action-lawsuit-over-facial-recognition-tech/",
+    "created_at": "2026-05-18T21:33:32+00:00"
+  },
+  {
+    "id": "gal-69989791339686",
+    "title": "Uncle Sam's next big supercomputer might use something more exotic than GPUs",
+    "description": "The Register · fotografija iz ranije vijesti",
+    "image": "https://image.theregister.com/?imageId=5242157&width=800",
+    "category": "tehnologija",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/systems/2026/05/18/uncle-sams-next-big-super-might-not-use-gpus/5242137",
+    "created_at": "2026-05-18T21:01:46+00:00"
+  },
+  {
+    "id": "gal-29028133830039",
+    "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
+    "description": "Ars Technica · fotografija iz ranije vijesti",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276381480.jpg",
+    "category": "tehnologija",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
+    "created_at": "2026-05-18T20:41:14+00:00"
+  },
+  {
+    "id": "gal-51821272903106",
+    "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
+    "description": "Ars Technica · fotografija iz ranije vijesti",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1126690759-1152x648-1779132662.jpg",
+    "category": "tehnologija",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+    "created_at": "2026-05-18T20:27:15+00:00"
+  },
+  {
+    "id": "gal-91224689815410",
+    "title": "One Mars spacecraft, two senators, and a cloud of questions",
+    "description": "Ars Technica · fotografija iz ranije vijesti",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/mars-telecom-1152x648.jpg",
+    "category": "tehnologija",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions/",
+    "created_at": "2026-05-18T19:49:00+00:00"
+  },
+  {
+    "id": "gal-66652746454273",
+    "title": "Australian Aboriginals cared for a dingo's grave for decades",
+    "description": "Ars Technica · fotografija iz ranije vijesti",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Excavation.-Photo-BQ-1131x648.jpg",
+    "category": "tehnologija",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/",
+    "created_at": "2026-05-18T18:37:55+00:00"
+  },
+  {
+    "id": "gal-48225981669141",
+    "title": "X accounts are limited to 50 posts and 200 replies a day unless they pay for a blue checkmark",
+    "description": "Engadget · fotografija iz ranije vijesti",
+    "image": "https://www.engadget.com/img/gallery/x-accounts-are-limited-to-50-posts-and-200-replies-a-day-unless-they-pay-for-a-blue-checkmark/l-intro-1779127772.jpg",
+    "category": "tehnologija",
+    "source": "Engadget",
+    "source_url": "https://www.engadget.com/2175771/x-free-accounts-limited-to-50-posts-and-200-replies-a-day/",
+    "created_at": "2026-05-18T18:12:31+00:00"
+  },
+  {
+    "id": "gal-59673121711574",
+    "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+    "description": "Ars Technica · fotografija iz ranije vijesti",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276194137-1024x648.jpg",
+    "category": "tehnologija",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+    "created_at": "2026-05-18T18:09:41+00:00"
+  },
+  {
+    "id": "gal-62465758277019",
+    "title": "These 11 Automatic Cat Feeders Were the Best We Tested in 2026",
+    "description": "Wired · fotografija iz ranije vijesti",
+    "image": "https://media.wired.com/photos/6a0b2e0760e580d0daee595e/master/pass/The%20Best%20Automatic%20Cat%20Feeders%20top%20art%20052026%20SOURCE%20PetKit-cheerble.jpg",
+    "category": "tehnologija",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/gallery/best-automatic-cat-feeders/",
+    "created_at": "2026-05-18T18:06:12+00:00"
+  },
+  {
+    "id": "gal-37968777085794",
+    "title": "Pompeii victim ID'd as a likely doctor",
+    "description": "Ars Technica · fotografija iz ranije vijesti",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/pompeii1-1-1152x648.jpg",
+    "category": "tehnologija",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/science/2026/05/pompeii-victim-idd-as-a-likely-doctor/",
+    "created_at": "2026-05-18T18:03:32+00:00"
+  },
+  {
+    "id": "gal-74463781448763",
+    "title": "Yes, you can serve a website from a $1 microcontroller",
+    "description": "The Register · fotografija iz ranije vijesti",
+    "image": "https://image.theregister.com/?imageId=5242134&width=800",
+    "category": "tehnologija",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/offbeat/2026/05/18/yes-you-can-serve-a-website-from-a-1-microcontroller/5242096",
+    "created_at": "2026-05-18T18:00:57+00:00"
+  },
+  {
+    "id": "7aefc4891dcdf555",
     "title": "Google’s AI future demands trust — and your personal data",
-    "description": "The Verge · fotografija iz vijesti",
+    "description": "Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. Gemini Spark, Google's always-on AI agent, can help organize an upcoming event, while Daily Brief can offer a rundown […]",
     "image": "https://picsum.photos/seed/wv-fill-329bcaede81a/1200/750",
     "category": "tehnologija",
-    "source": "",
+    "source": "The Verge",
     "source_url": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
-    "created_at": "2026-05-20T11:32:42.344745+00:00"
+    "created_at": "2026-05-20T11:38:41.434383+00:00"
   },
   {
-    "id": "https://picsum.photos/seed/wv-fill-f30abd8fccea/1200/750",
+    "id": "608d08436a120e39",
     "title": "Nintendo’s $500 Switch 2 bundle includes a game, and it’s available now",
-    "description": "The Verge · fotografija iz vijesti",
+    "description": "Nintendo recently teased the “Choose Your Game” Switch 2 console and digital game bundle, coming in early June. However, multiple retailers (including Nintendo itself) are already offering the $499.99 bundle. The list currently includes GameStop, Amazon, Best Buy, and the Nintendo Store. It’s a deal worth hopping on ahead of the holiday season, since Nintendo […]",
     "image": "https://picsum.photos/seed/wv-fill-f30abd8fccea/1200/750",
     "category": "tehnologija",
-    "source": "",
+    "source": "The Verge",
     "source_url": "https://www.theverge.com/gadgets/933792/nintendo-switch-2-choose-your-game-console-bundle-deal",
-    "created_at": "2026-05-20T11:32:42.344681+00:00"
+    "created_at": "2026-05-20T11:38:41.434332+00:00"
   },
   {
-    "id": "https://picsum.photos/seed/wv-fill-35d0d96128e3/1200/750",
+    "id": "a7892e3ab8ef02ad",
     "title": "The future of Google is a search box that does everything",
-    "description": "The Verge · fotografija iz vijesti",
+    "description": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to google for you - I think it wants to do everything for you, all from a search box. Take the trusty Google […]",
     "image": "https://picsum.photos/seed/wv-fill-35d0d96128e3/1200/750",
     "category": "tehnologija",
-    "source": "",
+    "source": "The Verge",
     "source_url": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
-    "created_at": "2026-05-20T11:32:42.344596+00:00"
+    "created_at": "2026-05-20T11:38:41.434275+00:00"
   },
   {
-    "id": "https://picsum.photos/seed/wv-fill-0d4352facfa9/1200/750",
+    "id": "cbf30ee45d24e098",
     "title": "We react to Google I/O 2026",
-    "description": "The Verge · fotografija iz vijesti",
+    "description": "What better way to unwind from a two-hour keynote presentation than to pore over the weirdest and wildest details, from a Gmail bot you can converse with to DeepMind's leader saying the singularity is near. The Vergecast went live right after the show, with senior AI reporter Hayden Field joining me to discuss the highlights. […]",
     "image": "https://picsum.photos/seed/wv-fill-0d4352facfa9/1200/750",
     "category": "tehnologija",
-    "source": "",
+    "source": "The Verge",
     "source_url": "https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026",
-    "created_at": "2026-05-20T11:32:42.344541+00:00"
+    "created_at": "2026-05-20T11:38:41.434232+00:00"
   },
   {
-    "id": "https://picsum.photos/seed/wv-fill-1555a79e6c23/1200/750",
+    "id": "7c933edcfc957889",
     "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
-    "description": "The Verge · fotografija iz vijesti",
+    "description": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and products will help unlock AGI's incredible potential for the benefit of the entire world. When we look back at this time, I think we will realize that […]",
     "image": "https://picsum.photos/seed/wv-fill-1555a79e6c23/1200/750",
     "category": "tehnologija",
-    "source": "",
+    "source": "The Verge",
     "source_url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-    "created_at": "2026-05-20T11:32:42.344475+00:00"
+    "created_at": "2026-05-20T11:38:41.434189+00:00"
   },
   {
-    "id": "https://picsum.photos/seed/wv-fill-3f4452be335b/1200/750",
+    "id": "feca83ce0473c37e",
     "title": "Plex is tripling the price of a lifetime pass to $750 after doubling it last year",
-    "description": "The Verge · fotografija iz vijesti",
+    "description": "I am dying to know how much money Plex is about to make the next six weeks charging people to stream their own video from their own homes. Today, it's giving every prospective customer until July 1st to lock in a lifetime subscription at today's rates - before it triples the price to $750. Plex […]",
     "image": "https://picsum.photos/seed/wv-fill-3f4452be335b/1200/750",
     "category": "tehnologija",
-    "source": "",
+    "source": "The Verge",
     "source_url": "https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike",
-    "created_at": "2026-05-20T11:32:42.344390+00:00"
+    "created_at": "2026-05-20T11:38:41.434135+00:00"
   },
   {
-    "id": "https://picsum.photos/seed/wv-fill-a435e6a35293/1200/750",
+    "id": "9f8f25aa713a938f",
     "title": "Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds",
-    "description": "The Verge · fotografija iz vijesti",
+    "description": "The era of ultra-high performance Mercedes EVs is here. The German automaker finally revealed its new super sedan, the AMG GT 4-door coupe, with technology borrowed from the automaker's XX concept that last year made history by driving 24,901 miles in under 8 days at Nardò Ring in southern Italy. With the production model, Mercedes […]",
     "image": "https://picsum.photos/seed/wv-fill-a435e6a35293/1200/750",
     "category": "tehnologija",
-    "source": "",
+    "source": "The Verge",
     "source_url": "https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs",
-    "created_at": "2026-05-20T11:32:42.344290+00:00"
+    "created_at": "2026-05-20T11:38:41.434045+00:00"
   },
   {
-    "id": "https://picsum.photos/seed/wv-fill-ddcd1a11eb57/1200/750",
+    "id": "d5b11c34522273a3",
     "title": "Samsung workers set to strike at worst possible time",
-    "description": "The Verge · fotografija iz vijesti",
+    "description": "More than 47,000 Samsung Electronics workers are gearing up for an 18-day strike after bonus payment negotiations between the company and its union collapsed. The strike is set to start on Thursday and will be limited to Samsung's domestic chipmaking plants, raising concerns around the already constrained production of memory chips amid the ongoing shortage. […]",
     "image": "https://picsum.photos/seed/wv-fill-ddcd1a11eb57/1200/750",
     "category": "tehnologija",
-    "source": "",
+    "source": "The Verge",
     "source_url": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
-    "created_at": "2026-05-20T11:32:42.344223+00:00"
+    "created_at": "2026-05-20T11:38:41.433982+00:00"
   },
   {
-    "id": "https://picsum.photos/seed/wv-fill-6c19e1577a09/1200/750",
+    "id": "a3087267b3cc27e1",
     "title": "Android 17 is getting its own version of Apple’s Handoff",
-    "description": "The Verge · fotografija iz vijesti",
+    "description": "Google is adding a new Android feature that resembles Apple's Handoff, allowing you to start a task on your Android phone and continue it right where you left off from a compatible tablet. \"Continue On\" is designed to eventually be bidirectional, but Google says that at launch it will only support tasks moving from a […]",
     "image": "https://picsum.photos/seed/wv-fill-6c19e1577a09/1200/750",
     "category": "tehnologija",
-    "source": "",
+    "source": "The Verge",
     "source_url": "https://www.theverge.com/tech/934457/android-17-continue-on-handoff",
-    "created_at": "2026-05-20T11:32:42.344143+00:00"
-  },
-  {
-    "id": "https://media.wired.com/photos/6a0b7cdeabf886305a556f72/master/pass/Tech%20to%20Make%20Your%20Dumb%20Grill%20Smart%20top%20art%20052026%20SOURCE%20Amazon.jpg",
-    "title": "How to Upgrade Weber and Kamado Joe Into Smart Grills",
-    "description": "Wired · fotografija iz vijesti",
-    "image": "https://media.wired.com/photos/6a0b7cdeabf886305a556f72/master/pass/Tech%20to%20Make%20Your%20Dumb%20Grill%20Smart%20top%20art%20052026%20SOURCE%20Amazon.jpg",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.wired.com/story/how-to-make-dumb-grills-into-smart-grills/",
-    "created_at": "2026-05-20T11:32:00+00:00"
-  },
-  {
-    "id": "https://picsum.photos/seed/wv-news-848d58ffb7e5/1200/750",
-    "title": "I tested KDE Plasma 6.7 beta, and it's easily my new Linux desktop of choice",
-    "description": "ZDNET · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-848d58ffb7e5/1200/750",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.zdnet.com/article/i-tested-kde-plasma-6-7-beta/",
-    "created_at": "2026-05-20T11:30:34+00:00"
-  },
-  {
-    "id": "https://picsum.photos/seed/wv-news-e3a1590e831e/1200/750",
-    "title": "Best travel VPNs of 2026: Expert tested and reviewed",
-    "description": "ZDNET · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-e3a1590e831e/1200/750",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.zdnet.com/article/best-travel-vpn/",
-    "created_at": "2026-05-20T11:07:52+00:00"
-  },
-  {
-    "id": "https://picsum.photos/seed/wv-news-ee01c1fb9e91/1200/750",
-    "title": "Best VPN services 2026: Expert tested and recommended",
-    "description": "ZDNET · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-ee01c1fb9e91/1200/750",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.zdnet.com/article/best-vpn/",
-    "created_at": "2026-05-20T11:07:22+00:00"
-  },
-  {
-    "id": "https://picsum.photos/seed/wv-news-b3c28cfb5794/1200/750",
-    "title": "Why I still recommend NordVPN to most people in 2026",
-    "description": "ZDNET · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-b3c28cfb5794/1200/750",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.zdnet.com/article/nordvpn-review-2026/",
-    "created_at": "2026-05-20T11:05:42+00:00"
-  },
-  {
-    "id": "https://picsum.photos/seed/wv-fill-e67866ec9181/1200/750",
-    "title": "Here are our favorite Memorial Day deals (so far)",
-    "description": "The Verge · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-fill-e67866ec9181/1200/750",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.theverge.com/gadgets/932465/best-memorial-day-sales-deals-2026",
-    "created_at": "2026-05-20T11:05:01.193846+00:00"
-  },
-  {
-    "id": "https://media.wired.com/photos/6a0b35d50ce29a972051a268/master/pass/Laptop%20buying%20guide%20update%20top%20art%20052026%20SOURCE%20Apple-Dell-Razer.jpg",
-    "title": "Everything to Look for When Buying a New Laptop in 2026",
-    "description": "Wired · fotografija iz vijesti",
-    "image": "https://media.wired.com/photos/6a0b35d50ce29a972051a268/master/pass/Laptop%20buying%20guide%20update%20top%20art%20052026%20SOURCE%20Apple-Dell-Razer.jpg",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/",
-    "created_at": "2026-05-20T11:01:00+00:00"
-  },
-  {
-    "id": "https://picsum.photos/seed/wv-news-4fc8283ba70b/1200/750",
-    "title": "We tested the most popular VPNs in New York, London, and Tokyo - this one is the best for traveling",
-    "description": "ZDNET · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-4fc8283ba70b/1200/750",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.zdnet.com/article/fastest-travel-vpn-lab-tested/",
-    "created_at": "2026-05-20T11:00:45+00:00"
-  },
-  {
-    "id": "https://media.wired.com/photos/6a0600d96e13ec6005919229/master/pass/Trump-Vape-Baddie-Culture.gif",
-    "title": "Trump Wants to Be the Hero Vapers Don’t Really Need",
-    "description": "Wired · fotografija iz vijesti",
-    "image": "https://media.wired.com/photos/6a0600d96e13ec6005919229/master/pass/Trump-Vape-Baddie-Culture.gif",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.wired.com/story/trump-wants-to-be-the-hero-vapers-dont-really-need/",
-    "created_at": "2026-05-20T11:00:00+00:00"
-  },
-  {
-    "id": "https://image.theregister.com/?imageId=5241973&width=800",
-    "title": "GitHub says internal repos exfiltrated after poisoned VS Code extension attack",
-    "description": "The Register · fotografija iz vijesti",
-    "image": "https://image.theregister.com/?imageId=5241973&width=800",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.theregister.com/devops/2026/05/20/github-says-internal-repos-exfiltrated-after-poisoned-vs-code-extension-attack/5243206",
-    "created_at": "2026-05-20T10:27:44+00:00"
-  },
-  {
-    "id": "https://picsum.photos/seed/wv-news-20ae094a18b5/1200/750",
-    "title": "I set up backyard solar panels to save on my electricity bill - here's my advice 30 days later",
-    "description": "ZDNET · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-20ae094a18b5/1200/750",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.zdnet.com/article/anker-solix-f3800-plus-410w-solar-panels-review/",
-    "created_at": "2026-05-20T10:00:47+00:00"
-  },
-  {
-    "id": "https://media.wired.com/photos/6a05ea458888ff8e2bbc35f3/master/pass/GettyImages-1244618007.jpg",
-    "title": "Election Officials Are Getting Ready for ICE to Show Up at the Polls",
-    "description": "Wired · fotografija iz vijesti",
-    "image": "https://media.wired.com/photos/6a05ea458888ff8e2bbc35f3/master/pass/GettyImages-1244618007.jpg",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.wired.com/story/election-officials-are-getting-ready-for-ice-to-show-up-midterms/",
-    "created_at": "2026-05-20T10:00:00+00:00"
-  },
-  {
-    "id": "https://image.theregister.com/?imageId=5243266&width=800",
-    "title": "Smaller suppliers invited to pitch for £2.9B UK defense tech framework",
-    "description": "The Register · fotografija iz vijesti",
-    "image": "https://image.theregister.com/?imageId=5243266&width=800",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.theregister.com/public-sector/2026/05/20/smaller-suppliers-invited-to-pitch-for-29b-uk-defense-tech-framework/5243217",
-    "created_at": "2026-05-20T09:54:25+00:00"
-  },
-  {
-    "id": "https://image.theregister.com/?imageId=5242864&width=800",
-    "title": "PostgreSQL backup tool gets some backup of its own after sole maintainer sounds alarm",
-    "description": "The Register · fotografija iz vijesti",
-    "image": "https://image.theregister.com/?imageId=5242864&width=800",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.theregister.com/databases/2026/05/20/postgresql-backup-tool-gets-some-backup-of-its-own-after-sole-maintainer-sounds-alarm/5242822",
-    "created_at": "2026-05-20T09:15:00+00:00"
-  },
-  {
-    "id": "https://www.engadget.com/img/gallery/mercedes-amg-1153-hp-electric-gt-4-door-takes-on-porsche-taycan/l-intro-1779268460.jpg",
-    "title": "Mercedes-AMG's 1,153 hp electric GT 4-Door takes on Porsche's Taycan",
-    "description": "Engadget · fotografija iz vijesti",
-    "image": "https://www.engadget.com/img/gallery/mercedes-amg-1153-hp-electric-gt-4-door-takes-on-porsche-taycan/l-intro-1779268460.jpg",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.engadget.com/2177477/mercedes-amg-1153-hp-electric-gt-4-door-takes-on-porsche-taycan/",
-    "created_at": "2026-05-20T09:11:23+00:00"
-  },
-  {
-    "id": "https://media.wired.com/photos/6a0d089bd351b6a9934944b7/master/pass/Security_DataBrokersandAIFirmsOpt-OutFormsAreBuilttoFailReportFinds_v2.jpg",
-    "title": "Data Brokers’ and AI Firms’ Opt-Out Forms Are Built to Fail, Report Finds",
-    "description": "Wired · fotografija iz vijesti",
-    "image": "https://media.wired.com/photos/6a0d089bd351b6a9934944b7/master/pass/Security_DataBrokersandAIFirmsOpt-OutFormsAreBuilttoFailReportFinds_v2.jpg",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.wired.com/story/data-brokers-and-ai-firms-opt-out-forms-are-built-to-fail-report-finds/",
-    "created_at": "2026-05-20T09:00:00+00:00"
-  },
-  {
-    "id": "https://www.engadget.com/img/gallery/samsung-strike-union-workers-korea/l-intro-1779268211.jpg",
-    "title": "Samsung faces strike from nearly 48,000 union workers",
-    "description": "Engadget · fotografija iz vijesti",
-    "image": "https://www.engadget.com/img/gallery/samsung-strike-union-workers-korea/l-intro-1779268211.jpg",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.engadget.com/2177466/samsung-strike-union-workers-korea/",
-    "created_at": "2026-05-20T08:55:45+00:00"
-  },
-  {
-    "id": "https://picsum.photos/seed/wv-fill-9b8745e39327/1200/750",
-    "title": "Democrats preview how they’d go after the Ticketmaster settlement if they regain power",
-    "description": "The Verge · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-fill-9b8745e39327/1200/750",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement",
-    "created_at": "2026-05-20T08:47:58.216604+00:00"
-  },
-  {
-    "id": "https://picsum.photos/seed/wv-news-57884df9eb3a/1200/750",
-    "title": "This E ink tablet is the best annotator I've tested - but there's a steep learning curve",
-    "description": "ZDNET · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-57884df9eb3a/1200/750",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.zdnet.com/article/boox-go-10-3-gen-2-lumi-review/",
-    "created_at": "2026-05-20T08:30:39+00:00"
-  },
-  {
-    "id": "https://image.theregister.com/?imageId=230518&width=800",
-    "title": "London's police asked Big Tech for comms data over 700,000 times last year",
-    "description": "The Register · fotografija iz vijesti",
-    "image": "https://image.theregister.com/?imageId=230518&width=800",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.theregister.com/databases/2026/05/20/londons-police-asked-big-tech-for-comms-data-over-700000-times-last-year/5242590",
-    "created_at": "2026-05-20T08:30:00+00:00"
-  },
-  {
-    "id": "https://image.theregister.com/?imageId=5243191&width=800",
-    "title": "ZTE releases Sustainability Report 2025: driving a new chapter in sustainable development through AI",
-    "description": "The Register · fotografija iz vijesti",
-    "image": "https://image.theregister.com/?imageId=5243191&width=800",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.theregister.com/networks/2026/05/20/zte-releases-sustainability-report-2025-driving-a-new-chapter-in-sustainable-development-through-ai/5243185",
-    "created_at": "2026-05-20T08:23:48+00:00"
-  },
-  {
-    "id": "https://picsum.photos/seed/wv-news-93e525a05972/1200/750",
-    "title": "4 Android Auto settings I always turn on for a safer ride",
-    "description": "ZDNET · fotografija iz vijesti",
-    "image": "https://picsum.photos/seed/wv-news-93e525a05972/1200/750",
-    "category": "tehnologija",
-    "source": "",
-    "source_url": "https://www.zdnet.com/article/4-android-auto-settings-i-always-turn-on-for-a-safer-ride/",
-    "created_at": "2026-05-20T08:00:35+00:00"
+    "created_at": "2026-05-20T11:38:41.433907+00:00"
   }
 ]
