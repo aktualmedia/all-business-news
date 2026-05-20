@@ -1,5 +1,415 @@
 [
   {
+    "id": "f1bec58d9113b0e3",
+    "title": "Glazba Zagreb Beer Fest odvija se ovaj tjedan. Zabilježite tko i kada nastupa na Tuđmancu",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/glazba/zagreb-beer-fest-2026/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Zagreb-beer-festival-1-768x512.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.681476+00:00",
+    "fetched_at": "2026-05-20T12:56:26.681479+00:00",
+    "html_source": true
+  },
+  {
+    "id": "b000752361064d84",
+    "title": "Za jedne kontroverzan, za druge oslobađajuć: Bio je hrvatski kandidat za Oscara, napokon dolazi u kina",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/lijepa-vecer-lijep-dan-film/",
+    "image": "https://www.journal.hr/wp-content/uploads/2024/09/Lijepa-vecer-lijep-dan-4-768x321.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.681330+00:00",
+    "fetched_at": "2026-05-20T12:56:26.681332+00:00",
+    "html_source": true
+  },
+  {
+    "id": "22e3121dbe99355c",
+    "title": "Nova generacija na putu uspjeha: Ostvarenje mlade hrvatske filmašice gledamo u Cannesu",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/odbaceni-a-uspravni-film/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Left-Behind-Still-Standing-4-2-768x534.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.681170+00:00",
+    "fetched_at": "2026-05-20T12:56:26.681172+00:00",
+    "html_source": true
+  },
+  {
+    "id": "942fed2f058347d3",
+    "title": "Filmski maraton: Zendaya je jedna od najuzbudljivijih mladih glumica, a ovo su joj najbolje uloge",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/zendaya-filmski-maraton/",
+    "image": "https://www.journal.hr/wp-content/uploads/2024/10/Zendaya_imdb-4-768x405.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.680998+00:00",
+    "fetched_at": "2026-05-20T12:56:26.681000+00:00",
+    "html_source": true
+  },
+  {
+    "id": "db52a187020db77d",
+    "title": "Filmski maraton: 10 najboljih glazbenih biografskih filmova koje možete pogledati",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/glazbeni-biografski-filmovi-filmski-maraton/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/glazbeni-biografski-filmovi_imdb-4-768x640.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.680898+00:00",
+    "fetched_at": "2026-05-20T12:56:26.680901+00:00",
+    "html_source": true
+  },
+  {
+    "id": "f6d1d6784debce4e",
+    "title": "Filmski maraton: Povodom Vrag nosi Pradu 2, izdvajamo 19 najboljih izvedbi Meryl Streep",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/filmski-maraton-meryl-streep/",
+    "image": "https://www.journal.hr/wp-content/uploads/2023/06/Meryl-Streep_imdb-6-768x484.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.680795+00:00",
+    "fetched_at": "2026-05-20T12:56:26.680797+00:00",
+    "html_source": true
+  },
+  {
+    "id": "878708f0cc444159",
+    "title": "Filmski maraton: Prije nego što u kina stigne Odiseja, prisjećamo se najboljih uloga Matta Damona",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/matt-damon-filmski-maraton/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Matt-Damon_imdb-10-768x510.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.680695+00:00",
+    "fetched_at": "2026-05-20T12:56:26.680697+00:00",
+    "html_source": true
+  },
+  {
+    "id": "f1d1a86a3f827a1c",
+    "title": "Film, kazalište i TV Sinoć je imao premijeru na Filmskom festivalu u Cannesu, a već ga nazivaju kultnim klasikom",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/hope-film/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Hope_imdb-2-768x512.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.680587+00:00",
+    "fetched_at": "2026-05-20T12:56:26.680590+00:00",
+    "html_source": true
+  },
+  {
+    "id": "484ef2c46f4846ba",
+    "title": "Film, kazalište i TV Vrag nosi Pradu 2 je sve što smo htjeli i ništa više. To je s jedne strane sjajno, a s druge razočaravajuće",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/vrag-nosi-pradu-2-pogledali-smo/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Vrag-nosi-Pradu-2_imdb-1-768x512.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.680340+00:00",
+    "fetched_at": "2026-05-20T12:56:26.680342+00:00",
+    "html_source": true
+  },
+  {
+    "id": "2378e074c22f4784",
+    "title": "Knjige Krhka dob je izazovno, uzbudljivo, na momente čak i jezivo djelo. O njemu piše Ilina Cenov",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/knjige/krhka-dob-ilina-cenov-procitali-smo/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/zena_pexels-yaroslav-shuraev-5978341-768x581.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.680226+00:00",
+    "fetched_at": "2026-05-20T12:56:26.680228+00:00",
+    "html_source": true
+  },
+  {
+    "id": "26e9b0629c9a8f7e",
+    "title": "Film, kazalište i TV Dobili smo najduži aplauz ovogodišnjeg Filmskog festivala u Cannesu za sad. Sve o filmu Fjord",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/fjord-film/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Fjord-2-550x550.gif",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.680052+00:00",
+    "fetched_at": "2026-05-20T12:56:26.680054+00:00",
+    "html_source": true
+  },
+  {
+    "id": "6d7af7fc0b021eef",
+    "title": "Film, kazalište i TV Uskoro stiže šarmantna romantična komedija za koju kažu da će oživjeti taj žanr",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/finding-emily-film-romanticna-komedija/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Finding-Emily_imdb-550x309.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.679927+00:00",
+    "fetched_at": "2026-05-20T12:56:26.679929+00:00",
+    "html_source": true
+  },
+  {
+    "id": "c8863afea61b4235",
+    "title": "Film, kazalište i TV Zašto trebate pogledati domaći film Lijepa večer, lijep dan, naslov koji je osvojio međunarodne festivale",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/lijepa-vecer-lijep-dan-pogledali-smo/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/lijepa-vecer-lijep-dan_imdb-2-550x230.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.679800+00:00",
+    "fetched_at": "2026-05-20T12:56:26.679803+00:00",
+    "html_source": true
+  },
+  {
+    "id": "5990d5c308db02b8",
+    "title": "Film, kazalište i TV Stigla je još jedna mračna triler serija. Od danas gledamo Maxiumum Pleasure Guaranteed",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/maximum-pleasure-guaranteed-serija/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/01/nove-serije-2026_imdb-4-1-550x309.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.679669+00:00",
+    "fetched_at": "2026-05-20T12:56:26.679671+00:00",
+    "html_source": true
+  },
+  {
+    "id": "b2e78a4b59d3ce45",
+    "title": "Film, kazalište i TV Ovom naslovu s Cannesa se možda najviše veselimo. Almodóvar je predstavio novi film",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/bitter-christmas-film/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Filmski-festival-u-Cannesu_imdb-1-768x432.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.679539+00:00",
+    "fetched_at": "2026-05-20T12:56:26.679541+00:00",
+    "html_source": true
+  },
+  {
+    "id": "9d8715f16b5f08c6",
+    "title": "Film, kazalište i TV Čini se da ni 23 sezone nisu dovoljne! Uvod u anatomiju dobiva i novi spinoff. Evo detalja",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/uvod-u-anatomiju-spinoff/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Uvod-u-anatomiju.jpeg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.679387+00:00",
+    "fetched_at": "2026-05-20T12:56:26.679390+00:00",
+    "html_source": true
+  },
+  {
+    "id": "6bafad1c479fae38",
+    "title": "Glazba Zovu ih vizionarima glazbene scene, a ovaj razgovor je to potvrdio. Empire Of The Sun uskoro na Šalati",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/glazba/empire-of-the-sun-luke-steele-intervju/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Empire-od-the-sun_imdb.jpeg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.679225+00:00",
+    "fetched_at": "2026-05-20T12:56:26.679228+00:00",
+    "html_source": true
+  },
+  {
+    "id": "b741457a7ef83aed",
+    "title": "Journal Man Od arhiva do imaginarija: Marko Tadić predstavio nam je jednu od najzanimljivijih izložbi ovog proljeća",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/umjetnost-i-dizajn/marko-tadic-intervju-trotoar/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Marko-Tadic-photo-by-Damir-Zizic-4-1080x1440.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:26.679073+00:00",
+    "fetched_at": "2026-05-20T12:56:26.679087+00:00",
+    "html_source": true
+  },
+  {
+    "id": "0917d00a97c0e3fa",
+    "title": "„Svinje obožavaju sladoled!”",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/svinje-obozavaju-sladoled/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/09/U3A1849-943x1024.jpg",
+    "source": "Symbol Quorum - kultura i umjetnost",
+    "source_id": "extra-symbol-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:17.623402+00:00",
+    "fetched_at": "2026-05-20T12:56:17.623405+00:00",
+    "html_source": true
+  },
+  {
+    "id": "28553330a67a0887",
+    "title": "„Glumac živi i stvara sve dok se raduje svakoj novoj ulozi”",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/glumac-zivi-i-stvara-sve-dok-se-raduje-svakoj-novoj-ulozi/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/10/iva-1024x940.jpg",
+    "source": "Symbol Quorum - kultura i umjetnost",
+    "source_id": "extra-symbol-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:17.623267+00:00",
+    "fetched_at": "2026-05-20T12:56:17.623269+00:00",
+    "html_source": true
+  },
+  {
+    "id": "804d79961354612b",
+    "title": "„HNK i naša publika zaista su nešto posebno”",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/hnk-i-nasa-publika-zaista-su-nesto-posebno/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/11/image00022-1024x682.jpeg",
+    "source": "Symbol Quorum - kultura i umjetnost",
+    "source_id": "extra-symbol-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:17.623147+00:00",
+    "fetched_at": "2026-05-20T12:56:17.623149+00:00",
+    "html_source": true
+  },
+  {
+    "id": "61858c1edae0726b",
+    "title": "„Džuli je moja osobna iskaznica”",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/dzuli-je-moja-osobna-iskaznica/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/mf.jpg",
+    "source": "Symbol Quorum - kultura i umjetnost",
+    "source_id": "extra-symbol-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:17.623028+00:00",
+    "fetched_at": "2026-05-20T12:56:17.623031+00:00",
+    "html_source": true
+  },
+  {
+    "id": "c281305dacc375cc",
+    "title": "„Jako dobro znam koliko je teško svirati ljeti na otvorenom…”",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/jako-dobro-znam-koliko-je-tesko-svirati-ljeti-na-otvorenom/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/anita-kontrec-foto-mara-bratos-14-1024x682.jpg",
+    "source": "Symbol Quorum - kultura i umjetnost",
+    "source_id": "extra-symbol-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:17.622910+00:00",
+    "fetched_at": "2026-05-20T12:56:17.622912+00:00",
+    "html_source": true
+  },
+  {
+    "id": "a5ae2e1c8d601320",
+    "title": "„Svi smo kreatori svijeta u kojem živimo”",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/svi-smo-kreatori-svijeta-u-kojem-zivimo/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/selma2-1024x960.jpg",
+    "source": "Symbol Quorum - kultura i umjetnost",
+    "source_id": "extra-symbol-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:17.622782+00:00",
+    "fetched_at": "2026-05-20T12:56:17.622785+00:00",
+    "html_source": true
+  },
+  {
+    "id": "15f66bc40e638680",
+    "title": "„Ostvarila sam ono što mnogi umjetnici ne uspiju ni za pedeset godina karijere”",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/ostvarila-sam-ono-sto-mnogi-umjetnici-ne-uspiju-ni-za-pedeset-godina-karijere/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/DSC03739-964x1024.jpg",
+    "source": "Symbol Quorum - kultura i umjetnost",
+    "source_id": "extra-symbol-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:17.622656+00:00",
+    "fetched_at": "2026-05-20T12:56:17.622660+00:00",
+    "html_source": true
+  },
+  {
+    "id": "42c3c3013bb8ba35",
+    "title": "Očuvanje istinskog duha umjetnosti",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/ocuvanje-istinskog-duha-umjetnosti/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/IMG_8224-1-1024x712.jpg",
+    "source": "Symbol Quorum - kultura i umjetnost",
+    "source_id": "extra-symbol-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:56:17.622438+00:00",
+    "fetched_at": "2026-05-20T12:56:17.622452+00:00",
+    "html_source": true
+  },
+  {
+    "id": "f200053c8adfcff1",
+    "title": "Shamrock Capital Launches Fourth Content Strategy Fund Since 2015 With $813 Million in Commitments",
+    "description": "Shamrock Capital isn’t slowing down when it comes to investing in content libraries and catalogs. The Los Angeles-based investment firm focused on media, entertainment and communications has had no trouble lining up takers for its fourth fund for content acquisitions since 2015. That’s the year Shamrock first took aim at acquiring and managing content-related cash […]",
+    "url": "https://variety.com/2026/biz/news/shamrock-capital-fourth-content-strategy-fund-1236754564/",
+    "image": "https://variety.com/wp-content/uploads/2017/07/mergers-and-deals-placeholder.jpg",
+    "source": "Variety",
+    "source_id": "src-102",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:31:00+00:00",
+    "fetched_at": "2026-05-20T12:55:07.042425+00:00"
+  },
+  {
+    "id": "bd4f3d5f78d735b9",
+    "title": "Budapest-Based Love Cubed Ramps up International Slate With Cassian Elwes, Veronica Ferres-Produced Horror ‘Controllers’ (EXCLUSIVE)",
+    "description": "Budapest-based production outfit Hero Squared is at the Cannes Market looking to woo partners to Love Cubed, its service label focusing on commercials, music videos and independently financed feature films. Love Cubed is led by former Focus Features exec Jonathan Halperyn and former Korda Studios exec Daniel Kresmery. The duo has also tapped veteran producer-director Vandad […]",
+    "url": "https://variety.com/2026/film/global/love-cubed-international-slate-cassian-elwes-veronica-ferres-controllers-1236754732/",
+    "image": "https://variety.com/wp-content/uploads/2026/05/MixCollage-20-May-2026-01-44-PM-6506.jpg",
+    "source": "Variety",
+    "source_id": "src-102",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:23:10+00:00",
+    "fetched_at": "2026-05-20T12:55:07.042537+00:00"
+  },
+  {
+    "id": "14c2fae1e230c9d9",
+    "title": "Miles Teller Stopped Doing Press Profiles After Esquire Magazine Called Him ‘Kind of a Dick’: ‘It Felt Like Such a Violation’ and Was ‘So Mishandled’",
+    "description": "Miles Teller made the press rounds at the Cannes Film Festival to promote James Gray’s competition entry “Paper Tiger,” in which he stars opposite Adam Driver and Scarlett Johansson. But Teller is wary when it comes to interviews after he felt violated by an infamous 2015 Esquire profile that labeled him “kind of a dick” […]",
+    "url": "https://variety.com/2026/film/news/miles-teller-stopped-press-interviews-esquire-dick-violation-1236754794/",
+    "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-2276688540.jpg",
+    "source": "Variety",
+    "source_id": "src-102",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:20:18+00:00",
+    "fetched_at": "2026-05-20T12:55:07.042641+00:00"
+  },
+  {
+    "id": "dedfdad2b91b8e81",
+    "title": "Jay Lycurgo on Going From ‘Steve’ to ‘I See Buildings Fall Like Lightning’: ‘I Love These Stories — They’re Just So Real’",
+    "description": "“I think every actor would love to have find a character where they can full immerse themselves,” says Jay Lycurgo. “Because once you have that, you’re gonna strike gold.” Thankfully for the fast-rising British actor, it’s happened to him in near quick succession, with two roles that have offered him “the playground to find the […]",
+    "url": "https://variety.com/2026/film/global/jay-lycurgo-steve-i-see-buildings-cannes-1236754778/",
+    "image": "https://variety.com/wp-content/uploads/2026/05/JAY_LYCURGO_10677.jpg",
+    "source": "Variety",
+    "source_id": "src-102",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:02:14+00:00",
+    "fetched_at": "2026-05-20T12:55:07.042735+00:00"
+  },
+  {
+    "id": "c7ac61a0dc7dec7a",
+    "title": "Stonewall monument targeted by Trump administration among the US’s most endangered historic places",
+    "description": "The latest edition of the National Trust for Historic Preservation’s annual list spotlights federal erasure and rollbacks to public land conservation",
+    "url": "https://www.theartnewspaper.com/2026/05/20/stonewall-monument-among-the-us-most-endangered-historic-places",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/29a56bc794556e13fc8627e7162b7a75eaa42a7c-2000x1500.jpg?w=140",
+    "source": "The Art Newspaper",
+    "source_id": "src-092",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:00:00+00:00",
+    "fetched_at": "2026-05-20T12:55:04.083643+00:00"
+  },
+  {
+    "id": "2da9ba3d609ffb68",
+    "title": "John Cena, Eric André Form Dysfunctional Family in Netflix’s ‘Little Brother’ Trailer",
+    "description": "Michelle Monaghan, Christopher Meloni and Ego Nwodim also star in director Matt Spicer's comedy that debuts next month.",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/little-brother-trailer-john-cena-eric-andre-netflix-1236602149/",
+    "image": "https://picsum.photos/seed/wv-news-3812d1fab83e/1200/750",
+    "source": "Hollywood Reporter",
+    "source_id": "src-103",
+    "category": "kultura",
+    "published_at": "2026-05-20T12:00:00+00:00",
+    "fetched_at": "2026-05-20T12:55:07.160214+00:00"
+  },
+  {
     "id": "92f1bb778ec89b52",
     "title": "Glazba Izdvojili smo top 15 najboljih pobjedničkih pjesama s Eurosonga svih vremena",
     "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
@@ -13,331 +423,6 @@
     "html_source": true
   },
   {
-    "id": "f1bec58d9113b0e3",
-    "title": "Glazba Zagreb Beer Fest odvija se ovaj tjedan. Zabilježite tko i kada nastupa na Tuđmancu",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/glazba/zagreb-beer-fest-2026/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Zagreb-beer-festival-1-768x512.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.038960+00:00",
-    "fetched_at": "2026-05-20T11:36:23.038962+00:00",
-    "html_source": true
-  },
-  {
-    "id": "b000752361064d84",
-    "title": "Za jedne kontroverzan, za druge oslobađajuć: Bio je hrvatski kandidat za Oscara, napokon dolazi u kina",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/lijepa-vecer-lijep-dan-film/",
-    "image": "https://www.journal.hr/wp-content/uploads/2024/09/Lijepa-vecer-lijep-dan-4-768x321.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.038851+00:00",
-    "fetched_at": "2026-05-20T11:36:23.038853+00:00",
-    "html_source": true
-  },
-  {
-    "id": "22e3121dbe99355c",
-    "title": "Nova generacija na putu uspjeha: Ostvarenje mlade hrvatske filmašice gledamo u Cannesu",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/odbaceni-a-uspravni-film/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Left-Behind-Still-Standing-4-2-768x534.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.038691+00:00",
-    "fetched_at": "2026-05-20T11:36:23.038692+00:00",
-    "html_source": true
-  },
-  {
-    "id": "942fed2f058347d3",
-    "title": "Filmski maraton: Zendaya je jedna od najuzbudljivijih mladih glumica, a ovo su joj najbolje uloge",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/zendaya-filmski-maraton/",
-    "image": "https://www.journal.hr/wp-content/uploads/2024/10/Zendaya_imdb-4-768x405.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.038531+00:00",
-    "fetched_at": "2026-05-20T11:36:23.038533+00:00",
-    "html_source": true
-  },
-  {
-    "id": "db52a187020db77d",
-    "title": "Filmski maraton: 10 najboljih glazbenih biografskih filmova koje možete pogledati",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/glazbeni-biografski-filmovi-filmski-maraton/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/glazbeni-biografski-filmovi_imdb-4-768x640.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.038445+00:00",
-    "fetched_at": "2026-05-20T11:36:23.038447+00:00",
-    "html_source": true
-  },
-  {
-    "id": "f6d1d6784debce4e",
-    "title": "Filmski maraton: Povodom Vrag nosi Pradu 2, izdvajamo 19 najboljih izvedbi Meryl Streep",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/filmski-maraton-meryl-streep/",
-    "image": "https://www.journal.hr/wp-content/uploads/2023/06/Meryl-Streep_imdb-6-768x484.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.038355+00:00",
-    "fetched_at": "2026-05-20T11:36:23.038357+00:00",
-    "html_source": true
-  },
-  {
-    "id": "878708f0cc444159",
-    "title": "Filmski maraton: Prije nego što u kina stigne Odiseja, prisjećamo se najboljih uloga Matta Damona",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/matt-damon-filmski-maraton/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Matt-Damon_imdb-10-768x510.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.038269+00:00",
-    "fetched_at": "2026-05-20T11:36:23.038271+00:00",
-    "html_source": true
-  },
-  {
-    "id": "484ef2c46f4846ba",
-    "title": "Film, kazalište i TV Vrag nosi Pradu 2 je sve što smo htjeli i ništa više. To je s jedne strane sjajno, a s druge razočaravajuće",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/vrag-nosi-pradu-2-pogledali-smo/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Vrag-nosi-Pradu-2_imdb-1-768x512.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.038025+00:00",
-    "fetched_at": "2026-05-20T11:36:23.038027+00:00",
-    "html_source": true
-  },
-  {
-    "id": "2378e074c22f4784",
-    "title": "Knjige Krhka dob je izazovno, uzbudljivo, na momente čak i jezivo djelo. O njemu piše Ilina Cenov",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/knjige/krhka-dob-ilina-cenov-procitali-smo/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/zena_pexels-yaroslav-shuraev-5978341-768x581.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.037925+00:00",
-    "fetched_at": "2026-05-20T11:36:23.037926+00:00",
-    "html_source": true
-  },
-  {
-    "id": "f1d1a86a3f827a1c",
-    "title": "Film, kazalište i TV Sinoć je imao premijeru na Filmskom festivalu u Cannesu, a već ga nazivaju kultnim klasikom",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/hope-film/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Hope_imdb-2-550x367.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.037768+00:00",
-    "fetched_at": "2026-05-20T11:36:23.037770+00:00",
-    "html_source": true
-  },
-  {
-    "id": "26e9b0629c9a8f7e",
-    "title": "Film, kazalište i TV Dobili smo najduži aplauz ovogodišnjeg Filmskog festivala u Cannesu za sad. Sve o filmu Fjord",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/fjord-film/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Fjord-2-550x550.gif",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.037642+00:00",
-    "fetched_at": "2026-05-20T11:36:23.037644+00:00",
-    "html_source": true
-  },
-  {
-    "id": "6d7af7fc0b021eef",
-    "title": "Film, kazalište i TV Uskoro stiže šarmantna romantična komedija za koju kažu da će oživjeti taj žanr",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/finding-emily-film-romanticna-komedija/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Finding-Emily_imdb-550x309.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.037528+00:00",
-    "fetched_at": "2026-05-20T11:36:23.037530+00:00",
-    "html_source": true
-  },
-  {
-    "id": "c8863afea61b4235",
-    "title": "Film, kazalište i TV Zašto trebate pogledati domaći film Lijepa večer, lijep dan, naslov koji je osvojio međunarodne festivale",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/lijepa-vecer-lijep-dan-pogledali-smo/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/lijepa-vecer-lijep-dan_imdb-2-550x230.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.037412+00:00",
-    "fetched_at": "2026-05-20T11:36:23.037414+00:00",
-    "html_source": true
-  },
-  {
-    "id": "5990d5c308db02b8",
-    "title": "Film, kazalište i TV Stigla je još jedna mračna triler serija. Od danas gledamo Maxiumum Pleasure Guaranteed",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/maximum-pleasure-guaranteed-serija/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/02/maximum-pleasure-guaranteed_imdb-2-1-768x512.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.037287+00:00",
-    "fetched_at": "2026-05-20T11:36:23.037290+00:00",
-    "html_source": true
-  },
-  {
-    "id": "b2e78a4b59d3ce45",
-    "title": "Film, kazalište i TV Ovom naslovu s Cannesa se možda najviše veselimo. Almodóvar je predstavio novi film",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/bitter-christmas-film/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/bitter-christmas.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.037142+00:00",
-    "fetched_at": "2026-05-20T11:36:23.037144+00:00",
-    "html_source": true
-  },
-  {
-    "id": "6bafad1c479fae38",
-    "title": "Glazba Zovu ih vizionarima glazbene scene, a ovaj razgovor je to potvrdio. Empire Of The Sun uskoro na Šalati",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/glazba/empire-of-the-sun-luke-steele-intervju/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Empire-od-the-sun_imdb.jpeg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.037023+00:00",
-    "fetched_at": "2026-05-20T11:36:23.037025+00:00",
-    "html_source": true
-  },
-  {
-    "id": "b741457a7ef83aed",
-    "title": "Journal Man Od arhiva do imaginarija: Marko Tadić predstavio nam je jednu od najzanimljivijih izložbi ovog proljeća",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/umjetnost-i-dizajn/marko-tadic-intervju-trotoar/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Marko-Tadic-photo-by-Damir-Zizic-4-1080x1440.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:23.036881+00:00",
-    "fetched_at": "2026-05-20T11:36:23.036897+00:00",
-    "html_source": true
-  },
-  {
-    "id": "0917d00a97c0e3fa",
-    "title": "„Svinje obožavaju sladoled!”",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/svinje-obozavaju-sladoled/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/09/U3A1849-943x1024.jpg",
-    "source": "Symbol Quorum - kultura i umjetnost",
-    "source_id": "extra-symbol-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:13.753811+00:00",
-    "fetched_at": "2026-05-20T11:36:13.753813+00:00",
-    "html_source": true
-  },
-  {
-    "id": "28553330a67a0887",
-    "title": "„Glumac živi i stvara sve dok se raduje svakoj novoj ulozi”",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/glumac-zivi-i-stvara-sve-dok-se-raduje-svakoj-novoj-ulozi/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/10/iva-1024x940.jpg",
-    "source": "Symbol Quorum - kultura i umjetnost",
-    "source_id": "extra-symbol-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:13.753717+00:00",
-    "fetched_at": "2026-05-20T11:36:13.753720+00:00",
-    "html_source": true
-  },
-  {
-    "id": "804d79961354612b",
-    "title": "„HNK i naša publika zaista su nešto posebno”",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/hnk-i-nasa-publika-zaista-su-nesto-posebno/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/11/image00022-1024x682.jpeg",
-    "source": "Symbol Quorum - kultura i umjetnost",
-    "source_id": "extra-symbol-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:13.753608+00:00",
-    "fetched_at": "2026-05-20T11:36:13.753610+00:00",
-    "html_source": true
-  },
-  {
-    "id": "61858c1edae0726b",
-    "title": "„Džuli je moja osobna iskaznica”",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/dzuli-je-moja-osobna-iskaznica/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/mf.jpg",
-    "source": "Symbol Quorum - kultura i umjetnost",
-    "source_id": "extra-symbol-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:13.753511+00:00",
-    "fetched_at": "2026-05-20T11:36:13.753513+00:00",
-    "html_source": true
-  },
-  {
-    "id": "c281305dacc375cc",
-    "title": "„Jako dobro znam koliko je teško svirati ljeti na otvorenom…”",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/jako-dobro-znam-koliko-je-tesko-svirati-ljeti-na-otvorenom/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/anita-kontrec-foto-mara-bratos-14-1024x682.jpg",
-    "source": "Symbol Quorum - kultura i umjetnost",
-    "source_id": "extra-symbol-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:13.753417+00:00",
-    "fetched_at": "2026-05-20T11:36:13.753419+00:00",
-    "html_source": true
-  },
-  {
-    "id": "a5ae2e1c8d601320",
-    "title": "„Svi smo kreatori svijeta u kojem živimo”",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/svi-smo-kreatori-svijeta-u-kojem-zivimo/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/selma2-1024x960.jpg",
-    "source": "Symbol Quorum - kultura i umjetnost",
-    "source_id": "extra-symbol-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:13.753312+00:00",
-    "fetched_at": "2026-05-20T11:36:13.753315+00:00",
-    "html_source": true
-  },
-  {
-    "id": "15f66bc40e638680",
-    "title": "„Ostvarila sam ono što mnogi umjetnici ne uspiju ni za pedeset godina karijere”",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/ostvarila-sam-ono-sto-mnogi-umjetnici-ne-uspiju-ni-za-pedeset-godina-karijere/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/DSC03739-964x1024.jpg",
-    "source": "Symbol Quorum - kultura i umjetnost",
-    "source_id": "extra-symbol-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:13.753209+00:00",
-    "fetched_at": "2026-05-20T11:36:13.753211+00:00",
-    "html_source": true
-  },
-  {
-    "id": "42c3c3013bb8ba35",
-    "title": "Očuvanje istinskog duha umjetnosti",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/ocuvanje-istinskog-duha-umjetnosti/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/IMG_8224-1-1024x712.jpg",
-    "source": "Symbol Quorum - kultura i umjetnost",
-    "source_id": "extra-symbol-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-20T11:36:13.753020+00:00",
-    "fetched_at": "2026-05-20T11:36:13.753036+00:00",
-    "html_source": true
-  },
-  {
     "id": "f5d58905dbf97d30",
     "title": "Channel 4 CEO Apologizes To Women Who Made “Very Troubling” Rape Allegations On ‘Married At First Sight UK’",
     "description": "New Channel 4 CEO Priya Dogra has apologized to the women who made “very troubling” rape allegations on Married at First Sight UK (MAFS), but has stressed the network “cannot investigate the specific allegations against the men.” Dogra, who is just two months into the job, delivered her second statement to press this morning at […]",
@@ -347,7 +432,7 @@
     "source_id": "src-104",
     "category": "kultura",
     "published_at": "2026-05-20T11:30:15+00:00",
-    "fetched_at": "2026-05-20T11:35:16.848457+00:00"
+    "fetched_at": "2026-05-20T12:55:07.238746+00:00"
   },
   {
     "id": "706e03a8c04a4dab",
@@ -359,7 +444,7 @@
     "source_id": "src-102",
     "category": "kultura",
     "published_at": "2026-05-20T11:29:30+00:00",
-    "fetched_at": "2026-05-20T11:35:16.579205+00:00"
+    "fetched_at": "2026-05-20T12:55:07.042836+00:00"
   },
   {
     "id": "6eca0d5085d34dcf",
@@ -371,7 +456,7 @@
     "source_id": "src-104",
     "category": "kultura",
     "published_at": "2026-05-20T11:28:06+00:00",
-    "fetched_at": "2026-05-20T11:35:16.848569+00:00"
+    "fetched_at": "2026-05-20T12:55:07.238865+00:00"
   },
   {
     "id": "9a5340cb393b8ed0",
@@ -383,7 +468,7 @@
     "source_id": "src-102",
     "category": "kultura",
     "published_at": "2026-05-20T11:17:12+00:00",
-    "fetched_at": "2026-05-20T11:35:16.579313+00:00"
+    "fetched_at": "2026-05-20T12:55:07.042928+00:00"
   },
   {
     "id": "14a94331eef0f5a5",
@@ -395,7 +480,7 @@
     "source_id": "src-104",
     "category": "kultura",
     "published_at": "2026-05-20T11:01:04+00:00",
-    "fetched_at": "2026-05-20T11:35:16.848650+00:00"
+    "fetched_at": "2026-05-20T12:55:07.238955+00:00"
   },
   {
     "id": "4cde0e3eeae24080",
@@ -407,7 +492,7 @@
     "source_id": "src-102",
     "category": "kultura",
     "published_at": "2026-05-20T10:43:00+00:00",
-    "fetched_at": "2026-05-20T11:35:16.579392+00:00"
+    "fetched_at": "2026-05-20T12:55:07.043009+00:00"
   },
   {
     "id": "c12505182ec6eb21",
@@ -419,7 +504,7 @@
     "source_id": "src-104",
     "category": "kultura",
     "published_at": "2026-05-20T10:18:08+00:00",
-    "fetched_at": "2026-05-20T11:35:16.848754+00:00"
+    "fetched_at": "2026-05-20T12:55:07.239049+00:00"
   },
   {
     "id": "6a0c2d40141f84c8",
@@ -431,7 +516,7 @@
     "source_id": "src-105",
     "category": "kultura",
     "published_at": "2026-05-20T10:15:00+00:00",
-    "fetched_at": "2026-05-20T11:35:17.010713+00:00"
+    "fetched_at": "2026-05-20T12:55:07.325087+00:00"
   },
   {
     "id": "4e22963454bc1054",
@@ -443,7 +528,7 @@
     "source_id": "src-104",
     "category": "kultura",
     "published_at": "2026-05-20T10:09:29+00:00",
-    "fetched_at": "2026-05-20T11:35:16.848822+00:00"
+    "fetched_at": "2026-05-20T12:55:07.239126+00:00"
   },
   {
     "id": "689762e0f828756e",
@@ -455,7 +540,7 @@
     "source_id": "src-105",
     "category": "kultura",
     "published_at": "2026-05-20T10:05:00+00:00",
-    "fetched_at": "2026-05-20T11:35:17.010785+00:00"
+    "fetched_at": "2026-05-20T12:55:07.325160+00:00"
   },
   {
     "id": "af86ff3b9c823a6d",
@@ -467,7 +552,7 @@
     "source_id": "src-105",
     "category": "kultura",
     "published_at": "2026-05-20T10:04:00+00:00",
-    "fetched_at": "2026-05-20T11:35:17.010844+00:00"
+    "fetched_at": "2026-05-20T12:55:07.325227+00:00"
   },
   {
     "id": "065ae0ca066108c1",
@@ -479,7 +564,7 @@
     "source_id": "src-105",
     "category": "kultura",
     "published_at": "2026-05-20T10:03:00+00:00",
-    "fetched_at": "2026-05-20T11:35:17.010897+00:00"
+    "fetched_at": "2026-05-20T12:55:07.325288+00:00"
   },
   {
     "id": "458e0fffe4bb4bf0",
@@ -491,7 +576,7 @@
     "source_id": "src-105",
     "category": "kultura",
     "published_at": "2026-05-20T10:02:00+00:00",
-    "fetched_at": "2026-05-20T11:35:17.010948+00:00"
+    "fetched_at": "2026-05-20T12:55:07.325347+00:00"
   },
   {
     "id": "3fdb57140da25345",
@@ -503,7 +588,7 @@
     "source_id": "src-092",
     "category": "kultura",
     "published_at": "2026-05-20T10:01:29+00:00",
-    "fetched_at": "2026-05-20T11:35:13.321657+00:00"
+    "fetched_at": "2026-05-20T12:55:04.083716+00:00"
   },
   {
     "id": "4585a05214995b0f",
@@ -515,7 +600,7 @@
     "source_id": "src-105",
     "category": "kultura",
     "published_at": "2026-05-20T10:01:00+00:00",
-    "fetched_at": "2026-05-20T11:35:17.010993+00:00"
+    "fetched_at": "2026-05-20T12:55:07.325430+00:00"
   },
   {
     "id": "8ef8acd9aada7af7",
@@ -527,7 +612,7 @@
     "source_id": "src-091",
     "category": "kultura",
     "published_at": "2026-05-20T10:00:28+00:00",
-    "fetched_at": "2026-05-20T11:35:13.012545+00:00"
+    "fetched_at": "2026-05-20T12:55:03.952190+00:00"
   },
   {
     "id": "e8a58cb862f08db0",
@@ -539,7 +624,7 @@
     "source_id": "src-105",
     "category": "kultura",
     "published_at": "2026-05-20T10:00:00+00:00",
-    "fetched_at": "2026-05-20T11:35:17.011042+00:00"
+    "fetched_at": "2026-05-20T12:55:07.325491+00:00"
   },
   {
     "id": "9a6a53523e4913bc",
@@ -551,7 +636,7 @@
     "source_id": "src-102",
     "category": "kultura",
     "published_at": "2026-05-20T09:44:04+00:00",
-    "fetched_at": "2026-05-20T11:35:16.579477+00:00"
+    "fetched_at": "2026-05-20T12:55:07.043102+00:00"
   },
   {
     "id": "530f1acf57146807",
@@ -563,7 +648,7 @@
     "source_id": "src-092",
     "category": "kultura",
     "published_at": "2026-05-20T09:32:56+00:00",
-    "fetched_at": "2026-05-20T11:35:13.321752+00:00"
+    "fetched_at": "2026-05-20T12:55:04.083777+00:00"
   },
   {
     "id": "c7d62d4bbf49d396",
@@ -575,7 +660,7 @@
     "source_id": "src-104",
     "category": "kultura",
     "published_at": "2026-05-20T09:30:29+00:00",
-    "fetched_at": "2026-05-20T11:35:16.848903+00:00"
+    "fetched_at": "2026-05-20T12:55:07.239217+00:00"
   },
   {
     "id": "f2776fd08e61d12c",
@@ -587,7 +672,7 @@
     "source_id": "src-103",
     "category": "kultura",
     "published_at": "2026-05-20T09:30:00+00:00",
-    "fetched_at": "2026-05-20T11:35:16.652854+00:00"
+    "fetched_at": "2026-05-20T12:55:07.160343+00:00"
   },
   {
     "id": "36858bded762b184",
@@ -599,7 +684,7 @@
     "source_id": "src-092",
     "category": "kultura",
     "published_at": "2026-05-20T09:17:45+00:00",
-    "fetched_at": "2026-05-20T11:35:13.321811+00:00"
+    "fetched_at": "2026-05-20T12:55:04.083835+00:00"
   },
   {
     "id": "36e6aac9976bf361",
@@ -611,7 +696,7 @@
     "source_id": "src-102",
     "category": "kultura",
     "published_at": "2026-05-20T09:16:41+00:00",
-    "fetched_at": "2026-05-20T11:35:16.579568+00:00"
+    "fetched_at": "2026-05-20T12:55:07.043200+00:00"
   },
   {
     "id": "2337f8a9a4709040",
@@ -623,7 +708,7 @@
     "source_id": "src-103",
     "category": "kultura",
     "published_at": "2026-05-20T09:09:42+00:00",
-    "fetched_at": "2026-05-20T11:35:16.652935+00:00"
+    "fetched_at": "2026-05-20T12:55:07.160471+00:00"
   },
   {
     "id": "2783bdb122450b9a",
@@ -635,7 +720,7 @@
     "source_id": "src-096",
     "category": "kultura",
     "published_at": "2026-05-20T09:00:04+00:00",
-    "fetched_at": "2026-05-20T11:35:14.948638+00:00"
+    "fetched_at": "2026-05-20T12:55:05.408085+00:00"
   },
   {
     "id": "27490da351973ab3",
@@ -647,7 +732,7 @@
     "source_id": "src-102",
     "category": "kultura",
     "published_at": "2026-05-20T08:54:25+00:00",
-    "fetched_at": "2026-05-20T11:35:16.579649+00:00"
+    "fetched_at": "2026-05-20T12:55:07.043291+00:00"
   },
   {
     "id": "0f0b05c6971411da",
@@ -659,7 +744,7 @@
     "source_id": "src-104",
     "category": "kultura",
     "published_at": "2026-05-20T08:47:28+00:00",
-    "fetched_at": "2026-05-20T11:35:16.848983+00:00"
+    "fetched_at": "2026-05-20T12:55:07.239306+00:00"
   },
   {
     "id": "fb1c73aaa4e05412",
@@ -684,7 +769,7 @@
     "source_id": "src-104",
     "category": "kultura",
     "published_at": "2026-05-20T08:29:08+00:00",
-    "fetched_at": "2026-05-20T11:35:16.849057+00:00"
+    "fetched_at": "2026-05-20T12:55:07.239418+00:00"
   },
   {
     "id": "d1cf2d0a2ce87973",
@@ -708,7 +793,7 @@
     "source_id": "src-103",
     "category": "kultura",
     "published_at": "2026-05-20T08:23:00+00:00",
-    "fetched_at": "2026-05-20T11:35:16.653006+00:00"
+    "fetched_at": "2026-05-20T12:55:07.160570+00:00"
   },
   {
     "id": "b521b7c3b8cdc246",
@@ -720,7 +805,7 @@
     "source_id": "src-099",
     "category": "kultura",
     "published_at": "2026-05-20T08:19:19+00:00",
-    "fetched_at": "2026-05-20T11:35:16.042076+00:00"
+    "fetched_at": "2026-05-20T12:55:06.345601+00:00"
   },
   {
     "id": "3020a0337dd37715",
@@ -744,7 +829,19 @@
     "source_id": "src-096",
     "category": "kultura",
     "published_at": "2026-05-20T08:00:49+00:00",
-    "fetched_at": "2026-05-20T11:35:14.948752+00:00"
+    "fetched_at": "2026-05-20T12:55:05.408181+00:00"
+  },
+  {
+    "id": "cfa2de2270d3fb1c",
+    "title": "Ones To Watch: Milo Machado-Graner, 17, Reflects On ‘Goodbye Cruel World’ After ‘Anatomy Of A Fall’: “This Role Took Me To A Different Place”",
+    "description": "At the age of 17, Milo Machado-Graner is already familiar to audiences in Cannes. First, he appeared as the sight-impaired son in Justine Triet’s 2023 arthouse smash Anatomy of a Fall, then he came back the following year with Filmlovers!, Arnaud Desplechin’s poetic ode to cinema. This year, you’ll find him closing Critics’ Week with […]",
+    "url": "https://deadline.com/2026/05/milo-machado-graner-goodbye-cruel-world-interview-cannes-1236881816/",
+    "image": "https://deadline.com/wp-content/uploads/2026/05/Milo-Machado.jpg",
+    "source": "Deadline",
+    "source_id": "src-104",
+    "category": "kultura",
+    "published_at": "2026-05-20T08:00:00+00:00",
+    "fetched_at": "2026-05-20T12:55:07.239561+00:00"
   },
   {
     "id": "00c85c7afb6758ed",
@@ -757,18 +854,6 @@
     "category": "kultura",
     "published_at": "2026-05-20T08:00:00+00:00",
     "fetched_at": "2026-05-20T11:35:16.579921+00:00"
-  },
-  {
-    "id": "cfa2de2270d3fb1c",
-    "title": "Ones To Watch: Milo Machado-Graner, 17, Reflects On ‘Goodbye Cruel World’ After ‘Anatomy Of A Fall’: “This Role Took Me To A Different Place”",
-    "description": "At the age of 17, Milo Machado-Graner is already familiar to audiences in Cannes. First, he appeared as the sight-impaired son in Justine Triet’s 2023 arthouse smash Anatomy of a Fall, then he came back the following year with Filmlovers!, Arnaud Desplechin’s poetic ode to cinema. This year, you’ll find him closing Critics’ Week with […]",
-    "url": "https://deadline.com/2026/05/milo-machado-graner-goodbye-cruel-world-interview-cannes-1236881816/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/Milo-Machado.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-20T08:00:00+00:00",
-    "fetched_at": "2026-05-20T11:35:16.849183+00:00"
   },
   {
     "id": "15c45aaa0a786d99",
@@ -792,7 +877,7 @@
     "source_id": "src-099",
     "category": "kultura",
     "published_at": "2026-05-20T07:28:53+00:00",
-    "fetched_at": "2026-05-20T11:35:16.042157+00:00"
+    "fetched_at": "2026-05-20T12:55:06.345684+00:00"
   },
   {
     "id": "e7df40adb8f2a404",
@@ -816,7 +901,7 @@
     "source_id": "src-103",
     "category": "kultura",
     "published_at": "2026-05-20T07:19:06+00:00",
-    "fetched_at": "2026-05-20T11:35:16.653069+00:00"
+    "fetched_at": "2026-05-20T12:55:07.160647+00:00"
   },
   {
     "id": "9ec13723281ad0e4",
@@ -828,7 +913,7 @@
     "source_id": "src-104",
     "category": "kultura",
     "published_at": "2026-05-20T07:05:00+00:00",
-    "fetched_at": "2026-05-20T11:35:16.849261+00:00"
+    "fetched_at": "2026-05-20T12:55:07.239662+00:00"
   },
   {
     "id": "3166bb101683dc96",
@@ -840,7 +925,19 @@
     "source_id": "src-103",
     "category": "kultura",
     "published_at": "2026-05-20T07:00:00+00:00",
-    "fetched_at": "2026-05-20T11:35:16.653133+00:00"
+    "fetched_at": "2026-05-20T12:55:07.160728+00:00"
+  },
+  {
+    "id": "49a472a4d31f1177",
+    "title": "Late Night Could Set a Clock by Trump’s Iran Attack Delays - The New York Times",
+    "description": "Late Night Could Set a Clock by Trump’s Iran Attack Delays The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN0htQmNsVzdtVld5UF91YmQyejJra2UxUDk1aGJsc2tOR3VfTzBHRU1XTDJsVHM5cXdUUkk3NTZidEJOdlZQRWQwMDNuWkVvYkExQ0p0UzViY2JpSHF1WmRRUDBqYnA4RHpfVkh2LW9PanpMQnlJazlrWEtCVVBUUWNqU0tmbUdWY0N3WA?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-10b7eb308be6/1200/750",
+    "source": "New York Times Arts - Google News",
+    "source_id": "global-extra-015",
+    "category": "kultura",
+    "published_at": "2026-05-20T06:09:55+00:00",
+    "fetched_at": "2026-05-20T12:55:58.787089+00:00"
   },
   {
     "id": "022338fb136da1ab",
@@ -852,7 +949,7 @@
     "source_id": "src-104",
     "category": "kultura",
     "published_at": "2026-05-20T06:00:00+00:00",
-    "fetched_at": "2026-05-20T11:35:16.849329+00:00"
+    "fetched_at": "2026-05-20T12:55:07.239749+00:00"
   },
   {
     "id": "245513f27cbe7eef",
@@ -864,7 +961,7 @@
     "source_id": "src-103",
     "category": "kultura",
     "published_at": "2026-05-20T05:30:00+00:00",
-    "fetched_at": "2026-05-20T11:35:16.653192+00:00"
+    "fetched_at": "2026-05-20T12:55:07.160800+00:00"
   },
   {
     "id": "543b3b292257470c",
@@ -888,7 +985,7 @@
     "source_id": "src-103",
     "category": "kultura",
     "published_at": "2026-05-20T04:55:37+00:00",
-    "fetched_at": "2026-05-20T11:35:16.653256+00:00"
+    "fetched_at": "2026-05-20T12:55:07.160873+00:00"
   },
   {
     "id": "940a1035cbafe797",
@@ -905,14 +1002,14 @@
   {
     "id": "a28e05dcc3930323",
     "title": "Phillips Posts $115.2 Million ‘White Glove’ Sale, Big Gain Over Last Year",
-    "description": "New records were set for Joseph Yaeger, Pat Passlof, and P.S. Krøyer. The post Phillips Posts $115.2 Million ‘White Glove’ Sale, Big Gain Over Last Year appeared first on Artnet News .",
+    "description": "New records were set for Joseph Yaeger and P.S. Krøyer. The post Phillips Posts $115.2 Million ‘White Glove’ Sale, Big Gain Over Last Year appeared first on Artnet News .",
     "url": "https://news.artnet.com/market/phillips-contemporary-modern-sale-spring-2026-2774815",
     "image": "https://picsum.photos/seed/wv-news-fb79b722e48a/1200/750",
     "source": "Artnet News",
     "source_id": "src-094",
     "category": "kultura",
     "published_at": "2026-05-20T04:08:23+00:00",
-    "fetched_at": "2026-05-20T11:35:13.965288+00:00"
+    "fetched_at": "2026-05-20T12:55:04.596791+00:00"
   },
   {
     "id": "ff1e13232c0758ca",
@@ -924,7 +1021,7 @@
     "source_id": "src-094",
     "category": "kultura",
     "published_at": "2026-05-20T03:30:06+00:00",
-    "fetched_at": "2026-05-20T11:35:13.965384+00:00"
+    "fetched_at": "2026-05-20T12:55:04.596891+00:00"
   },
   {
     "id": "5beaabb6927413d5",
@@ -936,7 +1033,7 @@
     "source_id": "src-104",
     "category": "kultura",
     "published_at": "2026-05-20T03:25:18+00:00",
-    "fetched_at": "2026-05-20T11:35:16.849399+00:00"
+    "fetched_at": "2026-05-20T12:55:07.239832+00:00"
   },
   {
     "id": "f0720f1113bb9233",
@@ -960,7 +1057,7 @@
     "source_id": "src-099",
     "category": "kultura",
     "published_at": "2026-05-20T02:00:47+00:00",
-    "fetched_at": "2026-05-20T11:35:16.042211+00:00"
+    "fetched_at": "2026-05-20T12:55:06.345799+00:00"
   },
   {
     "id": "49c98d0338baaa3a",
@@ -984,7 +1081,7 @@
     "source_id": "src-092",
     "category": "kultura",
     "published_at": "2026-05-20T01:59:44+00:00",
-    "fetched_at": "2026-05-20T11:35:13.321862+00:00"
+    "fetched_at": "2026-05-20T12:55:04.083893+00:00"
   },
   {
     "id": "6a13e1bacff7c7c4",
@@ -996,7 +1093,7 @@
     "source_id": "src-092",
     "category": "kultura",
     "published_at": "2026-05-20T01:33:03+00:00",
-    "fetched_at": "2026-05-20T11:35:13.321954+00:00"
+    "fetched_at": "2026-05-20T12:55:04.083992+00:00"
   },
   {
     "id": "c523fbbeec723aef",
@@ -1032,7 +1129,7 @@
     "source_id": "src-103",
     "category": "kultura",
     "published_at": "2026-05-20T00:45:50+00:00",
-    "fetched_at": "2026-05-20T11:35:16.653313+00:00"
+    "fetched_at": "2026-05-20T12:55:07.160942+00:00"
   },
   {
     "id": "f1c3d020b0149901",
@@ -1214,7 +1311,7 @@
     "source_id": "src-091",
     "category": "kultura",
     "published_at": "2026-05-19T22:18:27+00:00",
-    "fetched_at": "2026-05-20T11:35:13.012615+00:00"
+    "fetched_at": "2026-05-20T12:55:03.952262+00:00"
   },
   {
     "id": "84677b3947befddf",
@@ -1238,7 +1335,7 @@
     "source_id": "src-091",
     "category": "kultura",
     "published_at": "2026-05-19T22:05:39+00:00",
-    "fetched_at": "2026-05-20T11:35:13.012710+00:00"
+    "fetched_at": "2026-05-20T12:55:03.952347+00:00"
   },
   {
     "id": "a8264c16c5dacc6f",
@@ -1274,7 +1371,7 @@
     "source_id": "src-094",
     "category": "kultura",
     "published_at": "2026-05-19T21:55:23+00:00",
-    "fetched_at": "2026-05-20T11:35:13.965458+00:00"
+    "fetched_at": "2026-05-20T12:55:04.596968+00:00"
   },
   {
     "id": "9f440f2081b455d0",
@@ -1346,7 +1443,7 @@
     "source_id": "global-extra-014",
     "category": "kultura",
     "published_at": "2026-05-19T21:30:00+00:00",
-    "fetched_at": "2026-05-20T11:35:53.552995+00:00"
+    "fetched_at": "2026-05-20T12:55:58.257299+00:00"
   },
   {
     "id": "56995fef82f3c929",
@@ -1430,7 +1527,7 @@
     "source_id": "src-097",
     "category": "kultura",
     "published_at": "2026-05-19T21:06:11+00:00",
-    "fetched_at": "2026-05-20T11:35:15.052800+00:00"
+    "fetched_at": "2026-05-20T12:55:05.545528+00:00"
   },
   {
     "id": "882d720025d5a279",
@@ -1466,7 +1563,7 @@
     "source_id": "src-091",
     "category": "kultura",
     "published_at": "2026-05-19T20:59:04+00:00",
-    "fetched_at": "2026-05-20T11:35:13.012764+00:00"
+    "fetched_at": "2026-05-20T12:55:03.952435+00:00"
   },
   {
     "id": "1d677751b6a274bd",
@@ -1526,7 +1623,7 @@
     "source_id": "global-extra-015",
     "category": "kultura",
     "published_at": "2026-05-19T20:49:19+00:00",
-    "fetched_at": "2026-05-20T11:35:54.140109+00:00"
+    "fetched_at": "2026-05-20T12:55:58.787394+00:00"
   },
   {
     "id": "e3b77827611c9f2f",
@@ -1586,7 +1683,7 @@
     "source_id": "src-097",
     "category": "kultura",
     "published_at": "2026-05-19T20:09:27+00:00",
-    "fetched_at": "2026-05-20T11:35:15.052867+00:00"
+    "fetched_at": "2026-05-20T12:55:05.545598+00:00"
   },
   {
     "id": "86197a20f41bfd72",
@@ -1598,7 +1695,7 @@
     "source_id": "src-097",
     "category": "kultura",
     "published_at": "2026-05-19T20:09:04+00:00",
-    "fetched_at": "2026-05-20T11:35:15.052922+00:00"
+    "fetched_at": "2026-05-20T12:55:05.545660+00:00"
   },
   {
     "id": "7ff4d17b1a9844d6",
@@ -1634,7 +1731,7 @@
     "source_id": "src-091",
     "category": "kultura",
     "published_at": "2026-05-19T19:52:39+00:00",
-    "fetched_at": "2026-05-20T11:35:13.012817+00:00"
+    "fetched_at": "2026-05-20T12:55:03.952500+00:00"
   },
   {
     "id": "1ab8ea170ca0581d",
@@ -1646,7 +1743,7 @@
     "source_id": "src-095",
     "category": "kultura",
     "published_at": "2026-05-19T19:38:00+00:00",
-    "fetched_at": "2026-05-20T11:35:14.291628+00:00"
+    "fetched_at": "2026-05-20T12:55:04.858896+00:00"
   },
   {
     "id": "df35ebd475413566",
@@ -1862,7 +1959,7 @@
     "source_id": "src-091",
     "category": "kultura",
     "published_at": "2026-05-19T18:48:33+00:00",
-    "fetched_at": "2026-05-20T11:35:13.012864+00:00"
+    "fetched_at": "2026-05-20T12:55:03.952559+00:00"
   },
   {
     "id": "220ac0b804de0ef9",
@@ -1922,7 +2019,7 @@
     "source_id": "src-097",
     "category": "kultura",
     "published_at": "2026-05-19T18:30:58+00:00",
-    "fetched_at": "2026-05-20T11:35:15.052996+00:00"
+    "fetched_at": "2026-05-20T12:55:05.545738+00:00"
   },
   {
     "id": "37e8e95b6d42216d",
@@ -1982,7 +2079,7 @@
     "source_id": "src-097",
     "category": "kultura",
     "published_at": "2026-05-19T18:27:11+00:00",
-    "fetched_at": "2026-05-20T11:35:15.053049+00:00"
+    "fetched_at": "2026-05-20T12:55:05.545799+00:00"
   },
   {
     "id": "1dd59c6a5512e35b",
@@ -2078,7 +2175,7 @@
     "source_id": "src-105",
     "category": "kultura",
     "published_at": "2026-05-19T18:01:04+00:00",
-    "fetched_at": "2026-05-20T11:35:17.011104+00:00"
+    "fetched_at": "2026-05-20T12:55:07.325565+00:00"
   },
   {
     "id": "f68b9dc4d3e0e09a",
@@ -2114,7 +2211,7 @@
     "source_id": "src-094",
     "category": "kultura",
     "published_at": "2026-05-19T18:00:10+00:00",
-    "fetched_at": "2026-05-20T11:35:13.965516+00:00"
+    "fetched_at": "2026-05-20T12:55:04.597037+00:00"
   },
   {
     "id": "be675657a0c1765b",
@@ -2162,7 +2259,7 @@
     "source_id": "src-095",
     "category": "kultura",
     "published_at": "2026-05-19T17:46:13+00:00",
-    "fetched_at": "2026-05-20T11:35:14.291748+00:00"
+    "fetched_at": "2026-05-20T12:55:04.858995+00:00"
   },
   {
     "id": "b553618545603e8c",
@@ -2198,7 +2295,7 @@
     "source_id": "src-094",
     "category": "kultura",
     "published_at": "2026-05-19T17:38:43+00:00",
-    "fetched_at": "2026-05-20T11:35:13.965588+00:00"
+    "fetched_at": "2026-05-20T12:55:04.597120+00:00"
   },
   {
     "id": "4f7ddcdf9be6edbb",
@@ -2210,7 +2307,7 @@
     "source_id": "src-094",
     "category": "kultura",
     "published_at": "2026-05-19T17:30:47+00:00",
-    "fetched_at": "2026-05-20T11:35:13.965647+00:00"
+    "fetched_at": "2026-05-20T12:55:04.597188+00:00"
   },
   {
     "id": "0e3fde90b4a7ead9",
@@ -2270,7 +2367,7 @@
     "source_id": "src-092",
     "category": "kultura",
     "published_at": "2026-05-19T17:06:44+00:00",
-    "fetched_at": "2026-05-20T11:35:13.322012+00:00"
+    "fetched_at": "2026-05-20T12:55:04.084057+00:00"
   },
   {
     "id": "6b2bfe9338717e7a",
@@ -2282,7 +2379,7 @@
     "source_id": "src-097",
     "category": "kultura",
     "published_at": "2026-05-19T17:02:59+00:00",
-    "fetched_at": "2026-05-20T11:35:15.053095+00:00"
+    "fetched_at": "2026-05-20T12:55:05.545855+00:00"
   },
   {
     "id": "a3bfd8b1a715de84",
@@ -2330,7 +2427,7 @@
     "source_id": "global-extra-015",
     "category": "kultura",
     "published_at": "2026-05-19T16:59:26+00:00",
-    "fetched_at": "2026-05-20T11:35:54.140191+00:00"
+    "fetched_at": "2026-05-20T12:55:58.787489+00:00"
   },
   {
     "id": "9ba2b13f9002a8af",
@@ -2354,7 +2451,7 @@
     "source_id": "src-097",
     "category": "kultura",
     "published_at": "2026-05-19T16:52:26+00:00",
-    "fetched_at": "2026-05-20T11:35:15.053145+00:00"
+    "fetched_at": "2026-05-20T12:55:05.545911+00:00"
   },
   {
     "id": "a332a514cc5c917a",
@@ -2570,7 +2667,7 @@
     "source_id": "src-091",
     "category": "kultura",
     "published_at": "2026-05-19T16:08:50+00:00",
-    "fetched_at": "2026-05-20T11:35:13.012910+00:00"
+    "fetched_at": "2026-05-20T12:55:03.952615+00:00"
   },
   {
     "id": "e8abf678af7b909b",
@@ -2594,7 +2691,7 @@
     "source_id": "src-097",
     "category": "kultura",
     "published_at": "2026-05-19T16:03:21+00:00",
-    "fetched_at": "2026-05-20T11:35:15.053190+00:00"
+    "fetched_at": "2026-05-20T12:55:05.545964+00:00"
   },
   {
     "id": "0a778e92ec22e6f5",
@@ -2642,7 +2739,7 @@
     "source_id": "src-097",
     "category": "kultura",
     "published_at": "2026-05-19T16:00:00+00:00",
-    "fetched_at": "2026-05-20T11:35:15.053235+00:00"
+    "fetched_at": "2026-05-20T12:55:05.546017+00:00"
   },
   {
     "id": "5ea4a2967dce1588",
@@ -2726,7 +2823,7 @@
     "source_id": "src-092",
     "category": "kultura",
     "published_at": "2026-05-19T15:49:51+00:00",
-    "fetched_at": "2026-05-20T11:35:13.322069+00:00"
+    "fetched_at": "2026-05-20T12:55:04.084126+00:00"
   },
   {
     "id": "e8ecd3f971dacd96",
@@ -2750,7 +2847,7 @@
     "source_id": "src-105",
     "category": "kultura",
     "published_at": "2026-05-19T15:35:35+00:00",
-    "fetched_at": "2026-05-20T11:35:17.011158+00:00"
+    "fetched_at": "2026-05-20T12:55:07.325630+00:00"
   },
   {
     "id": "066429b05b1e9d25",
@@ -2762,7 +2859,7 @@
     "source_id": "global-extra-014",
     "category": "kultura",
     "published_at": "2026-05-19T15:33:00+00:00",
-    "fetched_at": "2026-05-20T11:35:53.552897+00:00"
+    "fetched_at": "2026-05-20T12:55:58.257200+00:00"
   },
   {
     "id": "a284fc6c7600426b",
@@ -2774,7 +2871,7 @@
     "source_id": "src-094",
     "category": "kultura",
     "published_at": "2026-05-19T14:42:07+00:00",
-    "fetched_at": "2026-05-20T11:35:13.965737+00:00"
+    "fetched_at": "2026-05-20T12:55:04.597271+00:00"
   },
   {
     "id": "ac317df2963fd586",
@@ -2786,7 +2883,7 @@
     "source_id": "src-094",
     "category": "kultura",
     "published_at": "2026-05-19T14:33:09+00:00",
-    "fetched_at": "2026-05-20T11:35:13.965794+00:00"
+    "fetched_at": "2026-05-20T12:55:04.597338+00:00"
   },
   {
     "id": "96d9cdb206a9fc10",
@@ -2798,7 +2895,7 @@
     "source_id": "src-097",
     "category": "kultura",
     "published_at": "2026-05-19T14:32:53+00:00",
-    "fetched_at": "2026-05-20T11:35:15.053290+00:00"
+    "fetched_at": "2026-05-20T12:55:05.546080+00:00"
   },
   {
     "id": "078337d33a2e5aa2",
@@ -2810,7 +2907,7 @@
     "source_id": "src-095",
     "category": "kultura",
     "published_at": "2026-05-19T14:08:38+00:00",
-    "fetched_at": "2026-05-20T11:35:14.291832+00:00"
+    "fetched_at": "2026-05-20T12:55:04.859084+00:00"
   },
   {
     "id": "f8d4a7a62ba505a7",
@@ -2822,7 +2919,7 @@
     "source_id": "global-extra-013",
     "category": "kultura",
     "published_at": "2026-05-19T14:03:09+00:00",
-    "fetched_at": "2026-05-20T11:35:53.010411+00:00"
+    "fetched_at": "2026-05-20T12:55:57.690653+00:00"
   },
   {
     "id": "837db1ebcfcf9e38",
@@ -2982,197 +3079,5 @@
     "category": "kultura",
     "published_at": "2026-05-19T11:08:28+00:00",
     "fetched_at": "2026-05-19T11:46:12.231340+00:00"
-  },
-  {
-    "id": "779be0cc8dcf2538",
-    "title": "M+ and Centre Pompidou announce multi-year partnership",
-    "description": "The Hong Kong and Paris institutions will stage a major exhibition with work from both collections, to open at the revamped Centre Pompidou in 2030",
-    "url": "https://www.theartnewspaper.com/2026/05/19/m+-and-centre-pompidou-announce-multi-year-partnership",
-    "image": "https://cdn.sanity.io/images/cxgd3urn/production/e864615b41528de26654abe9e103ce867681c43a-3000x2001.jpg?w=140",
-    "source": "The Art Newspaper",
-    "source_id": "src-092",
-    "category": "kultura",
-    "published_at": "2026-05-19T10:59:01+00:00",
-    "fetched_at": "2026-05-20T11:35:13.322116+00:00"
-  },
-  {
-    "id": "7dd0bac509a0eaf6",
-    "title": "James Graham Says He Is “Repaying” British State For Backing His Early Work By Landing American Investment On Projects Like Rupert Murdoch Movie ‘Ink’",
-    "description": "Prolific British scribe James Graham is beginning to get some serious American recognition for his body of work, and he isn’t biting the hand that feeds. Graham’s Rupert Murdoch play Ink is being made into a Studiocanal, Media Res and House Productions movie starring Guy Pearce while a different production, Punch, recently transferred to Broadway. […]",
-    "url": "https://deadline.com/2026/05/james-graham-rupert-murdoch-pic-ink-bbc-american-investment-1236915397/",
-    "image": "https://deadline.com/wp-content/uploads/2019/04/ink0462r.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-19T10:50:13+00:00",
-    "fetched_at": "2026-05-19T11:46:12.231437+00:00"
-  },
-  {
-    "id": "306c6d15a5b130c6",
-    "title": "AI-Created Vintage Adult Film Unveiled at Cannes (EXCLUSIVE)",
-    "description": "A collection of AI-generated short films drawn from erotic magazine photo spreads published 50 years ago has made its debut on the sidelines of the Cannes Film Festival, streaming on Cultpix with a physical release on BluRay and VHS from Klubb Super 8 to follow. The project was developed by Thomas Meier of Norwegian company […]",
-    "url": "https://variety.com/2026/tv/markets-festivals/ai-created-vintage-adult-film-cannes-1236753439/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/Shaived.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-19T10:48:26+00:00",
-    "fetched_at": "2026-05-19T11:46:11.994238+00:00"
-  },
-  {
-    "id": "ddcd7571a172fd28",
-    "title": "Kid-Tested, Expert-Approved BIPOC Board Books",
-    "description": "This book industry professional approves of the BIPOC board books her toddlers keep reaching for again and again.",
-    "url": "https://bookriot.com/bipoc-board-books/",
-    "image": "https://picsum.photos/seed/wv-news-4de664489134/1200/750",
-    "source": "Book Riot",
-    "source_id": "src-105",
-    "category": "kultura",
-    "published_at": "2026-05-19T10:45:00+00:00",
-    "fetched_at": "2026-05-20T11:35:17.011203+00:00"
-  },
-  {
-    "id": "89ffe3cb7fd7f321",
-    "title": "Seoul’s new Centre Pompidou Hanwha museum opens next month—can it live up to expectations?",
-    "description": "The French institution’s partnership with the Hanwha Foundation of Culture promises a “reciprocal exchange”, but there are concerns it will be too Western focused",
-    "url": "https://www.theartnewspaper.com/2026/05/19/seouls-new-centre-pompidou-hanwha-museum-opens-next-monthcan-it-live-up-to-expectations",
-    "image": "https://cdn.sanity.io/images/cxgd3urn/production/bc75b5468b2da829e0a2cdb444edc7435a08d130-893x666.jpg?w=140",
-    "source": "The Art Newspaper",
-    "source_id": "src-092",
-    "category": "kultura",
-    "published_at": "2026-05-19T10:38:44+00:00",
-    "fetched_at": "2026-05-20T11:35:13.322172+00:00"
-  },
-  {
-    "id": "277aac811737fee7",
-    "title": "Ryu Seungryong, Han Hyojoo, Zo Insung and Go Younjung Return as Disney+ Begins Production on ‘Moving’ Season 2",
-    "description": "Production on “Moving” Season 2 is now underway at Disney+, with leads Ryu Seungryong, Han Hyojoo, Zo Insung and Go Younjung all confirmed to return and Won Gyubin added to the ensemble. Set in the immediate aftermath of the Jeongwon High School Incident, the new season follows the returning characters as they attempt to resume […]",
-    "url": "https://variety.com/2026/film/news/ryu-seungryong-han-hyojoo-disney-moving-season-2-1236753429/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/Moving-cast.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-19T10:33:09+00:00",
-    "fetched_at": "2026-05-19T11:46:11.994330+00:00"
-  },
-  {
-    "id": "12054b1db666d628",
-    "title": "Sebastian Stan Slams Donald Trump and Says What’s Going on in America Is ‘Not a Laughing Matter’: ‘We’re in a Really Bad Place’",
-    "description": "Two years after his Donald Trump biopic “The Apprentice” premiered at Cannes, Sebastian Stan reflected on the role during the press conference for his new movie “Fjord,” saying America is “in a really, really bad place.” When the actor was asked his thoughts on “The Apprentice” — which premiered just before the 2024 election — […]",
-    "url": "https://variety.com/2026/film/festivals/sebastian-stan-slams-donald-trump-america-in-bad-place-cannes-1236753405/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/sebastian-e1779185434164.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-19T10:15:38+00:00",
-    "fetched_at": "2026-05-19T11:46:11.994431+00:00"
-  },
-  {
-    "id": "87f8f85718872c52",
-    "title": "Sebastian Stan Bashes Donald Trump Two Years After ‘Apprentice’ At Cannes: “We’re In A Really, Really Bad Place”",
-    "description": "Sebastian Stan was here this morning to talk about his latest movie Fjord at Cannes, however, that’s hard when the last time he was here at the fest, he was playing Donald Trump. The Avengers actor was asked how Trump has evolve since the premiere of The Apprentice two years ago. That pic world premiered […]",
-    "url": "https://deadline.com/2026/05/sebastian-stan-donald-trump-cannes-1236915362/",
-    "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2277062373-e1779184207373.jpg",
-    "source": "Deadline",
-    "source_id": "src-104",
-    "category": "kultura",
-    "published_at": "2026-05-19T10:09:13+00:00",
-    "fetched_at": "2026-05-19T11:46:12.231526+00:00"
-  },
-  {
-    "id": "fb730101b94d28ce",
-    "title": "Jour2Fête Takes French Distribution Rights to Period Dramedy ‘La Portraitiste’ (EXCLUSIVE)",
-    "description": "Jour2Fête has taken French distribution rights to period dramedy “La Portraitiste,” directed by Annie St-Pierre and written by Florence Longpré, who also stars in the film. The deal was signed in Cannes with H264, a Montreal-based international sales company. Longpré, an actress as well as a writer, first came to public attention with “Like-Moi!” in […]",
-    "url": "https://variety.com/2026/film/global/jour2fete-la-portraitiste-1236753401/",
-    "image": "https://variety.com/wp-content/uploads/2026/02/Florence-Longpre-Annie-St-Pierre.jpg",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-19T10:08:57+00:00",
-    "fetched_at": "2026-05-19T11:46:11.994516+00:00"
-  },
-  {
-    "id": "71bb1075289a6d68",
-    "title": "We Have a Lot to Learn from Plants",
-    "description": "Indigenous wisdom and scientific knowledge aren't in opposition, but in harmony, in Robin Wall Kimmerer's BRAIDING SWEETGRASS.",
-    "url": "https://bookriot.com/zero-to-well-read-braiding-sweetgrass/",
-    "image": "https://picsum.photos/seed/wv-news-ec13c9c69a11/1200/750",
-    "source": "Book Riot",
-    "source_id": "src-105",
-    "category": "kultura",
-    "published_at": "2026-05-19T10:08:00+00:00",
-    "fetched_at": "2026-05-20T09:43:16.107100+00:00"
-  },
-  {
-    "id": "5456213a53a83846",
-    "title": "The Best Queer Graphic Novels and Comics of the Century (So Far)",
-    "description": "Here are Book Riot's picks for the best queer graphic novels of the century so far—plus, a bonus list of 40 new LGBTQ books out this week.",
-    "url": "https://bookriot.com/best-queer-graphic-novels-and-comics-of-the-century-so-far/",
-    "image": "https://picsum.photos/seed/wv-news-fc0d74a26afb/1200/750",
-    "source": "Book Riot",
-    "source_id": "src-105",
-    "category": "kultura",
-    "published_at": "2026-05-19T10:07:00+00:00",
-    "fetched_at": "2026-05-20T09:43:16.107158+00:00"
-  },
-  {
-    "id": "427ba6ec3b93e4d4",
-    "title": "Movistar Plus Appoints New Management Under CEO Alfonso Gómez Palacio",
-    "description": "Movistar Plus is marking the start of Alfonso Gómez Palacio’s tenure as CEO with a restructuring of its operations, as the leading Spanish pay TV/SVOD platform launches a new content and sports framework. Gómez Palacio succeeded Daniel Domenjó, who left the post in April after just over a year as CEO of Movistar Plus. His […]",
-    "url": "https://variety.com/2026/film/markets-festivals/movistar-plus-management-restructure-alfonso-gomez-palacio-1236753364/",
-    "image": "https://variety.com/wp-content/uploads/2026/05/unnamed-6-1.png",
-    "source": "Variety",
-    "source_id": "src-102",
-    "category": "kultura",
-    "published_at": "2026-05-19T10:05:19+00:00",
-    "fetched_at": "2026-05-19T11:46:11.994599+00:00"
-  },
-  {
-    "id": "f17e0dea05b8f891",
-    "title": "You’re Soaking in It: 5 Sci-Fi Novels with Immersive Settings",
-    "description": "Read your way into some of the most compelling sci-fi novels with immersive settings.",
-    "url": "https://bookriot.com/sci-fi-novels-with-immersive-settings/",
-    "image": "https://picsum.photos/seed/wv-news-23085f79a1d5/1200/750",
-    "source": "Book Riot",
-    "source_id": "src-105",
-    "category": "kultura",
-    "published_at": "2026-05-19T10:05:00+00:00",
-    "fetched_at": "2026-05-20T09:43:16.107213+00:00"
-  },
-  {
-    "id": "4087d9cda4c4ed93",
-    "title": "Florence Pugh to Star in Film Adaptation of Matt Haig’s THE MIDNIGHT LIBRARY and More Book News!",
-    "description": "Florence Pugh is producing and starring in the upcoming film adaptation of Matt Haig's novel The Midnight Library. Plus, more book news!",
-    "url": "https://bookriot.com/florence-pugh-to-star-in-the-midnight-library/",
-    "image": "https://picsum.photos/seed/wv-news-d4933b3f6b99/1200/750",
-    "source": "Book Riot",
-    "source_id": "src-105",
-    "category": "kultura",
-    "published_at": "2026-05-19T10:03:00+00:00",
-    "fetched_at": "2026-05-20T09:43:16.107272+00:00"
-  },
-  {
-    "id": "d1d651adc7f30f72",
-    "title": "Readalikes For May’s Buzziest Books",
-    "description": "Here are three new releases your patrons are hearing about, and three alternatives you can suggest to them while they wait for their holds.",
-    "url": "https://bookriot.com/readalikes-for-mays-buzziest-books/",
-    "image": "https://picsum.photos/seed/wv-news-d1ea047903e6/1200/750",
-    "source": "Book Riot",
-    "source_id": "src-105",
-    "category": "kultura",
-    "published_at": "2026-05-19T10:01:00+00:00",
-    "fetched_at": "2026-05-20T09:43:16.107324+00:00"
-  },
-  {
-    "id": "4af9947dd10be199",
-    "title": "Gabrielle Goliath’s \"Elegy\" Comes to Venice",
-    "description": "A review of the show that was censored by the South African government, Seattle Art Museum workers push for a union, and 12 art books to read this summer.",
-    "url": "https://hyperallergic.com/gabrielle-goliaths-elegy-comes-to-venice/",
-    "image": "https://picsum.photos/seed/wv-news-ddc68996b5f7/1200/750",
-    "source": "Hyperallergic",
-    "source_id": "src-091",
-    "category": "kultura",
-    "published_at": "2026-05-19T10:00:18+00:00",
-    "fetched_at": "2026-05-20T11:35:13.012960+00:00"
   }
 ]

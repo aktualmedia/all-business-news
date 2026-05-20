@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-20T12:43:16.504228+00:00",
+  "updated_at": "2026-05-20T12:57:41.994178+00:00",
   "sources": 69,
-  "ok_sources": 13,
-  "events_count": 173,
+  "ok_sources": 12,
+  "events_count": 164,
   "results": [
     {
       "id": "infozagreb-events",
@@ -658,8 +658,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "ok",
-      "count": 10
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "uffizi",

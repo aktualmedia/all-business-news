@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-20T11:39:07.766451+00:00",
+  "updated_at": "2026-05-20T12:59:18.678529+00:00",
   "sources": 236,
-  "ok": 168,
-  "problem": 54,
+  "ok": 167,
+  "problem": 55,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -119,6 +119,17 @@
       "name": "ArchDaily - Google News",
       "category": "dizajn",
       "url": "https://news.google.com/rss/search?q=site:archdaily.com%20architecture%20design&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-064",
+      "name": "Ars Technica",
+      "category": "tehnologija",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -306,17 +317,6 @@
       "name": "Design Milk",
       "category": "dizajn",
       "url": "https://design-milk.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-118",
-      "name": "DesignWanted",
-      "category": "dizajn",
-      "url": "https://designwanted.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -691,6 +691,17 @@
       "name": "NBER Digest",
       "category": "ekonomija",
       "url": "https://www.nber.org/rss/new.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-083",
+      "name": "Nature News",
+      "category": "znanost",
+      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1149,17 +1160,6 @@
       "error": ""
     },
     {
-      "id": "src-064",
-      "name": "Ars Technica",
-      "category": "tehnologija",
-      "url": "https://feeds.arstechnica.com/arstechnica/index",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-125",
       "name": "Design Milk Lifestyle",
       "category": "lifestyle",
@@ -1186,17 +1186,6 @@
       "name": "National Jeweler - Google News",
       "category": "nakit",
       "url": "https://news.google.com/rss/search?q=site:nationaljeweler.com%20jewelry&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-083",
-      "name": "Nature News",
-      "category": "znanost",
-      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1633,6 +1622,17 @@
       "error": ""
     },
     {
+      "id": "src-169",
+      "name": "Robb Report",
+      "category": "hedonizam",
+      "url": "https://robbreport.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-097",
       "name": "Smithsonian Magazine",
       "category": "kultura",
@@ -1747,17 +1747,6 @@
       "name": "Our World in Data",
       "category": "ekonomija",
       "url": "https://ourworldindata.org/atom.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 9,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-169",
-      "name": "Robb Report",
-      "category": "hedonizam",
-      "url": "https://robbreport.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 9,
@@ -2205,6 +2194,17 @@
       "error": "HTTP Error 403: Forbidden"
     },
     {
+      "id": "src-118",
+      "name": "DesignWanted",
+      "category": "dizajn",
+      "url": "https://designwanted.com/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
+    },
+    {
       "id": "src-132",
       "name": "Dezeen Events",
       "category": "lifestyle",
@@ -2521,7 +2521,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 404: Not Found"
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "id": "src-130",
