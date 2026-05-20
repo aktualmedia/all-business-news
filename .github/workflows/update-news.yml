@@ -1,5 +1,5 @@
 name: Update vijesti - rucno i automatski
-# force-run: global-extra-feeds-2026-05-20
+# force-run: active-2000-archive-older-2026-05-20
 
 on:
   workflow_dispatch:
@@ -12,6 +12,7 @@ on:
     paths:
       - ".github/workflows/update-news.yml"
       - "update_news.py"
+      - "limit_news_archive.py"
       - "merge_global_extra_feeds.py"
       - "data/global_extra_feeds.json"
       - "fill_symbol_quorum_en.py"
@@ -81,6 +82,7 @@ jobs:
           python fill_premium_categories.py || echo "fill_premium_categories.py nije prosao do kraja, nastavljam dalje"
           python fill_core_business_science.py || echo "fill_core_business_science.py nije prosao do kraja, nastavljam dalje"
           python fill_missing_core_categories.py || echo "fill_missing_core_categories.py nije prosao do kraja, nastavljam dalje"
+          python limit_news_archive.py || echo "limit_news_archive.py nije prosao, nastavljam dalje"
           python generate_home_data.py
           python generate_seo.py
           echo "END UPDATE: $(date -u)"
