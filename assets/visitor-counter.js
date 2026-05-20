@@ -1,7 +1,7 @@
 (() => {
-  const START = 629;
+  const START = 2119;
   const FIRST_DAY = '2026-05-18';
-  const STORAGE_KEY = 'wv_read_counter_logic_v9_start_629';
+  const STORAGE_KEY = 'wv_read_counter_logic_v10_start_2119';
   const repo = '/all-business-news/';
   const PRIORITY_CATEGORIES = ['kultura','dizajn','pica','nakit','hedonizam'];
 
@@ -48,7 +48,7 @@
     if(!status) return null;
     const wrap = document.createElement('div');
     wrap.className = 'side-stat read-counter-card';
-    wrap.innerHTML = '<span>Brojač čitanja</span><strong id="wvReadCounter" data-wv-counter="reads">629</strong>';
+    wrap.innerHTML = '<span>Brojač čitanja</span><strong id="wvReadCounter" data-wv-counter="reads">2119</strong>';
     if(status.classList.contains('side-stat-list')) status.prepend(wrap); else status.appendChild(wrap);
     return wrap.querySelector('strong');
   }
