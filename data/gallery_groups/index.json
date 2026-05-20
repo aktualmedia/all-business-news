@@ -1,0 +1,107 @@
+{
+  "updated_at": "2026-05-20T11:46:16.939076+00:00",
+  "groups": [
+    {
+      "id": "symbol",
+      "label": "SYMBOL",
+      "count": 8,
+      "cover": "assets/editions/covers/symbol-8.jpg"
+    },
+    {
+      "id": "kultura",
+      "label": "KULTURA",
+      "count": 31,
+      "cover": "https://www.journal.hr/wp-content/uploads/2024/05/najbolje-pjesme-s-eurosonga_profimedia-2-768x895.jpg"
+    },
+    {
+      "id": "muzeji",
+      "label": "MUZEJI",
+      "count": 23,
+      "cover": "https://picsum.photos/seed/wv-news-0f247dc14253/1200/750"
+    },
+    {
+      "id": "hedonizam",
+      "label": "HEDONIZAM",
+      "count": 12,
+      "cover": "https://www.journal.hr/wp-content/uploads/2026/05/Dani-jagoda-2026-photo-by-Lili-Basic.jpg-28-768x512.jpg"
+    },
+    {
+      "id": "hrana",
+      "label": "HRANA",
+      "count": 0,
+      "cover": ""
+    },
+    {
+      "id": "pica",
+      "label": "PIĆA",
+      "count": 26,
+      "cover": "https://symbol-quorum.com/wp-content/uploads/2024/08/Galić-5copy-1024x683.jpg"
+    },
+    {
+      "id": "vina",
+      "label": "VINA",
+      "count": 0,
+      "cover": ""
+    },
+    {
+      "id": "satovi",
+      "label": "SATOVI",
+      "count": 4,
+      "cover": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/05/Sero-Watch-Company-3.jpg"
+    },
+    {
+      "id": "nakit",
+      "label": "NAKIT",
+      "count": 0,
+      "cover": ""
+    },
+    {
+      "id": "dizajn",
+      "label": "DIZAJN",
+      "count": 17,
+      "cover": "https://www.journal.hr/wp-content/uploads/2026/05/vila-u-Ceskoj-villa-m-boysplaynice-01-9-768x576.jpg"
+    },
+    {
+      "id": "tehnologija",
+      "label": "TEHNOLOGIJA",
+      "count": 31,
+      "cover": "https://picsum.photos/seed/wv-fill-329bcaede81a/1200/750"
+    },
+    {
+      "id": "znanost",
+      "label": "ZNANOST",
+      "count": 19,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2025/cancer-patient-1.jpg"
+    },
+    {
+      "id": "poslovanje",
+      "label": "POSLOVANJE",
+      "count": 49,
+      "cover": "https://picsum.photos/seed/wv-news-c387a30e3a4b/1200/750"
+    },
+    {
+      "id": "financije",
+      "label": "FINANCIJE",
+      "count": 113,
+      "cover": "https://picsum.photos/seed/wv-core-fe1dc0455db6/1200/750"
+    },
+    {
+      "id": "trzista",
+      "label": "TRŽIŠTA",
+      "count": 27,
+      "cover": "https://picsum.photos/seed/wv-news-002cc2188721/1200/750"
+    },
+    {
+      "id": "vijesti",
+      "label": "VIJESTI",
+      "count": 67,
+      "cover": "https://picsum.photos/seed/wv-core-c0ecd415ce03/1200/750"
+    },
+    {
+      "id": "lifestyle",
+      "label": "LIFESTYLE",
+      "count": 81,
+      "cover": "https://www.journal.hr/wp-content/uploads/2023/04/Collage-Maker-08-Apr-2023-10-50-AM-5052-768x403.jpg"
+    }
+  ]
+}
