@@ -1,0 +1,17 @@
+document.addEventListener('DOMContentLoaded',async function(){
+  if(!location.pathname.includes('/objave/')) return;
+  const grid=document.querySelector('.news-grid');
+  if(!grid) return;
+  const manual=[
+    {id:'2026-05-20-vrijednost-kapital-dokumentacija-povjerenje',title:'Vrijednost se danas gradi kroz kapital, dokumentaciju i povjerenje',author:'Nermin Sefić',summary:'Ozbiljna poslovna vrijednost više se ne dokazuje samo prometom, nego kapitalom, imovinom, dokumentacijom, transparentnošću i povjerenjem.',category:'kapital',created_at:'2026-05-20T11:00:00+02:00',url:'objave/2026-05-20-vrijednost-kapital-dokumentacija-povjerenje.html',local_url:'objave/2026-05-20-vrijednost-kapital-dokumentacija-povjerenje.html'},
+    {id:'2026-05-20-digitalni-portal-mediji-i-osobni-kredibilitet',title:'Digitalni portal, mediji i osobni kredibilitet',author:'Nermin Sefić',summary:'Vlastita digitalna infrastruktura postaje alat za uredno, provjerljivo i mirno objašnjavanje poslovanja, stavova i dokumenata.',category:'digitalni mediji',created_at:'2026-05-20T10:30:00+02:00',url:'objave/2026-05-20-digitalni-portal-mediji-i-osobni-kredibilitet.html',local_url:'objave/2026-05-20-digitalni-portal-mediji-i-osobni-kredibilitet.html'}
+  ];
+  const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const normalize=s=>String(s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,' ').trim();
+  const words=s=>normalize(s).split(/\s+/).filter(Boolean);
+  function topic(p){const t=normalize((p.title||'')+' '+(p.summary||'')+' '+(p.category||''));if(t.includes('svjetska ekonomija')||t.includes('globaln'))return 'globalna-ekonomija';if(t.includes('kapital prati povjerenje'))return 'kapital-povjerenje';if(t.includes('poduzetnistvo'))return 'poduzetnistvo';if(t.includes('digitalna imovina'))return 'digitalna-imovina';if(t.includes('vjerodostojnost'))return 'vjerodostojnost';if(t.includes('manjih marzi'))return 'marze';if(t.includes('cijena vremena'))return 'vrijeme-odluke';if(t.includes('digitalni portal')||t.includes('mediji'))return 'digitalni-portal';if(t.includes('dokumentacija'))return 'kapital-dokumentacija';return words(p.title).slice(0,5).join('-')}
+  function dateVal(p){return Date.parse(p.created_at||p.published_at||p.date||'')||0}
+  function score(p){return dateVal(p)+(String(p.body||'').split(/\s+/).length*1000)}
+  function href(p){let u=p.local_url||p.url||'objave/index.html';return u.startsWith('http')?u:'../'+u.replace(/^\.\.\//,'').replace(/^\//,'')}
+  try{let r=await fetch('../data/ai_posts.json?v='+Date.now(),{cache:'no-store'});let data=r.ok?await r.json():[];let all=[...manual,...(Array.isArray(data)?data:[])];let by={};for(const p of all){if(!p||!p.title)continue;let k=topic(p);if(!by[k]||score(p)>score(by[k]))by[k]=p}let posts=Object.values(by).sort((a,b)=>dateVal(b)-dateVal(a));posts.forEach((p,i)=>p.post_number=String(i+1).padStart(2,'0'));grid.innerHTML=posts.map(p=>'<article class="post-card"><div class="card-body"><p class="meta">OBJAVA BR. '+p.post_number+' · Autor: Nermin Sefić · '+esc(p.category||'objave')+'</p><h3><a href="'+esc(href(p))+'">'+p.post_number+'. '+esc(p.title)+'</a></h3><p>'+esc(p.summary||'Autorska objava Nermina Sefića.')+'</p><a class="button small" href="'+esc(href(p))+'">PROČITAJ</a></div></article>').join('')||grid.innerHTML}catch(e){console.warn('nermin posts render failed',e)}
+});
