@@ -57,7 +57,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421283+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644072+00:00"
   },
   {
     "id": "afe04b4cab8b18fe",
@@ -69,7 +69,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421363+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644145+00:00"
   },
   {
     "id": "25b3dba7ac823a67",
@@ -81,7 +81,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421412+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644200+00:00"
   },
   {
     "id": "f34e0846cfa4155f",
@@ -93,7 +93,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421482+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644259+00:00"
   },
   {
     "id": "b4cea2ca3d77a858",
@@ -105,7 +105,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421828+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644673+00:00"
   },
   {
     "id": "e2fac71a9a137318",
@@ -117,7 +117,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421873+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644727+00:00"
   },
   {
     "id": "a8dbea1b4e140770",
@@ -165,7 +165,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421533+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644318+00:00"
   },
   {
     "id": "a98eee73d2e97e01",
@@ -177,7 +177,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421589+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644382+00:00"
   },
   {
     "id": "b17b2d7b43d45173",
@@ -189,19 +189,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421642+00:00"
-  },
-  {
-    "id": "5e8b365c73bc0fa8",
-    "title": "Why it’s even more important to consider restructuring before spin-offs",
-    "description": "The market is always revealing new reasons for leaders to consider improving assets before spinning them off—but the principles for how to manage such transactions are enduring. Here are three of them.",
-    "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/why-its-even-more-important-to-consider-restructuring-before-spin-offs",
-    "image": "https://picsum.photos/seed/wv-news-03af23e9ef26/1200/750",
-    "source": "McKinsey Insights",
-    "source_id": "src-004",
-    "category": "poslovanje",
-    "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421694+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644444+00:00"
   },
   {
     "id": "415368da854b2685",
@@ -213,7 +201,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421736+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644496+00:00"
+  },
+  {
+    "id": "5e8b365c73bc0fa8",
+    "title": "Why it’s even more important to consider restructuring before spin-offs",
+    "description": "The market is always revealing new reasons for leaders to consider improving assets before spinning them off—but the principles for how to manage such transactions are enduring. Here are three of them.",
+    "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/why-its-even-more-important-to-consider-restructuring-before-spin-offs",
+    "image": "https://picsum.photos/seed/wv-news-03af23e9ef26/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Fri, 15 May 2026",
+    "fetched_at": "2026-05-20T10:36:39.644559+00:00"
   },
   {
     "id": "492451d320b59777",
@@ -225,110 +225,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421778+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644612+00:00"
   },
   {
-    "id": "402f6ec0bb3c189b",
-    "title": "N26 strengthens management team",
-    "description": "N26 today announced two strategic executive appointments that will further strengthen our foundations and drive our long-term strategic goals.",
-    "url": "https://www.finextra.com/pressarticle/109898/n26-strengthens-management-team?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "image": "https://picsum.photos/seed/wv-core-24b2ef7f79e2/1200/750",
+    "id": "0e5ccef63d98e3d3",
+    "title": "Deel launches stablecoin salary payouts and appoints head of crypto",
+    "description": "Deel, the global people platform trusted by 40,000+ businesses to hire, manage, and pay teams across 150+ countries, today launched stablecoin salary payouts and announced the formation of a dedicated crypto division, headed by Thierry Edde as Head of Crypto at Deel.",
+    "url": "https://www.finextra.com/pressarticle/109900/deel-launches-stablecoin-salary-payouts-and-appoints-head-of-crypto?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-29d4bcce81f7/1200/750",
     "source": "Finextra",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-20T10:33:00+00:00",
-    "fetched_at": "2026-05-20T09:46:55.908660+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "8da3bdd9614d6197",
-    "title": "Digital asset firm Checker raises $8 million",
-    "description": "Checker, a global network that enables financial institutions to plug into stablecoins and digital asset liquidity, cross-border payments, treasury, and credit via a single API, announced today that it has raised $8M in funding from Galaxy Ventures, Al Mada Ventures, and Framework Ventures.",
-    "url": "https://www.finextra.com/pressarticle/109897/digital-asset-firm-checker-raises-8-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "image": "https://picsum.photos/seed/wv-core-f1f7a4c9dde1/1200/750",
-    "source": "Finextra",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-20T10:14:00+00:00",
-    "fetched_at": "2026-05-20T09:46:55.908700+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "02535c2f669e4b32",
-    "title": "KfW migrates to Regnology Reporting Hub",
-    "description": "Regnology, a leading provider at the intersection of regulatory, risk, and supervisory technology, today announced that KfW Bankengruppe (KfW) is advancing its long‑term partnership with the company by electing to migrate to the next-generation Regnology Reporting Hub (RRH).",
-    "url": "https://www.finextra.com/pressarticle/109896/kfw-migrates-to-regnology-reporting-hub?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "image": "https://picsum.photos/seed/wv-core-0d83dcf2be11/1200/750",
-    "source": "Finextra",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-20T10:12:00+00:00",
-    "fetched_at": "2026-05-20T09:46:55.908742+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "68d4016e38e9feb5",
-    "title": "IPiD becomes the payee verification layer for Tazapay",
-    "description": "iPiD, the global leader in payee verification — or Know Your Payee (KYP) — for cross-border payments, today announced a strategic partnership with Tazapay, a leading regulated cross-border payment infrastructure provider.",
-    "url": "https://www.finextra.com/pressarticle/109895/ipid-becomes-the-payee-verification-layer-for-tazapay?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "image": "https://picsum.photos/seed/wv-core-5d9f4ce6ef2a/1200/750",
-    "source": "Finextra",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-20T10:09:00+00:00",
-    "fetched_at": "2026-05-20T09:46:55.908785+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "d916eaf68413d1b3",
-    "title": "Galytix hires Quantexa’s Roshni Patel to lead global growth",
-    "description": "Galytix (GX), the specialised AI firm built for financial institutions, today announced that it has hired former Quantexa executive Roshni Patel as Chief Growth Officer to accelerate the company’s global expansion.",
-    "url": "https://www.finextra.com/pressarticle/109894/galytix-hires-quantexas-roshni-patel-to-lead-global-growth?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "image": "https://picsum.photos/seed/wv-core-19abb6103576/1200/750",
-    "source": "Finextra",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-20T10:04:00+00:00",
-    "fetched_at": "2026-05-20T09:46:55.908833+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "9ace549cdfa57f42",
-    "title": "PPRO partners with Nubank to provide merchant access to NuPay",
-    "description": "PPRO, a leading local payments platform, today announced its partnership with Nubank to provide merchants and PSPs with direct access to its native payment method, NuPay.",
-    "url": "https://www.finextra.com/pressarticle/109893/ppro-partners-with-nubank-to-provide-merchant-access-to-nupay?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "image": "https://picsum.photos/seed/wv-core-acc925e99b88/1200/750",
-    "source": "Finextra",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-20T10:02:00+00:00",
-    "fetched_at": "2026-05-20T09:46:55.908871+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "c81dff5e3c7a5709",
-    "title": "Santander’s Getnet highlights ‘invisible’ payments as strategic growth driver",
-    "description": "Santander-owned Getnet outlined five trends reshaping the global payments landscape, arguing that transactions are rapidly evolving beyond utility to become a core lever of customer experience and business performance.",
-    "url": "https://www.finextra.com/newsarticle/47782/santanders-getnet-highlights-invisible-payments-as-strategic-growth-driver?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "image": "https://picsum.photos/seed/wv-core-ae0ac2e56055/1200/750",
-    "source": "Finextra",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-20T10:00:00+00:00",
-    "fetched_at": "2026-05-20T09:46:55.908150+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "a1fb9949ca1d3638",
-    "title": "Ripjar reports 40% ARR growth and secures additional investment",
-    "description": "Ripjar, the AI-native provider of smarter screening solutions, has announced a 40% increase in annual recurring revenues over the last 12 months.",
-    "url": "https://www.finextra.com/pressarticle/109892/ripjar-reports-40-arr-growth-and-secures-additional-investment?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "image": "https://picsum.photos/seed/wv-core-f35c2ec5e45e/1200/750",
-    "source": "Finextra",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-20T09:56:00+00:00",
-    "fetched_at": "2026-05-20T09:46:55.908907+00:00",
+    "published_at": "2026-05-20T11:21:00+00:00",
+    "fetched_at": "2026-05-20T10:40:50.298096+00:00",
     "core_business_science_fill": true
   },
   {
@@ -340,8 +249,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-20T09:47:13.815432+00:00",
-    "fetched_at": "2026-05-20T09:47:13.815434+00:00",
+    "published_at": "2026-05-20T10:41:03.114540+00:00",
+    "fetched_at": "2026-05-20T10:41:03.114543+00:00",
     "missing_core_fill": true
   },
   {
@@ -353,8 +262,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-20T09:47:13.815383+00:00",
-    "fetched_at": "2026-05-20T09:47:13.815385+00:00",
+    "published_at": "2026-05-20T10:41:03.114485+00:00",
+    "fetched_at": "2026-05-20T10:41:03.114487+00:00",
     "missing_core_fill": true
   },
   {
@@ -366,8 +275,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-20T09:47:13.815333+00:00",
-    "fetched_at": "2026-05-20T09:47:13.815335+00:00",
+    "published_at": "2026-05-20T10:41:03.114431+00:00",
+    "fetched_at": "2026-05-20T10:41:03.114433+00:00",
     "missing_core_fill": true
   },
   {
@@ -379,8 +288,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-20T09:47:13.815288+00:00",
-    "fetched_at": "2026-05-20T09:47:13.815290+00:00",
+    "published_at": "2026-05-20T10:41:03.114380+00:00",
+    "fetched_at": "2026-05-20T10:41:03.114383+00:00",
     "missing_core_fill": true
   },
   {
@@ -392,8 +301,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-20T09:47:13.815238+00:00",
-    "fetched_at": "2026-05-20T09:47:13.815240+00:00",
+    "published_at": "2026-05-20T10:41:03.114329+00:00",
+    "fetched_at": "2026-05-20T10:41:03.114331+00:00",
     "missing_core_fill": true
   },
   {
@@ -405,8 +314,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-20T09:47:13.815185+00:00",
-    "fetched_at": "2026-05-20T09:47:13.815187+00:00",
+    "published_at": "2026-05-20T10:41:03.114270+00:00",
+    "fetched_at": "2026-05-20T10:41:03.114273+00:00",
     "missing_core_fill": true
   },
   {
@@ -418,8 +327,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-20T09:47:13.815140+00:00",
-    "fetched_at": "2026-05-20T09:47:13.815142+00:00",
+    "published_at": "2026-05-20T10:41:03.114218+00:00",
+    "fetched_at": "2026-05-20T10:41:03.114221+00:00",
     "missing_core_fill": true
   },
   {
@@ -431,8 +340,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-20T09:47:13.815085+00:00",
-    "fetched_at": "2026-05-20T09:47:13.815088+00:00",
+    "published_at": "2026-05-20T10:41:03.114153+00:00",
+    "fetched_at": "2026-05-20T10:41:03.114156+00:00",
     "missing_core_fill": true
   },
   {
@@ -444,8 +353,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-20T09:47:13.815025+00:00",
-    "fetched_at": "2026-05-20T09:47:13.815027+00:00",
+    "published_at": "2026-05-20T10:41:03.114087+00:00",
+    "fetched_at": "2026-05-20T10:41:03.114091+00:00",
     "missing_core_fill": true
   },
   {
@@ -457,8 +366,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-20T09:47:13.814949+00:00",
-    "fetched_at": "2026-05-20T09:47:13.814965+00:00",
+    "published_at": "2026-05-20T10:41:03.113994+00:00",
+    "fetched_at": "2026-05-20T10:41:03.114001+00:00",
     "missing_core_fill": true
   },
   {
@@ -470,8 +379,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T09:47:05.137121+00:00",
-    "fetched_at": "2026-05-20T09:47:05.137123+00:00",
+    "published_at": "2026-05-20T10:40:56.512645+00:00",
+    "fetched_at": "2026-05-20T10:40:56.512648+00:00",
     "missing_core_fill": true
   },
   {
@@ -483,8 +392,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T09:47:05.137075+00:00",
-    "fetched_at": "2026-05-20T09:47:05.137077+00:00",
+    "published_at": "2026-05-20T10:40:56.512594+00:00",
+    "fetched_at": "2026-05-20T10:40:56.512597+00:00",
     "missing_core_fill": true
   },
   {
@@ -496,8 +405,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T09:47:05.137025+00:00",
-    "fetched_at": "2026-05-20T09:47:05.137027+00:00",
+    "published_at": "2026-05-20T10:40:56.512541+00:00",
+    "fetched_at": "2026-05-20T10:40:56.512543+00:00",
     "missing_core_fill": true
   },
   {
@@ -509,8 +418,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T09:47:05.136968+00:00",
-    "fetched_at": "2026-05-20T09:47:05.136970+00:00",
+    "published_at": "2026-05-20T10:40:56.512481+00:00",
+    "fetched_at": "2026-05-20T10:40:56.512483+00:00",
     "missing_core_fill": true
   },
   {
@@ -522,8 +431,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T09:47:05.136921+00:00",
-    "fetched_at": "2026-05-20T09:47:05.136923+00:00",
+    "published_at": "2026-05-20T10:40:56.512432+00:00",
+    "fetched_at": "2026-05-20T10:40:56.512434+00:00",
     "missing_core_fill": true
   },
   {
@@ -535,8 +444,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T09:47:05.136873+00:00",
-    "fetched_at": "2026-05-20T09:47:05.136876+00:00",
+    "published_at": "2026-05-20T10:40:56.512382+00:00",
+    "fetched_at": "2026-05-20T10:40:56.512385+00:00",
     "missing_core_fill": true
   },
   {
@@ -548,8 +457,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T09:47:05.136813+00:00",
-    "fetched_at": "2026-05-20T09:47:05.136815+00:00",
+    "published_at": "2026-05-20T10:40:56.512323+00:00",
+    "fetched_at": "2026-05-20T10:40:56.512326+00:00",
     "missing_core_fill": true
   },
   {
@@ -561,151 +470,151 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T09:47:05.136714+00:00",
-    "fetched_at": "2026-05-20T09:47:05.136717+00:00",
+    "published_at": "2026-05-20T10:40:56.512222+00:00",
+    "fetched_at": "2026-05-20T10:40:56.512225+00:00",
     "missing_core_fill": true
   },
   {
     "id": "d5b11c34522273a3",
     "title": "Samsung workers set to strike at worst possible time",
-    "description": "More than 47,000 Samsung Electronics workers are gearing up for an 18-day strike after bonus payment negotiations between the company and its union collapsed. The strike is set to start on Thursday, and will be limited to Samsung's domestic chipmaking plants, raising concerns around the already constrained production of memory chips amid the ongoing shortage. […]",
+    "description": "More than 47,000 Samsung Electronics workers are gearing up for an 18-day strike after bonus payment negotiations between the company and its union collapsed. The strike is set to start on Thursday and will be limited to Samsung's domestic chipmaking plants, raising concerns around the already constrained production of memory chips amid the ongoing shortage. […]",
     "url": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
     "image": "https://picsum.photos/seed/wv-fill-ddcd1a11eb57/1200/750",
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T09:47:05.136624+00:00",
-    "fetched_at": "2026-05-20T09:47:05.136641+00:00",
+    "published_at": "2026-05-20T10:40:56.512147+00:00",
+    "fetched_at": "2026-05-20T10:40:56.512154+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "e417b62f8a15e68e",
-    "title": "DiaSorin sees 2026 revenue growth of 5%-6%, shares fall 1% in Milan",
+    "id": "adeeaa259c6c1092",
+    "title": "Wells Fargo cuts Home Depot stock price target on weather impact",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/company-news/diasorin-sees-2026-revenue-growth-of-56-shares-fall-1-in-milan-93CH-4700520",
+    "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-home-depot-stock-price-target-on-weather-impact-93CH-4700795",
     "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-20T09:46:51.119773+00:00",
-    "fetched_at": "2026-05-20T09:46:51.119775+00:00",
+    "published_at": "2026-05-20T10:40:50.140173+00:00",
+    "fetched_at": "2026-05-20T10:40:50.140175+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "c02f2d50bae981df",
-    "title": "Maven Income and Growth VCT 5 admits 238,026 new shares",
+    "id": "cf6d77c606614688",
+    "title": "Wells Fargo raises Marvell stock price target on AWS Trainium growth",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/company-news/maven-income-and-growth-vct-5-admits-238026-new-shares-93CH-4700521",
+    "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-raises-marvell-stock-price-target-on-aws-trainium-growth-93CH-4700796",
     "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-20T09:46:51.119748+00:00",
-    "fetched_at": "2026-05-20T09:46:51.119750+00:00",
+    "published_at": "2026-05-20T10:40:50.140147+00:00",
+    "fetched_at": "2026-05-20T10:40:50.140149+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "839d7e94cc648195",
-    "title": "Earnings call transcript: AuthID’s Q1 2026 Highlights Revenue Growth and Tech Innovation",
+    "id": "6c9a6e73876bbd72",
+    "title": "Ferrari Group reports 7.4% organic growth in Q1, shares surge",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-authids-q1-2026-highlights-revenue-growth-and-tech-innovation-93CH-4700522",
+    "url": "https://www.investing.com/news/earnings/ferrari-group-reports-74-organic-growth-in-q1-shares-soar-4697826",
+    "image": "https://picsum.photos/seed/wv-core-40532c83545e/1200/750",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-20T10:40:50.140120+00:00",
+    "fetched_at": "2026-05-20T10:40:50.140122+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "a7c7b0f7de4283ae",
+    "title": "China’s Xi, Russia’s Putin praise ties but see no energy headway at Beijing talks",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/commodities-news/xi-putin-to-meet-in-beijing-for-tea-diplomacy-after-trump-visit-4699947",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I1O1_L.jpg",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-20T10:40:50.140090+00:00",
+    "fetched_at": "2026-05-20T10:40:50.140092+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "2cee1ffe970611c4",
+    "title": "Volvo Cars faces Thai legal threat after fresh EX30 fires",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/stock-market-news/volvo-cars-faces-thai-legal-threat-after-fresh-ex30-fires-4700798",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J0VI_L.jpg",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-20T10:40:50.140044+00:00",
+    "fetched_at": "2026-05-20T10:40:50.140048+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "776d3afdabbb7191",
+    "title": "Earnings call transcript: Insight Molecular Diagnostics’ Q1 2026 performance and strategic outlook",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-insight-molecular-diagnostics-q1-2026-performance-and-strategic-outlook-93CH-4700799",
     "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-20T09:46:51.119723+00:00",
-    "fetched_at": "2026-05-20T09:46:51.119725+00:00",
+    "published_at": "2026-05-20T10:40:50.139990+00:00",
+    "fetched_at": "2026-05-20T10:40:50.139993+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "49fa2930d3f0464e",
-    "title": "Earnings call transcript: Addtech Q4 2025 reveals robust growth",
+    "id": "4e4a6d3cdb563f10",
+    "title": "’Am I out?’ Drought and rising costs from Iran war deepen pain for US farmers",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-addtech-q4-2025-reveals-robust-growth-93CH-4700523",
+    "url": "https://www.investing.com/news/commodities-news/am-i-out-drought-and-rising-costs-from-iran-war-deepen-pain-for-us-farmers-4700730",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J0T7_L.jpg",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-20T10:40:50.139952+00:00",
+    "fetched_at": "2026-05-20T10:40:50.139955+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "0ab1365e9c1cf1fa",
+    "title": "Morgan Sindall issues shares for employee sharesave plan",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/company-news/morgan-sindall-issues-shares-for-employee-sharesave-plan-93CH-4700800",
     "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-20T09:46:51.119689+00:00",
-    "fetched_at": "2026-05-20T09:46:51.119691+00:00",
+    "published_at": "2026-05-20T10:40:50.139916+00:00",
+    "fetched_at": "2026-05-20T10:40:50.139918+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "c0816307969092ac",
-    "title": "Barclays identifies options trading opportunities in Nvidia, Halliburton and Snowflake",
+    "id": "25aa3156c0e85f4c",
+    "title": "Target doubles annual sales growth forecast as turnaround starts to pay off",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/stock-market-news/barclays-identifies-options-trading-opportunities-in-nvidia-halliburton-and-snowflake-93CH-4700524",
-    "image": "https://picsum.photos/seed/wv-core-3c31af08a21e/1200/750",
+    "url": "https://www.investing.com/news/stock-market-news/target-doubles-annual-sales-growth-forecast-as-turnaround-starts-to-pay-off-4700809",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J0W1_L.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-20T09:46:51.119651+00:00",
-    "fetched_at": "2026-05-20T09:46:51.119653+00:00",
+    "published_at": "2026-05-20T10:40:50.139885+00:00",
+    "fetched_at": "2026-05-20T10:40:50.139888+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "cffd84746ced0358",
-    "title": "Arthur J. Gallagher’s SWOT analysis: stock faces margin questions",
+    "id": "e9223be0db9f16c8",
+    "title": "Earnings call transcript: Infleqtion’s Q1 2026 revenue grows 14% YoY",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/swot-analysis/arthur-j-gallaghers-swot-analysis-stock-faces-margin-questions-93CH-4700525",
-    "image": "https://picsum.photos/seed/wv-core-8a26c4eee09d/1200/750",
-    "source": "Investing.com News",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-20T09:46:51.119623+00:00",
-    "fetched_at": "2026-05-20T09:46:51.119625+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "640c512bed2da56d",
-    "title": "Barclays says earnings strength shields European equities from rising bond yields",
-    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/stock-market-news/barclays-says-earnings-strength-shields-european-equities-from-rising-bond-yields-93CH-4700526",
-    "image": "https://i-invdn-com.investing.com/news/LYNXNPEC1H0SM_M.jpg",
-    "source": "Investing.com News",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-20T09:46:51.119582+00:00",
-    "fetched_at": "2026-05-20T09:46:51.119584+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "820809937de7453e",
-    "title": "Earnings call transcript: Clipper Realty misses Q1 2026 forecasts, stock dips",
-    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-clipper-realty-misses-q1-2026-forecasts-stock-dips-93CH-4700527",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-infleqtions-q1-2026-revenue-grows-14-yoy-93CH-4700810",
     "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-20T09:46:51.119556+00:00",
-    "fetched_at": "2026-05-20T09:46:51.119558+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "34777315011c4517",
-    "title": "China Pacific Insurance schedules AGM for June 10",
-    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/company-news/china-pacific-insurance-schedules-agm-for-june-10-93CH-4700534",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "source": "Investing.com News",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-20T09:46:51.119527+00:00",
-    "fetched_at": "2026-05-20T09:46:51.119529+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "18e4ead701b36add",
-    "title": "Bond yields pause near recent peak, stocks steady ahead of Nvidia results",
-    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/economy-news/asian-stocks-fall-for-4th-day-as-higher-yields-bite-all-eyes-on-nvidia-results-4700139",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J03Q_L.jpg",
-    "source": "Investing.com News",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-20T09:46:51.119479+00:00",
-    "fetched_at": "2026-05-20T09:46:51.119495+00:00",
+    "published_at": "2026-05-20T10:40:50.139833+00:00",
+    "fetched_at": "2026-05-20T10:40:50.139841+00:00",
     "core_business_science_fill": true
   },
   {
@@ -717,8 +626,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-20T09:44:28.846728+00:00",
-    "fetched_at": "2026-05-20T09:44:28.846730+00:00",
+    "published_at": "2026-05-20T10:38:32.923075+00:00",
+    "fetched_at": "2026-05-20T10:38:32.923080+00:00",
     "html_source": true
   },
   {
@@ -730,8 +639,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-20T09:44:28.846555+00:00",
-    "fetched_at": "2026-05-20T09:44:28.846558+00:00",
+    "published_at": "2026-05-20T10:38:32.922881+00:00",
+    "fetched_at": "2026-05-20T10:38:32.922883+00:00",
     "html_source": true
   },
   {
@@ -743,8 +652,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-20T09:44:28.846386+00:00",
-    "fetched_at": "2026-05-20T09:44:28.846388+00:00",
+    "published_at": "2026-05-20T10:38:32.922727+00:00",
+    "fetched_at": "2026-05-20T10:38:32.922730+00:00",
     "html_source": true
   },
   {
@@ -756,8 +665,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-20T09:44:28.846218+00:00",
-    "fetched_at": "2026-05-20T09:44:28.846220+00:00",
+    "published_at": "2026-05-20T10:38:32.922555+00:00",
+    "fetched_at": "2026-05-20T10:38:32.922557+00:00",
     "html_source": true
   },
   {
@@ -769,8 +678,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-20T09:44:28.846042+00:00",
-    "fetched_at": "2026-05-20T09:44:28.846044+00:00",
+    "published_at": "2026-05-20T10:38:32.922379+00:00",
+    "fetched_at": "2026-05-20T10:38:32.922382+00:00",
     "html_source": true
   },
   {
@@ -782,8 +691,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-20T09:44:28.845878+00:00",
-    "fetched_at": "2026-05-20T09:44:28.845880+00:00",
+    "published_at": "2026-05-20T10:38:32.922208+00:00",
+    "fetched_at": "2026-05-20T10:38:32.922211+00:00",
     "html_source": true
   },
   {
@@ -795,8 +704,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-20T09:44:28.845694+00:00",
-    "fetched_at": "2026-05-20T09:44:28.845696+00:00",
+    "published_at": "2026-05-20T10:38:32.921989+00:00",
+    "fetched_at": "2026-05-20T10:38:32.921991+00:00",
     "html_source": true
   },
   {
@@ -808,8 +717,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-20T09:44:28.845546+00:00",
-    "fetched_at": "2026-05-20T09:44:28.845549+00:00",
+    "published_at": "2026-05-20T10:38:32.921836+00:00",
+    "fetched_at": "2026-05-20T10:38:32.921839+00:00",
     "html_source": true
   },
   {
@@ -821,8 +730,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-20T09:44:28.845374+00:00",
-    "fetched_at": "2026-05-20T09:44:28.845376+00:00",
+    "published_at": "2026-05-20T10:38:32.921675+00:00",
+    "fetched_at": "2026-05-20T10:38:32.921677+00:00",
     "html_source": true
   },
   {
@@ -834,8 +743,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-20T09:44:28.845204+00:00",
-    "fetched_at": "2026-05-20T09:44:28.845206+00:00",
+    "published_at": "2026-05-20T10:38:32.921496+00:00",
+    "fetched_at": "2026-05-20T10:38:32.921499+00:00",
     "html_source": true
   },
   {
@@ -847,8 +756,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-20T09:44:28.845046+00:00",
-    "fetched_at": "2026-05-20T09:44:28.845049+00:00",
+    "published_at": "2026-05-20T10:38:32.921335+00:00",
+    "fetched_at": "2026-05-20T10:38:32.921338+00:00",
     "html_source": true
   },
   {
@@ -860,8 +769,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-20T09:44:28.844848+00:00",
-    "fetched_at": "2026-05-20T09:44:28.844866+00:00",
+    "published_at": "2026-05-20T10:38:32.921144+00:00",
+    "fetched_at": "2026-05-20T10:38:32.921154+00:00",
     "html_source": true
   },
   {
@@ -873,8 +782,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-20T09:44:28.053607+00:00",
-    "fetched_at": "2026-05-20T09:44:28.053610+00:00",
+    "published_at": "2026-05-20T10:38:32.609335+00:00",
+    "fetched_at": "2026-05-20T10:38:32.609338+00:00",
     "html_source": true
   },
   {
@@ -886,8 +795,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-20T09:44:28.053429+00:00",
-    "fetched_at": "2026-05-20T09:44:28.053431+00:00",
+    "published_at": "2026-05-20T10:38:32.609164+00:00",
+    "fetched_at": "2026-05-20T10:38:32.609168+00:00",
     "html_source": true
   },
   {
@@ -899,8 +808,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-20T09:44:28.053275+00:00",
-    "fetched_at": "2026-05-20T09:44:28.053276+00:00",
+    "published_at": "2026-05-20T10:38:32.608981+00:00",
+    "fetched_at": "2026-05-20T10:38:32.608984+00:00",
     "html_source": true
   },
   {
@@ -912,8 +821,99 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-20T09:44:28.053127+00:00",
-    "fetched_at": "2026-05-20T09:44:28.053128+00:00",
+    "published_at": "2026-05-20T10:38:32.608829+00:00",
+    "fetched_at": "2026-05-20T10:38:32.608831+00:00",
+    "html_source": true
+  },
+  {
+    "id": "fc4a475bed841a7e",
+    "title": "Nova IKEA PS kolekcija od sljedećeg je tjedna u prodaji, a osim fotelje na napuhavanje imamo još favorita Srijeda, 13. svibnja 2026.",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/lifestyle/interijeri/ikea-ps-kolekcija-2026-journal-favoriti/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/IKEA-PS-2026-kolekcija_17-1-e1778671308815-768x577.jpg",
+    "source": "Journal.hr - interijeri",
+    "source_id": "extra-journal-interijeri",
+    "category": "dizajn",
+    "published_at": "2026-05-20T10:38:32.608675+00:00",
+    "fetched_at": "2026-05-20T10:38:32.608677+00:00",
+    "html_source": true
+  },
+  {
+    "id": "6cf47ffcb969254f",
+    "title": "Obiteljski dom u kojem umjetnost ne služi samo kao dekoracija, već kao dio koji oblikuje prostor Srijeda, 13. svibnja 2026.",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/lifestyle/interijeri/x-ae-m-22-obiteljski-dom-u-kojem-umjetnost-ima-glavnu-rijec/",
+    "image": "https://www.journal.hr/wp-content/uploads/2025/02/X-AE-M-22_open_space_6-wizia_studio-2025-1-768x528.jpg",
+    "source": "Journal.hr - interijeri",
+    "source_id": "extra-journal-interijeri",
+    "category": "dizajn",
+    "published_at": "2026-05-20T10:38:32.608512+00:00",
+    "fetched_at": "2026-05-20T10:38:32.608515+00:00",
+    "html_source": true
+  },
+  {
+    "id": "cc3479e1297a4647",
+    "title": "Home Edit: Želite urediti glazbeni kutak u svom domu? Zara Home ima komade koji spajaju dizajn i dobar zvuk Petak, 15. svibnja 2026.",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/lifestyle/interijeri/glazbeni-kutak-u-domu-home-edit/",
+    "image": "https://www.journal.hr/wp-content/uploads/2025/10/kako-urediti-glazbeni-kutak-u-domu_Zara-Home_glavna-naslovna-768x511.jpg",
+    "source": "Journal.hr - interijeri",
+    "source_id": "extra-journal-interijeri",
+    "category": "dizajn",
+    "published_at": "2026-05-20T10:38:32.608328+00:00",
+    "fetched_at": "2026-05-20T10:38:32.608331+00:00",
+    "html_source": true
+  },
+  {
+    "id": "acd186a5cd8ff02e",
+    "title": "Tko se boji boje još? Interijer ovog stana ne zazire od kolorita, a ružičastu kuhinju teško je “izbaciti” iz glave Subota, 16. svibnja 2026.",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/lifestyle/interijeri/stan-u-becu-asap-pitro-sammer/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/ASAP-Pitro-Sammer_Stan-u-Becu-6-768x576.jpg",
+    "source": "Journal.hr - interijeri",
+    "source_id": "extra-journal-interijeri",
+    "category": "dizajn",
+    "published_at": "2026-05-20T10:38:32.608161+00:00",
+    "fetched_at": "2026-05-20T10:38:32.608164+00:00",
+    "html_source": true
+  },
+  {
+    "id": "ddf43da31356efd7",
+    "title": "Stan za četveročlanu obitelj u obnovi je uspješno spojio originalne elemente i moderni interijer Nedjelja, 17. svibnja 2026.",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/lifestyle/interijeri/stan-u-milanu-offstage/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/stan-u-Milanu_Offstage-1-768x515.png",
+    "source": "Journal.hr - interijeri",
+    "source_id": "extra-journal-interijeri",
+    "category": "dizajn",
+    "published_at": "2026-05-20T10:38:32.607959+00:00",
+    "fetched_at": "2026-05-20T10:38:32.607962+00:00",
+    "html_source": true
+  },
+  {
+    "id": "bbc1c1f7c473d89c",
+    "title": "U regiji koju nazivaju skrivenim blagom Italije pronašli smo vilu čije uređenje očarava skladom starog i novog Ponedjeljak, 18. svibnja 2026.",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/lifestyle/interijeri/villa-manodori-roncolo-1888/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Villa-Manodori_Simone-Furiosi-5-768x512.jpg",
+    "source": "Journal.hr - interijeri",
+    "source_id": "extra-journal-interijeri",
+    "category": "dizajn",
+    "published_at": "2026-05-20T10:38:32.607791+00:00",
+    "fetched_at": "2026-05-20T10:38:32.607794+00:00",
+    "html_source": true
+  },
+  {
+    "id": "d0dc96a484319941",
+    "title": "Stan u Splitu s galerijom, plavim akcentima i boravkom koji funkcionira kao unutrašnji trg Utorak, 19. svibnja 2026.",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/lifestyle/interijeri/stan-c-studiodwg-split/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Stan-C_STUDIO-DWG-18-768x513.jpg",
+    "source": "Journal.hr - interijeri",
+    "source_id": "extra-journal-interijeri",
+    "category": "dizajn",
+    "published_at": "2026-05-20T10:38:32.607615+00:00",
+    "fetched_at": "2026-05-20T10:38:32.607618+00:00",
     "html_source": true
   }
 ]

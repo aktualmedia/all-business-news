@@ -57,7 +57,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421283+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644072+00:00"
   },
   {
     "id": "afe04b4cab8b18fe",
@@ -69,7 +69,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421363+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644145+00:00"
   },
   {
     "id": "25b3dba7ac823a67",
@@ -81,7 +81,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421412+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644200+00:00"
   },
   {
     "id": "f34e0846cfa4155f",
@@ -93,7 +93,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421482+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644259+00:00"
   },
   {
     "id": "b4cea2ca3d77a858",
@@ -105,7 +105,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421828+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644673+00:00"
   },
   {
     "id": "e2fac71a9a137318",
@@ -117,7 +117,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 14 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421873+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644727+00:00"
   },
   {
     "id": "a8dbea1b4e140770",
@@ -165,7 +165,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421533+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644318+00:00"
   },
   {
     "id": "a98eee73d2e97e01",
@@ -177,7 +177,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421589+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644382+00:00"
   },
   {
     "id": "b17b2d7b43d45173",
@@ -189,19 +189,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421642+00:00"
-  },
-  {
-    "id": "5e8b365c73bc0fa8",
-    "title": "Why it’s even more important to consider restructuring before spin-offs",
-    "description": "The market is always revealing new reasons for leaders to consider improving assets before spinning them off—but the principles for how to manage such transactions are enduring. Here are three of them.",
-    "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/why-its-even-more-important-to-consider-restructuring-before-spin-offs",
-    "image": "https://picsum.photos/seed/wv-news-03af23e9ef26/1200/750",
-    "source": "McKinsey Insights",
-    "source_id": "src-004",
-    "category": "poslovanje",
-    "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421694+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644444+00:00"
   },
   {
     "id": "415368da854b2685",
@@ -213,7 +201,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421736+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644496+00:00"
+  },
+  {
+    "id": "5e8b365c73bc0fa8",
+    "title": "Why it’s even more important to consider restructuring before spin-offs",
+    "description": "The market is always revealing new reasons for leaders to consider improving assets before spinning them off—but the principles for how to manage such transactions are enduring. Here are three of them.",
+    "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/why-its-even-more-important-to-consider-restructuring-before-spin-offs",
+    "image": "https://picsum.photos/seed/wv-news-03af23e9ef26/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Fri, 15 May 2026",
+    "fetched_at": "2026-05-20T10:36:39.644559+00:00"
   },
   {
     "id": "492451d320b59777",
@@ -225,7 +225,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 15 May 2026",
-    "fetched_at": "2026-05-20T09:42:06.421778+00:00"
+    "fetched_at": "2026-05-20T10:36:39.644612+00:00"
   },
   {
     "id": "2e0af54d8d40a2e9",
@@ -236,8 +236,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-20T09:44:19.845334+00:00",
-    "fetched_at": "2026-05-20T09:44:19.845336+00:00",
+    "published_at": "2026-05-20T10:38:25.990140+00:00",
+    "fetched_at": "2026-05-20T10:38:25.990145+00:00",
     "html_source": true
   },
   {
@@ -249,8 +249,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-20T09:44:19.845237+00:00",
-    "fetched_at": "2026-05-20T09:44:19.845239+00:00",
+    "published_at": "2026-05-20T10:38:25.989965+00:00",
+    "fetched_at": "2026-05-20T10:38:25.989969+00:00",
     "html_source": true
   },
   {
@@ -262,8 +262,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-20T09:44:19.845018+00:00",
-    "fetched_at": "2026-05-20T09:44:19.845020+00:00",
+    "published_at": "2026-05-20T10:38:25.989711+00:00",
+    "fetched_at": "2026-05-20T10:38:25.989714+00:00",
     "html_source": true
   },
   {
@@ -275,8 +275,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-20T09:44:19.844913+00:00",
-    "fetched_at": "2026-05-20T09:44:19.844915+00:00",
+    "published_at": "2026-05-20T10:38:25.989589+00:00",
+    "fetched_at": "2026-05-20T10:38:25.989592+00:00",
     "html_source": true
   },
   {
@@ -288,8 +288,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-20T09:44:19.844753+00:00",
-    "fetched_at": "2026-05-20T09:44:19.844755+00:00",
+    "published_at": "2026-05-20T10:38:25.989408+00:00",
+    "fetched_at": "2026-05-20T10:38:25.989411+00:00",
     "html_source": true
   },
   {
@@ -301,9 +301,57 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-20T09:44:19.844620+00:00",
-    "fetched_at": "2026-05-20T09:44:19.844637+00:00",
+    "published_at": "2026-05-20T10:38:25.989273+00:00",
+    "fetched_at": "2026-05-20T10:38:25.989285+00:00",
     "html_source": true
+  },
+  {
+    "id": "f42d55d4152c76af",
+    "title": "Why Pharma Boards Confuse Scenario Models With Risk Measurements",
+    "description": "You cannot see that decision when the base case and scenario are mashed into one frightening total. The board needs cleaner numbers.",
+    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/20/why-pharma-boards-confuse-scenario-models-with-risk-measurements/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/68c429a83b55b3d5c28c5e19/0x0.jpg?width=960",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-20T10:15:00+00:00",
+    "fetched_at": "2026-05-20T10:37:59.631571+00:00"
+  },
+  {
+    "id": "33f692ec7950ba00",
+    "title": "China Has Outspent The U.S. On Research For The First Time. 3,375 American Scientists Are Telling Congress To Pay Attention",
+    "description": "China outspent the U.S. on R&D for the first time in 2024. 3,375 scientists, including 48 Nobel laureates, just filed formal testimony with the Senate.",
+    "url": "https://www.forbes.com/sites/johndrake/2026/05/20/china-has-outspent-the-us-on-research-for-the-first-time-3375-american-scientists-are-telling-congress-to-pay-attention/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0d00704ec83895a28e7a35/0x0.jpg",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-20T10:00:00+00:00",
+    "fetched_at": "2026-05-20T10:37:59.631655+00:00"
+  },
+  {
+    "id": "6e28c1ff9b367cda",
+    "title": "Your Company Is Measuring AI Adoption Wrong—Here’s What To Track Instead",
+    "description": "To maintain your company's edge, measure human judgment and decision-making regarding AI outputs.",
+    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/20/your-company-is-measuring-ai-adoption-wrong-heres-what-to-track-instead/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0b867454aab377fe567de8/0x0.jpg?width=960",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-20T10:00:00+00:00",
+    "fetched_at": "2026-05-20T10:37:59.631730+00:00"
+  },
+  {
+    "id": "ff8310b19c009c1c",
+    "title": "Why Americans Are Turning Against Data Centers",
+    "description": "As AI infrastructure expands across America, communities are questioning whether the benefits of data centers outweigh the costs to power grids, water supplies, and local disruption.",
+    "url": "https://www.forbes.com/sites/jamesbroughel/2026/05/20/why-americans-are-turning-against-data-centers/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0d1470fbc93463b7bee342/0x0.jpg?width=960",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-20T09:39:28+00:00",
+    "fetched_at": "2026-05-20T10:37:59.631794+00:00"
   },
   {
     "id": "73a8cd747fd35f88",
@@ -315,7 +363,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-20T09:16:55+00:00",
-    "fetched_at": "2026-05-20T09:42:13.462216+00:00"
+    "fetched_at": "2026-05-20T10:36:45.160741+00:00"
   },
   {
     "id": "251619fc76e68f8f",
@@ -327,7 +375,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-20T09:16:50+00:00",
-    "fetched_at": "2026-05-20T09:42:13.462279+00:00"
+    "fetched_at": "2026-05-20T10:36:45.160806+00:00"
   },
   {
     "id": "f92c9f5084f366fb",
@@ -339,7 +387,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-20T09:13:31+00:00",
-    "fetched_at": "2026-05-20T09:42:13.462326+00:00"
+    "fetched_at": "2026-05-20T10:36:45.160861+00:00"
   },
   {
     "id": "3c4797e4e525ee3b",
@@ -351,7 +399,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-20T09:12:11+00:00",
-    "fetched_at": "2026-05-20T09:42:13.462379+00:00"
+    "fetched_at": "2026-05-20T10:36:45.160924+00:00"
   },
   {
     "id": "9cabd153756daf34",
@@ -363,7 +411,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-20T09:12:09+00:00",
-    "fetched_at": "2026-05-20T09:43:50.169275+00:00"
+    "fetched_at": "2026-05-20T10:37:59.631858+00:00"
   },
   {
     "id": "55220163bc24b30e",
@@ -375,7 +423,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-20T09:12:06+00:00",
-    "fetched_at": "2026-05-20T09:42:13.462432+00:00"
+    "fetched_at": "2026-05-20T10:36:45.160987+00:00"
   },
   {
     "id": "f5fb1a2f2a0232bb",
@@ -387,7 +435,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-20T09:11:12+00:00",
-    "fetched_at": "2026-05-20T09:42:13.462488+00:00"
+    "fetched_at": "2026-05-20T10:36:45.161062+00:00"
   },
   {
     "id": "ca171ffd50b9e724",
@@ -399,7 +447,43 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-20T09:10:57+00:00",
-    "fetched_at": "2026-05-20T09:42:13.462537+00:00"
+    "fetched_at": "2026-05-20T10:36:45.161127+00:00"
+  },
+  {
+    "id": "bb83121df1feac0b",
+    "title": "Why ’empowerment’ is a management lie",
+    "description": "We need to have a blunt conversation about the word empowerment. In the majority of companies, the lie behind the word “empowerment” becomes apparent in familiar ways: job descriptions that promise autonomy, leaders who proudly talk about their empowered teams, and meetings that end with “you’ve got this.” Reality though strips away the veneer of this lie: that same work still runs through a gauntlet of approvals, sign-offs, and second-guessing. The language suggests freedom. The system reinforces control. The result is not empowerment. It is dependence with better branding . In our work at Amazon helping Fortune 500 leaders understand how to dismantle their rigid bureaucracies, and previously driving large scale change at companies like DHL and McDonald’s, we see the same patterns. Organizations say they want people to act like owners. They encourage initiative and accountability. But w",
+    "url": "https://www.fastcompany.com/91525806/why-empowerment-is-a-management-lie-leadership-management-advice",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91525806-empowerment-is-a-management-lie.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-20T08:04:00+00:00",
+    "fetched_at": "2026-05-20T10:36:45.073414+00:00"
+  },
+  {
+    "id": "743d5c18f5101d88",
+    "title": "Firefox wants to be the anti-Chrome browser for the AI era",
+    "description": "Firefox is the browser that, statistically speaking, more people remember using than use today. Its market share in most countries is now just a sliver of what it once was. In 2011, it held more than a quarter of the U.S. desktop market. That many former users still remember it fondly may be a point of pride for the San Francisco-based nonprofit foundation behind the browser that broke Internet Explorer’s mediocre monopoly. But nostalgia alone doesn’t pay for the continued development of Firefox’s in-house Gecko rendering engine, along with versions of the browser for every major desktop and mobile operating system. “Anyone who was using the internet 15 years ago was probably using Firefox at some point,” says Ajit Varma, head of Firefox at Mozilla, speaking on the sidelines of Web Summit Vancouver. His theory for why Firefox users become former Firefox users is simple: The largest brows",
+    "url": "https://www.fastcompany.com/91544921/firefox-wants-to-be-the-anti-chrome-browser-for-the-ai-era",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91544921-firefox-wants-to-be-the-anti-chrome-browser-for-the-ai-era.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-20T08:00:00+00:00",
+    "fetched_at": "2026-05-20T10:36:45.073915+00:00"
+  },
+  {
+    "id": "b55b6b848d06ec74",
+    "title": "Canva’s new Gemini integration just made AI graphic design ubiquitous",
+    "description": "Canva just pulled off a clean sweep in the AI design world that’s about to make AI-generated branding a lot more common. On May 19, the company announced that it’s partnering with Google Gemini to bring its Canva Design platform directly to Gemini users. Once Gemini users enable Canva in their app settings, they’ll be able to search their Canva content from within the chatbot, generate designs based on the context of their chat history, and easily take designs into Canva to edit them. The move means that Canva has successfully integrated its design tools with every major AI player in the game: Claude, ChatGPT, Copilot, and, now, Gemini. Canva’s aggressive integration strategy with AI giants is making AI design tools accessible to almost anyone—and netting a major payoff in reach for the brand. [Image: Canva] Inside Canva’s frontier model clean sweep As major AI models become more and mor",
+    "url": "https://www.fastcompany.com/91545081/canva-gemini-integration",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91545081-canva-x-google-gemini.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-20T08:00:00+00:00",
+    "fetched_at": "2026-05-20T10:36:45.074209+00:00"
   },
   {
     "id": "519c30b03a4f9275",
@@ -411,7 +495,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-20T07:47:03+00:00",
-    "fetched_at": "2026-05-20T09:42:12.235310+00:00"
+    "fetched_at": "2026-05-20T10:36:44.467387+00:00"
   },
   {
     "id": "54f6bf2e033d23ad",
@@ -423,7 +507,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-20T07:36:16+00:00",
-    "fetched_at": "2026-05-20T09:42:12.235405+00:00"
+    "fetched_at": "2026-05-20T10:36:44.467472+00:00"
   },
   {
     "id": "73407664b1a2bcca",
@@ -435,7 +519,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-20T07:15:00+00:00",
-    "fetched_at": "2026-05-20T09:43:50.169370+00:00"
+    "fetched_at": "2026-05-20T10:37:59.631936+00:00"
   },
   {
     "id": "eccd912664404587",
@@ -447,7 +531,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-20T07:00:00+00:00",
-    "fetched_at": "2026-05-20T09:42:13.298879+00:00"
+    "fetched_at": "2026-05-20T10:36:45.075217+00:00"
   },
   {
     "id": "244376bacdc19903",
@@ -459,7 +543,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-20T07:00:00+00:00",
-    "fetched_at": "2026-05-20T09:43:50.169431+00:00"
+    "fetched_at": "2026-05-20T10:37:59.631996+00:00"
   },
   {
     "id": "353572307b8cd126",
@@ -471,7 +555,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-20T07:00:00+00:00",
-    "fetched_at": "2026-05-20T09:43:50.169503+00:00"
+    "fetched_at": "2026-05-20T10:37:59.632082+00:00"
   },
   {
     "id": "c08ba6e4f7c21a2f",
@@ -483,7 +567,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-20T06:00:00+00:00",
-    "fetched_at": "2026-05-20T09:42:12.235484+00:00"
+    "fetched_at": "2026-05-20T10:36:44.467537+00:00"
   },
   {
     "id": "9399da32f4f261f7",
@@ -495,7 +579,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-20T06:00:00+00:00",
-    "fetched_at": "2026-05-20T09:42:13.299352+00:00"
+    "fetched_at": "2026-05-20T10:36:45.075698+00:00"
   },
   {
     "id": "95ed462d9d0f0b7b",
@@ -507,7 +591,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-20T05:31:21+00:00",
-    "fetched_at": "2026-05-20T09:43:50.169553+00:00"
+    "fetched_at": "2026-05-20T10:37:59.632144+00:00"
   },
   {
     "id": "d504e10c0ef19782",
@@ -519,7 +603,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-20T05:19:58+00:00",
-    "fetched_at": "2026-05-20T09:43:50.169602+00:00"
+    "fetched_at": "2026-05-20T10:37:59.632204+00:00"
   },
   {
     "id": "d2e487fd85946e9b",
@@ -531,7 +615,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-20T04:54:35+00:00",
-    "fetched_at": "2026-05-20T09:43:50.169655+00:00"
+    "fetched_at": "2026-05-20T10:37:59.632270+00:00"
   },
   {
     "id": "e3bbc36230256546",
@@ -543,7 +627,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-20T04:00:00+00:00",
-    "fetched_at": "2026-05-20T09:42:13.299619+00:00"
+    "fetched_at": "2026-05-20T10:36:45.075955+00:00"
   },
   {
     "id": "bf5bb21f388fe468",
@@ -555,7 +639,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-20T03:59:43+00:00",
-    "fetched_at": "2026-05-20T09:42:12.235560+00:00"
+    "fetched_at": "2026-05-20T10:36:44.467618+00:00"
   },
   {
     "id": "1661b2af0aa84f7f",
@@ -567,7 +651,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-20T03:57:22+00:00",
-    "fetched_at": "2026-05-20T09:43:50.169707+00:00"
+    "fetched_at": "2026-05-20T10:37:59.632330+00:00"
   },
   {
     "id": "c4d56eb958e9add0",
@@ -579,7 +663,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-20T03:34:34+00:00",
-    "fetched_at": "2026-05-20T09:42:12.235614+00:00"
+    "fetched_at": "2026-05-20T10:36:44.467681+00:00"
   },
   {
     "id": "2dffee574e1d1856",
@@ -591,7 +675,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-20T03:30:43+00:00",
-    "fetched_at": "2026-05-20T09:42:13.462618+00:00"
+    "fetched_at": "2026-05-20T10:36:45.161226+00:00"
   },
   {
     "id": "527f4af92fbcd266",
@@ -603,7 +687,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-20T03:20:41+00:00",
-    "fetched_at": "2026-05-20T09:42:13.462659+00:00"
+    "fetched_at": "2026-05-20T10:36:45.161275+00:00"
   },
   {
     "id": "86785acd1879f690",
@@ -615,7 +699,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-20T03:15:27+00:00",
-    "fetched_at": "2026-05-20T09:42:12.235665+00:00"
+    "fetched_at": "2026-05-20T10:36:44.467741+00:00"
   },
   {
     "id": "075ded19d2f17014",
@@ -627,7 +711,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-20T03:00:00+00:00",
-    "fetched_at": "2026-05-20T09:42:13.299961+00:00"
+    "fetched_at": "2026-05-20T10:36:45.076335+00:00"
   },
   {
     "id": "22643b36282cd0ca",
@@ -639,7 +723,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-20T03:00:00+00:00",
-    "fetched_at": "2026-05-20T09:42:13.300489+00:00"
+    "fetched_at": "2026-05-20T10:36:45.076854+00:00"
   },
   {
     "id": "9726ada292bb1d1c",
@@ -651,7 +735,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-20T02:49:36+00:00",
-    "fetched_at": "2026-05-20T09:42:12.235713+00:00"
+    "fetched_at": "2026-05-20T10:36:44.467799+00:00"
   },
   {
     "id": "f016cbe2262c6c6b",
@@ -663,7 +747,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-20T01:34:04+00:00",
-    "fetched_at": "2026-05-20T09:42:12.235765+00:00"
+    "fetched_at": "2026-05-20T10:36:44.467860+00:00"
   },
   {
     "id": "3bdb580e69aae2ce",
@@ -675,7 +759,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-20T01:32:45+00:00",
-    "fetched_at": "2026-05-20T09:42:13.462699+00:00"
+    "fetched_at": "2026-05-20T10:36:45.161324+00:00"
   },
   {
     "id": "bb5f71cc96377243",
@@ -687,7 +771,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-20T01:31:04+00:00",
-    "fetched_at": "2026-05-20T09:42:13.462740+00:00"
+    "fetched_at": "2026-05-20T10:36:45.161375+00:00"
   },
   {
     "id": "81630d6985b2083e",
@@ -699,7 +783,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-20T01:24:41+00:00",
-    "fetched_at": "2026-05-20T09:42:12.235807+00:00"
+    "fetched_at": "2026-05-20T10:36:44.467912+00:00"
   },
   {
     "id": "bc22137772f293ed",
@@ -759,7 +843,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-20T00:13:21+00:00",
-    "fetched_at": "2026-05-20T09:42:12.235852+00:00"
+    "fetched_at": "2026-05-20T10:36:44.467966+00:00"
   },
   {
     "id": "fa8525ef2535bc4c",
@@ -783,7 +867,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-19T23:56:12+00:00",
-    "fetched_at": "2026-05-20T09:42:12.235901+00:00"
+    "fetched_at": "2026-05-20T10:36:44.468047+00:00"
   },
   {
     "id": "f85fa31735474f56",
@@ -795,7 +879,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-19T23:52:27+00:00",
-    "fetched_at": "2026-05-20T09:42:12.235948+00:00"
+    "fetched_at": "2026-05-20T10:36:44.468115+00:00"
   },
   {
     "id": "ea7cae87eb77fee2",
@@ -1095,7 +1179,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-19T20:05:00+00:00",
-    "fetched_at": "2026-05-20T09:42:12.651390+00:00"
+    "fetched_at": "2026-05-20T10:36:44.647834+00:00"
   },
   {
     "id": "0e9aed8873dd33e2",
@@ -1179,7 +1263,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-19T19:15:00+00:00",
-    "fetched_at": "2026-05-20T09:42:13.300934+00:00"
+    "fetched_at": "2026-05-20T10:36:45.077330+00:00"
   },
   {
     "id": "7a98aeb18c0f264b",
@@ -1215,7 +1299,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-19T19:05:00+00:00",
-    "fetched_at": "2026-05-20T09:42:13.301285+00:00"
+    "fetched_at": "2026-05-20T10:36:45.077677+00:00"
   },
   {
     "id": "cc6cf883dd1520bb",
@@ -1275,7 +1359,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-19T19:00:00+00:00",
-    "fetched_at": "2026-05-20T09:42:13.301718+00:00"
+    "fetched_at": "2026-05-20T10:36:45.078145+00:00"
   },
   {
     "id": "91504e05e53a95ee",
@@ -1359,7 +1443,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-19T18:30:00+00:00",
-    "fetched_at": "2026-05-20T09:42:12.651152+00:00"
+    "fetched_at": "2026-05-20T10:36:44.647550+00:00"
   },
   {
     "id": "08193c44e04cede5",
@@ -1455,7 +1539,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-19T18:00:00+00:00",
-    "fetched_at": "2026-05-20T09:42:12.651223+00:00"
+    "fetched_at": "2026-05-20T10:36:44.647640+00:00"
   },
   {
     "id": "ae56803b90050e3f",
@@ -1467,7 +1551,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-19T18:00:00+00:00",
-    "fetched_at": "2026-05-20T09:42:12.651523+00:00"
+    "fetched_at": "2026-05-20T10:36:44.647964+00:00"
   },
   {
     "id": "7f28c9b0991284c5",
@@ -1479,7 +1563,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-19T18:00:00+00:00",
-    "fetched_at": "2026-05-20T09:42:13.301960+00:00"
+    "fetched_at": "2026-05-20T10:36:45.078396+00:00"
   },
   {
     "id": "e8802ff78f4dae92",
@@ -1563,7 +1647,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-19T17:30:55+00:00",
-    "fetched_at": "2026-05-20T09:42:12.651565+00:00"
+    "fetched_at": "2026-05-20T10:36:44.648014+00:00"
   },
   {
     "id": "15abc57ab72d2002",
@@ -1587,7 +1671,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-19T17:30:00+00:00",
-    "fetched_at": "2026-05-20T09:42:12.651283+00:00"
+    "fetched_at": "2026-05-20T10:36:44.647709+00:00"
   },
   {
     "id": "c09509a3246300bf",
@@ -1611,7 +1695,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-19T17:26:39+00:00",
-    "fetched_at": "2026-05-20T09:42:12.651629+00:00"
+    "fetched_at": "2026-05-20T10:36:44.648114+00:00"
   },
   {
     "id": "017aef5ef0f809c3",
@@ -1659,7 +1743,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-05-19T17:00:08+00:00",
-    "fetched_at": "2026-05-20T09:42:05.612012+00:00"
+    "fetched_at": "2026-05-20T10:36:39.002125+00:00"
   },
   {
     "id": "9407d2c5364b03af",
@@ -1671,7 +1755,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-19T17:00:00+00:00",
-    "fetched_at": "2026-05-20T09:42:12.651343+00:00"
+    "fetched_at": "2026-05-20T10:36:44.647778+00:00"
   },
   {
     "id": "518b9722d89ac9da",
@@ -1971,7 +2055,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-19T15:52:25+00:00",
-    "fetched_at": "2026-05-20T09:42:07.980254+00:00"
+    "fetched_at": "2026-05-20T10:36:40.705155+00:00"
   },
   {
     "id": "df7d31a2e72fba52",
@@ -2079,7 +2163,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-19T15:20:16+00:00",
-    "fetched_at": "2026-05-20T09:42:07.980335+00:00"
+    "fetched_at": "2026-05-20T10:36:40.705239+00:00"
   },
   {
     "id": "468c4f58bf35cf96",
@@ -2247,7 +2331,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-19T14:31:15+00:00",
-    "fetched_at": "2026-05-20T09:42:07.980403+00:00"
+    "fetched_at": "2026-05-20T10:36:40.705316+00:00"
   },
   {
     "id": "520cf254acd51b55",
@@ -2283,7 +2367,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-19T14:30:00+00:00",
-    "fetched_at": "2026-05-20T09:42:12.651446+00:00"
+    "fetched_at": "2026-05-20T10:36:44.647899+00:00"
   },
   {
     "id": "047b2a4ba949d697",
@@ -2415,7 +2499,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-19T13:00:00+00:00",
-    "fetched_at": "2026-05-20T09:42:12.651691+00:00"
+    "fetched_at": "2026-05-20T10:36:44.648187+00:00"
   },
   {
     "id": "7ea9b56f6fd15e4c",
@@ -2595,7 +2679,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-05-19T11:00:17+00:00",
-    "fetched_at": "2026-05-20T09:42:05.612127+00:00"
+    "fetched_at": "2026-05-20T10:36:39.002246+00:00"
   },
   {
     "id": "b386b6e913642a12",
@@ -2716,209 +2800,5 @@
     "category": "poslovanje",
     "published_at": "2026-05-19T10:30:00+00:00",
     "fetched_at": "2026-05-19T11:45:21.610137+00:00"
-  },
-  {
-    "id": "5d025d5b9d4bb0cb",
-    "title": "How Autonomous AI Agents Are Reshaping The Workforce",
-    "description": "​Correctly implemeting AI agents in your workflows requires reimagining the way we work.",
-    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/19/how-autonomous-ai-agents-are-reshaping-the-workforce/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/699f354061dd4d7988866e65/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T10:30:00+00:00",
-    "fetched_at": "2026-05-19T11:46:24.206569+00:00"
-  },
-  {
-    "id": "4013031b0c5bcc7e",
-    "title": "We Have No Clue What Goes On Inside AI's Brain. This $1.25 Billion Startup Is Trying To Find Out",
-    "description": "Founded in 2024, Goodfire is trying to fix AI’s black box problem — increasingly important as AI systems take on high-stakes tasks in cybersecurity and finance.",
-    "url": "https://www.forbes.com/sites/rashishrivastava/2026/05/19/we-have-no-clue-what-goes-on-inside-ais-brain-this-125-billion-startup-is-trying-to-find-out/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0b6a7f21259552440c0215/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T10:30:00+00:00",
-    "fetched_at": "2026-05-19T11:46:24.206632+00:00"
-  },
-  {
-    "id": "15ac2c6e273cca7a",
-    "title": "Artificial Intelligence Lab Zyphra Raising $500 Million To Challenge Nvidia Dominance",
-    "description": "Artificial Intelligence Lab Zyphra Raising $500 Million To Challenge Nvidia Dominance",
-    "url": "https://www.forbes.com/sites/annatong/2026/05/19/artificial-intelligence-lab-zyphra-raising-500-million-to-challenge-nvidia-dominance/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0c093e9c51fa02575549ec/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T10:30:00+00:00",
-    "fetched_at": "2026-05-19T11:46:24.206688+00:00"
-  },
-  {
-    "id": "209d19f17dd744c3",
-    "title": "Son Of Mango Founder Taken Into Custody Over Father’s Hiking Death",
-    "description": "Nearly 18 months after his hiking death, Mango founder Iask Andic's son Jonathan has been taken into custody over the accident in Spain's Montserrat mountain range.",
-    "url": "https://www.forbes.com/sites/markfaithfull/2026/05/19/son-of-mango-founder-taken-into-custody-over-fathers-hiking-death/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0c3889933d457fcec5601b/0x0.jpg",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T10:27:55+00:00",
-    "fetched_at": "2026-05-19T11:45:21.610206+00:00"
-  },
-  {
-    "id": "40d0e742e2122f4f",
-    "title": "$100 Games: With ‘GTA6’ Looming, Here Are The Cases For And Against",
-    "description": "The idea of paying $100 for a standard game has been a thorny subject for a while, but players are surprisingly open to it. Should they be?",
-    "url": "https://www.forbes.com/sites/mattgardner1/2026/05/19/100-games-with-gta6-looming-here-are-the-cases-for-and-against/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0c363192452a12b4d4dcc0/0x0.jpg",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T10:23:12+00:00",
-    "fetched_at": "2026-05-19T11:46:24.206755+00:00"
-  },
-  {
-    "id": "3042ebb4303e09b8",
-    "title": "IoT 2.0: Why The Next Generation Of Connected Systems Needs More Than Just Connectivity",
-    "description": "IoT 2.0 is shifting connected systems from passive data collection to real-time, intelligent decision-making. Here's what that means for network design and performance.",
-    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/19/iot-20-why-the-next-generation-of-connected-systems-needs-more-than-just-connectivity/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/695bd5b958b0917f9f0e3d01/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T10:15:00+00:00",
-    "fetched_at": "2026-05-19T11:46:24.206816+00:00"
-  },
-  {
-    "id": "2a17b32f6a47b3ec",
-    "title": "“Slaughterbots” Now: Ukraine’s Head-Hunting Drones Terrify Russians",
-    "description": "Russian sources claim Ukraine is using a deadly new type of FPV with AI guidance and a stand-off warhead which can precisely shoots the target in the head.",
-    "url": "https://www.forbes.com/sites/davidhambling/2026/05/19/slaughterbots-now-ukraines-head-hunting-drones-terrify-russians/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0c3180545a84b12b592ab9/0x0.jpg",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T10:08:46+00:00",
-    "fetched_at": "2026-05-19T11:45:21.610270+00:00"
-  },
-  {
-    "id": "64b9ca23fc5193f2",
-    "title": "Kevin O’Leary reveals the magic number you need to actually be rich—it’s not what most ‘rich’ people think",
-    "description": "Shark Tank investor Kevin O’Leary doubled down on his belief that true wealth requires at least $5 million in liquid assets . “You’d be amazed, how many wealthy people that say they’re rich do not have liquidity,” O’Leary said on Fox Business . O’Leary said he practices what he preaches, keeping at least $5 million of his own wealth in Treasury bills— short-term U.S. government securities that can be quickly converted to cash. The Canadian businessman argues that true financial security means being able to access your wealth at a moment’s notice, be it to weather an emergency or to seize an investment opportunity. A house, a private business, or illiquid assets may look impressive on paper, but in his view, they don’t count toward real wealth. Financial experts say the strategy has merit. Tech entrepreneur and FinlyWealth co-founder Abid Salahi told GOBankingRates , “Our data shows that",
-    "url": "https://www.fastcompany.com/91536941/kevin-oleary-reveals-magic-number-you-need-actually-rich-not-most-rich-people-think",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/kevin-oleary-inc-2266245325.jpg",
-    "source": "Fast Company",
-    "source_id": "src-014",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T10:08:43+00:00",
-    "fetched_at": "2026-05-19T17:02:14.666027+00:00"
-  },
-  {
-    "id": "b4dace3eadd3711e",
-    "title": "Iran’s Peace Proposal Demands Sanctions Relief And End Of Blockade After Trump Says He Halted Planned Strikes",
-    "description": "The Iranian proposal also calls for maintaining the right to enrich uranium and “peaceful nuclear activities,” after Trump touted that “serious negotiations” were ongoing.",
-    "url": "https://www.forbes.com/sites/siladityaray/2026/05/19/irans-peace-proposal-demands-sanctions-relief-and-end-of-blockade-after-trump-says-he-halted-planned-strikes/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0c3519ff0ad623a5a574d4/0x0.jpg?width=960&precrop=1680%2C945%2Cx0%2Cy41",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T10:04:10+00:00",
-    "fetched_at": "2026-05-19T11:45:21.610343+00:00"
-  },
-  {
-    "id": "6904d8600c15f029",
-    "title": "The Texas startup that’s bringing back the Wooly Mammoth has a new project: growing chickens in artificial eggs",
-    "description": "A flock of chickens living in a coop near Dallas, Texas, are ordinary birds. But they hatched inside 3D-printed artificial eggs in a lab at Colossal Biosciences , the Dallas-based “de-extinction” company. Colossal designed a new system that functions essentially like a natural egg. One of the company’s goals: to use it to bring back the South Island giant moa, a bird that went extinct in the 15 th century. But the technology could also be used to help breed currently endangered birds. [Photo: Colossal Biosciences] It’s not the first time that scientists tried to raise birds outside a natural shell. But previous systems, first developed in the 1980s, required a flow of oxygen and other interventions for the embryo to survive. (The oxygen also sometimes damages the birds’ DNA.) The new shell can sit inside an ordinary incubator. “We want to make sure that it is as close to an existing egg",
-    "url": "https://www.fastcompany.com/91542698/colossal-is-growing-chickens-in-artificial-eggs-can-it-actually-help-conservation",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91542698-artificial-eggs.jpg",
-    "source": "Fast Company",
-    "source_id": "src-014",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T10:00:00+00:00",
-    "fetched_at": "2026-05-19T17:02:14.666318+00:00"
-  },
-  {
-    "id": "7732aaf1f61d5e24",
-    "title": "Will AI cause mass political polarization? Maybe not",
-    "description": "As large language models seep into everyday life, some worry the technology could trigger a mass political realignment. Chatbots, the theory goes, can be shaped by training data and system instructions to privilege certain worldviews, and users who interact with them daily may gradually absorb those biases at scale. But Dartmouth College political scientist Brendan Nyhan cautions against assuming such a future is inevitable. LLMs may be powerful, he says, but that doesn’t mean they’ll influence people in the ways we expect, or even in the ways their creators intend. There are several reasons an AI -driven political shift may be harder to engineer than it sounds. Most people don’t closely follow political news, and it’s unclear how often they use AI tools for political guidance in the first place. And while chatbots can sound persuasive, and in some cases have encouraged disturbing behavi",
-    "url": "https://www.fastcompany.com/91543997/will-ai-cause-mass-political-polarization-maybe-not",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91543997-will-ai-cause-mass-political-polarization-maybe-not.jpg",
-    "source": "Fast Company",
-    "source_id": "src-014",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T10:00:00+00:00",
-    "fetched_at": "2026-05-19T17:02:14.666641+00:00"
-  },
-  {
-    "id": "0ecc98a2b02d45cb",
-    "title": "Europe Looks To Strengthen Its Defense As U.S. Reduces Presence Abroad",
-    "description": "Europe is working to strengthen its national security and defense amid America’s reduced troop presence, sparking renewed calls for a new European defense bloc.",
-    "url": "https://www.forbes.com/sites/marktemnycky/2026/05/19/europe-looks-to-strengthen-its-defense-as-us-reduces-presence-abroad/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a077a96ed79a34bc1a29c78/0x0.jpg",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T10:00:00+00:00",
-    "fetched_at": "2026-05-19T11:45:21.610404+00:00"
-  },
-  {
-    "id": "b76721ca9d11fccf",
-    "title": "What Kevin Warsh Must Do To Save The Fed And Us From Unnecessary Harm",
-    "description": "There’s one big thing the new Fed head must tackle now—and it’s not interest rates.",
-    "url": "https://www.forbes.com/sites/steveforbes/2026/05/19/what-kevin-warsh-must-do-to-save-the-fed-and-us-from-unnecessary-harm/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0b7d90f4c2f9ee952df1fc/0x0.jpg?width=960",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T10:00:00+00:00",
-    "fetched_at": "2026-05-19T11:45:21.610461+00:00"
-  },
-  {
-    "id": "071c8fc816b3db6e",
-    "title": "Phillies Cut Ties With 7-Year Veteran After Disastrous Outing",
-    "description": "The Philadelphia Phillies organization released a long-time MLB pitcher after a brutal inning on the mound.",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/05/19/phillies-cut-ties-with-7-year-veteran-after-disastrous-outing/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/69e0341d946ae8d53d8593dd/0x0.jpg",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T10:00:00+00:00",
-    "fetched_at": "2026-05-19T11:45:21.610515+00:00"
-  },
-  {
-    "id": "223df1bc56c16f25",
-    "title": "​Source Code Is Not The Product: Why Commercial Open Source Works",
-    "description": "Done right, openness creates a stronger business structure and a larger surface area for value creation than closed software.",
-    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/19/source-code-is-not-the-product-why-commercial-open-source-works/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0b429efcfa70284fa66ac7/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T10:00:00+00:00",
-    "fetched_at": "2026-05-19T11:23:27.433387+00:00"
-  },
-  {
-    "id": "4e2fde4fd5c7e0e3",
-    "title": "Homey Pro Prices Spiking Next Month Due To RAMmageddon Crisis",
-    "description": "Homey Pro prices are jumping up to $50 on June 1. Athom blames \"RAMageddon\" and rising component costs—here is how long you have to beat the hike.",
-    "url": "https://www.forbes.com/sites/paullamkin/2026/05/19/homey-pro-prices-spiking-next-month-due-to-rammageddon-crisis/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/69160b535d8e4f48a7836317/0x0.jpg?width=960&precrop=1262%2C591%2Cx0%2Cy14",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T09:27:33+00:00",
-    "fetched_at": "2026-05-19T11:23:27.433447+00:00"
-  },
-  {
-    "id": "32e5f91d712613c0",
-    "title": "20 habits consistently linked to better sleep",
-    "description": "From light exposure to meal timing, these evidence-based habits can help you fall asleep faster, stay asleep longer, and wake up feeling rested",
-    "url": "https://qz.com/20-habits-for-better-sleep",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1808403704.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-19T09:16:49+00:00",
-    "fetched_at": "2026-05-19T11:45:22.173118+00:00"
   }
 ]
