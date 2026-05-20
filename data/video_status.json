@@ -1,0 +1,62 @@
+{
+  "updated_at": "2026-05-20T10:08:03.577957+00:00",
+  "categories": {
+    "hedonizam": {
+      "fresh": 10,
+      "selected": 12
+    },
+    "kultura": {
+      "fresh": 10,
+      "selected": 12
+    },
+    "muzeji": {
+      "fresh": 10,
+      "selected": 11
+    },
+    "vina": {
+      "fresh": 10,
+      "selected": 11
+    },
+    "hrana": {
+      "fresh": 10,
+      "selected": 11
+    },
+    "pica": {
+      "fresh": 10,
+      "selected": 12
+    },
+    "satovi": {
+      "fresh": 10,
+      "selected": 12
+    },
+    "nakit": {
+      "fresh": 10,
+      "selected": 12
+    },
+    "dizajn": {
+      "fresh": 10,
+      "selected": 12
+    },
+    "tehnologija": {
+      "fresh": 10,
+      "selected": 12
+    },
+    "poslovanje": {
+      "fresh": 10,
+      "selected": 12
+    },
+    "ekonomija": {
+      "fresh": 10,
+      "selected": 12
+    },
+    "financije": {
+      "fresh": 10,
+      "selected": 12
+    },
+    "znanost": {
+      "fresh": 10,
+      "selected": 12
+    }
+  },
+  "mode": "youtube-search-with-fallback"
+}
