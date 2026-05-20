@@ -4,6 +4,13 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "23 5 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "update_videos.py"
+      - ".github/workflows/update-videos.yml"
+      - "assets/home-video-preview.js"
 
 permissions:
   contents: write
