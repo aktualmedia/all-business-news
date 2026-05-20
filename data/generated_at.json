@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-05-20T19:39:46.558188+00:00",
+  "generated_at": "2026-05-20T20:00:23.846509+00:00",
   "sources": 236,
   "ok_sources": 167,
   "failed_sources": 54,
-  "news_count": 1660,
+  "news_count": 2000,
   "category_counts": {
-    "poslovanje": 221,
+    "poslovanje": 259,
     "ekonomija": 16,
-    "financije": 336,
-    "trzista": 133,
-    "kultura": 221,
-    "dizajn": 64,
-    "tehnologija": 159,
-    "znanost": 208,
-    "lifestyle": 136,
-    "hedonizam": 40,
-    "satovi": 24,
-    "nakit": 4,
-    "pica": 44,
-    "vijesti": 54
+    "financije": 397,
+    "trzista": 158,
+    "kultura": 265,
+    "dizajn": 72,
+    "tehnologija": 200,
+    "znanost": 267,
+    "lifestyle": 143,
+    "hedonizam": 69,
+    "satovi": 26,
+    "nakit": 7,
+    "pica": 49,
+    "hrana": 30,
+    "vijesti": 42
   },
   "gallery_count": 500,
-  "archive_count": 6107,
-  "active_limit": 1660,
+  "archive_count": 5219,
+  "active_limit": 2000,
   "gallery_groups": [
     "muzeji",
     "galerije",
     "umjetnici",
     "umjetnine",
     "film"
-  ]
+  ],
+  "archive_limit": 12000
 }

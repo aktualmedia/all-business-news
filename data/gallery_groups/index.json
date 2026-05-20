@@ -1,78 +1,78 @@
 {
-  "updated_at": "2026-05-20T13:51:13.574408+00:00",
+  "updated_at": "2026-05-20T20:00:24.010402+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 81,
-      "cover": "https://variety.com/wp-content/uploads/2026/05/W.-Kamau-Bell.jpg"
+      "count": 69,
+      "cover": "https://variety.com/wp-content/uploads/2022/08/GettyImages-79917259-e1743613905279.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 36,
-      "cover": "https://www.yankodesign.com/images/design_news/2026/05/the-robots-that-built-seouls-robot-museum/raic-01.jpg"
+      "count": 22,
+      "cover": "https://www.yankodesign.com/images/design_news/2026/05/bmws-vision-k18-concept-turns-long-distance-touring-into-a-jet-inspired-luxury-experience-on-two-wheels/BMW-Motorrad-Vision-K18-Concept-17.jpg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 8,
-      "cover": "https://www.journal.hr/wp-content/uploads/2026/05/Dani-jagoda-2026-photo-by-Lili-Basic.jpg-28-768x512.jpg"
+      "count": 9,
+      "cover": "https://robbreport.com/wp-content/uploads/2026/05/Split_Barrel_Project.jpg"
     },
     {
       "id": "hrana",
       "label": "HRANA",
-      "count": 2,
-      "cover": "https://assets.bonappetit.com/photos/672247310f38d6690f43967d/master/pass/best-soda-makers_LEDE_V9_102324_1902_VOG_Badge_final.jpg"
+      "count": 5,
+      "cover": "https://assets.bonappetit.com/photos/57ae3440f1c801a1038bd113/master/pass/classic-tartar-sauce.jpg"
     },
     {
       "id": "pica",
       "label": "PIĆA",
-      "count": 28,
-      "cover": "https://www.thespiritsbusiness.com/content/uploads/2026/05/Dalmore-Distillery-glass.jpg"
+      "count": 22,
+      "cover": "https://www.thedrinksbusiness.com/content/uploads/2026/05/Voyager-Estate-Tim-Shand.webp"
     },
     {
       "id": "satovi",
       "label": "SATOVI",
-      "count": 5,
-      "cover": "https://monochrome-watches.com/app/uploads/2026/05/Awake-Son-Mai-Guilloche-Collection-38mm-1-600x237.jpg"
+      "count": 8,
+      "cover": "https://hodinkee.imgix.net/uploads/images/549f5ad5-afd4-41c0-884f-a1338993ff95/P1094007.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 28,
-      "cover": "https://coolhunting.com/wp-content/uploads/2026/05/img_6-768x432.jpg"
+      "count": 34,
+      "cover": "https://www.insidehook.com/wp-content/uploads/2026/05/Espresso-Martini.jpg?fit=1200%2C800"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 50,
-      "cover": "https://image.theregister.com/?imageId=224816&width=800"
+      "count": 51,
+      "cover": "https://www.engadget.com/img/gallery/google-is-bringing-new-ai-powered-ad-formats-to-search/l-intro-1779305901.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 97,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/genome.jpg"
+      "count": 90,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2019/studentscoll.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 107,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a0da85ebcef95a95ffb58e0/0x0.jpg"
+      "count": 104,
+      "cover": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2240031498.jpg"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 49,
-      "cover": "https://www.finance-monthly.com/wp-content/uploads/2026/05/pexels-shvets-production-9774961-1024x682.jpg"
+      "count": 51,
+      "cover": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J03Q_L.jpg"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 9,
-      "cover": "https://imgproxy.divecdn.com/Kmj7ZSgdzrD65jwSAM5UhXiy9Ow7_RzQ23s8ndpYpAk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UdXJuZXJIaWdobWFya0dJbGJhbmVOWS5wbmc=.webp"
+      "count": 35,
+      "cover": "https://www.freightwaves.com/wp-content/uploads/2023/11/13/Regional_Rail_1-1.jpg"
     }
   ]
 }
