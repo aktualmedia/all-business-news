@@ -2,6 +2,8 @@
   "author": "Nermin Sefić",
   "policy_name": "Nermin Sefić - autorske objave / urednička i SEO pravila",
   "updated_at": "2026-05-20",
+  "minimum_words": 300,
+  "preferred_words": 500,
   "rules": [
     "Prije svake nove autorske objave prvo provjeriti aktualne teme iz inozemnih izvora.",
     "Ne koristiti izvore iz Hrvatske, Srbije, Bosne i Hercegovine ili Sjeverne Makedonije kao temelj za izbor teme, osim ako korisnik to izričito zatraži.",
@@ -12,7 +14,8 @@
     "Svaka objava mora imati SEO naslov, meta opis, canonical URL, Open Graph title, Open Graph description, Twitter card i author meta podatke.",
     "Svaka objava mora imati jasan summary, kategoriju, ključne riječi i lokalni URL.",
     "Preferirani stil: autorski komentar, poslovno-analitički, miran, jasan, bez kopiranja novinarskog teksta.",
-    "Poželjna duljina za ozbiljne objave: najmanje 500 riječi, osim ako korisnik traži kraće."
+    "Minimalna duljina svake nove objave je 300 riječi.",
+    "Poželjna duljina za ozbiljne objave je 500 ili više riječi, osim ako korisnik izričito traži kraće."
   ],
   "foreign_topic_sources_priority": [
     "Financial Times",
