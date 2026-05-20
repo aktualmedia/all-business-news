@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-20T08:47:07.015245+00:00",
+  "updated_at": "2026-05-20T08:53:07.546984+00:00",
   "sources": 69,
-  "ok_sources": 11,
-  "events_count": 151,
+  "ok_sources": 13,
+  "events_count": 173,
   "results": [
     {
       "id": "infozagreb-events",
@@ -271,8 +271,9 @@
       "country": "SAD",
       "city": "New York",
       "type": "kazalište / Broadway / premijere",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "The read operation timed out"
     },
     {
       "id": "broadway-com",
@@ -334,9 +335,8 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "kazalište / premijere",
-      "status": "fallback",
-      "count": 1,
-      "error": "<urlopen error timed out>"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "opera-paris",
@@ -607,9 +607,8 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "muzej / izložbe",
-      "status": "fallback",
-      "count": 1,
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "count": 14
     },
     {
       "id": "centre-pompidou",
@@ -660,8 +659,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "program_link_only",
-      "count": 1
+      "status": "ok",
+      "count": 10
     },
     {
       "id": "uffizi",
