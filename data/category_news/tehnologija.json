@@ -1,5 +1,18 @@
 [
   {
+    "id": "d5c724054b687612",
+    "title": "Will Robotics Have a ChatGPT Moment?",
+    "description": "Over the next few decades, billions of autonomous, AI-powered robots will work alongside people in factories, perform tedious tasks in warehouses, care for the elderly, assist in unsafe disaster areas , deliver packages and food to our doorsteps, and eventually, help out in our homes. Some will look like us, and many won’t. What is certain is that regardless of form factor, robots will all rely heavily on AI in order to deliver real-world value. In 2025, total investments in robotics companies reached a record $40.7 billion, accounting for 9 percent of all venture funding . The multibillion dollar question therefore is this: What will it take for AI-powered robots to begin to have a serious economic impact? Many of today’s robotics and AI companies are making bold claims, such as that humanoid robots will soon be coming into our homes , but there’s still a big gap between promise and rea",
+    "url": "https://spectrum.ieee.org/robotics-ai-breakthrough",
+    "image": "https://spectrum.ieee.org/media-library/a-collection-of-5-robots-against-colored-backgrounds.jpg?id=66734221&width=980",
+    "source": "IEEE Spectrum",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-20T11:00:01+00:00",
+    "fetched_at": "2026-05-20T11:05:01.595820+00:00",
+    "missing_core_fill": true
+  },
+  {
     "id": "9d6f3f48c27ad1b1",
     "title": "Manchester Code Made Bits Behave",
     "description": "In the late 1940s—when computer engineers were grappling with unreliable hardware and noisy transmission environments—a team of engineers inside a modest lab at the University of Manchester , England, confronted a problem so fundamental that it threatened the viability of digital computing itself. Machines could generate bits, but they could not reliably read them back. The inconsistent reading back of memory data did not initially present itself as a grand theoretical challenge. It showed up as something more mundane: inconsistent computing results. Engineers including Frederic C. Williams , Tom Kilburn , and G. E. (Tommy) Thomas traced the failures not to logic errors but to the physical behavior of the machines themselves. The team devised a technique for keeping a transmitter and a receiver synchronized without relying on a separate clock signal. Their innovation, known as Manchester",
@@ -9,7 +22,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T18:00:01+00:00",
-    "fetched_at": "2026-05-20T10:40:56.758003+00:00",
+    "fetched_at": "2026-05-20T11:05:01.596282+00:00",
     "missing_core_fill": true
   },
   {
@@ -22,7 +35,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T13:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.758542+00:00",
+    "fetched_at": "2026-05-20T11:05:01.596811+00:00",
     "missing_core_fill": true
   },
   {
@@ -35,7 +48,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T10:00:01+00:00",
-    "fetched_at": "2026-05-20T10:40:56.758616+00:00",
+    "fetched_at": "2026-05-20T11:05:01.596887+00:00",
     "missing_core_fill": true
   },
   {
@@ -48,7 +61,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T10:00:01+00:00",
-    "fetched_at": "2026-05-20T10:40:56.759304+00:00",
+    "fetched_at": "2026-05-20T11:05:01.597597+00:00",
     "missing_core_fill": true
   },
   {
@@ -61,7 +74,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T13:00:01+00:00",
-    "fetched_at": "2026-05-20T10:40:56.765495+00:00",
+    "fetched_at": "2026-05-20T11:05:01.603752+00:00",
     "missing_core_fill": true
   },
   {
@@ -74,7 +87,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-14T18:00:02+00:00",
-    "fetched_at": "2026-05-20T10:40:56.765772+00:00",
+    "fetched_at": "2026-05-20T11:05:01.604045+00:00",
     "missing_core_fill": true
   },
   {
@@ -87,7 +100,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-14T10:00:01+00:00",
-    "fetched_at": "2026-05-20T10:40:56.765876+00:00",
+    "fetched_at": "2026-05-20T11:05:01.604152+00:00",
     "missing_core_fill": true
   },
   {
@@ -100,7 +113,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-14T10:00:01+00:00",
-    "fetched_at": "2026-05-20T10:40:56.766594+00:00",
+    "fetched_at": "2026-05-20T11:05:01.604872+00:00",
     "missing_core_fill": true
   },
   {
@@ -113,7 +126,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-12T18:00:02+00:00",
-    "fetched_at": "2026-05-20T10:40:56.767312+00:00",
+    "fetched_at": "2026-05-20T11:05:01.605618+00:00",
     "missing_core_fill": true
   },
   {
@@ -126,7 +139,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-12T17:15:15+00:00",
-    "fetched_at": "2026-05-20T10:40:56.767768+00:00",
+    "fetched_at": "2026-05-20T11:05:01.606103+00:00",
     "missing_core_fill": true
   },
   {
@@ -139,7 +152,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-11T10:00:01+00:00",
-    "fetched_at": "2026-05-20T10:40:56.767867+00:00",
+    "fetched_at": "2026-05-20T11:05:01.606207+00:00",
     "missing_core_fill": true
   },
   {
@@ -152,7 +165,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-08T18:00:01+00:00",
-    "fetched_at": "2026-05-20T10:40:56.768270+00:00",
+    "fetched_at": "2026-05-20T11:05:01.606608+00:00",
     "missing_core_fill": true
   },
   {
@@ -165,7 +178,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-07T13:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.769874+00:00",
+    "fetched_at": "2026-05-20T11:05:01.608246+00:00",
     "missing_core_fill": true
   },
   {
@@ -178,7 +191,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-06T18:00:01+00:00",
-    "fetched_at": "2026-05-20T10:40:56.770371+00:00",
+    "fetched_at": "2026-05-20T11:05:01.608740+00:00",
     "missing_core_fill": true
   },
   {
@@ -191,7 +204,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-06T10:00:02+00:00",
-    "fetched_at": "2026-05-20T10:40:56.770475+00:00",
+    "fetched_at": "2026-05-20T11:05:01.608846+00:00",
     "missing_core_fill": true
   },
   {
@@ -204,7 +217,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-05T15:45:33+00:00",
-    "fetched_at": "2026-05-20T10:40:56.770689+00:00",
+    "fetched_at": "2026-05-20T11:05:01.609088+00:00",
     "missing_core_fill": true
   },
   {
@@ -217,7 +230,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-04T18:00:01+00:00",
-    "fetched_at": "2026-05-20T10:40:56.771238+00:00",
+    "fetched_at": "2026-05-20T11:05:01.609643+00:00",
     "missing_core_fill": true
   },
   {
@@ -230,7 +243,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-04T11:08:34+00:00",
-    "fetched_at": "2026-05-20T10:40:56.772128+00:00",
+    "fetched_at": "2026-05-20T11:05:01.610561+00:00",
     "missing_core_fill": true
   },
   {
@@ -243,7 +256,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-04-30T14:00:01+00:00",
-    "fetched_at": "2026-05-20T10:40:56.772747+00:00",
+    "fetched_at": "2026-05-20T11:05:01.611215+00:00",
     "missing_core_fill": true
   },
   {
@@ -256,7 +269,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-04-30T10:00:01+00:00",
-    "fetched_at": "2026-05-20T10:40:56.772889+00:00",
+    "fetched_at": "2026-05-20T11:05:01.611363+00:00",
     "missing_core_fill": true
   },
   {
@@ -269,7 +282,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-04-28T18:03:40+00:00",
-    "fetched_at": "2026-05-20T10:40:56.773650+00:00",
+    "fetched_at": "2026-05-20T11:05:01.612163+00:00",
     "missing_core_fill": true
   },
   {
@@ -282,7 +295,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-04-28T18:00:02+00:00",
-    "fetched_at": "2026-05-20T10:40:56.774319+00:00",
+    "fetched_at": "2026-05-20T11:05:01.612833+00:00",
     "missing_core_fill": true
   },
   {
@@ -295,20 +308,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-04-28T14:00:01+00:00",
-    "fetched_at": "2026-05-20T10:40:56.774488+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "7da76734142baff3",
-    "title": "What Makes eVTOL Motors Different Than EV Motors?",
-    "description": "Electric vehicles, whether they’re cars on the road or electric vertical take-off and landing (eVTOL) aircraft, are built around similar electric motors. But there are vital differences including component costs, mass, and redundancy. Jon Wagner spent five years as the senior director of battery engineering for Tesla before joining California-based eVTOL developer Joby Aviation in 2017. He spoke with IEEE Spectrum about how engineering differs between cars and aircraft. ​Jon Wagner Jon Wagner leads power train and electronics at Joby Aviation. How do eVTOL motors differ from car motors? Jon Wagner: In general, ground transportation has a different focus on cost versus mass. You know, would you be willing to spend more on the parts in order to save a certain amount of mass? The trade-offs end on the ground vehicle and at a certain point the cost is dominant, whereas with aviation, the tra",
-    "url": "https://spectrum.ieee.org/evtol-joby-jon-wagner-motors",
-    "image": "https://spectrum.ieee.org/media-library/a-man-stands-in-a-busy-open-plan-office-environment.png?id=65579658&width=980",
-    "source": "IEEE Spectrum",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-04-27T13:00:01+00:00",
-    "fetched_at": "2026-05-20T10:40:56.774744+00:00",
+    "fetched_at": "2026-05-20T11:05:01.613066+00:00",
     "missing_core_fill": true
   },
   {
@@ -321,7 +321,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T10:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.709450+00:00",
+    "fetched_at": "2026-05-20T11:05:01.366538+00:00",
     "missing_core_fill": true
   },
   {
@@ -334,7 +334,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T00:06:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.709900+00:00",
+    "fetched_at": "2026-05-20T11:05:01.366959+00:00",
     "missing_core_fill": true
   },
   {
@@ -347,7 +347,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T19:45:24+00:00",
-    "fetched_at": "2026-05-20T10:40:56.710123+00:00",
+    "fetched_at": "2026-05-20T11:05:01.367164+00:00",
     "missing_core_fill": true
   },
   {
@@ -360,7 +360,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.710830+00:00",
+    "fetched_at": "2026-05-20T11:05:01.367848+00:00",
     "missing_core_fill": true
   },
   {
@@ -373,7 +373,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.711779+00:00",
+    "fetched_at": "2026-05-20T11:05:01.368752+00:00",
     "missing_core_fill": true
   },
   {
@@ -386,7 +386,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.712631+00:00",
+    "fetched_at": "2026-05-20T11:05:01.369585+00:00",
     "missing_core_fill": true
   },
   {
@@ -399,7 +399,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:37:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.713209+00:00",
+    "fetched_at": "2026-05-20T11:05:01.370133+00:00",
     "missing_core_fill": true
   },
   {
@@ -411,8 +411,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T10:40:56.512147+00:00",
-    "fetched_at": "2026-05-20T10:40:56.512154+00:00",
+    "published_at": "2026-05-20T11:05:01.193325+00:00",
+    "fetched_at": "2026-05-20T11:05:01.193337+00:00",
     "missing_core_fill": true
   },
   {
@@ -424,8 +424,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T10:40:56.512222+00:00",
-    "fetched_at": "2026-05-20T10:40:56.512225+00:00",
+    "published_at": "2026-05-20T11:05:01.193410+00:00",
+    "fetched_at": "2026-05-20T11:05:01.193413+00:00",
     "missing_core_fill": true
   },
   {
@@ -437,8 +437,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T10:40:56.512323+00:00",
-    "fetched_at": "2026-05-20T10:40:56.512326+00:00",
+    "published_at": "2026-05-20T11:05:01.193513+00:00",
+    "fetched_at": "2026-05-20T11:05:01.193516+00:00",
     "missing_core_fill": true
   },
   {
@@ -450,8 +450,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T10:40:56.512382+00:00",
-    "fetched_at": "2026-05-20T10:40:56.512385+00:00",
+    "published_at": "2026-05-20T11:05:01.193573+00:00",
+    "fetched_at": "2026-05-20T11:05:01.193576+00:00",
     "missing_core_fill": true
   },
   {
@@ -463,8 +463,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T10:40:56.512432+00:00",
-    "fetched_at": "2026-05-20T10:40:56.512434+00:00",
+    "published_at": "2026-05-20T11:05:01.193625+00:00",
+    "fetched_at": "2026-05-20T11:05:01.193627+00:00",
     "missing_core_fill": true
   },
   {
@@ -476,8 +476,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T10:40:56.512481+00:00",
-    "fetched_at": "2026-05-20T10:40:56.512483+00:00",
+    "published_at": "2026-05-20T11:05:01.193676+00:00",
+    "fetched_at": "2026-05-20T11:05:01.193678+00:00",
     "missing_core_fill": true
   },
   {
@@ -489,8 +489,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T10:40:56.512541+00:00",
-    "fetched_at": "2026-05-20T10:40:56.512543+00:00",
+    "published_at": "2026-05-20T11:05:01.193738+00:00",
+    "fetched_at": "2026-05-20T11:05:01.193740+00:00",
     "missing_core_fill": true
   },
   {
@@ -502,8 +502,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T10:40:56.512594+00:00",
-    "fetched_at": "2026-05-20T10:40:56.512597+00:00",
+    "published_at": "2026-05-20T11:05:01.193794+00:00",
+    "fetched_at": "2026-05-20T11:05:01.193796+00:00",
     "missing_core_fill": true
   },
   {
@@ -515,8 +515,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-20T10:40:56.512645+00:00",
-    "fetched_at": "2026-05-20T10:40:56.512648+00:00",
+    "published_at": "2026-05-20T11:05:01.193846+00:00",
+    "fetched_at": "2026-05-20T11:05:01.193849+00:00",
     "missing_core_fill": true
   },
   {
@@ -529,7 +529,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T07:00:57+00:00",
-    "fetched_at": "2026-05-20T10:40:56.424831+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151192+00:00",
     "missing_core_fill": true
   },
   {
@@ -542,7 +542,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T21:29:33+00:00",
-    "fetched_at": "2026-05-20T10:40:56.424881+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151243+00:00",
     "missing_core_fill": true
   },
   {
@@ -555,7 +555,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T20:58:51+00:00",
-    "fetched_at": "2026-05-20T10:40:56.424922+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151284+00:00",
     "missing_core_fill": true
   },
   {
@@ -568,7 +568,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T20:43:31+00:00",
-    "fetched_at": "2026-05-20T10:40:56.424972+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151339+00:00",
     "missing_core_fill": true
   },
   {
@@ -581,7 +581,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T19:52:01+00:00",
-    "fetched_at": "2026-05-20T10:40:56.425011+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151382+00:00",
     "missing_core_fill": true
   },
   {
@@ -594,7 +594,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T18:55:56+00:00",
-    "fetched_at": "2026-05-20T10:40:56.425084+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151424+00:00",
     "missing_core_fill": true
   },
   {
@@ -607,7 +607,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T18:37:02+00:00",
-    "fetched_at": "2026-05-20T10:40:56.425131+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151465+00:00",
     "missing_core_fill": true
   },
   {
@@ -620,7 +620,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T18:27:08+00:00",
-    "fetched_at": "2026-05-20T10:40:56.425172+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151508+00:00",
     "missing_core_fill": true
   },
   {
@@ -633,7 +633,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T18:17:54+00:00",
-    "fetched_at": "2026-05-20T10:40:56.425210+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151549+00:00",
     "missing_core_fill": true
   },
   {
@@ -646,7 +646,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T18:11:50+00:00",
-    "fetched_at": "2026-05-20T10:40:56.425248+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151590+00:00",
     "missing_core_fill": true
   },
   {
@@ -659,7 +659,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T16:26:56+00:00",
-    "fetched_at": "2026-05-20T10:40:56.425285+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151628+00:00",
     "missing_core_fill": true
   },
   {
@@ -672,7 +672,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T16:00:01+00:00",
-    "fetched_at": "2026-05-20T10:40:56.425353+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151713+00:00",
     "missing_core_fill": true
   },
   {
@@ -685,7 +685,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T13:45:31+00:00",
-    "fetched_at": "2026-05-20T10:40:56.425394+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151757+00:00",
     "missing_core_fill": true
   },
   {
@@ -698,7 +698,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T13:00:45+00:00",
-    "fetched_at": "2026-05-20T10:40:56.425432+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151796+00:00",
     "missing_core_fill": true
   },
   {
@@ -711,7 +711,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T11:00:49+00:00",
-    "fetched_at": "2026-05-20T10:40:56.425472+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151837+00:00",
     "missing_core_fill": true
   },
   {
@@ -724,7 +724,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T20:41:14+00:00",
-    "fetched_at": "2026-05-20T10:40:56.425510+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151875+00:00",
     "missing_core_fill": true
   },
   {
@@ -737,7 +737,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T20:27:15+00:00",
-    "fetched_at": "2026-05-20T10:40:56.425563+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151924+00:00",
     "missing_core_fill": true
   },
   {
@@ -750,7 +750,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T19:49:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.425601+00:00",
+    "fetched_at": "2026-05-20T11:05:01.151963+00:00",
     "missing_core_fill": true
   },
   {
@@ -763,7 +763,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T18:37:55+00:00",
-    "fetched_at": "2026-05-20T10:40:56.425638+00:00",
+    "fetched_at": "2026-05-20T11:05:01.152022+00:00",
     "missing_core_fill": true
   },
   {
@@ -776,7 +776,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T05:45:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.335905+00:00",
+    "fetched_at": "2026-05-20T11:05:01.010332+00:00",
     "missing_core_fill": true
   },
   {
@@ -789,7 +789,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T21:33:30+00:00",
-    "fetched_at": "2026-05-20T10:40:56.335956+00:00",
+    "fetched_at": "2026-05-20T11:05:01.010385+00:00",
     "missing_core_fill": true
   },
   {
@@ -802,7 +802,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T21:25:31+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336001+00:00",
+    "fetched_at": "2026-05-20T11:05:01.010432+00:00",
     "missing_core_fill": true
   },
   {
@@ -815,7 +815,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T21:16:25+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336085+00:00",
+    "fetched_at": "2026-05-20T11:05:01.010481+00:00",
     "missing_core_fill": true
   },
   {
@@ -828,7 +828,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T21:14:08+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336129+00:00",
+    "fetched_at": "2026-05-20T11:05:01.010522+00:00",
     "missing_core_fill": true
   },
   {
@@ -841,7 +841,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T21:09:56+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336170+00:00",
+    "fetched_at": "2026-05-20T11:05:01.010563+00:00",
     "missing_core_fill": true
   },
   {
@@ -854,7 +854,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T21:08:51+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336213+00:00",
+    "fetched_at": "2026-05-20T11:05:01.010605+00:00",
     "missing_core_fill": true
   },
   {
@@ -867,7 +867,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T20:11:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336267+00:00",
+    "fetched_at": "2026-05-20T11:05:01.010662+00:00",
     "missing_core_fill": true
   },
   {
@@ -880,7 +880,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T19:15:31+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336318+00:00",
+    "fetched_at": "2026-05-20T11:05:01.010714+00:00",
     "missing_core_fill": true
   },
   {
@@ -893,7 +893,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:51:39+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336366+00:00",
+    "fetched_at": "2026-05-20T11:05:01.010763+00:00",
     "missing_core_fill": true
   },
   {
@@ -906,7 +906,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:51:30+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336407+00:00",
+    "fetched_at": "2026-05-20T11:05:01.010803+00:00",
     "missing_core_fill": true
   },
   {
@@ -919,7 +919,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:46:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336455+00:00",
+    "fetched_at": "2026-05-20T11:05:01.010844+00:00",
     "missing_core_fill": true
   },
   {
@@ -932,7 +932,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336501+00:00",
+    "fetched_at": "2026-05-20T11:05:01.010888+00:00",
     "missing_core_fill": true
   },
   {
@@ -945,7 +945,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336578+00:00",
+    "fetched_at": "2026-05-20T11:05:01.010967+00:00",
     "missing_core_fill": true
   },
   {
@@ -958,7 +958,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336633+00:00",
+    "fetched_at": "2026-05-20T11:05:01.011046+00:00",
     "missing_core_fill": true
   },
   {
@@ -971,7 +971,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336683+00:00",
+    "fetched_at": "2026-05-20T11:05:01.011098+00:00",
     "missing_core_fill": true
   },
   {
@@ -984,7 +984,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336725+00:00",
+    "fetched_at": "2026-05-20T11:05:01.011140+00:00",
     "missing_core_fill": true
   },
   {
@@ -997,7 +997,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336761+00:00",
+    "fetched_at": "2026-05-20T11:05:01.011177+00:00",
     "missing_core_fill": true
   },
   {
@@ -1010,7 +1010,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336802+00:00",
+    "fetched_at": "2026-05-20T11:05:01.011218+00:00",
     "missing_core_fill": true
   },
   {
@@ -1023,7 +1023,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.336853+00:00",
+    "fetched_at": "2026-05-20T11:05:01.011276+00:00",
     "missing_core_fill": true
   },
   {
@@ -1036,7 +1036,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T20:15:18+00:00",
-    "fetched_at": "2026-05-20T10:40:56.304250+00:00",
+    "fetched_at": "2026-05-20T11:05:00.978407+00:00",
     "missing_core_fill": true
   },
   {
@@ -1049,7 +1049,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T13:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.304314+00:00",
+    "fetched_at": "2026-05-20T11:05:00.978477+00:00",
     "missing_core_fill": true
   },
   {
@@ -1062,7 +1062,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T12:10:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.304374+00:00",
+    "fetched_at": "2026-05-20T11:05:00.978542+00:00",
     "missing_core_fill": true
   },
   {
@@ -1075,7 +1075,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T12:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.304433+00:00",
+    "fetched_at": "2026-05-20T11:05:00.978605+00:00",
     "missing_core_fill": true
   },
   {
@@ -1088,7 +1088,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T00:53:10+00:00",
-    "fetched_at": "2026-05-20T10:40:56.304492+00:00",
+    "fetched_at": "2026-05-20T11:05:00.978668+00:00",
     "missing_core_fill": true
   },
   {
@@ -1101,7 +1101,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T17:35:43+00:00",
-    "fetched_at": "2026-05-20T10:40:56.304581+00:00",
+    "fetched_at": "2026-05-20T11:05:00.978725+00:00",
     "missing_core_fill": true
   },
   {
@@ -1114,7 +1114,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T16:57:44+00:00",
-    "fetched_at": "2026-05-20T10:40:56.304624+00:00",
+    "fetched_at": "2026-05-20T11:05:00.978767+00:00",
     "missing_core_fill": true
   },
   {
@@ -1127,7 +1127,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T16:01:39+00:00",
-    "fetched_at": "2026-05-20T10:40:56.304686+00:00",
+    "fetched_at": "2026-05-20T11:05:00.978832+00:00",
     "missing_core_fill": true
   },
   {
@@ -1140,7 +1140,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-18T12:10:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.304745+00:00",
+    "fetched_at": "2026-05-20T11:05:00.978894+00:00",
     "missing_core_fill": true
   },
   {
@@ -1153,7 +1153,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-15T23:39:35+00:00",
-    "fetched_at": "2026-05-20T10:40:56.304809+00:00",
+    "fetched_at": "2026-05-20T11:05:00.978959+00:00",
     "missing_core_fill": true
   },
   {
@@ -1166,7 +1166,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-19T23:28:04+00:00",
-    "fetched_at": "2026-05-20T10:40:56.266784+00:00",
+    "fetched_at": "2026-05-20T11:05:00.936896+00:00",
     "missing_core_fill": true
   },
   {
@@ -1179,7 +1179,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-14T23:01:20+00:00",
-    "fetched_at": "2026-05-20T10:40:56.266840+00:00",
+    "fetched_at": "2026-05-20T11:05:00.936960+00:00",
     "missing_core_fill": true
   },
   {
@@ -1192,20 +1192,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-12T11:15:19+00:00",
-    "fetched_at": "2026-05-20T10:40:56.266899+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "acb3d33792c23841",
-    "title": "22 Top AI Statistics And Trends - Forbes",
-    "description": "22 Top AI Statistics And Trends Forbes",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51MlhETTFQYXI3NWFjUGlRUTdDZHVDMEFSaFdEWHBrZkhyRjY5OWZCcUFEamR4LVozQXQybk5XaW9rOXQxdUVvYVBlMVU0MklrckwxZjN4OHFaWlJmSjF4eHJNSEY?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-12a798695faf/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-01T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.266945+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937049+00:00",
     "missing_core_fill": true
   },
   {
@@ -1218,20 +1205,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-02-20T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267001+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "9024e68816a1fe3f",
-    "title": "America Isn’t Ready for What AI Will Do to Jobs - The Atlantic",
-    "description": "America Isn’t Ready for What AI Will Do to Jobs The Atlantic",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk5WMnVUX3hETTMwa0xZYlA5M2syVWp0blppcDFvWU50c2dvV2h5ZHB1eHFfOTktVy1CSldSNHhGZVRuNThRdkVpLWRPTmRQeWRadHlmeEJHUlA3djJ2NlNWd3RMaGlHZnFPSmRKNUVwaWd4VEZEdzA1NjYxX3gtT3RyeDFRNktzLV8zemN0aDAzd19PUlE?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-cedaf997e9a1/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-02-10T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267083+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937102+00:00",
     "missing_core_fill": true
   },
   {
@@ -1244,7 +1218,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-03-01T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267140+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937165+00:00",
     "missing_core_fill": true
   },
   {
@@ -1257,20 +1231,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-03-25T16:51:44+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267181+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937208+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "75d4be9b98f05e77",
-    "title": "Experts cut through the noise to clarify AI’s actual economic impact - Stanford Report",
-    "description": "Experts cut through the noise to clarify AI’s actual economic impact Stanford Report",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFhEN1VkV3liSzJQUnc1VWlSSWNnOTNITkV0OWhKUGZHTW4xVlAxX1pzd0JSSzhsYkxOSzJvLUxQTTFkU0o2clZ1OW4xNWZUMXAwNmN5TGZWRFN3QVBQdzJLcHM0TVFYUW44Qk9XT2FPQkxydHJaODRMaklfY25ndmJNbW1xcWVEMHRaNkRfQ0s4Uy1Ec3Zycg?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-45fa4f9dfc25/1200/750",
+    "id": "9024e68816a1fe3f",
+    "title": "America Isn’t Ready for What AI Will Do to Jobs - The Atlantic",
+    "description": "America Isn’t Ready for What AI Will Do to Jobs The Atlantic",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk5WMnVUX3hETTMwa0xZYlA5M2syVWp0blppcDFvWU50c2dvV2h5ZHB1eHFfOTktVy1CSldSNHhGZVRuNThRdkVpLWRPTmRQeWRadHlmeEJHUlA3djJ2NlNWd3RMaGlHZnFPSmRKNUVwaWd4VEZEdzA1NjYxX3gtT3RyeDFRNktzLV8zemN0aDAzd19PUlE?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-cedaf997e9a1/1200/750",
     "source": "Google News AI Economy",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2025-12-04T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267239+00:00",
+    "published_at": "2026-02-10T08:00:00+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937269+00:00",
     "missing_core_fill": true
   },
   {
@@ -1283,7 +1257,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-03-03T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267285+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937316+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "75d4be9b98f05e77",
+    "title": "Experts cut through the noise to clarify AI’s actual economic impact - Stanford Report",
+    "description": "Experts cut through the noise to clarify AI’s actual economic impact Stanford Report",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFhEN1VkV3liSzJQUnc1VWlSSWNnOTNITkV0OWhKUGZHTW4xVlAxX1pzd0JSSzhsYkxOSzJvLUxQTTFkU0o2clZ1OW4xNWZUMXAwNmN5TGZWRFN3QVBQdzJLcHM0TVFYUW44Qk9XT2FPQkxydHJaODRMaklfY25ndmJNbW1xcWVEMHRaNkRfQ0s4Uy1Ec3Zycg?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-45fa4f9dfc25/1200/750",
+    "source": "Google News AI Economy",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2025-12-04T08:00:00+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937375+00:00",
     "missing_core_fill": true
   },
   {
@@ -1296,7 +1283,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-20T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267337+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937424+00:00",
     "missing_core_fill": true
   },
   {
@@ -1309,7 +1296,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-23T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267378+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937472+00:00",
     "missing_core_fill": true
   },
   {
@@ -1322,7 +1309,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-04-13T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267446+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937541+00:00",
     "missing_core_fill": true
   },
   {
@@ -1335,7 +1322,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-08T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267500+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937599+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "e716bb5d003072f5",
+    "title": "The First AI War Economy - Times Square Chronicles",
+    "description": "The First AI War Economy Times Square Chronicles",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQzdrSzI1RUdnSVNUMkZjYTJVWFRsNzVjOVdRUkVsdW1RZmU2S0ZQVkpqWk9Sc0l3cVN6SmRYbXZwNEg2d1A0T05uMlRPa2x5Vl9BdFpUVkR4bFk?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-d2c828555d66/1200/750",
+    "source": "Google News AI Economy",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-03-04T08:00:00+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937643+00:00",
     "missing_core_fill": true
   },
   {
@@ -1348,7 +1348,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-04-03T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267547+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937693+00:00",
     "missing_core_fill": true
   },
   {
@@ -1361,7 +1361,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-16T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267600+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937742+00:00",
     "missing_core_fill": true
   },
   {
@@ -1374,7 +1374,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-19T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267651+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937791+00:00",
     "missing_core_fill": true
   },
   {
@@ -1387,20 +1387,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-12T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267696+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "68d1e51b470de722",
-    "title": "Here are four ways AI and talent trends could reshape jobs by 2030 - The World Economic Forum",
-    "description": "Here are four ways AI and talent trends could reshape jobs by 2030 The World Economic Forum",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54ZVlMdHE0SnFCYUhtOUZmX1NncjBQMnoyYlpfNVM3MV9uQkpScGhRam1ULVpOQ3VrbXVJaEJDS25YRjR4Q3VLLVRiQnlNOG84eGVKSGpadEx6cjk1MVBoNC1iWnZsSmE1MUUzeEV2NDVHM2RvaGdSY3ExT0s?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-090a3234a4a6/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-01-07T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267741+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937836+00:00",
     "missing_core_fill": true
   },
   {
@@ -1413,7 +1400,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-19T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267797+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937893+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "68d1e51b470de722",
+    "title": "Here are four ways AI and talent trends could reshape jobs by 2030 - The World Economic Forum",
+    "description": "Here are four ways AI and talent trends could reshape jobs by 2030 The World Economic Forum",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54ZVlMdHE0SnFCYUhtOUZmX1NncjBQMnoyYlpfNVM3MV9uQkpScGhRam1ULVpOQ3VrbXVJaEJDS25YRjR4Q3VLLVRiQnlNOG84eGVKSGpadEx6cjk1MVBoNC1iWnZsSmE1MUUzeEV2NDVHM2RvaGdSY3ExT0s?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-090a3234a4a6/1200/750",
+    "source": "Google News AI Economy",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-01-07T08:00:00+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937940+00:00",
     "missing_core_fill": true
   },
   {
@@ -1426,7 +1426,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-02-23T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267844+00:00",
+    "fetched_at": "2026-05-20T11:05:00.937987+00:00",
     "missing_core_fill": true
   },
   {
@@ -1439,7 +1439,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-19T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267884+00:00",
+    "fetched_at": "2026-05-20T11:05:00.938049+00:00",
     "missing_core_fill": true
   },
   {
@@ -1452,7 +1452,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-12-30T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267931+00:00",
+    "fetched_at": "2026-05-20T11:05:00.938102+00:00",
     "missing_core_fill": true
   },
   {
@@ -1465,7 +1465,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-02-24T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.267975+00:00",
+    "fetched_at": "2026-05-20T11:05:00.938146+00:00",
     "missing_core_fill": true
   },
   {
@@ -1478,7 +1478,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-26T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.100441+00:00",
+    "fetched_at": "2026-05-20T11:05:00.833600+00:00",
     "missing_core_fill": true
   },
   {
@@ -1491,7 +1491,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-10-30T14:13:15+00:00",
-    "fetched_at": "2026-05-20T10:40:56.100514+00:00",
+    "fetched_at": "2026-05-20T11:05:00.833673+00:00",
     "missing_core_fill": true
   },
   {
@@ -1504,7 +1504,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-28T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.100577+00:00",
+    "fetched_at": "2026-05-20T11:05:00.833738+00:00",
     "missing_core_fill": true
   },
   {
@@ -1517,7 +1517,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-01-28T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.100662+00:00",
+    "fetched_at": "2026-05-20T11:05:00.833864+00:00",
     "missing_core_fill": true
   },
   {
@@ -1530,7 +1530,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-07-24T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.100737+00:00",
+    "fetched_at": "2026-05-20T11:05:00.833940+00:00",
     "missing_core_fill": true
   },
   {
@@ -1543,20 +1543,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-09-18T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.100792+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "1fbf29eed372bc39",
-    "title": "Generative AI: Use Cases, Applications, Solutions, and Implementation - vocal.media",
-    "description": "Generative AI: Use Cases, Applications, Solutions, and Implementation vocal.media",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY1QtMU51ZW1vLWxDSUk3Y1NWRUJyTE9uS2VCZ2plLW5mbUVsamxsVEU0c3ljN3FqemgwU2ZNSEN4dnpuZ2FObm50c1BqS0k3aU5hSXJBQkVLQ0JFdlFoenhyaldpeWJXckl2aS1WdndxTWdjeUpQS3AwTFE3NGpSdF9ybElFLTdhRzU4X2UyUlFVYjZnLS05MHlKSQ?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-6fe9702b4de9/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-08-12T06:50:36+00:00",
-    "fetched_at": "2026-05-20T10:40:56.100843+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834017+00:00",
     "missing_core_fill": true
   },
   {
@@ -1569,20 +1556,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-02-20T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.100903+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "a20c92d2362736b7",
-    "title": "C-suite leaders attribute revenue, software development boosts to AI - CIO Dive",
-    "description": "C-suite leaders attribute revenue, software development boosts to AI CIO Dive",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkNoeVlLc29MVnRYUkIxejNRRS1UQjNHd0thR0ZsS0tIdUYtZFktOVVBdlNWNXBvQUN0eXRrb1RTMUpxeW1COE9jRDNoYkQ5eWRhVUJfTVl0bld1anRhWldXVENyalhJMFU4QWlTeDRhS1hIYzJfUmlpVXkzNmVHSVUxVlRidU8yUVpPdF9Rcw?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-c8a7e794c9e1/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-07-30T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.100958+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834074+00:00",
     "missing_core_fill": true
   },
   {
@@ -1595,7 +1569,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-10-24T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.101007+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834143+00:00",
     "missing_core_fill": true
   },
   {
@@ -1608,20 +1582,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-12-19T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.101084+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "bc0ed065795992ca",
-    "title": "‘It’s going to be a big deal’: The NFL and Microsoft expand their partnership and introduce sideline technology using AI innovation - Microsoft Source",
-    "description": "‘It’s going to be a big deal’: The NFL and Microsoft expand their partnership and introduce sideline technology using AI innovation Microsoft Source",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdXFKa2pLVmk3cFFtazk4YkpEa3BkY1Z2VWdOYzNZTFBycGlGYXFWU0RvR0FZTXpPXzAzc1Q2V3lwaERVRm82SUV3dFh0TnRVOUVtM2JOalBUT3RONWViRFJpTlFvWDJZelV5bm5pTWE0Ync1eTJ5aUxmQmRILUpQTnliTnhtVHQ0ZVB0MU9TNTJiX25HVDRvY3hBY3NwZFFISTAzaEFNUHo4ZTNRbTcwMkxhTGRDdThHNDJHMEpiUEx4TkxCVk55bnRXUWloSEsxWVN4SFY2ZUhvSTlJdGpWTDNiS1VvRlcweGtQNkRkUlFjOXVRU3JBOUtpQQ?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-177b6ed733c6/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-08-20T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.101161+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834198+00:00",
     "missing_core_fill": true
   },
   {
@@ -1634,7 +1595,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-09-18T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.101218+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834255+00:00",
     "missing_core_fill": true
   },
   {
@@ -1647,7 +1608,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-03-09T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.101289+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834321+00:00",
     "missing_core_fill": true
   },
   {
@@ -1660,7 +1621,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-10-31T04:35:32+00:00",
-    "fetched_at": "2026-05-20T10:40:56.101342+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834379+00:00",
     "missing_core_fill": true
   },
   {
@@ -1673,7 +1634,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-09-03T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.101388+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834425+00:00",
     "missing_core_fill": true
   },
   {
@@ -1686,46 +1647,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-05-22T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.101447+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "1d7ddd81212f0812",
-    "title": "New AI innovations that are redefining the future for software companies - Microsoft Azure",
-    "description": "New AI innovations that are redefining the future for software companies Microsoft Azure",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcmU5d29VdUlJTGk0Ti16anI5VlRHcGFGc1JjdEJpMUNRTzlldUNiNl9HenRyZW5ROWJEeFpISlhGc0ZJak5ONDlqdGFJNEZLdzAtODA3UGpYSDJDTDA5aWlSa3Bjdmp3dzEwb2VCMjVIbHN4alg4TkhXb1Y5Q0FkeTY0NDBnZWZoZ1JZWnpRT2ZJM3lXWjdtV2ZtRmFwSW82TW1oZDgzanFVVEtPTmF0WXNR?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-89d24cb064d9/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-05-29T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.101499+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "8e256a238ae5b6a3",
-    "title": "How an AI-enabled software product development life cycle will fuel innovation - McKinsey & Company",
-    "description": "How an AI-enabled software product development life cycle will fuel innovation McKinsey & Company",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOXzA4OUxyTWRNOVZQbmVjQ3paWlJtSjlDMHlGTjljOVBjOVh5RDZYUUNfWDdCOE5pbHVZVEN1WUpSYUZKcmIyb016RWpSUDBuWVBxVTVpTm5GcGdNUC14ZjQwZWo2Z2ZwS2hqWlYyMDYxSE9Oa2JTS2Q1M212dV96LUZVZnhHTHVORUhsVHJrYnlxRE9INFJIQ2hxVkVnUTVGdWRUYlBiMjFlMmhqMUxGVGVpTlJ1dllVNVJqZkNiazM5eUpRYUhaUVhJb3lEQTN5LTYybDRHYWpSMHRIMGpGc3dwSEtfbDRlaDJnR3Q5alNBUzVyNXFfSW1VTQ?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-8481b59e3107/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-02-10T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.101551+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "23014778afb2140a",
-    "title": "The state of AI in 2025: Agents, innovation, and transformation - McKinsey & Company",
-    "description": "The state of AI in 2025: Agents, innovation, and transformation McKinsey & Company",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVkNzT2lMcURPYXQxQmh0azdzbjVrNFktNzZFLTZacnFlR2xZYXczRnI4MHh2amsya2xOOEh1QURSbFUxU0ZUWGQ5WE5kVHJtbEFJb0NOdTNVUVhPeC1iVVJOZk1VbXpwLVBuYzVod0tMVmlYbVdzNjgwcF83MTVJTWNvVFRaZw?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-ed9629dfed63/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-11-05T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.101597+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834488+00:00",
     "missing_core_fill": true
   },
   {
@@ -1738,7 +1660,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-04-04T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.101644+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834543+00:00",
     "missing_core_fill": true
   },
   {
@@ -1751,7 +1673,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-12-10T08:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.101684+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834588+00:00",
     "missing_core_fill": true
   },
   {
@@ -1764,7 +1686,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2025-03-31T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.101730+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834637+00:00",
     "missing_core_fill": true
   },
   {
@@ -1777,8 +1699,98 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-04-09T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:40:56.101776+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834685+00:00",
     "missing_core_fill": true
+  },
+  {
+    "id": "1d7ddd81212f0812",
+    "title": "New AI innovations that are redefining the future for software companies - Microsoft Azure",
+    "description": "New AI innovations that are redefining the future for software companies Microsoft Azure",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcmU5d29VdUlJTGk0Ti16anI5VlRHcGFGc1JjdEJpMUNRTzlldUNiNl9HenRyZW5ROWJEeFpISlhGc0ZJak5ONDlqdGFJNEZLdzAtODA3UGpYSDJDTDA5aWlSa3Bjdmp3dzEwb2VCMjVIbHN4alg4TkhXb1Y5Q0FkeTY0NDBnZWZoZ1JZWnpRT2ZJM3lXWjdtV2ZtRmFwSW82TW1oZDgzanFVVEtPTmF0WXNR?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-89d24cb064d9/1200/750",
+    "source": "Google News Technology Business",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2025-05-29T07:00:00+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834737+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "8e256a238ae5b6a3",
+    "title": "How an AI-enabled software product development life cycle will fuel innovation - McKinsey & Company",
+    "description": "How an AI-enabled software product development life cycle will fuel innovation McKinsey & Company",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOXzA4OUxyTWRNOVZQbmVjQ3paWlJtSjlDMHlGTjljOVBjOVh5RDZYUUNfWDdCOE5pbHVZVEN1WUpSYUZKcmIyb016RWpSUDBuWVBxVTVpTm5GcGdNUC14ZjQwZWo2Z2ZwS2hqWlYyMDYxSE9Oa2JTS2Q1M212dV96LUZVZnhHTHVORUhsVHJrYnlxRE9INFJIQ2hxVkVnUTVGdWRUYlBiMjFlMmhqMUxGVGVpTlJ1dllVNVJqZkNiazM5eUpRYUhaUVhJb3lEQTN5LTYybDRHYWpSMHRIMGpGc3dwSEtfbDRlaDJnR3Q5alNBUzVyNXFfSW1VTQ?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-8481b59e3107/1200/750",
+    "source": "Google News Technology Business",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2025-02-10T08:00:00+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834792+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "64f951c590a16c78",
+    "title": "Is secure AI the smartest tool in a leader’s innovation kit? - Raconteur",
+    "description": "Is secure AI the smartest tool in a leader’s innovation kit? Raconteur",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYWU5LVlkZ09IcktodDFvUW1iazdCdWZRUGNkTUhBbmJkd29jcFptMkZaeXlvMG40aTlNLS0zaHQyYTVyVXplTUF3cUZDSGNjWnhpVXU5OURKTDZ4U0RfRXF1TGx6UnRuY2dSbU8zbFNUa05FVXN0ZkxNVFVvQlJNX1FBZE1UWmF4Ti1YWW9hVl9GUWxwQ2NrM3VfYw?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-26a49b8bb3c3/1200/750",
+    "source": "Google News Technology Business",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2025-05-27T08:17:25+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834848+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "556707fd90a7d2fd",
+    "title": "Which Software Companies Will Benefit from AI? - Goldman Sachs",
+    "description": "Which Software Companies Will Benefit from AI? Goldman Sachs",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcy1sUXpaQXQwWW16RFN1aWFxY2ZwTjFXQ2ZIZ0xHcW91LXJHUUJvZ2R6T1B5UW1Ub3BITldWNVhyRktGZFJUb09Qa0drQVhmNjBubnZUS2hDV3F2OXd3c3NhVzRvQ1JXZzZpc3l4TVRQR0RvcUNuMlhaenJWenptZGt5S2ljdlM5ejBwWlRzWDNScXZXVFlF?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-26ade4539603/1200/750",
+    "source": "Google News Technology Business",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-02-18T08:00:00+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834892+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "b4889d513a4de503",
+    "title": "Why AI’s leap calls for new gear - PwC",
+    "description": "Why AI’s leap calls for new gear PwC",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tNWs1bzV6T3Vhb0twZVdheGd4RXo4eC1NVnF3cndfd19uQ244dVJDak1wb1JKbm5RSjl4UjV6ZXVsMmxpV0taM0dvRHdnMWRIeVREUkg0dWxpQW1KWWdhNXVuYkZ6SWNuXzIyQ1NjOG1sSE0?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-15d7566ac90f/1200/750",
+    "source": "Google News Technology Business",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2025-04-03T10:46:59+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834944+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "1dd85a133c610e6a",
+    "title": "5 AI Trends Shaping Innovation and ROI in 2025 - Morgan Stanley",
+    "description": "5 AI Trends Shaping Innovation and ROI in 2025 Morgan Stanley",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGFUUjBPN0pDaG1MSUc0UTV2VDl3ZjJxMkVfQ3B6SzhKRFp2Q1J4OEdJaFVHbjFJdlBJSmRIMDBEbmNWWjhQdXIzNDlxdmxWMUhHc2wtalVXVGJnZHc4UzBxNHhiYjI3aEVZcU04czVhWTBYS0tVZWZqSl9Cb25ocHNrVk00Tm14RnlYY0xnRDJyeHQ0X3JZ?oc=5",
+    "image": "https://picsum.photos/seed/wv-fill-72b17eb41348/1200/750",
+    "source": "Google News Technology Business",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2025-03-20T07:00:00+00:00",
+    "fetched_at": "2026-05-20T11:05:00.834991+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "5f175cf29cdde16c",
+    "title": "GitHub says internal repos exfiltrated after poisoned VS Code extension attack",
+    "description": "Initial assessment says customer data spared while users wonder what else may have slipped out",
+    "url": "https://www.theregister.com/devops/2026/05/20/github-says-internal-repos-exfiltrated-after-poisoned-vs-code-extension-attack/5243206",
+    "image": "https://image.theregister.com/?imageId=5241973&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-20T10:27:44+00:00",
+    "fetched_at": "2026-05-20T11:01:14.616899+00:00"
   },
   {
     "id": "d8f4d66dd46faced",
@@ -1790,7 +1802,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-20T10:00:47+00:00",
-    "fetched_at": "2026-05-20T10:37:29.860323+00:00"
+    "fetched_at": "2026-05-20T11:01:14.855240+00:00"
   },
   {
     "id": "dc9617c6b53be885",
@@ -1802,7 +1814,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-20T10:00:00+00:00",
-    "fetched_at": "2026-05-20T10:37:28.204323+00:00"
+    "fetched_at": "2026-05-20T11:01:13.235619+00:00"
   },
   {
     "id": "df3e2806857ee51a",
@@ -1814,7 +1826,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-20T09:54:25+00:00",
-    "fetched_at": "2026-05-20T10:37:29.671120+00:00"
+    "fetched_at": "2026-05-20T11:01:14.616975+00:00"
   },
   {
     "id": "a6d0371d36e436e0",
@@ -1826,7 +1838,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-20T09:15:00+00:00",
-    "fetched_at": "2026-05-20T10:37:29.671190+00:00"
+    "fetched_at": "2026-05-20T11:01:14.617071+00:00"
   },
   {
     "id": "fc4d17e4662c61b7",
@@ -1838,7 +1850,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-20T09:11:23+00:00",
-    "fetched_at": "2026-05-20T10:37:28.412271+00:00"
+    "fetched_at": "2026-05-20T11:01:13.516345+00:00"
   },
   {
     "id": "dbb77472d2afa2f4",
@@ -1850,7 +1862,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-20T09:00:00+00:00",
-    "fetched_at": "2026-05-20T10:37:28.204398+00:00"
+    "fetched_at": "2026-05-20T11:01:13.235699+00:00"
   },
   {
     "id": "2ab9ff6cc307e4aa",
@@ -1862,7 +1874,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-20T08:55:45+00:00",
-    "fetched_at": "2026-05-20T10:37:28.412338+00:00"
+    "fetched_at": "2026-05-20T11:01:13.516415+00:00"
   },
   {
     "id": "31f2c10141226930",
@@ -1887,7 +1899,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-20T08:30:39+00:00",
-    "fetched_at": "2026-05-20T10:37:29.860392+00:00"
+    "fetched_at": "2026-05-20T11:01:14.855322+00:00"
   },
   {
     "id": "deb8732e1ac50d20",
@@ -1899,7 +1911,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-20T08:30:00+00:00",
-    "fetched_at": "2026-05-20T10:37:29.671247+00:00"
+    "fetched_at": "2026-05-20T11:01:14.617128+00:00"
   },
   {
     "id": "b358c7d5927df61b",
@@ -1911,7 +1923,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-20T08:23:48+00:00",
-    "fetched_at": "2026-05-20T10:37:29.671302+00:00"
+    "fetched_at": "2026-05-20T11:01:14.617183+00:00"
   },
   {
     "id": "8cd8330456179b60",
@@ -1923,7 +1935,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-20T08:00:35+00:00",
-    "fetched_at": "2026-05-20T10:37:29.860454+00:00"
+    "fetched_at": "2026-05-20T11:01:14.855386+00:00"
   },
   {
     "id": "bb625b56157352cf",
@@ -1935,7 +1947,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-20T07:00:00+00:00",
-    "fetched_at": "2026-05-20T10:37:28.412399+00:00"
+    "fetched_at": "2026-05-20T11:01:13.516477+00:00"
   },
   {
     "id": "e65de1e6b8904cb2",
@@ -1947,7 +1959,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-20T06:21:07+00:00",
-    "fetched_at": "2026-05-20T10:37:29.671353+00:00"
+    "fetched_at": "2026-05-20T11:01:14.617234+00:00"
   },
   {
     "id": "4a25a89d9dbc5cff",
@@ -1959,7 +1971,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-20T05:05:00+00:00",
-    "fetched_at": "2026-05-20T10:37:29.860510+00:00"
+    "fetched_at": "2026-05-20T11:01:14.855444+00:00"
   },
   {
     "id": "d6f7d4d7f38f8930",
@@ -1971,7 +1983,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-20T05:00:00+00:00",
-    "fetched_at": "2026-05-20T10:37:28.204453+00:00"
+    "fetched_at": "2026-05-20T11:01:13.235755+00:00"
   },
   {
     "id": "7e111e94a2a849af",
@@ -1983,7 +1995,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-20T05:00:00+00:00",
-    "fetched_at": "2026-05-20T10:37:28.204503+00:00"
+    "fetched_at": "2026-05-20T11:01:13.235808+00:00"
   },
   {
     "id": "98c6d38ba6bcfbfa",
@@ -1995,7 +2007,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-20T05:00:00+00:00",
-    "fetched_at": "2026-05-20T10:37:28.204553+00:00"
+    "fetched_at": "2026-05-20T11:01:13.235860+00:00"
   },
   {
     "id": "a4f8c782d42d0d4a",
@@ -2007,7 +2019,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-20T05:00:00+00:00",
-    "fetched_at": "2026-05-20T10:37:28.204605+00:00"
+    "fetched_at": "2026-05-20T11:01:13.235916+00:00"
   },
   {
     "id": "a90a7478b254865f",
@@ -2019,7 +2031,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-20T05:00:00+00:00",
-    "fetched_at": "2026-05-20T10:37:28.204654+00:00"
+    "fetched_at": "2026-05-20T11:01:13.235967+00:00"
   },
   {
     "id": "467838545ea0466b",
@@ -2031,7 +2043,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-20T05:00:00+00:00",
-    "fetched_at": "2026-05-20T10:37:28.204701+00:00"
+    "fetched_at": "2026-05-20T11:01:13.236040+00:00"
   },
   {
     "id": "f0b18f87631ae5ed",
@@ -2043,7 +2055,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-20T05:00:00+00:00",
-    "fetched_at": "2026-05-20T10:37:28.204749+00:00"
+    "fetched_at": "2026-05-20T11:01:13.236095+00:00"
   },
   {
     "id": "9b18c0ee6a3aa448",
@@ -2055,7 +2067,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-20T04:37:43+00:00",
-    "fetched_at": "2026-05-20T10:37:29.671403+00:00"
+    "fetched_at": "2026-05-20T11:01:14.617284+00:00"
   },
   {
     "id": "21d2f51b74f60f9b",
@@ -2067,7 +2079,19 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-20T04:12:18+00:00",
-    "fetched_at": "2026-05-20T10:37:28.412455+00:00"
+    "fetched_at": "2026-05-20T11:01:13.516536+00:00"
+  },
+  {
+    "id": "0c542d8a4615a00f",
+    "title": "Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds - The Verge",
+    "description": "Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds The Verge",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQnY4SmZqbE1jX0U4OTNuN1hDQmE0VjhhZWVVNTNjSm5qa202eDVjREtDM0RQX1RhVDFSQldOVGc5MUFHa0o4NzJzeUg5b3NndU1oNktpeVQyTm5wLXdvazVOMlZ3ZDV1U2NiSnJmOHJDbjZrbnQxT0FWeE1YZmJuUk9Zdw?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-efaca6f8d32d/1200/750",
+    "source": "The Verge Technology - Google News",
+    "source_id": "global-extra-020",
+    "category": "tehnologija",
+    "published_at": "2026-05-20T03:30:00+00:00",
+    "fetched_at": "2026-05-20T11:02:06.223334+00:00"
   },
   {
     "id": "3f74fbb1d35a39b2",
@@ -2079,7 +2103,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-20T01:17:28+00:00",
-    "fetched_at": "2026-05-20T10:37:29.671458+00:00"
+    "fetched_at": "2026-05-20T11:01:14.617340+00:00"
   },
   {
     "id": "52bd1afbd88b0592",
@@ -2091,7 +2115,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-20T00:00:00+00:00",
-    "fetched_at": "2026-05-20T10:37:30.902450+00:00"
+    "fetched_at": "2026-05-20T11:01:15.900341+00:00"
   },
   {
     "id": "e641fdf2975a3941",
@@ -2103,7 +2127,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-19T23:05:18+00:00",
-    "fetched_at": "2026-05-20T10:37:29.671513+00:00"
+    "fetched_at": "2026-05-20T11:01:14.617396+00:00"
   },
   {
     "id": "141558188d92aafa",
@@ -2141,7 +2165,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-19T22:53:04+00:00",
-    "fetched_at": "2026-05-20T10:37:28.204799+00:00"
+    "fetched_at": "2026-05-20T11:01:13.236147+00:00"
   },
   {
     "id": "41930ded3d6199a7",
@@ -2153,7 +2177,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-19T22:43:13+00:00",
-    "fetched_at": "2026-05-20T10:37:28.412509+00:00"
+    "fetched_at": "2026-05-20T11:01:13.516590+00:00"
   },
   {
     "id": "7523e7218355894e",
@@ -2165,7 +2189,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-19T22:31:03+00:00",
-    "fetched_at": "2026-05-20T10:37:28.412559+00:00"
+    "fetched_at": "2026-05-20T11:01:13.516640+00:00"
   },
   {
     "id": "cd3f1f16ea8e7ed5",
@@ -2177,7 +2201,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-19T22:20:37+00:00",
-    "fetched_at": "2026-05-20T10:37:28.204855+00:00"
+    "fetched_at": "2026-05-20T11:01:13.236205+00:00"
   },
   {
     "id": "c413927d5805bdf1",
@@ -2189,7 +2213,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-19T22:15:00+00:00",
-    "fetched_at": "2026-05-20T10:37:29.671566+00:00"
+    "fetched_at": "2026-05-20T11:01:14.617453+00:00"
   },
   {
     "id": "52d4126e3b0c00ae",
@@ -2201,7 +2225,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-19T21:56:18+00:00",
-    "fetched_at": "2026-05-20T10:37:29.671618+00:00"
+    "fetched_at": "2026-05-20T11:01:14.617528+00:00"
   },
   {
     "id": "5fbcb8c22db62638",
@@ -2213,7 +2237,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-19T21:45:17+00:00",
-    "fetched_at": "2026-05-20T10:37:28.412610+00:00"
+    "fetched_at": "2026-05-20T11:01:13.516690+00:00"
   },
   {
     "id": "c4b30670a748a86e",
@@ -2225,7 +2249,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-19T21:09:13+00:00",
-    "fetched_at": "2026-05-20T10:37:29.671694+00:00"
+    "fetched_at": "2026-05-20T11:01:14.617582+00:00"
   },
   {
     "id": "2052b6a928dc3df9",
@@ -2249,7 +2273,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-19T20:30:00+00:00",
-    "fetched_at": "2026-05-20T10:37:30.902518+00:00"
+    "fetched_at": "2026-05-20T11:01:15.900411+00:00"
   },
   {
     "id": "bc6eca895b58fd09",
@@ -2261,7 +2285,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-19T20:15:15+00:00",
-    "fetched_at": "2026-05-20T10:37:28.412683+00:00"
+    "fetched_at": "2026-05-20T11:01:13.516764+00:00"
   },
   {
     "id": "600439bf88a0e23a",
@@ -2273,7 +2297,31 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-19T20:00:48+00:00",
-    "fetched_at": "2026-05-20T10:37:28.204905+00:00"
+    "fetched_at": "2026-05-20T11:01:13.236256+00:00"
+  },
+  {
+    "id": "d7ada7f10cb194c5",
+    "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses - WIRED",
+    "description": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses WIRED",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93aUhUZmNKc1JRT2xuYkM5YUdlNUNFWDd5ay1aSXZ0SXFuWmgyWF9XQ1BlTlBkSDRTcFJVeFhneC05NmNRa0FITUExR0tOdGdtNGpXRThiblhBZ2hCbm02NWl3U2d2cUR4NGJON214YjNUYVUyVG5MZ2xUQjQtZ2M?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-bb3c6b33427a/1200/750",
+    "source": "Wired Technology - Google News",
+    "source_id": "global-extra-019",
+    "category": "tehnologija",
+    "published_at": "2026-05-19T20:00:00+00:00",
+    "fetched_at": "2026-05-20T11:02:05.719965+00:00"
+  },
+  {
+    "id": "5f075dfd0024ab70",
+    "title": "Plex’s 200% Lifetime Pass price hike tries forcing users to another subscription - Ars Technica",
+    "description": "Plex’s 200% Lifetime Pass price hike tries forcing users to another subscription Ars Technica",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX241UnRpT0Frc0x4dDBBcFY4TW5ueHVkZWNZMzFNMmtNYmJkVjRfU0Jrc3JoR1l4VWVrMW9ZanNtRkV3eC1kUVdDUHpPb0tRSXA4V0hRMnZ2U2xpRHFnUV9EczV5S053bTVEb01YdVNteVRiaUpQd2FWS1BMaEU2QloyU1Y2aFBpMi1XaGp4TlNjM1NuZ21Ra1YwWnV4VmgzWEVtZ3Y4Z09NUHh2QjNBVzhwM19HSHhBdFBJ?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-db2b7d0cc5c8/1200/750",
+    "source": "Ars Technica - Google News",
+    "source_id": "global-extra-021",
+    "category": "tehnologija",
+    "published_at": "2026-05-19T19:52:01+00:00",
+    "fetched_at": "2026-05-20T11:02:06.672598+00:00"
   },
   {
     "id": "11468ef09f79c375",
@@ -2285,7 +2333,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-19T19:51:44+00:00",
-    "fetched_at": "2026-05-20T10:37:28.412733+00:00"
+    "fetched_at": "2026-05-20T11:01:13.516817+00:00"
   },
   {
     "id": "b55337ad52e613c4",
@@ -2309,7 +2357,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-19T19:39:49+00:00",
-    "fetched_at": "2026-05-20T10:37:28.412781+00:00"
+    "fetched_at": "2026-05-20T11:01:13.516868+00:00"
   },
   {
     "id": "25741243b88eb2e8",
@@ -2321,7 +2369,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-19T19:38:26+00:00",
-    "fetched_at": "2026-05-20T10:37:29.860564+00:00"
+    "fetched_at": "2026-05-20T11:01:14.855501+00:00"
   },
   {
     "id": "243cb02ce6aaf31e",
@@ -2333,7 +2381,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-19T19:36:33+00:00",
-    "fetched_at": "2026-05-20T10:37:28.412831+00:00"
+    "fetched_at": "2026-05-20T11:01:13.516921+00:00"
   },
   {
     "id": "55b754e65ccb694e",
@@ -2462,7 +2510,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-19T19:00:48+00:00",
-    "fetched_at": "2026-05-20T10:37:29.860620+00:00"
+    "fetched_at": "2026-05-20T11:01:14.855561+00:00"
   },
   {
     "id": "11936e1bdc5568b3",
@@ -2475,6 +2523,30 @@
     "category": "tehnologija",
     "published_at": "2026-05-19T19:00:46+00:00",
     "fetched_at": "2026-05-20T09:43:01.400800+00:00"
+  },
+  {
+    "id": "61841de12f578ca5",
+    "title": "Google’s SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more - Ars Technica",
+    "description": "Google’s SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more Ars Technica",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdlYzcVU2ZV8zSWhBcElKVE0ycnB4MFROcFNCLUJCNnFGcC12eEhDQ3puMy1kOHBWM1F0TlNFSnNCak5lV1BUd1phYlM5VlVudFd3dkN2VF8zaHpuQVFlaldReHBPaU1SUDdvV09XT2tPWXdaWFJrSkwzTjV2Mzk4V0hkVmJBd1lxVWotTFpZOFhxemlBd25aamo3aWRlTjZlRHRjSmNJZExjbUJIOUhfei1YZFFVbFBmM2Nv?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-0c75eeb816d7/1200/750",
+    "source": "Ars Technica - Google News",
+    "source_id": "global-extra-021",
+    "category": "tehnologija",
+    "published_at": "2026-05-19T18:37:02+00:00",
+    "fetched_at": "2026-05-20T11:02:06.672340+00:00"
+  },
+  {
+    "id": "e9218403fce9393a",
+    "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo - Ars Technica",
+    "description": "In stunning display of stupid, secret CISA credentials found in public GitHub repo Ars Technica",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbHlneHpqTnNoUF9xMFYtbndtcTU5bVFXT3daMHdYWXpLQ19jNWJhRFhucl9tbGlZVnplamM0Unc3VTJwci0yOWtpRGhoNGh2c2NTSk5hUTgtblFqT2M4bFJxUE9wTXQydTZJQ2RfZlZYWHI5el91N2tDczdpdVJCTVlKcDBWSDVjSUwtTFlNODQwRk1YR3RfSjkwSjR6OC1lem95UVZ4eVNpNTgzOVpjb3psZlpPZGREUjJUbHFvM05GYUZxRmkwMGxkMVlZZEZadV9V?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-e4d58ea41a70/1200/750",
+    "source": "Ars Technica - Google News",
+    "source_id": "global-extra-021",
+    "category": "tehnologija",
+    "published_at": "2026-05-19T18:27:08+00:00",
+    "fetched_at": "2026-05-20T11:02:06.672161+00:00"
   },
   {
     "id": "42005683bd66674c",
@@ -2500,6 +2572,18 @@
     "category": "tehnologija",
     "published_at": "2026-05-19T18:20:00+00:00",
     "fetched_at": "2026-05-20T09:43:02.867860+00:00"
+  },
+  {
+    "id": "1a7415d1afb61981",
+    "title": "Gemini 3.5 Flash might be fast enough for gen AI to make sense - Ars Technica",
+    "description": "Gemini 3.5 Flash might be fast enough for gen AI to make sense Ars Technica",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMXZwMFhFYXNDczQ5UGl4OFRZQkdla043UzhlZUNreHFhZTJ1a1ZiNVRyQUs4WEd6N3Y2a3NWYVVLTnFMY2JzZTlscHFMSGh0czc4TEZkRlJIOXduMzJIUGczdzR1UUl1UEFmRTJwSTk4eWh5S2M3TjhZYW9jelRUZG5IeGRNZXZMTDFZTjRzRmpaX003NkJ5b2JzQlRUeUg5ZFBsNmd3c3h2VktVZ1dtajczaGMxRHYzUXhvOWZJNC10ck0?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-8bc3263f8abe/1200/750",
+    "source": "Ars Technica - Google News",
+    "source_id": "global-extra-021",
+    "category": "tehnologija",
+    "published_at": "2026-05-19T18:11:50+00:00",
+    "fetched_at": "2026-05-20T11:02:06.672753+00:00"
   },
   {
     "id": "40593a21577bcb59",
@@ -2560,7 +2644,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:36+00:00",
-    "fetched_at": "2026-05-20T10:37:29.860674+00:00"
+    "fetched_at": "2026-05-20T11:01:14.855618+00:00"
   },
   {
     "id": "3bba2c2ae1ee6469",
@@ -2572,7 +2656,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:37:29.860729+00:00"
+    "fetched_at": "2026-05-20T11:01:14.855677+00:00"
   },
   {
     "id": "cb39d9d6a76cf082",
@@ -2584,7 +2668,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:37:29.860786+00:00"
+    "fetched_at": "2026-05-20T11:01:14.855735+00:00"
   },
   {
     "id": "cc2e1a7eba3d5df4",
@@ -2596,7 +2680,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:37:29.860840+00:00"
+    "fetched_at": "2026-05-20T11:01:14.855793+00:00"
   },
   {
     "id": "6d51bfddb5e8b88e",
@@ -2608,7 +2692,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:37:30.468835+00:00"
+    "fetched_at": "2026-05-20T11:01:15.463131+00:00"
   },
   {
     "id": "0f83d7a2aacab3b6",
@@ -2620,7 +2704,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:37:30.468897+00:00"
+    "fetched_at": "2026-05-20T11:01:15.463198+00:00"
   },
   {
     "id": "0d67a063bbeb8322",
@@ -2632,7 +2716,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:37:30.468949+00:00"
+    "fetched_at": "2026-05-20T11:01:15.463254+00:00"
   },
   {
     "id": "b10a3315fabbf48c",
@@ -2644,7 +2728,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:37:30.468999+00:00"
+    "fetched_at": "2026-05-20T11:01:15.463307+00:00"
   },
   {
     "id": "037aba4678d338b5",
@@ -2656,7 +2740,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:37:30.469074+00:00"
+    "fetched_at": "2026-05-20T11:01:15.463357+00:00"
   },
   {
     "id": "38285294e2e45ef9",
@@ -2668,7 +2752,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:37:30.469124+00:00"
+    "fetched_at": "2026-05-20T11:01:15.463406+00:00"
   },
   {
     "id": "2a47c92906159198",
@@ -2680,7 +2764,67 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-20T10:37:30.469171+00:00"
+    "fetched_at": "2026-05-20T11:01:15.463457+00:00"
+  },
+  {
+    "id": "ded5947b656d0e43",
+    "title": "Google is trying to make deepfake detection more accessible for everyone - The Verge",
+    "description": "Google is trying to make deepfake detection more accessible for everyone The Verge",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdXBsZUNlRmFHTGR5UW9USnlvUlAwQWlYb1dsbWh6WEdaVHFUQ1pOTUszWG9oN0lBejROcHJJZEJOSmN2TWVYSnVtMVNDUFkwMld5Z3VLTVExSE1CLVRqc2hlSnlHaTRfejNfNEs0dGlEZUZKakdyUm5nLTJ0ejBaa2Vod0IwVWJPOXlsVnJyMA?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-20784b53110b/1200/750",
+    "source": "The Verge Technology - Google News",
+    "source_id": "global-extra-020",
+    "category": "tehnologija",
+    "published_at": "2026-05-19T17:45:00+00:00",
+    "fetched_at": "2026-05-20T11:02:06.223246+00:00"
+  },
+  {
+    "id": "7718392a85e13a8e",
+    "title": "Would you let robots spend your money? Google is betting on it - The Verge",
+    "description": "Would you let robots spend your money? Google is betting on it The Verge",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMFlpZWtVamZiWkhmUXEzUXRJNVJmVHRoVHJEcEljSDJZRk9teE5uWXAwUjRSeTdOczBta2YxWUlLVlRFOE5Xd2NweU1ZZlROMWhGNW9yV0dNdHJDTi01bjNiOG96WVJCSDFrcWFTa1ZwXy1sWVhaRTdFcUhMdGxXWDFkdDMwdnND?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-6bfe5b4c8301/1200/750",
+    "source": "The Verge Technology - Google News",
+    "source_id": "global-extra-020",
+    "category": "tehnologija",
+    "published_at": "2026-05-19T17:45:00+00:00",
+    "fetched_at": "2026-05-20T11:02:06.223410+00:00"
+  },
+  {
+    "id": "5e1387faef99370d",
+    "title": "Gemini is getting a redesign and an even smarter new model - The Verge",
+    "description": "Gemini is getting a redesign and an even smarter new model The Verge",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRTFuMkEtTUtDRjlpV2Y5S3g0anNicjRKdzQxTDFoNjJ6eDNSLThBa08yTFQ4ekZ1TnUxTExoTF9UeUQ2MkVuTHdmNE43NVpuYTE4MkpPTVQwc3lwZ2lBM0FLWUlWSmJlZUxCQlYyemVjWEdwdDB3ZExEY05NWjQwNVZqUW5LY1U?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-55716c6cf98d/1200/750",
+    "source": "The Verge Technology - Google News",
+    "source_id": "global-extra-020",
+    "category": "tehnologija",
+    "published_at": "2026-05-19T17:45:00+00:00",
+    "fetched_at": "2026-05-20T11:02:06.223580+00:00"
+  },
+  {
+    "id": "865d09cae5b5e25d",
+    "title": "Gmail is going to start talking to you - The Verge",
+    "description": "Gmail is going to start talking to you The Verge",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcDZIdjR5SFVZMWRTbEZMYmRoelFrTVIybUxOMjVYOXN0WmhLRGxXTlk0U1N6OVZoeXhqUXJZbEJYMnJwcnJMcWNVRGpvQTlQX2F2bjU1S2pHTWhTU2pWcDkwSlk2VDRlVlNLU2VEY0dRTW5ESDRNalFyMDZBcWdsZw?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-da0937540304/1200/750",
+    "source": "The Verge Technology - Google News",
+    "source_id": "global-extra-020",
+    "category": "tehnologija",
+    "published_at": "2026-05-19T17:45:00+00:00",
+    "fetched_at": "2026-05-20T11:02:06.223652+00:00"
+  },
+  {
+    "id": "bf0be26a7ffac0c4",
+    "title": "Gemini Omni is a new family of AI models meant to ‘create anything’ - The Verge",
+    "description": "Gemini Omni is a new family of AI models meant to ‘create anything’ The Verge",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZEwyY2tVRDdZWkt5eThsQ0d5c3B1a0JISVZPcVpnZ0lSYTNFaWhwcXF1NWQ3NU5XbTVVNGFEYk8ybm9ENmhJVlhudm9QVGd5ZHc4ZnloQ2Nna29ERzhOZ1JvVXNHVEV2X3U2Z2xLUUtET0xEdFV3MVVpY1M2MHVXck5xOUFJUk1zRk9iXw?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-211b7c2a8476/1200/750",
+    "source": "The Verge Technology - Google News",
+    "source_id": "global-extra-020",
+    "category": "tehnologija",
+    "published_at": "2026-05-19T17:45:00+00:00",
+    "fetched_at": "2026-05-20T11:02:06.223736+00:00"
   },
   {
     "id": "67bf07a2984243bc",
@@ -3141,7 +3285,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-19T16:02:00+00:00",
-    "fetched_at": "2026-05-20T10:37:29.860891+00:00"
+    "fetched_at": "2026-05-20T11:01:14.855845+00:00"
   },
   {
     "id": "2773779b6d2446b0",
@@ -3153,7 +3297,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-19T16:00:00+00:00",
-    "fetched_at": "2026-05-20T10:37:29.860943+00:00"
+    "fetched_at": "2026-05-20T11:01:14.855902+00:00"
   },
   {
     "id": "fb3034868de73a09",
@@ -3388,7 +3532,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-19T13:00:00+00:00",
-    "fetched_at": "2026-05-20T10:37:31.416421+00:00"
+    "fetched_at": "2026-05-20T11:01:16.420871+00:00"
   },
   {
     "id": "e73679d21e55b35f",
@@ -3626,141 +3770,5 @@
     "published_at": "2026-05-19T11:49:14.762105+00:00",
     "fetched_at": "2026-05-19T11:49:14.762109+00:00",
     "missing_core_fill": true
-  },
-  {
-    "id": "633a7b86857fb5e7",
-    "title": "Google I/O 2026: How to watch and what to expect",
-    "description": "Google's annual developer conference has arrived. We're expecting plenty of updates to Gemini, Search, and every other product that Google has stuffed AI inside of. The keynote kicks off later today - here's what to expect. When Google I/O will happen and where you can watch it Google I/O starts at 10AM PT / 1PM […]",
-    "url": "https://www.theverge.com/tech/932939/google-io-2026-how-to-watch",
-    "image": "https://picsum.photos/seed/wv-fill-29573a122b97/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-19T11:49:14.762029+00:00",
-    "fetched_at": "2026-05-19T11:49:14.762032+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "5e7e21e5a1060fab",
-    "title": "Xbox fans want exclusives, more backward compatibility, and free online multiplayer",
-    "description": "Microsoft launched a new Xbox Player Voice portal yesterday, aiming to collect feedback from fans and \"make it more visible.\" It certainly hasn't taken long for Xbox fans to make their feedback very clear. The most upvoted feedback on Xbox Player Voice demands exclusive games for Xbox consoles, more backward compatible games, and free online […]",
-    "url": "https://www.theverge.com/games/933328/xbox-fan-feedback-exclusives-backward-compatibility-online-multiplayer",
-    "image": "https://picsum.photos/seed/wv-fill-f6d0920375a3/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-19T11:49:14.761957+00:00",
-    "fetched_at": "2026-05-19T11:49:14.761968+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "676119b22b366605",
-    "title": "Elon Musk loses his case against Sam Altman",
-    "description": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
-    "image": "https://picsum.photos/seed/wv-fill-803d040148a0/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-19T11:26:39.809336+00:00",
-    "fetched_at": "2026-05-19T11:26:39.809339+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "1628bcbb23a91937",
-    "title": "Crook leaks 468k+ records, claims they pwned Portugal’s postal carrier",
-    "description": "Ordered packages via CTT? Those phishing emails could be tricky to spot",
-    "url": "https://www.theregister.com/cyber-crime/2026/05/19/468k-records-allegedly-stolen-from-portugals-postal-carrier/5242457",
-    "image": "https://image.theregister.com/?imageId=5242479&width=800",
-    "source": "The Register",
-    "source_id": "src-068",
-    "category": "tehnologija",
-    "published_at": "2026-05-19T11:20:00+00:00",
-    "fetched_at": "2026-05-19T19:29:58.423457+00:00"
-  },
-  {
-    "id": "bbaa52754a1d6000",
-    "title": "I used Motorola's version of DeX with my Razr Fold, and it's nearly replaced my laptop",
-    "description": "Motorola's Smart Connect software is superb, and gives me a wonderful option for working away from my desk. Here's how it works.",
-    "url": "https://www.zdnet.com/article/motorola-smart-connect-razr-fold-hands-on/",
-    "image": "https://picsum.photos/seed/wv-news-0c303c43d396/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-19T11:00:46+00:00",
-    "fetched_at": "2026-05-19T18:29:29.264159+00:00"
-  },
-  {
-    "id": "4abcd86d92ff3fb9",
-    "title": "The Herman Miller Coyl Standing Desk Is Built Just for Gamers",
-    "description": "",
-    "url": "https://www.wired.com/story/exclusive-herman-miller-coyl-standing-desk-for-gamers/",
-    "image": "https://media.wired.com/photos/6a0b7e3cffc895e9e1d06f36/master/pass/gear_HMG_COYL_HeroStill_Desk_03_02.jpg",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-19T11:00:00+00:00",
-    "fetched_at": "2026-05-19T22:50:49.954049+00:00"
-  },
-  {
-    "id": "178639121674b921",
-    "title": "The US Built a Site to Ensure Fair Access to Public Lands. Then Everything Went Wrong",
-    "description": "",
-    "url": "https://www.wired.com/story/the-us-built-a-site-to-ensure-fair-access-to-public-lands-then-everything-went-wrong/",
-    "image": "https://media.wired.com/photos/69e7a60dcf619515a9f24771/master/pass/science_recreation_gov.jpg",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-19T11:00:00+00:00",
-    "fetched_at": "2026-05-19T19:29:56.000887+00:00"
-  },
-  {
-    "id": "ebf858a8fd570ecd",
-    "title": "1 in 5 Brits think AI layoffs could trigger civil unrest",
-    "description": "UK folk increasingly don't believe AI jobs revolution will end in prosperity for anyone outside the boardroom, say researchers",
-    "url": "https://www.theregister.com/ai-ml/2026/05/19/1-in-5-brits-think-ai-layoffs-could-trigger-civil-unrest/5242444",
-    "image": "https://image.theregister.com/?imageId=5242456&width=800",
-    "source": "The Register",
-    "source_id": "src-068",
-    "category": "tehnologija",
-    "published_at": "2026-05-19T10:59:00+00:00",
-    "fetched_at": "2026-05-19T18:29:29.084885+00:00"
-  },
-  {
-    "id": "4f1431164463c271",
-    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-    "description": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
-    "url": "https://openai.com/index/advancing-content-provenance",
-    "image": "https://picsum.photos/seed/wv-news-a8b1ae45805c/1200/750",
-    "source": "OpenAI News",
-    "source_id": "src-072",
-    "category": "tehnologija",
-    "published_at": "2026-05-19T10:45:00+00:00",
-    "fetched_at": "2026-05-20T10:37:30.902577+00:00"
-  },
-  {
-    "id": "66e637c766c75775",
-    "title": "Google is rolling out its redesigned Workspace app icons",
-    "description": "It's not just you - the Google Workspace apps are getting a new look. The redesigned app icons, leaked last month, are now rolling out widely, as we started noticing this morning. Users with the redesigned icons will notice they now have a gradient look that fades from lighter to darker shades, rather than being […]",
-    "url": "https://www.theverge.com/tech/932417/google-gmail-docs-cal-sheets-workspace-icon-redesign",
-    "image": "https://picsum.photos/seed/wv-fill-072223b9a492/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-19T10:44:51.120064+00:00",
-    "fetched_at": "2026-05-19T10:44:51.120066+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "2ab75ef6f8f711e5",
-    "title": "My favorite early Memorial Day deals: Save big on laptops, tablets, and more",
-    "description": "Memorial Day Weekend is coming soon. These are the best deals we found so far, including price drops from Apple, Samsung, Hisense, Ninja, and more.",
-    "url": "https://www.zdnet.com/article/best-early-memorial-day-deals-2026/",
-    "image": "https://picsum.photos/seed/wv-news-a11c3c20f2d9/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-19T10:31:40+00:00",
-    "fetched_at": "2026-05-19T17:03:00.215298+00:00"
   }
 ]

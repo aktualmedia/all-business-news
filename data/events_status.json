@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-20T10:40:03.890109+00:00",
+  "updated_at": "2026-05-20T11:04:09.168526+00:00",
   "sources": 69,
   "ok_sources": 12,
-  "events_count": 173,
+  "events_count": 127,
   "results": [
     {
       "id": "infozagreb-events",
@@ -616,8 +616,9 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "muzej / izložbe",
-      "status": "ok",
-      "count": 47
+      "status": "fallback",
+      "count": 1,
+      "error": "The read operation timed out"
     },
     {
       "id": "prado",
@@ -637,9 +638,8 @@
       "country": "Španjolska",
       "city": "Madrid",
       "type": "muzej / izložbe",
-      "status": "fallback",
-      "count": 1,
-      "error": "<urlopen error _ssl.c:999: The handshake operation timed out>"
+      "status": "ok",
+      "count": 1
     },
     {
       "id": "rijksmuseum",

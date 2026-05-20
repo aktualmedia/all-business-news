@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-20T10:41:21.914778+00:00",
-  "sources": 194,
-  "ok": 127,
+  "updated_at": "2026-05-20T11:05:26.436091+00:00",
+  "sources": 236,
+  "ok": 169,
   "problem": 53,
   "items": [
     {
@@ -45,6 +45,28 @@
       "status": "ok",
       "label": "radi",
       "count": 18,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-040",
+      "name": "AP International - Google News",
+      "category": "vijesti",
+      "url": "https://news.google.com/rss/search?q=site:apnews.com%20international&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-013",
+      "name": "ARTnews - Google News",
+      "category": "kultura",
+      "url": "https://news.google.com/rss/search?q=site:artnews.com%20art&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
       "score": 100,
       "error": ""
     },
@@ -93,10 +115,54 @@
       "error": ""
     },
     {
+      "id": "global-extra-018",
+      "name": "ArchDaily - Google News",
+      "category": "dizajn",
+      "url": "https://news.google.com/rss/search?q=site:archdaily.com%20architecture%20design&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-021",
+      "name": "Ars Technica - Google News",
+      "category": "tehnologija",
+      "url": "https://news.google.com/rss/search?q=site:arstechnica.com%20technology&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-128",
       "name": "Atlas Obscura",
       "category": "lifestyle",
       "url": "https://www.atlasobscura.com/feeds/latest",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-041",
+      "name": "BBC World - Google News",
+      "category": "vijesti",
+      "url": "https://news.google.com/rss/search?q=site:bbc.com%2Fnews%20world&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-008",
+      "name": "Bloomberg Finance - Google News",
+      "category": "financije",
+      "url": "https://news.google.com/rss/search?q=site:bloomberg.com%20finance&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -148,6 +214,17 @@
       "error": ""
     },
     {
+      "id": "global-extra-007",
+      "name": "CNBC Markets - Google News",
+      "category": "financije",
+      "url": "https://news.google.com/rss/search?q=site:cnbc.com%20markets%20finance&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-089",
       "name": "CleanTechnica",
       "category": "znanost",
@@ -163,6 +240,17 @@
       "name": "Cloudflare Blog",
       "category": "tehnologija",
       "url": "https://blog.cloudflare.com/rss/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-027",
+      "name": "Condé Nast Traveler - Google News",
+      "category": "lifestyle",
+      "url": "https://news.google.com/rss/search?q=site:cntraveler.com%20travel%20lifestyle&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -203,6 +291,17 @@
       "error": ""
     },
     {
+      "id": "global-extra-037",
+      "name": "Decanter Wine - Google News",
+      "category": "pica",
+      "url": "https://news.google.com/rss/search?q=site:decanter.com%20wine&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-109",
       "name": "Design Milk",
       "category": "dizajn",
@@ -225,6 +324,28 @@
       "error": ""
     },
     {
+      "id": "global-extra-017",
+      "name": "Designboom - Google News",
+      "category": "dizajn",
+      "url": "https://news.google.com/rss/search?q=site:designboom.com%20design&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-016",
+      "name": "Dezeen Design - Google News",
+      "category": "dizajn",
+      "url": "https://news.google.com/rss/search?q=site:dezeen.com%20design&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "extra-pets-003",
       "name": "Dogster",
       "category": "lifestyle",
@@ -240,6 +361,39 @@
       "name": "ECB Press",
       "category": "ekonomija",
       "url": "https://www.ecb.europa.eu/rss/press.html",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-030",
+      "name": "Elite Traveler Luxury - Google News",
+      "category": "hedonizam",
+      "url": "https://news.google.com/rss/search?q=site:elitetraveler.com%20luxury&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-001",
+      "name": "FT Business - Google News",
+      "category": "poslovanje",
+      "url": "https://news.google.com/rss/search?q=site:ft.com%20business&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-009",
+      "name": "FT Markets - Google News",
+      "category": "financije",
+      "url": "https://news.google.com/rss/search?q=site:ft.com%20markets&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -379,10 +533,32 @@
       "error": ""
     },
     {
+      "id": "global-extra-004",
+      "name": "IMF Economy - Google News",
+      "category": "ekonomija",
+      "url": "https://news.google.com/rss/search?q=site:imf.org%20economy&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-121",
       "name": "InsideHook",
       "category": "lifestyle",
       "url": "https://www.insidehook.com/feed",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-034",
+      "name": "JCK Jewelry - Google News",
+      "category": "nakit",
+      "url": "https://news.google.com/rss/search?q=site:jckonline.com%20jewelry&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -427,6 +603,17 @@
       "name": "Liberty Street Economics",
       "category": "ekonomija",
       "url": "https://libertystreeteconomics.newyorkfed.org/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-029",
+      "name": "Luxury Travel Magazine - Google News",
+      "category": "hedonizam",
+      "url": "https://news.google.com/rss/search?q=site:luxurytravelmagazine.com%20luxury%20travel&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -500,6 +687,17 @@
       "error": ""
     },
     {
+      "id": "global-extra-012",
+      "name": "Mining.com Markets - Google News",
+      "category": "trzista",
+      "url": "https://news.google.com/rss/search?q=site:mining.com%20markets%20commodities&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-139",
       "name": "NBER Digest",
       "category": "ekonomija",
@@ -522,10 +720,32 @@
       "error": ""
     },
     {
+      "id": "global-extra-022",
+      "name": "Nature Science - Google News",
+      "category": "znanost",
+      "url": "https://news.google.com/rss/search?q=site:nature.com%20science&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-081",
       "name": "New Scientist",
       "category": "znanost",
       "url": "https://www.newscientist.com/feed/home/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-015",
+      "name": "New York Times Arts - Google News",
+      "category": "kultura",
+      "url": "https://news.google.com/rss/search?q=site:nytimes.com%20arts&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -544,10 +764,32 @@
       "error": ""
     },
     {
+      "id": "global-extra-006",
+      "name": "OECD Economy - Google News",
+      "category": "ekonomija",
+      "url": "https://news.google.com/rss/search?q=site:oecd.org%20economy&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-047",
       "name": "OilPrice",
       "category": "trzista",
       "url": "https://oilprice.com/rss/main",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-011",
+      "name": "OilPrice Markets - Google News",
+      "category": "trzista",
+      "url": "https://news.google.com/rss/search?q=site:oilprice.com%20markets&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -621,10 +863,54 @@
       "error": ""
     },
     {
+      "id": "global-extra-002",
+      "name": "Reuters Business - Google News",
+      "category": "poslovanje",
+      "url": "https://news.google.com/rss/search?q=site:reuters.com%20business&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-010",
+      "name": "Reuters Commodities - Google News",
+      "category": "trzista",
+      "url": "https://news.google.com/rss/search?q=site:reuters.com%20commodities%20markets&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-028",
+      "name": "Robb Report Luxury - Google News",
+      "category": "hedonizam",
+      "url": "https://news.google.com/rss/search?q=site:robbreport.com%20luxury&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-076",
       "name": "ScienceDaily",
       "category": "znanost",
       "url": "https://www.sciencedaily.com/rss/all.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-024",
+      "name": "Smithsonian Science - Google News",
+      "category": "znanost",
+      "url": "https://news.google.com/rss/search?q=site:smithsonianmag.com%20science&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -676,10 +962,54 @@
       "error": ""
     },
     {
+      "id": "global-extra-003",
+      "name": "The Economist Business - Google News",
+      "category": "poslovanje",
+      "url": "https://news.google.com/rss/search?q=site:economist.com%20business&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-014",
+      "name": "The Guardian Culture - Google News",
+      "category": "kultura",
+      "url": "https://news.google.com/rss/search?q=site:theguardian.com%2Fculture&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-042",
+      "name": "The Guardian World - Google News",
+      "category": "vijesti",
+      "url": "https://news.google.com/rss/search?q=site:theguardian.com%2Fworld&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-162",
       "name": "The Jewellery Editor",
       "category": "nakit",
       "url": "https://www.thejewelleryeditor.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-035",
+      "name": "The Jewellery Editor - Google News",
+      "category": "nakit",
+      "url": "https://news.google.com/rss/search?q=site:thejewelleryeditor.com%20jewelry&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -709,10 +1039,32 @@
       "error": ""
     },
     {
+      "id": "global-extra-026",
+      "name": "Travel + Leisure - Google News",
+      "category": "lifestyle",
+      "url": "https://news.google.com/rss/search?q=site:travelandleisure.com%20travel%20lifestyle&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-166",
       "name": "VinePair",
       "category": "pica",
       "url": "https://vinepair.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-039",
+      "name": "VinePair Drinks - Google News",
+      "category": "pica",
+      "url": "https://news.google.com/rss/search?q=site:vinepair.com%20drinks%20wine&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -731,10 +1083,65 @@
       "error": ""
     },
     {
+      "id": "global-extra-025",
+      "name": "Wallpaper Lifestyle - Google News",
+      "category": "lifestyle",
+      "url": "https://news.google.com/rss/search?q=site:wallpaper.com%20lifestyle&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-038",
+      "name": "Wine Spectator - Google News",
+      "category": "pica",
+      "url": "https://news.google.com/rss/search?q=site:winespectator.com%20wine&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-063",
       "name": "Wired",
       "category": "tehnologija",
       "url": "https://www.wired.com/feed/rss",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-019",
+      "name": "Wired Technology - Google News",
+      "category": "tehnologija",
+      "url": "https://news.google.com/rss/search?q=site:wired.com%20technology&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-005",
+      "name": "World Bank Economy - Google News",
+      "category": "ekonomija",
+      "url": "https://news.google.com/rss/search?q=site:worldbank.org%20economy&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-033",
+      "name": "Worn & Wound - Google News",
+      "category": "satovi",
+      "url": "https://news.google.com/rss/search?q=site:wornandwound.com%20watches&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -797,10 +1204,54 @@
       "error": ""
     },
     {
+      "id": "global-extra-036",
+      "name": "National Jeweler - Google News",
+      "category": "nakit",
+      "url": "https://news.google.com/rss/search?q=site:nationaljeweler.com%20jewelry&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-023",
+      "name": "Science News - Google News",
+      "category": "znanost",
+      "url": "https://news.google.com/rss/search?q=site:sciencenews.org%20science&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-057",
       "name": "Supply Chain Brain",
       "category": "trzista",
       "url": "https://www.supplychainbrain.com/rss/topic/1145-news",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-020",
+      "name": "The Verge Technology - Google News",
+      "category": "tehnologija",
+      "url": "https://news.google.com/rss/search?q=site:theverge.com%20technology&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-031",
+      "name": "WatchTime - Google News",
+      "category": "satovi",
+      "url": "https://news.google.com/rss/search?q=site:watchtime.com%20watches&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1263,6 +1714,17 @@
       "name": "Yanko Design",
       "category": "dizajn",
       "url": "https://www.yankodesign.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-032",
+      "name": "aBlogtoWatch - Google News",
+      "category": "satovi",
+      "url": "https://news.google.com/rss/search?q=site:ablogtowatch.com%20watches&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 10,
