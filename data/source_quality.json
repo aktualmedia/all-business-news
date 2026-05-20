@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T11:33:08.335293+00:00",
+  "updated_at": "2026-05-20T11:39:07.766451+00:00",
   "sources": 236,
   "ok": 168,
   "problem": 54,
@@ -669,17 +669,6 @@
       "name": "MindBodyGreen",
       "category": "lifestyle",
       "url": "https://www.mindbodygreen.com/rss.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1457,17 +1446,6 @@
       "error": ""
     },
     {
-      "id": "src-103",
-      "name": "Hollywood Reporter",
-      "category": "kultura",
-      "url": "https://www.hollywoodreporter.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-037",
       "name": "Investing.com Economic Indicators",
       "category": "financije",
@@ -1593,6 +1571,17 @@
       "name": "MuseumNext",
       "category": "kultura",
       "url": "https://www.museumnext.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-079",
+      "name": "NASA Breaking News",
+      "category": "znanost",
+      "url": "https://www.nasa.gov/news-release/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1736,6 +1725,17 @@
       "name": "ESA",
       "category": "znanost",
       "url": "https://www.esa.int/rssfeed/Our_Activities",
+      "status": "ok",
+      "label": "radi",
+      "count": 9,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-103",
+      "name": "Hollywood Reporter",
+      "category": "kultura",
+      "url": "https://www.hollywoodreporter.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 9,
@@ -2381,15 +2381,15 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "id": "src-079",
-      "name": "NASA Breaking News",
-      "category": "znanost",
-      "url": "https://www.nasa.gov/news-release/feed/",
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
       "status": "failed",
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-034",
