@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="hr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>STATUS | WEB VIJESTI</title>
+<link rel="stylesheet" href="../assets/style.css">
+<link rel="stylesheet" href="../assets/editorial-redesign.css">
+<style>
+.status-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:18px 0}.status-card{background:#fff;border:1px solid var(--line,#ded7c8);border-radius:18px;padding:16px;box-shadow:0 12px 28px rgba(17,17,17,.05)}.status-card span{display:block;color:#6b7280;font-size:.72rem;font-weight:1000;text-transform:uppercase}.status-card strong{display:block;margin-top:6px;font-size:1.2rem;color:#111}.status-table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line,#ded7c8)}.status-table th,.status-table td{border-bottom:1px solid var(--line,#ded7c8);padding:10px;text-align:left;font-size:.9rem}.status-table th{background:#f8f7f2;text-transform:uppercase;font-size:.72rem}.ok{color:#047857;font-weight:900}.bad{color:#b91c1c;font-weight:900}@media(max-width:900px){.status-grid{grid-template-columns:repeat(2,1fr)}}@media(max-width:620px){.status-grid{grid-template-columns:1fr}.status-table{display:block;overflow:auto}}
+</style>
+</head>
+<body data-page="status">
+<header class="site-header"><a class="brand" href="../index.html"><span class="brand-mark">WV</span><span><strong>WEB VIJESTI</strong><small>STATUS</small></span></a><nav class="top-nav"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../symbol/index.html">SYMBOL</a><a href="../video/index.html">VIDEO</a><a href="../admin/index.html">ADMIN</a></nav></header>
+<main class="page-shell">
+<a class="home-button" href="../index.html">HOME – POVRATAK</a>
+<section class="hero compact"><p class="eyebrow">WEB VIJESTI</p><h1>STATUS PORTALA</h1><p class="lead">Pregled automatike, izvora, video previewa i zadnjeg ažuriranja.</p></section>
+<section id="statusCards" class="status-grid"></section>
+<section class="section-head"><h2>IZVORI</h2></section>
+<div id="sourcesBox"></div>
+</main>
+<footer class="site-footer"><p><strong>WEB VIJESTI / ALL BUSINESS NEWS</strong> · STATUS.</p></footer>
+<script>
+const repo='/all-business-news/';
+const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const link=p=>repo+String(p||'').replace(/^\/+/, '');
+async function get(p,d){try{const r=await fetch(link(p)+'?v='+Date.now(),{cache:'no-store'});return r.ok?await r.json():d}catch(e){return d}}
+function fmt(x){try{return new Date(x).toLocaleString('hr-HR')}catch(e){return x||'-'}}
+(async()=>{const hs=await get('data/home_status.json',{}),vs=await get('data/video_status.json',{}),sq=await get('data/source_quality.json',{}),cc=await get('data/category_counts.json',{});document.getElementById('statusCards').innerHTML=`<div class="status-card"><span>Vijesti</span><strong>${esc(hs.news_count||0)}</strong></div><div class="status-card"><span>Izvori OK</span><strong>${esc((hs.ok_sources||'-')+' / '+(hs.sources||'-'))}</strong></div><div class="status-card"><span>Zadnje vijesti</span><strong>${esc(fmt(hs.generated_at||hs.updated_at))}</strong></div><div class="status-card"><span>Zadnji video</span><strong>${esc(fmt(vs.updated_at))}</strong></div>`;let items=Array.isArray(sq.items)?sq.items.slice(0,120):[];document.getElementById('sourcesBox').innerHTML=`<table class="status-table"><thead><tr><th>Izvor</th><th>Kategorija</th><th>Status</th><th>Broj</th></tr></thead><tbody>${items.map(x=>`<tr><td>${esc(x.name||x.id)}</td><td>${esc(x.category)}</td><td class="${x.label==='radi'?'ok':'bad'}">${esc(x.label||x.status)}</td><td>${esc(x.count||0)}</td></tr>`).join('')}</tbody></table>`;})();
+</script>
+</body>
+</html>
