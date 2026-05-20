@@ -1,0 +1,47 @@
+name: Update galerija po grupama - svaka 2 dana
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "41 4 */2 * *"
+
+permissions:
+  contents: write
+
+env:
+  TZ: Europe/Zagreb
+
+concurrency:
+  group: update-gallery-groups
+  cancel-in-progress: true
+
+jobs:
+  update-gallery-groups:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repozitorija
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Postavi Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Azuriraj galeriju po grupama
+        run: |
+          echo "START GALLERY GROUPS: $(date -u)"
+          python update_gallery_groups.py
+          echo "END GALLERY GROUPS: $(date -u)"
+
+      - name: Spremi galerijske grupe
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/gallery_groups data/home_gallery_groups.json data/gallery_groups_status.json
+          git commit -m "Azuriranje galerije po grupama" || echo "Nema promjena za commit"
+          git pull --rebase || true
+          git push || true
