@@ -1,5 +1,5 @@
 name: Update vijesti - rucno i automatski
-# force-run: full-refresh-all-categories-2026-05-18-1415
+# force-run: global-extra-feeds-2026-05-20
 
 on:
   workflow_dispatch:
@@ -12,6 +12,8 @@ on:
     paths:
       - ".github/workflows/update-news.yml"
       - "update_news.py"
+      - "merge_global_extra_feeds.py"
+      - "data/global_extra_feeds.json"
       - "fill_symbol_quorum_en.py"
       - "fill_premium_categories.py"
       - "fill_core_business_science.py"
@@ -71,6 +73,7 @@ jobs:
       - name: Azuriraj vijesti dogadjanja premium kategorije home podatke galeriju i SEO
         run: |
           echo "START UPDATE: $(date -u)"
+          python merge_global_extra_feeds.py || echo "merge_global_extra_feeds.py nije prosao, nastavljam bez spajanja dodatnih izvora"
           python update_news.py || echo "update_news.py nije prosao do kraja, nastavljam postprocess"
           python update_events.py || echo "update_events.py nije prosao do kraja, nastavljam dalje"
           python postprocess_news.py
@@ -86,7 +89,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/news.json data/archive.json data/category_news data/category_counts.json data/generated_at.json data/source_stats.json data/source_quality.json data/manual_gallery.json data/events_calendar.json data/events_status.json data/manual_events.json data/home_news.json data/home_events.json data/home_symbol.json data/home_status.json data/seo_index.json sitemap.xml sitemap-news.xml sitemap-posts.xml sitemap-authors.xml sitemap-events.xml urllist.txt site.webmanifest llms.txt robots.txt
+          git add data/feeds.json data/news.json data/archive.json data/category_news data/category_counts.json data/generated_at.json data/source_stats.json data/source_quality.json data/manual_gallery.json data/events_calendar.json data/events_status.json data/manual_events.json data/home_news.json data/home_events.json data/home_symbol.json data/home_status.json data/seo_index.json sitemap.xml sitemap-news.xml sitemap-posts.xml sitemap-authors.xml sitemap-events.xml urllist.txt site.webmanifest llms.txt robots.txt
           git commit -m "Automatsko azuriranje vijesti dogadjanja premium kategorija home podataka galerije i SEO datoteka" || echo "Nema promjena za commit"
           git pull --rebase || true
           git push || true
