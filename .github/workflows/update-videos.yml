@@ -1,0 +1,47 @@
+name: Update video preview - dnevno
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 5 * * *"
+
+permissions:
+  contents: write
+
+env:
+  TZ: Europe/Zagreb
+
+concurrency:
+  group: update-videos
+  cancel-in-progress: true
+
+jobs:
+  update-videos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout repozitorija
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Postavi Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Azuriraj YouTube video preview
+        run: |
+          echo "START VIDEO UPDATE: $(date -u)"
+          python update_videos.py
+          echo "END VIDEO UPDATE: $(date -u)"
+
+      - name: Spremi video promjene
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/videos.json data/home_videos.json data/video_status.json
+          git commit -m "Dnevno azuriranje YouTube video previewa" || echo "Nema promjena za commit"
+          git pull --rebase || true
+          git push || true
