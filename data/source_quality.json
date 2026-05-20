@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-20T13:51:13.605839+00:00",
+  "updated_at": "2026-05-20T19:41:13.466417+00:00",
   "sources": 236,
-  "ok": 169,
-  "problem": 53,
+  "ok": 167,
+  "problem": 54,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -280,17 +280,6 @@
       "error": ""
     },
     {
-      "id": "src-104",
-      "name": "Deadline",
-      "category": "kultura",
-      "url": "https://deadline.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-165",
       "name": "Decanter",
       "category": "pica",
@@ -306,17 +295,6 @@
       "name": "Decanter Wine - Google News",
       "category": "pica",
       "url": "https://news.google.com/rss/search?q=site:decanter.com%20wine&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-109",
-      "name": "Design Milk",
-      "category": "dizajn",
-      "url": "https://design-milk.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -383,6 +361,17 @@
       "name": "Elite Traveler Luxury - Google News",
       "category": "hedonizam",
       "url": "https://news.google.com/rss/search?q=site:elitetraveler.com%20luxury&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-065",
+      "name": "Engadget",
+      "category": "tehnologija",
+      "url": "https://www.engadget.com/rss.xml",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -493,17 +482,6 @@
       "name": "Google AI Blog",
       "category": "tehnologija",
       "url": "https://blog.google/technology/ai/rss/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-124",
-      "name": "Highsnobiety",
-      "category": "lifestyle",
-      "url": "https://www.highsnobiety.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -680,17 +658,6 @@
       "name": "MindBodyGreen",
       "category": "lifestyle",
       "url": "https://www.mindbodygreen.com/rss.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1083,17 +1050,6 @@
       "error": ""
     },
     {
-      "id": "src-112",
-      "name": "Wallpaper",
-      "category": "dizajn",
-      "url": "https://www.wallpaper.com/rss",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-025",
       "name": "Wallpaper Lifestyle - Google News",
       "category": "lifestyle",
@@ -1182,6 +1138,17 @@
       "error": ""
     },
     {
+      "id": "src-104",
+      "name": "Deadline",
+      "category": "kultura",
+      "url": "https://deadline.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-125",
       "name": "Design Milk Lifestyle",
       "category": "lifestyle",
@@ -1193,10 +1160,10 @@
       "error": ""
     },
     {
-      "id": "src-065",
-      "name": "Engadget",
-      "category": "tehnologija",
-      "url": "https://www.engadget.com/rss.xml",
+      "id": "src-124",
+      "name": "Highsnobiety",
+      "category": "lifestyle",
+      "url": "https://www.highsnobiety.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1241,6 +1208,17 @@
       "name": "The Verge Technology - Google News",
       "category": "tehnologija",
       "url": "https://news.google.com/rss/search?q=site:theverge.com%20technology&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-112",
+      "name": "Wallpaper",
+      "category": "dizajn",
+      "url": "https://www.wallpaper.com/rss",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1391,17 +1369,6 @@
       "error": ""
     },
     {
-      "id": "src-012",
-      "name": "Entrepreneur",
-      "category": "poslovanje",
-      "url": "https://www.entrepreneur.com/latest.rss",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-029",
       "name": "FRED Blog",
       "category": "ekonomija",
@@ -1450,6 +1417,17 @@
       "name": "HODINKEE",
       "category": "satovi",
       "url": "https://www.hodinkee.com/articles/rss.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-103",
+      "name": "Hollywood Reporter",
+      "category": "kultura",
+      "url": "https://www.hollywoodreporter.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1677,6 +1655,17 @@
       "error": ""
     },
     {
+      "id": "src-062",
+      "name": "The Verge",
+      "category": "tehnologija",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-102",
       "name": "Variety",
       "category": "kultura",
@@ -1754,10 +1743,10 @@
       "error": ""
     },
     {
-      "id": "src-103",
-      "name": "Hollywood Reporter",
-      "category": "kultura",
-      "url": "https://www.hollywoodreporter.com/feed/",
+      "id": "src-012",
+      "name": "Entrepreneur",
+      "category": "poslovanje",
+      "url": "https://www.entrepreneur.com/latest.rss",
       "status": "ok",
       "label": "radi",
       "count": 9,
@@ -1769,17 +1758,6 @@
       "name": "Our World in Data",
       "category": "ekonomija",
       "url": "https://ourworldindata.org/atom.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 9,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-062",
-      "name": "The Verge",
-      "category": "tehnologija",
-      "url": "https://www.theverge.com/rss/index.xml",
       "status": "ok",
       "label": "radi",
       "count": 9,
@@ -1868,6 +1846,17 @@
       "name": "Brookings Economy",
       "category": "ekonomija",
       "url": "https://www.brookings.edu/topic/economy/feed/",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
+      "id": "src-109",
+      "name": "Design Milk",
+      "category": "dizajn",
+      "url": "https://design-milk.com/feed/",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -2390,6 +2379,17 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-034",
