@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-20T11:12:47.200542+00:00",
+  "updated_at": "2026-05-20T11:31:50.945049+00:00",
   "sources": 69,
-  "ok_sources": 12,
-  "events_count": 164,
+  "ok_sources": 13,
+  "events_count": 173,
   "results": [
     {
       "id": "infozagreb-events",
@@ -334,9 +334,8 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "kazalište / premijere",
-      "status": "fallback",
-      "count": 1,
-      "error": "<urlopen error timed out>"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "opera-paris",
@@ -659,8 +658,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "program_link_only",
-      "count": 1
+      "status": "ok",
+      "count": 10
     },
     {
       "id": "uffizi",

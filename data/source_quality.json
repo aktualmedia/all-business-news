@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T11:14:00.227198+00:00",
+  "updated_at": "2026-05-20T11:33:08.335293+00:00",
   "sources": 236,
   "ok": 168,
   "problem": 54,
@@ -676,6 +676,17 @@
       "error": ""
     },
     {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-012",
       "name": "Mining.com Markets - Google News",
       "category": "trzista",
@@ -691,17 +702,6 @@
       "name": "NBER Digest",
       "category": "ekonomija",
       "url": "https://www.nber.org/rss/new.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-083",
-      "name": "Nature News",
-      "category": "znanost",
-      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1204,6 +1204,17 @@
       "error": ""
     },
     {
+      "id": "src-083",
+      "name": "Nature News",
+      "category": "znanost",
+      "url": "https://www.nature.com/nature.rss",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-023",
       "name": "Science News - Google News",
       "category": "znanost",
@@ -1582,17 +1593,6 @@
       "name": "MuseumNext",
       "category": "kultura",
       "url": "https://www.museumnext.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-079",
-      "name": "NASA Breaking News",
-      "category": "znanost",
-      "url": "https://www.nasa.gov/news-release/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -2381,15 +2381,15 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
+      "id": "src-079",
+      "name": "NASA Breaking News",
+      "category": "znanost",
+      "url": "https://www.nasa.gov/news-release/feed/",
       "status": "failed",
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "id": "src-034",
