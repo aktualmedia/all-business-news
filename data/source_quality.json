@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-20T12:59:18.678529+00:00",
+  "updated_at": "2026-05-20T13:06:47.542652+00:00",
   "sources": 236,
-  "ok": 167,
-  "problem": 55,
+  "ok": 168,
+  "problem": 54,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -317,6 +317,17 @@
       "name": "Design Milk",
       "category": "dizajn",
       "url": "https://design-milk.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-118",
+      "name": "DesignWanted",
+      "category": "dizajn",
+      "url": "https://designwanted.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -2081,7 +2092,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 404: Not Found"
+      "error": "The read operation timed out"
     },
     {
       "id": "src-136",
@@ -2192,17 +2203,6 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "src-118",
-      "name": "DesignWanted",
-      "category": "dizajn",
-      "url": "https://designwanted.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "id": "src-132",
@@ -2521,7 +2521,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 503: Service Unavailable"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "src-130",
