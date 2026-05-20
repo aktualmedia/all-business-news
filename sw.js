@@ -1,15 +1,5 @@
-const CACHE_NAME = 'web-vijesti-cache-disabled-20260518-v9';
-self.addEventListener('install', event => {
-  self.skipWaiting();
-});
-self.addEventListener('activate', event => {
-  event.waitUntil(
-    caches.keys()
-      .then(keys => Promise.all(keys.map(k => caches.delete(k))))
-      .then(() => self.clients.claim())
-      .then(() => self.registration.unregister())
-  );
-});
-self.addEventListener('fetch', event => {
-  return;
-});
+const CACHE='web-vijesti-v2';
+const CORE=['/all-business-news/','/all-business-news/index.html','/all-business-news/assets/style.css','/all-business-news/assets/editorial-redesign.css'];
+self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).catch(()=>{}));self.skipWaiting();});
+self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});
+self.addEventListener('fetch',event=>{const request=event.request;if(request.method!=='GET')return;if(!request.url.includes('/all-business-news/'))return;event.respondWith(fetch(request).then(response=>{const copy=response.clone();if(['document','style','script'].includes(request.destination)){caches.open(CACHE).then(cache=>cache.put(request,copy)).catch(()=>{});}return response;}).catch(()=>caches.match(request).then(found=>found||caches.match('/all-business-news/index.html'))));});
