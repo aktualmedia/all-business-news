@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-21T08:52:39.579980+00:00",
+  "updated_at": "2026-05-21T12:03:50.738250+00:00",
   "sources": 236,
   "ok": 167,
-  "problem": 53,
+  "problem": 54,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -654,10 +654,10 @@
       "error": ""
     },
     {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
+      "id": "extra-care-002",
+      "name": "MindBodyGreen",
+      "category": "lifestyle",
+      "url": "https://www.mindbodygreen.com/rss.xml",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -988,6 +988,17 @@
       "name": "The Jewellery Editor - Google News",
       "category": "nakit",
       "url": "https://news.google.com/rss/search?q=site:thejewelleryeditor.com%20jewelry&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-068",
+      "name": "The Register",
+      "category": "tehnologija",
+      "url": "https://www.theregister.com/headlines.atom",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1754,17 +1765,6 @@
       "error": ""
     },
     {
-      "id": "extra-care-002",
-      "name": "MindBodyGreen",
-      "category": "lifestyle",
-      "url": "https://www.mindbodygreen.com/rss.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 8,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "extra-symbol-kultura",
       "name": "Symbol Quorum - kultura i umjetnost",
       "category": "kultura",
@@ -1967,17 +1967,6 @@
       "name": "The Paypers",
       "category": "financije",
       "url": "https://thepaypers.com/rss.xml",
-      "status": "empty",
-      "label": "prazan feed",
-      "count": 0,
-      "score": 55,
-      "error": ""
-    },
-    {
-      "id": "src-068",
-      "name": "The Register",
-      "category": "tehnologija",
-      "url": "https://www.theregister.com/headlines.atom",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -2390,6 +2379,17 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-034",

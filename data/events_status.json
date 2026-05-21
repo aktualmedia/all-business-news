@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-21T08:51:24.233193+00:00",
+  "updated_at": "2026-05-21T12:02:33.613310+00:00",
   "sources": 69,
-  "ok_sources": 14,
-  "events_count": 172,
+  "ok_sources": 11,
+  "events_count": 145,
   "results": [
     {
       "id": "infozagreb-events",
@@ -74,8 +74,9 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "kazalište / mjuzikl",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "id": "teatar-exit",
@@ -334,8 +335,9 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "kazalište / premijere",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "<urlopen error timed out>"
     },
     {
       "id": "opera-paris",
@@ -365,8 +367,9 @@
       "country": "Italija",
       "city": "Milano",
       "type": "opera / balet / premijere",
-      "status": "ok",
-      "count": 7
+      "status": "fallback",
+      "count": 1,
+      "error": "The read operation timed out"
     },
     {
       "id": "piccolo-teatro",
@@ -606,8 +609,9 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "muzej / izložbe",
-      "status": "ok",
-      "count": 14
+      "status": "fallback",
+      "count": 1,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "id": "centre-pompidou",
@@ -658,8 +662,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "ok",
-      "count": 9
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "uffizi",

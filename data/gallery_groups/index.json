@@ -1,78 +1,78 @@
 {
-  "updated_at": "2026-05-21T08:52:39.542716+00:00",
+  "updated_at": "2026-05-21T12:03:50.703172+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 94,
-      "cover": "https://deadline.com/wp-content/uploads/2026/05/Kylie-Netflix-Trailerstill-6.png"
+      "count": 88,
+      "cover": "https://variety.com/wp-content/uploads/2026/03/jones-oliver.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 21,
-      "cover": "https://www.designboom.com/wp-content/uploads/2026/05/moomins-new-york-botanical-garden-visitors-nature-togetherness-designboom-700-500x400-22b08q85r999.jpg"
+      "count": 29,
+      "cover": "https://www.yankodesign.com/images/design_news/2026/05/car-gadgets-that-just-made-100000-factory-options-look-embarrassingly-overpriced/5_best_car_gadgets_yanko_design_01.jpg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 8,
-      "cover": "https://www.journal.hr/wp-content/uploads/2026/05/gastro-dogadanja-u-zg-scaled-e1778751170850-768x576.jpeg"
+      "count": 7,
+      "cover": "https://robbreport.com/wp-content/uploads/2026/05/ER-Yacht-Design-ER-40-Explorer-1.jpg"
     },
     {
       "id": "hrana",
       "label": "HRANA",
-      "count": 6,
+      "count": 4,
       "cover": "https://assets.bonappetit.com/photos/6a0b784f1420d0d9e1417a79/master/pass/chimichurri-grilled-shrimp_RECIPE_V1_051326_14306_VOG_final.jpg"
     },
     {
       "id": "pica",
       "label": "PIĆA",
-      "count": 5,
-      "cover": "https://www.thespiritsbusiness.com/content/uploads/2026/05/Starka-lead-image-650-x-410-px-1.jpg"
+      "count": 24,
+      "cover": "https://www.thespiritsbusiness.com/content/uploads/2026/05/Cotswolds-Wild-Spritz.jpg"
     },
     {
       "id": "satovi",
       "label": "SATOVI",
-      "count": 4,
-      "cover": "https://monochrome-watches.com/app/uploads/2026/05/Ressence-Type-7-Black-and-Type-7-Cactus-With-Rubber-Straps-3-600x237.jpg"
+      "count": 5,
+      "cover": "https://monochrome-watches.com/app/uploads/2026/05/Omega-Seamaster-Diver-300M-Chronograph-007-First-Light-review-video-game-into-reality-10-600x237.jpg"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 35,
-      "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F21%2Fronnie-fieg-teases-kith-adidas-football-lionel-messi-jersey-collection-000.jpg?w=800&cbr=1&q=90&fit=max"
+      "count": 33,
+      "cover": "https://coolhunting.com/wp-content/uploads/2026/05/IMG_5265_cropped-768x574.jpg"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 55,
-      "cover": "https://www.engadget.com/img/gallery/anthropic-is-reportedly-about-to-have-its-first-profitable-quarter/l-intro-1779350472.jpg"
+      "count": 62,
+      "cover": "https://www.engadget.com/img/gallery/meta-has-reportedly-laid-off-8000-employees/l-intro-1779363038.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 108,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/debuting-on-the-stock-1.jpg"
+      "count": 86,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2025/older-adult-walking.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 89,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a0deef14272b07b95175e9f/0x0.jpg?width=960&precrop=2540%2C1429%2Cx0%2Cy14"
+      "count": 98,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/6048e165345b4ab79c3f331a/0x0.jpg?width=960"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 51,
-      "cover": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K08X_L.jpg"
+      "count": 60,
+      "cover": "https://images.mktw.net/im-07438364"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 24,
-      "cover": "https://www.visualcapitalist.com/wp-content/uploads/2026/05/global-production-of-minerals-SHARE.webp"
+      "count": 4,
+      "cover": "https://www.freightwaves.com/wp-content/uploads/2026/05/21/Duff-Newsom-2.jpg"
     }
   ]
 }
