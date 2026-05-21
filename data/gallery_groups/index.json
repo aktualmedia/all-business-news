@@ -1,78 +1,78 @@
 {
-  "updated_at": "2026-05-20T20:00:24.010402+00:00",
+  "updated_at": "2026-05-21T00:05:01.456479+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 69,
-      "cover": "https://variety.com/wp-content/uploads/2022/08/GettyImages-79917259-e1743613905279.jpg"
+      "count": 75,
+      "cover": "https://deadline.com/wp-content/uploads/2026/05/Seth-Myers-at-Rafa-premiere-jpeg.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 22,
-      "cover": "https://www.yankodesign.com/images/design_news/2026/05/bmws-vision-k18-concept-turns-long-distance-touring-into-a-jet-inspired-luxury-experience-on-two-wheels/BMW-Motorrad-Vision-K18-Concept-17.jpg"
+      "count": 18,
+      "cover": "https://www.yankodesign.com/images/design_news/2026/05/the-lamp-that-nine-artisans-built-by-hand/taiwan-lantern-00.jpg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 9,
-      "cover": "https://robbreport.com/wp-content/uploads/2026/05/Split_Barrel_Project.jpg"
+      "count": 10,
+      "cover": "https://robbreport.com/wp-content/uploads/2026/05/mallorca-penthouse.jpg"
     },
     {
       "id": "hrana",
       "label": "HRANA",
-      "count": 5,
-      "cover": "https://assets.bonappetit.com/photos/57ae3440f1c801a1038bd113/master/pass/classic-tartar-sauce.jpg"
+      "count": 7,
+      "cover": "https://assets.bonappetit.com/photos/6a0b784f1420d0d9e1417a79/master/pass/chimichurri-grilled-shrimp_RECIPE_V1_051326_14306_VOG_final.jpg"
     },
     {
       "id": "pica",
       "label": "PIĆA",
-      "count": 22,
+      "count": 4,
       "cover": "https://www.thedrinksbusiness.com/content/uploads/2026/05/Voyager-Estate-Tim-Shand.webp"
     },
     {
       "id": "satovi",
       "label": "SATOVI",
-      "count": 8,
+      "count": 6,
       "cover": "https://hodinkee.imgix.net/uploads/images/549f5ad5-afd4-41c0-884f-a1338993ff95/P1094007.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 34,
-      "cover": "https://www.insidehook.com/wp-content/uploads/2026/05/Espresso-Martini.jpg?fit=1200%2C800"
+      "count": 28,
+      "cover": "https://media.allure.com/photos/6a0e126db63815ce89d762be/master/pass/05.20_ALL_1%20New%20Lede%20Image%20for%20%E2%80%9CBest%20Early%20Amazon%20Prime%20Day%20K-Beauty%20Deals%E2%80%9D..jpg"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 51,
-      "cover": "https://www.engadget.com/img/gallery/google-is-bringing-new-ai-powered-ad-formats-to-search/l-intro-1779305901.jpg"
+      "count": 57,
+      "cover": "https://www.engadget.com/img/gallery/microsoft-hired-an-analyst-with-an-influential-video-game-blog-to-fix-xbox/l-intro-1779318837.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 90,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2019/studentscoll.jpg"
+      "count": 110,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/reusable-catheters-a-s.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 104,
-      "cover": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2240031498.jpg"
+      "count": 103,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/6998974b4bdd393cc979d473/0x0.jpg?width=960&precrop=1353%2C760%2Cx238%2Cy160"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 51,
-      "cover": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J03Q_L.jpg"
+      "count": 50,
+      "cover": "https://images.mktw.net/im-86999410"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 35,
-      "cover": "https://www.freightwaves.com/wp-content/uploads/2023/11/13/Regional_Rail_1-1.jpg"
+      "count": 32,
+      "cover": "https://www.visualcapitalist.com/wp-content/uploads/2026/05/global-production-of-minerals-SHARE.webp"
     }
   ]
 }

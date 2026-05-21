@@ -1,6 +1,258 @@
 [
   {
-    "id": "gal-27645957121838",
+    "id": "gal-77098549230221",
+    "title": "Microsoft hired an analyst with an influential video game blog to fix Xbox",
+    "description": "Matthew Ball is the new chief strategy officer for Xbox ahead of Project Helix.",
+    "image": "https://www.engadget.com/img/gallery/microsoft-hired-an-analyst-with-an-influential-video-game-blog-to-fix-xbox/l-intro-1779318837.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Engadget",
+    "source_url": "https://www.engadget.com/2178253/microsoft-hired-an-analyst-with-an-influential-video-game-blog-to-fix-xbox/",
+    "created_at": "2026-05-20T23:16:19+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-73182444443043",
+    "title": "AI code accelerates production failures and spending, study finds",
+    "description": "CloudBees survey exposes verification gap",
+    "image": "https://image.theregister.com/?imageId=5243818&width=800",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/ai-ml/2026/05/20/ai-code-boom-drives-production-failures-higher-spending/5243787",
+    "created_at": "2026-05-20T22:43:51+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-13040589362611",
+    "title": "Google's Managed Agents API promises one-call deployment at the cost of execution layer control",
+    "description": "At Google I/O, the company unveiled Managed Agents in its Gemini API — a service that promises to collapse weeks of agent deployment work into a single API call. It's also a sign that Google believes its ecosystem, including the newly launched Antigravity CLI, is ready to own the execution layer end-to-end. Before a single agent is written, teams are already spending days on the unglamorous work: standing up execution environments, managing sandboxes, wiring tool call infrastructure. Model providers like Anthropic have launched platforms to handle much of that work — but Google's approach is different. Google said in a blog post that Managed Agents in the Gemini API abstracts “away the complexity so that you can focus on your product experience and agent behavior.” The service is available in preview via new custom templates in Google AI Studio. The growth has introduced a real architect",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/56jT0kiqeEVuPHMFht0VT6/f33bf9f5979e611149822ec03373eb05/crimedy7_illustration_of_a_supervisor_robot_evaluating_other__35a35697-0dc1-4a73-acea-a033e99f2fac_2.png?w=300&q=30",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "VentureBeat",
+    "source_url": "https://venturebeat.com/orchestration/googles-managed-agents-api-promises-one-call-deployment-at-the-cost-of-execution-layer-control",
+    "created_at": "2026-05-20T22:26:11+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-20768739238727",
+    "title": "The Best Outdoor Deals From the REI Anniversary Sale 2026",
+    "description": "",
+    "image": "https://media.wired.com/photos/6a077e5a1a9b4bf58e46bc10/master/pass/REI%20Deals%20top%20art%20052026%20SOURCE%20REI.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/rei-anniversary-sale-2026/",
+    "created_at": "2026-05-20T22:16:09+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-75376122700473",
+    "title": "Hulu bundle subscribers can now access their watch history and recs in the Disney+ app",
+    "description": "Even though Disney really wants you in its own app, it isn't killing off Hulu.",
+    "image": "https://www.engadget.com/img/gallery/hulu-bundle-subscribers-can-now-access-their-watch-history-and-recs-in-the-disney-app/l-intro-1779311829.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Engadget",
+    "source_url": "https://www.engadget.com/2178216/hulu-bundle-subscribers-can-now-access-their-watch-history-and-recs-in-the-disney-app/",
+    "created_at": "2026-05-20T22:00:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-19197206503139",
+    "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
+    "description": "",
+    "image": "https://media.wired.com/photos/6a0e0f8f6174d8e9dcf1157d/master/pass/security_flock_GettyImages-2271667850.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
+    "created_at": "2026-05-20T21:58:06+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-44326645665770",
+    "title": "Trump admin didn't want Ebola-exposed Americans, sent them to Berlin, Prague",
+    "description": "Officials denied refusing entry, but dodged questions on why Americans didn't return.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276659165-1152x648.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/health/2026/05/trump-admin-didnt-want-ebola-exposed-americans-sent-them-to-berlin-prague/",
+    "created_at": "2026-05-20T21:58:01+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-58760113784600",
+    "title": "SpaceX IPO Filing Reveals Anthropic Is Paying $15 Billion a Year to Access Its Data Centers",
+    "description": "",
+    "image": "https://media.wired.com/photos/6a0cd75698983a3fe2d173e4/master/pass/Wall-Street-Finally-Gets-Look-Inside-SpaceX-Crazy-Finances-Business-1227902590.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/spacex-ipo-anthropic-compute-finances-risks/",
+    "created_at": "2026-05-20T21:43:40+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-49377533379791",
+    "title": "NASA's Psyche spacecraft returns unfamiliar views of a familiar world",
+    "description": "\"As a bonus, it captured Mars images from a rare perspective.\"",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/1-PIA26771_Mars-crescent-pYdenxFS-1152x648-1779310114.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/",
+    "created_at": "2026-05-20T21:26:57+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-43572665097234",
+    "title": "Cohere cracks lossless quantization and native citations with first full Apache 2.0 licensed open model Command A+",
+    "description": "Canadian AI lab Cohere made waves recently by announcing a merger with German AI startup Aleph Alpha , but now it has even more in store for enterprise builders around the globe: today, the firm co-founded by former Googler and \"Attention Is All You Need\" co-author Aidan Gomez unveiled Command A+ , a highly optimized, 218-billion-parameter language model engineered specifically for complex reasoning, multimodal document processing, and agentic workflows. The most significant aspect of the release is not just the model’s capabilities; it is its accessibility. By releasing the model weights free on the popular AI code sharing repository Hugging Face under a highly permissive Apache 2.0 open-source license — a first for the company, according to a post by Gomez, now Cohere's CEO, on X — Cohere is making a calculated bet on \"sovereign AI\"—the thesis that enterprises, governments, and develop",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2ooDwZZRkOXFbljlU3UX8T/512fe2501fcc0281a48bc484e7794a7f/ChatGPT_Image_May_20__2026__03_40_32_PM.png?w=300&q=30",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "VentureBeat",
+    "source_url": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a",
+    "created_at": "2026-05-20T21:16:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-86728590780722",
+    "title": "We’re announcing new community investments in Missouri.",
+    "description": "",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Google AI Blog",
+    "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+    "created_at": "2026-05-20T20:40:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-38466738398283",
+    "title": "Even Claude agrees: hole in its sandbox was real and dangerous",
+    "description": "Another day, another AI bug silently fixed with no CVE and no public disclosure",
+    "image": "https://image.theregister.com/?imageId=224154&width=800",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/security/2026/05/20/even-claude-agrees-hole-in-its-sandbox-was-real-and-dangerous/5243662",
+    "created_at": "2026-05-20T20:34:15+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-72897211986966",
+    "title": "Masters of the Universe final trailer brings the '80s nostalgia",
+    "description": "\"You are he who will restore peace to Eternia.\"",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/heman1-1152x648.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/culture/2026/05/masters-of-the-universe-final-trailer-brings-the-80s-nostalgia/",
+    "created_at": "2026-05-20T20:29:39+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-59925362242367",
+    "title": "The 10 Best TV Shows to Stream This Month (May 2026)",
+    "description": "",
+    "image": "https://media.wired.com/photos/6a0d0506b111266ea02ec0ec/master/pass/Show-Guide-Culture-Maximum_Pleasure_Guaranteed_010106.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/the-10-best-shows-to-stream-right-now/",
+    "created_at": "2026-05-20T20:02:53+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-13456401797806",
+    "title": "Intel's CEO reveals early hiring challenges as bankruptcy concerns deterred top talent",
+    "description": "Recovering chipmaker looks beyond 14A to 10A and 7A process nodes in foundry comeback bid",
+    "image": "https://image.theregister.com/?imageId=257335&width=800",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/systems/2026/05/20/intels-ceo-reveals-early-hiring-challenges-as-bankruptcy-concerns-deterred-top-talent/5243546",
+    "created_at": "2026-05-20T20:02:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-84797294821154",
+    "title": "Cerebras says its chips run a trillion-parameter AI model nearly 7 times faster than GPU clouds",
+    "description": "Less than a week after completing the largest tech IPO of 2026, Cerebras Systems is making its most aggressive play yet to dominate the fast-growing AI inference market. On Monday, the Sunnyvale-based chipmaker announced that it is now running Kimi K2.6 — a trillion-parameter open-weight model developed by Beijing-based Moonshot AI — for enterprise customers at nearly 1,000 tokens per second, a speed no GPU-based provider has come close to matching. The result, independently verified by benchmarking firm Artificial Analysis , clocked in at 981 output tokens per second, making Cerebras 6.7 times faster than the next-fastest GPU-based cloud provider and 23 times faster than the median. For a standard agentic coding request involving 10,000 input tokens, Cerebras delivered the full response — including prompt processing, reasoning, and 500 output tokens — in 5.6 seconds, compared to 163.7 s",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2THfHJ5QDM7v6hfZguZzRK/88414c532761a606e6faad8056f896ac/Nuneybits_Vector_art_of_cobalt_chip_towering_servers_in_burnt_o_e4e68375-d5c6-4559-87a7-d92ffb2bf67a-1.webp?w=300&q=30",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "VentureBeat",
+    "source_url": "https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds",
+    "created_at": "2026-05-20T19:59:22+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-29702758096325",
+    "title": "Leaving the V8 in the past: The all-electric Mercedes-AMG GT 4-Door",
+    "description": "The 0–60 time is impressive, the miles/kWh number even more so.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/26C0129_030-1152x648.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/cars/2026/05/leaving-the-v8-in-the-past-the-all-electric-mercedes-amg-gt-4-door/",
+    "created_at": "2026-05-20T19:53:34+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-86567455588684",
+    "title": "OpenAI floats buy-before-your-try AI availability guarantee",
+    "description": "Nice AI workloads you have going, it'd be a shame we ran out of stock",
+    "image": "https://image.theregister.com/?imageId=5223736&width=800",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/ai-ml/2026/05/20/openai-wants-upfront-cash-for-guaranteed-ai-capacity/5243694",
+    "created_at": "2026-05-20T19:51:28+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-61246025895270",
     "title": "Google is bringing new AI-powered ad formats to search",
     "description": "Finally, the Google I/O announcement you've been waiting for.",
     "image": "https://www.engadget.com/img/gallery/google-is-bringing-new-ai-powered-ad-formats-to-search/l-intro-1779305901.jpg",
@@ -14,7 +266,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-11302756398702",
+    "id": "gal-33036390379523",
     "title": "100 things we announced at I/O 2026",
     "description": "",
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp",
@@ -28,21 +280,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-67730199886412",
-    "title": "We’re announcing new community investments in Missouri.",
-    "description": "",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Google AI Blog",
-    "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-    "created_at": "2026-05-20T19:30:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-88043751530622",
+    "id": "gal-69928472648091",
     "title": "\"Ryzen 5800X3D 10th Anniversary Edition\" may help you avoid paying for a new PC",
     "description": "It could be one way to make your old PC play nicely with a high-end GPU.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0216-1-1152x648.jpeg",
@@ -56,7 +294,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-13261111555736",
+    "id": "gal-61016639308236",
     "title": "Google publishes exploit code threatening millions of Chromium users",
     "description": "Google publishes exploit code before patch, reported 29 months earlier, is fixed.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/chromium_logo.jpeg",
@@ -70,7 +308,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-23182609227104",
+    "id": "gal-27035835905357",
     "title": "Trump wants $1B to protect White House ballroom from drones and other threats",
     "description": "President asks $1B from taxpayers to secure his $400M privately funded ballroom.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277112253-1152x648.jpg",
@@ -84,7 +322,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-88571182379151",
+    "id": "gal-37025667048541",
     "title": "OpenAI may go public as soon as September",
     "description": "OpenAI's potential IPO would come after a jury sided with CEO Sam Altman in a legal battle with Elon Musk.",
     "image": "https://www.engadget.com/img/gallery/openai-may-go-public-as-soon-as-september/l-intro-1779303413.jpg",
@@ -98,7 +336,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-63037620809114",
+    "id": "gal-61409190891313",
     "title": "Hulu set to keep existing as standalone streaming service and app (for now)",
     "description": "Disney still has a lot of tech to unite and bundles to push.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/fc3d1e70-19cf-4cfa-bb07-bd6439b3df66_1761249301-1152x648-1761844035.jpg",
@@ -112,7 +350,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-53338361796783",
+    "id": "gal-52381313613532",
     "title": "Enterprise AI agents keep failing because they forget what they learned",
     "description": "RAG architectures are good at one thing: surfacing semantically relevant documents. That's also where they stop. A framework called a decision context graph addresses that gap by giving agents structured memory, time-aware reasoning, and explicit decision logic. Rippletide , a startup in the Neo4j ecosystem, has built one. The key capability: agents that are non-regressive, able to freeze validated sequences of actions and compound on them over time. “The key point you want is non-regressivity: How do you make sure that, when the agent will generate something new, you can compound on the previous discoveries?” said Yann Bilien, Rippletid’s co-founder and chief scientific officer. Why RAG doesn’t go far enough Enterprise context is sprawled across ERP tools, logs, databases, vector stores, and policy documents. Generative AI tools can retrieve from all of it — through keyword search, SQL",
     "image": "https://images.ctfassets.net/jdtwqhzvc2n1/XxEoqdkwC8dR16yuLD73f/b5b23fc19b843586548b74783aea01e6/u7277289442_An_AI_agent_is_sitting_at_a_desk._The_desk_is_cov_75a9078a-ea3d-421e-bf5d-23a650aab330_0.png?w=300&q=30",
@@ -126,7 +364,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-24043813051501",
+    "id": "gal-84812487201338",
     "title": "Xreal's Project Aura smartglasses are a maximalist take on Android XR",
     "description": "At Google I/O 2026, we took a closer look at Xreal's Project Aura, one of the first Android XR smart glasses.",
     "image": "https://www.engadget.com/img/gallery/xreals-project-aura-smartglasses-are-a-maximalist-take-on-android-xr/l-intro-1779302401.jpg",
@@ -140,7 +378,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-48155545684724",
+    "id": "gal-19799402568027",
     "title": "Chickens without eggs? De-extinction company creates artificial egg.",
     "description": "In the process, Colossal may have handed a useful tool to developmental biology.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/EmbryoDevelopment-1152x648.jpeg",
@@ -154,7 +392,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-31426662435772",
+    "id": "gal-64209864830594",
     "title": "Minnesota prohibits prediction markets, promptly gets sued by Trump admin",
     "description": "State law makes it a felony to create, operate, or advertise prediction markets.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/kalshi-death-markets-1152x648-1775509431.jpg",
@@ -168,7 +406,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-73482051013613",
+    "id": "gal-63099529599757",
     "title": "I Gave My OpenClaw Agent a Physical Body",
     "description": "",
     "image": "https://media.wired.com/photos/6a0ca4ce280901f1fa2a6d37/master/pass/AI-Lab-Rock-Em-Sock-Em-Vibe-Coded-Robots-Business.jpg",
@@ -182,7 +420,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-27448117594471",
+    "id": "gal-91620432030753",
     "title": "How Wet Weather in Argentina Helped Fuel the Cruise Ship Hantavirus Outbreak",
     "description": "",
     "image": "https://media.wired.com/photos/6a0cab26e7ee87b3ed914a06/master/pass/How-Climate-Change-Made-Hantavirus-Outbreak-Possible-Science-2189447352.jpg",
@@ -196,7 +434,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-18174928037463",
+    "id": "gal-16374264004090",
     "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
     "description": "Google's AI search evolution is accelerating at I/O 2026.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-search-1152x648.jpg",
@@ -210,7 +448,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-52743962617316",
+    "id": "gal-86238600833639",
     "title": "Fedora: Microsoft is all aboard, but Deepin is dumped",
     "description": "Red Hat’s free distro loses a desktop, but makes an important new friend",
     "image": "https://image.theregister.com/?imageId=5243659&width=800",
@@ -224,7 +462,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-61579146577045",
+    "id": "gal-24968466114380",
     "title": "GitHub confirms 3,800 internal repos stolen through poisoned VS Code extension as supply chain worm hits Microsoft’s Python SDK",
     "description": "GitHub confirmed on May 20 that a poisoned VS Code extension installed on an employee’s device gave attackers access to roughly 3,800 internal repositories at the Microsoft-owned code storage and authorship platform. The threat group TeamPCP, formally tracked by Google Threat Intelligence Group as UNC6780, claimed responsibility and is advertising the stolen repositories for sale starting at $50,000 . GitHub’s assessment: the attacker’s claim is “directionally consistent” with the investigation so far. Trend Micro , StepSecurity , and Snyk have formally tracked TeamPCP across at least seven waves of the Mini Shai-Hulud supply chain worm since March. The GitHub breach did not land in isolation. It arrived the same day a new Mini Shai-Hulud wave forged valid cryptographic provenance on 639 malicious npm package versions , one day after attackers compromised a VS Code extension with 2.2 mil",
     "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5FQmQSwA5ildYThVabXRtN/d1a66b6f3af835b869acb0cacb1fc1a5/Github_hero.png?w=300&q=30",
@@ -238,7 +476,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-66610817492819",
+    "id": "gal-37841121934325",
     "title": "Airbnb expands into hotel bookings and even grocery deliveries",
     "description": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
     "image": "https://www.engadget.com/img/gallery/airbnb-expands-into-hotel-bookings-groceries/l-intro-1779288779.jpg",
@@ -252,7 +490,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-89775617454054",
+    "id": "gal-80984222288376",
     "title": "A new experiment brings better group meetings to Google Beam",
     "description": "",
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp",
@@ -266,7 +504,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-55740650863238",
+    "id": "gal-19792257374600",
     "title": "Bye-bye, Gemini CLI; Google's gone and swapped you for a closed-source AI",
     "description": "Most users lose access June 18 - unless you’ve got enterprise creds or paid API keys",
     "image": "https://image.theregister.com/?imageId=259329&width=800",
@@ -280,7 +518,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-66244218631716",
+    "id": "gal-47173903278795",
     "title": "Quantic Dream is shutting down its MOBA Spellcasters Chronicles",
     "description": "Spellcasters Chronicles struggled to compete with games like League of Legends and Dota.",
     "image": "https://www.engadget.com/img/gallery/quantic-dream-is-shutting-down-its-moba-spellcasters-chronicles/l-intro-1779295384.jpg",
@@ -294,7 +532,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-12549306258321",
+    "id": "gal-85825920816826",
     "title": "A New York Cop Got Injured at a Boxing Match. Now Madison Square Garden Is Banning His Lawyer",
     "description": "",
     "image": "https://media.wired.com/photos/6a07a29943055fabd16c102c/master/pass/GettyImages-1765612191.jpg",
@@ -308,7 +546,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-57962874078418",
+    "id": "gal-90497636109371",
     "title": "Plex appeal fades as Lifetime Pass jumps to $750",
     "description": "How many times would you have to watch Lord of the Rings to cover that?",
     "image": "https://image.theregister.com/?imageId=5240227&width=800",
@@ -322,7 +560,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-13541426828134",
+    "id": "gal-59952858755092",
     "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
     "description": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
     "image": "https://www.engadget.com/img/gallery/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/l-intro-1779289906.jpg",
@@ -336,7 +574,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-40518741083637",
+    "id": "gal-90588290707229",
     "title": "It’s Officially Election Season in Trumpworld",
     "description": "",
     "image": "https://media.wired.com/photos/6a0cbdbd27172be772291c47/master/pass/politics_republicans_primaries_white_house.jpg",
@@ -350,7 +588,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-87773525132576",
+    "id": "gal-12343324922759",
     "title": "Man jailed for posting Trump meme wins $835,000 settlement",
     "description": "Sheriff loses fight with man he jailed for 37 days for posting a Trump meme on Facebook.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Larry-Bushart-via-FIRE.jpg-1152x648-1779285875.jpeg",
@@ -364,7 +602,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-14596848653092",
+    "id": "gal-18774344561862",
     "title": "Russia's plan to advertise on rockets and spacecraft takes off",
     "description": "We now pause for a word from our sponsors.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/coffee-1152x648.png",
@@ -378,7 +616,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-24916391722197",
+    "id": "gal-32835153539409",
     "title": "NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain'",
     "description": "The creators of NanoClaw — the hit open source, enterprise-friendly variant of autonomous AI agent harness OpenClaw — are moving towards commercializing their technology for enterprises at scale, aiming to provide them with secure AI agents, and an ever-updating library of workplace context, for each human employee the enterprise has approved. The duo, including former Wix.com engineer Gavriel Cohen and his brother Lazer Cohen, also founder of tech public relations firm Concrete Media , shared with VentureBeat that their new startup, NanoCo AI , has received a $12 million oversubscribed seed round was led by Valley Capital Partners. The round features a roster of strategic backers that reads like an enterprise infrastructure all-star team, including Docker, Vercel, monday.com, Factorial Capital, and Hugging Face CEO and founder Clem Delangue. Buoyed by the seed round, NanoCo AI wants to",
     "image": "https://images.ctfassets.net/jdtwqhzvc2n1/67xj6DK4EpxKDLtL9PF9tX/6eea0e06fa004840754be24e6ed0677e/Gemini_Generated_Image_h0efyrh0efyrh0ef.png?w=300&q=30",
@@ -392,7 +630,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-28318692476560",
+    "id": "gal-63713329181119",
     "title": "An hour-long PlayStation State of Play is set for June 2",
     "description": "State Of Play will feature a fresh peek at Marvel's Wolverine.",
     "image": "https://www.engadget.com/img/gallery/an-hour-long-playstation-state-of-play-is-set-for-june-2/l-intro-1779285673.jpg",
@@ -406,7 +644,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-58405374179064",
+    "id": "gal-45089076477842",
     "title": "Yearslong fight over users' right to tweak smart TV software heads to trial",
     "description": "Access to TV OS's source code could allow users to limit ads, tracking.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/vizeo-gplv2-software-1152x648.jpg",
@@ -420,7 +658,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-16129187078656",
+    "id": "gal-19674557062582",
     "title": "Those spared latest Meta job cuts forcibly reassigned to AI roles",
     "description": "Staff protest overhaul and mouse tracking at 'Employee Data Extraction Factory'",
     "image": "https://image.theregister.com/?imageId=224816&width=800",
@@ -434,7 +672,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-37874663430856",
+    "id": "gal-60835534430208",
     "title": "‘Perfect Storm’: How Trump’s Aid Cuts Are Fueling the Ebola Outbreak",
     "description": "",
     "image": "https://media.wired.com/photos/6a0cd2416abd255867f55346/master/pass/science_ebola_GettyImages-2276349583.jpg",
@@ -448,7 +686,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-55729185539937",
+    "id": "gal-30875180058621",
     "title": "China banned RTX 5090D V2 while Nvidia CEO Jensen Huang was visiting",
     "description": "The chip was added to a list of banned goods at China’s customs checkpoints last Friday.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2212801534-1024x648.jpg",
@@ -462,7 +700,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-33095872979081",
+    "id": "gal-74296266028892",
     "title": "XGIMI Titan Noir Max projector review: Excellent image quality, but short on features",
     "description": "It offers bright and incredibly accurate video in an elegant body, but has no smart TV features.",
     "image": "https://www.engadget.com/img/gallery/xgimi-titan-noir-max-projector-review-excellent-image-quality-but-short-on-features/l-intro-1779283245.jpg",
@@ -476,7 +714,21 @@
     "from_old_news": true
   },
   {
-    "id": "gal-13147112927193",
+    "id": "gal-44360432904510",
+    "title": "Datacenter builds could be shielded from judicial review in UK planning reforms",
+    "description": "British government wants to ensure no hold-ups for critical energy and infrastructure projects",
+    "image": "https://image.theregister.com/?imageId=5226654&width=800",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/systems/2026/05/20/datacenter-builds-could-be-shielded-from-judicial-review-in-uk-planning-reforms/5243354",
+    "created_at": "2026-05-20T12:49:37+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-44296056493484",
     "title": "Ride1Up Roadster Review (2026): An Ebike That Feels Like a Bike",
     "description": "",
     "image": "https://media.wired.com/photos/6a0b81bba9ee0c040889a5de/master/pass/Review%20Ride1Up%20Roadster%20V3%20top%20art%20052026%20SOURCE%20Ride1Up.jpg",
@@ -490,7 +742,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-45074330880037",
+    "id": "gal-12859403378260",
     "title": "Microsoft says cu l8r to text message security",
     "description": "Old, busted, insecure authentication to be replaced with something shinier and safer",
     "image": "https://image.theregister.com/?imageId=5243350&width=800",
@@ -504,7 +756,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-56019860959962",
+    "id": "gal-11715998279846",
     "title": "Hypershell X Ultra S Review: The Best Exoskeleton Yet",
     "description": "",
     "image": "https://media.wired.com/photos/6a0ce2b14796025b5de354be/master/pass/gear_Hypershell_3.jpg",
@@ -518,7 +770,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-66881378884066",
+    "id": "gal-87361444704186",
     "title": "'Workforce rebalancing' comes for Kyndryl, and delivery teams are in the firing line",
     "description": "Big Blue spinout eyes up to $500M in savings and agentic AI while insiders grumble it's still 'IBM without the hardware'",
     "image": "https://image.theregister.com/?imageId=5243418&width=800",
@@ -532,7 +784,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-21113216615749",
+    "id": "gal-33448305052162",
     "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
     "description": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
     "image": "https://www.engadget.com/img/gallery/engadget-podcast-google-io-2026-is-ai-all-the-way-down/l-intro-1779279212.jpg",
@@ -542,174 +794,6 @@
     "source": "Engadget",
     "source_url": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
     "created_at": "2026-05-20T12:15:20+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-67034653598937",
-    "title": "The Herman Miller Coyl is a very handsome and modular gaming desk",
-    "description": "Legendary furniture maker Herman Miller has made a gorgeous gaming desk that has a price tag you'd expect from the brand.",
-    "image": "https://www.engadget.com/img/gallery/the-herman-miller-coyl-is-a-very-handsome-and-modular-gaming-desk/l-intro-1779227083.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Engadget",
-    "source_url": "https://www.engadget.com/2177241/herman-miller-coyl-gaming-desk/",
-    "created_at": "2026-05-20T12:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-86547048117250",
-    "title": "AMD says its $4K Ryzen AI Halo workstation practically pays for itself",
-    "description": "Assuming you’re vibe coding for 8 hours a day, that is",
-    "image": "https://image.theregister.com/?imageId=5242797&width=800",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/ai-ml/2026/05/20/amd-says-its-4k-ryzen-ai-halo-workstation-practically-pays-for-itself/5242782",
-    "created_at": "2026-05-20T12:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-39247027858633",
-    "title": "ESA boss tires of being dragged around by NASA mood swings",
-    "description": "Are we pilots or are we passengers? Aschbacher asks",
-    "image": "https://image.theregister.com/?imageId=245798&width=800",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/science/2026/05/20/esa-boss-tires-of-being-dragged-around-by-nasa-mood-swings/5243235",
-    "created_at": "2026-05-20T11:34:36+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-89777925768209",
-    "title": "How to Upgrade Weber and Kamado Joe Into Smart Grills",
-    "description": "",
-    "image": "https://media.wired.com/photos/6a0b7cdeabf886305a556f72/master/pass/Tech%20to%20Make%20Your%20Dumb%20Grill%20Smart%20top%20art%20052026%20SOURCE%20Amazon.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Wired",
-    "source_url": "https://www.wired.com/story/how-to-make-dumb-grills-into-smart-grills/",
-    "created_at": "2026-05-20T11:32:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-51376751854235",
-    "title": "Everything to Look for When Buying a New Laptop in 2026",
-    "description": "",
-    "image": "https://media.wired.com/photos/6a0b35d50ce29a972051a268/master/pass/Laptop%20buying%20guide%20update%20top%20art%20052026%20SOURCE%20Apple-Dell-Razer.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Wired",
-    "source_url": "https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/",
-    "created_at": "2026-05-20T11:01:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-48021889780855",
-    "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
-    "description": "Figure AI's 24/7 livestream showcases human soft spot for humanoid robots.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-1.15.37-PM-1152x648.png",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Ars Technica",
-    "source_url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
-    "created_at": "2026-05-20T11:00:34+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-68486626498332",
-    "title": "Will Robotics Have a ChatGPT Moment?",
-    "description": "Over the next few decades, billions of autonomous, AI-powered robots will work alongside people in factories, perform tedious tasks in warehouses, care for the elderly, assist in unsafe disaster areas , deliver packages and food to our doorsteps, and eventually, help out in our homes. Some will look like us, and many won’t. What is certain is that regardless of form factor, robots will all rely heavily on AI in order to deliver real-world value. In 2025, total investments in robotics companies reached a record $40.7 billion, accounting for 9 percent of all venture funding . The multibillion dollar question therefore is this: What will it take for AI-powered robots to begin to have a serious economic impact? Many of today’s robotics and AI companies are making bold claims, such as that humanoid robots will soon be coming into our homes , but there’s still a big gap between promise and rea",
-    "image": "https://spectrum.ieee.org/media-library/a-collection-of-5-robots-against-colored-backgrounds.jpg?id=66734221&width=980",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "IEEE Spectrum",
-    "source_url": "https://spectrum.ieee.org/robotics-ai-breakthrough",
-    "created_at": "2026-05-20T11:00:01+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-37194478350283",
-    "title": "Trump Wants to Be the Hero Vapers Don’t Really Need",
-    "description": "",
-    "image": "https://media.wired.com/photos/6a0600d96e13ec6005919229/master/pass/Trump-Vape-Baddie-Culture.gif",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Wired",
-    "source_url": "https://www.wired.com/story/trump-wants-to-be-the-hero-vapers-dont-really-need/",
-    "created_at": "2026-05-20T11:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-70095096678322",
-    "title": "GitHub says internal repos exfiltrated after poisoned VS Code extension attack",
-    "description": "Initial assessment says customer data spared while users wonder what else may have slipped out",
-    "image": "https://image.theregister.com/?imageId=5241973&width=800",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/devops/2026/05/20/github-says-internal-repos-exfiltrated-after-poisoned-vs-code-extension-attack/5243206",
-    "created_at": "2026-05-20T10:27:44+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-71281501084716",
-    "title": "Corti's new Symphony for Speech-to-Text model beats OpenAI at medical terminology accuracy, highlighting the value of specialized AI",
-    "description": "Today, Copenhagen-based healthcare AI Corti is launching Symphony for Speech-to-Text, a new generation of clinical-grade speech recognition models engineered specifically for real-time dictation, conversational transcription, and batch audio processing — and their accuracy rate is the highest for this specific use case yet recorded. \"We are focused on ensuring our AI scribes can be trusted by physicians, medical practitioners and patients...the entire healthcare system,\" said Andreas Cleve, co-founder and CEO of Corti, in an exclusive video call interview with VentureBeat. The performance data the company is bringing to the table paints a stark picture of the current state of enterprise AI: when it comes to highly regulated, specialized industries, domain-specific models can beat out the foundation model providers. In a newly published research paper , Corti revealed that its new clinica",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5AvoBLgVnZwDZyWuypV9sy/5e5d3a43ec0fe1ee5ec5ccc4d61a0bb4/ChatGPT_Image_May_19__2026__11_20_00_PM.png?w=300&q=30",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "VentureBeat",
-    "source_url": "https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai",
-    "created_at": "2026-05-20T10:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-24512233163116",
-    "title": "Election Officials Are Getting Ready for ICE to Show Up at the Polls",
-    "description": "",
-    "image": "https://media.wired.com/photos/6a05ea458888ff8e2bbc35f3/master/pass/GettyImages-1244618007.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Wired",
-    "source_url": "https://www.wired.com/story/election-officials-are-getting-ready-for-ice-to-show-up-midterms/",
-    "created_at": "2026-05-20T10:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-69827187848489",
-    "title": "Smaller suppliers invited to pitch for £2.9B UK defense tech framework",
-    "description": "Government Commercial Agency wants DIPS 2 to reach beyond MoD buyers and the usual big-name suppliers",
-    "image": "https://image.theregister.com/?imageId=5243266&width=800",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/public-sector/2026/05/20/smaller-suppliers-invited-to-pitch-for-29b-uk-defense-tech-framework/5243217",
-    "created_at": "2026-05-20T09:54:25+00:00",
     "gallery_source": "older_active_news",
     "from_old_news": true
   }

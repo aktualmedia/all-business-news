@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T20:00:24.048303+00:00",
+  "updated_at": "2026-05-21T00:05:01.491979+00:00",
   "sources": 236,
   "ok": 167,
   "problem": 54,
@@ -280,6 +280,17 @@
       "error": ""
     },
     {
+      "id": "src-104",
+      "name": "Deadline",
+      "category": "kultura",
+      "url": "https://deadline.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-165",
       "name": "Decanter",
       "category": "pica",
@@ -295,17 +306,6 @@
       "name": "Decanter Wine - Google News",
       "category": "pica",
       "url": "https://news.google.com/rss/search?q=site:decanter.com%20wine&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-118",
-      "name": "DesignWanted",
-      "category": "dizajn",
-      "url": "https://designwanted.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -489,6 +489,17 @@
       "error": ""
     },
     {
+      "id": "src-124",
+      "name": "Highsnobiety",
+      "category": "lifestyle",
+      "url": "https://www.highsnobiety.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-123",
       "name": "Hypebeast",
       "category": "lifestyle",
@@ -654,10 +665,10 @@
       "error": ""
     },
     {
-      "id": "extra-care-002",
-      "name": "MindBodyGreen",
-      "category": "lifestyle",
-      "url": "https://www.mindbodygreen.com/rss.xml",
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1138,32 +1149,10 @@
       "error": ""
     },
     {
-      "id": "src-104",
-      "name": "Deadline",
-      "category": "kultura",
-      "url": "https://deadline.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-125",
       "name": "Design Milk Lifestyle",
       "category": "lifestyle",
       "url": "https://design-milk.com/category/lifestyle/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-124",
-      "name": "Highsnobiety",
-      "category": "lifestyle",
-      "url": "https://www.highsnobiety.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1362,6 +1351,17 @@
       "name": "Energy Monitor",
       "category": "trzista",
       "url": "https://www.energymonitor.ai/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-012",
+      "name": "Entrepreneur",
+      "category": "poslovanje",
+      "url": "https://www.entrepreneur.com/latest.rss",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1743,17 +1743,6 @@
       "error": ""
     },
     {
-      "id": "src-012",
-      "name": "Entrepreneur",
-      "category": "poslovanje",
-      "url": "https://www.entrepreneur.com/latest.rss",
-      "status": "ok",
-      "label": "radi",
-      "count": 9,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-025",
       "name": "Our World in Data",
       "category": "ekonomija",
@@ -1761,6 +1750,17 @@
       "status": "ok",
       "label": "radi",
       "count": 9,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "extra-care-002",
+      "name": "MindBodyGreen",
+      "category": "lifestyle",
+      "url": "https://www.mindbodygreen.com/rss.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 8,
       "score": 100,
       "error": ""
     },
@@ -2205,6 +2205,17 @@
       "error": "HTTP Error 403: Forbidden"
     },
     {
+      "id": "src-118",
+      "name": "DesignWanted",
+      "category": "dizajn",
+      "url": "https://designwanted.com/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
+    },
+    {
       "id": "src-132",
       "name": "Dezeen Events",
       "category": "lifestyle",
@@ -2379,17 +2390,6 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-034",
