@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-21T18:33:09.664100+00:00",
+  "updated_at": "2026-05-21T22:59:21.953864+00:00",
   "sources": 69,
-  "ok_sources": 13,
-  "events_count": 167,
+  "ok_sources": 12,
+  "events_count": 154,
   "results": [
     {
       "id": "infozagreb-events",
@@ -606,8 +606,9 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "muzej / izložbe",
-      "status": "ok",
-      "count": 14
+      "status": "fallback",
+      "count": 1,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "id": "centre-pompidou",

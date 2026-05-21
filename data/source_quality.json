@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-21T18:34:33.330188+00:00",
+  "updated_at": "2026-05-21T23:00:52.021481+00:00",
   "sources": 236,
-  "ok": 166,
-  "problem": 56,
+  "ok": 167,
+  "problem": 54,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -152,17 +152,6 @@
       "name": "Atlas Obscura",
       "category": "lifestyle",
       "url": "https://www.atlasobscura.com/feeds/latest",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "global-extra-041",
-      "name": "BBC World - Google News",
-      "category": "vijesti",
-      "url": "https://news.google.com/rss/search?q=site:bbc.com%2Fnews%20world&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -460,17 +449,6 @@
       "name": "Forbes Innovation",
       "category": "poslovanje",
       "url": "https://www.forbes.com/innovation/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-050",
-      "name": "FreightWaves",
-      "category": "trzista",
-      "url": "https://www.freightwaves.com/news/feed",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -830,17 +808,6 @@
       "error": ""
     },
     {
-      "id": "src-015",
-      "name": "Quartz",
-      "category": "poslovanje",
-      "url": "https://qz.com/rss",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-002",
       "name": "Reuters Business - Google News",
       "category": "poslovanje",
@@ -1138,6 +1105,17 @@
       "error": ""
     },
     {
+      "id": "global-extra-041",
+      "name": "BBC World - Google News",
+      "category": "vijesti",
+      "url": "https://news.google.com/rss/search?q=site:bbc.com%2Fnews%20world&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-099",
       "name": "Creative Review",
       "category": "kultura",
@@ -1160,10 +1138,32 @@
       "error": ""
     },
     {
+      "id": "src-050",
+      "name": "FreightWaves",
+      "category": "trzista",
+      "url": "https://www.freightwaves.com/news/feed",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-036",
       "name": "National Jeweler - Google News",
       "category": "nakit",
       "url": "https://news.google.com/rss/search?q=site:nationaljeweler.com%20jewelry&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-015",
+      "name": "Quartz",
+      "category": "poslovanje",
+      "url": "https://qz.com/rss",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1490,6 +1490,17 @@
       "error": ""
     },
     {
+      "id": "src-138",
+      "name": "LSE Business Review",
+      "category": "ekonomija",
+      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-150",
       "name": "Logistics Manager",
       "category": "trzista",
@@ -1666,6 +1677,17 @@
       "error": ""
     },
     {
+      "id": "src-102",
+      "name": "Variety",
+      "category": "kultura",
+      "url": "https://variety.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-168",
       "name": "Wine Enthusiast",
       "category": "pica",
@@ -1736,17 +1758,6 @@
       "name": "Retail Dive",
       "category": "trzista",
       "url": "https://www.retaildive.com/feeds/news/",
-      "status": "ok",
-      "label": "radi",
-      "count": 9,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-102",
-      "name": "Variety",
-      "category": "kultura",
-      "url": "https://variety.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 9,
@@ -1912,6 +1923,17 @@
       "name": "IMF Blog",
       "category": "ekonomija",
       "url": "https://www.imf.org/en/Blogs/RSS",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
+      "id": "src-163",
+      "name": "JCK",
+      "category": "nakit",
+      "url": "https://www.jckonline.com/feed/",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -2337,17 +2359,6 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "id": "src-163",
-      "name": "JCK",
-      "category": "nakit",
-      "url": "https://www.jckonline.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "The read operation timed out"
-    },
-    {
       "id": "src-048",
       "name": "Kitco News",
       "category": "trzista",
@@ -2357,17 +2368,6 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-138",
-      "name": "LSE Business Review",
-      "category": "ekonomija",
-      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-127",

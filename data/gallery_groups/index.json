@@ -1,78 +1,78 @@
 {
-  "updated_at": "2026-05-21T18:34:33.292123+00:00",
+  "updated_at": "2026-05-21T23:00:51.984999+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 70,
-      "cover": "https://variety.com/wp-content/uploads/2026/02/92_ISBFLL-DAY27-81332.jpg"
+      "count": 78,
+      "cover": "https://deadline.com/wp-content/uploads/2026/05/Cannes-Film-Festival-Reviews-2026.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 30,
-      "cover": "https://cdn.mos.cms.futurecdn.net/GGrXg9S53exnC7Ubn9cBMc-1280-80.jpg"
+      "count": 21,
+      "cover": "https://www.yankodesign.com/images/design_news/2026/05/flipper-one-launches-with-5g-satellite-and-the-ability-to-turn-any-hotel-tv-into-a-linux-desktop/flipper_one_1.jpeg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 5,
-      "cover": "https://robbreport.com/wp-content/uploads/2026/05/Lynn_Hall_PA_27.jpg"
+      "count": 8,
+      "cover": "https://robbreport.com/wp-content/uploads/2026/05/nyc-luxury-real-estate-market.jpg"
     },
     {
       "id": "hrana",
       "label": "HRANA",
-      "count": 3,
-      "cover": "https://assets.bonappetit.com/photos/6a0f13a84c0e0714e007d4fe/master/pass/20260507_01_Big%20Bean%20Ceviche_089_FINAL_HORIZONTAL.jpg"
+      "count": 4,
+      "cover": "https://assets.bonappetit.com/photos/6a0f6d85527fd5f173f7b091/master/pass/Hello%20Fresh%202026%201.jpg"
     },
     {
       "id": "pica",
       "label": "PIĆA",
-      "count": 28,
+      "count": 6,
       "cover": "https://daily.sevenfifty.com/wp-content/uploads/2022/07/SFD_Science_of_NA_Production_CR_iStock_Hero_2520x1420-768x433.jpg"
     },
     {
       "id": "satovi",
       "label": "SATOVI",
-      "count": 9,
+      "count": 5,
       "cover": "https://hodinkee.imgix.net/uploads/images/54a6c17b-31e2-4e73-a162-a7a82d0bb4db/SAGEGREY.jpeg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 41,
-      "cover": "https://img.atlasobscura.com/oB8Dw8wwJmF-9TT8FRPE67FcOeLvTvZipTgjG9Xr16I/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82OWYz/OWVmZS0wOTc5LTRm/NGUtOTNiMC1jYjJj/MTdjNTAxNTQwYWI0/Y2MxNjM5MmIyM2I0/MWJfNTk2MjEyNTMy/MF9kMDhhNDY3Mzc4/X3ouanBn.jpg"
+      "count": 27,
+      "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F21%2Ffakemink-6lack-terrified-love-is-the-new-gangsta-bladee-veeze-lisa-stormzy-new-music-friday-0.jpg?w=800&cbr=1&q=90&fit=max"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 53,
-      "cover": "https://media.wired.com/photos/6a0e2b7526c9e97a2b5443cb/master/pass/pol_palantir_GettyImages-2276544431.jpg"
+      "count": 52,
+      "cover": "https://www.engadget.com/img/gallery/you-can-now-add-chatgpt-to-powerpoint/l-intro-1779402063.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 74,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/elon-musk-has-said-hum.jpg"
+      "count": 116,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-neighborhoods-bur.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 110,
-      "cover": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2262744304.jpg"
+      "count": 109,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a0f73da6928fdb92d0cbce7/0x0.jpg"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 54,
-      "cover": "https://images.mktw.net/im-43195140"
+      "count": 45,
+      "cover": "https://images.mktw.net/im-15324430"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 23,
-      "cover": "https://www.visualcapitalist.com/wp-content/uploads/2026/05/10-Biggest-Challenges-Companies-Face_Leadership-Contract_Share.webp"
+      "count": 29,
+      "cover": "https://imgproxy.divecdn.com/m1zh0M4MYgWSBh0OjRTFSNLgYb_7z_GKRhCFffFAlqg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDM3MC5qcGVn.webp"
     }
   ]
 }
