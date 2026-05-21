@@ -1,6 +1,861 @@
 [
   {
-    "id": "31ed27ac52ce2853",
+    "id": "b7a4a226b22c776a",
+    "title": "Enterprise AI agents keep failing because they forget what they learned",
+    "description": "RAG architectures are good at one thing: surfacing semantically relevant documents. That's also where they stop. A framework called a decision context graph addresses that gap by giving agents structured memory, time-aware reasoning, and explicit decision logic. Rippletide , a startup in the Neo4j ecosystem, has built one. The key capability: agents that are non-regressive, able to freeze validated sequences of actions and compound on them over time. “The key point you want is non-regressivity: How do you make sure that, when the agent will generate something new, you can compound on the previous discoveries?” said Yann Bilien, Rippletid’s co-founder and chief scientific officer. Why RAG doesn’t go far enough Enterprise context is sprawled across ERP tools, logs, databases, vector stores, and policy documents. Generative AI tools can retrieve from all of it — through keyword search, SQL ",
+    "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/XxEoqdkwC8dR16yuLD73f/b5b23fc19b843586548b74783aea01e6/u7277289442_An_AI_agent_is_sitting_at_a_desk._The_desk_is_cov_75a9078a-ea3d-421e-bf5d-23a650aab330_0.png?w=300&q=30",
+    "source": "VentureBeat",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T18:43:00+00:00",
+    "fetched_at": "2026-05-21T17:42:41.437112+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "0a4d66a01b10019d",
+    "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
+    "description": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening history, as well as info from apps you connect to it, like your email inbox, calendar, and notes. Spotify says its AI can […]",
+    "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+    "image": "https://picsum.photos/seed/wv-fill-b8a10f56e00a/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:42:41.159212+00:00",
+    "fetched_at": "2026-05-21T17:42:41.159215+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "78d70b33cfd518bc",
+    "title": "Spotify is going to reserve concert tickets for ‘real fans’",
+    "description": "As part of a new \"Reserved\" program, Spotify is going to start offering concert tickets for \"real fans\" of participating bands that are going on tour. The idea with the Reserved program is to give people an option to buy tickets without the hassle and stress that often comes with securing a spot for a […]",
+    "url": "https://www.theverge.com/entertainment/935394/spotify-reserved-concert-ticket-presales",
+    "image": "https://picsum.photos/seed/wv-fill-7816ae54250e/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:42:41.159154+00:00",
+    "fetched_at": "2026-05-21T17:42:41.159157+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "dc6fa2eaa1b2f07a",
+    "title": "Spotify is launching AI-generated remixes",
+    "description": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add-on for Premium subscribers. Artists will be able to opt out of the program, but those who do participate will collect royalties […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
+    "image": "https://picsum.photos/seed/wv-fill-df74f63a586c/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:42:41.159099+00:00",
+    "fetched_at": "2026-05-21T17:42:41.159101+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "888394067309fd98",
+    "title": "GitHub faces a fight for its survival at Microsoft",
+    "description": "When Microsoft announced it was acquiring GitHub in a $7.5 billion deal in 2018, developers were nervous. Some were concerned about Microsoft controlling GitHub, and others were taking a wait-and-see approach. Nearly eight years later, GitHub is now fighting for its survival, amid a surge of outages, security issues, and pressure from competitors. In the […]",
+    "url": "https://www.theverge.com/tech/935250/microsoft-github-struggles-notepad",
+    "image": "https://picsum.photos/seed/wv-fill-7a686d08789a/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:42:41.159049+00:00",
+    "fetched_at": "2026-05-21T17:42:41.159051+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "a8da8d0a19ab1285",
+    "title": "Meta and Google get data from the app your boss uses to track you",
+    "description": "Hundreds of thousands of workplaces use software to monitor employees. Now, a new study has found that many of these tools share data not just with employers, but with digital advertising platforms and data brokers as well. The review was led by Stephanie Nguyen, senior fellow at Columbia Law School's Center for Law and the […]",
+    "url": "https://www.theverge.com/policy/935299/bossware-employer-surveillance",
+    "image": "https://picsum.photos/seed/wv-fill-08219330dc35/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:42:41.158997+00:00",
+    "fetched_at": "2026-05-21T17:42:41.159000+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "3a34f14fd11d3f97",
+    "title": "The cost of the smart home is going up",
+    "description": "Selling the smart home has been hard. Even Amazon has lost money in the space, despite putting hundreds of millions of Echo devices in people's homes. Google has also reportedly struggled to turn a profit from its substantial investment in Nest. But now Google is seeing dollar signs in the prospect of selling AI-driven subscriptions […]",
+    "url": "https://www.theverge.com/tech/935298/smart-home-cost-increase-ai-subscription-fatigue",
+    "image": "https://picsum.photos/seed/wv-fill-78c0a83b8036/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:42:41.158944+00:00",
+    "fetched_at": "2026-05-21T17:42:41.158947+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "c2134fe2f3003943",
+    "title": "This mechanical bird drops dead when your home’s air quality worsens",
+    "description": "The original Birdie debuted in 2022 with a morbid-but-fun design - an air-quality monitor with a literal canary in a coal mine. When the CO2 in your home hit a certain level, a mechanical bird mounted on your wall would appear to drop dead, then prompt you to open a window to air things out. […]",
+    "url": "https://www.theverge.com/tech/935292/birdie-pro-smart-air-monitor-kickstarter-crowdfunding",
+    "image": "https://picsum.photos/seed/wv-fill-68ba9eaf13f7/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:42:41.158889+00:00",
+    "fetched_at": "2026-05-21T17:42:41.158891+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "d04a832910edd40e",
+    "title": "Uber is deploying its own self-driving cars again, just not as robotaxis",
+    "description": "Uber is putting its own autonomous vehicles back on the road as part of its new AV Lab project to collect data for its dozens of robotaxi partners. The cars will be fitted with all the sensors typical of self-driving cars, like cameras, lidar, and radar. But notably the vehicles will not be operating as […]",
+    "url": "https://www.theverge.com/news/935204/uber-av-lab-self-driving-data-collection",
+    "image": "https://picsum.photos/seed/wv-fill-8b2771a53625/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:42:41.158826+00:00",
+    "fetched_at": "2026-05-21T17:42:41.158829+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "1ca22319fb0c0f5f",
+    "title": "The Endless AI guitar pedal has potential",
+    "description": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with a reputation for building niche, idiosyncratic devices. The company has built grooveboxes around old-school trackers and a multi-effect […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
+    "image": "https://picsum.photos/seed/wv-fill-250457df723d/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:42:41.158739+00:00",
+    "fetched_at": "2026-05-21T17:42:41.158762+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "18932e22604d4811",
+    "title": "Sonos’s pint-sized Roam 2 speaker is 25 percent off for Memorial Day",
+    "description": "If your summer plans involve spending any time outdoors, whether on the trail or at a pool party, a good portable Bluetooth speaker can go a long way. The latest Sonos Roam is built precisely for those moments, and right now, it’s on sale at Amazon, Best Buy, and Walmart for $134 ($45 off) for […]",
+    "url": "https://www.theverge.com/gadgets/935452/sonos-roam-2-bluetooth-speaker-memorial-day-2026-deal-sale",
+    "image": "https://picsum.photos/seed/wv-fill-e4d117066e8b/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:42:41.158660+00:00",
+    "fetched_at": "2026-05-21T17:42:41.158674+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "f8961581cccae494",
+    "title": "Convective Capital raises an $85 million fund to build disaster resilience",
+    "description": "After launching to invest in fire tech, Convective is broadening its mandate to disaster resilience.",
+    "url": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
+    "image": "https://picsum.photos/seed/wv-fill-8ddcb683d53f/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:41:20+00:00",
+    "fetched_at": "2026-05-21T17:42:40.419573+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "e9fb5c983a6bfe30",
+    "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+    "description": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+    "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+    "image": "https://picsum.photos/seed/wv-fill-b11fe404235a/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:30:45+00:00",
+    "fetched_at": "2026-05-21T17:42:40.419643+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "ac01818cf33d436f",
+    "title": "Waymos in Atlanta and San Antonio keep driving into flooded roads",
+    "description": "Extreme weather continues to pose problems for autonomous vehicles.",
+    "url": "https://www.engadget.com/2178779/waymos-in-atlanta-and-san-antonio-keep-driving-into-flooded-roads/",
+    "image": "https://www.engadget.com/img/gallery/waymos-in-atlanta-and-san-antonio-keep-driving-into-flooded-roads/l-intro-1779384444.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:28:26+00:00",
+    "fetched_at": "2026-05-21T17:38:47.085381+00:00"
+  },
+  {
+    "id": "a89b3d6e5470fd6b",
+    "title": "Apple, Sony, and Bose headphones are all on sale for Memorial Day - I found the best deals",
+    "description": "Memorial Day deals on headphones are already live. These are my favorite options so far.",
+    "url": "https://www.zdnet.com/article/best-memorial-day-headphones-deals-2026/",
+    "image": "https://picsum.photos/seed/wv-news-3a4a314535fc/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:12:51+00:00",
+    "fetched_at": "2026-05-21T17:38:48.130672+00:00"
+  },
+  {
+    "id": "6b66c7c4e9a9f53a",
+    "title": "Spotify will start reserving concert tickets for an artist's most dedicated fans",
+    "description": "Premium Spotify users in the US might start getting a shot at reserved concert tickets.",
+    "url": "https://www.engadget.com/2178747/spotify-will-start-reserving-concert-tickets-for-an-artists-most-dedicated-fans/",
+    "image": "https://www.engadget.com/img/gallery/spotify-will-start-reserving-concert-tickets-for-an-artists-most-dedicated-fans/l-intro-1779383040.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:05:43+00:00",
+    "fetched_at": "2026-05-21T17:38:47.085637+00:00"
+  },
+  {
+    "id": "184200e54f317b73",
+    "title": "Switch to adaptive chargers? My advice after testing low-power options for a year",
+    "description": "Adaptive charging aims to reduce battery wear by keeping speeds low, but are the optimizations worth it?",
+    "url": "https://www.zdnet.com/article/i-converted-to-adaptive-chargers-and-already-feel-safer/",
+    "image": "https://picsum.photos/seed/wv-news-6a04f488c95e/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:00:42+00:00",
+    "fetched_at": "2026-05-21T17:38:48.130765+00:00"
+  },
+  {
+    "id": "202592deab37b1b8",
+    "title": "Announcing Claude Compliance API support with Cloudflare CASB",
+    "description": "Cloudflare now integrates with the Claude Compliance API, so that security teams can monitor Claude Enterprise activity directly in the Cloudflare Dashboard.",
+    "url": "https://blog.cloudflare.com/casb-anthropic-integration/",
+    "image": "https://picsum.photos/seed/wv-news-e370e0f82eca/1200/750",
+    "source": "Cloudflare Blog",
+    "source_id": "src-075",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:00:00+00:00",
+    "fetched_at": "2026-05-21T17:38:49.815631+00:00"
+  },
+  {
+    "id": "d2f0f99934384aca",
+    "title": "Humanoid taps Bosch for humanoid robot production",
+    "description": "Humanoid and Bosch are looking to put their humanoid robots into production",
+    "url": "https://www.engadget.com/2178726/humanoid-taps-bosch-for-humanoid-robot-production/",
+    "image": "https://www.engadget.com/img/gallery/humanoid-taps-bosch-for-humanoid-robot-production/l-intro-1779382664.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T16:58:43+00:00",
+    "fetched_at": "2026-05-21T17:38:47.085831+00:00"
+  },
+  {
+    "id": "f7606f364946554e",
+    "title": "I found the best early Memorial Day phone deals: Save big on Samsung, Google, Apple and more",
+    "description": "For Memorial Day, I've rounded up the best smartphone deals. Discounts are already live, so now is a great time to save.",
+    "url": "https://www.zdnet.com/article/best-early-memorial-day-phones-deals-2026/",
+    "image": "https://picsum.photos/seed/wv-news-39a8debd81bd/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T16:54:22+00:00",
+    "fetched_at": "2026-05-21T17:38:48.130836+00:00"
+  },
+  {
+    "id": "66d92bb7f965cbf6",
+    "title": "Top Gun turns 40",
+    "description": "Tony Scott's 1986 blockbuster and the 2022 sequel are the best recruitment tools the US Navy could hope for.",
+    "url": "https://arstechnica.com/culture/2026/05/top-gun-turns-40/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/topgun-LIST-1152x648.jpg",
+    "source": "Ars Technica",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T16:42:43+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528025+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "f8c112ae08600a36",
+    "title": "Americans can’t spot a deepfake, and that’s a business crisis, not just a consumer problem",
+    "description": "Presented by Veriff Americans can’t reliably distinguish real from AI-generated content, and that’s not just a media literacy problem; it’s a direct threat to how businesses verify identity online. New research finds that while many people are aware of deepfakes, their ability to distinguish them from reality is barely better than a coin flip. A 2026 survey conducted by Veriff and Kantar among 3,000 respondents in the United States, the United Kingdom, and Brazil shows Americans scoring just 0.07 on a scale where 0 represents random guessing. If people can’t distinguish authentic visual content, they can’t reliably distinguish authentic identities. In practice, that means the same users interacting with digital services are often unable to tell whether the person on the other side of a screen is real. That ineffectiveness has direct consequences for every digital business that relies on ",
+    "url": "https://venturebeat.com/security/americans-cant-spot-a-deepfake-and-thats-a-business-crisis-not-just-a-consumer-problem",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5QfNSHTW3hZUTYt18CC5bz/6113756b86709f7698795e12b82945df/red-Americans_canâ__t_spot_a_deepfake__and_thatâ__s_a_business_crisis__not_just_a_consumer_problem.jpg?w=300&q=30",
+    "source": "VentureBeat",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T16:30:00+00:00",
+    "fetched_at": "2026-05-21T17:42:41.437492+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "f298c68d02aa5de4",
+    "title": "MFA verifies who logged in. It has no idea what they do next.",
+    "description": "Every MFA check passed. Every login was legitimate. The compliance dashboard was green across every identity control. And the attacker was already inside, moving laterally through Active Directory with a valid session token, escalating privileges on a trajectory toward the domain controller. This is the scenario playing out inside enterprises that invested heavily in authentication and assumed the job was done. The credential was real. The multi-factor challenge was answered correctly. The system performed exactly as designed. It authenticated the user at the front door and never looked again. The breach didn't bypass MFA. It started after MFA succeeded. Authentication proves identity at a single point in time. Then it goes blind. Everything that follows, the lateral movement, the privilege escalation, the quiet exfiltration through Active Directory, falls outside what MFA was ever desig",
+    "url": "https://venturebeat.com/security/mfa-verifies-who-logged-in-it-has-no-idea-what-they-do-next",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5zHuG7dAmWDHPwyBvqk4M9/d26a3ad76bb016543959204109c49fed/teal-MFA_verifies_who_logged_in._It_has_no_idea_what_they_do_next.jpg?w=300&q=30",
+    "source": "VentureBeat",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T16:30:00+00:00",
+    "fetched_at": "2026-05-21T17:42:41.438005+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "563008625c60fb4d",
+    "title": "Home Depot and Lowe's have power tool deals for up to $400 off ahead of Memorial Day",
+    "description": "Save big on everything you need for DIY projects and home repairs with these Memorial Day deals on tools from DeWalt, Milwaukee, and more.",
+    "url": "https://www.zdnet.com/article/best-early-power-tool-deals-memorial-day-2026/",
+    "image": "https://picsum.photos/seed/wv-news-de5c08b34588/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T16:30:00+00:00",
+    "fetched_at": "2026-05-21T17:38:48.130897+00:00"
+  },
+  {
+    "id": "d1d6ac2002cf332b",
+    "title": "I found the best early Memorial Day outdoor deals: Lawn mowers, power banks, and more",
+    "description": "You can already find great Memorial Day deals on everything you need to upgrade your outdoor space.",
+    "url": "https://www.zdnet.com/article/best-early-memorial-day-2026-outdoor-deals/",
+    "image": "https://picsum.photos/seed/wv-news-3e4694bdfa42/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T16:28:00+00:00",
+    "fetched_at": "2026-05-21T17:38:48.130955+00:00"
+  },
+  {
+    "id": "d401ccae55ffb0c2",
+    "title": "Best Buy and Amazon just dropped prices on SSDs ahead of Memorial Day - I found the best deals",
+    "description": "Retailers like Amazon and Best Buy are offering steep discounts on high-capacity SSDs ahead of Memorial Day.",
+    "url": "https://www.zdnet.com/article/best-early-memorial-day-2026-ssd-deals/",
+    "image": "https://picsum.photos/seed/wv-news-d0a5d291f4e9/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T16:23:00+00:00",
+    "fetched_at": "2026-05-21T17:38:48.131013+00:00"
+  },
+  {
+    "id": "75ac7deb8cc03e1d",
+    "title": "Samsung's free 32-inch Odyssey monitor deal is back in stock - how to qualify",
+    "description": "Samsung's BOGO monitor deal is back. Here's what you need to know.",
+    "url": "https://www.zdnet.com/article/samsung-m9-odyssey-g7-bogo-deal-memorial-day-2026/",
+    "image": "https://picsum.photos/seed/wv-news-98b192f0f398/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T16:16:49+00:00",
+    "fetched_at": "2026-05-21T17:38:48.131067+00:00"
+  },
+  {
+    "id": "f444ca27d7ca9e2e",
+    "title": "Linus Torvalds on the AI claim that makes him angry, and what security researchers should never do",
+    "description": "Why Linux's creator sees AI as a double-edged sword for programmers.",
+    "url": "https://www.zdnet.com/article/linus-torvalds-has-a-love-hate-relationship-with-ai/",
+    "image": "https://picsum.photos/seed/wv-news-3e3c7bfc4922/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T16:15:00+00:00",
+    "fetched_at": "2026-05-21T17:38:48.131122+00:00"
+  },
+  {
+    "id": "718d1978857528c9",
+    "title": "These are the best early Memorial Day 2026 TV deals I've found so far",
+    "description": "Save hundreds on some of our most highly reviewed TVs from Samsung, LG, and more ahead of Memorial Day.",
+    "url": "https://www.zdnet.com/article/best-early-memorial-day-2026-tv-deals/",
+    "image": "https://picsum.photos/seed/wv-news-e9b438900e38/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T16:14:00+00:00",
+    "fetched_at": "2026-05-21T17:38:48.131177+00:00"
+  },
+  {
+    "id": "8e6281f4a94a2439",
+    "title": "Uh-oh, the International Space Station is leaking again",
+    "description": "\"This further confirms the wisdom of the current policy of retiring the ISS in 2030.\"",
+    "url": "https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/International_Space_Station_after_undocking_of_STS-132-1152x648.jpg",
+    "source": "Ars Technica",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T16:07:17+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528083+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "b8bf8ac35ab6f4f5",
+    "title": "These Marshall ANC headphones might finally pull me away from Bose and Sony - here's why",
+    "description": "I've never been a big on-ear headphones guy, but the new Marshall Milton ANC might change my mind due to their unique connectivity features.",
+    "url": "https://www.zdnet.com/article/marshall-milton-anc-first-look/",
+    "image": "https://picsum.photos/seed/wv-news-7fbdb2bf57ea/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T16:00:51+00:00",
+    "fetched_at": "2026-05-21T17:38:48.131232+00:00"
+  },
+  {
+    "id": "e73731189d9107ff",
+    "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
+    "description": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures.",
+    "url": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
+    "image": "https://picsum.photos/seed/wv-fill-cd2d1d4c7ee1/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T16:00:00+00:00",
+    "fetched_at": "2026-05-21T17:42:40.419699+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "e573cbc36bf0068f",
+    "title": "Google won't rest until Gemini is everywhere in your home",
+    "description": "The company is making it easier for manufacturers to make more Gemini-powered smart devices.",
+    "url": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
+    "image": "https://www.engadget.com/img/gallery/google-wont-rest-until-gemini-is-everywhere-in-your-home/l-intro-1778889836.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T16:00:00+00:00",
+    "fetched_at": "2026-05-21T17:38:47.085454+00:00"
+  },
+  {
+    "id": "245c47365bf38123",
+    "title": "Why the 2026 Hurricane Season Might Not Be That Bad",
+    "description": "",
+    "url": "https://www.wired.com/story/why-the-2026-hurricane-season-might-not-be-that-bad/",
+    "image": "https://media.wired.com/photos/6a0f1e8766610aa7774367c9/master/pass/GettyImages-2231055494.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T15:58:27+00:00",
+    "fetched_at": "2026-05-21T17:38:46.868597+00:00"
+  },
+  {
+    "id": "ae296383d54fe570",
+    "title": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me",
+    "description": "",
+    "url": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
+    "image": "https://media.wired.com/photos/6a0e4530773c1aab709e10aa/master/pass/Hands-On-With-Gemini-Gear-2276204472.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T15:48:24+00:00",
+    "fetched_at": "2026-05-21T17:38:46.868688+00:00"
+  },
+  {
+    "id": "2ab75ef6f8f711e5",
+    "title": "My favorite early Memorial Day deals: Save big on laptops, tablets, and more",
+    "description": "Memorial Day is this weekend. These are the best deals we found so far, including price drops from Apple, Samsung, Hisense, Ninja, and more.",
+    "url": "https://www.zdnet.com/article/best-early-memorial-day-deals-2026/",
+    "image": "https://picsum.photos/seed/wv-news-a11c3c20f2d9/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T15:42:47+00:00",
+    "fetched_at": "2026-05-21T17:38:48.131288+00:00"
+  },
+  {
+    "id": "517529a4782d823d",
+    "title": "You can't install Deepin Desktop from the official Fedora repo anymore - here's why",
+    "description": "Once called the most beautiful Linux, Deepin Desktop was plagued by security issues. Here's why the distro's exile isn't all bad news.",
+    "url": "https://www.zdnet.com/article/deepins-security-issues-wound-up-being-a-bridge-too-far-for-one-of-the-biggest-distributions/",
+    "image": "https://picsum.photos/seed/wv-news-749a90cddf94/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T15:41:18+00:00",
+    "fetched_at": "2026-05-21T17:38:48.131343+00:00"
+  },
+  {
+    "id": "90d0df3677b72b1a",
+    "title": "Spotify takes on Google’s NotebookLM with its new app",
+    "description": "Spotify is releasing the new desktop app as a research preview in more than 20 markets",
+    "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+    "image": "https://picsum.photos/seed/wv-fill-b247c087117b/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T15:27:00+00:00",
+    "fetched_at": "2026-05-21T17:42:40.419768+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "4623010d18b7c67a",
+    "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+    "description": "Spotify will let you generate daily or weekly briefs based on your prompts",
+    "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+    "image": "https://picsum.photos/seed/wv-fill-747c9e69cb9b/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T15:27:00+00:00",
+    "fetched_at": "2026-05-21T17:42:40.419824+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "23315e0b1b82266f",
+    "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+    "description": "Spotify is releasing new audiobook plans later this year",
+    "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+    "image": "https://picsum.photos/seed/wv-fill-a1c8d727489a/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T15:27:00+00:00",
+    "fetched_at": "2026-05-21T17:42:40.419866+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "270f2c8cc6582ec7",
+    "title": "Spotify will reserve tickets for top fans of an artists in a bid to drum up engagement",
+    "description": "Spotify said that it will monitor activity like streams and shares to determine who is a top fan",
+    "url": "https://techcrunch.com/2026/05/21/spotify-will-reserve-tickets-for-top-fans-of-an-artists-in-a-bid-to-drum-up-engagement/",
+    "image": "https://picsum.photos/seed/wv-fill-714cb434e8d3/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T15:26:00+00:00",
+    "fetched_at": "2026-05-21T17:42:40.419910+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "67d2fb87d758b840",
+    "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
+    "description": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
+    "url": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
+    "image": "https://picsum.photos/seed/wv-fill-2357367b406a/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T15:02:57+00:00",
+    "fetched_at": "2026-05-21T17:42:40.419952+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "7e87dc1a194fe858",
+    "title": "Flipper One wants to be the Linux multi-tool in your pocket",
+    "description": "Not a Zero successor, ARM box aims for openness, but shipping remains the hard part",
+    "url": "https://www.theregister.com/personal-tech/2026/05/21/flipper-one-wants-to-be-the-linux-multi-tool-in-your-pocket/5244165",
+    "image": "https://image.theregister.com/?imageId=5244193&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T15:02:00+00:00",
+    "fetched_at": "2026-05-21T17:38:48.057944+00:00"
+  },
+  {
+    "id": "259c3ce3748c0f1d",
+    "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+    "description": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was completely written…",
+    "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+    "image": "https://picsum.photos/seed/wv-fill-e62c9c99eb64/1200/750",
+    "source": "MIT Technology Review",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T14:30:45+00:00",
+    "fetched_at": "2026-05-21T17:42:40.386877+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "c92613b4e85b1841",
+    "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
+    "description": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
+    "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
+    "image": "https://picsum.photos/seed/wv-fill-e1665a24b343/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T14:27:46+00:00",
+    "fetched_at": "2026-05-21T17:42:40.419992+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "87eda7f533542c1c",
+    "title": "Web devs sleeping with the enemy: AI is doing their job and they worry it's after their desk too",
+    "description": "Most software engineers now use AI for most of their code and fear the existential threat",
+    "url": "https://www.theregister.com/devops/2026/05/21/web-devs-sleeping-with-the-enemy-ai-is-doing-their-job-and-they-worry-its-after-their-desk-too/5244132",
+    "image": "https://image.theregister.com/?imageId=5244266&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T14:26:00+00:00",
+    "fetched_at": "2026-05-21T17:38:48.058014+00:00"
+  },
+  {
+    "id": "58facbce002518de",
+    "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+    "description": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+    "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+    "image": "https://picsum.photos/seed/wv-fill-782bf9dc2486/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T14:00:00+00:00",
+    "fetched_at": "2026-05-21T17:42:40.420036+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "77462d8ea68d7fc0",
+    "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+    "description": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
+    "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+    "image": "https://picsum.photos/seed/wv-fill-6c5bf35b8894/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T14:00:00+00:00",
+    "fetched_at": "2026-05-21T17:42:40.420091+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "e60a1f5e45588ffc",
+    "title": "Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not engagement",
+    "description": "Maka Kids is building a streaming app for children ages zero to six featuring content designed for healthy development. The startup has now raised $3 million in seed funding to scale its platform.",
+    "url": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/",
+    "image": "https://picsum.photos/seed/wv-fill-96354075275a/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T14:00:00+00:00",
+    "fetched_at": "2026-05-21T17:42:40.420145+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "d08bf6d8fdf3d48d",
+    "title": "AWS parades orgs that took up its offer for Euro Sovereign Cloud",
+    "description": "Customers want their data kept and processed strictly within the EU",
+    "url": "https://www.theregister.com/paas-and-iaas/2026/05/21/aws-parades-orgs-that-took-up-its-offer-for-euro-sovereign-cloud/5244197",
+    "image": "https://image.theregister.com/?imageId=5240668&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T13:53:00+00:00",
+    "fetched_at": "2026-05-21T17:38:48.058071+00:00"
+  },
+  {
+    "id": "5e968bee73b6da0f",
+    "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+    "description": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
+    "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+    "image": "https://picsum.photos/seed/wv-fill-adbc91dec0fb/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T13:52:23+00:00",
+    "fetched_at": "2026-05-21T17:42:40.420191+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "2b0a00f8c3c49d05",
+    "title": "US government takes $2 billion equity stake in nine quantum computing firms",
+    "description": "Beneficiaries include startup backed by firm with links to the Trump family.",
+    "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM.png",
+    "source": "Ars Technica",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T13:48:38+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528129+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "c870b4f1c3b7a6b8",
+    "title": "Wayve’s self-driving tech is headed to US cars made by Stellantis",
+    "description": "Wayve's self-driving tech will show up in Stellantis vehicles in 2028.",
+    "url": "https://techcrunch.com/2026/05/21/wayves-self-driving-tech-is-headed-to-us-cars-made-by-stellantis/",
+    "image": "https://picsum.photos/seed/wv-fill-a14edc648d4a/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T13:46:07+00:00",
+    "fetched_at": "2026-05-21T17:42:40.420235+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "c62e1cbba08c5f35",
+    "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+    "description": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
+    "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+    "image": "https://picsum.photos/seed/wv-fill-cbbb3576e1e9/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T13:38:42+00:00",
+    "fetched_at": "2026-05-21T17:42:40.420276+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "d0fa96d20567baae",
+    "title": "Plug-in hybrids get plugged in more than you might think",
+    "description": "Toyota is the latest automaker to report PHEV charging stats, and they're encouraging.",
+    "url": "https://arstechnica.com/cars/2026/05/plug-in-hybrids-get-plugged-in-more-than-you-might-think/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1884481559-1152x648.jpg",
+    "source": "Ars Technica",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T13:34:53+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528169+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "162ab41ba24ad6e3",
+    "title": "NYC and LA Are Teaming Up to Fight for EVs",
+    "description": "",
+    "url": "https://www.wired.com/story/nyc-and-la-are-teaming-up-to-fight-for-evs/",
+    "image": "https://media.wired.com/photos/6a0e0dd7a38dc9cb19f67138/master/pass/NY-LA-Teaming-Up-EVs-Gear-55281267645_f3b617d84a_b.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T13:33:42+00:00",
+    "fetched_at": "2026-05-21T17:38:46.868809+00:00"
+  },
+  {
+    "id": "30ce0c99c48c1850",
+    "title": "Flipper unveils a Linux-powered networking gadget built for hackers and tinkerers",
+    "description": "Flipper Devices said that the new gadget is in development and the base model will cost under $350.",
+    "url": "https://techcrunch.com/2026/05/21/flipper-unveils-a-linux-powered-networking-gadget-built-for-hackers-and-tinkerers/",
+    "image": "https://picsum.photos/seed/wv-fill-dcb962663db8/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T13:25:37+00:00",
+    "fetched_at": "2026-05-21T17:42:40.420323+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "cceb448d4cd7a1bf",
+    "title": "Years after UK Post Office scandal broke, Accenture and OneView Commerce bag contract to replace Horizon",
+    "description": "Service tries to move on from troubled decades of Fujitsu relationship with £410 million in deals for system that hurt so many",
+    "url": "https://www.theregister.com/paas-and-iaas/2026/05/21/years-after-uk-post-office-scandal-broke-accenture-and-oneview-commerce-bag-contract-to-replace-horizon/5244243",
+    "image": "https://image.theregister.com/?imageId=5244269&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T13:20:00+00:00",
+    "fetched_at": "2026-05-21T17:38:48.058131+00:00"
+  },
+  {
+    "id": "7f780eb59da88f1d",
+    "title": "Gemini accused of 30,000-line code purge and fake recovery report",
+    "description": "Developer: AI coding agent broke production and generated fictitious post-mortem paperwork after the rollback",
+    "url": "https://www.theregister.com/ai-ml/2026/05/21/gemini-accused-of-30000-line-code-purge-and-fake-recovery-report/5244219",
+    "image": "https://image.theregister.com/?imageId=223620&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T13:01:00+00:00",
+    "fetched_at": "2026-05-21T17:38:48.058185+00:00"
+  },
+  {
+    "id": "2cdbd0c6106605e8",
+    "title": "These clever active beam headlights are finally coming to America",
+    "description": "The 2027 Audi Q9's digital matrix lights satisfy new NHTSA rules on minimizing glare.",
+    "url": "https://arstechnica.com/cars/2026/05/these-clever-active-beam-headlights-are-finally-coming-to-america/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/A251728_large-1152x648.jpg",
+    "source": "Ars Technica",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T13:00:09+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528209+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "12ae562095ed0e58",
+    "title": "These clever active beam headlights are finally coming to America - Ars Technica",
+    "description": "These clever active beam headlights are finally coming to America Ars Technica",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYTI3bEZ2UXB6LVlrN1owaXlWY3JUZ3o4bXVBcDlfd1B1Um96NnZNaVNGcFluSmozUkJ2WlMxUW9qRXRud2l2VTZ0dS03NkxQQ2c2RkFsTDFqNlNGSjlCdWxZeDRGRmM5eUZ4dUF3Yy1VS1NhUXh5UzBtUjlnSjhLaWhKOXR2NXphUXBha3RpNGtTYXNyTUw2Unc0VTZMNk1hVmp5ckh3?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-59d33c7483c6/1200/750",
+    "source": "Ars Technica - Google News",
+    "source_id": "global-extra-021",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T13:00:09+00:00",
+    "fetched_at": "2026-05-21T17:39:48.729148+00:00"
+  },
+  {
+    "id": "d4211a2aa3ffe8d2",
+    "title": "Resolve AI says the AI coding boom is breaking production systems. It wants to fix that.",
+    "description": "Resolve AI , the production-operations startup backed by Greylock and Lightspeed Venture Partners , today announced a sweeping expansion of its platform that introduces always-on background agents, a redesigned investigation architecture, and a shared workspace where engineers and AI agents collaborate in real time on live incidents. The centerpiece of the release is a new multi-agent investigation system developed by Resolve AI's in-house research lab. Instead of deploying a single AI agent to diagnose a production failure — analogous to a lone engineer pulling an on-call shift — the platform now dispatches a coordinated team of specialized agents that pursue multiple hypotheses in parallel, independently verify each other's conclusions, and construct complete causal chains from root cause to symptom. The company says the architecture delivers more than a twofold improvement in root cau",
+    "url": "https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6mg96DUMYtWkBE0e6ywoJH/d0f7b1a3861be6fc94961cac14bd3f61/Nuneybits_vector_art_of_a_small_neon_yellow-green_robot_sitting_e22d33a7-664c-4560-b2bd-a36d0e4356fb.webp?w=300&q=30",
+    "source": "VentureBeat",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T13:00:00+00:00",
+    "fetched_at": "2026-05-21T17:42:41.438996+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "663eed7b0579e937",
+    "title": "Kore.ai launches Artemis AI agent platform, expands challenge to Microsoft and Salesforce",
+    "description": "Kore.ai on Wednesday launched what amounts to a ground-up reinvention of its core technology: the Artemis edition of its Agent Platform , a system designed to let enterprises build, govern, and optimize AI agents using AI itself — compressing what has traditionally been months of engineering work into days. The platform arrives at a moment when every major technology vendor — from Microsoft and Salesforce to Google and ServiceNow — is racing to become the default infrastructure for enterprise AI agents. Kore.ai's answer to that crowded field is a bet on neutrality, a proprietary intermediary language for defining agents, and a philosophy that AI, not human developers, should do most of the heavy lifting. \"We're trying to change the paradigm about how people design, build, deploy and optimize agentic AI applications,\" Raj Koneru, the company's founder and CEO, told VentureBeat in an exclu",
+    "url": "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6tlO9rc0gBe644xQBOORlp/8e2ec72d1fe457b69e35b4772415aca0/Nuneybits_Vector_art_of_robot_agents_in_society_d92ca346-3082-41e3-a601-5f3b18018036.webp?w=300&q=30",
+    "source": "VentureBeat",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T13:00:00+00:00",
+    "fetched_at": "2026-05-21T17:42:41.439706+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "a528ce2239a6b2db",
+    "title": "Are you really going to talk to Gemini like that?",
+    "description": "Google's new AI features capitalize on the popularity of voice dictation, and a desire to leave the thinking to AI.",
+    "url": "https://www.engadget.com/2178197/google-io-2026-opinion-are-you-really-going-to-talk-to-gemini-like-that/",
+    "image": "https://www.engadget.com/img/gallery/are-you-really-going-to-talk-to-gemini-like-that/l-intro-1779311408.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T13:00:00+00:00",
+    "fetched_at": "2026-05-21T17:38:47.085523+00:00"
+  },
+  {
+    "id": "e831c1f9a7a0f025",
+    "title": "AI didn’t kill brand consistency — it made it mission-critical",
+    "description": "Presented by Design.com Generative AI has made design radically more accessible. A founder can now create a logo, launch a website, build social campaigns, generate presentations, and produce marketing collateral in a single afternoon — work that once required agencies, freelancers, or internal creative teams. But as design generation becomes easier, maintaining a recognizable identity becomes harder. The problem is no longer whether businesses can create content. It’s whether all of that content still feels like it comes from the same company. That shift matters most for emerging businesses. Established enterprises already have brand governance systems, design teams, and years of customer recognition reinforcing their identity. Small businesses and solo founders often have none of those advantages. Their brand is built almost entirely through digital touchpoints — websites, presentation",
+    "url": "https://venturebeat.com/technology/ai-didnt-kill-brand-consistency-it-made-it-mission-critical",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2JOAU46gGZTdVoO8tv9N2D/6d956b8197bce922f9f735d2e8fa3254/AdobeStock_200869161.jpeg?w=300&q=30",
+    "source": "VentureBeat",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T12:48:46+00:00",
+    "fetched_at": "2026-05-21T17:42:41.440011+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "8ab2f1f8a5b5814c",
+    "title": "Minecraft-streaming gran swatted while raising cash for grandson's cancer care",
+    "description": "Sue Jacquot said she had a great time, despite the rude awakening",
+    "url": "https://www.theregister.com/cyber-crime/2026/05/21/swatting-hoax-sees-cops-raid-elderly-minecraft-players-home/5244120",
+    "image": "https://image.theregister.com/?imageId=241914&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T12:41:00+00:00",
+    "fetched_at": "2026-05-21T17:38:48.058237+00:00"
+  },
+  {
+    "id": "86f98f56755bf8f0",
+    "title": "Attackers spill plaintext passwords of 46k Myspace93 users after 2021 breach",
+    "description": "Leakage blamed on treacherous friends exposed unencrypted credentials, email addresses",
+    "url": "https://www.theregister.com/security/2026/05/21/46k-plaintext-passwords-pwned-in-myspace93-breach/5244024",
+    "image": "https://image.theregister.com/?imageId=5244092&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T12:20:00+00:00",
+    "fetched_at": "2026-05-21T17:38:48.058292+00:00"
+  },
+  {
+    "id": "d6bb42ead20323b5",
+    "title": "The Download: online safety’s future and climate tech’s big pivot",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who study and try to counter hate speech,…",
+    "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
+    "image": "https://picsum.photos/seed/wv-fill-b752a0e59140/1200/750",
+    "source": "MIT Technology Review",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T12:10:00+00:00",
+    "fetched_at": "2026-05-21T17:42:40.386957+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "d8ad619b0699b03f",
     "title": "Volvo is trying to put its EV stumbles in the rearview",
     "description": "Volvo once had ambitions to fully exit the gas car business. Now it's trying to keep its tenuous foothold in the EV market. It's not an understatement to say that Volvo's EV journey has been a bumpy one. The compact EX40 has been a consistent winner, but the Swedish brand's other EVs have been plagued […]",
     "url": "https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy",
@@ -13,7 +868,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "8cee07f102f55494",
+    "id": "ab80437b8a24fcc5",
     "title": "Vibe coding is coming to your phone",
     "description": "\"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't strictly true - I'm still waiting for that one perfect grocery list app. Still, apps […]",
     "url": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
@@ -26,7 +881,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "71baca7e0718cfc1",
+    "id": "bfb2605006309aa6",
     "title": "I’ve tested the latest Switch 2 controllers, and this one is the best",
     "description": "If you choose to get an extra controller for your Nintendo Switch 2, you can spend a lot — and get a lot in return. Buying Nintendo’s own $89 Switch 2 Pro Controller, for instance, will net you the console’s only wireless controller with a 3.5mm headphone jack for private listening, not to mention great-feeling […]",
     "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
@@ -39,7 +894,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "3ee2764e34143394",
+    "id": "67266d52d24a0509",
     "title": "Here are 42 of our favorite deals from REI’s massive Anniversary Sale",
     "description": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleeping pad, or stove. If your summer […]",
     "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
@@ -52,7 +907,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "aa276bdec56c3990",
+    "id": "adb96dc5a2825ad8",
     "title": "‘Solve all diseases,’ you say?",
     "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's Google I/O coverage. You can expect our next issue at its usual time […]",
     "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
@@ -65,7 +920,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "7523c690936cafd8",
+    "id": "5f15f13e00673901",
     "title": "SpaceX just filed for what could be the biggest IPO ever",
     "description": "Elon Musk's final frontier is officially open for business now that SpaceX has formally filed its S-1 prospectus with the SEC. That kicks off what could be the largest initial public offering ever when it lists on the Nasdaq stock exchange with the ticker SPCX. SpaceX generated $18.67 billion in revenue in 2025, driven largely […]",
     "url": "https://www.theverge.com/business/902219/spacex-ipo-details",
@@ -78,7 +933,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "f3e9d76fda01eaff",
+    "id": "29be2f9b4f00f24c",
     "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
     "description": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with each other, shuffling money around in ways that are often difficult to keep track of. This is evident […]",
     "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
@@ -91,7 +946,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "77b07cef88dc48e1",
+    "id": "6a32c9a8b01a2e5c",
     "title": "Meta lays off thousands of employees to offset AI investments",
     "description": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business Insider, impacted staffers were told that the planned headcount reduction was part of the company's \"continued effort to run the company more efficiently […]",
     "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
@@ -104,7 +959,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "87c4f2e7c115e772",
+    "id": "28782dde29c5c9a6",
     "title": "‘Fuck you, Bambu’: How one private message could change the face of 3D printing",
     "description": "Bambu Lab makes the best, most accessible 3D printers yet, but that reputation is suddenly under siege. It all started when Paweł Jarczak received a private message from the company on Reddit asking him to delete his code. Now the 3D printing community is lining up behind Jarczak to fund a war against Bambu - […]",
     "url": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
@@ -117,6 +972,54 @@
     "missing_core_fill": true
   },
   {
+    "id": "958b5b6d3d5cdb74",
+    "title": "11 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
+    "description": "",
+    "url": "https://www.wired.com/gallery/best-meal-kit-services-1/",
+    "image": "https://media.wired.com/photos/69b24dc4853ef33f258516c7/master/pass/The-Best-Meal-Delivery-Services-and-Meal-Kits-of-2026.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T12:02:00+00:00",
+    "fetched_at": "2026-05-21T17:38:46.868907+00:00"
+  },
+  {
+    "id": "b55cd5ca9ee9fc48",
+    "title": "Best Duffel Bags: Eastpak, Patagonia, Baboon to the Moon (2026)",
+    "description": "",
+    "url": "https://www.wired.com/gallery/best-duffel-bags/",
+    "image": "https://media.wired.com/photos/6a0dfaed9e7a013d4de6fd54/master/pass/Update%20Best%20Duffels%20top%20art%20052026%20SOURCE%20Patagonia.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T12:02:00+00:00",
+    "fetched_at": "2026-05-21T17:38:46.868970+00:00"
+  },
+  {
+    "id": "6db492d5b6a32025",
+    "title": "Vivaldi 8 polishes the chrome without coating it in AI",
+    "description": "Unified UI revamp gives browser a cleaner look while rivals keep wedging assistants into the web",
+    "url": "https://www.theregister.com/personal-tech/2026/05/21/vivaldi-8-polishes-the-chrome-without-coating-it-in-ai/5243992",
+    "image": "https://image.theregister.com/?imageId=5244050&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T12:00:00+00:00",
+    "fetched_at": "2026-05-21T17:38:48.058344+00:00"
+  },
+  {
+    "id": "85a3fdb43c804c3b",
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "description": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+    "url": "https://openai.com/index/adventhealth",
+    "image": "https://picsum.photos/seed/wv-news-9d49a4b7b715/1200/750",
+    "source": "OpenAI News",
+    "source_id": "src-072",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T12:00:00+00:00",
+    "fetched_at": "2026-05-21T17:38:48.977591+00:00"
+  },
+  {
     "id": "e06c1866ed317a00",
     "title": "Scammers are abusing an internal Microsoft account to send spam links",
     "description": "The loophole allows spammers and scammers to send emails from a legitimate Microsoft email address typically used for sending genuine account alerts.",
@@ -126,7 +1029,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T11:42:57+00:00",
-    "fetched_at": "2026-05-21T12:03:25.465405+00:00",
+    "fetched_at": "2026-05-21T17:42:40.420365+00:00",
     "missing_core_fill": true
   },
   {
@@ -151,7 +1054,19 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-21T11:33:00+00:00",
-    "fetched_at": "2026-05-21T11:59:20.625703+00:00"
+    "fetched_at": "2026-05-21T17:38:46.869024+00:00"
+  },
+  {
+    "id": "2f4688cc249940b6",
+    "title": "Cisco serves up yet another perfect 10 bug with Secure Workload admin flaw",
+    "description": "Switchzilla says attackers could access sensitive data and make configuration changes across tenant boundaries through vulnerable internal APIs",
+    "url": "https://www.theregister.com/security/2026/05/21/cisco-serves-up-yet-another-perfect-10-bug-with-secure-workload-admin-flaw/5244012",
+    "image": "https://image.theregister.com/?imageId=5244089&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T11:27:00+00:00",
+    "fetched_at": "2026-05-21T17:38:48.058423+00:00"
   },
   {
     "id": "65f65b72730667ac",
@@ -163,7 +1078,7 @@
     "source_id": "src-073",
     "category": "tehnologija",
     "published_at": "2026-05-21T11:02:33+00:00",
-    "fetched_at": "2026-05-21T11:59:23.123711+00:00"
+    "fetched_at": "2026-05-21T17:38:49.309175+00:00"
   },
   {
     "id": "5f31e17184bbf320",
@@ -175,19 +1090,19 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-21T11:01:00+00:00",
-    "fetched_at": "2026-05-21T11:59:20.625768+00:00"
+    "fetched_at": "2026-05-21T17:38:46.869075+00:00"
   },
   {
-    "id": "1e723769f681cf3d",
-    "title": "Beauty booking startup Fresha hits $1 billion valuation with KKR backing",
+    "id": "a5ec80dd06dadb97",
+    "title": "Beauty booking startup Fresha hits $1B valuation with KKR backing",
     "description": "Beauty and wellness booking marketplace Fresha says it has raised $80 million investment from KKR’s Next Generation Technology Growth fund, KKR's growth equity arm.",
     "url": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
-    "image": "https://picsum.photos/seed/wv-fill-1b7031831bea/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-b06f6884f997/1200/750",
     "source": "TechCrunch",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T11:00:00+00:00",
-    "fetched_at": "2026-05-21T12:03:25.465460+00:00",
+    "fetched_at": "2026-05-21T17:42:40.420452+00:00",
     "missing_core_fill": true
   },
   {
@@ -203,6 +1118,18 @@
     "fetched_at": "2026-05-21T11:59:20.897610+00:00"
   },
   {
+    "id": "d1cccdf0f0d11236",
+    "title": "Apple adds AI smarts to Voice Control, VoiceOver and Magnifier ahead of Accessibility Day",
+    "description": "Natural language commands and better image descriptions but Mac users and dictation fans may still be waiting",
+    "url": "https://www.theregister.com/ai-ml/2026/05/21/apple-adds-ai-smarts-to-voice-control-voiceover-and-magnifier-ahead-of-accessibility-day/5243594",
+    "image": "https://image.theregister.com/?imageId=5244049&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T10:54:23+00:00",
+    "fetched_at": "2026-05-21T17:38:48.058477+00:00"
+  },
+  {
     "id": "211f0d9df9882746",
     "title": "Best Dyson Vacuums (2026): V15 Detect, Gen5Detect, PencilVac",
     "description": "",
@@ -212,7 +1139,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:38:00+00:00",
-    "fetched_at": "2026-05-21T11:59:20.625823+00:00"
+    "fetched_at": "2026-05-21T17:38:46.869127+00:00"
   },
   {
     "id": "025eaa24cffcc41d",
@@ -224,7 +1151,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:30:00+00:00",
-    "fetched_at": "2026-05-21T11:59:20.625885+00:00"
+    "fetched_at": "2026-05-21T17:38:46.869187+00:00"
   },
   {
     "id": "9dfbb4e5ce44ad40",
@@ -236,7 +1163,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:30:00+00:00",
-    "fetched_at": "2026-05-21T11:59:21.812121+00:00"
+    "fetched_at": "2026-05-21T17:38:48.058527+00:00"
   },
   {
     "id": "b5cfc58b23d1a7b3",
@@ -296,7 +1223,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:00:02+00:00",
-    "fetched_at": "2026-05-21T12:03:26.289064+00:00",
+    "fetched_at": "2026-05-21T17:42:41.491902+00:00",
     "missing_core_fill": true
   },
   {
@@ -309,7 +1236,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:00:02+00:00",
-    "fetched_at": "2026-05-21T12:03:26.289223+00:00",
+    "fetched_at": "2026-05-21T17:42:41.492039+00:00",
     "missing_core_fill": true
   },
   {
@@ -322,7 +1249,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:00:00+00:00",
-    "fetched_at": "2026-05-21T12:03:25.432751+00:00",
+    "fetched_at": "2026-05-21T17:42:40.387016+00:00",
     "missing_core_fill": true
   },
   {
@@ -335,7 +1262,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:00:00+00:00",
-    "fetched_at": "2026-05-21T11:59:20.625944+00:00"
+    "fetched_at": "2026-05-21T17:38:46.869245+00:00"
   },
   {
     "id": "7ef3bbc0592b7254",
@@ -347,7 +1274,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:00:00+00:00",
-    "fetched_at": "2026-05-21T11:59:21.812193+00:00"
+    "fetched_at": "2026-05-21T17:38:48.058579+00:00"
   },
   {
     "id": "e3dcd7b92990f2bf",
@@ -359,7 +1286,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-21T09:31:00+00:00",
-    "fetched_at": "2026-05-21T11:59:20.625995+00:00"
+    "fetched_at": "2026-05-21T17:38:46.869296+00:00"
   },
   {
     "id": "c3eea76403b77db3",
@@ -371,7 +1298,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-21T09:30:00+00:00",
-    "fetched_at": "2026-05-21T11:59:20.626057+00:00"
+    "fetched_at": "2026-05-21T17:38:46.869358+00:00"
   },
   {
     "id": "06d6e4d147144ae3",
@@ -407,7 +1334,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T09:00:00+00:00",
-    "fetched_at": "2026-05-21T12:03:25.432829+00:00",
+    "fetched_at": "2026-05-21T17:42:40.387079+00:00",
     "missing_core_fill": true
   },
   {
@@ -494,8 +1421,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T06:00:00+00:00",
-    "fetched_at": "2026-05-21T12:03:25.465504+00:00",
+    "fetched_at": "2026-05-21T17:42:40.420499+00:00",
     "missing_core_fill": true
+  },
+  {
+    "id": "00dbeb069a24486c",
+    "title": "The EU Is Going Through a Trump-Fueled Breakup With Big Tech - WIRED",
+    "description": "The EU Is Going Through a Trump-Fueled Breakup With Big Tech WIRED",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLWo1bHhLVnhZLWRiVllEcG0zLV9yRHNrOUVUVzludnhUVE5NMS03MVRqY2hUUk0wU3hxLUp4aDAyQmdvOXB3YWQ1S3luQnIweHFtNjE2WnpIQW5Vcml1MGxJaE9RbzFDQUZKb0liUHpEaG5sd0xxRXVoU3dhUGFmU1JBYkdCbkJ1eElVX2R0R3NBd3c?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-4b6a05025549/1200/750",
+    "source": "Wired Technology - Google News",
+    "source_id": "global-extra-019",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T06:00:00+00:00",
+    "fetched_at": "2026-05-21T17:39:47.677180+00:00"
   },
   {
     "id": "1804cd37a3010dd3",
@@ -510,18 +1449,6 @@
     "fetched_at": "2026-05-21T11:59:20.626235+00:00"
   },
   {
-    "id": "00dbeb069a24486c",
-    "title": "The EU Is Going Through a Trump-Fueled Breakup With Big Tech - WIRED",
-    "description": "The EU Is Going Through a Trump-Fueled Breakup With Big Tech WIRED",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLWo1bHhLVnhZLWRiVllEcG0zLV9yRHNrOUVUVzludnhUVE5NMS03MVRqY2hUUk0wU3hxLUp4aDAyQmdvOXB3YWQ1S3luQnIweHFtNjE2WnpIQW5Vcml1MGxJaE9RbzFDQUZKb0liUHpEaG5sd0xxRXVoU3dhUGFmU1JBYkdCbkJ1eElVX2R0R3NBd3c?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-4b6a05025549/1200/750",
-    "source": "Wired Technology - Google News",
-    "source_id": "global-extra-019",
-    "category": "tehnologija",
-    "published_at": "2026-05-21T06:00:00+00:00",
-    "fetched_at": "2026-05-21T12:00:11.654726+00:00"
-  },
-  {
     "id": "82f4d68ccf85dde9",
     "title": "General Catalyst just led a $63M bet on India’s travel payments market",
     "description": "Scapia, an Indian startup that combines travel booking with co-branded credit cards and mobile payments, said the deal doubles its valuation.",
@@ -531,7 +1458,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T05:52:38+00:00",
-    "fetched_at": "2026-05-21T12:03:25.465560+00:00",
+    "fetched_at": "2026-05-21T17:42:40.420550+00:00",
     "missing_core_fill": true
   },
   {
@@ -667,7 +1594,7 @@
     "fetched_at": "2026-05-21T08:48:56.010566+00:00"
   },
   {
-    "id": "ae1b66b52354c523",
+    "id": "2ce7b0cfd534419e",
     "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
     "description": "Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone.",
     "url": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
@@ -716,7 +1643,7 @@
     "fetched_at": "2026-05-21T08:48:56.010621+00:00"
   },
   {
-    "id": "1a3e3918a1c90d25",
+    "id": "cc87f30b385f9c64",
     "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
     "description": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
     "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
@@ -741,7 +1668,7 @@
     "fetched_at": "2026-05-21T11:59:21.812557+00:00"
   },
   {
-    "id": "fc27adab39a5e690",
+    "id": "d2b4ddb7ec019736",
     "title": "Anthropic says it’s about to have its first profitable quarter",
     "description": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
     "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
@@ -839,7 +1766,7 @@
     "fetched_at": "2026-05-20T23:59:47.206091+00:00"
   },
   {
-    "id": "75a8f444a9d364dc",
+    "id": "c17d41d76dd945e8",
     "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
     "description": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and chairman of the board.",
     "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
@@ -861,7 +1788,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T23:02:49+00:00",
-    "fetched_at": "2026-05-21T12:03:25.542409+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528250+00:00",
     "missing_core_fill": true
   },
   {
@@ -877,7 +1804,7 @@
     "fetched_at": "2026-05-21T11:59:21.812732+00:00"
   },
   {
-    "id": "5ccbfb1771433d46",
+    "id": "128ab2ee22e3299b",
     "title": "Clouted wants to take the guesswork out of making short videos go viral",
     "description": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
     "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
@@ -899,11 +1826,11 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T22:26:11+00:00",
-    "fetched_at": "2026-05-21T12:03:26.241930+00:00",
+    "fetched_at": "2026-05-21T17:42:41.440210+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "4cffc6c450a33213",
+    "id": "0e0dce82534b0f34",
     "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
     "description": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
     "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
@@ -928,7 +1855,7 @@
     "fetched_at": "2026-05-21T04:24:57.052412+00:00"
   },
   {
-    "id": "4544ed80345bf718",
+    "id": "e4476aa8fec1265e",
     "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
     "description": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
     "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
@@ -974,7 +1901,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T21:58:01+00:00",
-    "fetched_at": "2026-05-21T12:03:25.542466+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528289+00:00",
     "missing_core_fill": true
   },
   {
@@ -987,10 +1914,10 @@
     "source_id": "global-extra-019",
     "category": "tehnologija",
     "published_at": "2026-05-20T21:58:00+00:00",
-    "fetched_at": "2026-05-21T12:00:11.655163+00:00"
+    "fetched_at": "2026-05-21T17:39:47.677632+00:00"
   },
   {
-    "id": "275a6e813ace39e1",
+    "id": "9c282e027f019a7a",
     "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
     "description": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
     "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
@@ -1015,7 +1942,7 @@
     "fetched_at": "2026-05-21T04:24:57.052522+00:00"
   },
   {
-    "id": "e38139e9f43c9d1b",
+    "id": "ee03cfe3dbe01ac4",
     "title": "Anthropic will pay xAI $1.25B per month for compute",
     "description": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
     "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
@@ -1037,11 +1964,11 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T21:26:57+00:00",
-    "fetched_at": "2026-05-21T12:03:25.542514+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528330+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "7ebaf4fd43df3b7a",
+    "id": "891dfe02ceadf8fe",
     "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
     "description": "Altman offered to have OpenAI invest in every single startup in this Y Combinator class: tokens for equity.",
     "url": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
@@ -1054,7 +1981,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "6311fcf42efba018",
+    "id": "1757bbdd0613d4d6",
     "title": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it.",
     "description": "Slapping “AI” on your startup’s pitch deck is basically table stakes right now. When a founder raised $20 million from Cathie Wood’s ARK Invest for an eSports gamification loyalty startup without those two letters in the spotlight, it got us wondering how the conversation even started — especially when ARK had already been burned by a company operating in the same space. On this episode of TechCrunch’s Equity podcast, Julie […]",
     "url": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
@@ -1067,7 +1994,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "ee3108097671bc41",
+    "id": "ea9fd67458f0eca7",
     "title": "Cohere cracks lossless quantization and native citations with first full Apache 2.0 licensed open model Command A+",
     "description": "Canadian AI lab Cohere made waves recently by announcing a merger with German AI startup Aleph Alpha , but now it has even more in store for enterprise builders around the globe: today, the firm co-founded by former Googler and \"Attention Is All You Need\" co-author Aidan Gomez unveiled Command A+ , a highly optimized, 218-billion-parameter language model engineered specifically for complex reasoning, multimodal document processing, and agentic workflows. The most significant aspect of the release is not just the model’s capabilities; it is its accessibility. By releasing the model weights free on the popular AI code sharing repository Hugging Face under a highly permissive Apache 2.0 open-source license — a first for the company, according to a post by Gomez, now Cohere's CEO, on X — Cohere is making a calculated bet on \"sovereign AI\"—the thesis that enterprises, governments, and develop",
     "url": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a",
@@ -1089,7 +2016,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-20T20:40:00+00:00",
-    "fetched_at": "2026-05-21T11:59:22.484866+00:00"
+    "fetched_at": "2026-05-21T17:38:48.549608+00:00"
   },
   {
     "id": "c9f528541e40b1da",
@@ -1104,7 +2031,7 @@
     "fetched_at": "2026-05-21T11:59:21.812781+00:00"
   },
   {
-    "id": "a01a0f51d3c1f13c",
+    "id": "4831940c7f1e80d8",
     "title": "Microsoft’s carbon-removal plans aren’t dead after all",
     "description": "Microsoft is responsible for over 90% of the carbon-removal market, and reports suggested the company was pausing purchases entirely. This new deal should help assuage the fears of CDR startups.",
     "url": "https://techcrunch.com/2026/05/20/microsofts-carbon-removal-plans-arent-dead-after-all/",
@@ -1126,11 +2053,11 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T20:29:39+00:00",
-    "fetched_at": "2026-05-21T12:03:25.542554+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528372+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "8b95fb288d262570",
+    "id": "6cccf79f2930a547",
     "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
     "description": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
     "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
@@ -1206,7 +2133,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "50b8ceae07d22703",
+    "id": "f5239684f3de893d",
     "title": "Cerebras says its chips run a trillion-parameter AI model nearly 7 times faster than GPU clouds",
     "description": "Less than a week after completing the largest tech IPO of 2026, Cerebras Systems is making its most aggressive play yet to dominate the fast-growing AI inference market. On Monday, the Sunnyvale-based chipmaker announced that it is now running Kimi K2.6 — a trillion-parameter open-weight model developed by Beijing-based Moonshot AI — for enterprise customers at nearly 1,000 tokens per second, a speed no GPU-based provider has come close to matching. The result, independently verified by benchmarking firm Artificial Analysis , clocked in at 981 output tokens per second, making Cerebras 6.7 times faster than the next-fastest GPU-based cloud provider and 23 times faster than the median. For a standard agentic coding request involving 10,000 input tokens, Cerebras delivered the full response — including prompt processing, reasoning, and 500 output tokens — in 5.6 seconds, compared to 163.7 s",
     "url": "https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds",
@@ -1228,7 +2155,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T19:53:34+00:00",
-    "fetched_at": "2026-05-21T12:03:25.542599+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528415+00:00",
     "missing_core_fill": true
   },
   {
@@ -1244,7 +2171,7 @@
     "fetched_at": "2026-05-21T04:24:59.384595+00:00"
   },
   {
-    "id": "4a58315aaeb014b4",
+    "id": "9da03569b6cab745",
     "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
     "description": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
     "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
@@ -1278,7 +2205,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-20T19:30:00+00:00",
-    "fetched_at": "2026-05-21T11:59:22.484931+00:00"
+    "fetched_at": "2026-05-21T17:38:48.549674+00:00"
   },
   {
     "id": "817234f081428a97",
@@ -1290,32 +2217,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T19:19:44+00:00",
-    "fetched_at": "2026-05-21T12:03:25.542645+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528455+00:00",
     "missing_core_fill": true
-  },
-  {
-    "id": "f444ca27d7ca9e2e",
-    "title": "Linus Torvalds admits he has a 'love-hate relationship with AI'",
-    "description": "Linux's creator sees AI as a double-edged sword for programmers.",
-    "url": "https://www.zdnet.com/article/linus-torvalds-has-a-love-hate-relationship-with-ai/",
-    "image": "https://picsum.photos/seed/wv-news-a322df22d5cb/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T19:19:00+00:00",
-    "fetched_at": "2026-05-21T11:59:21.972987+00:00"
   },
   {
     "id": "734e7741c1bae3bc",
     "title": "Google publishes exploit code threatening millions of Chromium users",
-    "description": "Google publishes exploit code before patch, reported 29 months earlier, is fixed.",
+    "description": "Google publishes exploit code before patch, reported 42 months earlier, is fixed.",
     "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/chromium_logo.jpeg",
     "source": "Ars Technica",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T19:10:36+00:00",
-    "fetched_at": "2026-05-21T12:03:25.542689+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528492+00:00",
     "missing_core_fill": true
   },
   {
@@ -1328,7 +2243,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T18:59:52+00:00",
-    "fetched_at": "2026-05-21T12:03:25.542731+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528532+00:00",
     "missing_core_fill": true
   },
   {
@@ -1353,7 +2268,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T18:48:41+00:00",
-    "fetched_at": "2026-05-21T12:03:25.542771+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528572+00:00",
     "missing_core_fill": true
   },
   {
@@ -1366,20 +2281,7 @@
     "source_id": "global-extra-021",
     "category": "tehnologija",
     "published_at": "2026-05-20T18:48:41+00:00",
-    "fetched_at": "2026-05-21T12:00:12.657401+00:00"
-  },
-  {
-    "id": "b7a4a226b22c776a",
-    "title": "Enterprise AI agents keep failing because they forget what they learned",
-    "description": "RAG architectures are good at one thing: surfacing semantically relevant documents. That's also where they stop. A framework called a decision context graph addresses that gap by giving agents structured memory, time-aware reasoning, and explicit decision logic. Rippletide , a startup in the Neo4j ecosystem, has built one. The key capability: agents that are non-regressive, able to freeze validated sequences of actions and compound on them over time. “The key point you want is non-regressivity: How do you make sure that, when the agent will generate something new, you can compound on the previous discoveries?” said Yann Bilien, Rippletid’s co-founder and chief scientific officer. Why RAG doesn’t go far enough Enterprise context is sprawled across ERP tools, logs, databases, vector stores, and policy documents. Generative AI tools can retrieve from all of it — through keyword search, SQL ",
-    "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/XxEoqdkwC8dR16yuLD73f/b5b23fc19b843586548b74783aea01e6/u7277289442_An_AI_agent_is_sitting_at_a_desk._The_desk_is_cov_75a9078a-ea3d-421e-bf5d-23a650aab330_0.png?w=300&q=30",
-    "source": "VentureBeat",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T18:43:48+00:00",
-    "fetched_at": "2026-05-21T12:03:26.243724+00:00",
-    "missing_core_fill": true
+    "fetched_at": "2026-05-21T17:39:48.728977+00:00"
   },
   {
     "id": "e6bac6c1996eb8aa",
@@ -1403,11 +2305,11 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T18:38:05+00:00",
-    "fetched_at": "2026-05-21T12:03:25.542811+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528610+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "ffbbd54b23fe4a4d",
+    "id": "06d2f75929062d96",
     "title": "Tesla’s Full Self-Driving software is creeping into Europe",
     "description": "First came the Netherlands, now it's Lithuania. And more European countries appear to be in the queue for Tesla's driver-assistance system.",
     "url": "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/",
@@ -1441,11 +2343,11 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T18:20:56+00:00",
-    "fetched_at": "2026-05-21T12:03:25.542848+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528655+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "d0e1e03e77e3145b",
+    "id": "d7d6d7726affa998",
     "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
     "description": "Airbnb will soon let you book luggage storage and car rental services on its app.",
     "url": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
@@ -1540,7 +2442,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T17:31:04+00:00",
-    "fetched_at": "2026-05-21T12:03:25.542886+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528695+00:00",
     "missing_core_fill": true
   },
   {
@@ -1553,7 +2455,7 @@
     "source_id": "global-extra-021",
     "category": "tehnologija",
     "published_at": "2026-05-20T17:31:04+00:00",
-    "fetched_at": "2026-05-21T12:00:12.657741+00:00"
+    "fetched_at": "2026-05-21T17:39:48.729389+00:00"
   },
   {
     "id": "054273aa0aa8b40c",
@@ -1581,7 +2483,7 @@
     "fetched_at": "2026-05-21T04:24:59.384675+00:00"
   },
   {
-    "id": "bd10178c0f4d3da0",
+    "id": "4f35bdc548f9b130",
     "title": "GitHub confirms 3,800 internal repos stolen through poisoned VS Code extension as supply chain worm hits Microsoft’s Python SDK",
     "description": "GitHub confirmed on May 20 that a poisoned VS Code extension installed on an employee’s device gave attackers access to roughly 3,800 internal repositories at the Microsoft-owned code storage and authorship platform. The threat group TeamPCP, formally tracked by Google Threat Intelligence Group as UNC6780, claimed responsibility and is advertising the stolen repositories for sale starting at $50,000 . GitHub’s assessment: the attacker’s claim is “directionally consistent” with the investigation so far. Trend Micro , StepSecurity , and Snyk have formally tracked TeamPCP across at least seven waves of the Mini Shai-Hulud supply chain worm since March. The GitHub breach did not land in isolation. It arrived the same day a new Mini Shai-Hulud wave forged valid cryptographic provenance on 639 malicious npm package versions , one day after attackers compromised a VS Code extension with 2.2 mil",
     "url": "https://venturebeat.com/security/github-confirms-3800-repos-stolen-poisoned-vs-code-extension-supply-chain-worm-microsoft-python-sdk",
@@ -1616,7 +2518,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-20T17:00:00+00:00",
-    "fetched_at": "2026-05-21T11:59:20.897661+00:00"
+    "fetched_at": "2026-05-21T17:38:47.085580+00:00"
   },
   {
     "id": "1ff323739ad3d5bb",
@@ -1628,7 +2530,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-20T16:45:00+00:00",
-    "fetched_at": "2026-05-21T11:59:22.484986+00:00"
+    "fetched_at": "2026-05-21T17:38:48.549729+00:00"
   },
   {
     "id": "2f16dbdc628bb82b",
@@ -1668,15 +2570,15 @@
   },
   {
     "id": "05d3eed2df0c94a7",
-    "title": "Xbox hires game industry analyst Matthew Ball to lead strategy - The Verge",
-    "description": "Xbox hires game industry analyst Matthew Ball to lead strategy The Verge",
+    "title": "Xbox hires game industry analyst Matthew Ball to lead strategy - theverge.com",
+    "description": "Xbox hires game industry analyst Matthew Ball to lead strategy theverge.com",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUplRG9YU1ZvTGZ1U0c0NGlEM3dTbk9zQnhqMWFVNmNxSTdiVU9qRzNWSi1PQXp3cWxOcEw3TUM4ZkJvTmdIb25zczFFVmd0MjY4S3VjNll2NVpkanZCNm5aZS1FUG5HN2ozTndjVEwwaU1BdjdJa0E0MUpfT1J4ZWZWd3g?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-962f776367d0/1200/750",
+    "image": "https://picsum.photos/seed/wv-news-50373eb85caa/1200/750",
     "source": "The Verge Technology - Google News",
     "source_id": "global-extra-020",
     "category": "tehnologija",
     "published_at": "2026-05-20T16:03:21+00:00",
-    "fetched_at": "2026-05-21T12:00:12.129387+00:00"
+    "fetched_at": "2026-05-21T17:39:48.199135+00:00"
   },
   {
     "id": "93d8dcc0a863258f",
@@ -1763,7 +2665,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-20T15:02:44+00:00",
-    "fetched_at": "2026-05-21T11:59:20.897715+00:00"
+    "fetched_at": "2026-05-21T17:38:47.085692+00:00"
   },
   {
     "id": "596bf8aa20d76454",
@@ -1800,7 +2702,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T14:50:40+00:00",
-    "fetched_at": "2026-05-21T12:03:25.542924+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528738+00:00",
     "missing_core_fill": true
   },
   {
@@ -1837,657 +2739,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T14:28:57+00:00",
-    "fetched_at": "2026-05-21T12:03:25.542959+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "7fd87915ce5207ec",
-    "title": "NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain'",
-    "description": "The creators of NanoClaw — the hit open source, enterprise-friendly variant of autonomous AI agent harness OpenClaw — are moving towards commercializing their technology for enterprises at scale, aiming to provide them with secure AI agents, and an ever-updating library of workplace context, for each human employee the enterprise has approved. The duo, including former Wix.com engineer Gavriel Cohen and his brother Lazer Cohen, also founder of tech public relations firm Concrete Media , shared with VentureBeat that their new startup, NanoCo AI , has received a $12 million oversubscribed seed round was led by Valley Capital Partners. The round features a roster of strategic backers that reads like an enterprise infrastructure all-star team, including Docker, Vercel, monday.com, Factorial Capital, and Hugging Face CEO and founder Clem Delangue. Buoyed by the seed round, NanoCo AI wants to ",
-    "url": "https://venturebeat.com/orchestration/nanoclaws-creators-are-turning-the-secure-open-source-ai-agent-harness-into-an-enterprise-second-brain",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/67xj6DK4EpxKDLtL9PF9tX/6eea0e06fa004840754be24e6ed0677e/Gemini_Generated_Image_h0efyrh0efyrh0ef.png?w=300&q=30",
-    "source": "VentureBeat",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T14:12:00+00:00",
-    "fetched_at": "2026-05-21T12:03:26.244878+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "9fb6a6181b1d34d8",
-    "title": "An hour-long PlayStation State of Play is set for June 2",
-    "description": "State Of Play will feature a fresh peek at Marvel's Wolverine.",
-    "url": "https://www.engadget.com/2177631/an-hour-long-playstation-state-of-play-is-set-for-june-2/",
-    "image": "https://www.engadget.com/img/gallery/an-hour-long-playstation-state-of-play-is-set-for-june-2/l-intro-1779285673.jpg",
-    "source": "Engadget",
-    "source_id": "src-065",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T14:02:04+00:00",
-    "fetched_at": "2026-05-21T11:59:20.897821+00:00"
-  },
-  {
-    "id": "11a8108afdee6069",
-    "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-    "description": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a computer, NanoClaw runs sandboxed in a container.",
-    "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-    "image": "https://picsum.photos/seed/wv-fill-16a361f1a2f1/1200/750",
-    "source": "TechCrunch",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T14:00:00+00:00",
-    "fetched_at": "2026-05-20T19:59:55.016987+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "73f235fb2cce3c69",
-    "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
-    "description": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup today.",
-    "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
-    "image": "https://picsum.photos/seed/wv-fill-a65f41cc5add/1200/750",
-    "source": "TechCrunch",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T14:00:00+00:00",
-    "fetched_at": "2026-05-20T19:59:55.017029+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "4c23cb376d00493a",
-    "title": "We react to Google I/O 2026",
-    "description": "What better way to unwind from a two-hour keynote presentation than to pore over the weirdest and wildest details, from a Gmail bot you can converse with to DeepMind's leader saying the singularity is near. The Vergecast went live right after the show, with senior AI reporter Hayden Field joining me to discuss the highlights. […]",
-    "url": "https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026",
-    "image": "https://picsum.photos/seed/wv-fill-0d4352facfa9/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:50:31.821429+00:00",
-    "fetched_at": "2026-05-20T13:50:31.821432+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "02cb89d7d51b3fd5",
-    "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
-    "description": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and products will help unlock AGI's incredible potential for the benefit of the entire world. When we look back at this time, I think we will realize that […]",
-    "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-    "image": "https://picsum.photos/seed/wv-fill-1555a79e6c23/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:50:31.821371+00:00",
-    "fetched_at": "2026-05-20T13:50:31.821373+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "bc6c2b8a8724d060",
-    "title": "Plex is tripling the price of a lifetime pass to $750 after doubling it last year",
-    "description": "I am dying to know how much money Plex is about to make the next six weeks charging people to stream their own video from their own homes. Today, it's giving every prospective customer until July 1st to lock in a lifetime subscription at today's rates - before it triples the price to $750. Plex […]",
-    "url": "https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike",
-    "image": "https://picsum.photos/seed/wv-fill-3f4452be335b/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:50:31.821322+00:00",
-    "fetched_at": "2026-05-20T13:50:31.821324+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "896426fe8ca6007d",
-    "title": "Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds",
-    "description": "The era of ultra-high performance Mercedes EVs is here. The German automaker finally revealed its new super sedan, the AMG GT 4-door coupe, with technology borrowed from the automaker's XX concept that last year made history by driving 24,901 miles in under 8 days at Nardò Ring in southern Italy. With the production model, Mercedes […]",
-    "url": "https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs",
-    "image": "https://picsum.photos/seed/wv-fill-a435e6a35293/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:50:31.821243+00:00",
-    "fetched_at": "2026-05-20T13:50:31.821245+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "613c06e2b8aecb06",
-    "title": "Android 17 is getting its own version of Apple’s Handoff",
-    "description": "Google is adding a new Android feature that resembles Apple's Handoff, allowing you to start a task on your Android phone and continue it right where you left off from a compatible tablet. \"Continue On\" is designed to eventually be bidirectional, but Google says that at launch it will only support tasks moving from a […]",
-    "url": "https://www.theverge.com/tech/934457/android-17-continue-on-handoff",
-    "image": "https://picsum.photos/seed/wv-fill-6c19e1577a09/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:50:31.821130+00:00",
-    "fetched_at": "2026-05-20T13:50:31.821132+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "9d7b8f9e0123352c",
-    "title": "‘It’s in the air’: Apple TV’s hottest new shows explore different sides of OnlyFans",
-    "description": "Apple TV is best known for its lineup of science fiction shows and feel-good sitcoms, but of late the streaming service has veered in a different direction. A pair of its current buzziest shows explore the world of OnlyFans creators and cam models, and they're timed up near perfectly; just as one ends (Margo's Got […]",
-    "url": "https://www.theverge.com/tech/934078/apple-tv-onlyfans-margo-maximum-pleasure-guaranteed",
-    "image": "https://picsum.photos/seed/wv-fill-bdc9d99995e7/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:50:31.821063+00:00",
-    "fetched_at": "2026-05-20T13:50:31.821066+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "0d3b0022b6f5ab7a",
-    "title": "The biggest data center ever is becoming a huge problem in Utah",
-    "description": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the Stratos Project: a 40,000-acre data center stretching across the county's Hansel Valley. It's supposed to establish American AI dominance, but potentially at the […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
-    "image": "https://picsum.photos/seed/wv-fill-e6a45f10205b/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:50:31.820992+00:00",
-    "fetched_at": "2026-05-20T13:50:31.820995+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "3cd27f5f9c906335",
-    "title": "If Google can’t make AI agents useful, maybe no one can",
-    "description": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw. And among the top AI labs now chasing similar success, one seems particularly […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
-    "image": "https://picsum.photos/seed/wv-fill-dba5d8f5a7dc/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:50:31.820912+00:00",
-    "fetched_at": "2026-05-20T13:50:31.820925+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "712d05da6933232c",
-    "title": "Yearslong fight over users' right to tweak smart TV software heads to trial",
-    "description": "Access to TV OS's source code could allow users to limit ads, tracking.",
-    "url": "https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/vizeo-gplv2-software-1152x648.jpg",
-    "source": "Ars Technica",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:32:49+00:00",
-    "fetched_at": "2026-05-21T12:03:25.543000+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "78aa6ab573006339",
-    "title": "I wore Google's Android XR glasses again - and my limit-testing should scare Meta and Apple",
-    "description": "My latest demos of the Android XR reference glasses and Project Aura show even more promise for Google's wearable lineup.",
-    "url": "https://www.zdnet.com/article/i-wore-google-android-xr-glasses-io-2026-meta-apple/",
-    "image": "https://picsum.photos/seed/wv-news-618db095fa4f/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:32:03+00:00",
-    "fetched_at": "2026-05-21T08:48:57.293989+00:00"
-  },
-  {
-    "id": "9c3311f69b4effe3",
-    "title": "Those spared latest Meta job cuts forcibly reassigned to AI roles",
-    "description": "Staff protest overhaul and mouse tracking at 'Employee Data Extraction Factory'",
-    "url": "https://www.theregister.com/ai-ml/2026/05/20/meta-axes-thousands-of-roles-forcibly-transfers-7000-more/5243365",
-    "image": "https://image.theregister.com/?imageId=224816&width=800",
-    "source": "The Register",
-    "source_id": "src-068",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:27:38+00:00",
-    "fetched_at": "2026-05-21T04:24:59.384858+00:00"
-  },
-  {
-    "id": "951d121573f54900",
-    "title": "GitHub says hackers stole data from thousands of internal repositories",
-    "description": "The code hosting giant GitHub said it was investigating a breach but said there was no evidence of customer data theft.",
-    "url": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
-    "image": "https://picsum.photos/seed/wv-fill-d39a33ccae84/1200/750",
-    "source": "TechCrunch",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:25:58+00:00",
-    "fetched_at": "2026-05-20T19:59:55.017065+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "606ca72050cef21a",
-    "title": "11 cheap gadgets we've found to be highly useful (and they're on sale)",
-    "description": "Memorial Day weekend sales are here, but I'd buy these inexpensive gadgets any time of year. Here's why.",
-    "url": "https://www.zdnet.com/article/cheap-gadgets-memorial-day-2026/",
-    "image": "https://picsum.photos/seed/wv-news-23c4bb264266/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:17:32+00:00",
-    "fetched_at": "2026-05-21T08:48:57.294032+00:00"
-  },
-  {
-    "id": "04068d7dc062cfee",
-    "title": "‘Perfect Storm’: How Trump’s Aid Cuts Are Fueling the Ebola Outbreak",
-    "description": "",
-    "url": "https://www.wired.com/story/how-trumps-aid-cuts-are-fueling-the-ebola-outbreak/",
-    "image": "https://media.wired.com/photos/6a0cd2416abd255867f55346/master/pass/science_ebola_GettyImages-2276349583.jpg",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:16:22+00:00",
-    "fetched_at": "2026-05-21T04:24:57.052865+00:00"
-  },
-  {
-    "id": "fdb2fff44ca4f86d",
-    "title": "China banned RTX 5090D V2 while Nvidia CEO Jensen Huang was visiting",
-    "description": "The chip was added to a list of banned goods at China’s customs checkpoints last Friday.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/china-banned-rtx-5090d-v2-while-nvidia-ceo-jensen-huang-was-visiting/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2212801534-1024x648.jpg",
-    "source": "Ars Technica",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:10:15+00:00",
-    "fetched_at": "2026-05-21T12:03:25.543041+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "2718de429808fe21",
-    "title": "Mobile phishing is a bigger threat than email now - how to stay protected",
-    "description": "Verizon's latest DBIR shows attackers are turning to texts and calls as email defenses improve. Here's what businesses should do now.",
-    "url": "https://www.zdnet.com/article/mobile-phishing-is-a-bigger-threat-than-email-now/",
-    "image": "https://picsum.photos/seed/wv-news-9b22878af077/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:09:24+00:00",
-    "fetched_at": "2026-05-21T08:48:57.294075+00:00"
-  },
-  {
-    "id": "3ced6dd3ebcc72ff",
-    "title": "The future of Google is a search box that does everything",
-    "description": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to google for you - I think it wants to do everything for you, all from a search box. Take the trusty Google […]",
-    "url": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
-    "image": "https://picsum.photos/seed/wv-fill-35d0d96128e3/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:06:21.344452+00:00",
-    "fetched_at": "2026-05-20T13:06:21.344454+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "f23079b079ef57c9",
-    "title": "Green steel startup Boston Metal is doubling down on critical metals",
-    "description": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report. The company has been known largely for its efforts to clean up steel production, an industry that’s responsible for about 8% of global greenhouse emissions today. With the additional money, the new focus could…",
-    "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
-    "image": "https://picsum.photos/seed/wv-fill-9e24dcd1f533/1200/750",
-    "source": "MIT Technology Review",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:00:00+00:00",
-    "fetched_at": "2026-05-21T12:03:25.432897+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "dc92891ee448b925",
-    "title": "XGIMI Titan Noir Max projector review: Excellent image quality, but short on features",
-    "description": "It offers bright and incredibly accurate video in an elegant body, but has no smart TV features.",
-    "url": "https://www.engadget.com/2173721/xgimi-titan-noir-max-projector-review-excellent-image-quality-but-short-on-features/",
-    "image": "https://www.engadget.com/img/gallery/xgimi-titan-noir-max-projector-review-excellent-image-quality-but-short-on-features/l-intro-1779283245.jpg",
-    "source": "Engadget",
-    "source_id": "src-065",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:00:00+00:00",
-    "fetched_at": "2026-05-21T11:59:20.897876+00:00"
-  },
-  {
-    "id": "d16a00940f6058b4",
-    "title": "Figma adds an AI assistant to its collaborative canvas",
-    "description": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
-    "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
-    "image": "https://picsum.photos/seed/wv-fill-0adefb431888/1200/750",
-    "source": "TechCrunch",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:00:00+00:00",
-    "fetched_at": "2026-05-20T19:59:55.017105+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "b559e66253a17100",
-    "title": "This startup raised $43M to build a hive mind for ships",
-    "description": "The Arlington, Virginia-based startup has raised $42 million to equip ships with sensors that blow the current AIS tech out of the water.",
-    "url": "https://techcrunch.com/2026/05/20/this-startup-raised-43m-to-build-a-hive-mind-for-ships/",
-    "image": "https://picsum.photos/seed/wv-fill-fef88e2e91ad/1200/750",
-    "source": "TechCrunch",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:00:00+00:00",
-    "fetched_at": "2026-05-20T19:59:55.017138+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "8f857ed5c46a4ba5",
-    "title": "Quartermaster is building a maritime hive mind",
-    "description": "The Arlington, Virginia-based startup has raised $42 million to equip ships with sensors that blow the current AIS tech out of the water.",
-    "url": "https://techcrunch.com/2026/05/20/quartermaster-is-building-a-maritime-hive-mind/",
-    "image": "https://picsum.photos/seed/wv-fill-6a8388d091d2/1200/750",
-    "source": "TechCrunch",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T13:00:00+00:00",
-    "fetched_at": "2026-05-20T13:50:31.616510+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "13f51b5c242ac2c4",
-    "title": "Nintendo’s $500 Switch 2 bundle includes a game, and it’s available now",
-    "description": "Nintendo recently teased the “Choose Your Game” Switch 2 console and digital game bundle, coming in early June. However, multiple retailers (including Nintendo itself) are already offering the $499.99 bundle. The list currently includes GameStop, Amazon, Best Buy, and the Nintendo Store. It’s a deal worth hopping on ahead of the holiday season, since Nintendo […]",
-    "url": "https://www.theverge.com/gadgets/933792/nintendo-switch-2-choose-your-game-console-bundle-deal",
-    "image": "https://picsum.photos/seed/wv-fill-f30abd8fccea/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T12:58:53.760674+00:00",
-    "fetched_at": "2026-05-20T12:58:53.760676+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "b4ff7fce42219c5e",
-    "title": "Datacenter builds could be shielded from judicial review in UK planning reforms",
-    "description": "British government wants to ensure no hold-ups for critical energy and infrastructure projects",
-    "url": "https://www.theregister.com/systems/2026/05/20/datacenter-builds-could-be-shielded-from-judicial-review-in-uk-planning-reforms/5243354",
-    "image": "https://image.theregister.com/?imageId=5226654&width=800",
-    "source": "The Register",
-    "source_id": "src-068",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T12:49:37+00:00",
-    "fetched_at": "2026-05-20T23:59:48.338006+00:00"
-  },
-  {
-    "id": "87c22485c64466bf",
-    "title": "Ride1Up Roadster Review (2026): An Ebike That Feels Like a Bike",
-    "description": "",
-    "url": "https://www.wired.com/review/ride1up-roadster-ebike-review/",
-    "image": "https://media.wired.com/photos/6a0b81bba9ee0c040889a5de/master/pass/Review%20Ride1Up%20Roadster%20V3%20top%20art%20052026%20SOURCE%20Ride1Up.jpg",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T12:33:00+00:00",
-    "fetched_at": "2026-05-21T04:24:57.052915+00:00"
-  },
-  {
-    "id": "1e60c1642229b132",
-    "title": "Microsoft says cu l8r to text message security",
-    "description": "Old, busted, insecure authentication to be replaced with something shinier and safer",
-    "url": "https://www.theregister.com/on-prem/2026/05/20/microsoft-says-cu-l8r-to-text-message-security/5243304",
-    "image": "https://image.theregister.com/?imageId=5243350&width=800",
-    "source": "The Register",
-    "source_id": "src-068",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T12:33:00+00:00",
-    "fetched_at": "2026-05-20T23:59:48.338053+00:00"
-  },
-  {
-    "id": "ec4c7e2d0fa937c0",
-    "title": "Hypershell X Ultra S Review: The Best Exoskeleton Yet",
-    "description": "",
-    "url": "https://www.wired.com/review/hypershell-x-ultra-s/",
-    "image": "https://media.wired.com/photos/6a0ce2b14796025b5de354be/master/pass/gear_Hypershell_3.jpg",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T12:20:00+00:00",
-    "fetched_at": "2026-05-20T23:59:46.937788+00:00"
-  },
-  {
-    "id": "be25d1b3e5fdf168",
-    "title": "'Workforce rebalancing' comes for Kyndryl, and delivery teams are in the firing line",
-    "description": "Big Blue spinout eyes up to $500M in savings and agentic AI while insiders grumble it's still 'IBM without the hardware'",
-    "url": "https://www.theregister.com/on-prem/2026/05/20/workforce-rebalancing-comes-for-kyndryl-and-delivery-teams-are-in-the-firing-line/5243327",
-    "image": "https://image.theregister.com/?imageId=5243418&width=800",
-    "source": "The Register",
-    "source_id": "src-068",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T12:15:28+00:00",
-    "fetched_at": "2026-05-20T23:59:48.338127+00:00"
-  },
-  {
-    "id": "0080f92853257bbc",
-    "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
-    "description": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
-    "url": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
-    "image": "https://www.engadget.com/img/gallery/engadget-podcast-google-io-2026-is-ai-all-the-way-down/l-intro-1779279212.jpg",
-    "source": "Engadget",
-    "source_id": "src-065",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T12:15:20+00:00",
-    "fetched_at": "2026-05-21T08:48:56.423900+00:00"
-  },
-  {
-    "id": "c3502d260146329e",
-    "title": "The Download: fully artificial chicken eggs and why Musk lost",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg. Instead, these chickens were…",
-    "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/",
-    "image": "https://picsum.photos/seed/wv-fill-08d589338790/1200/750",
-    "source": "MIT Technology Review",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T12:10:00+00:00",
-    "fetched_at": "2026-05-21T12:03:25.432960+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "da4ab7159b8b49f7",
-    "title": "TCL vs. Hisense: I've tested both TV brands for nearly a decade, and here's my pick",
-    "description": "I compared popular models from two of the most upstart TV brands, and this one stands out to me.",
-    "url": "https://www.zdnet.com/article/tcl-vs-hisense/",
-    "image": "https://picsum.photos/seed/wv-news-20d6acac321b/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T12:00:42+00:00",
-    "fetched_at": "2026-05-20T23:59:48.527156+00:00"
-  },
-  {
-    "id": "9afc46963acad030",
-    "title": "The Herman Miller Coyl is a very handsome and modular gaming desk",
-    "description": "Legendary furniture maker Herman Miller has made a gorgeous gaming desk that has a price tag you'd expect from the brand.",
-    "url": "https://www.engadget.com/2177241/herman-miller-coyl-gaming-desk/",
-    "image": "https://www.engadget.com/img/gallery/the-herman-miller-coyl-is-a-very-handsome-and-modular-gaming-desk/l-intro-1779227083.jpg",
-    "source": "Engadget",
-    "source_id": "src-065",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T12:00:00+00:00",
-    "fetched_at": "2026-05-21T08:48:56.423946+00:00"
-  },
-  {
-    "id": "1dc9d44b9103b2c7",
-    "title": "Google’s AI future demands trust — and your personal data",
-    "description": "Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. Gemini Spark, Google's always-on AI agent, can help organize an upcoming event, while Daily Brief can offer a rundown […]",
-    "url": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
-    "image": "https://picsum.photos/seed/wv-fill-329bcaede81a/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T11:38:41.434383+00:00",
-    "fetched_at": "2026-05-20T11:38:41.434385+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "58946edaf2dc7c1c",
-    "title": "ESA boss tires of being dragged around by NASA mood swings",
-    "description": "Are we pilots or are we passengers? Aschbacher asks",
-    "url": "https://www.theregister.com/science/2026/05/20/esa-boss-tires-of-being-dragged-around-by-nasa-mood-swings/5243235",
-    "image": "https://image.theregister.com/?imageId=245798&width=800",
-    "source": "The Register",
-    "source_id": "src-068",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T11:34:36+00:00",
-    "fetched_at": "2026-05-20T23:59:48.338175+00:00"
-  },
-  {
-    "id": "b9460ad0ec0d3cc7",
-    "title": "How to Upgrade Weber and Kamado Joe Into Smart Grills",
-    "description": "",
-    "url": "https://www.wired.com/story/how-to-make-dumb-grills-into-smart-grills/",
-    "image": "https://media.wired.com/photos/6a0b7cdeabf886305a556f72/master/pass/Tech%20to%20Make%20Your%20Dumb%20Grill%20Smart%20top%20art%20052026%20SOURCE%20Amazon.jpg",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T11:32:00+00:00",
-    "fetched_at": "2026-05-20T19:55:56.796316+00:00"
-  },
-  {
-    "id": "5f55c3a9492755d1",
-    "title": "I tested KDE Plasma 6.7 beta, and it's easily my new Linux desktop of choice",
-    "description": "I took a look at how KDE Plasma 6.7 is coming along, I have to admit: I was blown away.",
-    "url": "https://www.zdnet.com/article/i-tested-kde-plasma-6-7-beta/",
-    "image": "https://picsum.photos/seed/wv-news-848d58ffb7e5/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T11:30:34+00:00",
-    "fetched_at": "2026-05-20T13:47:04.224898+00:00"
-  },
-  {
-    "id": "7b15bee39bcd90f2",
-    "title": "Best travel VPNs of 2026: Expert tested and reviewed",
-    "description": "If you want to avoid missing your favorite show on your next vacation, check out our favorite travel VPNs of 2026.",
-    "url": "https://www.zdnet.com/article/best-travel-vpn/",
-    "image": "https://picsum.photos/seed/wv-news-e3a1590e831e/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T11:07:52+00:00",
-    "fetched_at": "2026-05-20T13:47:04.224960+00:00"
-  },
-  {
-    "id": "6334a12c644ece6d",
-    "title": "Best VPN services 2026: Expert tested and recommended",
-    "description": "Looking for a solution that improves your online privacy, helps you avoid censorship, and bypasses age verification checks? We've tested and ranked the best VPNs in 2026.",
-    "url": "https://www.zdnet.com/article/best-vpn/",
-    "image": "https://picsum.photos/seed/wv-news-ee01c1fb9e91/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T11:07:22+00:00",
-    "fetched_at": "2026-05-20T13:47:04.225023+00:00"
-  },
-  {
-    "id": "9cb8ccfb5857190d",
-    "title": "Why I still recommend NordVPN to most people in 2026",
-    "description": "I put NordVPN through rigorous testing to evaluate its speed, security, and overall features. Here are the biggest takeaways.",
-    "url": "https://www.zdnet.com/article/nordvpn-review-2026/",
-    "image": "https://picsum.photos/seed/wv-news-b3c28cfb5794/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T11:05:42+00:00",
-    "fetched_at": "2026-05-20T13:47:04.225084+00:00"
-  },
-  {
-    "id": "35a3de61d6681d77",
-    "title": "Here are our favorite Memorial Day deals (so far)",
-    "description": "Memorial Day marks the unofficial start of summer, and the holiday’s sales include plenty of deals on gadgets that can help you make the most of the season. If your plans involve beach days, pool parties, or backyard barbecues, now’s a great time to pick up a portable Bluetooth speaker, as many of our favorite […]",
-    "url": "https://www.theverge.com/gadgets/932465/best-memorial-day-sales-deals-2026",
-    "image": "https://picsum.photos/seed/wv-fill-e67866ec9181/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T11:05:01.193846+00:00",
-    "fetched_at": "2026-05-20T11:05:01.193849+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "37832aa1b45b5943",
-    "title": "Everything to Look for When Buying a New Laptop in 2026",
-    "description": "",
-    "url": "https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/",
-    "image": "https://media.wired.com/photos/6a0b35d50ce29a972051a268/master/pass/Laptop%20buying%20guide%20update%20top%20art%20052026%20SOURCE%20Apple-Dell-Razer.jpg",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T11:01:00+00:00",
-    "fetched_at": "2026-05-20T19:55:56.796356+00:00"
-  },
-  {
-    "id": "2974f6cb499d1c09",
-    "title": "We tested the most popular VPNs in New York, London, and Tokyo - this one is the best for traveling",
-    "description": "ZDNET's latest Lab Award goes to the travel VPN with the fasted download speeds.",
-    "url": "https://www.zdnet.com/article/fastest-travel-vpn-lab-tested/",
-    "image": "https://picsum.photos/seed/wv-news-4fc8283ba70b/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T11:00:45+00:00",
-    "fetched_at": "2026-05-20T13:47:04.225146+00:00"
-  },
-  {
-    "id": "1b7f263c9011a332",
-    "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
-    "description": "Figure AI's 24/7 livestream showcases human soft spot for humanoid robots.",
-    "url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-1.15.37-PM-1152x648.png",
-    "source": "Ars Technica",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T11:00:34+00:00",
-    "fetched_at": "2026-05-21T12:03:25.543105+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "d5c724054b687612",
-    "title": "Will Robotics Have a ChatGPT Moment?",
-    "description": "Over the next few decades, billions of autonomous, AI-powered robots will work alongside people in factories, perform tedious tasks in warehouses, care for the elderly, assist in unsafe disaster areas , deliver packages and food to our doorsteps, and eventually help out in our homes. Some will look like us, and many won’t. What is certain is that regardless of form factor, robots will all rely heavily on AI in order to deliver real-world value. In 2025, total investments in robotics companies reached a record US $40.7 billion, accounting for 9 percent of all venture funding . The multibillion dollar question therefore is this: What will it take for AI-powered robots to begin to have a serious economic impact? Many of today’s robotics and AI companies are making bold claims, such as that humanoid robots will soon be coming into our homes , but there’s still a big gap between promise and r",
-    "url": "https://spectrum.ieee.org/robotics-ai-breakthrough",
-    "image": "https://spectrum.ieee.org/media-library/a-collection-of-5-robots-against-colored-backgrounds.jpg?id=66734221&width=980",
-    "source": "IEEE Spectrum",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T11:00:01+00:00",
-    "fetched_at": "2026-05-21T12:03:26.289951+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "6f80c8de90603362",
-    "title": "Trump Wants to Be the Hero Vapers Don’t Really Need",
-    "description": "",
-    "url": "https://www.wired.com/story/trump-wants-to-be-the-hero-vapers-dont-really-need/",
-    "image": "https://media.wired.com/photos/6a0600d96e13ec6005919229/master/pass/Trump-Vape-Baddie-Culture.gif",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T11:00:00+00:00",
-    "fetched_at": "2026-05-20T19:55:56.796401+00:00"
-  },
-  {
-    "id": "5f175cf29cdde16c",
-    "title": "GitHub says internal repos exfiltrated after poisoned VS Code extension attack",
-    "description": "Initial assessment says customer data spared while users wonder what else may have slipped out",
-    "url": "https://www.theregister.com/devops/2026/05/20/github-says-internal-repos-exfiltrated-after-poisoned-vs-code-extension-attack/5243206",
-    "image": "https://image.theregister.com/?imageId=5241973&width=800",
-    "source": "The Register",
-    "source_id": "src-068",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T10:27:44+00:00",
-    "fetched_at": "2026-05-20T19:55:58.427312+00:00"
-  },
-  {
-    "id": "d8f4d66dd46faced",
-    "title": "I set up backyard solar panels to save on my electricity bill - here's my advice 30 days later",
-    "description": "With an 820W solar setup, you can save up to 130kWh a month. I did with Anker's Solix F3800 Plus.",
-    "url": "https://www.zdnet.com/article/anker-solix-f3800-plus-410w-solar-panels-review/",
-    "image": "https://picsum.photos/seed/wv-news-20ae094a18b5/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T10:00:47+00:00",
-    "fetched_at": "2026-05-20T13:47:04.225207+00:00"
-  },
-  {
-    "id": "cceba610fd312f33",
-    "title": "Corti's new Symphony for Speech-to-Text model beats OpenAI at medical terminology accuracy, highlighting the value of specialized AI",
-    "description": "Today, Copenhagen-based healthcare AI Corti is launching Symphony for Speech-to-Text, a new generation of clinical-grade speech recognition models engineered specifically for real-time dictation, conversational transcription, and batch audio processing — and their accuracy rate is the highest for this specific use case yet recorded. \"We are focused on ensuring our AI scribes can be trusted by physicians, medical practitioners and patients...the entire healthcare system,\" said Andreas Cleve, co-founder and CEO of Corti, in an exclusive video call interview with VentureBeat. The performance data the company is bringing to the table paints a stark picture of the current state of enterprise AI: when it comes to highly regulated, specialized industries, domain-specific models can beat out the foundation model providers. In a newly published research paper , Corti revealed that its new clinica",
-    "url": "https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5AvoBLgVnZwDZyWuypV9sy/5e5d3a43ec0fe1ee5ec5ccc4d61a0bb4/ChatGPT_Image_May_19__2026__11_20_00_PM.png?w=300&q=30",
-    "source": "VentureBeat",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T10:00:00+00:00",
-    "fetched_at": "2026-05-21T12:03:26.245393+00:00",
+    "fetched_at": "2026-05-21T17:42:40.528801+00:00",
     "missing_core_fill": true
   }
 ]

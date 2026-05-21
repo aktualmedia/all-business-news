@@ -9,7 +9,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910211+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601049+00:00"
   },
   {
     "id": "518893cda3595307",
@@ -21,7 +21,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910275+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601115+00:00"
   },
   {
     "id": "a85a64336941fc6a",
@@ -33,7 +33,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910331+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601173+00:00"
   },
   {
     "id": "ad14d6c56adec45d",
@@ -105,7 +105,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910383+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601226+00:00"
   },
   {
     "id": "afe04b4cab8b18fe",
@@ -117,7 +117,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910436+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601277+00:00"
   },
   {
     "id": "25b3dba7ac823a67",
@@ -129,7 +129,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910485+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601326+00:00"
   },
   {
     "id": "f34e0846cfa4155f",
@@ -141,19 +141,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910535+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601386+00:00"
   },
   {
-    "id": "e1ec5383ee11f320",
-    "title": "Ramping up manufacturing in America?",
-    "description": "Probing how much manufacturing ramp-up would be needed to address US trade dependencies.",
-    "url": "https://www.mckinsey.com/mgi/our-research/ramping-up-manufacturing-in-america",
-    "image": "https://picsum.photos/seed/wv-news-54703be3cccd/1200/750",
+    "id": "867b4ad72bbda8b6",
+    "title": "Beyond stablecoins: The emerging architecture of on-chain money",
+    "description": "As attention focuses on stablecoins, a larger $4 trillion transformation is underway, integrating bank deposits and central bank assets into a unified global monetary stack.",
+    "url": "https://www.mckinsey.com/industries/financial-services/our-insights/beyond-stablecoins-the-emerging-architecture-of-on-chain-money",
+    "image": "https://picsum.photos/seed/wv-news-fcd1c691384b/1200/750",
     "source": "McKinsey Insights",
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910043+00:00"
+    "fetched_at": "2026-05-21T17:37:50.600846+00:00"
   },
   {
     "id": "c40b3cdc959689d5",
@@ -165,7 +165,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910153+00:00"
+    "fetched_at": "2026-05-21T17:37:50.600937+00:00"
+  },
+  {
+    "id": "e1ec5383ee11f320",
+    "title": "Ramping up manufacturing in America?",
+    "description": "Probing how much manufacturing ramp-up would be needed to address US trade dependencies.",
+    "url": "https://www.mckinsey.com/mgi/our-research/ramping-up-manufacturing-in-america",
+    "image": "https://picsum.photos/seed/wv-news-54703be3cccd/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Thu, 21 May 2026",
+    "fetched_at": "2026-05-21T17:37:50.600993+00:00"
   },
   {
     "id": "b4cea2ca3d77a858",
@@ -237,7 +249,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910589+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601447+00:00"
   },
   {
     "id": "a98eee73d2e97e01",
@@ -249,7 +261,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910649+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601509+00:00"
   },
   {
     "id": "b17b2d7b43d45173",
@@ -300,16 +312,29 @@
     "fetched_at": "2026-05-20T13:46:09.282480+00:00"
   },
   {
-    "id": "1214969b4f4ac1f7",
-    "title": "Mastercard scoops fleet deal with Germany's ryd",
-    "description": "ryd GmbH, a Munich-based mobility technology company, announced the launch of ryd fleet, a new digital-first payment operating system for fleets, in collaboration with Mastercard, designed to simplify on-the-road fleet payments while giving fleet managers enhanced control, visibility, and security.",
-    "url": "https://www.finextra.com/pressarticle/109921/mastercard-scoops-fleet-deal-with-germanys-ryd?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "image": "https://picsum.photos/seed/wv-core-35ded099cfde/1200/750",
+    "id": "b7a4a226b22c776a",
+    "title": "Enterprise AI agents keep failing because they forget what they learned",
+    "description": "RAG architectures are good at one thing: surfacing semantically relevant documents. That's also where they stop. A framework called a decision context graph addresses that gap by giving agents structured memory, time-aware reasoning, and explicit decision logic. Rippletide , a startup in the Neo4j ecosystem, has built one. The key capability: agents that are non-regressive, able to freeze validated sequences of actions and compound on them over time. “The key point you want is non-regressivity: How do you make sure that, when the agent will generate something new, you can compound on the previous discoveries?” said Yann Bilien, Rippletid’s co-founder and chief scientific officer. Why RAG doesn’t go far enough Enterprise context is sprawled across ERP tools, logs, databases, vector stores, and policy documents. Generative AI tools can retrieve from all of it — through keyword search, SQL ",
+    "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/XxEoqdkwC8dR16yuLD73f/b5b23fc19b843586548b74783aea01e6/u7277289442_An_AI_agent_is_sitting_at_a_desk._The_desk_is_cov_75a9078a-ea3d-421e-bf5d-23a650aab330_0.png?w=300&q=30",
+    "source": "VentureBeat",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T18:43:00+00:00",
+    "fetched_at": "2026-05-21T17:42:41.437112+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "8669ec31bc054d55",
+    "title": "One Inc appoints Kishore Konakanchi chief product officer",
+    "description": "One Inc, the leading digital payments network for the insurance industry, today announced the appointment of Fintech veteran Kishore Konakanchi as the company’s new Chief Product Officer (CPO).",
+    "url": "https://www.finextra.com/pressarticle/109924/one-inc-appoints-kishore-konakanchi-chief-product-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-16ba90f4f6ea/1200/750",
     "source": "Finextra",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T12:12:00+00:00",
-    "fetched_at": "2026-05-21T12:03:18.824790+00:00",
+    "published_at": "2026-05-21T18:01:00+00:00",
+    "fetched_at": "2026-05-21T17:42:32.704928+00:00",
     "core_business_science_fill": true
   },
   {
@@ -321,8 +346,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T12:03:32.354861+00:00",
-    "fetched_at": "2026-05-21T12:03:32.354863+00:00",
+    "published_at": "2026-05-21T17:42:46.946034+00:00",
+    "fetched_at": "2026-05-21T17:42:46.946036+00:00",
     "missing_core_fill": true
   },
   {
@@ -334,8 +359,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T12:03:32.354809+00:00",
-    "fetched_at": "2026-05-21T12:03:32.354811+00:00",
+    "published_at": "2026-05-21T17:42:46.945982+00:00",
+    "fetched_at": "2026-05-21T17:42:46.945984+00:00",
     "missing_core_fill": true
   },
   {
@@ -347,8 +372,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T12:03:32.354758+00:00",
-    "fetched_at": "2026-05-21T12:03:32.354761+00:00",
+    "published_at": "2026-05-21T17:42:46.945930+00:00",
+    "fetched_at": "2026-05-21T17:42:46.945932+00:00",
     "missing_core_fill": true
   },
   {
@@ -360,8 +385,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T12:03:32.354702+00:00",
-    "fetched_at": "2026-05-21T12:03:32.354704+00:00",
+    "published_at": "2026-05-21T17:42:46.945873+00:00",
+    "fetched_at": "2026-05-21T17:42:46.945876+00:00",
     "missing_core_fill": true
   },
   {
@@ -373,8 +398,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T12:03:32.354654+00:00",
-    "fetched_at": "2026-05-21T12:03:32.354656+00:00",
+    "published_at": "2026-05-21T17:42:46.945823+00:00",
+    "fetched_at": "2026-05-21T17:42:46.945825+00:00",
     "missing_core_fill": true
   },
   {
@@ -386,8 +411,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T12:03:32.354599+00:00",
-    "fetched_at": "2026-05-21T12:03:32.354601+00:00",
+    "published_at": "2026-05-21T17:42:46.945738+00:00",
+    "fetched_at": "2026-05-21T17:42:46.945760+00:00",
     "missing_core_fill": true
   },
   {
@@ -399,8 +424,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T12:03:32.354542+00:00",
-    "fetched_at": "2026-05-21T12:03:32.354544+00:00",
+    "published_at": "2026-05-21T17:42:46.945677+00:00",
+    "fetched_at": "2026-05-21T17:42:46.945680+00:00",
     "missing_core_fill": true
   },
   {
@@ -412,8 +437,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T12:03:32.354489+00:00",
-    "fetched_at": "2026-05-21T12:03:32.354491+00:00",
+    "published_at": "2026-05-21T17:42:46.945623+00:00",
+    "fetched_at": "2026-05-21T17:42:46.945626+00:00",
     "missing_core_fill": true
   },
   {
@@ -425,8 +450,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T12:03:32.354425+00:00",
-    "fetched_at": "2026-05-21T12:03:32.354428+00:00",
+    "published_at": "2026-05-21T17:42:46.945554+00:00",
+    "fetched_at": "2026-05-21T17:42:46.945557+00:00",
     "missing_core_fill": true
   },
   {
@@ -438,268 +463,281 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T12:03:32.354351+00:00",
-    "fetched_at": "2026-05-21T12:03:32.354359+00:00",
+    "published_at": "2026-05-21T17:42:46.945474+00:00",
+    "fetched_at": "2026-05-21T17:42:46.945486+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "31ed27ac52ce2853",
-    "title": "Volvo is trying to put its EV stumbles in the rearview",
-    "description": "Volvo once had ambitions to fully exit the gas car business. Now it's trying to keep its tenuous foothold in the EV market. It's not an understatement to say that Volvo's EV journey has been a bumpy one. The compact EX40 has been a consistent winner, but the Swedish brand's other EVs have been plagued […]",
-    "url": "https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy",
-    "image": "https://picsum.photos/seed/wv-fill-fb3030ee56c3/1200/750",
+    "id": "0a4d66a01b10019d",
+    "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
+    "description": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening history, as well as info from apps you connect to it, like your email inbox, calendar, and notes. Spotify says its AI can […]",
+    "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+    "image": "https://picsum.photos/seed/wv-fill-b8a10f56e00a/1200/750",
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T12:03:26.010171+00:00",
-    "fetched_at": "2026-05-21T12:03:26.010174+00:00",
+    "published_at": "2026-05-21T17:42:41.159212+00:00",
+    "fetched_at": "2026-05-21T17:42:41.159215+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "8cee07f102f55494",
-    "title": "Vibe coding is coming to your phone",
-    "description": "\"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't strictly true - I'm still waiting for that one perfect grocery list app. Still, apps […]",
-    "url": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
-    "image": "https://picsum.photos/seed/wv-fill-a192521aed6c/1200/750",
+    "id": "78d70b33cfd518bc",
+    "title": "Spotify is going to reserve concert tickets for ‘real fans’",
+    "description": "As part of a new \"Reserved\" program, Spotify is going to start offering concert tickets for \"real fans\" of participating bands that are going on tour. The idea with the Reserved program is to give people an option to buy tickets without the hassle and stress that often comes with securing a spot for a […]",
+    "url": "https://www.theverge.com/entertainment/935394/spotify-reserved-concert-ticket-presales",
+    "image": "https://picsum.photos/seed/wv-fill-7816ae54250e/1200/750",
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T12:03:26.010113+00:00",
-    "fetched_at": "2026-05-21T12:03:26.010117+00:00",
+    "published_at": "2026-05-21T17:42:41.159154+00:00",
+    "fetched_at": "2026-05-21T17:42:41.159157+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "71baca7e0718cfc1",
-    "title": "I’ve tested the latest Switch 2 controllers, and this one is the best",
-    "description": "If you choose to get an extra controller for your Nintendo Switch 2, you can spend a lot — and get a lot in return. Buying Nintendo’s own $89 Switch 2 Pro Controller, for instance, will net you the console’s only wireless controller with a 3.5mm headphone jack for private listening, not to mention great-feeling […]",
-    "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
-    "image": "https://picsum.photos/seed/wv-fill-516a8bcfe527/1200/750",
+    "id": "dc6fa2eaa1b2f07a",
+    "title": "Spotify is launching AI-generated remixes",
+    "description": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add-on for Premium subscribers. Artists will be able to opt out of the program, but those who do participate will collect royalties […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
+    "image": "https://picsum.photos/seed/wv-fill-df74f63a586c/1200/750",
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T12:03:26.009995+00:00",
-    "fetched_at": "2026-05-21T12:03:26.009997+00:00",
+    "published_at": "2026-05-21T17:42:41.159099+00:00",
+    "fetched_at": "2026-05-21T17:42:41.159101+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "3ee2764e34143394",
-    "title": "Here are 42 of our favorite deals from REI’s massive Anniversary Sale",
-    "description": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleeping pad, or stove. If your summer […]",
-    "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
-    "image": "https://picsum.photos/seed/wv-fill-78810881484f/1200/750",
+    "id": "888394067309fd98",
+    "title": "GitHub faces a fight for its survival at Microsoft",
+    "description": "When Microsoft announced it was acquiring GitHub in a $7.5 billion deal in 2018, developers were nervous. Some were concerned about Microsoft controlling GitHub, and others were taking a wait-and-see approach. Nearly eight years later, GitHub is now fighting for its survival, amid a surge of outages, security issues, and pressure from competitors. In the […]",
+    "url": "https://www.theverge.com/tech/935250/microsoft-github-struggles-notepad",
+    "image": "https://picsum.photos/seed/wv-fill-7a686d08789a/1200/750",
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T12:03:26.009931+00:00",
-    "fetched_at": "2026-05-21T12:03:26.009934+00:00",
+    "published_at": "2026-05-21T17:42:41.159049+00:00",
+    "fetched_at": "2026-05-21T17:42:41.159051+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "aa276bdec56c3990",
-    "title": "‘Solve all diseases,’ you say?",
-    "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's Google I/O coverage. You can expect our next issue at its usual time […]",
-    "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
-    "image": "https://picsum.photos/seed/wv-fill-0b8e36ced694/1200/750",
+    "id": "a8da8d0a19ab1285",
+    "title": "Meta and Google get data from the app your boss uses to track you",
+    "description": "Hundreds of thousands of workplaces use software to monitor employees. Now, a new study has found that many of these tools share data not just with employers, but with digital advertising platforms and data brokers as well. The review was led by Stephanie Nguyen, senior fellow at Columbia Law School's Center for Law and the […]",
+    "url": "https://www.theverge.com/policy/935299/bossware-employer-surveillance",
+    "image": "https://picsum.photos/seed/wv-fill-08219330dc35/1200/750",
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T12:03:26.009869+00:00",
-    "fetched_at": "2026-05-21T12:03:26.009872+00:00",
+    "published_at": "2026-05-21T17:42:41.158997+00:00",
+    "fetched_at": "2026-05-21T17:42:41.159000+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "7523c690936cafd8",
-    "title": "SpaceX just filed for what could be the biggest IPO ever",
-    "description": "Elon Musk's final frontier is officially open for business now that SpaceX has formally filed its S-1 prospectus with the SEC. That kicks off what could be the largest initial public offering ever when it lists on the Nasdaq stock exchange with the ticker SPCX. SpaceX generated $18.67 billion in revenue in 2025, driven largely […]",
-    "url": "https://www.theverge.com/business/902219/spacex-ipo-details",
-    "image": "https://picsum.photos/seed/wv-fill-69e0634ec9e0/1200/750",
+    "id": "3a34f14fd11d3f97",
+    "title": "The cost of the smart home is going up",
+    "description": "Selling the smart home has been hard. Even Amazon has lost money in the space, despite putting hundreds of millions of Echo devices in people's homes. Google has also reportedly struggled to turn a profit from its substantial investment in Nest. But now Google is seeing dollar signs in the prospect of selling AI-driven subscriptions […]",
+    "url": "https://www.theverge.com/tech/935298/smart-home-cost-increase-ai-subscription-fatigue",
+    "image": "https://picsum.photos/seed/wv-fill-78c0a83b8036/1200/750",
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T12:03:26.009810+00:00",
-    "fetched_at": "2026-05-21T12:03:26.009812+00:00",
+    "published_at": "2026-05-21T17:42:41.158944+00:00",
+    "fetched_at": "2026-05-21T17:42:41.158947+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "f3e9d76fda01eaff",
-    "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
-    "description": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with each other, shuffling money around in ways that are often difficult to keep track of. This is evident […]",
-    "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
-    "image": "https://picsum.photos/seed/wv-fill-20e5dc3c66bb/1200/750",
+    "id": "c2134fe2f3003943",
+    "title": "This mechanical bird drops dead when your home’s air quality worsens",
+    "description": "The original Birdie debuted in 2022 with a morbid-but-fun design - an air-quality monitor with a literal canary in a coal mine. When the CO2 in your home hit a certain level, a mechanical bird mounted on your wall would appear to drop dead, then prompt you to open a window to air things out. […]",
+    "url": "https://www.theverge.com/tech/935292/birdie-pro-smart-air-monitor-kickstarter-crowdfunding",
+    "image": "https://picsum.photos/seed/wv-fill-68ba9eaf13f7/1200/750",
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T12:03:26.009747+00:00",
-    "fetched_at": "2026-05-21T12:03:26.009750+00:00",
+    "published_at": "2026-05-21T17:42:41.158889+00:00",
+    "fetched_at": "2026-05-21T17:42:41.158891+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "77b07cef88dc48e1",
-    "title": "Meta lays off thousands of employees to offset AI investments",
-    "description": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business Insider, impacted staffers were told that the planned headcount reduction was part of the company's \"continued effort to run the company more efficiently […]",
-    "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
-    "image": "https://picsum.photos/seed/wv-fill-959d57949ba5/1200/750",
+    "id": "d04a832910edd40e",
+    "title": "Uber is deploying its own self-driving cars again, just not as robotaxis",
+    "description": "Uber is putting its own autonomous vehicles back on the road as part of its new AV Lab project to collect data for its dozens of robotaxi partners. The cars will be fitted with all the sensors typical of self-driving cars, like cameras, lidar, and radar. But notably the vehicles will not be operating as […]",
+    "url": "https://www.theverge.com/news/935204/uber-av-lab-self-driving-data-collection",
+    "image": "https://picsum.photos/seed/wv-fill-8b2771a53625/1200/750",
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T12:03:26.009674+00:00",
-    "fetched_at": "2026-05-21T12:03:26.009677+00:00",
+    "published_at": "2026-05-21T17:42:41.158826+00:00",
+    "fetched_at": "2026-05-21T17:42:41.158829+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "87c4f2e7c115e772",
-    "title": "‘Fuck you, Bambu’: How one private message could change the face of 3D printing",
-    "description": "Bambu Lab makes the best, most accessible 3D printers yet, but that reputation is suddenly under siege. It all started when Paweł Jarczak received a private message from the company on Reddit asking him to delete his code. Now the 3D printing community is lining up behind Jarczak to fund a war against Bambu - […]",
-    "url": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
-    "image": "https://picsum.photos/seed/wv-fill-a476721b3977/1200/750",
+    "id": "1ca22319fb0c0f5f",
+    "title": "The Endless AI guitar pedal has potential",
+    "description": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with a reputation for building niche, idiosyncratic devices. The company has built grooveboxes around old-school trackers and a multi-effect […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
+    "image": "https://picsum.photos/seed/wv-fill-250457df723d/1200/750",
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T12:03:26.009591+00:00",
-    "fetched_at": "2026-05-21T12:03:26.009605+00:00",
+    "published_at": "2026-05-21T17:42:41.158739+00:00",
+    "fetched_at": "2026-05-21T17:42:41.158762+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "2e3c145ca717613d",
-    "title": "ConocoPhillips says Venezuela oil law changes insufficient to attract investment",
+    "id": "18932e22604d4811",
+    "title": "Sonos’s pint-sized Roam 2 speaker is 25 percent off for Memorial Day",
+    "description": "If your summer plans involve spending any time outdoors, whether on the trail or at a pool party, a good portable Bluetooth speaker can go a long way. The latest Sonos Roam is built precisely for those moments, and right now, it’s on sale at Amazon, Best Buy, and Walmart for $134 ($45 off) for […]",
+    "url": "https://www.theverge.com/gadgets/935452/sonos-roam-2-bluetooth-speaker-memorial-day-2026-deal-sale",
+    "image": "https://picsum.photos/seed/wv-fill-e4d117066e8b/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:42:41.158660+00:00",
+    "fetched_at": "2026-05-21T17:42:41.158674+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "582e75f0aa15e7af",
+    "title": "Form 8K TriMas Corporation For: 21 May",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/stock-market-news/conocophillips-says-venezuela-oil-law-changes-insufficient-to-attract-investment-93CH-4703814",
-    "image": "https://i-invdn-com.investing.com/news/LYNXNPEC2909A_M.jpg",
+    "url": "https://www.investing.com/news/filings/form-8k-trimas-corporation-for-21-may-93CH-4704740",
+    "image": "https://picsum.photos/seed/wv-core-82659304718a/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T12:03:17.278168+00:00",
-    "fetched_at": "2026-05-21T12:03:17.278170+00:00",
+    "published_at": "2026-05-21T17:42:32.561061+00:00",
+    "fetched_at": "2026-05-21T17:42:32.561063+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "bf0e1596fd102537",
-    "title": "Factbox-Countries condemn Israeli minister’s treatment of Gaza flotilla activists",
+    "id": "bbe3a3dd0e61058a",
+    "title": "Verizon shareholders approve executive pay, re-elect directors",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/world-news/global-outrage-mounts-after-israeli-minister-taunts-gaza-flotilla-activists-4703284",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K0R0_L.jpg",
+    "url": "https://www.investing.com/news/company-news/verizon-shareholders-approve-executive-pay-reelect-directors-93CH-4704741",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T12:03:17.278125+00:00",
-    "fetched_at": "2026-05-21T12:03:17.278139+00:00",
+    "published_at": "2026-05-21T17:42:32.561033+00:00",
+    "fetched_at": "2026-05-21T17:42:32.561035+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "670ddf9257532c15",
-    "title": "Stellantis launches $70 billion business plan to 2030 including 60 new models",
+    "id": "7a70467f9a71debd",
+    "title": "Joint Corp. adds Milind Pant to board of directors",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/stock-market-news/stellantis-launches-70-billion-business-plan-to-2030-including-60-new-models-4703815",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K0YL_L.jpg",
+    "url": "https://www.investing.com/news/company-news/joint-corp-adds-milind-pant-to-board-of-directors-93CH-4704742",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T12:03:17.278062+00:00",
-    "fetched_at": "2026-05-21T12:03:17.278064+00:00",
+    "published_at": "2026-05-21T17:42:32.561007+00:00",
+    "fetched_at": "2026-05-21T17:42:32.561009+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "0987de4bda41da4d",
-    "title": "Morning Bid: Shrug for Nvidia but IPOs excite",
+    "id": "ce275029cf4922ed",
+    "title": "TriMas shareholders elect directors and approve proposals at annual meeting",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/commodities-news/shrug-for-nvidia-but-ipos-excite-4703593",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K0W1_L.jpg",
+    "url": "https://www.investing.com/news/sec-filings/trimas-shareholders-elect-directors-and-approve-proposals-at-annual-meeting-93CH-4704746",
+    "image": "https://picsum.photos/seed/wv-core-32c7a8657e8c/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T12:03:17.278036+00:00",
-    "fetched_at": "2026-05-21T12:03:17.278038+00:00",
+    "published_at": "2026-05-21T17:42:32.560981+00:00",
+    "fetched_at": "2026-05-21T17:42:32.560983+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "f10a9cf6bf331ad4",
-    "title": "Wall St futures slide as investors weigh Iran peace demands, Nvidia earnings",
+    "id": "b61ead3175579980",
+    "title": "Performance Food Group’s SWOT analysis: stock faces mixed signals",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/swot-analysis/performance-food-groups-swot-analysis-stock-faces-mixed-signals-93CH-4704747",
+    "image": "https://picsum.photos/seed/wv-core-0586be910eb8/1200/750",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-21T17:42:32.560951+00:00",
+    "fetched_at": "2026-05-21T17:42:32.560953+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "a9445a030aa0bb10",
+    "title": "EMA accepts Teva’s application for long-acting olanzapine",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/company-news/ema-accepts-tevas-application-for-longacting-olanzapine-93CH-4704750",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-21T17:42:32.560916+00:00",
+    "fetched_at": "2026-05-21T17:42:32.560918+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "0daa9662f941d635",
+    "title": "Stellantis unveils €60 billion strategic plan through 2030",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/company-news/stellantis-unveils-60-billion-strategic-plan-through-2030-93CH-4704751",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-21T17:42:32.560882+00:00",
+    "fetched_at": "2026-05-21T17:42:32.560884+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "6492f761cc1e11d3",
+    "title": "Form 13F Essential Partners LLC For: 21 May",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/filings/form-13f-essential-partners-llc-for-21-may-93CH-4704752",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-21T17:42:32.560842+00:00",
+    "fetched_at": "2026-05-21T17:42:32.560844+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "f6b9f34ea867b896",
+    "title": "Stocks spike higher after final draft of U.S.-Iran peace deal said to be reached",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
     "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-slip-after-nvidia-earnings-beat-walmart-results-on-tap-4702843",
-    "image": "https://picsum.photos/seed/wv-core-9bd5f152524a/1200/750",
+    "image": "https://picsum.photos/seed/wv-core-e3279f5d2081/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T12:03:17.278011+00:00",
-    "fetched_at": "2026-05-21T12:03:17.278013+00:00",
+    "published_at": "2026-05-21T17:42:32.560810+00:00",
+    "fetched_at": "2026-05-21T17:42:32.560813+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "e1dd5be8a4257310",
-    "title": "Nvidia CPU comments read positively for this chip stock: analyst",
+    "id": "a970a4cfdf4ef443",
+    "title": "Live Ventures CEO Jon Isaac buys $55,041 in company stock",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/stock-market-news/nvidia-cpu-comments-read-positively-for-this-chip-stock-analyst-4703817",
-    "image": "https://picsum.photos/seed/wv-core-5456b1c69d7d/1200/750",
+    "url": "https://www.investing.com/news/insider-trading-news/live-ventures-ceo-jon-isaac-buys-55041-in-company-stock-93CH-4704755",
+    "image": "https://picsum.photos/seed/wv-core-d01df3414d54/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T12:03:17.277982+00:00",
-    "fetched_at": "2026-05-21T12:03:17.277984+00:00",
+    "published_at": "2026-05-21T17:42:32.560736+00:00",
+    "fetched_at": "2026-05-21T17:42:32.560769+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "8e90c53721b4eabb",
-    "title": "European Commission cuts eurozone growth forecast to 0.9% for 2026",
-    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/economy-news/european-commission-cuts-eurozone-growth-forecast-to-09-for-2026-93CH-4703819",
-    "image": "https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_M_1440048891.jpg",
-    "source": "Investing.com News",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-21T12:03:17.277952+00:00",
-    "fetched_at": "2026-05-21T12:03:17.277954+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "3877708ac9883050",
-    "title": "Form 6K IperionX Limited ADR For: 21 May",
-    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/filings/form-6k-iperionx-limited-adr-for-21-may-93CH-4703820",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "source": "Investing.com News",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-21T12:03:17.277924+00:00",
-    "fetched_at": "2026-05-21T12:03:17.277926+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "b47b2abb9730c449",
-    "title": "Form 6K Kanzhun Ltd For: 21 May",
-    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/filings/form-6k-kanzhun-ltd-for-21-may-93CH-4703821",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "source": "Investing.com News",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-21T12:03:17.277893+00:00",
-    "fetched_at": "2026-05-21T12:03:17.277896+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "b639c93751f47fbb",
-    "title": "Form 8K Rigetti Computing Inc For: 21 May",
-    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/filings/form-8k-rigetti-computing-inc-for-21-may-93CH-4703822",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "source": "Investing.com News",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-21T12:03:17.277848+00:00",
-    "fetched_at": "2026-05-21T12:03:17.277862+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "519d47d7dd30425a",
-    "title": "Hands-On: The A. Lange & Söhne Saxonia Annual Calendar Watches Get An Update",
-    "description": "Sometimes the subtlest updates are the ones that make the biggest difference. This year at Watches and Wonders, there were plenty of brands that mostly made small tweaks to existing watches. For better or worse, the extravagant showstoppers were few and far between. A. Lange & Söhne fell squarely into the first camp, but it […] The post Hands-On: The A. Lange & Söhne Saxonia Annual Calendar Watches Get An Update appeared first on aBlogtoWatch .",
-    "url": "https://www.ablogtowatch.com/hands-on-the-a-lange-sohne-saxonia-annual-calendar-watches-get-an-update/",
-    "image": "https://picsum.photos/seed/wv-fill-8cf2d8d61f5d/1200/750",
-    "source": "aBlogtoWatch",
-    "source_id": "missing-core-satovi",
-    "category": "satovi",
-    "published_at": "2026-05-21T12:01:42+00:00",
-    "fetched_at": "2026-05-21T12:03:29.182312+00:00",
+    "id": "f8961581cccae494",
+    "title": "Convective Capital raises an $85 million fund to build disaster resilience",
+    "description": "After launching to invest in fire tech, Convective is broadening its mandate to disaster resilience.",
+    "url": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
+    "image": "https://picsum.photos/seed/wv-fill-8ddcb683d53f/1200/750",
+    "source": "TechCrunch",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:41:20+00:00",
+    "fetched_at": "2026-05-21T17:42:40.419573+00:00",
     "missing_core_fill": true
   },
   {
@@ -711,8 +749,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T12:00:40.040561+00:00",
-    "fetched_at": "2026-05-21T12:00:40.040564+00:00",
+    "published_at": "2026-05-21T17:40:16.095581+00:00",
+    "fetched_at": "2026-05-21T17:40:16.095584+00:00",
     "html_source": true
   },
   {
@@ -724,8 +762,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T12:00:40.040389+00:00",
-    "fetched_at": "2026-05-21T12:00:40.040391+00:00",
+    "published_at": "2026-05-21T17:40:16.095405+00:00",
+    "fetched_at": "2026-05-21T17:40:16.095408+00:00",
     "html_source": true
   },
   {
@@ -737,8 +775,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T12:00:40.040192+00:00",
-    "fetched_at": "2026-05-21T12:00:40.040196+00:00",
+    "published_at": "2026-05-21T17:40:16.095208+00:00",
+    "fetched_at": "2026-05-21T17:40:16.095211+00:00",
     "html_source": true
   },
   {
@@ -750,8 +788,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T12:00:40.040016+00:00",
-    "fetched_at": "2026-05-21T12:00:40.040019+00:00",
+    "published_at": "2026-05-21T17:40:16.095052+00:00",
+    "fetched_at": "2026-05-21T17:40:16.095055+00:00",
     "html_source": true
   },
   {
@@ -763,8 +801,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T12:00:40.039856+00:00",
-    "fetched_at": "2026-05-21T12:00:40.039858+00:00",
+    "published_at": "2026-05-21T17:40:16.094887+00:00",
+    "fetched_at": "2026-05-21T17:40:16.094890+00:00",
     "html_source": true
   },
   {
@@ -776,8 +814,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T12:00:40.039676+00:00",
-    "fetched_at": "2026-05-21T12:00:40.039679+00:00",
+    "published_at": "2026-05-21T17:40:16.094687+00:00",
+    "fetched_at": "2026-05-21T17:40:16.094690+00:00",
     "html_source": true
   },
   {
@@ -789,8 +827,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T12:00:40.039515+00:00",
-    "fetched_at": "2026-05-21T12:00:40.039518+00:00",
+    "published_at": "2026-05-21T17:40:16.094529+00:00",
+    "fetched_at": "2026-05-21T17:40:16.094532+00:00",
     "html_source": true
   },
   {
@@ -802,8 +840,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T12:00:40.039341+00:00",
-    "fetched_at": "2026-05-21T12:00:40.039344+00:00",
+    "published_at": "2026-05-21T17:40:16.094357+00:00",
+    "fetched_at": "2026-05-21T17:40:16.094359+00:00",
     "html_source": true
   },
   {
@@ -815,8 +853,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T12:00:40.039183+00:00",
-    "fetched_at": "2026-05-21T12:00:40.039186+00:00",
+    "published_at": "2026-05-21T17:40:16.094202+00:00",
+    "fetched_at": "2026-05-21T17:40:16.094205+00:00",
     "html_source": true
   },
   {
@@ -828,8 +866,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T12:00:40.038996+00:00",
-    "fetched_at": "2026-05-21T12:00:40.038999+00:00",
+    "published_at": "2026-05-21T17:40:16.094048+00:00",
+    "fetched_at": "2026-05-21T17:40:16.094051+00:00",
     "html_source": true
   },
   {
@@ -841,8 +879,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T12:00:40.038821+00:00",
-    "fetched_at": "2026-05-21T12:00:40.038824+00:00",
+    "published_at": "2026-05-21T17:40:16.093889+00:00",
+    "fetched_at": "2026-05-21T17:40:16.093893+00:00",
     "html_source": true
   },
   {
@@ -854,21 +892,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T12:00:40.038626+00:00",
-    "fetched_at": "2026-05-21T12:00:40.038639+00:00",
-    "html_source": true
-  },
-  {
-    "id": "309e19bead874b3e",
-    "title": "Interijer ove kuće elegantan je i bezvremenski primjer rekonstrukcije vile iz kasnih 30-ih godina Subota, 09. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/interijeri/vila-u-ceskoj-villa-m/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/vila-u-Ceskoj-villa-m-boysplaynice-01-9-768x576.jpg",
-    "source": "Journal.hr - interijeri",
-    "source_id": "extra-journal-interijeri",
-    "category": "dizajn",
-    "published_at": "2026-05-21T12:00:39.569750+00:00",
-    "fetched_at": "2026-05-21T12:00:39.569752+00:00",
+    "published_at": "2026-05-21T17:40:16.093679+00:00",
+    "fetched_at": "2026-05-21T17:40:16.093694+00:00",
     "html_source": true
   },
   {
@@ -880,34 +905,8 @@
     "source": "Journal.hr - interijeri",
     "source_id": "extra-journal-interijeri",
     "category": "dizajn",
-    "published_at": "2026-05-21T12:00:39.569581+00:00",
-    "fetched_at": "2026-05-21T12:00:39.569583+00:00",
-    "html_source": true
-  },
-  {
-    "id": "539c36f6029c7c0b",
-    "title": "U Splitu otvoren prvi Design Hotel: Evo kako izgleda glamur na Bačvicama Ponedjeljak, 11. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/interijeri/boutique-hotel-venturo-split-design-hotels-marriott-international/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/Venturo-5-768x549.jpg",
-    "source": "Journal.hr - interijeri",
-    "source_id": "extra-journal-interijeri",
-    "category": "dizajn",
-    "published_at": "2026-05-21T12:00:39.569417+00:00",
-    "fetched_at": "2026-05-21T12:00:39.569420+00:00",
-    "html_source": true
-  },
-  {
-    "id": "0998bf2f61628339",
-    "title": "Pariški hotel L’Aventure je posveta art deco estetici, noćnom životu i bojama Utorak, 12. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/interijeri/hotel-laventure-pariz-francuska/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/LAventure-Paris-2-768x512.webp",
-    "source": "Journal.hr - interijeri",
-    "source_id": "extra-journal-interijeri",
-    "category": "dizajn",
-    "published_at": "2026-05-21T12:00:39.569260+00:00",
-    "fetched_at": "2026-05-21T12:00:39.569262+00:00",
+    "published_at": "2026-05-21T17:40:15.843945+00:00",
+    "fetched_at": "2026-05-21T17:40:15.843950+00:00",
     "html_source": true
   }
 ]

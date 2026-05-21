@@ -1,78 +1,78 @@
 {
-  "updated_at": "2026-05-21T16:24:18.263303+00:00",
+  "updated_at": "2026-05-21T17:43:05.190902+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 88,
-      "cover": "https://variety.com/wp-content/uploads/2026/03/jones-oliver.jpg"
+      "count": 74,
+      "cover": "https://deadline.com/wp-content/uploads/2026/05/MixCollage-21-May-2026-10-00-AM-5449.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 29,
-      "cover": "https://www.yankodesign.com/images/design_news/2026/05/car-gadgets-that-just-made-100000-factory-options-look-embarrassingly-overpriced/5_best_car_gadgets_yanko_design_01.jpg"
+      "count": 35,
+      "cover": "https://cdn.mos.cms.futurecdn.net/GGrXg9S53exnC7Ubn9cBMc-1280-80.jpg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 7,
-      "cover": "https://robbreport.com/wp-content/uploads/2026/05/ER-Yacht-Design-ER-40-Explorer-1.jpg"
+      "count": 6,
+      "cover": "https://robbreport.com/wp-content/uploads/2026/05/2027-ram-rumble-bee-07.jpg"
     },
     {
       "id": "hrana",
       "label": "HRANA",
-      "count": 4,
-      "cover": "https://assets.bonappetit.com/photos/6a0b784f1420d0d9e1417a79/master/pass/chimichurri-grilled-shrimp_RECIPE_V1_051326_14306_VOG_final.jpg"
+      "count": 2,
+      "cover": "https://assets.bonappetit.com/photos/6a0b4f511420d0d9e1417948/master/pass/Rocco%20Fridge_Highly%20Rec2.jpg"
     },
     {
       "id": "pica",
       "label": "PIĆA",
-      "count": 24,
-      "cover": "https://www.thespiritsbusiness.com/content/uploads/2026/05/Cotswolds-Wild-Spritz.jpg"
+      "count": 28,
+      "cover": "https://daily.sevenfifty.com/wp-content/uploads/2022/07/SFD_Science_of_NA_Production_CR_iStock_Hero_2520x1420-768x433.jpg"
     },
     {
       "id": "satovi",
       "label": "SATOVI",
-      "count": 5,
-      "cover": "https://monochrome-watches.com/app/uploads/2026/05/Omega-Seamaster-Diver-300M-Chronograph-007-First-Light-review-video-game-into-reality-10-600x237.jpg"
+      "count": 8,
+      "cover": "https://monochrome-watches.com/app/uploads/2026/05/Watch-Angels-x-Alpina-Startimer-Pilot-IFR-Chronograph-3-600x237.jpg"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 33,
-      "cover": "https://coolhunting.com/wp-content/uploads/2026/05/IMG_5265_cropped-768x574.jpg"
+      "count": 40,
+      "cover": "https://media.allure.com/photos/6a0f3f7c083988515c5bc36d/master/pass/Allure-Spring-2026-Online-e.l.f.%20Is%20Lowering%20Prices%20Back%20to%20Pre-Tariff%20Levels.jpg"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 62,
-      "cover": "https://www.engadget.com/img/gallery/meta-has-reportedly-laid-off-8000-employees/l-intro-1779363038.jpg"
+      "count": 57,
+      "cover": "https://www.engadget.com/img/gallery/waymos-in-atlanta-and-san-antonio-keep-driving-into-flooded-roads/l-intro-1779384444.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 86,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2025/older-adult-walking.jpg"
+      "count": 66,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/brains-tumour-hotspots.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 98,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/6048e165345b4ab79c3f331a/0x0.jpg?width=960"
+      "count": 104,
+      "cover": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1232611626.jpg"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 60,
-      "cover": "https://images.mktw.net/im-07438364"
+      "count": 59,
+      "cover": "https://images.mktw.net/im-38835757"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 4,
-      "cover": "https://www.freightwaves.com/wp-content/uploads/2026/05/21/Duff-Newsom-2.jpg"
+      "count": 21,
+      "cover": "https://imgproxy.divecdn.com/pHHKlmDmwF14yMQFF1Yo6hiRzHFMWGHK6nml77i3uqY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzAxNTY1NzU0XzEuanBn.webp"
     }
   ]
 }

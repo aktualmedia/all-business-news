@@ -9,7 +9,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910211+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601049+00:00"
   },
   {
     "id": "518893cda3595307",
@@ -21,7 +21,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910275+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601115+00:00"
   },
   {
     "id": "a85a64336941fc6a",
@@ -33,7 +33,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910331+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601173+00:00"
   },
   {
     "id": "ad14d6c56adec45d",
@@ -105,7 +105,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910383+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601226+00:00"
   },
   {
     "id": "afe04b4cab8b18fe",
@@ -117,7 +117,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910436+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601277+00:00"
   },
   {
     "id": "25b3dba7ac823a67",
@@ -129,7 +129,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910485+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601326+00:00"
   },
   {
     "id": "f34e0846cfa4155f",
@@ -141,19 +141,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910535+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601386+00:00"
   },
   {
-    "id": "e1ec5383ee11f320",
-    "title": "Ramping up manufacturing in America?",
-    "description": "Probing how much manufacturing ramp-up would be needed to address US trade dependencies.",
-    "url": "https://www.mckinsey.com/mgi/our-research/ramping-up-manufacturing-in-america",
-    "image": "https://picsum.photos/seed/wv-news-54703be3cccd/1200/750",
+    "id": "867b4ad72bbda8b6",
+    "title": "Beyond stablecoins: The emerging architecture of on-chain money",
+    "description": "As attention focuses on stablecoins, a larger $4 trillion transformation is underway, integrating bank deposits and central bank assets into a unified global monetary stack.",
+    "url": "https://www.mckinsey.com/industries/financial-services/our-insights/beyond-stablecoins-the-emerging-architecture-of-on-chain-money",
+    "image": "https://picsum.photos/seed/wv-news-fcd1c691384b/1200/750",
     "source": "McKinsey Insights",
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910043+00:00"
+    "fetched_at": "2026-05-21T17:37:50.600846+00:00"
   },
   {
     "id": "c40b3cdc959689d5",
@@ -165,7 +165,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910153+00:00"
+    "fetched_at": "2026-05-21T17:37:50.600937+00:00"
+  },
+  {
+    "id": "e1ec5383ee11f320",
+    "title": "Ramping up manufacturing in America?",
+    "description": "Probing how much manufacturing ramp-up would be needed to address US trade dependencies.",
+    "url": "https://www.mckinsey.com/mgi/our-research/ramping-up-manufacturing-in-america",
+    "image": "https://picsum.photos/seed/wv-news-54703be3cccd/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Thu, 21 May 2026",
+    "fetched_at": "2026-05-21T17:37:50.600993+00:00"
   },
   {
     "id": "b4cea2ca3d77a858",
@@ -237,7 +249,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910589+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601447+00:00"
   },
   {
     "id": "a98eee73d2e97e01",
@@ -249,7 +261,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-21T11:58:32.910649+00:00"
+    "fetched_at": "2026-05-21T17:37:50.601509+00:00"
   },
   {
     "id": "b17b2d7b43d45173",
@@ -308,8 +320,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-21T12:00:32.327749+00:00",
-    "fetched_at": "2026-05-21T12:00:32.327751+00:00",
+    "published_at": "2026-05-21T17:40:08.841793+00:00",
+    "fetched_at": "2026-05-21T17:40:08.841797+00:00",
     "html_source": true
   },
   {
@@ -321,8 +333,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-21T12:00:32.327629+00:00",
-    "fetched_at": "2026-05-21T12:00:32.327632+00:00",
+    "published_at": "2026-05-21T17:40:08.841646+00:00",
+    "fetched_at": "2026-05-21T17:40:08.841650+00:00",
     "html_source": true
   },
   {
@@ -334,8 +346,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-21T12:00:32.327369+00:00",
-    "fetched_at": "2026-05-21T12:00:32.327372+00:00",
+    "published_at": "2026-05-21T17:40:08.841386+00:00",
+    "fetched_at": "2026-05-21T17:40:08.841389+00:00",
     "html_source": true
   },
   {
@@ -347,8 +359,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-21T12:00:32.327246+00:00",
-    "fetched_at": "2026-05-21T12:00:32.327250+00:00",
+    "published_at": "2026-05-21T17:40:08.841263+00:00",
+    "fetched_at": "2026-05-21T17:40:08.841266+00:00",
     "html_source": true
   },
   {
@@ -360,8 +372,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-21T12:00:32.327036+00:00",
-    "fetched_at": "2026-05-21T12:00:32.327039+00:00",
+    "published_at": "2026-05-21T17:40:08.841080+00:00",
+    "fetched_at": "2026-05-21T17:40:08.841083+00:00",
     "html_source": true
   },
   {
@@ -373,9 +385,669 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-21T12:00:32.326891+00:00",
-    "fetched_at": "2026-05-21T12:00:32.326905+00:00",
+    "published_at": "2026-05-21T17:40:08.840940+00:00",
+    "fetched_at": "2026-05-21T17:40:08.840954+00:00",
     "html_source": true
+  },
+  {
+    "id": "5f67a66f600044eb",
+    "title": "Disney is facing a $5 million lawsuit over facial recognition scanning at Disneyland",
+    "description": "A lawsuit filed in California federal court alleges Disney doesn't properly disclose its biometric data collection to visitors, including children",
+    "url": "https://qz.com/disney-facial-recognition-lawsuit-disneyland-class-action-052126",
+    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1232611626.jpg",
+    "source": "Quartz",
+    "source_id": "src-015",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T17:28:38+00:00",
+    "fetched_at": "2026-05-21T17:37:56.227196+00:00"
+  },
+  {
+    "id": "67a75935282328d8",
+    "title": "AI Was Supposed To Reduce Your Workload. Here’s Why It Hasn’t, And Here’s How It Can.",
+    "description": "Discover why global enterprises are entirely rethinking their security operating models and adopting an agentic system.",
+    "url": "https://www.forbes.com/sites/reliaquest/2026/05/21/ai-was-supposed-to-reduce-your-workload-heres-why-it-hasnt-and-heres-how-it-can/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0e7a0889d663665860210c/0x0.png?width=960",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T17:24:58+00:00",
+    "fetched_at": "2026-05-21T17:39:15.748243+00:00"
+  },
+  {
+    "id": "cc39a5be2c0f26e6",
+    "title": "Taco Bell is bringing back its birria-inspired dipping taco — and adding a loaded fries version",
+    "description": "The Shredded Beef Dipping Taco returns to menus nationwide on May 21, joined for the first time by Shredded Beef Nacho Fries",
+    "url": "https://qz.com/taco-bell-shredded-beef-dipping-taco-nacho-fries-052126",
+    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/Taco_Bell_Shredded_Beef_Dipping_Taco_and_Nacho_Fries.jpg",
+    "source": "Quartz",
+    "source_id": "src-015",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T17:20:35+00:00",
+    "fetched_at": "2026-05-21T17:37:56.227283+00:00"
+  },
+  {
+    "id": "ec1dae288fa69661",
+    "title": "Trump's White House is again delaying an AI executive order on pre-release safety reviews",
+    "description": "Trump said he didn't want to sign an order that could slow the U.S. down in its competition with China on AI",
+    "url": "https://qz.com/trump-ai-executive-order-delay-pre-release-model-reviews-052126",
+    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2226705587.jpg",
+    "source": "Quartz",
+    "source_id": "src-015",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T17:20:28+00:00",
+    "fetched_at": "2026-05-21T17:37:56.227341+00:00"
+  },
+  {
+    "id": "1fbb52e8061fc528",
+    "title": "How ‘Stronger Not Smaller’ Became A Cultural Movement — And The Celebrities Driving It",
+    "description": "The \"stronger not smaller\" movement has found a surprising champion: the entertainment industry.",
+    "url": "https://www.forbes.com/sites/oliviashalhoup/2026/05/21/how-stronger-not-smaller-became-a-cultural-movement---and-the-celebrities-driving-it/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f3d5ca94051e80841c326/0x0.jpg?width=960",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T17:19:45+00:00",
+    "fetched_at": "2026-05-21T17:37:55.407434+00:00"
+  },
+  {
+    "id": "8c44b414096ad6d5",
+    "title": "DevOps Practices Tech Teams Must Strengthen In The AI Era",
+    "description": "Faster output doesn’t automatically mean better results, and DevOps discipline becomes more important, not less, as AI is integrated into the workflow.",
+    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/21/devops-practices-tech-teams-must-strengthen-in-the-ai-era/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f17d299b40e500b409d6b/0x0.jpg?width=960",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T17:15:37+00:00",
+    "fetched_at": "2026-05-21T17:39:15.748320+00:00"
+  },
+  {
+    "id": "0a25384ec1917a3b",
+    "title": "Shein And Everlane Combination Tests The Limits Of Sustainable Consumers",
+    "description": "Shein is considered one of, if not the most polluting fashion brands in the world. It is said to be acquiring Everlane, which has stood for sustainability and transparency.",
+    "url": "https://www.forbes.com/sites/sharonedelson/2026/05/21/shein-and-everlane-combination-tests-the-limits-of-sustainable-consumers/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0e0a6440babc25701a77c8/0x0.jpg",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T17:13:02+00:00",
+    "fetched_at": "2026-05-21T17:37:55.407508+00:00"
+  },
+  {
+    "id": "729901dd4032f590",
+    "title": "Aaron Carter Wrongful Death Settlement: Tragedy Meets Liability",
+    "description": "The lawsuit filed over Aaron Carter’s wrongful death has sparked wider debate over physician and pharmacy liability in overdose deaths.",
+    "url": "https://www.forbes.com/sites/legalentertainment/2026/05/21/aaron-carter-wrongful-death-settlement-tragedy-meets-liability/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f31e5355fc85a1a4cb0f8/0x0.jpg?width=960&precrop=3000%2C1686%2Cx0%2Cy35",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T17:12:29+00:00",
+    "fetched_at": "2026-05-21T17:37:55.407573+00:00"
+  },
+  {
+    "id": "8506fbd37597f1e4",
+    "title": "The End Of ‘Destiny 2’: All Expansions Canceled, Maintenance Mode Incoming",
+    "description": "Destiny 2 is dead. It will no longer produce content updates after this June, and will go into maintenance mode from here. The end of an era.",
+    "url": "https://www.forbes.com/sites/paultassi/2026/05/21/the-end-of-destiny-2-all-expansions-canceled-maintenance-mode-incoming/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f3a13ab8129afa83af5b1/0x0.jpg",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T17:11:50+00:00",
+    "fetched_at": "2026-05-21T17:39:15.748392+00:00"
+  },
+  {
+    "id": "64c4f2dd4bd99d54",
+    "title": "Canva is bringing its design tools inside Google Gemini, completing a sweep of major AI platforms",
+    "description": "The move completes Canva's integration across all four major AI assistants: Claude, ChatGPT, Microsoft Copilot, and Gemini",
+    "url": "https://qz.com/canva-google-gemini-design-integration-052126",
+    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GeminixCanvaEditableAIimages.jpg",
+    "source": "Quartz",
+    "source_id": "src-015",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T17:10:27+00:00",
+    "fetched_at": "2026-05-21T17:37:56.227397+00:00"
+  },
+  {
+    "id": "acb26c7defb7f38c",
+    "title": "‘The Mandalorian’ Series Recap Before You See ‘The Mandalorian And Grogu’ Plus Post-Credits Scene And More",
+    "description": "Everything you need to know before you go see The Mandalorian and Grogu in theaters this weekend.",
+    "url": "https://www.forbes.com/sites/erikkain/2026/05/21/the-mandalorian-and-grogu-star-wars-movie-recap-post-credits-scene/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f395a21cf53664eaa5943/0x0.jpg?width=960",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T17:06:37+00:00",
+    "fetched_at": "2026-05-21T17:37:55.407647+00:00"
+  },
+  {
+    "id": "3895296d3fa754a1",
+    "title": "Trump Postpones Hotly Anticipated AI Executive Order Over: ‘Didn’t Like Certain Aspects’",
+    "description": "The executive order would have established voluntary government vetting of artificial intelligence models before they were released to the public.",
+    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/05/21/trump-postpones-hotly-anticipated-ai-executive-order-over-didnt-like-certain-aspects/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f3a9e755f9b9ca9e3fee7/0x0.jpg?width=960&precrop=2455%2C1638%2Cx1%2Cy0",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T17:04:38+00:00",
+    "fetched_at": "2026-05-21T17:37:55.407716+00:00"
+  },
+  {
+    "id": "bdf2414643602601",
+    "title": "A Pizza Hut franchisee is suing over a forced AI system it says wrecked deliveries",
+    "description": "Chaac Pizza Northeast says the Dragontail platform gave DoorDash drivers visibility into kitchen operations, causing delays and a sales collapse",
+    "url": "https://qz.com/pizza-hut-franchisee-lawsuit-dragontail-ai-delivery-052126",
+    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2270790286.jpg",
+    "source": "Quartz",
+    "source_id": "src-015",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T17:00:43+00:00",
+    "fetched_at": "2026-05-21T17:37:56.227451+00:00"
+  },
+  {
+    "id": "9daa60b7a4be66ff",
+    "title": "How Does The Ending Of ‘The Boys’ Compare To The Comics?",
+    "description": "‘The Boys’ finale sees Butcher (Karl Urban) and Homelander (Antony Starr) in a final battle, but the ending of the comics is very different.",
+    "url": "https://www.forbes.com/sites/danidiplacido/2026/05/21/how-does-the-ending-of-the-boys-compare-to-the-comics/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f303b2d55bd3a4f5141dd/0x0.jpg?width=960",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:46:07+00:00",
+    "fetched_at": "2026-05-21T17:37:55.407809+00:00"
+  },
+  {
+    "id": "a74132a9c79a63c7",
+    "title": "Boll & Branch Expands Store Network To Blanket The Country In Luxury Sleep",
+    "description": "Premium home textiles brand Boll & Branch is expanding its retail network to reach 20 stores by year-end. In-store experiences are critical to success as luxury retailer.",
+    "url": "https://www.forbes.com/sites/pamdanziger/2026/05/21/boll--branch-expands-store-network-to-blanket-the-country-in-luxury-sleep/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f2aaa424f14202060395d/0x0.jpg",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:45:46+00:00",
+    "fetched_at": "2026-05-21T17:37:55.407879+00:00"
+  },
+  {
+    "id": "810651b26a895137",
+    "title": "Fidelity Collective Buys Up Westone Audio And Etymotic Brands",
+    "description": "Two of the most respected names in the world of personal audio’s have been acquired by Fidelity Collective, headed by CEO Sam Rooney and COO Tal Kocen.",
+    "url": "https://www.forbes.com/sites/marksparrow/2026/05/21/fidelity-collective-buys-up-westone-audio-and-etymotic-brands/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/64d4faf375f5e9674db1ea49/0x0.jpg",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:45:21+00:00",
+    "fetched_at": "2026-05-21T17:39:15.748523+00:00"
+  },
+  {
+    "id": "bbaa4cfecc8be909",
+    "title": "Homebuilder confidence ticks up 3 points in May but stays in negative territory",
+    "description": "The NAHB/Wells Fargo Housing Market Index rose to 37, its 25th straight month below the break-even level of 50",
+    "url": "https://qz.com/nahb-homebuilder-confidence-index-may-2026-051826",
+    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2239447670.jpg",
+    "source": "Quartz",
+    "source_id": "src-015",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:40:42+00:00",
+    "fetched_at": "2026-05-21T17:37:56.227504+00:00"
+  },
+  {
+    "id": "25e8c4057b7b7652",
+    "title": "Oil prices are climbing again as Iran looks to keep its uranium",
+    "description": "Ayatollah Mojtaba Khamenei has ordered Iran's enriched uranium to remain in the country, complicating U.S. peace talks and squeezing global supply",
+    "url": "https://qz.com/iran-uranium-oil-prices-hormuz-trump-052126",
+    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1250649650.jpg",
+    "source": "Quartz",
+    "source_id": "src-015",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:40:23+00:00",
+    "fetched_at": "2026-05-21T17:37:56.227556+00:00"
+  },
+  {
+    "id": "73168fe7d63fc3d1",
+    "title": "Why AI Profitability Belongs To Enterprise, Not Consumer Scale",
+    "description": "AI profitability favors enterprise over consumer scale. Anthropic reaches profit as OpenAI plans IPO. Which model wins with public market investors and why it matters.",
+    "url": "https://www.forbes.com/sites/paulocarvao/2026/05/21/why-ai-profitability-belongs-to-enterprise-not-consumer-scale/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f2a979e70b5ab2df8bf0b/0x0.jpg",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:32:52+00:00",
+    "fetched_at": "2026-05-21T17:39:15.748580+00:00"
+  },
+  {
+    "id": "f3e3fc2ec2da1012",
+    "title": "Virginia judge clears ex-assistant principal of all charges in case tied to 6-year-old's classroom shooting",
+    "description": "A Newport News court found that Ebony Parker's inaction ahead of a student shooting his teacher fell outside the boundaries of criminal liability under Virginia law",
+    "url": "https://qz.com/virginia-assistant-principal-charges-dismissed-school-shooting-052126",
+    "image": "https://picsum.photos/seed/wv-news-37feca30d640/1200/750",
+    "source": "Quartz",
+    "source_id": "src-015",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:28:28+00:00",
+    "fetched_at": "2026-05-21T17:37:56.227618+00:00"
+  },
+  {
+    "id": "c5e47ad3c6dd0ddd",
+    "title": "Citadel CEO Ken Griffin says NYC Mayor Zohran Mamdani's video \"put me in harm's way\"",
+    "description": "Griffin cited the murder of a UnitedHealthcare CEO blocks from his home; Citadel has signaled it may pull a $6 billion Manhattan redevelopment",
+    "url": "https://qz.com/ken-griffin-mamdani-harm-way-citadel-pied-a-terre-tax-052126",
+    "image": "https://picsum.photos/seed/wv-news-850394dd007b/1200/750",
+    "source": "Quartz",
+    "source_id": "src-015",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:28:15+00:00",
+    "fetched_at": "2026-05-21T17:37:56.227675+00:00"
+  },
+  {
+    "id": "166c804f6757ac3f",
+    "title": "Southern Poverty Law Center indicted on 11 federal fraud and money laundering counts",
+    "description": "A federal grand jury charged the civil rights nonprofit over a paid informant program used to infiltrate hate groups between 2014 and 2023",
+    "url": "https://qz.com/southern-poverty-law-center-indicted-federal-fraud-money-laundering-052126",
+    "image": "https://picsum.photos/seed/wv-news-86582f63d3c0/1200/750",
+    "source": "Quartz",
+    "source_id": "src-015",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:28:06+00:00",
+    "fetched_at": "2026-05-21T17:37:56.227731+00:00"
+  },
+  {
+    "id": "3ce799c73f4d150c",
+    "title": "Supreme Court sides with port firm over Cuba dock seizure in near-unanimous vote",
+    "description": "Havana Docks Corporation can seek compensation from cruise lines over seized Cuban property, a ruling that could invite a wave of comparable legal challenges",
+    "url": "https://qz.com/supreme-court-cuba-havana-docks-seizure-ruling-052126",
+    "image": "https://picsum.photos/seed/wv-news-4e2703ba209b/1200/750",
+    "source": "Quartz",
+    "source_id": "src-015",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:27:53+00:00",
+    "fetched_at": "2026-05-21T17:37:56.227816+00:00"
+  },
+  {
+    "id": "cf36d802028c46b5",
+    "title": "Fishing boats worldwide tuck dockside as diesel prices surge on Iran war - Reuters",
+    "description": "Fishing boats worldwide tuck dockside as diesel prices surge on Iran war Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZngxMlNIZS1RYmFabXB1TjdfQTJNcmJSeTc0VjlKaUNUS1F4U3NuOEFCY1hraVdjTXFLZFdEcEhGcnBsRWp1OFpaUldFWGFFQ1RmN2lteDJtV2FqSkxMb080UlhtQmQ2eGlPZktNbHlRQWtpcVNUaHJlZF9LaS1GWE9ZbHBTaEdJVEhQZjBnUFVzT3ptS2ppN2p6Tm9LSnBpS2NqQ2FoTElYRlJZM2RnWEVLLTYxc19CZnc?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-071a0f02dc05/1200/750",
+    "source": "Reuters Business - Google News",
+    "source_id": "global-extra-002",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:15:45+00:00",
+    "fetched_at": "2026-05-21T17:39:37.945081+00:00"
+  },
+  {
+    "id": "f68737291903344e",
+    "title": "Oil prices gain 3% after Reuters report signals complication to US-Iran peace talks - Reuters",
+    "description": "Oil prices gain 3% after Reuters report signals complication to US-Iran peace talks Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzhfeFV4cS1TOEs1TmUxSlVscHVtZDdRNzNkZUUwV2dxS2ZLcjNDUkxnZVN1US11M19KSV9DOHBlcjRPSTlmSXNzSHlFV1ZjTFdVYndtODdha0ptd1JCVlNBN0kwZU82THp5Vk92U3NiMlBZX1JWQUZEYVJyMDJrTG42ZkVvUWlqZno1QWppdm1FYVV6dFVzYl9KS0F4OUdrYXlLSWNoN1lVVkpDaDVmVWtQbDNGMkNI?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-a096a1675bb4/1200/750",
+    "source": "Reuters Business - Google News",
+    "source_id": "global-extra-002",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:11:29+00:00",
+    "fetched_at": "2026-05-21T17:39:37.944365+00:00"
+  },
+  {
+    "id": "4cc0fe7532d2ba7a",
+    "title": "US energy storage additions hit a first-quarter record, report shows - Reuters",
+    "description": "US energy storage additions hit a first-quarter record, report shows Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR0FDdHVtVHFoT3BJNnlObzVxbGk1amtLQ25MUEFaeFJQWUpITzRrdnhUNUgtTVdrQWNMWXlzVXVtMU5qb0x2cDJCMU1NQ19HczRMZE5lY3ZIMzhDa2NqcjBfYUZod1huYlpHM2pXT2tjSmlzYmt1UmRqVnVPVmZBT2FlbEtxZjM0SU5rWVFvODEyWDNsMWNFRy00MWlFd2IxTUlsZ18za3pqd3h6clJlTkgxS2hkenNV?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-54c9c06a3355/1200/750",
+    "source": "Reuters Business - Google News",
+    "source_id": "global-extra-002",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:10:20+00:00",
+    "fetched_at": "2026-05-21T17:39:37.944189+00:00"
+  },
+  {
+    "id": "57d36e951e19de20",
+    "title": "For Once, Kyle Busch Isn’t Fighting The Rest Of The NASCAR Field",
+    "description": "Kyle Busch will miss the races at Charlotte Motor Speedway this weekend. And not by choice.",
+    "url": "https://www.forbes.com/sites/gregengle/2026/05/21/for-once-kyle-busch-isnt-fighting-the-rest-of-the-nascar-field/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f2cdcb18f79792db4c733/0x0.jpg",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:08:59+00:00",
+    "fetched_at": "2026-05-21T17:37:55.407943+00:00"
+  },
+  {
+    "id": "f6d885b3a82c54db",
+    "title": "More Republicans Blast Trump’s $1.8 Billion ‘Anti-Weaponization’ Fund As Blanche Pleas For Their Approval",
+    "description": "Trump is also facing Republican resistance over his White House ballroom project.",
+    "url": "https://www.forbes.com/sites/saradorn/2026/05/21/more-republicans-blast-trumps-18-billion-anti-weaponization-fund-as-blanche-pleas-for-their-approval/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6942cd09151072b563319998/0x0.jpg",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:06:06+00:00",
+    "fetched_at": "2026-05-21T17:37:55.408010+00:00"
+  },
+  {
+    "id": "00af38387284c458",
+    "title": "Kordata Launches To Advance Neurotech-Powered Clinical Trials",
+    "description": "Kordata, a BIOS Ltd spinout, will advance next-generation clinical trial sites powered with neural recording technologies and enterprise b2b capabilities.",
+    "url": "https://www.forbes.com/sites/naveenrao/2026/05/21/kordata-launches-to-advance-neurotech-powered-clinical-trials/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f2bbc644ac1e3f8cee46d/0x0.jpg",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:02:21+00:00",
+    "fetched_at": "2026-05-21T17:39:15.748637+00:00"
+  },
+  {
+    "id": "859c3c126b285aa8",
+    "title": "Kroger's new CEO is planning sweeping price cuts to take on Walmart",
+    "description": "Greg Foran, who took over in February, says Kroger will reduce prices across thousands of products to claw back market share",
+    "url": "https://qz.com/kroger-ceo-price-cuts-walmart-costco-052126",
+    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2157423774.jpg",
+    "source": "Quartz",
+    "source_id": "src-015",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:00:35+00:00",
+    "fetched_at": "2026-05-21T17:37:56.227872+00:00"
+  },
+  {
+    "id": "d666e70dfb2150d7",
+    "title": "Solving The Identity Crisis: Putting Today’s Fragmented Consumer Back Together",
+    "description": "Modern marketing faces a critical challenge: data fragmentation, leading to disconnected customer experiences and lost sales. Identity resolution technology, powered by AI, provides a solution by unifying disparate digital and offline data into a single, real-time customer view which enables hyper-personalization, boosts ROI, and is crucial for meeting Gen Z's expectations and evolving privacy demands.",
+    "url": "https://www.forbes.com/sites/insights-acxiom/2026/05/21/solving-the-identity-crisis-putting-todays-fragmented-consumer-back-together/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0db54b479fc21cec6be47e/0x0.jpg",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:00:01+00:00",
+    "fetched_at": "2026-05-21T17:39:15.748711+00:00"
+  },
+  {
+    "id": "3cbe51b8eb01e089",
+    "title": "5 Proactive Strategies to Help You Protect and Strengthen Your Mental Health",
+    "description": "Mental health is a journey not a destination. Make sure to be proactive instead of reactive.",
+    "url": "https://www.entrepreneur.com/building-a-business/entrepreneurship/5-proactive-strategies-to-help-you-protect-and-strengthen-your-mental-health",
+    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/protect-mental-health-0526_g825412854.jpg",
+    "source": "Entrepreneur",
+    "source_id": "src-012",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:00:00+00:00",
+    "fetched_at": "2026-05-21T17:37:55.687506+00:00"
+  },
+  {
+    "id": "9213ce3de136cc81",
+    "title": "The CEO Who Rescued Potbelly Is Now Taking Over Wendy’s — Here’s What to Expect",
+    "description": "Bob Wright led Potbelly's turnaround and sold it for $566 million. Now he's trying to save a burger chain that's closed 300 locations.",
+    "url": "https://www.entrepreneur.com/buying-a-franchise/the-ceo-who-rescued-potbelly-is-now-taking-over-wendys",
+    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/wendys-0526-g-2244403171-edit.jpg",
+    "source": "Entrepreneur",
+    "source_id": "src-012",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T16:00:00+00:00",
+    "fetched_at": "2026-05-21T17:37:55.687582+00:00"
+  },
+  {
+    "id": "40a044a7ee71fccf",
+    "title": "These Are The Most- And Least-Expensive New Cars To Run At Today’s Fuel Prices",
+    "description": "Those driving the largest and/or most powerful rides are suffering the biggest hits at the pump.",
+    "url": "https://www.forbes.com/sites/jimgorzelany/2026/05/21/these-are-the-mostand-least-expensive-new-cars-to-run-at-todays-fuel-prices/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f277dbbcce996a8559221/0x0.jpg?width=960&precrop=2260%2C1272%2Cx0%2Cy211",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T15:49:01+00:00",
+    "fetched_at": "2026-05-21T17:39:15.748802+00:00"
+  },
+  {
+    "id": "13539879052b6587",
+    "title": "New Reports And New Paradigms Show Drive In AI Smart Glasses Market",
+    "description": "Smart glasses sales surged in 2025 as Apple, Google, and Meta pursued smartphone-connected wearable AI ecosystems.",
+    "url": "https://www.forbes.com/sites/johnwerner/2026/05/21/new-reports-and-new-paradigms-show-drive-in-ai-smart-glasses-market/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f284e627f4512fd35d551/0x0.jpg",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T15:45:41+00:00",
+    "fetched_at": "2026-05-21T17:39:15.748860+00:00"
+  },
+  {
+    "id": "287c0c151c802c0f",
+    "title": "Start Before You’re Ready",
+    "description": "The ability to start before you’re ready is one of the biggest differentiators of success between a fast-moving entrepreneurial business and an aging, large corporation.",
+    "url": "https://www.forbes.com/sites/forbesbooksauthors/2026/05/21/start-before-youre-ready/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f26f3c0903ea522da76ad/0x0.jpg",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T15:43:07+00:00",
+    "fetched_at": "2026-05-21T17:37:55.408072+00:00"
+  },
+  {
+    "id": "84a0b27096f163ce",
+    "title": "Accenture Employs 786,000 People — And Is Looking for Entry-Level/Gen Z Workers With This Specific Skill",
+    "description": "As other firms pull back, Accenture is pushing forward with entry-level hiring.",
+    "url": "https://www.entrepreneur.com/business-news/accenture-is-making-more-entry-level-hires-this-year-beck-bailey-julie-sweet",
+    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/Julie-Sweet-0526-g-2272071039-edit.jpg",
+    "source": "Entrepreneur",
+    "source_id": "src-012",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T15:41:41+00:00",
+    "fetched_at": "2026-05-21T17:37:55.687654+00:00"
+  },
+  {
+    "id": "5865c545528c43be",
+    "title": "Stellantis unveils $70 billion strategy pivot under Filosa, markets wary - Reuters",
+    "description": "Stellantis unveils $70 billion strategy pivot under Filosa, markets wary Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLTBnaTdQLTljM0xPVXV5d1RHTGFCR1A4QXlBT3Z2aVJCVHFiYjZHemo1aGJ5VlFpdWlxRURCd0ZTVFpMTmxQM0hWVFBVUjdBd1RERHVCTUZ5WjJtTnN3NXFUYjUxNjZBWnlFek1CeFF5NkFWYjEzYmhiSDcxMW93bk4yV0VhTG85aDI0c011cUdJTWI3MkhDelRtSFBES2dtMjNSY2NuUzlHdWVFYXBDR3NuZEt3Ulo2TUxlMk9kczU0Wlkta1d4YjBjdUVyWUhXODFKejJmeC0?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-30744aafb20b/1200/750",
+    "source": "Reuters Business - Google News",
+    "source_id": "global-extra-002",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T15:37:41+00:00",
+    "fetched_at": "2026-05-21T17:39:37.944521+00:00"
+  },
+  {
+    "id": "686e495c7eb4991b",
+    "title": "Samsung Galaxy Z Fold 8: Price Rise, Bad Crease News",
+    "description": "Samsung tipster reveals bad Galaxy Z Fold 8 display crease news, no S Pen support and no Galaxy S26 Ultra privacy screen. Here's what you need to know.",
+    "url": "https://www.forbes.com/sites/jaymcgregor/2026/05/21/samsung-galaxy-z-fold-8-bad-crease-news-no-privacy-screen/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f2576882e4bf93a8f8883/0x0.jpg?width=960",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T15:35:00+00:00",
+    "fetched_at": "2026-05-21T17:39:15.748917+00:00"
+  },
+  {
+    "id": "184358a9f8703f52",
+    "title": "Mamdani’s Challenge To FIFA Results In $50 World Cup Tickets",
+    "description": "New York’s mayor has secured a highly unusual concession just weeks before the start of the 48-team soccer tournament.",
+    "url": "https://www.forbes.com/sites/clementelisi/2026/05/21/mamdanis-challenge-to-fifa-results-in-50-world-cup-tickets/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f0be6aeb682b90dd115df/0x0.jpg",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T15:15:29+00:00",
+    "fetched_at": "2026-05-21T17:37:55.408136+00:00"
+  },
+  {
+    "id": "a1f37b392abd2973",
+    "title": "The One Marketing Skill That Gets More Valuable the More AI Your Competitors Use",
+    "description": "AI copy is fast, cheap and increasingly hard to distinguish from the real thing. That last part is the problem.",
+    "url": "https://www.entrepreneur.com/business-news/the-one-marketing-skill-that-gets-more-valuable-the-more-ai-your-competitors-use",
+    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/marketing-skill-advantage-ai-0526_g2204830390.jpg",
+    "source": "Entrepreneur",
+    "source_id": "src-012",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T15:13:00+00:00",
+    "fetched_at": "2026-05-21T17:37:55.687711+00:00"
+  },
+  {
+    "id": "8803df59be7159ac",
+    "title": "Anthropic And Microsoft Team Up",
+    "description": "Anthropic’s explosive growth reflects massive AI alliances, cloud investments, talent wars, and infrastructure diversification strategies.",
+    "url": "https://www.forbes.com/sites/johnwerner/2026/05/21/anthropic-and-microsoft-team-up/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f2003796a54b91c100e58/0x0.jpg",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T15:09:43+00:00",
+    "fetched_at": "2026-05-21T17:39:15.748971+00:00"
+  },
+  {
+    "id": "589fb3913595c909",
+    "title": "Trump’s Ballroom Funding Could Be Scrapped By Senate Republicans—Voting Begins Today",
+    "description": "Republicans wanted to include the ballroom funding in a larger $72 billion immigration enforcement package.",
+    "url": "https://www.forbes.com/sites/saradorn/2026/05/21/trumps-ballroom-funding-could-be-scrapped-by-senate-republicans-voting-begins-today/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f1a34ea66006e683a7321/0x0.jpg",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T14:46:28+00:00",
+    "fetched_at": "2026-05-21T17:37:55.408201+00:00"
+  },
+  {
+    "id": "853390f72703ed7b",
+    "title": "Why are there so many Salmonella outbreaks? 4 reasons for the nonstop food recalls, sicknesses, and safety warnings this year",
+    "description": "More than 30 states across the country have had at least one case of someone sick with Salmonella so far in 2026. Many of those cases are believed to be caused by contact with outdoor poultry, like ducks and chickens. But separately, there’s also been a wave of food recalls for Salmonella contamination, tied to milk powder used in snack seasoning. Salmonella isn’t an uncommon bacteria; each year, the U.S. sees some 1.35 million Salmonella infections, according to the Centers for Disease Control and Prevention (CDC). Most of those stem from food. If it seems like Salmonella is becoming more common, though, there are a few reasons why—related to how we detect such outbreaks, and how climate change affects our environments. Better outbreak detection One reason you may notice more Salmonella recalls or news about infections is that we’ve simply gotten better at detecting outbreaks, even in t",
+    "url": "https://www.fastcompany.com/91545619/why-are-there-so-many-salmonella-outbreaks-in-2026-4-reasons",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91545619-salmonella-climate-change.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T14:35:00+00:00",
+    "fetched_at": "2026-05-21T17:37:56.090876+00:00"
+  },
+  {
+    "id": "1c025b24c44a50e0",
+    "title": "Republicans may abandon the $1 billion security funding for Trump’s White House ballroom project",
+    "description": "Senate Republican leaders on Thursday are expected to abandon a proposal for $1 billion in security money for the White House complex and President Donald Trump ‘s ballroom amid backlash from members of their own party. Pressured by the White House, Republicans tried to add the money to a roughly $70 billion bill to restore funding to U.S. Immigration and Customs Enforcement and the Border Patrol. But the security proposal met with opposition from some GOP lawmakers who are questioning the timing of the request, the cost, and how the taxpayer dollars would be used. Senate Majority Leader John Thune, R-S.D., acknowledged “ongoing vote issues” on Wednesday as leaders tried to measure Republican support and figure out what will be allowed in the bill under the chamber’s rules. Sen. John Kennedy, R-La., told reporters Wednesday that the bill was “back to square one” without the security mone",
+    "url": "https://www.fastcompany.com/91546355/congress-billion-ballroom-trump-funding-bill-republicans",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/AP26139537500101.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T14:30:00+00:00",
+    "fetched_at": "2026-05-21T17:37:56.091304+00:00"
+  },
+  {
+    "id": "cdc0ce3a0bec07c4",
+    "title": "SpaceX’s biggest business risk? Politics",
+    "description": "In a new filing with the Securities and Exchange Commission, SpaceX lays out ambitions that are expansive, even existential: deploying orbital data centers to build superhuman artificial intelligence , transporting humanity to Mars, and extending consciousness into the broader universe. To make any of that happen, though, SpaceX remains highly dependent on the U.S. government, which must clear the path toward those goals. The company’s work has long hinged on regulatory approvals and buy-in from government customers. But the filing, which paves the way for ordinary investors to finally own a stake in arguably the world’s most successful space startup , makes newly explicit just how much SpaceX’s future still depends on persuading federal officials. That dependence is becoming more politically complicated as CEO Elon Musk grows increasingly polarizing in Washington. While SpaceX has benef",
+    "url": "https://www.fastcompany.com/91546109/spacexs-biggest-business-risk-politics",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91546109-one-big-risk-to-spacexs-future-politics.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T14:04:42+00:00",
+    "fetched_at": "2026-05-21T17:37:56.091634+00:00"
+  },
+  {
+    "id": "f037d3ce4f73c472",
+    "title": "Google DeepMind’s Tulsee Doshi says AI’s next phase depends on user trust",
+    "description": "Welcome to AI Decoded , Fast Company ’s weekly newsletter that breaks down the most important news in the world of AI . You can sign up to receive this newsletter every week via email here . An interview with Google DeepMind product VP Tulsee Doshi Google announced a slew of new and updated AI products and features at its I/O developer conference this week, including personal AI agents, code generators, search tools, and a new “world model” for generating physically accurate video. Much of it runs on the company’s latest Gemini 3.5 models, developed inside Google DeepMind. We spoke with DeepMind’s product VP, Tulsee Doshi, about the thinking behind their development and application. What does the tension between safety and product quality look like at DeepMind here in mid-2026? You’re evaluating not just for traditional harms, but you’re now evaluating for things like sycophancy. You’re",
+    "url": "https://www.fastcompany.com/91545807/google-deepminds-tulsee-doshi-says-says-ais-next-phase-depends-on-user-trust",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91545807-google-deepminds-tulsee-doshi-says-says-ais-next-phase-depends-on-user-trust.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T14:00:00+00:00",
+    "fetched_at": "2026-05-21T17:37:56.092233+00:00"
+  },
+  {
+    "id": "07b001ae24290e66",
+    "title": "Trump administration eases refrigerant rule in response to surging grocery costs",
+    "description": "The Trump administration is set to loosen a federal rule that requires grocery stores and air-conditioning companies to reduce greenhouse gases used in cooling equipment, in what officials say is a push to lower grocery costs. The head of the Environmental Protection Agency, Lee Zeldin , said the Biden-era rule imposes costly restrictions that limit the type of refrigerants U.S. businesses and families can use. The new rule will “allow businesses to choose the refrigeration systems that work best for them, saving them billions of dollars. This will be felt directly by American families in lower grocery prices,” Zeldin said in a statement released before a White House event Thursday where President Donald Trump is scheduled to announce the changes. Executives from Kroger, Piggly Wiggly, and other grocery chains are expected to join him. With voter concerns over the cost of living spiking",
+    "url": "https://www.fastcompany.com/91546314/refrigerants-epa-hfc-air-conditioners-trump",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/AP26141510487938.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T14:00:00+00:00",
+    "fetched_at": "2026-05-21T17:37:56.092417+00:00"
+  },
+  {
+    "id": "649236cb6eafa534",
+    "title": "US manufacturing activity rises to four-year high in May, S&P Global survey shows - Reuters",
+    "description": "US manufacturing activity rises to four-year high in May, S&P Global survey shows Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVlFZEo2OGtMRUxoTDdpRE9QTzdMUUo3V3JwbGFsR3pwd19OSHIxWnk0NC14OHptUzh5dEl2aGFPV2JqdkR3TjMzdFhSLWJTNnBGN2xMMk9ZS2VjeUpmOFhvNGUxUHRhNzFaZzJVV2ltUkQ3TGp6bXp3bEdTMmkwWTM0ZHF1S3hyeVZxUVdFTVNibWJTSHRESzVHVHE4SGhlaFlGS1NlRmwzZTRjOHh5TGdWV1BsZ25XWUE?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-f4a3bc913ec3/1200/750",
+    "source": "Reuters Business - Google News",
+    "source_id": "global-extra-002",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T13:59:52+00:00",
+    "fetched_at": "2026-05-21T17:39:37.945007+00:00"
+  },
+  {
+    "id": "ac84ea3e9aa0210a",
+    "title": "This CEO Fired His Entire HR Department to Rescue His Failing Fintech Company: ‘Problems Disappeared When I Let Them Go’",
+    "description": "After his company Bolt lost 97% of its value, Ryan Breslow gutted it, saying HR was \"creating problems that didn't exist.\"",
+    "url": "https://www.entrepreneur.com/business-news/this-ceo-fired-his-entire-hr-department-to-rescue-his-failing-fintech-company",
+    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/ceo-let-go-entire-hr-staff-0526_g1458551911.jpg",
+    "source": "Entrepreneur",
+    "source_id": "src-012",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T13:45:00+00:00",
+    "fetched_at": "2026-05-21T17:37:55.687810+00:00"
+  },
+  {
+    "id": "c51eb3623860ec2d",
+    "title": "The Ebola outbreak is ‘gaining momentum’ in Congo, warns aid groups",
+    "description": "Healthcare workers and aid groups in eastern Congo said Thursday they are in dire need of more supplies and staff to respond to a growing Ebola outbreak linked to a rare virus, as armed groups continue to threaten a region already grappling with a displacement and humanitarian crisis. “The situation is worrying because this is gaining momentum,” Hama Amado, a field coordinator in the city of Bunia for the Alima aid group, told The Associated Press. “This is spreading in many areas. So everyone must mobilize.” He added: “We are still far from saying that the situation is under control.” There is no available vaccine or medicine for the Bundibugyo strain responsible for the outbreak, which spread undetected for weeks following the first known death while authorities tested for a more common Ebola virus. Healthcare workers and aid groups are struggling to respond as experts say the outbreak",
+    "url": "https://www.fastcompany.com/91546317/ebola-outbreak-gaining-momentum-congo-warn-aid-groups",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/AP26140541318429.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T13:09:23+00:00",
+    "fetched_at": "2026-05-21T17:37:56.092932+00:00"
+  },
+  {
+    "id": "9314c6569e5df575",
+    "title": "Google Is Changing Its Search Bar for the First Time in 25 Years — Here’s What to Expect",
+    "description": "The tech giant is making its iconic search bar bigger and more interactive so people can ask longer and more complex questions.",
+    "url": "https://www.entrepreneur.com/business-news/google-is-changing-its-search-box-for-the-first-time-in-25-years",
+    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/google-changing-search-bar-0526_g2276582975.jpg",
+    "source": "Entrepreneur",
+    "source_id": "src-012",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T13:00:00+00:00",
+    "fetched_at": "2026-05-21T17:37:55.687880+00:00"
+  },
+  {
+    "id": "2cba10040f42346f",
+    "title": "Business - The Economist",
+    "description": "Business The Economist",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16Ukp3dWN6RVBaZEs1ZEN3Wkk1N1VQdlMzeGNFV0tURUtRRnZJbzFfeUhjQUgyLVJSVEl2eURuTmpCQXJLSW1Id2pBX3VBSWFTNFh3WW5LQlFleEVuSklDRmx0ZkZCTWQ4UXlrdFdsVmo1UFU?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-bf327debe563/1200/750",
+    "source": "The Economist Business - Google News",
+    "source_id": "global-extra-003",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T12:47:57+00:00",
+    "fetched_at": "2026-05-21T17:39:38.434818+00:00"
+  },
+  {
+    "id": "8e9f051740eca654",
+    "title": "Forget boring airport lounges. This new one has a robot bartender and Mario Kart",
+    "description": "Airport lounges have spent decades promising travelers the same thing: a quieter place to sit and wait. But a new concept opening next week inside Minneapolis–Saint Paul International Airport is betting that modern travelers, especially millennials who grew up gaming, want something far more immersive for their layover. Portal Lounge, a new tech-forward independent lounge concept from Gameway founders Jordan and Emma Walbridge, officially opens at MSP on May 28. The lounge combines gaming, chef-driven food and drinks, immersive design, and interactive technology in an attempt to reimagine what travelers actually want from airport downtime. The opening represents a major expansion for the Walbridges, whose gaming-focused airport brand Gameway currently operates in nine U.S. airports, with plans to expand to 11 locations by the end of the year. While Gameway centered on dedicated gaming lo",
+    "url": "https://www.fastcompany.com/91546007/forget-boring-airport-lounges-this-new-one-has-a-robot-bartender-and-mario-kart",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91546007-poortal-airport-lounge.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T12:08:52+00:00",
+    "fetched_at": "2026-05-21T17:37:56.093318+00:00"
+  },
+  {
+    "id": "3266f31353756f7c",
+    "title": "3 Questions That Signal You’re in the Wrong Leadership Role (and What They Actually Reveal)",
+    "description": "Many high-performing leaders find themselves questioning their leadership skills. The issue is often not what they assume it is.",
+    "url": "https://www.entrepreneur.com/leadership/are-you-in-the-wrong-leadership-role-heres-how-to-know/503671",
+    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/1779200271-wrong-leadership-role-0526-g-1405295122.jpg",
+    "source": "Entrepreneur",
+    "source_id": "src-012",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T12:00:00+00:00",
+    "fetched_at": "2026-05-21T17:37:55.687432+00:00"
   },
   {
     "id": "ac5ddc4ed78147d0",
@@ -450,6 +1122,18 @@
     "fetched_at": "2026-05-21T11:59:43.546946+00:00"
   },
   {
+    "id": "5df048b2a500be72",
+    "title": "Quantum computing stocks soar as Trump uses Biden-era legislation to award $2 billion in grants",
+    "description": "It’s a good day to be an American quantum computing company—well, as long as you’re willing to give up some equity. Nine major firms are splitting $2 billion in grants from the Trump administration, the Wall Street Journal reports . In return, the government will take varying equity stakes in each of the companies. IBM will receive half the award, putting it toward a new IBM company called Anderon . IBM will match the grant with another $1 billion in cash for the Albany, New York-based standalone company. It’s an investment that IBM predicts will pay off in spades. “Anderon will operate as a state-of-the-art 300-millimeter quantum wafer foundry,” IBM stated in an announcement. “It will help the nation solidify its leadership at the center of a thriving new quantum industry that is estimated to generate up to $850 billion in economic value by 2040 and spur American economic growth while a",
+    "url": "https://www.fastcompany.com/91546222/quantum-computing-stocks-ibm-shares-soar-chips-act-grants",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91546222-quantum-computing-stocks-government-investment.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T11:41:00+00:00",
+    "fetched_at": "2026-05-21T17:37:56.093542+00:00"
+  },
+  {
     "id": "8e344e3c8918bff4",
     "title": "Urban Outfitters posted record sales and beat earnings estimates across all segments",
     "description": "The apparel retailer's revenue climbed 11% to $1.48 billion, with all three segments posting growth",
@@ -496,6 +1180,18 @@
     "category": "poslovanje",
     "published_at": "2026-05-21T11:30:00+00:00",
     "fetched_at": "2026-05-21T11:59:43.547032+00:00"
+  },
+  {
+    "id": "487e74ab16c1735c",
+    "title": "One major decongestion experiment is surprising the haters",
+    "description": "American cities are choking on traffic . From Los Angeles to Chicago, Atlanta to Boston, gridlock is miserable for everyone. New York City’s Congestion Relief Zone offers a data-rich blueprint for cities willing to treat transportation as a system, rather than focusing on one form of travel at a time. Launched in January 2025, the program charges most drivers entering Manhattan’s core business district during peak hours. The Metropolitan Transportation Authority’s (MTA) first comprehensive evaluation report, released in January 2026, shows clear success across mobility, environment, revenue, and equity metrics. The haters are flummoxed. More movement Decongestion Pricing works by making drivers pay a fee towards the cost of clogging city streets. Even with a modest $9 in one of the world’s most congested areas, the results are impressive: Vehicle entries into the zone fell 11%, with more",
+    "url": "https://www.fastcompany.com/91544739/one-major-decongestion-experiment-surprising-haters",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91544739-decongestion-experiment.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T11:25:11+00:00",
+    "fetched_at": "2026-05-21T17:37:56.093834+00:00"
   },
   {
     "id": "5b7532f9ac0e79e9",
@@ -546,6 +1242,18 @@
     "fetched_at": "2026-05-21T11:58:38.399757+00:00"
   },
   {
+    "id": "d675236bea2d5d8e",
+    "title": "The SpaceX IPO prospectus offers a fascinating window into the spectacular death of Twitter",
+    "description": "After months of anticipation, Elon Musk’s SpaceX finally made its S-1 financial filing and business prospectus public for all to see. The document, filed with the Securities and Exchange Commission (SEC), makes an ambitious case to investors that Space Exploration Technologies Corp.—yes, that’s the official name—is poised to build a future for humanity that will include cities on the moon and other planets. But perhaps unexpectedly, the prospectus also offers a fascinating autopsy of one of the internet’s most legendary brands. Buried within the revenue and profit figures for SpaceX’s rocket and satellite businesses is a by-the-numbers look into the spectacular death of Twitter, the social network that Musk acquired for $44 billion in 2022. Musk, of course, has since changed the name to X, and while media outlets for a time took to putting “formerly Twitter” in parentheses whenever they’",
+    "url": "https://www.fastcompany.com/91546194/spacex-ipo-prospectus-twitter-death-details-x-rebrand",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91546194-spacex-ipo-prospectus-twitter.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T11:01:00+00:00",
+    "fetched_at": "2026-05-21T17:37:56.094120+00:00"
+  },
+  {
     "id": "4c0f39a4256063d7",
     "title": "Data Transformation Is the CEO’s Business",
     "description": "Aeriform/Ikon Image The Research The MIT Sloan Center for Information Systems Research ﻿conducted case study research at Caterpillar, a member of the MIT CISR research consortium since 2007. From July 2023 to December 2024, the authors conducted 56 interviews with 42 stakeholders. Interview participants also reviewed the case narrative as it was developed by the […]",
@@ -555,7 +1263,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-05-21T11:00:08+00:00",
-    "fetched_at": "2026-05-21T11:58:32.387605+00:00"
+    "fetched_at": "2026-05-21T17:37:50.084012+00:00"
   },
   {
     "id": "7b4cc035056d0f05",
@@ -630,6 +1338,18 @@
     "fetched_at": "2026-05-21T11:59:43.547337+00:00"
   },
   {
+    "id": "7cfe8de0304ed6e5",
+    "title": "Samsung's deal with union hailed as a victory as bonuses less generous than SK Hynix's - Reuters",
+    "description": "Samsung's deal with union hailed as a victory as bonuses less generous than SK Hynix's Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZEtqLUZ3YjBXOTJ3clo2NDNFZG0yTFI5RmdlTDhfOTdFaERxVTV0dTJfY1Zyb1owYkh3aUtXNFFCOG9SSUVfcmpBY2g0eGlEYW5CWlplRHNla0hvNS1ZdldvLW1XZXlCcUVXdW9pNmdjMDd0UFQ5eVBuYzU5dDh3QU16eVFNZUxfN1RIYWIxX0ZJMXFyVWtMOTRmc1NWUTVDYjFMX3FXYnpDd2ZiRTBDUkpUYUlpSWJ6M3hmYk5pTVdKdHNTMTh5VkdQVk83LXg0?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-1e0703fb8ffa/1200/750",
+    "source": "Reuters Business - Google News",
+    "source_id": "global-extra-002",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T10:40:49+00:00",
+    "fetched_at": "2026-05-21T17:39:37.944284+00:00"
+  },
+  {
     "id": "792970115075b9d2",
     "title": "5 Best Dividend Stocks Now To Buy For June 2026",
     "description": "Looking for the latest dividend stock opportunities for June 2026? Click to which dividend stocks may be worth snagging now to up your passive income.",
@@ -676,6 +1396,30 @@
     "category": "poslovanje",
     "published_at": "2026-05-21T10:00:38+00:00",
     "fetched_at": "2026-05-21T11:59:43.547520+00:00"
+  },
+  {
+    "id": "78838df1c6a5c9ed",
+    "title": "27 frameworks: Build versus buy",
+    "description": "Building versus buying capabilities in-house or deciding whether to outsource them is a strategic decision. And it’s not a decision all executives think about the same way. So much depends on your company’s goals and strengths. It’s important to have a structured way to think about this decision, though, so when you need to incorporate a capability, you know how to make the decision. We asked our Fast Company Impact Council members how they decide when to build capabilities in-house versus outsourcing or partnering. It was a popular question, and we had to limit the responses—to just 27! There is wisdom in these words that you can apply to your situations. 1. PARTNER FOR COMPLEX CAPABILITIES AI has shifted the equation—there are now far more things you can use easily, rather than build in-house. For many companies, that means partnering for complex capabilities instead of trying to recre",
+    "url": "https://www.fastcompany.com/91540946/27-frameworks-build-versus-buy",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/FCIC-Expert-Insights-templates-1.png",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T10:00:00+00:00",
+    "fetched_at": "2026-05-21T17:37:56.094909+00:00"
+  },
+  {
+    "id": "159f6f7fbdf93846",
+    "title": "Lessons from a very messy career that produced wonderful surprises",
+    "description": "Teaching undergraduates gives you a different perspective on things. For many, they see their life already laid out: An analyst position at a prestigious bank or consulting firm after graduation, then graduate school and a string of impressive jobs at important institutions. Then family, travel, and maybe a board seat or two. We all know that life is messier than that, but that’s the type of thing you really have to learn for yourself. The management professor Henry Mintzberg once observed that we expect management to be like a conductor with an orchestra, with the leader on a pedestal directing each movement with expert precision. “But,” he argues, “management is more like orchestra conducting during rehearsals, when everything is going wrong.” The truth is that you don’t want things to go exactly as planned. It’s the off-key notes that you learn from most and what often leads to your b",
+    "url": "https://www.fastcompany.com/91544804/lessons-from-very-messy-career-produced-wonderful-surprises",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91544804-lessons-from-very-messy-career-produced-wonderful-surprises.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T10:00:00+00:00",
+    "fetched_at": "2026-05-21T17:37:56.095342+00:00"
   },
   {
     "id": "d508e0693b509432",
@@ -748,6 +1492,18 @@
     "category": "poslovanje",
     "published_at": "2026-05-21T10:00:00+00:00",
     "fetched_at": "2026-05-21T11:59:43.547581+00:00"
+  },
+  {
+    "id": "7c7c15bebc7d3840",
+    "title": "Samsung pay deal brings relief but exposes divisions in South Korean city - Reuters",
+    "description": "Samsung pay deal brings relief but exposes divisions in South Korean city Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSk5tQUFxY0s3V0VhMWQ4dklPVkswaHRwYk1oZmxGeXNwUGFWUGx3QkFfM3pBU0tsYS1EZ2phU1Q0Mm04eHAxM2Ezbkc1LWtXY0doc2dtSWktdnFmaU81V3Y4a0VYZmg4dWpiTXUta3cwLUpmZzFlSFpvT0hRQVc5MklhbjVFY0EtS05hbHl6R0pNODZKeUNfN0pQVXk3WGNtUjlsVGtTNmoxN0I3UFNBVmVISkl1TklnODVCbTF4NVJzYk0?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-19ead756f74d/1200/750",
+    "source": "Reuters Business - Google News",
+    "source_id": "global-extra-002",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T09:52:41+00:00",
+    "fetched_at": "2026-05-21T17:39:37.944851+00:00"
   },
   {
     "id": "d6273b28b1ad9322",
@@ -951,7 +1707,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-21T07:00:00+00:00",
-    "fetched_at": "2026-05-21T11:58:38.018992+00:00"
+    "fetched_at": "2026-05-21T17:37:55.687951+00:00"
   },
   {
     "id": "5566d1042d403cfc",
@@ -1012,18 +1768,6 @@
     "category": "poslovanje",
     "published_at": "2026-05-21T04:12:13+00:00",
     "fetched_at": "2026-05-21T08:49:14.030504+00:00"
-  },
-  {
-    "id": "4cc0fe7532d2ba7a",
-    "title": "US energy storage additions hit a first-quarter record, report shows - Reuters",
-    "description": "US energy storage additions hit a first-quarter record, report shows Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR0FDdHVtVHFoT3BJNnlObzVxbGk1amtLQ25MUEFaeFJQWUpITzRrdnhUNUgtTVdrQWNMWXlzVXVtMU5qb0x2cDJCMU1NQ19HczRMZE5lY3ZIMzhDa2NqcjBfYUZod1huYlpHM2pXT2tjSmlzYmt1UmRqVnVPVmZBT2FlbEtxZjM0SU5rWVFvODEyWDNsMWNFRy00MWlFd2IxTUlsZ18za3pqd3h6clJlTkgxS2hkenNV?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-54c9c06a3355/1200/750",
-    "source": "Reuters Business - Google News",
-    "source_id": "global-extra-002",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T04:04:00+00:00",
-    "fetched_at": "2026-05-21T12:00:02.862848+00:00"
   },
   {
     "id": "36d745b1f85a92a5",
@@ -1158,6 +1902,18 @@
     "fetched_at": "2026-05-21T08:49:14.030559+00:00"
   },
   {
+    "id": "37397c6eee63f151",
+    "title": "Samsung shares soar as strike averted, but bonuses of $416,000 for some stoke concern - Reuters",
+    "description": "Samsung shares soar as strike averted, but bonuses of $416,000 for some stoke concern Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSXgxMEhzeU1Iblk3Q3ZNZ1R1MHJJUmpLTGxpTWJybC1GUWdOa2g0N2xLY0F6VFRfOFhWU0htOE9OV0pkY3FVVG5SYVlGcG5IU1N6am1Wa3V6b2xha0VZRjBtX18wQmJrdnNNWUlRaGJQLTJ2MDNJUFFkdERaM2dPMVdveEtMLUZQdHU3T2xYeWlWSEp1alZhNzItSGJYOW96UEFtVUhmWkMxRktUOHBBWVIySEhWZjlHTUxiaVF3SThheHJnZnJNU2U3NTk?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-d0c974558691/1200/750",
+    "source": "Reuters Business - Google News",
+    "source_id": "global-extra-002",
+    "category": "poslovanje",
+    "published_at": "2026-05-21T00:19:00+00:00",
+    "fetched_at": "2026-05-21T17:39:37.944600+00:00"
+  },
+  {
     "id": "a5119f4d4469ba10",
     "title": "From AI Policies To AI Literacy In Education",
     "description": "Schools are shifting from AI bans to AI literacy in education, teaching students how to use AI responsibly, critically and effectively for the workforce.",
@@ -1182,6 +1938,18 @@
     "fetched_at": "2026-05-21T08:48:12.158309+00:00"
   },
   {
+    "id": "262aa39969e63910",
+    "title": "OpenAI aiming for speedy IPO, source says - Reuters",
+    "description": "OpenAI aiming for speedy IPO, source says Reuters",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMnZDYW4zd0pDVEQxVFRhNlozSDdMaTVma1FrQVhaZVZKd1lXTGtVdk9QUVVmN2pDbmc1SG8xVkRSTElVNThiZVlpV3dmLTZSVEdvaVhScGh3bm5oRk11WFZ6V05QbUk4a19ZcWlXRVVkeVUtRnZRYjFBQ0JUczRvNmJCam11YzN2U0NGeUlPUVA?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-7d9afcf956c7/1200/750",
+    "source": "Reuters Business - Google News",
+    "source_id": "global-extra-002",
+    "category": "poslovanje",
+    "published_at": "2026-05-20T23:41:12+00:00",
+    "fetched_at": "2026-05-21T17:39:37.944673+00:00"
+  },
+  {
     "id": "cade9c0a5597fe94",
     "title": "‘The Boys’ Series Finale Feels Like A Marvel Movie",
     "description": "The series finale of ‘The Boys’ sees Butcher (Karl Urban) and Homelander (Antony Starr) battle in the final fight—here’s the ending, explained.",
@@ -1203,7 +1971,7 @@
     "source_id": "global-extra-002",
     "category": "poslovanje",
     "published_at": "2026-05-20T23:31:06+00:00",
-    "fetched_at": "2026-05-21T12:00:02.863424+00:00"
+    "fetched_at": "2026-05-21T17:39:37.944926+00:00"
   },
   {
     "id": "a7ff00868e337889",
@@ -1383,7 +2151,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-20T22:00:00+00:00",
-    "fetched_at": "2026-05-21T11:58:38.019100+00:00"
+    "fetched_at": "2026-05-21T17:37:55.688015+00:00"
   },
   {
     "id": "fe0e5ed9f079c348",
@@ -1539,7 +2307,7 @@
     "source_id": "global-extra-003",
     "category": "poslovanje",
     "published_at": "2026-05-20T20:49:59+00:00",
-    "fetched_at": "2026-05-21T12:00:03.333245+00:00"
+    "fetched_at": "2026-05-21T17:39:38.434912+00:00"
   },
   {
     "id": "8e65607ec04b82c9",
@@ -1623,7 +2391,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-20T20:00:00+00:00",
-    "fetched_at": "2026-05-21T11:58:38.019188+00:00"
+    "fetched_at": "2026-05-21T17:37:55.688086+00:00"
   },
   {
     "id": "5ad1af2ea9864bc6",
@@ -1671,7 +2439,7 @@
     "source_id": "global-extra-002",
     "category": "poslovanje",
     "published_at": "2026-05-20T19:47:58+00:00",
-    "fetched_at": "2026-05-21T12:00:02.862940+00:00"
+    "fetched_at": "2026-05-21T17:39:37.944443+00:00"
   },
   {
     "id": "c9827ec5d17c8496",
@@ -2572,641 +3340,5 @@
     "category": "poslovanje",
     "published_at": "2026-05-20T14:15:00+00:00",
     "fetched_at": "2026-05-20T19:55:13.759665+00:00"
-  },
-  {
-    "id": "1edf7f0d913685fc",
-    "title": "I’m an AI Engineer — These Are the Mistakes I See Every Company Make When Adopting AI",
-    "description": "Many generative AI projects will be abandoned after proof of concept — and not because the technology doesn't work, but because the engineering is falling short. Here's how to fix it.",
-    "url": "https://www.entrepreneur.com/science-technology/4-ai-adoption-mistakes-this-engineer-sees-every-company-make/504110",
-    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/1779196595-ai-engineers-0526-g-2255324297-edit.jpg",
-    "source": "Entrepreneur",
-    "source_id": "src-012",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T14:00:00+00:00",
-    "fetched_at": "2026-05-21T11:58:38.019651+00:00"
-  },
-  {
-    "id": "b48ab3cab6273f13",
-    "title": "TJX is raising its annual sales and profit forecasts after beating earnings",
-    "description": "The TJ Maxx parent posted first-quarter earnings of $1.19 per share and raised its full-year EPS outlook to $5.08–$5.15",
-    "url": "https://qz.com/tjx-earnings-beat-annual-forecast-raised-052026",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2245728585.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T13:40:56+00:00",
-    "fetched_at": "2026-05-20T13:46:15.450874+00:00"
-  },
-  {
-    "id": "8f2c41a9eb7765fd",
-    "title": "Jeff Bezos says space-based data centers are coming — but not as soon as rivals claim",
-    "description": "The Amazon founder called two-to-three-year timelines \"probably a little ambitious,\" citing energy costs and launch expenses as key barriers",
-    "url": "https://qz.com/jeff-bezos-space-data-centers-blue-origin-052026",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2259084828.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T13:40:44+00:00",
-    "fetched_at": "2026-05-20T13:46:15.450964+00:00"
-  },
-  {
-    "id": "6b9599487ceee0af",
-    "title": "Analog Devices is acquiring a power management startup for $1.5 billion to chase AI demand",
-    "description": "The all-cash deal will expand Analog Devices' power delivery portfolio for AI data centers, where energy constraints are limiting system performance",
-    "url": "https://qz.com/analog-devices-empower-semiconductor-acquisition-ai-power-052026",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1255033103.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T13:30:37+00:00",
-    "fetched_at": "2026-05-20T13:46:15.451029+00:00"
-  },
-  {
-    "id": "76fab4eb6f31c4b4",
-    "title": "Family Offices and High-Net-Worth Individuals Are Flocking to Dubai — Here’s Why It Matters",
-    "description": "Dubai is becoming a full-spectrum global wealth hub where capital, people and businesses are relocating in parallel.",
-    "url": "https://www.entrepreneur.com/money-finance/why-the-ultra-wealthy-are-choosing-dubai-over-other-cities/504290",
-    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/1779207761-dubai-skyline-0526-g-1491506071.jpg",
-    "source": "Entrepreneur",
-    "source_id": "src-012",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T13:30:00+00:00",
-    "fetched_at": "2026-05-20T23:59:02.062622+00:00"
-  },
-  {
-    "id": "527e9bf5a8ab2cd0",
-    "title": "A New York City Airport Just Unveiled a Life-Size AI Hologram Concierge Named ‘Bridget.’ This Is What ‘She’ Does.",
-    "description": "The digital travel assistant answers passenger questions in real time. The airport says she is not a replacement for humans.",
-    "url": "https://www.entrepreneur.com/business-news/a-new-york-city-airport-just-unveiled-a-life-size-ai-hologram-concierge-named-bridget",
-    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/2-Photo-Credit-LaGuardia-Gateway-Partners-copy.jpg",
-    "source": "Entrepreneur",
-    "source_id": "src-012",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T13:30:00+00:00",
-    "fetched_at": "2026-05-20T19:55:13.445837+00:00"
-  },
-  {
-    "id": "a99536c8e81efd48",
-    "title": "GitHub Says 3,800 Repositories Breached—TeamPCP Hackers Demand $50,000",
-    "description": "A GitHub employee has unwittingly allowed 3,800 internal repositories to be breached after a device compromise with a poisoned VS Code extension.",
-    "url": "https://www.forbes.com/sites/daveywinder/2026/05/20/github-says-3800-repositories-breached-teampcp-hackers-demand-50000/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0da85ebcef95a95ffb58e0/0x0.jpg",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T13:26:30+00:00",
-    "fetched_at": "2026-05-20T13:47:28.646298+00:00"
-  },
-  {
-    "id": "1753c31db4347ea7",
-    "title": "She Sold $2.5 Billion in Products on TV. Now She Makes Millions Teaching Her Pitch Formula: ‘I Didn’t Grow Up With Money and Selling Made Me Uncomfortable’",
-    "description": "Dr. Forbes Riley made $100,000 in her first month of teaching her pitching technique online.",
-    "url": "https://www.entrepreneur.com/entrepreneurs/millionaire-sold-2-5-billion-on-tv-then-pivoted-to-teaching-pitching-forbes-riley",
-    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/Forbes-Riley.jpg",
-    "source": "Entrepreneur",
-    "source_id": "src-012",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T13:21:33+00:00",
-    "fetched_at": "2026-05-20T19:55:13.445916+00:00"
-  },
-  {
-    "id": "864d778c11b5d373",
-    "title": "CAVA is raising its full-year outlook as traffic growth drives an earnings beat",
-    "description": "The Mediterranean fast-casual chain posted same-restaurant sales growth of 9.7%, lifted by a 6.8% rise in guest traffic",
-    "url": "https://qz.com/cava-earnings-beat-traffic-growth-full-year-guidance-052026",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2154377726.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T13:20:47+00:00",
-    "fetched_at": "2026-05-20T13:46:15.451088+00:00"
-  },
-  {
-    "id": "4cb77cfd31575dbd",
-    "title": "Goldman Sachs is leading the bank lineup for SpaceX's record-setting IPO",
-    "description": "The offering is targeting a valuation of more than $2 trillion and aims to raise as much as $75 billion",
-    "url": "https://qz.com/goldman-sachs-spacex-ipo-lead-underwriter-052026",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2270727029.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T13:20:31+00:00",
-    "fetched_at": "2026-05-20T13:46:15.451147+00:00"
-  },
-  {
-    "id": "4771e1358feaa2c0",
-    "title": "Vibe Hunting: A New Way Of Threat Hunting With AI",
-    "description": "Vibe hunting is a prime example of how security experts and AI can work together in 2026.",
-    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/20/vibe-hunting-a-new-way-of-threat-hunting-with-ai/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/69fb75282bb61c354c44f4be/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T13:15:00+00:00",
-    "fetched_at": "2026-05-20T13:47:28.646362+00:00"
-  },
-  {
-    "id": "a3e53a8f7d25d137",
-    "title": "Hasbro's profit more than doubled as card game sales powered revenue past $1 billion",
-    "description": "The toy and game company reported net earnings of $198.4 million in the first quarter, up from $98.6 million a year earlier",
-    "url": "https://qz.com/hasbro-earnings-magic-gathering-revenue-profit-052026",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2252052381.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T13:10:45+00:00",
-    "fetched_at": "2026-05-20T13:46:15.451208+00:00"
-  },
-  {
-    "id": "57a133ab63324116",
-    "title": "Carvana Is Invading the $655 Billion New-Car Market — And Traditional Dealers Are ‘In an Uproar’",
-    "description": "The used-car giant expanded their business to new cars, and its online, hassle-free policy is attracting buyers.",
-    "url": "https://www.entrepreneur.com/business-news/carvana-invading-655-billion-new-car-market-traditional-dealers-in-an-uproar",
-    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/carvana-0526-g-2202902162-edit.jpg",
-    "source": "Entrepreneur",
-    "source_id": "src-012",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T13:00:00+00:00",
-    "fetched_at": "2026-05-20T19:55:13.445969+00:00"
-  },
-  {
-    "id": "1936dcbf3bf46eeb",
-    "title": "Your Company’s AI Is Getting Smarter. But Whose Intelligence Is It Building?",
-    "description": "Most enterprise AI deployments achieve security without achieving privacy.",
-    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/20/your-companys-ai-is-getting-smarter-but-whose-intelligence-is-it-building/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0cdcfed39e5b3e7133510e/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T13:00:00+00:00",
-    "fetched_at": "2026-05-20T13:47:28.646463+00:00"
-  },
-  {
-    "id": "af209feca3d059c3",
-    "title": "How 24/7 Renewables Are Ending Fossil Fuel Reliability",
-    "description": "IRENA analysis shows solar and wind paired with storage now deliver 24/7 power cheaper than coal and gas. As battery costs drop, renewables are replacing fossil fuels.",
-    "url": "https://www.forbes.com/sites/kensilverstein/2026/05/20/how-247-renewables-are-ending-fossil-fuel-reliability/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0c82221295c63426f6d193/0x0.jpg",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T13:00:00+00:00",
-    "fetched_at": "2026-05-20T13:47:28.646518+00:00"
-  },
-  {
-    "id": "3345bfcc91fd0aa0",
-    "title": "OpenAI is opening its first overseas AI lab in Singapore with a $234 million commitment",
-    "description": "The ChatGPT maker's new applied AI lab will employ more than 200 people; Google separately announced a national AI partnership with the Singapore government",
-    "url": "https://qz.com/openai-singapore-ai-lab-234-million-google-partnership-052026",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2221543369.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:50:37+00:00",
-    "fetched_at": "2026-05-20T13:46:15.451269+00:00"
-  },
-  {
-    "id": "1c67e1eec9244bd1",
-    "title": "​Behind Vertical AI: What AI Is Already Demanding Of Energy And Utilities",
-    "description": "​The next phase of grid resilience will be determined by intelligence.",
-    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/20/behind-vertical-ai-what-ai-is-already-demanding-of-energy-and-utilities/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6697ee9e96118d2838f073a4/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:45:00+00:00",
-    "fetched_at": "2026-05-20T13:47:28.646577+00:00"
-  },
-  {
-    "id": "b1262f0d4e053422",
-    "title": "How The ARISE Network Is Rethinking Clinical AI",
-    "description": "The ARISE network is studying what AI can actually do in clinical care, how it should be evaluated, and what it reveals about clinical reasoning itself.",
-    "url": "https://www.forbes.com/sites/spencerdorn/2026/05/20/how-the-arise-network-is-rethinking-clinical-ai/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0b5cac842cb4e61ad34c2c/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:44:58+00:00",
-    "fetched_at": "2026-05-20T13:47:28.646629+00:00"
-  },
-  {
-    "id": "440777e5c3cf5d50",
-    "title": "Stocks set for first gains in days as the market awaits Nvidia earnings",
-    "description": "The S&P 500 is set to snap a three-day losing streak as Trump's comments on the Iran war ease energy prices",
-    "url": "https://qz.com/stock-futures-rise-nvidia-earnings-oil-yields-052026",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2276547271.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:40:54+00:00",
-    "fetched_at": "2026-05-20T13:46:15.451332+00:00"
-  },
-  {
-    "id": "bf36534d1579fca5",
-    "title": "Target posted its first sales growth in over a year and raised its outlook",
-    "description": "Net sales rose 6.7% in the first quarter, with comparable sales up 5.6% — the retailer's first positive comp in five quarters",
-    "url": "https://qz.com/target-earnings-sales-growth-full-year-outlook-052026",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2275198146.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:40:40+00:00",
-    "fetched_at": "2026-05-20T13:46:15.451473+00:00"
-  },
-  {
-    "id": "4693df00f79c86ef",
-    "title": "OpenAI is offering businesses guaranteed access to computing power in multi-year deals",
-    "description": "The new program lets customers lock in compute access for up to three years, with discounts tied to the length of commitment",
-    "url": "https://qz.com/openai-guaranteed-capacity-compute-businesses-052026",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2265447532.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:40:33+00:00",
-    "fetched_at": "2026-05-20T13:46:15.451534+00:00"
-  },
-  {
-    "id": "c91984d2cfd451dd",
-    "title": "Alibaba is unveiling a more powerful AI chip as China pushes to reduce its Nvidia dependence",
-    "description": "The Zhenwu M890 comes with 144GB of GPU memory and is designed to handle agentic AI workloads as China pushes to develop Nvidia alternatives",
-    "url": "https://qz.com/alibaba-zhenwu-m890-ai-chip-qwen-llm-052026",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1766148360.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:30:43+00:00",
-    "fetched_at": "2026-05-20T13:46:15.451592+00:00"
-  },
-  {
-    "id": "64c1d51d0f7a08db",
-    "title": "8,000 Meta employees are waking up to an email saying they've been laid off",
-    "description": "Notifications went out Wednesday morning starting in Asia, with U.S. employees expected to hear during their morning",
-    "url": "https://qz.com/meta-layoffs-8000-jobs-ai-restructuring-052026",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1244650740.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:30:35+00:00",
-    "fetched_at": "2026-05-20T13:01:52.147359+00:00"
-  },
-  {
-    "id": "d9b9ebd729529c12",
-    "title": "Meet The Star-Nosed Mole — The Fastest Hunter On The Planet",
-    "description": "Most predators hunt with eyes or speed. This blind, burrowing mole hunts with 25,000 touch receptors — and wins in 8 just milliseconds.",
-    "url": "https://www.forbes.com/sites/scotttravers/2026/05/20/meet-the-star-nosed-mole---the-fastest-hunter-on-the-planet/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0b0b2b52daae1acdba842d/0x0.jpg?width=960&precrop=3888%2C2187%2Cx0%2Cy165",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:30:00+00:00",
-    "fetched_at": "2026-05-20T13:47:28.646691+00:00"
-  },
-  {
-    "id": "a81be9eac98a615c",
-    "title": "It’s Time To Rethink Data Retention In Healthcare",
-    "description": "To truly protect patients, companies must retain the minimum amount of data in the least number of places possible.",
-    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/20/its-time-to-rethink-data-retention-in-healthcare/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/64b7e75d5993516599bd34f2/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:30:00+00:00",
-    "fetched_at": "2026-05-20T13:47:28.646747+00:00"
-  },
-  {
-    "id": "5bbb94d1e16b9ba8",
-    "title": "Lowe's topped earnings expectations as comparable sales swung positive",
-    "description": "The home improvement retailer reported adjusted EPS of $3.03 and a 0.6% comparable sales gain, its fourth straight quarter of positive comps",
-    "url": "https://qz.com/lowes-earnings-beats-estimates-comparable-sales-positive-052026",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2246742172.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:20:19+00:00",
-    "fetched_at": "2026-05-20T13:01:52.147414+00:00"
-  },
-  {
-    "id": "19283de6718f6d50",
-    "title": "Nuclear reactor developer Deep Fission eyes $1.66 billion valuation in US IPO - Reuters",
-    "description": "Nuclear reactor developer Deep Fission eyes $1.66 billion valuation in US IPO Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUldrSVFPYXIweGw3T3FEOXJiNnlnNDZIOUhIWlRKM1NxTkptNnliN3lLSW5ZeUJqNkJwTXFPTnp5WmstYmtHbE9tUXRaZ3FkazJTZDJ4N3NnQUpFMUdJWXl5SUw0XzB1WGZERVVMVm84MGJiLXhycHduaGR6SE9RV0lEUnFidHNwUkRlMTFLSVNzcExldkxyS0swejRkc3FGUGxuVEgtSWdURDNTdWJJS3RuY3NtaWo3ank1YjRwcU03QQ?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-e1e3380d7eae/1200/750",
-    "source": "Reuters Business - Google News",
-    "source_id": "global-extra-002",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:18:31+00:00",
-    "fetched_at": "2026-05-21T12:00:02.863278+00:00"
-  },
-  {
-    "id": "8965f1465b9b0e7e",
-    "title": "The Intelligence Infrastructure Behind AI Agents",
-    "description": "​Change is happening. Is your organization building the infrastructure to support that change?​",
-    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/20/the-intelligence-infrastructure-behind-ai-agents/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0cd81c9baee3ce2d4348e4/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:15:00+00:00",
-    "fetched_at": "2026-05-20T13:47:28.646796+00:00"
-  },
-  {
-    "id": "5f06b50eb1f20cb8",
-    "title": "Proptech Spent the Last Decade Building Better Home Buying Tools — Its Next Venture Is More Complicated",
-    "description": "The real battle for proptech is over where consumers start, and the companies that control that entry point control everything that follows.",
-    "url": "https://www.entrepreneur.com/starting-a-business/proptech-built-the-right-tools-now-it-has-a-new/503967",
-    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/1778870913-property-technology-real-estate-0526-g2273641766.jpg",
-    "source": "Entrepreneur",
-    "source_id": "src-012",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:00:00+00:00",
-    "fetched_at": "2026-05-20T19:55:13.445566+00:00"
-  },
-  {
-    "id": "59050beb718fe3ba",
-    "title": "Chiefs Star Rashee Rice Picks Worst Financial Time For Latest Transgression",
-    "description": "Rashee Rice is in the final year of his rookie, four-year, $6.5 million contract, and the 2026 season had to be an absolute prove-it year for him.",
-    "url": "https://www.forbes.com/sites/jefffedotin/2026/05/20/chiefs-star-rashee-rice-picks-worst-financial-time-for-latest-transgression/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0d165da8b5adbc6be3a4ff/0x0.jpg",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:00:00+00:00",
-    "fetched_at": "2026-05-20T13:46:14.384753+00:00"
-  },
-  {
-    "id": "3e2eca4a8896cc5e",
-    "title": "Braves 30-Year-Old Castoff Leaves MLB Shortly After Roster Cut",
-    "description": "The Atlanta Braves have received news that one of their former players from this season has opted to leave Major League Baseball altogether.",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/05/20/braves-30-year-old-castoff-leaves-mlb-shortly-after-roster-cut/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0d09481b7ffa4a7ec0a9b1/0x0.jpg?width=960&precrop=2399%2C1349%2Cx0%2Cy250",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:00:00+00:00",
-    "fetched_at": "2026-05-20T13:46:14.384819+00:00"
-  },
-  {
-    "id": "bae955819366fe5c",
-    "title": "Athletes Unlimited Softball Heads To Prime Time Ahead Of Season Two",
-    "description": "The women’s professional softball league is expanding its television presence as Athletes Unlimited pushes further into the growing women’s sports media market.",
-    "url": "https://www.forbes.com/sites/allisonsmith/2026/05/20/athletes-unlimited-softball-heads-to-prime-time-ahead-of-season-two/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/68386457577daecdcbaf9afc/0x0.jpg",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:00:00+00:00",
-    "fetched_at": "2026-05-20T13:46:14.384879+00:00"
-  },
-  {
-    "id": "88c26c884d6e8cdc",
-    "title": "The Next Phase Of Enterprise AI: Why LLM Consolidation Is Inevitable",
-    "description": "Three considerations tend to separate companies that navigate this well from those that don't.",
-    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/20/the-next-phase-of-enterprise-ai-why-llm-consolidation-is-inevitable/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/69efa3f500901a11fb93e19a/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T12:00:00+00:00",
-    "fetched_at": "2026-05-20T13:47:28.646845+00:00"
-  },
-  {
-    "id": "5607e5a83553c46a",
-    "title": "Morgan Stanley asks bankers to carry a separate phone for China trips, source says - Reuters",
-    "description": "Morgan Stanley asks bankers to carry a separate phone for China trips, source says Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNE5nTjhDd0VjRmkzZHV3czltYjFWLU9zRkVJRXoxelQwZkc4SEJXZHdxT0lUQWV5N0hTd2lZZUpra0lTS2xpOHdXQzhRTUxYLXlTc2FvSXl2MUtpZ1BkeVR1cDdkYUtQNlk2UGRuWFdwa0NaazlOU1E1Vk9aelE2UGNhTVJranlKM0FnbnBPdExCMUhmMS1MdTVfSkRkMHViVUIzUWVKXzBueGF3bXd4MWJqMFl0UkFWQVFrZ2FQTGtQS3c?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-c7c31cf50fde/1200/750",
-    "source": "Reuters Business - Google News",
-    "source_id": "global-extra-002",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T11:49:31+00:00",
-    "fetched_at": "2026-05-20T19:56:45.759578+00:00"
-  },
-  {
-    "id": "6efdd459bdfa594e",
-    "title": "​The Software Coordination Tax: Why Your 40-Engineer Team Is Shipping Like 25",
-    "description": "If your organization has 25 to 200 engineers and delivery has gotten harder as you have scaled, you are almost certainly paying this tax.",
-    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/20/the-software-coordination-tax-why-your-40-engineer-team-is-shipping-like-25/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5ef5e2b9f8637900066fe33a/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T11:45:00+00:00",
-    "fetched_at": "2026-05-20T13:47:28.646903+00:00"
-  },
-  {
-    "id": "1c1d8c13e9f68854",
-    "title": "Wall Street expected to open with gains as oil prices fall",
-    "description": "U.S. markets are poised to open with gains on Wednesday as bond yields slipped and oil prices fell. Futures for the S&P 500 rose 0.4% while futures for the Dow Jones Industrial Average edged 0.2% higher and Nasdaq futures jumped 0.7%. The yield on the 10-year Treasury eased overnight to 4.64% from 4.66% late Tuesday, but are up from less than 4% before the war with Iran began. That’s a notable increase and part of the reason that stock prices look even more expensive while threatening to slow the economy. Higher yields can drive up rates for mortgages and loans going to companies to build AI data centers, which has been a big source of growth for the economy. There was also some relief from higher energy prices, which can hamper growth as well. Early Wednesday, U.S. benchmark crude oil fell $2.65 to $101.50 per barrel. Brent crude, the international standard, lost $2.89 to $108.39 per ba",
-    "url": "https://www.fastcompany.com/91545474/wall-street-expected-open-gains-oil-prices-fall",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/AP26140051215285.jpg",
-    "source": "Fast Company",
-    "source_id": "src-014",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T11:30:02+00:00",
-    "fetched_at": "2026-05-20T19:55:13.759858+00:00"
-  },
-  {
-    "id": "5a53697dbbf48a3f",
-    "title": "Beyond The ‘Build Versus Buy’ Trap: Agentic Orchestration​'s Role In The Future Of GTM",
-    "description": "While organizations spend months debating whether to own their AI code or lease platforms, others are finding market success by orchestrating. ​​​",
-    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/20/beyond-the-build-versus-buy-trap-agentic-orchestrations-role-in-the-future-of-gtm/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/661010dc2698be81d50d2208/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T11:30:00+00:00",
-    "fetched_at": "2026-05-20T13:47:28.646963+00:00"
-  },
-  {
-    "id": "b5b2ba52ca608fb6",
-    "title": "The dirtiest spots in your house and how to clean them",
-    "description": "Discover the hidden surfaces in your home that may be collecting more germs, dust, and grime than expected",
-    "url": "https://qz.com/dirtiest-spots-in-your-house-how-to-clean-them-readers-digest",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/giorgio-trovato-5TXz228u4eo-unsplash.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T11:11:20+00:00",
-    "fetched_at": "2026-05-20T13:01:52.147465+00:00"
-  },
-  {
-    "id": "575ecb3562c4ed3f",
-    "title": "Samsung is heading toward a strike that could impact global chip supplies and smartphones",
-    "description": "Management and union leaders at Samsung Electronics failed to reach a last-minute deal over wages Wednesday, raising prospects for a strike at the South Korean electronics giant that could rattle global semiconductor supplies and the country’s trade-dependent economy. Government officials have threatened to invoke rarely used emergency powers to force a settlement at Samsung, where the union , which represents more than 70,000 workers, says the company has failed to offer adequate compensation despite its soaring profits fueled by the global boom in artificial intelligence . After the latest round of talks ended without a breakthrough on Wednesday, union leader Choi Seung-ho told reporters that unionized workers will begin an 18-day strike from Thursday. Both the union and the management held each other responsible for a failure to reach a deal. Choi accused management of refusing to acc",
-    "url": "https://www.fastcompany.com/91545467/samsung-heading-towards-strike-impact-glboal-chip-supplies-smartphones",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/AP26113293520801.jpg",
-    "source": "Fast Company",
-    "source_id": "src-014",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T11:02:38+00:00",
-    "fetched_at": "2026-05-20T19:55:13.760063+00:00"
-  },
-  {
-    "id": "fdcaf1776fdcef75",
-    "title": "What It Takes to Scale Value-Based Industrial Solutions",
-    "description": "Dante Terzigni/theispot.com B2B sales is fiercely competitive. Companies selling big-ticket products and services to other businesses must design solutions that meet their customers’ specific needs with a provable value proposition. Increasingly, that means engaging in value-based sales, where the benefits to the customer are defined, quantified, and managed by the vendor. That’s a challenging practice […]",
-    "url": "https://sloanreview.mit.edu/article/what-it-takes-to-scale-value-based-industrial-solutions/",
-    "image": "https://picsum.photos/seed/wv-news-e65387a1343a/1200/750",
-    "source": "MIT Sloan Management Review",
-    "source_id": "src-002",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T11:00:55+00:00",
-    "fetched_at": "2026-05-21T11:58:32.387724+00:00"
-  },
-  {
-    "id": "b7cc74f7b50a3b9d",
-    "title": "Phillies’ Don Mattingly Points To Kyle Schwarber Strikeouts As He Sits Out",
-    "description": "The Philadelphia Phillies’ new skipper noted that his All-Star slugger can “not look great” as he becomes a league leader in strikeouts.",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/05/20/phillies-don-mattingly-points-to-kyle-schwarber-strikeouts-as-he-sits-out/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/69f36bf9d0de0988125b874a/0x0.jpg?width=960&precrop=3200%2C1801%2Cx0%2Cy62",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T11:00:00+00:00",
-    "fetched_at": "2026-05-20T13:46:14.384942+00:00"
-  },
-  {
-    "id": "19b5ea01582b553c",
-    "title": "Figma’s new agentic design tool is like getting an ultra-fast coworker",
-    "description": "Today, Figma announced an AI agent built natively inside its collaborative environment. Forget the disconnected, floating prompt boxes we’ve grown so tired of; this system gives you multiple digital assistants right on your digital drafting board in Figma Design. According to the company, it is capable of churning out interface elements and banishing the mindless drudgery of pixel-pushing, while keeping creators locked in their creative zone. With the update, Figma is fundamentally reengineering the digital drafting board into an autonomous engine. By throwing the gates wide open—inviting the marketing department, code-wranglers, and project supervisors to play architect—the company is reshaping the very definition of who gets to be a creator. Powered by a bespoke cocktail of algorithms educated specifically on UI architecture and the platform’s proprietary frameworks, this agentic syste",
-    "url": "https://www.fastcompany.com/91545179/figma-ai-agent-tool",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91545179-figma-agents.jpg",
-    "source": "Fast Company",
-    "source_id": "src-014",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T11:00:00+00:00",
-    "fetched_at": "2026-05-20T13:46:15.294058+00:00"
-  },
-  {
-    "id": "6d89082dc7f55617",
-    "title": "The Identity Crisis Your Security Team Didn't See Coming",
-    "description": "AI has redefined what an identity is, and most enterprises are nowhere near catching up.",
-    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/20/the-identity-crisis-your-security-team-didnt-see-coming/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/628ff6eeebcd348fe474921f/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T11:00:00+00:00",
-    "fetched_at": "2026-05-20T13:02:53.981652+00:00"
-  },
-  {
-    "id": "7bb3c87a49a8831e",
-    "title": "The End Of The Server Room: What Happens When Your Cameras Start",
-    "description": "Today's edge-AI cameras don't wait for a postmortem; they can recognize patterns in real time, flagging anomalies before they escalate.",
-    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/20/the-end-of-the-server-room-what-happens-when-your-cameras-start/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0caea1af8d7dbb3fc3122e/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T10:45:00+00:00",
-    "fetched_at": "2026-05-20T13:02:53.981709+00:00"
-  },
-  {
-    "id": "1d252d71bdef626a",
-    "title": "Target sales and stock price are on an upswing this year. Is the retail giant finally poised for a comeback?",
-    "description": "The Target boycott is ongoing but it might be having less of an impact. On Wednesday, the company reported first-quarter earnings that included successes like a 6.7% increase in net sales year-over-year (YOY). The $25.4 billion in net sales included a 24.5% jump in non-merchandise sales, like Target Circle 360 membership revenues and the Target+ marketplace. In that vein, Target saw its digital comparable sales rise by 8.9% thanks to a 27% jump in same-day delivery with Target Circle 360. The retailer also reported earnings per share of $1.71, surpassing Wall Street’s predicted EPS of $1.46, according to consensus estimates cited by CNBC . “There is much more work in front of us” “First quarter financial results were stronger than expected, providing encouraging early signs that our clarified strategy is resonating with our guests and driving broad-based growth across our business,” Targ",
-    "url": "https://www.fastcompany.com/91545434/target-sales-stock-price-rise-is-retailer-making-comeback",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91545434-target-earnings.jpg",
-    "source": "Fast Company",
-    "source_id": "src-014",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T10:40:00+00:00",
-    "fetched_at": "2026-05-20T13:46:15.294268+00:00"
-  },
-  {
-    "id": "6d71966cfd4d79c7",
-    "title": "15 In-Demand Trade Skills With The Highest Pay Potential",
-    "description": "Discover in-demand trade skills with the highest pay potential, from electricians to HVAC techs, and explore lucrative careers without a four-year degree.",
-    "url": "https://www.forbes.com/sites/lucianapaulise/article/high-paying-trade-skills-and-jobs/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0b48283738283871b1f01e/0x0.jpg?width=960&precrop=3529%2C2353%2Cx1%2Cy0",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T10:30:00+00:00",
-    "fetched_at": "2026-05-20T13:46:14.384996+00:00"
-  },
-  {
-    "id": "715d3551eac281a8",
-    "title": "Modernizing Legacy Industries And The Multi-Partner Coordination Opportunity",
-    "description": "The future of legacy industries won’t be defined by who replaces systems fastest, but by who coordinates them best.",
-    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/20/modernizing-legacy-industries-and-the-multi-partner-coordination-opportunity/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0cacae2edfc1a46ee2703a/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T10:30:00+00:00",
-    "fetched_at": "2026-05-20T13:02:53.981766+00:00"
-  },
-  {
-    "id": "f42d55d4152c76af",
-    "title": "Why Pharma Boards Confuse Scenario Models With Risk Measurements",
-    "description": "You cannot see that decision when the base case and scenario are mashed into one frightening total. The board needs cleaner numbers.",
-    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/20/why-pharma-boards-confuse-scenario-models-with-risk-measurements/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/68c429a83b55b3d5c28c5e19/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T10:15:00+00:00",
-    "fetched_at": "2026-05-20T13:02:53.981821+00:00"
-  },
-  {
-    "id": "a82a3466269f783e",
-    "title": "Credit scores are flawed. FICO has a new model that adds cashflow data. It might just offer the boost you need",
-    "description": "Prices are rising again , and by some measures, consumer sentiment is as low as it’s ever been. That makes it an opportune time for some Americans to perhaps get a boost to their credit scores if they’re able to. Now they might be able to. Last fall, FICO announced a new generation of its UltraFICO Score —an upgrade to its existing scoring model—infusing it with real-time cashflow data (with consumer permission, of course) from fintech company Plaid. The new and improved model is now live and available to lenders. FICO’s leadership says it could help lenders make better decisions about creditworthiness and, in most cases, consumers could see a boost to their credit scores. What’s up with the new UltraFICO Score? The new model looks at transactions going in and out of an applicant’s bank accounts, such as a checking account or savings account. Plaid’s infrastructure allows users to integr",
-    "url": "https://www.fastcompany.com/91545141/credit-scores-are-flawed-fico-has-a-new-model-that-adds-cashflow-data-it-might-just-offer-the-boost-you-need",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-2-91545141-credit-scores-fico-ultrafico-score.jpg",
-    "source": "Fast Company",
-    "source_id": "src-014",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T10:01:00+00:00",
-    "fetched_at": "2026-05-20T13:46:15.294471+00:00"
-  },
-  {
-    "id": "edab4686461b6a06",
-    "title": "The NBA Trade Deadline Moves That Fueled The Cleveland Cavaliers' Eastern Conference Finals Run",
-    "description": "Here's how James Harden, Dennis Schroder and Keon Ellis have performed in the playoffs for the Cleveland Cavaliers.",
-    "url": "https://www.forbes.com/sites/stevebradshaw/2026/05/20/the-nba-trade-deadline-moves-that-fueled-the-cleveland-cavaliers-eastern-conference-finals-run/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0d57acc31a58b3645fe7ac/0x0.jpg",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T10:00:04+00:00",
-    "fetched_at": "2026-05-20T13:46:14.385049+00:00"
-  },
-  {
-    "id": "96ca774d5dd209cb",
-    "title": "Europe Remains Critical To Our Defense And To Securing The Free World",
-    "description": "A strategic rift with Europe would be disastrous for the U.S. and the Free World.",
-    "url": "https://www.forbes.com/sites/steveforbes/2026/05/20/europe-remains-critical-to-our-defense-and-to-securing-the-free-world/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0ce98b4a59fc455dfc2101/0x0.jpg?width=960",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T10:00:00+00:00",
-    "fetched_at": "2026-05-20T13:46:14.385098+00:00"
-  },
-  {
-    "id": "5f6a43ff148fe0be",
-    "title": "Haig Point Club In S.C. Embraces $40 Million Golf Investment Effort",
-    "description": "Haig Point to undergo $40 million modernization effort that includes transformation of both courses.",
-    "url": "https://www.forbes.com/sites/erikmatuszewski/2026/05/20/haig-point-club-in-sc-embraces-40-million-golf-investment-effort/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0d284948d13cb16f7293ab/0x0.jpg?width=960",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T10:00:00+00:00",
-    "fetched_at": "2026-05-20T13:46:14.385146+00:00"
-  },
-  {
-    "id": "33f692ec7950ba00",
-    "title": "China Has Outspent The U.S. On Research For The First Time. 3,375 American Scientists Are Telling Congress To Pay Attention",
-    "description": "China outspent the U.S. on R&D for the first time in 2024. 3,375 scientists, including 48 Nobel laureates, just filed formal testimony with the Senate.",
-    "url": "https://www.forbes.com/sites/johndrake/2026/05/20/china-has-outspent-the-us-on-research-for-the-first-time-3375-american-scientists-are-telling-congress-to-pay-attention/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0d00704ec83895a28e7a35/0x0.jpg",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-20T10:00:00+00:00",
-    "fetched_at": "2026-05-20T13:46:14.385206+00:00"
   }
 ]

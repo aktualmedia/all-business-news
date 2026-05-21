@@ -1,6 +1,776 @@
 [
   {
-    "id": "b8c3631d2f9e3f01",
+    "id": "4ab946e992d3b513",
+    "title": "Scientists uncover protein that could help failing hearts",
+    "description": "Researchers have identified a key protein that may help failing hearts regain function, offering new insight into why some hearts recover while others do not. The discovery comes from studying patients treated with left ventricular assist devices, or LVADs, which are mechanical pumps that reduce strain on the heart and allow it to rest and recover.",
+    "url": "https://medicalxpress.com/news/2026-05-scientists-uncover-protein-hearts.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2017/heart.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T17:40:09+00:00",
+    "fetched_at": "2026-05-21T17:42:42.114607+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "4df417771b9ad572",
+    "title": "Cell movement in the embryo: Zebrafish study shows that without keratin, nothing moves",
+    "description": "Hair, nails, and horns, all made up of keratin, are some of the hardest and most resilient structures in animals. Inside zebrafish cells, keratin plays a distinct role, giving them the strength they need to move together as a coherent tissue while modulating the driving forces behind their movement during early development. But what happens when keratin is missing?",
+    "url": "https://phys.org/news/2026-05-cell-movement-embryo-zebrafish-keratin.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cell-movement-in-the-e.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T17:40:07+00:00",
+    "fetched_at": "2026-05-21T17:42:41.913741+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "58fda029fbc26e8e",
+    "title": "AI can design cities, but can it understand what matters to people? 10 ways to keep humans in control",
+    "description": "Generative AI (GenAI) is a type of artificial intelligence that creates new content—like text, images, or ideas—by learning patterns from existing data. GenAI, particularly through large language models (LLMs) such as ChatGPT and DeepSeek, is rapidly becoming part of everyday urban design research and practice.",
+    "url": "https://phys.org/news/2026-05-ai-cities-people-ways-humans.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/city-design.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T17:40:03+00:00",
+    "fetched_at": "2026-05-21T17:42:41.913836+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "a7d9505bee4acc69",
+    "title": "Can engaging in the arts slow aging, as a recent study suggested?",
+    "description": "Can spending more time engaging with the arts, such as visiting galleries, museums, singing or painting, really lead to a longer and healthier life? It's certainly an appealing idea. And it's not implausible.",
+    "url": "https://medicalxpress.com/news/2026-05-engaging-arts-aging.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/painting.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T17:40:02+00:00",
+    "fetched_at": "2026-05-21T17:42:42.114662+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "68751432aa30ef01",
+    "title": "Black holes may avoid singularities when charge and Hawking radiation combine, theoretical physicist argues",
+    "description": "Black holes are regions in space where gravity is so strong that nothing, even light, can escape. Einstein's theory of general relativity breaks down inside black holes, either by the presence of a so-called \"curvature singularity\" or \"Cauchy horizon.\"",
+    "url": "https://phys.org/news/2026-05-black-holes-singularities-hawking-combine.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-theory-challenges.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T17:36:19+00:00",
+    "fetched_at": "2026-05-21T17:42:41.913887+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "e35c8630a1719c6d",
+    "title": "XPENG’s Human Approach To Technology Part 2: Automation, AI & Expectations",
+    "description": "In the first part of this series on XPENG, I focused on how the technology company treats and develops its employees. In the second part, the focus shifts to how Automation and AI make the most of their employees, as well as how this relates to existing expectations and expectations ... [continued] The post XPENG’s Human Approach To Technology Part 2: Automation, AI & Expectations appeared first on CleanTechnica .",
+    "url": "https://cleantechnica.com/2026/05/21/xpengs-human-approach-to-technology-pt-2-automation-ai-expectations/",
+    "image": "https://picsum.photos/seed/wv-news-5325a646a2d7/1200/750",
+    "source": "CleanTechnica",
+    "source_id": "src-089",
+    "category": "znanost",
+    "published_at": "2026-05-21T17:36:14+00:00",
+    "fetched_at": "2026-05-21T17:38:57.412306+00:00"
+  },
+  {
+    "id": "1b85c42fbee5b6b6",
+    "title": "Brain's 'tumor hotspots' uncovered in fruit fly study",
+    "description": "New research from Peter Mac has uncovered why some parts of the brain may be more vulnerable to tumor growth than others, offering new clues into how brain cancers begin and how they could one day be stopped. Published in the Proceedings of the National Academy of Sciences, the research by Professor Louise Cheng's lab, used fruit fly models to investigate why cancer-causing mutations can lead to tumors in some regions of the brain and not in others.",
+    "url": "https://medicalxpress.com/news/2026-05-brain-tumor-hotspots-uncovered-fruit.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/brains-tumour-hotspots.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T17:20:09+00:00",
+    "fetched_at": "2026-05-21T17:42:42.114718+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "d07a8b5a5ed5794d",
+    "title": "New kind of dark tourism emerging in online 'Backrooms,' study shows",
+    "description": "Digital culture is reshaping people's experiences of fear, curiosity and belonging, according to new findings from Lancaster University. Researchers have explored why online environments like the \"Backrooms\"—mysterious empty spaces resembling uncharted office blocks, basements and corridors—have become so compelling, and why people are choosing to get lost in spaces that don't exist.",
+    "url": "https://phys.org/news/2026-05-kind-dark-tourism-emerging-online.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/backrooms.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T17:20:05+00:00",
+    "fetched_at": "2026-05-21T17:42:41.913941+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "c198f8696983557e",
+    "title": "When noisy decision-making becomes a strategic advantage",
+    "description": "A new study shows that apparently erratic or \"sloppy\" behavior in strategic situations is not necessarily a mistake. Under certain conditions, being less sensitive to one's own gains can become a long-term advantage.",
+    "url": "https://phys.org/news/2026-05-noisy-decision-strategic-advantage.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-noisy-decision-ma.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T17:20:04+00:00",
+    "fetched_at": "2026-05-21T17:42:41.913982+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "297155dda8ad7ebb",
+    "title": "MRI technique enhances valve disease evaluation",
+    "description": "A new cardiac magnetic resonance imaging-based measurement may improve how physicians assess a common heart valve condition, according to a study led by Weill Cornell Medicine and NewYork-Presbyterian investigators. The findings support the broader use and further study of the new metric known as effective right ventricular ejection fraction (eRVEF).",
+    "url": "https://medicalxpress.com/news/2026-05-mri-technique-valve-disease.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mri-technique-enhances-1.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T17:20:02+00:00",
+    "fetched_at": "2026-05-21T17:42:42.114792+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "fea8f9c33635ee6e",
+    "title": "The secret to keeping ticks at bay this summer: Woodchips",
+    "description": "New research has shown woodchips to be the secret weapon to keeping ticks off recreational woodland trails, including eliminating nearly all Lyme disease-carriers when treated with insecticide. The two-year experimental field study led by Katarina Ost, doctoral candidate at the School of Epidemiology and Public Health at the University of Ottawa under Manisha A. Kulkarni's supervision, and in collaboration with researchers from Bruyere Health Research Institute, Université de Montréal, and Dalhousie University, provided evidence that both treated and untreated woodchip interventions can effectively reduce tick populations in a recreational context, a simple and cost-effective way for communities to combat these critters.",
+    "url": "https://medicalxpress.com/news/2026-05-secret-bay-summer-woodchips.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-secret-to-keeping.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T17:00:08+00:00",
+    "fetched_at": "2026-05-21T17:42:42.114861+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "e4dcef528e5f05b7",
+    "title": "Why sending staff overseas often fails and how companies can fix it",
+    "description": "Strong relationships between overseas staff and local colleagues are central to the success of global assignments, according to a new study by the University of Portsmouth and Reutlingen University which aims to advise multinational companies on how they can avoid costly failures. The paper is published in the Journal of Global Mobility.",
+    "url": "https://phys.org/news/2026-05-staff-overseas-companies.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/businesstrav.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T17:00:07+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914029+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "b4273f0a1b979080",
+    "title": "Uncovering the link between epigenetic modifications and chromatin structure",
+    "description": "Certain epigenetic modifications can directly control how genetic material is packed in the nucleus, RIKEN researchers have shown. This has important implications for our understanding of how genes are expressed in different cell types.",
+    "url": "https://phys.org/news/2026-05-uncovering-link-epigenetic-modifications-chromatin.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uncovering-the-link-be.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T17:00:05+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914069+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "056ddd23f220f36c",
+    "title": "Simple blood test could catch Alzheimer's and Parkinson's early by spotting misfolded proteins",
+    "description": "For the first time, therapeutically effective medications are now available for Alzheimer's disease. Effective symptomatic therapies also exist for Parkinson's disease; however, a prerequisite for successful treatment is early diagnosis—ideally through a simple blood test conducted as part of a preventive screening, even before clinical symptoms appear.",
+    "url": "https://medicalxpress.com/news/2026-05-simple-blood-alzheimer-parkinson-early.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/immuno-infrared-sensor.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T17:00:04+00:00",
+    "fetched_at": "2026-05-21T17:42:42.114918+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "fd4115c0f6e3c1f7",
+    "title": "Stellantis to Build EVs for Dongfeng in France",
+    "description": "Here we go — the trend of Chinese electric vehicles finding their way into foreign markets continues. Europe is a top focus, of course, since it is both a major auto market and an EV-buying leader. Stellantis is an interesting beast — it’s such a huge conglomeration of auto brands ... [continued] The post Stellantis to Build EVs for Dongfeng in France appeared first on CleanTechnica .",
+    "url": "https://cleantechnica.com/2026/05/21/stellantis-to-build-evs-for-dongfeng-in-france/",
+    "image": "https://picsum.photos/seed/wv-news-65c285e0f866/1200/750",
+    "source": "CleanTechnica",
+    "source_id": "src-089",
+    "category": "znanost",
+    "published_at": "2026-05-21T16:53:51+00:00",
+    "fetched_at": "2026-05-21T17:38:57.412415+00:00"
+  },
+  {
+    "id": "5c367ddfb51caffd",
+    "title": "Unusual nonlinear thermoelectric effect appears in chiral tellurium, confirming theoretical predictions",
+    "description": "An unusual thermoelectric effect has been observed in the semiconductor tellurium by RIKEN physicists for the first time. This demonstration points to the potential of similar materials to be used in applications such as energy harvesting and advanced heat management.",
+    "url": "https://phys.org/news/2026-05-unusual-nonlinear-thermoelectric-effect-chiral.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/theoretical-prediction.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T16:40:13+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914121+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "b648b815b018ec51",
+    "title": "Breast cancer drug is effective for treatment-resistant uterine cancer",
+    "description": "Uterine cancer is the deadliest cancer of the female reproductive system. Currently, clinicians treat the disease by using a mix of surgery and chemotherapy. But not everyone responds to this line of treatment, and those who fail first-line therapies are often left without next steps. Research by the Yale School of Medicine (YSM) shows that a breast cancer drug could provide new options for people suffering from treatment-resistant uterine cancer.",
+    "url": "https://medicalxpress.com/news/2026-05-breast-cancer-drug-effective-treatment.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uterine-cancer.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T16:40:08+00:00",
+    "fetched_at": "2026-05-21T17:42:42.114969+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "3f71ce54ba6d9b8f",
+    "title": "Gestational diabetes increases risk of type 2 diabetes—even at normal weight",
+    "description": "Gestational diabetes is a special type of diabetes that can affect pregnant women. The condition is defined as elevated blood sugar levels, without previously known diabetes. Treatment involves self-monitoring of blood sugar, advice on lifestyle habits and, if necessary, medication. Identifying gestational diabetes is important because the disease increases the risk of complications such as preeclampsia, the need for a cesarean section and high birth weight for the baby.",
+    "url": "https://medicalxpress.com/news/2026-05-gestational-diabetes-weight.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pregnant-woman-doing-s.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T16:40:03+00:00",
+    "fetched_at": "2026-05-21T17:42:42.115029+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "3146e72f5116e590",
+    "title": "AI camera platform to help monitor zoo animals' welfare",
+    "description": "An AI-powered camera platform could soon help monitor the health and behavior of zoo animals overnight, thanks to a new partnership between the University of Surrey and Marwell Wildlife. Researchers from Surrey's Centre for Vision, Speech and Signal Processing (CVSSP) are working closely with Marwell to develop a bespoke AI nocturnal behavior observation system that interprets video footage and flags unusual behavioral patterns in animals. The three-year project will use AI and machine learning to study animals' night-time movements, helping zookeepers spot subtle signs of illness or distress that might otherwise go unnoticed.",
+    "url": "https://phys.org/news/2026-05-ai-camera-platform-zoo-animals.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-camera-platform-to.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T16:40:01+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914180+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "6b15c7e2b685aab7",
+    "title": "What you eat as a teenager may shape food choices later in life",
+    "description": "New research from the University of Aberdeen Rowett Institute suggests that an unhealthy diet during adolescence could have long-lasting effects on how the brain makes decisions about food—even after returning to a healthy diet.",
+    "url": "https://medicalxpress.com/news/2026-05-teenager-food-choices-life.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/food-truck.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T16:20:08+00:00",
+    "fetched_at": "2026-05-21T17:42:42.115072+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "d6aa23d0a0c2e386",
+    "title": "Piezoelectric effect in diamond membranes challenges century-old scientific dogma",
+    "description": "A research team in China has reported a significant piezoelectric effect in ultrathin and ultra-flexible polycrystalline diamond membranes. This pioneering discovery challenges a century-long scientific dogma that diamonds are strictly non-piezoelectric.",
+    "url": "https://phys.org/news/2026-05-piezoelectric-effect-diamond-membranes-century.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-p-3.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T16:20:05+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914220+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "9f05744faf0c74e6",
+    "title": "Resolving the Kardashev's conundrum using a Bitcoin-inspired metric",
+    "description": "In his 1964 paper, \"Transmission of Information by Extraterrestrial Civilizations,\" famed astrophysicist and radio astronomer Nikolai Kardashev addressed the types of transmissions (and at what energies) astronomers should search for in their Search for Extraterrestrial Intelligence (SETI). As part of his analysis, Kardashev proposed a universal scale for classifying the technological advancement of civilizations based on their overall energy consumption. The resulting Kardashev Scale (as it came to be known) came down to three categories.",
+    "url": "https://phys.org/news/2026-05-kardashev-conundrum-bitcoin-metric.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/resolving-the-kardashe.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T16:20:02+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914272+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "c2eeaaaa29d5498c",
+    "title": "Working up a sweat: How sweat patterns change as girls get older",
+    "description": "Researchers have worked out how girls' sweating patterns change as they grow, establishing that the age of 14 is a critical turning point. Their findings can inform better sportswear designs for teenagers, and be used to encourage more teenage girls to take part in sport.",
+    "url": "https://medicalxpress.com/news/2026-05-patterns-girls-older.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/working-up-a-sweat-how.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T16:00:16+00:00",
+    "fetched_at": "2026-05-21T17:42:42.115155+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "a8b2f62b8b72b8c6",
+    "title": "Digital finance tools could transform small businesses",
+    "description": "A new study has found that simple digital finance tools such as mobile money can help small businesses build long-term competitive strength, not just improve access to banking. The study, led by the University of East London, examined 113 micro, small and medium-sized enterprises (MSMEs) in Ghana and found that businesses gained the greatest benefits when digital finance tools became part of everyday business operations rather than being used only for payments. Firms reported improvements in efficiency, customer service and flexibility.",
+    "url": "https://phys.org/news/2026-05-digital-tools-small-businesses.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/digital-finance.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T16:00:15+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914324+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "241b162290247918",
+    "title": "Dementia drug may help treat alcohol withdrawal",
+    "description": "A new study from researchers at the University of Kentucky's Sanders-Brown Center on Aging is exploring whether a drug originally developed to combat neuroinflammation in dementia could also help reduce the harmful brain inflammation associated with alcohol withdrawal—a discovery that could eventually open new treatment pathways for alcohol use disorder.",
+    "url": "https://medicalxpress.com/news/2026-05-dementia-drug-alcohol.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-a-dementia-drug.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T16:00:08+00:00",
+    "fetched_at": "2026-05-21T17:42:42.115201+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "0f36f388da682eb0",
+    "title": "Crystals of space and time: A structural phenomenon that may collapse into tiny black holes",
+    "description": "A team from Vienna and Frankfurt has found a formula describing a strange phenomenon: Space and time can form a kind of \"crystal\" that may turn into a black hole. The results are described in Physical Review Letters.",
+    "url": "https://phys.org/news/2026-05-crystals-space-phenomenon-collapse-tiny.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-black-holes-cryst.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T16:00:03+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914366+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "5211e681792843de",
+    "title": "Hellish Venus-like planets may be more prevalent than true exoEarths",
+    "description": "Preliminary results of a study presented at the recent European Geosciences Union General Assembly in Vienna indicate that hellish Venus-type planets may be about twice as common as habitable planets that form with oceans.",
+    "url": "https://phys.org/news/2026-05-hellish-venus-planets-prevalent-true.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hellish-venus-like-pla-1.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:50:49+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914404+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "e315477bcb0720ac",
+    "title": "Study targets alcohol marketing that downplays breast cancer risk",
+    "description": "Memorial Day weekend, the unofficial start of summer, is a peak holiday for alcohol consumption, with nearly half of celebrants reporting they plan to buy alcoholic beverages. Public health experts are raising concern that only about 28% of people are aware that regular alcohol consumption increases risk for at least seven forms of cancer.",
+    "url": "https://medicalxpress.com/news/2026-05-alcohol-downplays-breast-cancer.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/mammogram-1.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:40:09+00:00",
+    "fetched_at": "2026-05-21T17:42:42.115245+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "519095dde443acc4",
+    "title": "Women experience extreme heat differently to men, and they're adapting to it in creative ways",
+    "description": "Right now, an unusual April and May heat wave is scorching large parts of India.",
+    "url": "https://phys.org/news/2026-05-women-extreme-differently-men-theyre.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/heatwave.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:40:08+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914441+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "d99a0b51f216dae4",
+    "title": "High prevalence of hantavirus in some areas of the Pacific Northwest",
+    "description": "The Sin Nombre virus—a hantavirus that can cause a deadly respiratory disease in humans—may be more widespread among rodent populations in parts of the Pacific Northwest than previously recognized. A recent study conducted in the Palouse region of Washington and Idaho found that nearly 30% of rodents showed evidence of past infection with the virus. About 10% were actively infected, meaning they were carrying and could potentially shed the virus. The study, which was led by researchers in Washington State University's College of Veterinary Medicine, was published in the Emerging Infectious Diseases journal.",
+    "url": "https://medicalxpress.com/news/2026-05-high-prevalence-hantavirus-areas-pacific.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/high-prevalence-of-han.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:40:06+00:00",
+    "fetched_at": "2026-05-21T17:42:42.115306+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "7b298d1b4cee25e0",
+    "title": "Flint reveals changes in human mobility in the southern Pyrenees during the Upper Paleolithic",
+    "description": "Analysis of more than 3,000 lithic artifacts from the Cova Gran de Santa Linya site (Les Avellanes-Santa Linya, Lleida) shows that anatomically modern human communities occupying the southern Pyrenees during the Upper Paleolithic used flint (chert) exclusively for tool production. The findings, published in the journal Quaternary International, indicate that raw-material selection was closely linked to technological changes, mobility organization and the ways in which these groups interacted with the landscape.",
+    "url": "https://phys.org/news/2026-05-flint-reveals-human-mobility-southern.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/flint-reveals-changes.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:40:04+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914491+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "ee3010a9737a4ed8",
+    "title": "Scientists discover how to harness T cells to combat entire viral families",
+    "description": "Scientists at La Jolla Institute for Immunology (LJI) have discovered that combining key vaccine ingredients could give the body the tools it needs to fight the entire family of arenaviruses with a single vaccine. This \"pan-arenavirus\" vaccine approach may protect against life-threatening infections from Lassa virus, Junin virus, and many other arenaviruses with pandemic potential.",
+    "url": "https://medicalxpress.com/news/2026-05-scientists-harness-cells-combat-entire.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-ho-14.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:20:06+00:00",
+    "fetched_at": "2026-05-21T17:42:42.115351+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "38899ef609617bfc",
+    "title": "Rare 567‑million‑year‑old fossils refine our understanding of early animal evolution",
+    "description": "From butterflies to blue whales, corals and worms, Earth is home to an incredible diversity of animals. How all of these animals evolved from earlier, simpler ancestors is one of the most exciting stories in the history book of life on our 4.5 billion-year-old planet.",
+    "url": "https://phys.org/news/2026-05-rare-567millionyearold-fossils-refine-early.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-567millionyearold-2.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:20:03+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914541+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "9307ec5b66aae259",
+    "title": "Saturn-sized exoplanet with Earth-like temperature reveals methane-rich atmosphere",
+    "description": "A planet that is about the size of Saturn, but with a temperature more like Earth's, has an atmosphere rich in methane, according to a new study using NASA's James Webb Space Telescope (JWST).",
+    "url": "https://phys.org/news/2026-05-saturn-sized-exoplanet-earth-temperature.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/atmosphere-of-saturn-s.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:20:01+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914582+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "febf471b0a3b2e13",
+    "title": "Extraterrestrial life may be slipping past space missions, astrobiologists warn",
+    "description": "Suppose there are signs of extraterrestrial life and we have not yet been able to detect them. What does that mean? In Nature Astronomy, researchers discuss the consequences of these so-called false-negative results. \"We are currently investing a great deal of money in missions that might need to be designed differently.\"",
+    "url": "https://phys.org/news/2026-05-extraterrestrial-life-space-missions-astrobiologists.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/false-negative-search.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:00:17+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914628+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "94388c095f77ee40",
+    "title": "Targeting inflammation may help overcome drug resistance in colon cancer",
+    "description": "Chemotherapy drugs that target a common mutation in colorectal cancer rapidly lose efficacy in patients, leading to relapse. According to a new preclinical study by Weill Cornell Medicine and MD Anderson Cancer Center investigators, colorectal tumors often find multiple ways to survive treatment, including additional genetic mutations and activation of cellular pathways typically associated with inflammation and regeneration. Targeting this tumor-specific inflammatory process could enhance the efficacy of some anticancer therapies and prevent drug resistance.",
+    "url": "https://medicalxpress.com/news/2026-05-inflammation-drug-resistance-colon-cancer.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/abdominal-colon-illust.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:00:15+00:00",
+    "fetched_at": "2026-05-21T17:42:42.115400+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "01987c7941ff08a5",
+    "title": "Stem cells at the root of tooth aging point to possible treatment",
+    "description": "With age, teeth get increasingly brittle and susceptible to damage from tooth decay, which can eventually lead to tooth loss. Teeth have an intrinsic capability to regenerate, a process that is driven by dental pulp stem cells (DPSCs) that replenish the dental pulp, including the dentin-producing cells called odontoblasts.",
+    "url": "https://medicalxpress.com/news/2026-05-stem-cells-root-tooth-aging.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/1-teeth.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:00:14+00:00",
+    "fetched_at": "2026-05-21T17:42:42.115442+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "fbcddbd0e5442c91",
+    "title": "AI-designed miniproteins switch key cell receptors on and off",
+    "description": "G protein-coupled receptors, or GPCRs, sit in the plasma membrane, the boundary that defines the inside and outside of a living cell. They communicate with nearly every physiological process in our bodies—from the ability to see and smell, to sensing of adrenaline, insulin, nutrients and medicines.",
+    "url": "https://phys.org/news/2026-05-ai-miniproteins-key-cell-receptors.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-helps-create-minipr.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:00:12+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914673+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "c50d40521d0f559d",
+    "title": "AI uses everyday language to make genetic diagnosis easier",
+    "description": "A new computational tool called MARRVEL-MCP helps researchers move toward genetic diagnoses more efficiently by analyzing and interpreting vast amounts of genetic and biological information using everyday language. The study, conducted by researchers at Baylor College of Medicine and Texas Children's Hospital, appeared in the American Journal of Human Genetics.",
+    "url": "https://medicalxpress.com/news/2026-05-ai-everyday-language-genetic-diagnosis.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/57349802ae701.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:00:10+00:00",
+    "fetched_at": "2026-05-21T17:42:42.115487+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "fc2ad640ce514411",
+    "title": "Research team awakens 'hidden oxygen' to produce green hydrogen",
+    "description": "A joint research team led by Professor Hyung Mo Jeong from the School of Mechanical Engineering at Sungkyunkwan University (SKKU) and Professor Ji Hoon Lee from the School of Materials Science and Engineering at Kyungpook National University has developed a highly efficient, non-precious metal water-splitting catalyst.",
+    "url": "https://phys.org/news/2026-05-team-awakens-hidden-oxygen-green.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-team-awakens.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:00:07+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914718+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "2aa84cd27463c6fe",
+    "title": "Researchers develop AI model that maps how genes work together in human cells",
+    "description": "Scientists at the Icahn School of Medicine at Mount Sinai have created a new artificial intelligence (AI) model that helps reveal how genes function together inside human cells, offering a powerful new way to understand biology and disease.",
+    "url": "https://phys.org/news/2026-05-ai-genes-human-cells.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genes.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:00:04+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914784+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "c0a932e52b288afd",
+    "title": "Symptoms of depression and anxiety appear in just 14 days without these five daily habits",
+    "description": "New research from Macquarie University has found removing everyday positive mental health behaviors for just two weeks can rapidly trigger symptoms of depression and anxiety in otherwise healthy adults. These symptoms then resolve once those actions are resumed. The work is published in the journal JMIR Formative Research.",
+    "url": "https://medicalxpress.com/news/2026-05-symptoms-depression-anxiety-days-daily.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/happy-brain.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:00:02+00:00",
+    "fetched_at": "2026-05-21T17:42:42.115532+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "0ca42e2383d988b7",
+    "title": "One mystery of the Great Pyramid’s longevity has finally been solved - Science News",
+    "description": "One mystery of the Great Pyramid’s longevity has finally been solved Science News",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OXzNGU2VuSDdKTHdrUFZLQnpVR0hXY2gzdXFFWFg2MllQekdNQWFmN3NFX293RjB5STZ1WGE3ZFY3NUgzVWUwdkp3MFhEWnNHZFQwNlBXTEN3ZnVscWxjdkd5X2VjNXJibnBZWmJRTlRlNGNHQzNYX0VjUjRzSXM?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-3d3ec8f259fd/1200/750",
+    "source": "Science News - Google News",
+    "source_id": "global-extra-023",
+    "category": "znanost",
+    "published_at": "2026-05-21T15:00:00+00:00",
+    "fetched_at": "2026-05-21T17:39:49.764846+00:00"
+  },
+  {
+    "id": "f151935bfe346203",
+    "title": "NIO & Li Auto Diverge in Chinese EV Price War",
+    "description": "The Chinese electric vehicle industry exploded in the past several years, but as EVs have taken more and more share of the auto market, companies have been scrapping to outcompete their EV competitors in selling automobiles. One of the big stories of the past year or so has been price ... [continued] The post NIO & Li Auto Diverge in Chinese EV Price War appeared first on CleanTechnica .",
+    "url": "https://cleantechnica.com/2026/05/21/nio-li-auto-diverge-in-chinese-ev-price-war/",
+    "image": "https://picsum.photos/seed/wv-news-113de21d3391/1200/750",
+    "source": "CleanTechnica",
+    "source_id": "src-089",
+    "category": "znanost",
+    "published_at": "2026-05-21T14:58:12+00:00",
+    "fetched_at": "2026-05-21T17:38:57.412508+00:00"
+  },
+  {
+    "id": "da47759cea093567",
+    "title": "Another Route To Rooftop Solar: The Ann Arbor Solution",
+    "description": "A new, not-for-profit utility will help residents install rooftop solar systems with energy storage for a flat fee of $600.00 per year and no up-front costs. The post Another Route To Rooftop Solar: The Ann Arbor Solution appeared first on CleanTechnica .",
+    "url": "https://cleantechnica.com/2026/05/21/rooftop-solar-plus-storage-flat-fee-us-solutions/",
+    "image": "https://picsum.photos/seed/wv-news-5265e2f24ddd/1200/750",
+    "source": "CleanTechnica",
+    "source_id": "src-089",
+    "category": "znanost",
+    "published_at": "2026-05-21T14:51:43+00:00",
+    "fetched_at": "2026-05-21T17:38:57.412582+00:00"
+  },
+  {
+    "id": "d0f25e9bf8914b7b",
+    "title": "Why talking like Yoda can help you to master British Sign Language",
+    "description": "I'm not surprised that Talk Like Yoda Day exists. Over 40 years since his Star Wars debut (puppeteered and voiced by Frank Oz), Yoda remains a recognizable figure in pop culture. This is in part due to his distinctive and frequently imitated version of English.",
+    "url": "https://phys.org/news/2026-05-yoda-master-british-language.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-talking-like-yoda.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T14:40:07+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914828+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "9c7bbe0513c5b903",
+    "title": "Teen attitudes to exercise shape fitness years later",
+    "description": "Teenagers who see exercise as fun, social and good for their health are significantly fitter by late adolescence than those driven by competition, pressure or fear of judgment, new research led by Flinders University shows. Tracking more than 1,000 young people from age 14 to 17, researchers found early attitudes to physical activity strongly predict measurable aerobic fitness three years later.",
+    "url": "https://medicalxpress.com/news/2026-05-teen-attitudes-years.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/teen-workout.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T14:40:06+00:00",
+    "fetched_at": "2026-05-21T17:42:42.115578+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "104fa9e22de44717",
+    "title": "Both heart chambers are more severely affected in atrial fibrillation than previously thought, study reveals",
+    "description": "New research findings from the University Medical Center Göttingen (UMG) show that both atria undergo profound changes in cases of persistent atrial fibrillation. Until now, the left atrium was considered the primary site of the disease. The results of the international study are published in the journal Cardiovascular Research.",
+    "url": "https://medicalxpress.com/news/2026-05-heart-chambers-severely-affected-atrial.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/both-heart-chambers-ar.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T14:40:04+00:00",
+    "fetched_at": "2026-05-21T17:42:42.115625+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "247572fda58c3af9",
+    "title": "How does gold keep its glitter? Researchers uncover why it resists tarnish",
+    "description": "Gold has been prized for thousands of years for its enduring shine, but Tulane University researchers have discovered that gold's resistance to tarnishing depends on more than its chemistry.",
+    "url": "https://phys.org/news/2026-05-gold-glitter-uncover-resists-tarnish.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gold-bullion.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T14:40:01+00:00",
+    "fetched_at": "2026-05-21T17:42:41.914868+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "bed59f352bd13200",
+    "title": "Eye drop formulation can treat dry eye disease",
+    "description": "Researchers at Baylor College of Medicine and Okayama University in Japan have developed and tested in mice a promising new eye drop formulation for treating dry eye disease. The team reports in Investigative Ophthalmology & Visual Science that the treatment significantly reduced typical dry eye characteristics, such as inflammation, damage to the eye surface and loss of goblet cells, which produce factors that help stabilize tears and lubricate the eye. The findings support conducting human studies to assess the safety and efficacy of this treatment that could potentially benefit millions of people with dry eye disease.",
+    "url": "https://medicalxpress.com/news/2026-05-eye-dry-disease.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/eyedrop.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T14:20:02+00:00",
+    "fetched_at": "2026-05-21T17:42:42.115681+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "d486498c871a2a13",
+    "title": "As GLP-1 drugs surge in popularity, bariatric surgery rates plunge across the US",
+    "description": "For a very long time, bariatric surgery, in which doctors removed a portion of the stomach, was the standard procedure for helping patients lose weight and manage obesity, alongside metabolic disorders such as diabetes, high blood pressure, and high cholesterol. However, ever since GLP-1 medications like Ozempic became available on the market, there has been a shift in how people seek to lose weight.",
+    "url": "https://medicalxpress.com/news/2026-05-glp-drugs-surge-popularity-bariatric.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/as-glp-1-drugs-trend-t.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T14:10:01+00:00",
+    "fetched_at": "2026-05-21T17:42:42.115728+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "4728a038bed3a4f5",
+    "title": "NASA Welcomes 16th Deputy Administrator Matt Anderson",
+    "description": "Matt Anderson was sworn in Thursday as NASA’s 16th deputy administrator by NASA Administrator Jared Isaacman. The oath was taken during a ceremony held at the Eisenhower Executive Office Building in Washington. As NASA deputy administrator, Anderson will help lead the agency’s efforts to execute the President’s national space policy, strengthen America’s leadership in space, […]",
+    "url": "https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/",
+    "image": "https://picsum.photos/seed/wv-fill-5c1a8157bad6/1200/750",
+    "source": "NASA Breaking News",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T14:08:50+00:00",
+    "fetched_at": "2026-05-21T17:42:41.983470+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "625868d88e0c1c45",
+    "title": "Heat tolerance tests fail to account for sex differences",
+    "description": "A new study by researchers in the College of Agriculture, Health and Natural Resources (CAHNR) has demonstrated that a standard heat tolerance test does not work equally well to measure tolerance in males and females. This research was published in Physiological Reports. This work was led by Jacob Bowie, Ph.D., a UConn postdoctoral fellow in the laboratory of Elaine Choung-Hee Lee, Ph.D., professor of kinesiology, and in collaboration with Douglas Casa, Ph.D., Board of Trustees Distinguished Professor of Kinesiology and CEO of the Korey Stringer Institute.",
+    "url": "https://medicalxpress.com/news/2026-05-tolerance-account-sex-differences.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/heat-tolerance-tests-f.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T14:01:43+00:00",
+    "fetched_at": "2026-05-21T17:42:42.115808+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "775a797805435515",
+    "title": "NASA Highlights 2025 International Space Station Science Results",
+    "description": "To dive deeper into the International Space Station research achievements from the past year, browse the 2025 Annual Highlights of Results, which NASA released in May 2026. In 2025, researchers using the orbital laboratory conducted more than 750 investigations that advanced understanding of life in space, drove innovations to benefit people on Earth, and supported […]",
+    "url": "https://www.nasa.gov/missions/station/iss-research/nasa-highlights-2025-international-space-station-science-results/",
+    "image": "https://picsum.photos/seed/wv-fill-a08cd9e56af0/1200/750",
+    "source": "NASA Breaking News",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T14:00:00+00:00",
+    "fetched_at": "2026-05-21T17:42:41.983539+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "68487e91cf5c7525",
+    "title": "Childhood junk food may rewire the brain for life",
+    "description": "Eating too much junk food early in life may rewire the brain in ways that last into adulthood, even after switching to a healthier diet. Scientists found that high-fat, high-sugar diets changed feeding behavior and disrupted appetite-control regions in the brain. Excitingly, certain gut-friendly bacteria and prebiotic fibers appeared to help undo some of the damage.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260520093807.htm",
+    "image": "https://picsum.photos/seed/wv-news-b5c3a972ac0b/1200/750",
+    "source": "ScienceDaily",
+    "source_id": "src-076",
+    "category": "znanost",
+    "published_at": "2026-05-21T13:31:48+00:00",
+    "fetched_at": "2026-05-21T17:38:50.092051+00:00"
+  },
+  {
+    "id": "1bb80eb98722806c",
+    "title": "Popular GLP-1 weight-loss drugs like Ozempic slash heart attack and stroke risk",
+    "description": "A huge international review found that GLP-1 weight-loss drugs significantly reduce the risk of heart attacks, strokes, heart failure, and premature death over the long term. Researchers say these medications could become a major weapon against cardiovascular disease — not just obesity and diabetes.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260520093731.htm",
+    "image": "https://picsum.photos/seed/wv-news-6ec3d783fe9b/1200/750",
+    "source": "ScienceDaily",
+    "source_id": "src-076",
+    "category": "znanost",
+    "published_at": "2026-05-21T13:02:24+00:00",
+    "fetched_at": "2026-05-21T17:38:50.092433+00:00"
+  },
+  {
+    "id": "7eafc4a8c7743253",
+    "title": "Join ESA for a total solar eclipse on 12 August 2026",
+    "description": "Follow the total solar eclipse with the European Space Agency (ESA), in person or online.",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026",
+    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_artist_impression/27150246-1-eng-GB/Solar_eclipse_artist_impression_card_full.png",
+    "source": "ESA",
+    "source_id": "src-080",
+    "category": "znanost",
+    "published_at": "2026-05-21T13:00:00+00:00",
+    "fetched_at": "2026-05-21T17:38:55.850620+00:00"
+  },
+  {
+    "id": "f2c0a256f3d14854",
+    "title": "First Drive of the Fully Electric Volvo EX60 — CleanTechnica Field Trip",
+    "description": "Volvo dove into electric vehicles early on, and with the EX90, it launched an all-out assault to design and build its first EV from a blank sheet of paper. The Volvo EX90 pushed a lot of boundaries for the automaker, but it hit more than its fair share of software ... [continued] The post First Drive of the Fully Electric Volvo EX60 — CleanTechnica Field Trip appeared first on CleanTechnica .",
+    "url": "https://cleantechnica.com/2026/05/21/first-drive-of-the-fully-electric-volvo-ex60-cleantechnica-field-trip/",
+    "image": "https://picsum.photos/seed/wv-news-ad5051ed9b79/1200/750",
+    "source": "CleanTechnica",
+    "source_id": "src-089",
+    "category": "znanost",
+    "published_at": "2026-05-21T12:44:56+00:00",
+    "fetched_at": "2026-05-21T17:38:57.412681+00:00"
+  },
+  {
+    "id": "acce1d65c45f4405",
+    "title": "Common pesticide linked to hidden brain damage, scientists warn",
+    "description": "Scientists have uncovered alarming new evidence that a common insecticide may leave lasting marks on the developing brain before a child is even born. Researchers studying New York City children found that prenatal exposure to chlorpyrifos — a pesticide once widely used indoors and still used in agriculture — was linked to widespread brain abnormalities and weaker motor skills years later.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260520233218.htm",
+    "image": "https://picsum.photos/seed/wv-news-4b710a3f3d12/1200/750",
+    "source": "ScienceDaily",
+    "source_id": "src-076",
+    "category": "znanost",
+    "published_at": "2026-05-21T12:27:22+00:00",
+    "fetched_at": "2026-05-21T17:38:50.091985+00:00"
+  },
+  {
+    "id": "0ce4917cb38613f9",
+    "title": "Women’s better memories may delay Alzheimer’s diagnosis by years",
+    "description": "Women appear cognitively normal for almost three years longer than men after their brains start to develop Alzheimer’s disease, making it harder to diagnose and preventing early treatment",
+    "url": "https://www.newscientist.com/article/2526378-womens-better-memories-may-delay-alzheimers-diagnosis-by-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/21101233/SEI_2978337091.jpg",
+    "source": "New Scientist",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T12:00:38+00:00",
+    "fetched_at": "2026-05-21T17:42:42.189261+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "66fee2b110a3bc6d",
     "title": "New eruption discovered in the Bismarck Sea",
     "description": "It's a truism among oceanographers that there is more accurate mapping of the surface of the moon and Mars than of the deep-ocean floor. That's especially true for the Bismarck Sea, a relatively deep body of water north of Papua New Guinea. It's an ocean basin with a geologically complex seafloor rife with faults, volcanic features, rifts, scarps, and active subduction and spreading zones at depths that make high-resolution sonar mapping challenging.",
     "url": "https://phys.org/news/2026-05-eruption-bismarck-sea.html",
@@ -13,7 +783,19 @@
     "missing_core_fill": true
   },
   {
-    "id": "42fe534267eff596",
+    "id": "537b8c482f332c02",
+    "title": "Scientists discover hidden weakness shared by hundreds of cancer mutations",
+    "description": "Scientists have unveiled a powerful new tool called PerturbFate that could change how researchers tackle diseases driven by huge numbers of genetic mutations, including cancer and Alzheimer’s. Instead of trying to target every faulty gene individually, the system tracks how different mutations reshape cells over time and identifies the hidden “control hubs” where those pathways converge.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260520093726.htm",
+    "image": "https://picsum.photos/seed/wv-news-64b2446306e1/1200/750",
+    "source": "ScienceDaily",
+    "source_id": "src-076",
+    "category": "znanost",
+    "published_at": "2026-05-21T11:52:49+00:00",
+    "fetched_at": "2026-05-21T17:38:50.092502+00:00"
+  },
+  {
+    "id": "92736f601735e99e",
     "title": "Structured lifestyle programs may help slow aging in older adults, study finds",
     "description": "Researchers at Wake Forest University School of Medicine found evidence of slowed aging from lifestyle behaviors like healthy eating and exercise as part of a major clinical trial.",
     "url": "https://medicalxpress.com/news/2026-05-lifestyle-aging-older-adults.html",
@@ -26,7 +808,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "b3cb851202d3ef6b",
+    "id": "3b57eea5e6420e94",
     "title": "The Lancet MedZero: A single platform for carbon data across every product in health care",
     "description": "If health care were a country, it would be the fifth largest carbon emitter on the planet—between the European Union and the Russian Federation, with CO2 emissions in the sector higher than all of aviation and shipping combined.",
     "url": "https://phys.org/news/2026-05-lancet-medzero-platform-carbon-product.html",
@@ -39,7 +821,19 @@
     "missing_core_fill": true
   },
   {
-    "id": "c5fc08096fc06fc6",
+    "id": "58c787a409c897b1",
+    "title": "Scientists discover strange “narwhal” waves that trap light beyond known limits",
+    "description": "Physicists at Peking University have uncovered a new way to confine light far beyond conventional limits — without relying on metals and their inherent energy dissipation. By formulating the singular dispersion equation, the team discovered narwhal-shaped wavefunctions that trap light at deep-subwavelength volumes in purely dielectric materials. The advance, dubbed singulonics, could pave the way for ultra-efficient photonic chips, new quantum technologies, and imaging tools with unprecedented resolution.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260520093803.htm",
+    "image": "https://picsum.photos/seed/wv-news-fdf84541c752/1200/750",
+    "source": "ScienceDaily",
+    "source_id": "src-076",
+    "category": "znanost",
+    "published_at": "2026-05-21T11:22:07+00:00",
+    "fetched_at": "2026-05-21T17:38:50.092140+00:00"
+  },
+  {
+    "id": "a93cf082fb6d136f",
     "title": "Astronomers may have discovered the tiniest odd radio circle",
     "description": "Astronomers have identified a possible new member of one of astronomy's strangest classes of objects: Odd radio circles (ORCs), enormous ring-like structures visible only at radio wavelengths. The newly discovered source, J1248+4826, appears to be the most compact ORC candidate identified so far, with a ring only about 30,000 parsecs across. The paper was posted to the arXiv preprint server on May 6.",
     "url": "https://phys.org/news/2026-05-astronomers-tiniest-odd-radio-circle.html",
@@ -52,7 +846,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "5432812d651fc32b",
+    "id": "a211d0a54398e25d",
     "title": "Do you know how cynical your friends are?",
     "description": "New research from Michigan State University finds that people often project their own levels of cynicism—the belief that people are only interested in themselves and aren't sincere—onto their friends and consistently underestimate their friends' cynicism, which could have implications for maintaining friendships.",
     "url": "https://phys.org/news/2026-05-cynical-friends.html",
@@ -65,7 +859,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "80035587b8575041",
+    "id": "dde21a3ab29f94a7",
     "title": "Rural siblings of people with neurodevelopmental conditions are left to go it alone, study finds",
     "description": "New Curtin University-led research has found siblings of people with neurodevelopmental conditions in regional and remote Australia are struggling with poorer well-being and are more likely to feel overlooked. The study is published in the journal Disability and Rehabilitation.",
     "url": "https://medicalxpress.com/news/2026-05-rural-siblings-people-neurodevelopmental-conditions.html",
@@ -78,7 +872,19 @@
     "missing_core_fill": true
   },
   {
-    "id": "9d93068446820dbb",
+    "id": "2df34ecccf59fa47",
+    "title": "Should I get a dog? What to know about pet ownership as a scientist - Nature",
+    "description": "Should I get a dog? What to know about pet ownership as a scientist Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yRnBTSDNMR0NTTlRSOW50Slh4Nnp5OE9uUWd1WG1qWmQ1SElYTzJlTzl1aV93b3pGTm1uOExJY3llRlI5ZzY3RjFuX0JzVDhZdjBDc1dmcjR3Vlp5aHBr?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-b02b41685ace/1200/750",
+    "source": "Nature Science - Google News",
+    "source_id": "global-extra-022",
+    "category": "znanost",
+    "published_at": "2026-05-21T11:15:58+00:00",
+    "fetched_at": "2026-05-21T17:39:49.234985+00:00"
+  },
+  {
+    "id": "f496ac573f318cc3",
     "title": "SpaceX, the sprawling company targeting the stars, Mars and an IPO",
     "description": "Elon Musk founded SpaceX in 2002 with the lofty goal of ferrying humans to Mars and colonizing Earth's neighboring planet.",
     "url": "https://phys.org/news/2026-05-spacex-sprawling-company-stars-mars.html",
@@ -91,7 +897,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "70123b02e08c5df6",
+    "id": "a178372a9b139c5e",
     "title": "New study shows drinking water filtration systems may add months to lifespan",
     "description": "As more than two billion people worldwide still lack access to safely managed drinking water, new research from the La Follette School of Public Affairs at UW–Madison investigates the effects of early-life exposure to citywide water filtration on longevity in the early 20th century.",
     "url": "https://medicalxpress.com/news/2026-05-filtration-months-lifespan.html",
@@ -104,7 +910,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "19341c3dec165452",
+    "id": "5292cdbc928c0a37",
     "title": "Soil science: How AI could help scientists secure a vital global resource",
     "description": "Soils store carbon, sustain ecosystems, and underpin global food and water systems. A new Frontiers in Science paper details how AI tools can help us adapt soils—and the systems they nurture—to a changing climate.",
     "url": "https://phys.org/news/2026-05-soil-science-ai-scientists-vital.html",
@@ -117,7 +923,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "cfd53993a7633f5f",
+    "id": "2e264e2fc8bb8709",
     "title": "Very fit men may face smaller atrial fibrillation risk than feared, with heart benefits growing over time",
     "description": "A number of previous studies have shown that young male endurance athletes and young men in general with high fitness levels appear to have an increased risk of developing atrial fibrillation later in life compared to non-athletes and those with low fitness levels. But to what extent is this true?",
     "url": "https://medicalxpress.com/news/2026-05-men-smaller-atrial-fibrillation-heart.html",
@@ -130,7 +936,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "30a560ffb8507f6f",
+    "id": "dd3f4aecd82c86db",
     "title": "Developing seed atlas uncovers active genes tied to crop resilience and nutrition",
     "description": "Seeds like wheat, rice, and corn are at the center of the global food supply and provide most of the daily calories consumed worldwide. But despite their importance, scientists still do not fully understand many of the basic biological processes that allow these seeds to grow, transport nutrients, and develop traits that determine crop resiliency.",
     "url": "https://phys.org/news/2026-05-seed-atlas-uncovers-genes-crop.html",
@@ -143,7 +949,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "e4d42951630dd29f",
+    "id": "bd4f80a0487c0275",
     "title": "AI unlocks cardiac MRI reading without manual labels, beating general models by 35%",
     "description": "A team of researchers from Carnegie Mellon University, in collaboration with Cleveland Clinic's Cardiovascular Innovation Research Center, has developed an artificial intelligence (AI) system capable of interpreting some of the most complex heart scans in medicine, cardiac magnetic resonance imaging (MRI), without the need for manually labeled training data.",
     "url": "https://medicalxpress.com/news/2026-05-ai-cardiac-mri-manual-general.html",
@@ -156,7 +962,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "bf0d204ce6e2642e",
+    "id": "204d3a9ffb1faabd",
     "title": "Exercise hormone irisin could offer neuroprotective effects in multiple sclerosis",
     "description": "A new study offers clues as to why exercise can improve neurological symptoms in people with multiple sclerosis (MS). The study, led by investigators from Mass General Brigham and University Medical Center Hamburg-Eppendorf (UKE), examined levels of the exercise hormone irisin in a mouse model of multiple sclerosis.",
     "url": "https://medicalxpress.com/news/2026-05-hormone-irisin-neuroprotective-effects-multiple.html",
@@ -178,11 +984,11 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T09:00:00+00:00",
-    "fetched_at": "2026-05-21T12:03:26.862085+00:00",
+    "fetched_at": "2026-05-21T17:42:41.983601+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "e5f4b4af2db2bff3",
+    "id": "2486fa71b565982e",
     "title": "SpaceX reveals plans for what could be the biggest-ever initial public offering",
     "description": "Elon Musk announced plans Wednesday for one of the biggest stock sales ever by taking public a space company that is currently losing billions of dollars a year.",
     "url": "https://phys.org/news/2026-05-spacex-reveals-biggest.html",
@@ -204,10 +1010,22 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-21T08:37:00+00:00",
-    "fetched_at": "2026-05-21T11:59:26.397671+00:00"
+    "fetched_at": "2026-05-21T17:38:56.977619+00:00"
   },
   {
-    "id": "149049086f98d427",
+    "id": "a6a421eb41771f9d",
+    "title": "Physicists finally solve the strange mystery of “breathing” lasers",
+    "description": "Scientists have finally figured out how mysterious “breather” laser pulses work, solving a puzzle that has frustrated laser physicists for years. These unusual ultrafast lasers produce light pulses that rhythmically grow and shrink instead of staying steady, almost like they’re breathing.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260520093759.htm",
+    "image": "https://picsum.photos/seed/wv-news-df6af8b5e35f/1200/750",
+    "source": "ScienceDaily",
+    "source_id": "src-076",
+    "category": "znanost",
+    "published_at": "2026-05-21T08:28:33+00:00",
+    "fetched_at": "2026-05-21T17:38:50.092212+00:00"
+  },
+  {
+    "id": "790f9f63a63c6f92",
     "title": "SpaceX is about to go public. Here's how it works",
     "description": "Hundreds of companies raised a combined $70 billion by selling shares to the public in the United States last year.",
     "url": "https://phys.org/news/2026-05-spacex.html",
@@ -220,7 +1038,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "9444db129f63dfe9",
+    "id": "53bdfd4f34888fe5",
     "title": "Upgraded SpaceX Starship set for test launch ahead of IPO",
     "description": "Elon Musk's SpaceX is set for the debut launch of its latest Starship iteration on Thursday, testing the most powerful version yet of the megarocket as the company targets a blockbuster initial public offering.",
     "url": "https://phys.org/news/2026-05-spacex-starship-ipo.html",
@@ -233,30 +1051,52 @@
     "missing_core_fill": true
   },
   {
-    "id": "d1a09fa75b96286f",
+    "id": "aad6758ceab16af7",
+    "title": "Jupiter’s lightning may be 100x more powerful than Earth’s",
+    "description": "Jupiter’s storms aren’t just gigantic — they may unleash lightning far more powerful than anything on Earth. Using NASA’s Juno spacecraft, scientists discovered that some lightning bolts on the gas giant could pack up to 100 times the punch of Earth’s lightning, and possibly much more. The findings reveal that Jupiter’s atmosphere works very differently from our own, with massive storms building enormous amounts of energy before erupting in violent flashes across cloud tops towering more than 100 kilometers high.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260520093756.htm",
+    "image": "https://picsum.photos/seed/wv-news-a5e611d8808e/1200/750",
+    "source": "ScienceDaily",
+    "source_id": "src-076",
+    "category": "znanost",
+    "published_at": "2026-05-21T06:46:03+00:00",
+    "fetched_at": "2026-05-21T17:38:50.092296+00:00"
+  },
+  {
+    "id": "d6fcf4425f2db2db",
+    "title": "Scientists discover a strange “inside-out” planetary system that shouldn’t exist",
+    "description": "Scientists have discovered a bizarre planetary system where a rocky world orbits farther out than giant gas planets, defying long-standing theories of planet formation. The finding hints that some planets may form much later than expected — and that our Solar System might not be as typical as we thought.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260520093753.htm",
+    "image": "https://picsum.photos/seed/wv-news-1e0cd1333d74/1200/750",
+    "source": "ScienceDaily",
+    "source_id": "src-076",
+    "category": "znanost",
+    "published_at": "2026-05-21T06:09:31+00:00",
+    "fetched_at": "2026-05-21T17:38:50.092368+00:00"
+  },
+  {
+    "id": "289d7c1125b1470e",
     "title": "Scientists discover the nutrient that can supercharge cellular energy",
     "description": "Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic disease treatments.",
     "url": "https://www.sciencedaily.com/releases/2026/05/260520233221.htm",
-    "image": "https://picsum.photos/seed/wv-fill-04b3c750f76b/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
+    "image": "https://picsum.photos/seed/wv-news-016bfe0ff40d/1200/750",
+    "source": "ScienceDaily",
+    "source_id": "src-076",
     "category": "znanost",
     "published_at": "2026-05-21T05:34:34+00:00",
-    "fetched_at": "2026-05-21T12:03:26.701250+00:00",
-    "missing_core_fill": true
+    "fetched_at": "2026-05-21T17:38:50.091909+00:00"
   },
   {
-    "id": "048436d501e708d8",
+    "id": "6ee351a5911d3097",
     "title": "MIT scientists discover amino acid that helps the gut heal itself",
     "description": "MIT scientists have identified cysteine — an amino acid found in foods like meat, dairy, beans, and nuts — as a potent trigger for intestinal repair. In mice, a cysteine-rich diet activated immune cells that released healing signals, helping stem cells rebuild damaged intestinal tissue after radiation exposure. Researchers say the discovery could eventually lead to new dietary therapies for cancer patients suffering from treatment-related gut damage.",
     "url": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
-    "image": "https://picsum.photos/seed/wv-fill-c2b18f28b202/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
+    "image": "https://picsum.photos/seed/wv-news-7e893c3e8e95/1200/750",
+    "source": "ScienceDaily",
+    "source_id": "src-076",
     "category": "znanost",
     "published_at": "2026-05-21T04:40:33+00:00",
-    "fetched_at": "2026-05-21T12:03:26.701191+00:00",
-    "missing_core_fill": true
+    "fetched_at": "2026-05-21T17:38:50.091823+00:00"
   },
   {
     "id": "6799064bc398402e",
@@ -268,11 +1108,11 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T04:01:00+00:00",
-    "fetched_at": "2026-05-21T12:03:26.862138+00:00",
+    "fetched_at": "2026-05-21T17:42:41.983639+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "e3ab42c70d651d10",
+    "id": "8a881d557ab51c45",
     "title": "Who reports wildlife the most? 300,000 citizen science records uncover participation bias",
     "description": "In recent years, citizen science methodology has gained significant momentum and is becoming increasingly important in large-scale ecological and conservation research. By involving volunteers, it enables a level of spatial and temporal coverage that would often be unattainable within traditional research frameworks.",
     "url": "https://phys.org/news/2026-05-wildlife-citizen-science-uncover-bias.html",
@@ -285,7 +1125,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "35e1898de0cae0f2",
+    "id": "79deec5310ac3d0a",
     "title": "Capturing an elusive step in molecular sandwich making",
     "description": "Since their discovery in the 1950s, metallocenes—chemical compounds where a metal atom sits \"sandwiched\" between two carbon rings—have been at the heart of organometallic chemistry research, finding applications in catalysis, materials design, energy, sensing, drug delivery and more. Yet knowledge of their formation has been limited, due to the transient nature of their unstable intermediates.",
     "url": "https://phys.org/news/2026-05-capturing-elusive-molecular-sandwich.html",
@@ -298,7 +1138,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "4e029815f5184ddd",
+    "id": "b4a69fff952c08c7",
     "title": "Adding a lower cutoff value for CA19-9 may identify additional high-risk cases of pancreatic cancer",
     "description": "A dual-threshold model for measuring the pancreatic tumor marker serum carbohydrate antigen 19-9 (CA19-9) identified patients with pancreatic cancer who had high-risk disease despite having low CA19-9 levels because of a genetic variation that impairs their ability to produce this biomarker.",
     "url": "https://medicalxpress.com/news/2026-05-adding-cutoff-ca19-additional-high.html",
@@ -320,7 +1160,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-21T03:55:27+00:00",
-    "fetched_at": "2026-05-21T11:59:26.786475+00:00"
+    "fetched_at": "2026-05-21T17:38:57.412793+00:00"
   },
   {
     "id": "90b7f4b54279a884",
@@ -332,10 +1172,10 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-21T03:43:12+00:00",
-    "fetched_at": "2026-05-21T11:59:26.786590+00:00"
+    "fetched_at": "2026-05-21T17:38:57.412896+00:00"
   },
   {
-    "id": "f732f488043c691e",
+    "id": "fec3f0f0b3415122",
     "title": "A report calls for the urgent transformation of the humanitarian system",
     "description": "Presented on May 20 in Geneva, the CHH-Lancet Commission report on health, conflict and forced displacement, co-chaired by the University of Geneva's Center for Humanitarian Studies, reveals that more than one-third of people in need receive no assistance.",
     "url": "https://medicalxpress.com/news/2026-05-urgent-humanitarian.html",
@@ -357,23 +1197,22 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-21T03:15:24+00:00",
-    "fetched_at": "2026-05-21T11:59:26.786678+00:00"
+    "fetched_at": "2026-05-21T17:38:57.412984+00:00"
   },
   {
-    "id": "fd3893915c525f7f",
+    "id": "f5e5a5ea14cc9ab5",
     "title": "UNESCO warns a tsunami in the Mediterranean is inevitable",
     "description": "The French Riviera may look like an unlikely place for a tsunami disaster, but scientists warn the threat is far more real than most people realize. Historical events and new modeling show that destructive waves have already struck the Mediterranean coast — and could hit again with very little warning. Some tsunami scenarios could reach beaches in under 10 minutes, leaving almost no time for traditional alerts.",
     "url": "https://www.sciencedaily.com/releases/2026/05/260520093719.htm",
-    "image": "https://picsum.photos/seed/wv-fill-3dfa6a723d05/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
+    "image": "https://picsum.photos/seed/wv-news-8c30d9c47fcf/1200/750",
+    "source": "ScienceDaily",
+    "source_id": "src-076",
     "category": "znanost",
     "published_at": "2026-05-21T03:14:18+00:00",
-    "fetched_at": "2026-05-21T12:03:26.701312+00:00",
-    "missing_core_fill": true
+    "fetched_at": "2026-05-21T17:38:50.092571+00:00"
   },
   {
-    "id": "e4e0b6fcf721fdf9",
+    "id": "7b84b53acfc65321",
     "title": "New evapotranspiration method could recover up to 30% missing tower energy",
     "description": "Evapotranspiration is a critical link between water, energy, and carbon. Scientists need to understand it well to accurately predict weather, droughts, streamflows, and even carbon emissions.",
     "url": "https://phys.org/news/2026-05-evapotranspiration-method-recover-tower-energy.html",
@@ -386,20 +1225,19 @@
     "missing_core_fill": true
   },
   {
-    "id": "9c0f9e1a038e089a",
+    "id": "45b0d141be22539a",
     "title": "Scientists solve 320-million-year mystery of reptile bone armor",
     "description": "Reptiles have been growing armor in their skin on and off for hundreds of millions of years, but scientists never fully understood how it evolved. A massive new evolutionary study shows these skin bones appeared independently in multiple lizard groups rather than coming from a single armored ancestor. Even more astonishing, Australian goannas lost this armor long ago — then evolved it back again millions of years later.",
     "url": "https://www.sciencedaily.com/releases/2026/05/260520093709.htm",
-    "image": "https://picsum.photos/seed/wv-fill-48aae670dad4/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
+    "image": "https://picsum.photos/seed/wv-news-adb3ddcf104f/1200/750",
+    "source": "ScienceDaily",
+    "source_id": "src-076",
     "category": "znanost",
     "published_at": "2026-05-21T02:48:04+00:00",
-    "fetched_at": "2026-05-21T12:03:26.701364+00:00",
-    "missing_core_fill": true
+    "fetched_at": "2026-05-21T17:38:50.092640+00:00"
   },
   {
-    "id": "a04c7e1c0aabb146",
+    "id": "d7b0bd065b710bcb",
     "title": "New quantum sensor could count individual photons and hunt dark matter",
     "description": "Researchers have built an ultra-sensitive sensor capable of detecting unimaginably small amounts of energy — below one zeptojoule. The breakthrough relies on fragile superconducting materials that react to even the slightest temperature change. This level of precision could improve quantum computers, enable photon counting, and even help scientists detect elusive dark matter particles from space.",
     "url": "https://www.sciencedaily.com/releases/2026/05/260520093654.htm",
@@ -412,7 +1250,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "ba890443ef52d23b",
+    "id": "4d271f10a516f03c",
     "title": "Can supplements containing NMN, NAD+ and resveratrol really slow aging? Here's what the evidence says",
     "description": "As more people look for ways to stay younger for longer, the supplement industry has moved beyond creams and cosmetic fixes to something more ambitious: products that claim to slow aging by acting on cellular processes.",
     "url": "https://medicalxpress.com/news/2026-05-supplements-nmn-nad-resveratrol-aging.html",
@@ -434,10 +1272,10 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-21T01:48:54+00:00",
-    "fetched_at": "2026-05-21T11:59:26.786777+00:00"
+    "fetched_at": "2026-05-21T17:38:57.413077+00:00"
   },
   {
-    "id": "2f5894e46a44247b",
+    "id": "f99a971ab3ddd558",
     "title": "Eroding ACA enrollment portends higher insurance rates",
     "description": "Enrollment in the Affordable Care Act continues to erode as some customers struggle to make premium payments, with the declining numbers churning market uncertainty for insurers. In response, insurers are likely to raise rates again next year, following this year's larger-than-typical hikes.",
     "url": "https://medicalxpress.com/news/2026-05-eroding-aca-enrollment-portends-higher.html",
@@ -450,7 +1288,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "5898b9ed13a6a1d2",
+    "id": "63d74addcf096102",
     "title": "Study finds key traits of condom 'stealthers'",
     "description": "Men with a strong sense of entitlement are three times more likely to commit \"stealthing\" during sex, according to a new University of the Sunshine Coast study. Stealthing, which has been criminalized in most Australian states over the past five years, is a form of sexual violence that involves the removal of a condom before or during sex without a partner's knowledge or consent.",
     "url": "https://phys.org/news/2026-05-key-traits-condom-stealthers.html",
@@ -472,7 +1310,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-21T01:12:11+00:00",
-    "fetched_at": "2026-05-21T11:59:26.786856+00:00"
+    "fetched_at": "2026-05-21T17:38:57.413154+00:00"
   },
   {
     "id": "995af3779c63f3e6",
@@ -484,7 +1322,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-21T01:11:30+00:00",
-    "fetched_at": "2026-05-21T11:59:26.786952+00:00"
+    "fetched_at": "2026-05-21T17:38:57.413252+00:00"
   },
   {
     "id": "0d3bf6dc6d2b5974",
@@ -496,7 +1334,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-21T01:10:16+00:00",
-    "fetched_at": "2026-05-21T11:59:26.787035+00:00"
+    "fetched_at": "2026-05-21T17:38:57.413337+00:00"
   },
   {
     "id": "902a9b2f3c41236f",
@@ -511,7 +1349,7 @@
     "fetched_at": "2026-05-21T11:59:26.787148+00:00"
   },
   {
-    "id": "0033936268a8281f",
+    "id": "5f44a1ae4906a7e4",
     "title": "Rollback of PFAS drinking water standards raises safety fears",
     "description": "The U.S. Environmental Protection Agency (EPA) said Monday it wants to roll back some regulations on \"forever chemicals\" in drinking water put into place in 2024.",
     "url": "https://medicalxpress.com/news/2026-05-rollback-pfas-standards-safety.html",
@@ -524,7 +1362,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "a27a41529e5cc1a3",
+    "id": "2bbf2a8bb7f509b4",
     "title": "Quantum sensors use atoms, electrons and light as ultra‑steady rulers",
     "description": "Quantum computers get a lot of attention, even though they are not ready for prime time, but quantum sensors are already doing useful work. These sensors measure fields, forces and motion so small that ordinary background noise can drown them out. Some sensors are already in daily use, while others are moving from research labs into flight tests, hospitals and field instruments.",
     "url": "https://phys.org/news/2026-05-quantum-sensors-atoms-electrons-ultrasteady.html",
@@ -537,7 +1375,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "0aee785deb06b8a1",
+    "id": "4da73793f70cde61",
     "title": "Self-reported family history underestimates heart attacks among close relatives",
     "description": "A new study from Karolinska Institutet shows that people's own reports of heart attacks in the family only partially correspond with register data. The findings suggest that heart attacks among relatives are often underreported, particularly for events occurring early in life. The results, published in European Journal of Epidemiology, show that the agreement between self-reported data and register data was only moderate.",
     "url": "https://medicalxpress.com/news/2026-05-family-history-underestimates-heart.html",
@@ -562,7 +1400,7 @@
     "fetched_at": "2026-05-21T11:59:26.787237+00:00"
   },
   {
-    "id": "3513077e55d91d1b",
+    "id": "f4704a0b35ab93c3",
     "title": "Early birth safer for mother and baby in high blood pressure pregnancies, researchers find",
     "description": "Planned early birth for pregnant women with high blood pressure cuts maternal complications by nearly half and reduces the risk of stillbirth, without increasing the likelihood of cesarean section, according to data published in the Cochrane Database of Systematic Reviews.",
     "url": "https://medicalxpress.com/news/2026-05-early-birth-safer-mother-baby.html",
@@ -575,7 +1413,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "92e3db665cd86dfe",
+    "id": "c37147840eb7c528",
     "title": "Study finds substandard bowel cancer care for people with learning disability",
     "description": "People with a learning disability are at higher risk of developing bowel cancer, yet face significant barriers at nearly every stage of the care pathway, University of Manchester and Christie NHS Foundation Trust have found. The population-based study of more than 2 million people showed individuals with an intellectual disability are more likely to develop bowel cancer, especially before the age of 50. The study is published in BMC Medicine.",
     "url": "https://medicalxpress.com/news/2026-05-substandard-bowel-cancer-people-disability.html",
@@ -588,7 +1426,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "d67fe6464151ab47",
+    "id": "70baceffe993eae3",
     "title": "New research offers practical biosecurity tools to limit poultry disease spread",
     "description": "New research from a Texas A&M College of Agriculture and Life Sciences doctoral graduate could help producers better protect poultry flocks from disease outbreaks while reducing costs.",
     "url": "https://phys.org/news/2026-05-biosecurity-tools-limit-poultry-disease.html",
@@ -601,7 +1439,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "fb1855adb28a573f",
+    "id": "9390b8132d88041e",
     "title": "Reusable catheters are a safe choice that could cut antibiotic use and NHS costs",
     "description": "Reusable catheters are just as safe for patients as single-use ones and do not increase the risk of urinary tract infections, a new study has found.",
     "url": "https://medicalxpress.com/news/2026-05-reusable-catheters-safe-choice-antibiotic.html",
@@ -623,10 +1461,10 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-20T23:01:00+00:00",
-    "fetched_at": "2026-05-21T11:59:26.639980+00:00"
+    "fetched_at": "2026-05-21T17:38:57.210958+00:00"
   },
   {
-    "id": "1b3a704b94184323",
+    "id": "0bd25300402aa1ad",
     "title": "Friend or foul? Exploring the ancient bond between pigeons and people",
     "description": "Examination of pigeon bones from Late Bronze Age Hala Sultan Tekke, Cyprus indicates they were already semi-domesticated as early as c. 1400 BCE, pushing back direct evidence for pigeon domestication almost 1,000 years and challenging perceptions of the birds as opportunistic urban pests.",
     "url": "https://phys.org/news/2026-05-friend-foul-exploring-ancient-bond.html",
@@ -639,7 +1477,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "83656ebce6e44f23",
+    "id": "5b76e1604bbebd6c",
     "title": "Common food preservatives linked to high blood pressure and heart disease",
     "description": "Eating foods that contain common preservative food additives may increase the risks of high blood pressure and cardiovascular disease, according to research published in the European Heart Journal.",
     "url": "https://medicalxpress.com/news/2026-05-common-food-linked-high-blood.html",
@@ -661,10 +1499,10 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-20T22:59:44+00:00",
-    "fetched_at": "2026-05-21T12:00:13.213339+00:00"
+    "fetched_at": "2026-05-21T17:39:49.235627+00:00"
   },
   {
-    "id": "e444deaec90d3bfc",
+    "id": "422eba5bdaf6b22d",
     "title": "US government is using AI more, but hiring gaps and risk culture still slow progress",
     "description": "As is every large organization, the U.S. government is assessing how to best integrate artificial intelligence into its procedures and workflows. While AI has undeniable risks, it also has the potential to make work significantly more efficient and effective in a broad range of ways, from automating simpler tasks to unearthing unexpected insights.",
     "url": "https://phys.org/news/2026-05-ai-hiring-gaps-culture.html",
@@ -677,7 +1515,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "d780b5160375bb0a",
+    "id": "644547b69c5d47d1",
     "title": "Why some anti-vaping campaigns miss the mark",
     "description": "Vaping education campaigns in Australia may be missing key opportunities to support behavior change, University of Queensland research has found. The paper is published in the journal Tobacco Control.",
     "url": "https://medicalxpress.com/news/2026-05-anti-vaping-campaigns.html",
@@ -690,7 +1528,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "1d673820142e9b00",
+    "id": "9759f83d13425a53",
     "title": "Calcium and vitamin D supplements offer little to no meaningful benefit on fracture, fall prevention, review concludes",
     "description": "Calcium, vitamin D, or combined supplements offer little to no clinically meaningful benefit for fracture and fall prevention in most older people, finds an in-depth review of the latest evidence published by The BMJ.",
     "url": "https://medicalxpress.com/news/2026-05-calcium-vitamin-d-supplements-meaningful.html",
@@ -703,7 +1541,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "81541f3a95e245ac",
+    "id": "95bafc7b92710dd7",
     "title": "Health care is facing a moral emergency, argue experts",
     "description": "Health care has lost its human, moral, and relational foundations and must reconnect with its core values to improve both patient and staff well-being, argue experts in The BMJ. Despite unprecedented advances in diagnostic precision, therapeutic capability, and computational power, a deep paradox exists, say authors Don Berwick, Maureen Bisognano and Bob Klaber.",
     "url": "https://medicalxpress.com/news/2026-05-health-moral-emergency-experts.html",
@@ -716,7 +1554,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "4d25fc1541c2c906",
+    "id": "2e5d1f47e7b42a34",
     "title": "China's health care use has not fully recovered after Zero-COVID policy, with rural regions lagging most",
     "description": "A PLOS Medicine analysis led by Fred Hutch Cancer Center researchers quantified the enduring impact that China's health policies during the COVID-19 pandemic had on overall health care utilization. As the first country to report COVID-19 cases and implement infection control measures, and among the last to lift such policies, China's experience presented a unique opportunity to study the relationship between public health measures and health care access.",
     "url": "https://medicalxpress.com/news/2026-05-china-health-fully-recovered-covid.html",
@@ -729,7 +1567,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "443f10a54b408a25",
+    "id": "a1d55f9542e02376",
     "title": "New RNA tool maps structure and motifs across organisms and viruses",
     "description": "Researchers at the University of Würzburg have unveiled a new tool for analyzing RNA molecules. It visualizes their structures as interactive maps and could help to improve our understanding of diseases.",
     "url": "https://phys.org/news/2026-05-rna-tool-motifs-viruses.html",
@@ -754,7 +1592,7 @@
     "fetched_at": "2026-05-21T11:59:26.787323+00:00"
   },
   {
-    "id": "8b3d282ad6882d9f",
+    "id": "ce3445bb86ac9bda",
     "title": "AI tool fuses five satellite datasets to help track harmful algal blooms",
     "description": "NASA scientists have developed an artificial intelligence tool to take on a longstanding challenge in ocean waters. In a study recently published in the Earth and Space Science journal, researchers reported the tool was able to fuse data from multiple satellites and detect harmful algal blooms that occurred in western Florida and Southern California.",
     "url": "https://phys.org/news/2026-05-ai-tool-fuses-satellite-datasets.html",
@@ -767,7 +1605,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "c6e00562992c0560",
+    "id": "1ee93234402abd7c",
     "title": "Disability inclusion in advertising can build stronger brand affinity",
     "description": "Adverts that feature people with a disability greatly enhance consumer attitudes towards brands and their products, according to new research co-authored by Bayes Business School that also shows the effectiveness of diversity regulations and the benefits of compliance. The paper, \"Beyond Visibility: The Disability Inclusion Effect in Advertising\" is published in the Journal of Marketing.",
     "url": "https://phys.org/news/2026-05-disability-inclusion-advertising-stronger-brand.html",
@@ -780,7 +1618,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "bbbd1d13efd4b1ab",
+    "id": "0e6c773b0e415dda",
     "title": "China's cleaner air cuts PM2.5, but dementia deaths still rise with aging",
     "description": "In a recent study from Peking University Health Science Center, doctoral student Kang Ning and colleagues found that air pollution reductions alone cannot offset the impact of rapid population aging on dementia deaths in China. The study has been published in The Lancet Healthy Longevity.",
     "url": "https://medicalxpress.com/news/2026-05-china-cleaner-air-pm25-dementia.html",
@@ -793,16 +1631,40 @@
     "missing_core_fill": true
   },
   {
+    "id": "2eb8dc65ed48d8c3",
+    "title": "De novo design of miniproteins targeting GPCRs",
+    "description": "Nature, Published online: 21 May 2026; doi:10.1038/s41586-026-10656-8 De novo design of miniproteins targeting GPCRs",
+    "url": "https://www.nature.com/articles/s41586-026-10656-8",
+    "image": "https://picsum.photos/seed/wv-news-7dbc46b36fed/1200/750",
+    "source": "Nature News",
+    "source_id": "src-083",
+    "category": "znanost",
+    "published_at": "2026-05-20T22:00:00+00:00",
+    "fetched_at": "2026-05-21T17:38:56.290662+00:00"
+  },
+  {
     "id": "0bec060f1bc971bc",
     "title": "A star gone rogue tears through the Galaxy",
-    "description": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01591-9 The black hole at the Milky Way’s centre catapulted a Sun-like star to 'hypervelocity' speed.",
+    "description": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01591-9 The black hole at the Milky Way’s centre catapulted a Sun-like star to ‘hypervelocity’ speed.",
     "url": "https://www.nature.com/articles/d41586-026-01591-9",
     "image": "https://picsum.photos/seed/wv-news-761a758dc29f/1200/750",
     "source": "Nature News",
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-20T22:00:00+00:00",
-    "fetched_at": "2026-05-21T11:59:25.740009+00:00"
+    "fetched_at": "2026-05-21T17:38:56.290791+00:00"
+  },
+  {
+    "id": "6b3360f53b19fd30",
+    "title": "Ebola outbreak spirals out of control: how might it have started?",
+    "description": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01645-y Public-health researcher James Baguma has studied the interactions between bats, which can carry the virus, and people in the region near the latest epidemic.",
+    "url": "https://www.nature.com/articles/d41586-026-01645-y",
+    "image": "https://picsum.photos/seed/wv-news-fa5a5a330430/1200/750",
+    "source": "Nature News",
+    "source_id": "src-083",
+    "category": "znanost",
+    "published_at": "2026-05-20T22:00:00+00:00",
+    "fetched_at": "2026-05-21T17:38:56.290864+00:00"
   },
   {
     "id": "a5669d9ebf065206",
@@ -814,10 +1676,34 @@
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-20T22:00:00+00:00",
-    "fetched_at": "2026-05-21T11:59:25.740113+00:00"
+    "fetched_at": "2026-05-21T17:38:56.290937+00:00"
   },
   {
-    "id": "924a8f3b605280db",
+    "id": "55b5dbeaaec46c97",
+    "title": "Will this Ebola outbreak be the biggest yet?",
+    "description": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01646-x The size of the outbreak in its initial days is worrying researchers. The next few weeks will determine how large it grows, they say.",
+    "url": "https://www.nature.com/articles/d41586-026-01646-x",
+    "image": "https://picsum.photos/seed/wv-news-519ea461f3c7/1200/750",
+    "source": "Nature News",
+    "source_id": "src-083",
+    "category": "znanost",
+    "published_at": "2026-05-20T22:00:00+00:00",
+    "fetched_at": "2026-05-21T17:38:56.291003+00:00"
+  },
+  {
+    "id": "cc9d05607bcf5669",
+    "title": "How we’re using AI tools to improve psychedelic-drug research",
+    "description": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01467-y Félix Schoeller’s team built a realistic artificial-intelligence chatbot to train facilitators needed for research into psychoactive drugs — and, ultimately, to improve public health.",
+    "url": "https://www.nature.com/articles/d41586-026-01467-y",
+    "image": "https://picsum.photos/seed/wv-news-8f90f2652d3d/1200/750",
+    "source": "Nature News",
+    "source_id": "src-083",
+    "category": "znanost",
+    "published_at": "2026-05-20T22:00:00+00:00",
+    "fetched_at": "2026-05-21T17:38:56.291081+00:00"
+  },
+  {
+    "id": "af8cc9b77665092e",
     "title": "Better helium reporting to improve fission and fusion materials modeling",
     "description": "Standardizing calculations of the helium byproducts generated in advanced fission and fusion energy system materials can increase reactor safety and longevity, according to a study led by University of Michigan Engineering with collaborators at Oak Ridge National Laboratory and its management contractor UT-Battelle.",
     "url": "https://phys.org/news/2026-05-helium-fission-fusion-materials.html",
@@ -830,7 +1716,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "b766c8a38d9654ee",
+    "id": "5640d49c35dbe5c6",
     "title": "Rewiring early life: What extremely preterm birth teaches us about the brain",
     "description": "Extremely preterm birth (before 28 weeks of gestation) places infants into the world at one of the most extraordinary moments in human development. The brain at this stage is not simply growing; it is folding, organizing, and laying down the networks that will eventually support language, memory, attention, and learning. It is doing all of this in the dark, in the warmth, protected. When birth happens this early, all conditions change in an instant.",
     "url": "https://medicalxpress.com/news/2026-05-rewiring-early-life-extremely-preterm.html",
@@ -843,7 +1729,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "232ca4f4ee17f510",
+    "id": "204a1b3d5dd854f1",
     "title": "Young Fraser River Chinook salmon swimming in 'chemical soup,' study finds",
     "description": "Juvenile Chinook salmon in the Lower Fraser River estuary are feeding and growing in a slurry of contaminants from pharmaceuticals, personal care products to industrial chemicals, according to a new Simon Fraser University study.",
     "url": "https://phys.org/news/2026-05-young-fraser-river-chinook-salmon.html",
@@ -856,7 +1742,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "492fcf1837eb3875",
+    "id": "26a73d2d10b8ebe5",
     "title": "Why does ALS pathology spread differently among patients?",
     "description": "A research team at the Brain Research Institute, Niigata University has found that APOE ε4, a genetic factor best known for increasing the risk of Alzheimer's disease, may also influence how pathological changes spread in amyotrophic lateral sclerosis (ALS). The findings were published in Acta Neuropathologica.",
     "url": "https://medicalxpress.com/news/2026-05-als-pathology-differently-patients.html",
@@ -869,7 +1755,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "b9ecb886da7d0e18",
+    "id": "3acf4b6c2a4ecd75",
     "title": "Optoelectronic synapse shows exceptional photoresponse for neuromorphic vision",
     "description": "Like so much else in nature, the human visual system has both a complex structure and functional efficiency that is difficult for scientists to replicate. The system is both a sensor and a processor, with the eyes and the brain working together to resolve images with less energy use than anything people have invented.",
     "url": "https://phys.org/news/2026-05-optoelectronic-synapse-exceptional-photoresponse-neuromorphic.html",
@@ -882,7 +1768,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "b058007071cf2188",
+    "id": "3493682d9956b070",
     "title": "Cardiac organoids show potential for myocardial repair after infarction",
     "description": "Myocardial infarction remains one of the leading causes of death worldwide. Following an infarction, part of the heart muscle is irreversibly damaged and replaced by scar tissue, which, while structurally necessary, compromises cardiac function and may lead to chronic heart failure.",
     "url": "https://medicalxpress.com/news/2026-05-cardiac-organoids-potential-myocardial-infarction.html",
@@ -917,7 +1803,7 @@
     "source_id": "global-extra-024",
     "category": "znanost",
     "published_at": "2026-05-20T21:08:33+00:00",
-    "fetched_at": "2026-05-21T12:00:14.259795+00:00"
+    "fetched_at": "2026-05-21T17:39:50.330739+00:00"
   },
   {
     "id": "68024fcc88a59c42",
@@ -974,14 +1860,14 @@
   {
     "id": "0dcb9010870e7703",
     "title": "NASA Announces Winners in University Aeronautics Competition",
-    "description": "The South Dakota State University team took first place at NASA’s fifth annual Gateways to Blue Skies Competition, which challenged student teams to address a critical element of U.S. aviation: aircraft maintenance. This year’s competition, RepAir: Advancing Aircraft Maintenance, asked teams of postsecondary students to develop innovative systems and practices that could advance commercial aircraft […]",
+    "description": "A South Dakota State University team took first place at NASA’s fifth annual Gateways to Blue Skies Competition, which challenged student teams to address a critical element of U.S. aviation: aircraft maintenance. This year’s competition, RepAir: Advancing Aircraft Maintenance, asked teams of postsecondary students to develop innovative systems and practices that could advance commercial aircraft maintenance […]",
     "url": "https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/",
     "image": "https://picsum.photos/seed/wv-fill-8b589a4788f8/1200/750",
     "source": "NASA Breaking News",
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T20:48:01+00:00",
-    "fetched_at": "2026-05-21T12:03:26.862213+00:00",
+    "fetched_at": "2026-05-21T17:42:41.983697+00:00",
     "missing_core_fill": true
   },
   {
@@ -1293,7 +2179,7 @@
     "source_id": "global-extra-024",
     "category": "znanost",
     "published_at": "2026-05-20T19:09:30+00:00",
-    "fetched_at": "2026-05-21T12:00:14.258903+00:00"
+    "fetched_at": "2026-05-21T17:39:50.329874+00:00"
   },
   {
     "id": "423a3e9da3234055",
@@ -1305,7 +2191,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T19:08:50+00:00",
-    "fetched_at": "2026-05-21T12:03:26.862280+00:00",
+    "fetched_at": "2026-05-21T17:42:41.983782+00:00",
     "missing_core_fill": true
   },
   {
@@ -1318,7 +2204,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T19:02:18+00:00",
-    "fetched_at": "2026-05-21T12:03:26.862348+00:00",
+    "fetched_at": "2026-05-21T17:42:41.983847+00:00",
     "missing_core_fill": true
   },
   {
@@ -1331,7 +2217,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T19:00:46+00:00",
-    "fetched_at": "2026-05-21T12:03:27.064046+00:00",
+    "fetched_at": "2026-05-21T17:42:42.189448+00:00",
     "missing_core_fill": true
   },
   {
@@ -1526,7 +2412,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T18:00:42+00:00",
-    "fetched_at": "2026-05-21T12:03:27.064124+00:00",
+    "fetched_at": "2026-05-21T17:42:42.189501+00:00",
     "missing_core_fill": true
   },
   {
@@ -1656,7 +2542,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T18:00:00+00:00",
-    "fetched_at": "2026-05-21T12:03:27.063904+00:00",
+    "fetched_at": "2026-05-21T17:42:42.189328+00:00",
     "missing_core_fill": true
   },
   {
@@ -1669,7 +2555,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T18:00:00+00:00",
-    "fetched_at": "2026-05-21T12:03:27.063980+00:00",
+    "fetched_at": "2026-05-21T17:42:42.189391+00:00",
     "missing_core_fill": true
   },
   {
@@ -1682,7 +2568,7 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-20T18:00:00+00:00",
-    "fetched_at": "2026-05-21T12:00:13.704349+00:00"
+    "fetched_at": "2026-05-21T17:39:49.764719+00:00"
   },
   {
     "id": "ba81097b1498017b",
@@ -1694,7 +2580,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T17:51:10+00:00",
-    "fetched_at": "2026-05-21T12:03:26.862410+00:00",
+    "fetched_at": "2026-05-21T17:42:41.983902+00:00",
     "missing_core_fill": true
   },
   {
@@ -1772,7 +2658,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T17:39:10+00:00",
-    "fetched_at": "2026-05-21T12:03:26.862465+00:00",
+    "fetched_at": "2026-05-21T17:42:41.983956+00:00",
     "missing_core_fill": true
   },
   {
@@ -1863,11 +2749,11 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T17:13:56+00:00",
-    "fetched_at": "2026-05-21T12:03:26.862517+00:00",
+    "fetched_at": "2026-05-21T17:42:41.984010+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "554e20d4223687a3",
+    "id": "bf2451f9032df62d",
     "title": "NASA Releases Technology Priorities to Energize Space Industry",
     "description": "NASA released the 2026 Civil Space Shortfall Ranking list on Wednesday, which integrates more than 400 responses from stakeholders including industry organizations, government agencies, and academia. Shortfalls refer to technology areas requiring further development to meet future exploration, science, and other mission needs. The goal of this document is to rank the space community’s most pervasive shortfalls to […]",
     "url": "https://www.nasa.gov/technology/nasa-releases-technology-priorities-to-energize-space-industry/",
@@ -1906,7 +2792,20 @@
     "missing_core_fill": true
   },
   {
-    "id": "c46d734146538978",
+    "id": "161baf894fdb6a97",
+    "title": "Putting CO2 into rocks and getting hydrogen out is climate double win",
+    "description": "Storing carbon dioxide in rocks while producing hydrogen from them - and perhaps even geothermal power too - could be a double win on the climate front, and several groups are trying to make it happen",
+    "url": "https://www.newscientist.com/article/2527336-putting-co2-into-rocks-and-getting-hydrogen-out-is-climate-double-win/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/20180241/SEI_298186375.jpg",
+    "source": "New Scientist",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-20T17:00:32+00:00",
+    "fetched_at": "2026-05-21T17:42:42.189555+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "5d20f98cb1d69807",
     "title": "We could generate hydrogen from rocks while storing CO2 in them",
     "description": "Storing carbon dioxide in rocks while producing hydrogen from them - and perhaps even geothermal power too - could be a double win on the climate front, and several groups are trying to make it happen",
     "url": "https://www.newscientist.com/article/2527336-we-could-generate-hydrogen-from-rocks-while-storing-co2-in-them/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
@@ -1954,7 +2853,7 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-20T17:00:00+00:00",
-    "fetched_at": "2026-05-21T12:00:13.704803+00:00"
+    "fetched_at": "2026-05-21T17:39:49.765283+00:00"
   },
   {
     "id": "3c2ee8e32479cb3a",
@@ -2005,7 +2904,7 @@
     "source_id": "global-extra-024",
     "category": "znanost",
     "published_at": "2026-05-20T15:57:11+00:00",
-    "fetched_at": "2026-05-21T12:00:14.258798+00:00"
+    "fetched_at": "2026-05-21T17:39:50.329768+00:00"
   },
   {
     "id": "9960e5b9d12d7ba1",
@@ -2041,7 +2940,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-20T15:30:00+00:00",
-    "fetched_at": "2026-05-21T11:59:25.122882+00:00"
+    "fetched_at": "2026-05-21T17:38:55.850705+00:00"
   },
   {
     "id": "2f62eb29df2d1c3c",
@@ -2065,10 +2964,10 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-20T15:00:00+00:00",
-    "fetched_at": "2026-05-21T12:00:13.704730+00:00"
+    "fetched_at": "2026-05-21T17:39:49.765047+00:00"
   },
   {
-    "id": "3e6e873fa72d1bee",
+    "id": "26ce653d59d87051",
     "title": "I Am Artemis: Tim Goddard",
     "description": "Listen to this audio excerpt from Tim Goddard, NASA open water lead: At the end of their mission around the Moon, NASA’s Artemis II astronauts were recovered from their Orion spacecraft by a team of U.S. Navy divers and NASA personnel. This included Tim Goddard, NASA open water lead, who helped guide the complex open […]",
     "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tim-goddard/",
@@ -2102,7 +3001,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-20T14:47:09+00:00",
-    "fetched_at": "2026-05-21T12:00:13.213996+00:00"
+    "fetched_at": "2026-05-21T17:39:49.234906+00:00"
   },
   {
     "id": "e74f91db74f91ed9",
@@ -2114,671 +3013,6 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-20T14:16:25+00:00",
-    "fetched_at": "2026-05-21T11:59:26.640091+00:00"
-  },
-  {
-    "id": "182b48ef0dd56145",
-    "title": "The Selfish Gene at 50: Why Dawkins’s evolution classic still holds up",
-    "description": "When Richard Dawkins’s first blockbuster book was published half a century ago, few genes had ever been sequenced or studied in detail. Yet the book’s gene-centred view of evolution still has much to teach us in today’s genetic age",
-    "url": "https://www.newscientist.com/article/2525646-the-selfish-gene-at-50-why-dawkinss-evolution-classic-still-holds-up/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/08120707/SEI_296155546.jpg",
-    "source": "New Scientist",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T14:00:33+00:00",
-    "fetched_at": "2026-05-21T12:03:27.064241+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "dd9db9c947aa1d84",
-    "title": "Intoxicating and astonishing: Why 'The Selfish Gene' almost never was",
-    "description": "Fifty years ago, a draft of Richard Dawkins’s first book landed on book editor Michael Rodgers’s desk – and life was never the same",
-    "url": "https://www.newscientist.com/article/2525708-intoxicating-and-astonishing-why-the-selfish-gene-almost-never-was/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/08120247/SEI_296155098.jpg",
-    "source": "New Scientist",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T14:00:25+00:00",
-    "fetched_at": "2026-05-21T12:03:27.064293+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "7b7e62296a99bb17",
-    "title": "After news about Oliver Sacks's \"lies\", we revisit his best-loved book",
-    "description": "Last year, The New Yorker revealed the late Sacks's \"guilt\" about his “falsification” in The Man Who Mistook His Wife For A Hat, but is this story about more than just the facts?",
-    "url": "https://www.newscientist.com/article/2527332-after-news-about-oliver-sackss-lies-we-revisit-his-best-loved-book/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/20121521/sei298136704.jpg",
-    "source": "New Scientist",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T14:00:05+00:00",
-    "fetched_at": "2026-05-21T12:03:27.064347+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "829a6404397c2368",
-    "title": "Immune surveillance and microbial escape in the aging host: Why does the microbiome lose its balance?",
-    "description": "by Siqi Liu, Flávio Silva Costa, Dario Riccardo Valenzano Host-associated microbiomes are compositionally stable across most of the life span, yet undergo consistent and marked deterioration during aging, a phenomenon linked to metabolic dysfunction and disease. What drives this late-life collapse remains poorly understood, in part because the mechanisms by which hosts actively construct and maintain the microbial niche during adulthood remain incompletely characterized. This Unsolved Mystery integrates evidence from immunology and ecosystem ecology to investigate the role of immunosenescence in age-associated dysbiosis, raising the possibility of interventions that restore immune surveillance capacity alongside ecologically informed microbiome management, rather than targeting community composition in isolation.",
-    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003815",
-    "image": "https://picsum.photos/seed/wv-news-37d1f7af4e09/1200/750",
-    "source": "PLOS Biology",
-    "source_id": "src-084",
-    "category": "znanost",
-    "published_at": "2026-05-20T14:00:00+00:00",
-    "fetched_at": "2026-05-21T11:59:25.979337+00:00"
-  },
-  {
-    "id": "1f0a8ae33462c2a6",
-    "title": "Environmental redox conditions and strain variation define phenazine-mediated antagonism in co-infecting bacteria",
-    "description": "by Katlyn Todd, Olivia Schneider, Joshua M. Lawrence, Josefina L. Aronoff, Bartosz Witek, Valerie Velázquez-Colón, Verónica Santana-Ufret, Nicole L. Anderson, Krista Gunter, Moraima Noda, Ryan F. Relich, Lifan Zeng, Dominique H. Limoli, Christopher Whidbey, Jay Vornhagen Pseudomonas aeruginosa and Klebsiella pneumoniae are gram-negative opportunistic pathogens that frequently colonize the human body and are major causes of infection. These bacteria are often co-isolated in polymicrobial urinary tract and lung infections, the latter of which is associated with increased disease severity and worse clinical outcomes. Despite their overlapping niches and clinical relevance, little is known about how these two pathogens interact and how those interactions influence human health. Given the growing recognition that microbial interactions are key drivers of disease, we investigated how P. aerugi",
-    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003809",
-    "image": "https://picsum.photos/seed/wv-news-afdfb4288895/1200/750",
-    "source": "PLOS Biology",
-    "source_id": "src-084",
-    "category": "znanost",
-    "published_at": "2026-05-20T14:00:00+00:00",
-    "fetched_at": "2026-05-21T11:59:25.979518+00:00"
-  },
-  {
-    "id": "ce9454ac41b33d5f",
-    "title": "Redundant and distinct mechanisms suppress innate immune activation during SARS-CoV-2 infection",
-    "description": "by Fuchun Zhou, Sivakumar Periasamy, Nathaniel D. Jackson, Wan Sze Cheng, Ruben Soto Acosta, Aarti Tripathi, Kritika Kedarinath, Philipp A. Ilinykh, Chengjin Ye, Shailendra Chauhan, German Nudelman, Elena Zaslavsky, Haiping Hao, Steven G. Widen, Luis Martinez-Sobrido, Stuart C. Sealfon, Alexander Bukreyev Several SARS-CoV-2 proteins have been shown to counteract the host innate immune response, mostly using in vitro protein expression, which may not fully reflect their role in the context of viral infection. In addition, while each viral protein was characterized in a different experimental system, its relative contribution to immunosuppression remains unclear. Here we used a SARS-CoV-2 bacterial artificial chromosome with en passant mutagenesis to recover a panel of 12 infectious recombinant SARS-CoV-2 viruses, each with mutations in either NSP1, NSP2, NSP3, NSP6, NSP12, NSP13, NSP14, N",
-    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003808",
-    "image": "https://picsum.photos/seed/wv-news-32447732061c/1200/750",
-    "source": "PLOS Biology",
-    "source_id": "src-084",
-    "category": "znanost",
-    "published_at": "2026-05-20T14:00:00+00:00",
-    "fetched_at": "2026-05-21T11:59:25.979683+00:00"
-  },
-  {
-    "id": "49b6ea27773fc623",
-    "title": "Mannose-binding lectin 2 secreted by hepatocellular carcinoma cells recruits and activates natural killer cells to reshape an immune-activated microenvironment",
-    "description": "by Hangyu Liao, Jun Yang, Lei Cai, Luhao Chi, Chunming Wang, Yuyan Xu, Juncheng Xie, Kunling Chen, Jingyuan Pei, Zesheng Jiang, Mingxin Pan, Liang Zhao Crosstalk between hepatocellular carcinoma (HCC) and the tumor microenvironment (TME) is pivotal for the initiation and management of HCC. The infiltration and function of natural killer (NK) cells in the TME are frequently hindered. However, it is unclear whether a crucial regulatory factor originating from HCC cells directly modulates NK cell activity to evade immune surveillance. In this study, we found that mannose-binding lectin 2 (MBL2) expression was markedly decreased in HCC and positively correlated with HCC prognosis. MBL2 inhibited the proliferation and migration of HCC cells intracellularly. Human and murine co-culture systems of HCC and NK cells were established to demonstrate that secreted MBL2 recruited and activated NK cel",
-    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003793",
-    "image": "https://picsum.photos/seed/wv-news-706206cbbd19/1200/750",
-    "source": "PLOS Biology",
-    "source_id": "src-084",
-    "category": "znanost",
-    "published_at": "2026-05-20T14:00:00+00:00",
-    "fetched_at": "2026-05-21T11:59:25.979839+00:00"
-  },
-  {
-    "id": "88f65d7b71871426",
-    "title": "The Pseudomonas aeruginosa ribonuclease Ribocin cleaves eukaryotic ribosomes at helix 69 to inhibit host translation",
-    "description": "by Alejandro Vasquez-Rifo, Denis Susorov, Emily H. Sholi, Gabriel Demo, Yasaman Jami, Jihui Sha, James A. Wohlschlegel, Andrei Korostelev, Victor Ambros Pseudomonas aeruginosa employs host translation inhibition as a virulence-enhancing strategy. We previously showed that the bacterium induces cleavage of Caenorhabditis elegans large ribosomal RNA at helix 69 (H69), part of a central intersubunit bridge and the ribosomal decoding center. In this study, we demonstrate that a previously uncharacterized ribonuclease, Ribocin, is necessary and sufficient for H69 cleavage. Recombinant Ribocin cuts H69 in worm and mammalian ribosomes, indicating that H69 cleavage by P. aeruginosa is phylogenetically conserved. In worms, mammalian cells, and rabbit reticulocyte lysates, H69 cleavage results in translation inhibition. Furthermore, Ribocin contributes to bacterial virulence toward C. elegans , tr",
-    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003790",
-    "image": "https://picsum.photos/seed/wv-news-c36c770d8787/1200/750",
-    "source": "PLOS Biology",
-    "source_id": "src-084",
-    "category": "znanost",
-    "published_at": "2026-05-20T14:00:00+00:00",
-    "fetched_at": "2026-05-21T11:59:25.979961+00:00"
-  },
-  {
-    "id": "d81c418c376a9d9d",
-    "title": "Discovery shows how cancer takes hold as cells divide",
-    "description": "University of Virginia School of Medicine scientists have revealed how mistakes in the final step of cell division can have dire consequences for developing brain cells. The findings offer important new insights into cancer and developmental disorders, helping explain how the body tries to protect itself and what happens when it can't.",
-    "url": "https://medicalxpress.com/news/2026-05-discovery-cancer-cells.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/cancer-cells-1.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T13:40:07+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327162+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "de8b237d3653f3e0",
-    "title": "What if the direction of a magnet could shape the building blocks of life?",
-    "description": "In a new discovery, researchers from the Hebrew University of Jerusalem and the Weizmann Institute of Science have found that something in the direction of a magnetic field can influence how molecules of life behave at the most fundamental level and how early chemical processes linked to life may have unfolded.",
-    "url": "https://phys.org/news/2026-05-magnet-blocks-life.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-if-the-direction-1.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T13:40:03+00:00",
-    "fetched_at": "2026-05-20T13:50:32.889298+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "26582e06bc35412e",
-    "title": "Religion plays a greater role in the economy than previously thought, says paper",
-    "description": "Religion plays a greater role in growth, prosperity and economic development than many people realize. This is the finding of a paper published by the Rockwool Foundation Berlin (RFBerlin) ahead of Pentecost, marking the founding of the Christian Church. \"Religion influences key economic processes: saving and financial behavior, education, family size and the labor supply, openness to technology, social norms and political institutions,\" says RFBerlin project leader Sascha Becker.",
-    "url": "https://phys.org/news/2026-05-religion-plays-greater-role-economy.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/church-money.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T13:40:01+00:00",
-    "fetched_at": "2026-05-20T13:50:32.889364+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "4fdd6a96ec64f211",
-    "title": "Maybe for May: A Car-azy Forecast: How Will VinFast Hit Its 300,000 Target for 2026",
-    "description": "Hi Zach, Here is a crazy but educationally entertaining story. Looking at how VinFast will target 300,000 here is a proposal based on educated guesses Global 2026 model UPDATE Vietnam: 110,000 – its their country, they can force their market to buy, the socialist party can literally force the market ... [continued] The post Maybe for May: A Car-azy Forecast: How Will VinFast Hit Its 300,000 Target for 2026 appeared first on CleanTechnica .",
-    "url": "https://cleantechnica.com/2026/05/20/maybe-for-may-a-car-azy-forecast-how-will-vinfast-hit-its-300000-target-for-2026/",
-    "image": "https://picsum.photos/seed/wv-news-72d0298f0706/1200/750",
-    "source": "CleanTechnica",
-    "source_id": "src-089",
-    "category": "znanost",
-    "published_at": "2026-05-20T13:30:42+00:00",
-    "fetched_at": "2026-05-20T13:47:09.936056+00:00"
-  },
-  {
-    "id": "74db780c4b82f0d4",
-    "title": "What China’s rise in chemistry means for the rest of the world - Nature",
-    "description": "What China’s rise in chemistry means for the rest of the world Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OLVNWVmN3Y0JqMXd1NXcyVVBOQWEzWVEtRGtRbmNBMTRqMm9YcUVXanloSzJpUmx5SHFUNUY2QmN0Tzk4dTEybi1jWkN1ZXVtUEhnbURNYzlMSHdLRXdZ?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-acd89256ffb0/1200/750",
-    "source": "Nature Science - Google News",
-    "source_id": "global-extra-022",
-    "category": "znanost",
-    "published_at": "2026-05-20T13:21:35+00:00",
-    "fetched_at": "2026-05-21T12:00:13.214094+00:00"
-  },
-  {
-    "id": "ea3bc4bdc69685db",
-    "title": "Cracking the code of p53 fragility: Why the genome guardian is prone to failure",
-    "description": "The protein p53 is often called the guardian of the genome for its central role in preventing cancer. Yet paradoxically, it is also one of the most frequently mutated and dysfunctional proteins in human tumors.",
-    "url": "https://medicalxpress.com/news/2026-05-code-p53-fragility-genome-guardian.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genome.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T13:20:13+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327216+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "234ac3e2835d4ce3",
-    "title": "An explanation for the massive black holes the JWST found in the early universe",
-    "description": "One of the most puzzling findings from the JWST's observations of the early universe is the size of black holes. According to our understanding of black hole growth, these early black holes are far more massive than expected. Astronomers expected the unexpected from JWST, and it has delivered. Now the challenge is to update models of the universe to include these new observations.",
-    "url": "https://phys.org/news/2026-05-explanation-massive-black-holes-jwst.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-explanation-for-the.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T13:20:11+00:00",
-    "fetched_at": "2026-05-20T13:50:32.889439+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "25893052f6f5d149",
-    "title": "School recess is a health necessity, not a reward, says psychologist",
-    "description": "Cutting recess doesn't just shortchange kids on playtime. A Syracuse University researcher says it can have real consequences for their health and development.",
-    "url": "https://medicalxpress.com/news/2026-05-school-recess-health-necessity-reward.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/school-recess.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T13:20:10+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327261+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "0e4100f6a9571b1f",
-    "title": "Bees found an unlikely new food source, and it could reshape how a destructive forest disease travels",
-    "description": "New research published in NeoBiota has found that the Western honey bee—an introduced species to Australia—and the devastating, invasive plant fungus known as myrtle rust (Austropuccinia psidii) may have formed a mutually beneficial relationship known as \"invasional mutualism.\"",
-    "url": "https://phys.org/news/2026-05-bees-food-source-reshape-destructive.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/honey-bee.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T13:20:05+00:00",
-    "fetched_at": "2026-05-20T13:50:32.889496+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "e8c252e8110b6e83",
-    "title": "Portugal burial reveals first known bone dental bridge in national archaeological record",
-    "description": "The first documented case of a fixed bone bridge unearthed in Portugal was presented in the International Journal of Osteoarchaeology by researchers Ms. Steffi Vassallo and her colleagues. The item is estimated to date to the 19th century and is likely to have served a more aesthetic than functional purpose.",
-    "url": "https://phys.org/news/2026-05-portugal-burial-reveals-bone-dental.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-bone-dental-brid.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T13:20:04+00:00",
-    "fetched_at": "2026-05-20T13:50:32.889544+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "f3c91913ce0c403a",
-    "title": "A brief kidney crisis in childhood can cast a long shadow over health for years afterward",
-    "description": "Acute kidney injury (AKI) is a condition in which the kidneys suddenly lose their ability to filter waste from the blood. Developing within hours or days, AKI can cause dangerous waste accumulation and disrupt the body's fluid balance. It is a frequent and serious complication among hospitalized infants and children, often linked to higher mortality rates, prolonged hospital stays, and an increased need for mechanical ventilation.",
-    "url": "https://medicalxpress.com/news/2026-05-kidney-crisis-childhood-shadow-health.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/acute-kidney-injury-in.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T13:20:01+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327322+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "99a526f198da4dfc",
-    "title": "Scientists discover why Alzheimer’s risk hits women so much harder",
-    "description": "Women may be especially sensitive to the effects of common dementia risk factors, according to a new UC San Diego study of over 17,000 adults. Researchers say tailoring prevention strategies specifically for women could be key to reducing Alzheimer’s risk.",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260519224312.htm",
-    "image": "https://picsum.photos/seed/wv-fill-8f05d910bc5f/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T13:04:32+00:00",
-    "fetched_at": "2026-05-21T12:03:26.701833+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "61ca045c29d4fb12",
-    "title": "Image: NASA's Psyche mission captures Mars' Huygens Crater",
-    "description": "Captured by the multispectral imager instrument on NASA's Psyche mission, this is an enhanced-color view of the large double-ring crater Huygens (upper right; about 290 miles, or 470 kilometers, in diameter) and the surrounding heavily cratered southern highlands near 15 degrees south latitude. The various colors in this dramatic scene are likely due to differences in the compositional properties of dust, sand, and bedrock in this ancient terrain. The image scale is around 2,200 feet (670 meters) per pixel.",
-    "url": "https://phys.org/news/2026-05-image-nasa-psyche-mission-captures.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/image-nasas-psyche-mis.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T13:00:05+00:00",
-    "fetched_at": "2026-05-20T13:50:32.889603+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "ced856e4bc28df6c",
-    "title": "Lab fish cycles are hours out of sync with natural ones, researchers discover",
-    "description": "When researchers moved medaka—a fish commonly used in experiments—out of the lab and into more natural conditions, their reproductive clock shifted by hours, suggesting that laboratory findings may not fully capture their natural reproductive timing.",
-    "url": "https://phys.org/news/2026-05-lab-fish-hours-sync-natural.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lab-fish-cycles-are-ho.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T13:00:01+00:00",
-    "fetched_at": "2026-05-20T13:50:32.889650+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "640a6549bdaa730b",
-    "title": "Greenlight for next two ESA Scout missions",
-    "description": "The European Space Agency is expanding its growing fleet of Earth-observing science Scout missions with the selection of two new satellites: Hibidis and SOVA-S. Chosen from four final competing concepts, these missions will tackle very different but equally pressing scientific questions – from biodiversity below forest canopies to the effects of atmospheric gravity waves high above Earth.",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Greenlight_for_next_two_ESA_Scout_missions",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/06/scout_missions/24329139-1-eng-GB/Scout_missions_card_full.jpg",
-    "source": "ESA",
-    "source_id": "src-080",
-    "category": "znanost",
-    "published_at": "2026-05-20T13:00:00+00:00",
-    "fetched_at": "2026-05-21T11:59:25.122973+00:00"
-  },
-  {
-    "id": "0ba04727f510f9f5",
-    "title": "‘Morbid’ doesn’t want you to fall for antiaging hype - Science News",
-    "description": "‘Morbid’ doesn’t want you to fall for antiaging hype Science News",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iVnVtWmdPakVvVGRRanppT3pTcVlzaURpbURSYmRqQ0hWQUJuMTVSTU1rM3Y2Tm5OM0RQR1RTNTA0cklWRnBQMGVldGprNFkyWGR0UGlUM2pZQWRXZUU5UFdpYlMzWnRUY3hxbVFUYVIxZUM3dk11QTlB?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-d82be7b92376/1200/750",
-    "source": "Science News - Google News",
-    "source_id": "global-extra-023",
-    "category": "znanost",
-    "published_at": "2026-05-20T13:00:00+00:00",
-    "fetched_at": "2026-05-21T12:00:13.704884+00:00"
-  },
-  {
-    "id": "037ac44a37a25d7e",
-    "title": "NASA’s Fermi Glimpses Power Source of Supercharged Supernovae",
-    "description": "An international team studying data from NASA’s Fermi Gamma-ray Space Telescope concludes the mission detected a rare, unusually luminous supernova. The researchers say it likely received its power-up from a supermagnetized neutron star born in the stellar collapse that triggered the explosion.",
-    "url": "https://science.nasa.gov/missions/fermi/nasas-fermi-glimpses-power-source-of-supercharged-supernovae/",
-    "image": "https://picsum.photos/seed/wv-fill-5be24f0568e5/1200/750",
-    "source": "NASA Breaking News",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T12:55:00+00:00",
-    "fetched_at": "2026-05-21T08:52:15.851702+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "8498d15ca54c7d2c",
-    "title": "Scientists found a hidden Alzheimer’s trigger and shut it down",
-    "description": "A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communication between cells. The discovery may lead to future treatments that go beyond slowing Alzheimer’s — potentially helping protect the brain from further decline.",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260519224334.htm",
-    "image": "https://picsum.photos/seed/wv-fill-50e4ff4f69f8/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T12:54:32+00:00",
-    "fetched_at": "2026-05-21T12:03:26.701467+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "670472cb4fe2d00a",
-    "title": "Scientists discover massive natural hydrogen source beneath Canada",
-    "description": "Scientists in Canada have discovered that ancient underground rocks are naturally producing hydrogen gas — and lots of it. Measurements from mine boreholes in Ontario show the gas can flow continuously for years, offering a potential new source of clean energy called “white hydrogen.” Researchers say this hidden resource could help power industries and remote communities while cutting carbon emissions and reducing dependence on fossil fuels.",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260519224317.htm",
-    "image": "https://picsum.photos/seed/wv-fill-d89a3f0dd533/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T12:46:14+00:00",
-    "fetched_at": "2026-05-21T12:03:26.701731+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "2a78c2bc2b41a241",
-    "title": "Harnessing brain imaging to shift the mental health paradigm",
-    "description": "Stanford Medicine professor Leanne Williams talks about her work leveraging a data-driven approach to enhance the diagnosis and treatment of psychiatric conditions.",
-    "url": "https://medicalxpress.com/news/2026-05-harnessing-brain-imaging-shift-mental.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/harnessing-brain-imagi.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T12:40:05+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327365+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "af4f9805d962f770",
-    "title": "Tiny sea creature Porpita porpita may live adrift at sea for years longer than previously thought",
-    "description": "A new study of the blue button (Porpita porpita), a small and elusive sea creature which lives on the surface of the ocean, has found that it may live for several years adrift at sea, much longer than previously estimated.",
-    "url": "https://phys.org/news/2026-05-tiny-sea-creature-porpita-adrift.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/little-blue-buttons-lo.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T12:40:03+00:00",
-    "fetched_at": "2026-05-20T13:50:32.889695+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "9e8c35d62c4beaf2",
-    "title": "A SpaceX rocket will soon hit the moon, raising concerns about handing over space launches to private companies",
-    "description": "SpaceX seems to have mistaken shooting for the moon with shooting at the moon. Forecast to occur on Aug. 5, a five-story-long piece of a rocket from one of the private space exploration company's recent lunar missions is expected to hit the moon at around 5,400 miles per hour, around 24 times the speed of a Formula 1 racecar. As it currently stands, projections put the rocket's crash course with the moon at 2:44 a.m. Eastern Time.",
-    "url": "https://phys.org/news/2026-05-spacex-rocket-moon-space-private.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-spacex-rocket-will-s.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T12:40:01+00:00",
-    "fetched_at": "2026-05-20T13:50:32.889749+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "cb6330774bd01c8b",
-    "title": "Ozone pollution limits lung benefits of exercise in children, study finds",
-    "description": "Vigorous physical activity promotes lung growth in children, but these benefits are reduced by ozone pollution, according to new research presented at the ATS 2026 International Conference. The findings suggest that the health benefits of exercising at levels recommended by the World Health Organization may be limited by environmental conditions.",
-    "url": "https://medicalxpress.com/news/2026-05-ozone-pollution-limits-lung-benefits.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/2-physicalacti.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T12:20:04+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327419+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "cd1dec4877d8fda7",
-    "title": "Image: NASA's Psyche mission images the crescent of Mars",
-    "description": "This view of a crescent Mars was captured on May 15, 2026, at about 5:03 a.m. PDT by NASA's Psyche mission as it approached the planet for a gravity assist. Captured by the spacecraft's multispectral imager instrument, this was the last view of the whole planet before it began to overfill the field of view of the camera.",
-    "url": "https://phys.org/news/2026-05-image-nasa-psyche-mission-images.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/image-nasas-psyche-mis-1.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T12:20:03+00:00",
-    "fetched_at": "2026-05-20T13:50:32.889798+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "0732323a795cd2e6",
-    "title": "How dead tumor cells could make chemotherapy and radiotherapy work better",
-    "description": "As tumors outgrow their blood and nutrient supplies, or respond to treatments like chemotherapy and radiotherapy, individual cancer cells die, exposing their internal scaffolds. These dead cells are an abundant source of mutated proteins, or antigens, that can mark cancer cells as different from healthy ones. This is exactly what the immune system needs to recognize a tumor.",
-    "url": "https://medicalxpress.com/news/2026-05-dead-tumor-cells-chemotherapy-radiotherapy.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cancer-patient.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T12:20:01+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327459+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "32d9a76f099966e0",
-    "title": "Brain's chemical brake hides a second power, and it could reshape how mental disorders are treated",
-    "description": "An important chemical messenger that typically inhibits brain activity might sometimes do the opposite, according to new Yale School of Medicine (YSM) research. One way that brain cells communicate is through chemical messengers called neurotransmitters. Most research indicates that the neurotransmitter GABA (gamma-aminobutyric acid) quiets brain signals, serving as the system's brakes.",
-    "url": "https://medicalxpress.com/news/2026-05-brain-chemical-power-reshape-mental.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/neuron.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T12:00:05+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327500+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "3ce0cdf5f5bf36fa",
-    "title": "Image: NASA's Psyche mission spies Mars' wind-blown craters during close approach",
-    "description": "This view of the Martian surface, captured by NASA's Psyche spacecraft on May 15, 2026, shows streaks that have formed due to wind blowing over impact craters in the Syrtis Major region. The image scale is nearly 1,200 feet (360 meters) per pixel. The wind streaks extend to about 30 miles (50 kilometers) long, and the large craters near the center-bottom of the scene average about 30 miles in diameter.",
-    "url": "https://phys.org/news/2026-05-image-nasa-psyche-mission-spies.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasas-psyche-mission-s.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T12:00:03+00:00",
-    "fetched_at": "2026-05-20T13:50:32.889851+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "fef35d48ba9e1e6b",
-    "title": "In the digital health era, can we do better than a consent form?",
-    "description": "Camille Nebeker, EdD, MS, a professor at the UC San Diego Herbert Wertheim School of Public Health and Human Longevity Science and an affiliate of both the Design Lab and Qualcomm Institute, with decades of experience conducting empirical research on digital health research ethics, argues that there needs to be a rethink about informed consent in the digital health era.",
-    "url": "https://medicalxpress.com/news/2026-05-digital-health-era-consent.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/consent-forms.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T12:00:01+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327539+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "041a213012287045",
-    "title": "How EPA Cuts Will Affect US Lives For Generations To Come",
-    "description": "We used to think of the US Environmental Protection Agency as the site where groundbreaking scientific research took place. One of the most important areas of inquiry by its scientific staff was released to the public in 2009, when the US EPA found that greenhouse gas emissions threatened public health ... [continued] The post How EPA Cuts Will Affect US Lives For Generations To Come appeared first on CleanTechnica .",
-    "url": "https://cleantechnica.com/2026/05/20/how-epa-cuts-will-affect-us-lives-for-generations-to-come/",
-    "image": "https://picsum.photos/seed/wv-news-964800dfb44a/1200/750",
-    "source": "CleanTechnica",
-    "source_id": "src-089",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:46:15+00:00",
-    "fetched_at": "2026-05-21T04:25:06.616881+00:00"
-  },
-  {
-    "id": "0abbf705181306bc",
-    "title": "3,798 dengue cases reported in United States in 2024",
-    "description": "In 2024, there were 3,798 dengue cases reported, 97.2% of which were associated with travel outside the reporting jurisdiction, according to research published in the Morbidity and Mortality Weekly Report.",
-    "url": "https://medicalxpress.com/news/2026-05-dengue-cases-states.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3798-dengue-cases-repo.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:40:12+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327571+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "b03171c462854622",
-    "title": "How face-building genes get ready early: Genome folding may prime crucial DNA switches",
-    "description": "Early in development, a group of migrating cells called cranial neural crest cells go on to form many different parts of the face, including the nose, jaw, ears, and throat. To build these structures correctly, genes must switch on in the right cells at the right time. But many of the DNA switches that control those genes sit far away on the genome, and scientists still know little about how genes find and communicate with these distant switches during development.",
-    "url": "https://phys.org/news/2026-05-genes-ready-early-genome-prime.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ear-hair.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:40:10+00:00",
-    "fetched_at": "2026-05-20T13:50:32.889903+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "1c8e1592f89d45d0",
-    "title": "Children of parents with severe mental illness face higher risk of cognitive difficulties, study finds",
-    "description": "A new study led by Murdoch University has found that children of parents with severe mental illness are more likely to experience cognitive difficulties. The study, \"Cognitive performance in offspring of parents with severe mental illness: a meta-analysis,\" is published in the journal Psychological Medicine.",
-    "url": "https://medicalxpress.com/news/2026-05-children-parents-severe-mental-illness.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/child-confused.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:40:09+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327609+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "9e997d2ecab08109",
-    "title": "Naturally occurring soil fungi could boost rice yields while reducing reliance on synthetic fertilizers",
-    "description": "Field trials in India show that bio-fertilizers containing naturally occurring soil fungi enhance growth in rice plants. This may offer a pathway to reducing farmers' reliance on synthetic fertilizers, and reducing greenhouse gas emissions in rice farming. The trials, led by researchers at the University of Cambridge in partnership with U.K. rice brand Tilda and basmati farmers in India, tested fungi-based bio-fertilizers under real farming conditions.",
-    "url": "https://phys.org/news/2026-05-naturally-soil-fungi-boost-rice.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rice-farmer.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:40:06+00:00",
-    "fetched_at": "2026-05-20T13:50:32.889957+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "e2c22adf2a5a1239",
-    "title": "Autism social differences emerge early but can change considerably by adulthood, research suggests",
-    "description": "Autism spectrum disorder (ASD) is a neurodevelopmental condition characterized by differences in behavior, social interactions, communication, and sensory perceptions. Some autistic individuals find communicating and connecting with others more challenging than others, yet how these differences in social functioning emerge remains poorly understood.",
-    "url": "https://medicalxpress.com/news/2026-05-autism-social-differences-emerge-early.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/autism-social-developm.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:40:01+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327646+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "86d72297d4d5d46f",
-    "title": "Researchers identify new drug targets for hard-to-treat cancers",
-    "description": "Despite impressive innovations in medicine, most advanced-stage cancers still carry a grim prognosis. Developing more effective treatments requires a deeper understanding of the cellular processes that drive the formation and growth of common cancers.",
-    "url": "https://medicalxpress.com/news/2026-05-drug-hard-cancers.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/cancer-patient-1.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:20:08+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327679+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "66f37f177ce1de6d",
-    "title": "'The right patchwork': New studies examine tobacco regulation",
-    "description": "Health warnings first appeared on cigarette packaging 60 years ago. Researchers and health professionals have described tobacco as addictive since the 1970s. Yet nearly 50 million people in the United States—one in five adults—still report using tobacco, according to the Centers for Disease Control and Prevention.",
-    "url": "https://medicalxpress.com/news/2026-05-patchwork-tobacco.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cigarette-packaging.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:20:04+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327723+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "342917f63f7c34dc",
-    "title": "Could future Mars settlers print their own tools?",
-    "description": "If humans one day settle Mars, they will need tools and parts to build structures on the planet. Carrying heavy, bulky supplies 34 million miles from Earth would be impractical. A better plan, says Zane Mebruer, a recent graduate of the U of A, would be 3D printing items on the Red Planet. His new research, completed while he was an honors undergraduate in mechanical engineering at the U of A, suggests it may be possible.",
-    "url": "https://phys.org/news/2026-05-future-mars-settlers-tools.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-future-mars-sett.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:20:03+00:00",
-    "fetched_at": "2026-05-20T13:50:32.890007+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "509d66141e016895",
-    "title": "Argentine researchers collect rodents for hantavirus tests",
-    "description": "Argentine scientists on Tuesday began collecting rodents in the woods around Ushuaia to search for carriers of hantavirus in the area from which the virus-stricken MV Hondius set sail.",
-    "url": "https://phys.org/news/2026-05-argentine-rodents-hantavirus.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hantavirus-4.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:20:01+00:00",
-    "fetched_at": "2026-05-20T13:50:32.890047+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "ef8c85c4bfaa310d",
-    "title": "Zoo reaches historic milestone for Puerto Rican crested toad conservation efforts with more than 12,000 tadpoles",
-    "description": "Behind the scenes at Brookfield Zoo Chicago, a record-breaking conservation milestone is helping secure the future of one of the world's most imperiled amphibians. Months of meticulous care and coordination enabled Brookfield Zoo Chicago to successfully breed and raise 12,244 Puerto Rican crested toad tadpoles to be released in the wild, supporting species recovery efforts.",
-    "url": "https://phys.org/news/2026-05-zoo-historic-milestone-puerto-rican.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/brookfield-zoo-chicago.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:15:54+00:00",
-    "fetched_at": "2026-05-20T13:50:32.890096+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "c843a088fb11c85e",
-    "title": "The brain’s code seems to be in constant flux. Neuroscientists are baffled - Nature",
-    "description": "The brain’s code seems to be in constant flux. Neuroscientists are baffled Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lVXhpSEhuX2tHWHhFWkpURVMtZFZQanY2Y3ZsX1pFeWNHRzFvcnF3UV9wTWlkU3I5cmNhOFNmUU0zWDZ0cGNFTjdKTDZlTG96bjN0Yzc1cXNTdExhU2Fj?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-eb0ea4d0f6c4/1200/750",
-    "source": "Nature Science - Google News",
-    "source_id": "global-extra-022",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:13:43+00:00",
-    "fetched_at": "2026-05-21T12:00:13.213248+00:00"
-  },
-  {
-    "id": "4b96f30dd30a13dc",
-    "title": "Outbreak of rare Ebola's global risk is low but worries mount about its spread in Congo",
-    "description": "The new outbreak of a rare Ebola type in Congo and Uganda poses low global risk, the World Health Organization said Wednesday, but responders on the ground described being underprotected and undertrained for a rapidly spreading virus with no approved medicine or vaccine.",
-    "url": "https://medicalxpress.com/news/2026-05-ebola-high-locally-globally.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/risk-of-ebola-spread-i.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:03:41+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327761+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "55e5c71a4f2522e5",
-    "title": "Q&A: What is in the new American Heart Association dietary recommendations?",
-    "description": "Heart disease is the leading cause of death in the United States, and altering your diet is the most effective way to reduce the risk of heart disease, according to the American Heart Association. To that end, the American Heart Association regularly issues dietary recommendations for maintaining a healthy heart. Kristina Petersen, associate professor of nutritional sciences at Penn State, was part of the team of researchers who drafted the new recommendations.",
-    "url": "https://medicalxpress.com/news/2026-05-qa-american-heart-association-dietary.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/healthy-diet.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:00:01+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327811+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "c769f04a2254a1db",
-    "title": "Sky bridges, citizen science protect endangered Malaysia monkeys",
-    "description": "A graceful black monkey edges across a swaying red rope bridge strung over a busy residential road in Malaysia's Penang, watched by local conservationists who carefully record her movements.",
-    "url": "https://phys.org/news/2026-05-sky-bridges-citizen-science-endangered.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-new-bridges-are-ke.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T10:20:01+00:00",
-    "fetched_at": "2026-05-20T13:50:32.890138+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "e768ab2996adf05d",
-    "title": "Scientists use light to create tiny molecules that could transform medicine",
-    "description": "Researchers have developed a light-driven method for creating tiny, high-energy “housane” molecules that are valuable for drug development and materials science. These compact ring-shaped structures are difficult to produce because of the intense internal strain they contain. By using photocatalysis and carefully tuning the starting molecules, the team managed to guide the reaction into a clean and efficient pathway.",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260519224332.htm",
-    "image": "https://picsum.photos/seed/wv-fill-acaf04bee1d5/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T10:00:45+00:00",
-    "fetched_at": "2026-05-21T12:03:26.701517+00:00",
-    "missing_core_fill": true
+    "fetched_at": "2026-05-21T17:38:57.211049+00:00"
   }
 ]
