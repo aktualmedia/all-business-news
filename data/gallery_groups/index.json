@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-05-21T08:10:09.980907+00:00",
+  "updated_at": "2026-05-21T08:52:39.542716+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 79,
-      "cover": "https://deadline.com/wp-content/uploads/2026/05/survivor-season-50-finalists.jpg"
+      "count": 94,
+      "cover": "https://deadline.com/wp-content/uploads/2026/05/Kylie-Netflix-Trailerstill-6.png"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 18,
-      "cover": "https://www.designboom.com/wp-content/uploads/2026/05/yasmeen-lari-architect-radical-softness-designboom-700-500x400-22b08q85r419.jpg"
+      "count": 21,
+      "cover": "https://www.designboom.com/wp-content/uploads/2026/05/moomins-new-york-botanical-garden-visitors-nature-togetherness-designboom-700-500x400-22b08q85r999.jpg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 9,
-      "cover": "https://robbreport.com/wp-content/uploads/2026/05/mallorca-penthouse.jpg"
+      "count": 8,
+      "cover": "https://www.journal.hr/wp-content/uploads/2026/05/gastro-dogadanja-u-zg-scaled-e1778751170850-768x576.jpeg"
     },
     {
       "id": "hrana",
@@ -29,49 +29,49 @@
     {
       "id": "pica",
       "label": "PIĆA",
-      "count": 4,
-      "cover": "https://www.thedrinksbusiness.com/content/uploads/2026/05/Voyager-Estate-Tim-Shand.webp"
+      "count": 5,
+      "cover": "https://www.thespiritsbusiness.com/content/uploads/2026/05/Starka-lead-image-650-x-410-px-1.jpg"
     },
     {
       "id": "satovi",
       "label": "SATOVI",
-      "count": 5,
-      "cover": "https://hodinkee.imgix.net/uploads/images/549f5ad5-afd4-41c0-884f-a1338993ff95/P1094007.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000"
+      "count": 4,
+      "cover": "https://monochrome-watches.com/app/uploads/2026/05/Ressence-Type-7-Black-and-Type-7-Cactus-With-Rubber-Straps-3-600x237.jpg"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 27,
-      "cover": "https://media.allure.com/photos/6a0e126db63815ce89d762be/master/pass/05.20_ALL_1%20New%20Lede%20Image%20for%20%E2%80%9CBest%20Early%20Amazon%20Prime%20Day%20K-Beauty%20Deals%E2%80%9D..jpg"
+      "count": 35,
+      "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F21%2Fronnie-fieg-teases-kith-adidas-football-lionel-messi-jersey-collection-000.jpg?w=800&cbr=1&q=90&fit=max"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 59,
-      "cover": "https://image.theregister.com/?imageId=5241136&width=800"
+      "count": 55,
+      "cover": "https://www.engadget.com/img/gallery/anthropic-is-reportedly-about-to-have-its-first-profitable-quarter/l-intro-1779350472.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 110,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/improving-eddy-tower-e-1.jpg"
+      "count": 108,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/debuting-on-the-stock-1.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 99,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/68d4bca61591fc7af310b0df/0x0.jpg"
+      "count": 89,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a0deef14272b07b95175e9f/0x0.jpg?width=960&precrop=2540%2C1429%2Cx0%2Cy14"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 52,
-      "cover": "https://images.mktw.net/im-66036369"
+      "count": 51,
+      "cover": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K08X_L.jpg"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 32,
+      "count": 24,
       "cover": "https://www.visualcapitalist.com/wp-content/uploads/2026/05/global-production-of-minerals-SHARE.webp"
     }
   ]

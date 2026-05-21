@@ -1,15 +1,342 @@
 [
   {
+    "id": "a83b58d449fc4d2d",
+    "title": "UNSW researchers shed new light on UV-induced degradation in PERC, TOPCon solar cells",
+    "description": "The scientists identified that UV exposure in PERC and TOPCon solar cells increases interface defects and makes them more recombination-active, driving ultraviolet-induced degradation. They found strong degradation on PERC front and rear surfaces and TOPCon front surfaces, while the TOPCon rear remains stable due to poly-Si UV absorption.",
+    "url": "https://www.pv-magazine.com/2026/05/21/unsw-researchers-shed-new-light-on-uv-induced-degradation-in-perc-topcon-solar-cells/",
+    "image": "https://picsum.photos/seed/wv-news-eafe41ace829/1200/750",
+    "source": "PV Magazine",
+    "source_id": "src-060",
+    "category": "trzista",
+    "published_at": "2026-05-21T08:23:11+00:00",
+    "fetched_at": "2026-05-21T08:48:55.788379+00:00"
+  },
+  {
+    "id": "da1c13595b7c153e",
+    "title": "Why Dell Technologies Is Becoming One of Wall Street’s Favorite Enterprise AI Play",
+    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/analysis/why-dell-technologies-is-becoming-one-of-wall-streets-favorite-enterprise-ai-play-200680699",
+    "image": "https://picsum.photos/seed/wv-core-eb6548d4c3a8/1200/750",
+    "source": "Investing.com Stock Market",
+    "source_id": "core-fill-trzista",
+    "category": "trzista",
+    "published_at": "2026-05-21T08:19:00+00:00",
+    "fetched_at": "2026-05-21T08:52:10.604006+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "8ce36b13acb7b206",
+    "title": "Amazon launches UK drone delivery service",
+    "description": "Amazon launches its first commercial drone delivery service in the UK. The service will provide drone deliveries for customers in Darlington, County Durham, with a specialisation on small parcels delivered by [...] The post Amazon launches UK drone delivery service appeared first on Logistics Manager .",
+    "url": "https://www.logisticsmanager.com/amazon-launches-uk-drone-delivery-service/",
+    "image": "https://picsum.photos/seed/wv-news-3366a348f7e7/1200/750",
+    "source": "Logistics Manager",
+    "source_id": "src-150",
+    "category": "trzista",
+    "published_at": "2026-05-21T08:00:38+00:00",
+    "fetched_at": "2026-05-21T08:49:21.231458+00:00"
+  },
+  {
+    "id": "4c9e222b19df2365",
+    "title": "Belfast Harbour lays out £1.3 billion investment plan",
+    "description": "Belfast Harbour has launched a 25‑year plan setting out £1.3 billion of planned investment into the port. The Belfast Harbour 2025–2050 Masterplan: Horizons of Opportunity sets out how the Trust [...] The post Belfast Harbour lays out £1.3 billion investment plan appeared first on Logistics Manager .",
+    "url": "https://www.logisticsmanager.com/belfast-harbour-lays-out-1-3-billion-investment-plan/",
+    "image": "https://picsum.photos/seed/wv-news-1ee203171c83/1200/750",
+    "source": "Logistics Manager",
+    "source_id": "src-150",
+    "category": "trzista",
+    "published_at": "2026-05-21T08:00:09+00:00",
+    "fetched_at": "2026-05-21T08:49:21.231559+00:00"
+  },
+  {
+    "id": "b1b92415a36b2f3f",
+    "title": "Nvidia Fails to Soar Despite Record Results: 10 Undervalued Alternatives",
+    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/analysis/nvidia-fails-to-soar-despite-record-results-10-undervalued-alternatives-200680693",
+    "image": "https://picsum.photos/seed/wv-core-7fdb68ed7198/1200/750",
+    "source": "Investing.com Stock Market",
+    "source_id": "core-fill-trzista",
+    "category": "trzista",
+    "published_at": "2026-05-21T07:56:00+00:00",
+    "fetched_at": "2026-05-21T08:52:10.604051+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "eb3ac5deeb73b077",
+    "title": "European PV avoided €10 billion in gas imports since escalation of Iran conflict",
+    "description": "European photovoltaics have generated enough electricity since early March to avoid an estimated €10 billion in gas imports, according to SolarPower Europe, with savings averaging €110 million per day.",
+    "url": "https://www.pv-magazine.com/2026/05/21/european-pv-avoided-e10-billion-in-gas-imports-since-escalation-of-the-iran-conflict/",
+    "image": "https://picsum.photos/seed/wv-news-25a214c69fd8/1200/750",
+    "source": "PV Magazine",
+    "source_id": "src-060",
+    "category": "trzista",
+    "published_at": "2026-05-21T07:52:49+00:00",
+    "fetched_at": "2026-05-21T08:48:55.788475+00:00"
+  },
+  {
+    "id": "c1055fcbe65f983e",
+    "title": "Wind and Solar Overtake Gas Power Generation for the First Time",
+    "description": "Wind and solar power generation topped gas-fired power plant output for the first time ever on a monthly basis in April, as the energy crunch limited gas availability and made the fuel more expensive. Wind and solar installations generated 22% of the world’s electricity last month, climate outlet Ember reported, as cited by Reuters. Gas generation, meanwhile, accounted for 20% of the global total in April. “The current energy crisis has further strengthened the economic case for renewables compared to imported gas, while also adding…",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Wind-and-Solar-Overtake-Gas-Power-Generation-for-the-First-Time.html",
+    "image": "https://picsum.photos/seed/wv-news-2b3fad35c2bb/1200/750",
+    "source": "OilPrice",
+    "source_id": "src-047",
+    "category": "trzista",
+    "published_at": "2026-05-21T07:45:00+00:00",
+    "fetched_at": "2026-05-21T08:48:53.200719+00:00"
+  },
+  {
+    "id": "aaf96f56bfafc782",
+    "title": "MTA launches air-to-water heat pump with scalable architecture",
+    "description": "The Italian manufacturer said its Gemini air-to-water heat pump is intended for commercial and industrial applications. It reportedly achieves a coefficient of performance of up to 3.28 and delivers hot water temperatures of up to 60 C.",
+    "url": "https://www.pv-magazine.com/2026/05/21/mta-launches-air-to-water-heat-pump-with-scalable-architecture/",
+    "image": "https://picsum.photos/seed/wv-news-d4a73dc6969b/1200/750",
+    "source": "PV Magazine",
+    "source_id": "src-060",
+    "category": "trzista",
+    "published_at": "2026-05-21T07:35:02+00:00",
+    "fetched_at": "2026-05-21T08:48:55.788544+00:00"
+  },
+  {
+    "id": "35cc92fc2702603a",
+    "title": "Walmart Earnings Preview: Will the Retail Giant’s Results Indicate Consumer Strain",
+    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/analysis/walmart-earnings-preview-will-the-retail-giants-results-indicate-consumer-strain-200680687",
+    "image": "https://picsum.photos/seed/wv-core-b2a592e31ff0/1200/750",
+    "source": "Investing.com Stock Market",
+    "source_id": "core-fill-trzista",
+    "category": "trzista",
+    "published_at": "2026-05-21T07:32:00+00:00",
+    "fetched_at": "2026-05-21T08:52:10.604090+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "e062184a98977a9d",
+    "title": "Why Wall Street Keeps Raising Broadcom Targets Despite Valuation Concerns",
+    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/analysis/why-wall-street-keeps-raising-broadcom-targets-despite-valuation-concerns-200680696",
+    "image": "https://picsum.photos/seed/wv-core-7c3250380e43/1200/750",
+    "source": "Investing.com Stock Market",
+    "source_id": "core-fill-trzista",
+    "category": "trzista",
+    "published_at": "2026-05-21T07:28:00+00:00",
+    "fetched_at": "2026-05-21T08:52:10.604121+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "74d9aaca8e6710bb",
+    "title": "Packaging’s funding divide: scale wins, smaller players struggle",
+    "description": "The packaging sector is becoming more selective for investment, with GlobalData noting that capital is increasingly directed toward companies with proven scale and global reach. The post Packaging’s funding divide: scale wins, smaller players struggle appeared first on Packaging Gateway .",
+    "url": "https://www.packaging-gateway.com/features/packagings-funding-divide-scale-wins-smaller-players-struggle/",
+    "image": "https://picsum.photos/seed/wv-news-54c85ae9f316/1200/750",
+    "source": "Packaging Gateway",
+    "source_id": "src-151",
+    "category": "trzista",
+    "published_at": "2026-05-21T07:16:45+00:00",
+    "fetched_at": "2026-05-21T08:49:21.367579+00:00"
+  },
+  {
+    "id": "861f8e8580c657e9",
+    "title": "Why Nvidia Earnings Are No Longer Enough to Shock the Market",
+    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/analysis/why-nvidia-earnings-are-no-longer-enough-to-shock-the-market-200680692",
+    "image": "https://picsum.photos/seed/wv-core-cc60b4b2b938/1200/750",
+    "source": "Investing.com Stock Market",
+    "source_id": "core-fill-trzista",
+    "category": "trzista",
+    "published_at": "2026-05-21T07:07:00+00:00",
+    "fetched_at": "2026-05-21T08:52:10.604150+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "f193d8f2a7bce8da",
+    "title": "Energy Crisis Is Changing Demand Patterns—For Now",
+    "description": "Izvorni naslov/sažetak s portala Investing.com Commodities. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/analysis/energy-crisis-is-changing-demand-patternsfor-now-200680691",
+    "image": "https://picsum.photos/seed/wv-core-dd7b5bba4c00/1200/750",
+    "source": "Investing.com Commodities",
+    "source_id": "core-fill-trzista",
+    "category": "trzista",
+    "published_at": "2026-05-21T07:02:00+00:00",
+    "fetched_at": "2026-05-21T08:52:10.683395+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "4d2281861483d719",
+    "title": "John Deere Earnings Put the Farm Economy Back in Focus",
+    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/analysis/john-deere-earnings-put-the-farm-economy-back-in-focus-200680669",
+    "image": "https://picsum.photos/seed/wv-core-f6c9830dd74b/1200/750",
+    "source": "Investing.com Stock Market",
+    "source_id": "core-fill-trzista",
+    "category": "trzista",
+    "published_at": "2026-05-21T07:00:00+00:00",
+    "fetched_at": "2026-05-21T08:52:10.604177+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "e4ba11a0acbc41d9",
+    "title": "Goldman Sachs Sounds Fresh Alarm on Global Oil Stockpiles",
+    "description": "Izvorni naslov/sažetak s portala Investing.com Commodities. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/analysis/goldman-sachs-sounds-fresh-alarm-on-global-oil-stockpiles-200680690",
+    "image": "https://picsum.photos/seed/wv-core-c92e92e6bf41/1200/750",
+    "source": "Investing.com Commodities",
+    "source_id": "core-fill-trzista",
+    "category": "trzista",
+    "published_at": "2026-05-21T06:59:00+00:00",
+    "fetched_at": "2026-05-21T08:52:10.683440+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "8300caa8ee127c88",
+    "title": "Nvidia Beats Again, But the Market Is Already Trading the Next Quarter",
+    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/analysis/nvidia-beats-again-but-the-market-is-already-trading-the-next-quarter-200680689",
+    "image": "https://picsum.photos/seed/wv-core-da513ad60b6b/1200/750",
+    "source": "Investing.com Stock Market",
+    "source_id": "core-fill-trzista",
+    "category": "trzista",
+    "published_at": "2026-05-21T06:49:00+00:00",
+    "fetched_at": "2026-05-21T08:52:10.604205+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "818acae90901b204",
+    "title": "Nvidia Earnings Mark Potential Turning Point for the S&P 500 and Stock Market",
+    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/analysis/nvidia-earnings-mark-potential-turning-point-for-the-sp-500-and-stock-market-200680677",
+    "image": "https://picsum.photos/seed/wv-core-87a0fe5d293e/1200/750",
+    "source": "Investing.com Stock Market",
+    "source_id": "core-fill-trzista",
+    "category": "trzista",
+    "published_at": "2026-05-21T06:41:00+00:00",
+    "fetched_at": "2026-05-21T08:52:10.604242+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "57eab049dd7a5fae",
+    "title": "Goldman Sachs Sounds Fresh Alarm on Global Oil Stockpiles",
+    "description": "Global oil inventories are falling at an accelerated rate, Goldman Sachs has warned, noting April draws from inventories had run at double the rate until the end of March. Since the start of May, global draws from inventories have been running at 8.7 million barrels daily, which is the highest ever, the investment bank’s analysts said. “Physical markets continue to tighten, as estimated oil exports through the strait remain at a very low 5% of normal,” they said. Earlier this month, Goldman said that global oil inventories…",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sounds-Fresh-Alarm-on-Global-Oil-Stockpiles.html",
+    "image": "https://picsum.photos/seed/wv-news-82a744a9a987/1200/750",
+    "source": "OilPrice",
+    "source_id": "src-047",
+    "category": "trzista",
+    "published_at": "2026-05-21T06:40:00+00:00",
+    "fetched_at": "2026-05-21T08:48:53.200811+00:00"
+  },
+  {
+    "id": "ae5599d790c69dab",
+    "title": "The Trillion-Dollar IPO Test: SpaceX and OpenAI Face Public Markets",
+    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/analysis/the-trilliondollar-ipo-test-spacex-and-openai-face-public-markets-200680688",
+    "image": "https://picsum.photos/seed/wv-core-04315a6cf686/1200/750",
+    "source": "Investing.com Stock Market",
+    "source_id": "core-fill-trzista",
+    "category": "trzista",
+    "published_at": "2026-05-21T06:39:00+00:00",
+    "fetched_at": "2026-05-21T08:52:10.604270+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "070ab84d071f8f22",
+    "title": "Silver Repositions as PMIs, Yields Reshape Metals Participation",
+    "description": "Izvorni naslov/sažetak s portala Investing.com Commodities. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/analysis/silver-repositions-as-pmis-yields-reshape-metals-participation-200680686",
+    "image": "https://picsum.photos/seed/wv-core-162455a1c6a2/1200/750",
+    "source": "Investing.com Commodities",
+    "source_id": "core-fill-trzista",
+    "category": "trzista",
+    "published_at": "2026-05-21T06:38:00+00:00",
+    "fetched_at": "2026-05-21T08:52:10.683471+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "5026e7ccaf8da414",
+    "title": "Saudi Arabia Forced to Boost Fuel Oil Imports as Gas Output Dips",
+    "description": "Saudi Arabia is importing more fuel oil than before, to use in power generation as its natural gas production reverses direction and declines, Reuters has reported, citing Rystad Energy. OPEC’s number-one oil producer and exporter has had to slash output because of the Strait of Hormuz closure, with the shut-in amount estimated at over 3 million barrels daily. With it, some natural gas extraction as a by-product has dropped, too, prompting the rise in fuel oil imports. These stood at an average of 360,000 barrels daily last month, according…",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Forced-to-Boost-Fuel-Oil-Imports-as-Gas-Output-Dips.html",
+    "image": "https://picsum.photos/seed/wv-news-98309b0354d4/1200/750",
+    "source": "OilPrice",
+    "source_id": "src-047",
+    "category": "trzista",
+    "published_at": "2026-05-21T05:30:00+00:00",
+    "fetched_at": "2026-05-21T08:48:53.200902+00:00"
+  },
+  {
+    "id": "bd4802f46f1b74a4",
+    "title": "Russell 2000: Buyers Defend Support on Higher Volume Accumulation",
+    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/analysis/russell-2000-buyers-defend-support-on-higher-volume-accumulation-200680679",
+    "image": "https://picsum.photos/seed/wv-core-bed0d6a03138/1200/750",
+    "source": "Investing.com Stock Market",
+    "source_id": "core-fill-trzista",
+    "category": "trzista",
+    "published_at": "2026-05-21T05:28:00+00:00",
+    "fetched_at": "2026-05-21T08:52:10.604298+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "f6be2b67977829e8",
+    "title": "Oil Drops as Hopes for Persian Gulf Resolution Grow",
+    "description": "Izvorni naslov/sažetak s portala Investing.com Commodities. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/analysis/oil-drops-as-hopes-for-persian-gulf-resolution-grow-200680678",
+    "image": "https://picsum.photos/seed/wv-core-eb584547eecf/1200/750",
+    "source": "Investing.com Commodities",
+    "source_id": "core-fill-trzista",
+    "category": "trzista",
+    "published_at": "2026-05-21T05:20:00+00:00",
+    "fetched_at": "2026-05-21T08:52:10.683500+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "e00d9b2ba3b4a8e5",
+    "title": "Offshore vs. ground-mounted PV",
+    "description": "Taiwan researchers compared a 100 MW ground solar plant with a 181 MW offshore floating PV system and found the offshore setup produced about 12% more electricity over its lifetime. They attribute the gain to cooling and intertidal effects, suggesting offshore floating solar is technically viable, although it is currently around 30% more expensive and still faces durability and marine engineering challenges.",
+    "url": "https://www.pv-magazine.com/2026/05/21/offshore-vs-ground-mounted-pv-2/",
+    "image": "https://picsum.photos/seed/wv-news-2c9546e7cc5d/1200/750",
+    "source": "PV Magazine",
+    "source_id": "src-060",
+    "category": "trzista",
+    "published_at": "2026-05-21T05:08:59+00:00",
+    "fetched_at": "2026-05-21T08:48:55.788612+00:00"
+  },
+  {
+    "id": "8b6f421fa432e24f",
+    "title": "Gold Caught Between Safe-Haven Demand and the Rates Shock",
+    "description": "Izvorni naslov/sažetak s portala Investing.com Commodities. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/analysis/gold-caught-between-safehaven-demand-and-the-rates-shock-200680675",
+    "image": "https://picsum.photos/seed/wv-core-c973e582feef/1200/750",
+    "source": "Investing.com Commodities",
+    "source_id": "core-fill-trzista",
+    "category": "trzista",
+    "published_at": "2026-05-21T04:38:00+00:00",
+    "fetched_at": "2026-05-21T08:52:10.683527+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "9ab88ad40cc919ef",
+    "title": "From TACO to FOMO: How retail traders turned Trump-driven volatility into a playbook - Reuters",
+    "description": "From TACO to FOMO: How retail traders turned Trump-driven volatility into a playbook Reuters",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbUFITHZXRUIzM0VUNm9yUlBJQk82MXhPc2s3aHVZal8wbVVuY0JEVE8xcEFXeWYyTHZhVFZqTmNRR0RVM242Nl9rYS1pR0RaWHJDaHF6cjhhXzJhUGxOSW1aTTBUSmg4NGQ1TXN4Y1I2a0I1R3RIMHRnT0JXR19HT2UyQmx3MnZ3ZXVOb0pncWNnZw?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-5c4ecd4813cb/1200/750",
+    "source": "Reuters Commodities - Google News",
+    "source_id": "global-extra-010",
+    "category": "trzista",
+    "published_at": "2026-05-21T04:38:00+00:00",
+    "fetched_at": "2026-05-21T08:49:35.570144+00:00"
+  },
+  {
     "id": "2cf4ff3ab4ff5561",
-    "title": "Gold steady as US-Iran deal hopes counter inflation fears - Reuters",
-    "description": "Gold steady as US-Iran deal hopes counter inflation fears Reuters",
+    "title": "Gold eases on higher yields, firm dollar; US-Iran talks in focus - Reuters",
+    "description": "Gold eases on higher yields, firm dollar; US-Iran talks in focus Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRFBIY25lQ2I1TkdDTW02d3BZTkthVkVYbjNQTEdhQVlXTXpfSW5ZUlFPcmViUzNlSjZaaWgxRjc3V0lsN1hLQ3lLM0RSTUJvd2dza0RsMDBKVkdDQVhCNnlQU1oxZWpqVGNLdnlkUmNPYW5uR0NkTE1jaUdKMmhjUWJBZUlVTWhvTmxqSzE0UklsNmRxMVFsaVJDbGdsZXFybWdtLUVOenA2QTA?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-89351c15d6f3/1200/750",
+    "image": "https://picsum.photos/seed/wv-news-685c23bdbf10/1200/750",
     "source": "Reuters Commodities - Google News",
     "source_id": "global-extra-010",
     "category": "trzista",
     "published_at": "2026-05-21T01:21:00+00:00",
-    "fetched_at": "2026-05-21T04:26:15.328050+00:00"
+    "fetched_at": "2026-05-21T08:49:35.569796+00:00"
   },
   {
     "id": "f68737291903344e",
@@ -21,7 +348,7 @@
     "source_id": "global-extra-010",
     "category": "trzista",
     "published_at": "2026-05-21T01:03:00+00:00",
-    "fetched_at": "2026-05-21T04:26:15.327460+00:00"
+    "fetched_at": "2026-05-21T08:49:35.569432+00:00"
   },
   {
     "id": "36ae0f453537e779",
@@ -33,7 +360,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-21T00:00:00+00:00",
-    "fetched_at": "2026-05-21T04:24:52.910868+00:00"
+    "fetched_at": "2026-05-21T08:48:53.200972+00:00"
   },
   {
     "id": "a8f43dd69615a72c",
@@ -45,7 +372,7 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-20T23:26:15+00:00",
-    "fetched_at": "2026-05-20T23:59:43.575434+00:00"
+    "fetched_at": "2026-05-21T08:48:54.394217+00:00"
   },
   {
     "id": "4ea37c85875ba648",
@@ -57,7 +384,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-20T23:00:00+00:00",
-    "fetched_at": "2026-05-21T04:24:52.910976+00:00"
+    "fetched_at": "2026-05-21T08:48:53.201046+00:00"
   },
   {
     "id": "eccd803460607636",
@@ -69,7 +396,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-20T22:00:00+00:00",
-    "fetched_at": "2026-05-21T04:24:52.911063+00:00"
+    "fetched_at": "2026-05-21T08:48:53.201116+00:00"
   },
   {
     "id": "6e49fd1c4cf9e037",
@@ -81,7 +408,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-20T21:45:25+00:00",
-    "fetched_at": "2026-05-21T04:31:59.661096+00:00",
+    "fetched_at": "2026-05-21T08:52:11.010660+00:00",
     "core_business_science_fill": true
   },
   {
@@ -106,10 +433,22 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-20T21:00:00+00:00",
-    "fetched_at": "2026-05-21T04:24:52.911143+00:00"
+    "fetched_at": "2026-05-21T08:48:53.201183+00:00"
   },
   {
-    "id": "5c7e1d33052d1e4b",
+    "id": "eb6be927262a7feb",
+    "title": "Appalachian Region Could Hold Key to U.S. Battery Supply Chain Independence - Crude Oil Prices Today | OilPrice.com",
+    "description": "Appalachian Region Could Hold Key to U.S. Battery Supply Chain Independence Crude Oil Prices Today | OilPrice.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMmxQX25BWWFGeTlxeTZ0bTF3TU9GNE5yanBVeUktbk1vVkltejZGRExKMWQwN0tUamZHV2k4WUcwZFlvb1pma3phX291WUxKeEFNNU01dDB1WmpSdGZsbzdFcllub0N2QUNFc1NPMkFleVVZM0gxYVdPYkRiLTZpVGhVM2xkQWpmLW56X3dOVjVlOFY4VnEyV1VXMGU1RGtiTm90bTZvSGZMM1dfVFlScS1kdWVyako5OEHSAb8BQVVfeXFMTXByMW9BZGRvdU9fdktIbkZEY2VBaWNjWlRtR215dGJMbjgzTjBLQ05lOFI2azlsdnEtdWZzejBtaV9PSnVpclQtMU9FR2FucHRZMV9oTmxxNHhSczhXOEJqbDQtY3EtTHpzSlVfTllfbmlOUTBHREZmLVN6dGxBR1hqRG9hYzNIY3I1T081RGRCLTkxMGxORzI1NTBmcWtHMG05VzRkWWFIdXZCc09JMUNZOEVIdFpYU0p2cnZBaFU?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-21067fa26463/1200/750",
+    "source": "OilPrice Markets - Google News",
+    "source_id": "global-extra-011",
+    "category": "trzista",
+    "published_at": "2026-05-20T21:00:00+00:00",
+    "fetched_at": "2026-05-21T08:49:36.030692+00:00"
+  },
+  {
+    "id": "ed71ce3515f5f4ec",
     "title": "USA Rare Earth’s Cash War Chest Offsets Its Early-Stage Losses",
     "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
     "url": "https://www.investing.com/analysis/usa-rare-earths-cash-war-chest-offsets-its-earlystage-losses-200680674",
@@ -131,10 +470,10 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-20T20:50:09+00:00",
-    "fetched_at": "2026-05-20T23:59:43.575549+00:00"
+    "fetched_at": "2026-05-21T08:48:54.394299+00:00"
   },
   {
-    "id": "d1b177900085cc32",
+    "id": "ef271261c10dd37a",
     "title": "Blackstone and Google Forge an AI Empire as AI Consolidation Begins",
     "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
     "url": "https://www.investing.com/analysis/blackstone-and-google-forge-an-ai-empire-as-ai-consolidation-begins-200680672",
@@ -156,7 +495,7 @@
     "source_id": "src-054",
     "category": "trzista",
     "published_at": "2026-05-20T20:22:12+00:00",
-    "fetched_at": "2026-05-21T04:24:54.589499+00:00"
+    "fetched_at": "2026-05-21T08:48:54.984486+00:00"
   },
   {
     "id": "a44f1047d7a42b69",
@@ -168,7 +507,7 @@
     "source_id": "src-051",
     "category": "trzista",
     "published_at": "2026-05-20T19:53:00+00:00",
-    "fetched_at": "2026-05-21T04:24:53.971218+00:00"
+    "fetched_at": "2026-05-21T08:48:54.633517+00:00"
   },
   {
     "id": "02843ea73eb9282b",
@@ -180,7 +519,7 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-20T19:48:06+00:00",
-    "fetched_at": "2026-05-20T23:59:43.575626+00:00"
+    "fetched_at": "2026-05-21T08:48:54.394360+00:00"
   },
   {
     "id": "a5f09d0b2e6b0368",
@@ -192,10 +531,10 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2026-05-20T19:33:06+00:00",
-    "fetched_at": "2026-05-21T04:24:53.760337+00:00"
+    "fetched_at": "2026-05-21T08:48:54.576893+00:00"
   },
   {
-    "id": "9d59ff14262bf018",
+    "id": "0300254eb6601179",
     "title": "A 15.3% Yield, 2 Dividend Cuts and a $600 Million Reason to Buy",
     "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
     "url": "https://www.investing.com/analysis/a-153-yield-2-dividend-cuts-and-a-600-million-reason-to-buy-200680623",
@@ -217,7 +556,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-20T19:00:00+00:00",
-    "fetched_at": "2026-05-21T04:24:52.911223+00:00"
+    "fetched_at": "2026-05-21T08:48:53.201253+00:00"
   },
   {
     "id": "13c87ca94937a66b",
@@ -229,7 +568,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-20T18:36:00+00:00",
-    "fetched_at": "2026-05-21T04:31:59.155918+00:00",
+    "fetched_at": "2026-05-21T08:52:10.683559+00:00",
     "core_business_science_fill": true
   },
   {
@@ -245,7 +584,7 @@
     "fetched_at": "2026-05-21T04:26:15.327829+00:00"
   },
   {
-    "id": "3c393c03cc30ef9b",
+    "id": "9c74e02e79095be7",
     "title": "Nvidia Earnings Expected to Extend the AI Rally as Vera Rubin Production Ramps Up",
     "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
     "url": "https://www.investing.com/analysis/nvidia-earnings-expected-to-extend-the-ai-rally-as-vera-rubin-production-ramps-up-200680663",
@@ -267,7 +606,7 @@
     "source_id": "src-052",
     "category": "trzista",
     "published_at": "2026-05-20T18:11:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.176849+00:00"
+    "fetched_at": "2026-05-21T08:48:54.720468+00:00"
   },
   {
     "id": "8515529f0374c935",
@@ -279,10 +618,10 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2026-05-20T18:08:58+00:00",
-    "fetched_at": "2026-05-21T04:24:53.760446+00:00"
+    "fetched_at": "2026-05-21T08:48:54.576970+00:00"
   },
   {
-    "id": "db699fd8902a9dc6",
+    "id": "c3aef73a9d55e939",
     "title": "Reddit Stock’s Selloff Tests the Gap Between Price Action and Fundamentals",
     "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
     "url": "https://www.investing.com/analysis/reddit-stocks-selloff-tests-the-gap-between-price-action-and-fundamentals-200680662",
@@ -304,10 +643,10 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-20T18:00:00+00:00",
-    "fetched_at": "2026-05-21T04:24:52.911306+00:00"
+    "fetched_at": "2026-05-21T08:48:53.201320+00:00"
   },
   {
-    "id": "bfcf09faf74fac59",
+    "id": "43c6fad3ac9c817c",
     "title": "Nike’s Turnaround Case Rests on Margin Recovery and Inventory Discipline",
     "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
     "url": "https://www.investing.com/analysis/nikes-turnaround-case-rests-on-margin-recovery-and-inventory-discipline-200680661",
@@ -329,7 +668,7 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2026-05-20T17:32:47+00:00",
-    "fetched_at": "2026-05-21T04:24:53.760517+00:00"
+    "fetched_at": "2026-05-21T08:48:54.577031+00:00"
   },
   {
     "id": "2939198e37602e90",
@@ -341,7 +680,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-20T17:30:00+00:00",
-    "fetched_at": "2026-05-21T04:24:52.911390+00:00"
+    "fetched_at": "2026-05-21T08:48:53.201389+00:00"
   },
   {
     "id": "f999d59a029a0221",
@@ -357,7 +696,7 @@
     "core_business_science_fill": true
   },
   {
-    "id": "14c4e5e988ded97a",
+    "id": "213d97f24ce7685c",
     "title": "Earnings Become Key as Markets Look Past High Oil and Interest Rates",
     "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
     "url": "https://www.investing.com/analysis/earnings-become-key-as-markets-look-past-high-oil-and-interest-rates-200680659",
@@ -379,7 +718,7 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2026-05-20T17:26:50+00:00",
-    "fetched_at": "2026-05-21T04:24:53.760585+00:00"
+    "fetched_at": "2026-05-21T08:48:54.577120+00:00"
   },
   {
     "id": "fb53b5e63789ac16",
@@ -391,7 +730,7 @@
     "source_id": "src-054",
     "category": "trzista",
     "published_at": "2026-05-20T17:23:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.589577+00:00"
+    "fetched_at": "2026-05-21T08:48:54.984562+00:00"
   },
   {
     "id": "62e2f894df13eb0c",
@@ -403,7 +742,7 @@
     "source_id": "src-054",
     "category": "trzista",
     "published_at": "2026-05-20T17:08:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.589685+00:00"
+    "fetched_at": "2026-05-21T08:48:54.984636+00:00"
   },
   {
     "id": "ab36b8ac96bd865d",
@@ -415,7 +754,7 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2026-05-20T17:06:38+00:00",
-    "fetched_at": "2026-05-21T04:24:53.760685+00:00"
+    "fetched_at": "2026-05-21T08:48:54.577183+00:00"
   },
   {
     "id": "5fa9963d7041e588",
@@ -427,7 +766,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-20T17:00:00+00:00",
-    "fetched_at": "2026-05-21T04:24:52.911468+00:00"
+    "fetched_at": "2026-05-21T08:48:53.201459+00:00"
   },
   {
     "id": "f5b92a26cfd76816",
@@ -439,7 +778,7 @@
     "source_id": "src-052",
     "category": "trzista",
     "published_at": "2026-05-20T16:58:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.176960+00:00"
+    "fetched_at": "2026-05-21T08:48:54.720576+00:00"
   },
   {
     "id": "cd3550804ddd95a4",
@@ -451,10 +790,10 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-20T16:55:00+00:00",
-    "fetched_at": "2026-05-21T04:24:52.911545+00:00"
+    "fetched_at": "2026-05-21T08:48:53.201526+00:00"
   },
   {
-    "id": "e20f01073362f149",
+    "id": "5ef1466367d27a38",
     "title": "Meta Layoffs Show the Hidden Labor Cost of Big AI Spending",
     "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
     "url": "https://www.investing.com/analysis/meta-layoffs-show-the-hidden-labor-cost-of-big-ai-spending-200680658",
@@ -476,7 +815,7 @@
     "source_id": "src-052",
     "category": "trzista",
     "published_at": "2026-05-20T16:47:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.177042+00:00"
+    "fetched_at": "2026-05-21T08:48:54.720652+00:00"
   },
   {
     "id": "ad8469d14ee58cfe",
@@ -488,7 +827,7 @@
     "source_id": "src-056",
     "category": "trzista",
     "published_at": "2026-05-20T16:47:00+00:00",
-    "fetched_at": "2026-05-21T04:24:55.301490+00:00"
+    "fetched_at": "2026-05-21T08:48:55.268697+00:00"
   },
   {
     "id": "59fa4cf7e0615298",
@@ -500,7 +839,7 @@
     "source_id": "src-058",
     "category": "trzista",
     "published_at": "2026-05-20T16:40:59+00:00",
-    "fetched_at": "2026-05-21T04:24:55.911177+00:00"
+    "fetched_at": "2026-05-21T08:48:55.511137+00:00"
   },
   {
     "id": "5a4696f1101f9e73",
@@ -512,7 +851,7 @@
     "source_id": "src-052",
     "category": "trzista",
     "published_at": "2026-05-20T16:40:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.177129+00:00"
+    "fetched_at": "2026-05-21T08:48:54.720730+00:00"
   },
   {
     "id": "936184d3c351d355",
@@ -524,7 +863,7 @@
     "source_id": "src-053",
     "category": "trzista",
     "published_at": "2026-05-20T16:34:53+00:00",
-    "fetched_at": "2026-05-21T04:24:54.382054+00:00"
+    "fetched_at": "2026-05-21T08:48:54.851388+00:00"
   },
   {
     "id": "dab44342d34ca8d9",
@@ -536,7 +875,7 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2026-05-20T16:34:21+00:00",
-    "fetched_at": "2026-05-21T04:24:53.760756+00:00"
+    "fetched_at": "2026-05-21T08:48:54.577241+00:00"
   },
   {
     "id": "4ae4eeaf1b654bcb",
@@ -551,7 +890,7 @@
     "fetched_at": "2026-05-21T04:24:52.911644+00:00"
   },
   {
-    "id": "652ec3d38addee0e",
+    "id": "a335b1679800f629",
     "title": "Nvidia’s China Strategy Faces New Pressure After RTX 5090D V2 Ban",
     "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
     "url": "https://www.investing.com/analysis/nvidias-china-strategy-faces-new-pressure-after-rtx-5090d-v2-ban-200680655",
@@ -573,7 +912,7 @@
     "source_id": "src-056",
     "category": "trzista",
     "published_at": "2026-05-20T16:13:00+00:00",
-    "fetched_at": "2026-05-21T04:24:55.301584+00:00"
+    "fetched_at": "2026-05-21T08:48:55.268786+00:00"
   },
   {
     "id": "42a09d3105a78621",
@@ -597,7 +936,7 @@
     "source_id": "src-051",
     "category": "trzista",
     "published_at": "2026-05-20T16:06:42+00:00",
-    "fetched_at": "2026-05-21T04:24:53.971312+00:00"
+    "fetched_at": "2026-05-21T08:48:54.633607+00:00"
   },
   {
     "id": "3b462195e8f7fab0",
@@ -609,7 +948,7 @@
     "source_id": "src-053",
     "category": "trzista",
     "published_at": "2026-05-20T16:05:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.382141+00:00"
+    "fetched_at": "2026-05-21T08:48:54.851470+00:00"
   },
   {
     "id": "4d0acd494a04f698",
@@ -621,20 +960,7 @@
     "source_id": "src-056",
     "category": "trzista",
     "published_at": "2026-05-20T16:05:00+00:00",
-    "fetched_at": "2026-05-21T04:24:55.301693+00:00"
-  },
-  {
-    "id": "36dcf93d3d821945",
-    "title": "Playtech’s Hot Start to 2026 Has Investors Turning Bullish",
-    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/analysis/playtechs-hot-start-to-2026-has-investors-turning-bullish-200680654",
-    "image": "https://picsum.photos/seed/wv-core-b745f84a3ba3/1200/750",
-    "source": "Investing.com Stock Market",
-    "source_id": "core-fill-trzista",
-    "category": "trzista",
-    "published_at": "2026-05-20T16:03:00+00:00",
-    "fetched_at": "2026-05-21T04:31:59.040150+00:00",
-    "core_business_science_fill": true
+    "fetched_at": "2026-05-21T08:48:55.268872+00:00"
   },
   {
     "id": "d1d30cd31fa0a850",
@@ -646,7 +972,20 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-20T16:03:00+00:00",
-    "fetched_at": "2026-05-20T23:59:43.575694+00:00"
+    "fetched_at": "2026-05-21T08:48:54.394415+00:00"
+  },
+  {
+    "id": "6e46a26258e39c41",
+    "title": "Playtech’s Hot Start to 2026 Has Investors Turning Bullish",
+    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/analysis/playtechs-hot-start-to-2026-has-investors-turning-bullish-200680654",
+    "image": "https://picsum.photos/seed/wv-core-b745f84a3ba3/1200/750",
+    "source": "Investing.com Stock Market",
+    "source_id": "core-fill-trzista",
+    "category": "trzista",
+    "published_at": "2026-05-20T16:03:00+00:00",
+    "fetched_at": "2026-05-21T04:31:59.040150+00:00",
+    "core_business_science_fill": true
   },
   {
     "id": "d98d31b120aa0ec6",
@@ -670,7 +1009,7 @@
     "source_id": "src-054",
     "category": "trzista",
     "published_at": "2026-05-20T15:52:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.589762+00:00"
+    "fetched_at": "2026-05-21T08:48:54.984702+00:00"
   },
   {
     "id": "ff20851637829b5b",
@@ -682,7 +1021,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-20T15:41:00+00:00",
-    "fetched_at": "2026-05-21T04:31:59.661162+00:00",
+    "fetched_at": "2026-05-21T08:52:11.010722+00:00",
     "core_business_science_fill": true
   },
   {
@@ -708,7 +1047,7 @@
     "source_id": "src-052",
     "category": "trzista",
     "published_at": "2026-05-20T15:37:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.177212+00:00"
+    "fetched_at": "2026-05-21T08:48:54.720805+00:00"
   },
   {
     "id": "00a976a150d1afa3",
@@ -732,7 +1071,7 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-20T15:28:35+00:00",
-    "fetched_at": "2026-05-20T23:59:43.575771+00:00"
+    "fetched_at": "2026-05-21T08:48:54.394480+00:00"
   },
   {
     "id": "318b15cfae67e178",
@@ -744,7 +1083,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-20T15:26:00+00:00",
-    "fetched_at": "2026-05-21T04:31:59.155967+00:00",
+    "fetched_at": "2026-05-21T08:52:10.683589+00:00",
     "core_business_science_fill": true
   },
   {
@@ -757,7 +1096,7 @@
     "source_id": "src-052",
     "category": "trzista",
     "published_at": "2026-05-20T15:21:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.177293+00:00"
+    "fetched_at": "2026-05-21T08:48:54.720893+00:00"
   },
   {
     "id": "c58cc6c144b5bda7",
@@ -769,7 +1108,7 @@
     "source_id": "global-extra-012",
     "category": "trzista",
     "published_at": "2026-05-20T15:19:16+00:00",
-    "fetched_at": "2026-05-21T04:26:16.549119+00:00"
+    "fetched_at": "2026-05-21T08:49:36.558038+00:00"
   },
   {
     "id": "443fc69b79680818",
@@ -781,7 +1120,7 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-20T15:17:40+00:00",
-    "fetched_at": "2026-05-20T23:59:43.575837+00:00"
+    "fetched_at": "2026-05-21T08:48:54.394532+00:00"
   },
   {
     "id": "89d6fabb6a0bf39b",
@@ -793,7 +1132,7 @@
     "source_id": "src-051",
     "category": "trzista",
     "published_at": "2026-05-20T14:58:31+00:00",
-    "fetched_at": "2026-05-21T04:24:53.971393+00:00"
+    "fetched_at": "2026-05-21T08:48:54.633677+00:00"
   },
   {
     "id": "37955a97b15f47a0",
@@ -805,7 +1144,7 @@
     "source_id": "src-051",
     "category": "trzista",
     "published_at": "2026-05-20T14:54:00+00:00",
-    "fetched_at": "2026-05-21T04:24:53.971464+00:00"
+    "fetched_at": "2026-05-21T08:48:54.633738+00:00"
   },
   {
     "id": "57fd9c9335970226",
@@ -817,7 +1156,7 @@
     "source_id": "src-055",
     "category": "trzista",
     "published_at": "2026-05-20T14:47:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.805711+00:00"
+    "fetched_at": "2026-05-21T08:48:55.125310+00:00"
   },
   {
     "id": "bcf4b1ff230f3ec0",
@@ -829,7 +1168,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-20T14:39:00+00:00",
-    "fetched_at": "2026-05-21T04:31:59.156003+00:00",
+    "fetched_at": "2026-05-21T08:52:10.683616+00:00",
     "core_business_science_fill": true
   },
   {
@@ -866,7 +1205,7 @@
     "source_id": "src-054",
     "category": "trzista",
     "published_at": "2026-05-20T14:25:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.589834+00:00"
+    "fetched_at": "2026-05-21T08:48:54.984761+00:00"
   },
   {
     "id": "01ffc0b24c56a89b",
@@ -878,7 +1217,7 @@
     "source_id": "src-052",
     "category": "trzista",
     "published_at": "2026-05-20T14:23:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.177373+00:00"
+    "fetched_at": "2026-05-21T08:48:54.720954+00:00"
   },
   {
     "id": "a71764878b26b1e3",
@@ -890,7 +1229,7 @@
     "source_id": "src-054",
     "category": "trzista",
     "published_at": "2026-05-20T14:16:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.589923+00:00"
+    "fetched_at": "2026-05-21T08:48:54.984842+00:00"
   },
   {
     "id": "33340e4b6fed589c",
@@ -902,7 +1241,7 @@
     "source_id": "src-055",
     "category": "trzista",
     "published_at": "2026-05-20T14:14:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.805798+00:00"
+    "fetched_at": "2026-05-21T08:48:55.125392+00:00"
   },
   {
     "id": "d469e7401fd5a0b9",
@@ -914,7 +1253,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-20T14:11:58+00:00",
-    "fetched_at": "2026-05-21T04:31:59.661216+00:00",
+    "fetched_at": "2026-05-21T08:52:11.010771+00:00",
     "core_business_science_fill": true
   },
   {
@@ -927,7 +1266,7 @@
     "source_id": "src-151",
     "category": "trzista",
     "published_at": "2026-05-20T14:09:46+00:00",
-    "fetched_at": "2026-05-21T04:25:57.823938+00:00"
+    "fetched_at": "2026-05-21T08:49:21.367658+00:00"
   },
   {
     "id": "dfb322029a6b1da5",
@@ -939,7 +1278,7 @@
     "source_id": "global-extra-011",
     "category": "trzista",
     "published_at": "2026-05-20T14:00:00+00:00",
-    "fetched_at": "2026-05-21T04:26:15.943712+00:00"
+    "fetched_at": "2026-05-21T08:49:36.029880+00:00"
   },
   {
     "id": "40a5ba258677aab3",
@@ -963,7 +1302,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-20T13:52:10+00:00",
-    "fetched_at": "2026-05-21T04:24:56.457189+00:00"
+    "fetched_at": "2026-05-21T08:48:55.788674+00:00"
   },
   {
     "id": "8bb65ded49360f82",
@@ -975,7 +1314,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-20T13:47:38+00:00",
-    "fetched_at": "2026-05-21T04:24:56.457285+00:00"
+    "fetched_at": "2026-05-21T08:48:55.788775+00:00"
   },
   {
     "id": "9e3c3ac6d8617e63",
@@ -987,7 +1326,7 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-20T13:46:00+00:00",
-    "fetched_at": "2026-05-20T23:59:43.575911+00:00"
+    "fetched_at": "2026-05-21T08:48:54.394589+00:00"
   },
   {
     "id": "fc4f8dd818f8e7ae",
@@ -999,7 +1338,7 @@
     "source_id": "src-055",
     "category": "trzista",
     "published_at": "2026-05-20T13:30:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.805889+00:00"
+    "fetched_at": "2026-05-21T08:48:55.125479+00:00"
   },
   {
     "id": "58ff1be1d7a53872",
@@ -1023,7 +1362,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-20T13:29:00+00:00",
-    "fetched_at": "2026-05-21T04:31:59.156043+00:00",
+    "fetched_at": "2026-05-21T08:52:10.683648+00:00",
     "core_business_science_fill": true
   },
   {
@@ -1036,7 +1375,7 @@
     "source_id": "src-054",
     "category": "trzista",
     "published_at": "2026-05-20T13:21:00+00:00",
-    "fetched_at": "2026-05-21T04:24:54.590003+00:00"
+    "fetched_at": "2026-05-21T08:48:54.984930+00:00"
   },
   {
     "id": "ba79a3ad64a3157c",
@@ -1048,7 +1387,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-20T13:18:00+00:00",
-    "fetched_at": "2026-05-21T04:31:59.156077+00:00",
+    "fetched_at": "2026-05-21T08:52:10.683677+00:00",
     "core_business_science_fill": true
   },
   {
@@ -1073,7 +1412,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-20T13:00:21+00:00",
-    "fetched_at": "2026-05-21T04:31:59.339039+00:00",
+    "fetched_at": "2026-05-21T08:52:10.858635+00:00",
     "core_business_science_fill": true
   },
   {
@@ -1086,7 +1425,7 @@
     "source_id": "global-extra-012",
     "category": "trzista",
     "published_at": "2026-05-20T12:52:30+00:00",
-    "fetched_at": "2026-05-21T04:26:16.548811+00:00"
+    "fetched_at": "2026-05-21T08:49:36.557734+00:00"
   },
   {
     "id": "b96ee68300ca0195",
@@ -1161,7 +1500,7 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-20T11:58:00+00:00",
-    "fetched_at": "2026-05-20T23:59:43.575973+00:00"
+    "fetched_at": "2026-05-21T08:48:54.394635+00:00"
   },
   {
     "id": "de9016590f49795c",
@@ -1173,7 +1512,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-20T11:52:36+00:00",
-    "fetched_at": "2026-05-21T04:31:59.661262+00:00",
+    "fetched_at": "2026-05-21T08:52:11.010813+00:00",
     "core_business_science_fill": true
   },
   {
@@ -1186,7 +1525,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-20T11:43:09+00:00",
-    "fetched_at": "2026-05-21T04:24:56.457357+00:00"
+    "fetched_at": "2026-05-21T08:48:55.788834+00:00"
   },
   {
     "id": "03e27c2cd1420a54",
@@ -1198,7 +1537,7 @@
     "source_id": "src-051",
     "category": "trzista",
     "published_at": "2026-05-20T11:37:00+00:00",
-    "fetched_at": "2026-05-21T04:24:53.971537+00:00"
+    "fetched_at": "2026-05-21T08:48:54.633801+00:00"
   },
   {
     "id": "257c8adb82617bd6",
@@ -1210,7 +1549,7 @@
     "source_id": "global-extra-011",
     "category": "trzista",
     "published_at": "2026-05-20T11:30:00+00:00",
-    "fetched_at": "2026-05-21T04:26:15.943820+00:00"
+    "fetched_at": "2026-05-21T08:49:36.029984+00:00"
   },
   {
     "id": "4b277c446ef9aff2",
@@ -1234,7 +1573,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-20T11:15:45+00:00",
-    "fetched_at": "2026-05-21T04:24:56.457422+00:00"
+    "fetched_at": "2026-05-21T08:48:55.788903+00:00"
   },
   {
     "id": "b542278820d777a1",
@@ -1270,7 +1609,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-20T10:58:42+00:00",
-    "fetched_at": "2026-05-21T04:24:56.457519+00:00"
+    "fetched_at": "2026-05-21T08:48:55.788958+00:00"
   },
   {
     "id": "0fbb56aed5e369b2",
@@ -1282,10 +1621,10 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-20T10:55:00+00:00",
-    "fetched_at": "2026-05-20T23:59:43.576046+00:00"
+    "fetched_at": "2026-05-21T08:48:54.394693+00:00"
   },
   {
-    "id": "3a6c1c340a7fe589",
+    "id": "0162602f3006e46d",
     "title": "WTI Holds Bullish Structure Near Key Resistance Ahead of FOMC Minutes",
     "description": "Izvorni naslov/sažetak s portala Investing.com Commodities. Nastavak se čita kod izvornog izdavača.",
     "url": "https://www.investing.com/analysis/oil-holds-above-key-participation-zones-ahead-of-fomc-minutes-as-markets-reassess-200680608",
@@ -1307,7 +1646,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-20T10:36:33+00:00",
-    "fetched_at": "2026-05-21T04:24:56.457599+00:00"
+    "fetched_at": "2026-05-21T08:48:55.789022+00:00"
   },
   {
     "id": "f02c01b104298d04",
@@ -1319,7 +1658,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-20T10:30:53+00:00",
-    "fetched_at": "2026-05-21T04:31:59.339118+00:00",
+    "fetched_at": "2026-05-21T08:52:10.858710+00:00",
     "core_business_science_fill": true
   },
   {
@@ -1344,7 +1683,7 @@
     "source_id": "src-151",
     "category": "trzista",
     "published_at": "2026-05-20T10:23:24+00:00",
-    "fetched_at": "2026-05-21T04:25:57.824025+00:00"
+    "fetched_at": "2026-05-21T08:49:21.367726+00:00"
   },
   {
     "id": "6c1f2e4233ff8b2d",
@@ -1381,7 +1720,19 @@
     "source_id": "global-extra-010",
     "category": "trzista",
     "published_at": "2026-05-20T10:19:00+00:00",
-    "fetched_at": "2026-05-21T04:26:15.328370+00:00"
+    "fetched_at": "2026-05-21T08:49:35.570084+00:00"
+  },
+  {
+    "id": "cf832d5cd053ba3c",
+    "title": "Antora, POET commission 5GWh thermal battery system in South Dakota",
+    "description": "Antora Energy, POET commissioned a 5GWh thermal energy storage system at the latter’s Big Stone City bioprocessing facility in South Dakota.",
+    "url": "https://www.energymonitor.ai/news/antora-poet-commission-thermal-battery/",
+    "image": "https://picsum.photos/seed/wv-news-5dc6259d756b/1200/750",
+    "source": "Energy Monitor",
+    "source_id": "src-059",
+    "category": "trzista",
+    "published_at": "2026-05-20T10:03:49+00:00",
+    "fetched_at": "2026-05-21T08:48:55.606217+00:00"
   },
   {
     "id": "8b80415de3eca784",
@@ -1418,10 +1769,10 @@
     "source_id": "src-150",
     "category": "trzista",
     "published_at": "2026-05-20T09:41:48+00:00",
-    "fetched_at": "2026-05-21T04:25:57.558601+00:00"
+    "fetched_at": "2026-05-21T08:49:21.231636+00:00"
   },
   {
-    "id": "949938e8121213d5",
+    "id": "0182bcf3991baa1b",
     "title": "Gold Gets Smoked as Yields Rip Higher",
     "description": "Izvorni naslov/sažetak s portala Investing.com Commodities. Nastavak se čita kod izvornog izdavača.",
     "url": "https://www.investing.com/analysis/gold-gets-smoked-as-yields-rip-higher-200680625",
@@ -1446,7 +1797,7 @@
     "fetched_at": "2026-05-20T13:46:58.193932+00:00"
   },
   {
-    "id": "c4dbc3ba3ac3712c",
+    "id": "751711169bed5621",
     "title": "LNG Stabilizes Near Key Participation Zone Ahead of FOMC Minutes",
     "description": "Izvorni naslov/sažetak s portala Investing.com Commodities. Nastavak se čita kod izvornog izdavača.",
     "url": "https://www.investing.com/analysis/lng-stabilizes-near-key-participation-zone-ahead-of-fomc-minutes-200680624",
@@ -1480,7 +1831,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-20T09:00:56+00:00",
-    "fetched_at": "2026-05-21T04:24:56.457693+00:00"
+    "fetched_at": "2026-05-21T08:48:55.789076+00:00"
   },
   {
     "id": "51682384e095d9ce",
@@ -1492,7 +1843,7 @@
     "source_id": "src-058",
     "category": "trzista",
     "published_at": "2026-05-20T09:00:14+00:00",
-    "fetched_at": "2026-05-21T04:24:55.911268+00:00"
+    "fetched_at": "2026-05-21T08:48:55.511229+00:00"
   },
   {
     "id": "2982d20467584251",
@@ -1517,7 +1868,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-20T08:59:11+00:00",
-    "fetched_at": "2026-05-21T04:24:56.457763+00:00"
+    "fetched_at": "2026-05-21T08:48:55.789133+00:00"
   },
   {
     "id": "c16a51cc6cfb45c3",
@@ -1566,7 +1917,7 @@
     "source_id": "src-151",
     "category": "trzista",
     "published_at": "2026-05-20T08:34:50+00:00",
-    "fetched_at": "2026-05-21T04:25:57.824100+00:00"
+    "fetched_at": "2026-05-21T08:49:21.367785+00:00"
   },
   {
     "id": "9cca56d4d331a3c0",
@@ -1591,7 +1942,7 @@
     "source_id": "src-151",
     "category": "trzista",
     "published_at": "2026-05-20T08:23:09+00:00",
-    "fetched_at": "2026-05-21T04:25:57.824173+00:00"
+    "fetched_at": "2026-05-21T08:49:21.367846+00:00"
   },
   {
     "id": "f7fea6c5e5741844",
@@ -1639,7 +1990,7 @@
     "source_id": "src-150",
     "category": "trzista",
     "published_at": "2026-05-20T08:00:48+00:00",
-    "fetched_at": "2026-05-21T04:25:57.558716+00:00"
+    "fetched_at": "2026-05-21T08:49:21.231702+00:00"
   },
   {
     "id": "1f97f1be890708da",
@@ -1651,7 +2002,7 @@
     "source_id": "src-150",
     "category": "trzista",
     "published_at": "2026-05-20T08:00:44+00:00",
-    "fetched_at": "2026-05-21T04:25:57.558811+00:00"
+    "fetched_at": "2026-05-21T08:49:21.231781+00:00"
   },
   {
     "id": "7d71a900f5af020a",
@@ -1687,7 +2038,7 @@
     "source_id": "src-059",
     "category": "trzista",
     "published_at": "2026-05-20T07:28:07+00:00",
-    "fetched_at": "2026-05-21T04:24:56.047834+00:00"
+    "fetched_at": "2026-05-21T08:48:55.606303+00:00"
   },
   {
     "id": "7a66b6b075867284",
@@ -1699,7 +2050,7 @@
     "source_id": "src-151",
     "category": "trzista",
     "published_at": "2026-05-20T07:27:51+00:00",
-    "fetched_at": "2026-05-21T04:25:57.824249+00:00"
+    "fetched_at": "2026-05-21T08:49:21.367933+00:00"
   },
   {
     "id": "483952d9b4056311",
@@ -1791,7 +2142,7 @@
     "core_business_science_fill": true
   },
   {
-    "id": "98faecb1d7fdb81e",
+    "id": "6866cc2608963970",
     "title": "Silver Futures Enter Critical VC PMI Cycle Window as Square of 9 Targets $91.87",
     "description": "Izvorni naslov/sažetak s portala Investing.com Commodities. Nastavak se čita kod izvornog izdavača.",
     "url": "https://www.investing.com/analysis/silver-futures-enter-critical-vc-pmi-cycle-window-as-square-of-9-targets-9187-200680599",
@@ -1804,7 +2155,7 @@
     "core_business_science_fill": true
   },
   {
-    "id": "4e037d433ff43567",
+    "id": "f5e6f3dc5c4519ed",
     "title": "US Crude Inventories Fall Quickly, But Still Up This Year",
     "description": "Izvorni naslov/sažetak s portala Investing.com Commodities. Nastavak se čita kod izvornog izdavača.",
     "url": "https://www.investing.com/analysis/us-crude-inventories-fall-quickly-but-still-up-this-year-200680606",
@@ -1851,7 +2202,7 @@
     "source_id": "global-extra-011",
     "category": "trzista",
     "published_at": "2026-05-20T05:49:50+00:00",
-    "fetched_at": "2026-05-21T04:26:15.944408+00:00"
+    "fetched_at": "2026-05-21T08:49:36.030488+00:00"
   },
   {
     "id": "fb507639923d0f73",
@@ -1889,118 +2240,5 @@
     "category": "trzista",
     "published_at": "2026-05-20T05:44:47+00:00",
     "fetched_at": "2026-05-20T11:35:05.712104+00:00"
-  },
-  {
-    "id": "d218f247fbcb95d7",
-    "title": "Nvidia Earnings Expectations Keep Rally Alive as Yields Rise",
-    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/analysis/nvidia-earnings-expectations-keep-rally-alive-as-yields-rise-200680601",
-    "image": "https://picsum.photos/seed/wv-core-e0edb84457bc/1200/750",
-    "source": "Investing.com Stock Market",
-    "source_id": "core-fill-trzista",
-    "category": "trzista",
-    "published_at": "2026-05-20T05:18:00+00:00",
-    "fetched_at": "2026-05-20T08:47:53.428623+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "d2878f37e71837f9",
-    "title": "Amazon Is Rewriting the Economics of AI Computing",
-    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/analysis/amazon-is-rewriting-the-economics-of-ai-computing-200680598",
-    "image": "https://picsum.photos/seed/wv-core-bac6ebcc7ad1/1200/750",
-    "source": "Investing.com Stock Market",
-    "source_id": "core-fill-trzista",
-    "category": "trzista",
-    "published_at": "2026-05-20T05:03:00+00:00",
-    "fetched_at": "2026-05-20T08:47:53.428656+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "f96cd44e0f5512b9",
-    "title": "Mapped: Europe’s Inflation Divide in Early 2026",
-    "description": "Just about the entirety of Europe today faces an inflation problem, with no eurozone economy falling within the two-percent target.",
-    "url": "https://www.visualcapitalist.com/mapped-europes-inflation-in-2026/",
-    "image": "https://www.visualcapitalist.com/wp-content/uploads/2026/05/europe-inflation-map.webp",
-    "source": "Visual Capitalist",
-    "source_id": "core-fill-trzista",
-    "category": "trzista",
-    "published_at": "2026-05-20T04:25:59+00:00",
-    "fetched_at": "2026-05-21T04:31:59.661310+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "d822997559fef7a4",
-    "title": "Market Selling Continues as Trading Ranges Establish",
-    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/analysis/market-selling-continues-as-trading-ranges-establish-200680595",
-    "image": "https://picsum.photos/seed/wv-core-37aa29ddbf3d/1200/750",
-    "source": "Investing.com Stock Market",
-    "source_id": "core-fill-trzista",
-    "category": "trzista",
-    "published_at": "2026-05-20T04:10:00+00:00",
-    "fetched_at": "2026-05-20T08:47:53.428688+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "c66526f6a9ab90fc",
-    "title": "Ranked: Top 12 Countries with Digital Trade Agreements",
-    "description": "As digital trade expands, governments are moving quickly to set the rules that govern how it operates.",
-    "url": "https://www.visualcapitalist.com/sp/hf08-ranked-top-12-countries-with-digital-trade-agreements/",
-    "image": "https://www.visualcapitalist.com/wp-content/uploads/2026/05/Hinrich-Digital-Trade-Shareable.webp",
-    "source": "Visual Capitalist",
-    "source_id": "core-fill-trzista",
-    "category": "trzista",
-    "published_at": "2026-05-20T02:32:07+00:00",
-    "fetched_at": "2026-05-21T04:31:59.661350+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "0b8b52b5b9b42dac",
-    "title": "Bond yields, oil fall amid hopes for Iran deal; stocks end up with chip shares - Reuters",
-    "description": "Bond yields, oil fall amid hopes for Iran deal; stocks end up with chip shares Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbm1LU2ZBQUh2VnBuakxGMkh1VTV1RHNCS1pnRDV4QVVwTV9GWFNXZUpyZkllVjhqVEE4eU4tcXF5MW5LdWM3NkJrQ1p4ZXBxQ3g4TFhCS2tZakliQzg3ODlVcGczZ1RWOGxlUFcxN0pEcHFXN2VtUzI3cEV4UVByN19vVQ?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-bbb0b9de3592/1200/750",
-    "source": "Reuters Commodities - Google News",
-    "source_id": "global-extra-010",
-    "category": "trzista",
-    "published_at": "2026-05-20T02:07:00+00:00",
-    "fetched_at": "2026-05-21T04:26:15.327749+00:00"
-  },
-  {
-    "id": "b80cc71b1ba35eb1",
-    "title": "SCOTUS to trigger truckload rate run to $5.00 per mile?",
-    "description": "Spot rates hit $3.55 a mile yesterday — a clear signal that capacity is not flowing in to relieve the tightness we saw during road check week. And we’re heading into Memorial Day, which historically creates a surge as shippers push product out ahead of the holiday and carriers take time off with their families. […] The post SCOTUS to trigger truckload rate run to $5.00 per mile? appeared first on FreightWaves .",
-    "url": "https://www.freightwaves.com/news/scotus-to-trigger-truckload-rate-run-to-5-00-per-mile",
-    "image": "https://www.freightwaves.com/wp-content/uploads/2025/04/24/FW_Folder_CA_Trucks_012224-433.jpg",
-    "source": "FreightWaves",
-    "source_id": "src-050",
-    "category": "trzista",
-    "published_at": "2026-05-20T00:54:20+00:00",
-    "fetched_at": "2026-05-20T13:46:59.899363+00:00"
-  },
-  {
-    "id": "a90171c754ccef1f",
-    "title": "The Tech That Could Turn Plastic Waste Into a Trillion Dollar Opportunity",
-    "description": "Plastic is cheap, but it’s an ecological, environmental, and human health disaster that actually costs Americans over $1 trillion a year, according to some estimates. By 2040, plastic waste management alone will cost the United States nearly $37 billion a year. Plastic is everywhere. We built it to be durable. We built it to be forever, and without the advanced technology to break it back down into something usable, its unstoppable production momentum will bury us all alive. Breaking down something that was manufactured to last forever has…",
-    "url": "https://oilprice.com/Energy/Energy-General/The-Tech-That-Could-Turn-Plastic-Waste-Into-a-Trillion-Dollar-Opportunity.html",
-    "image": "https://picsum.photos/seed/wv-news-8c3013883df3/1200/750",
-    "source": "OilPrice",
-    "source_id": "src-047",
-    "category": "trzista",
-    "published_at": "2026-05-20T00:00:00+00:00",
-    "fetched_at": "2026-05-20T13:46:58.194246+00:00"
-  },
-  {
-    "id": "20a81f5927bac04e",
-    "title": "Graphite One secures site for Alaska-Ohio supply chain",
-    "description": "The company’s flagship Graphite Creek project in Alaska is described by the US Geological Survey as the largest graphite deposit in the country.",
-    "url": "https://www.mining.com/graphite-one-secures-site-for-alaska-ohio-supply-chain/",
-    "image": "https://picsum.photos/seed/wv-news-6f9f04d1ce83/1200/750",
-    "source": "Mining.com",
-    "source_id": "src-049",
-    "category": "trzista",
-    "published_at": "2026-05-19T23:33:40+00:00",
-    "fetched_at": "2026-05-20T23:59:43.576119+00:00"
   }
 ]

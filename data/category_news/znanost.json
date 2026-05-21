@@ -1,5 +1,95 @@
 [
   {
+    "id": "e5f4b4af2db2bff3",
+    "title": "SpaceX reveals plans for what could be the biggest-ever initial public offering",
+    "description": "Elon Musk announced plans Wednesday for one of the biggest stock sales ever by taking public a space company that is currently losing billions of dollars a year.",
+    "url": "https://phys.org/news/2026-05-spacex-reveals-biggest.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spacex-reveals-plans-f.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T08:50:01+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784218+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "fe3fbc579e222fd8",
+    "title": "A First Among Major Nations, India Is Industrializing With Solar",
+    "description": "While China's push to modernize sparked a surge in burning coal, India is turning to increasingly cheap solar to meet its booming energy needs. Though it faces big hurdles, including a rickety grid, India's solar buildout could soon be a model for other emerging economies. Read more on E360 →",
+    "url": "https://e360.yale.edu/features/india-solar",
+    "image": "https://picsum.photos/seed/wv-news-37b5bebedcb6/1200/750",
+    "source": "Yale Environment 360",
+    "source_id": "src-087",
+    "category": "znanost",
+    "published_at": "2026-05-21T08:37:00+00:00",
+    "fetched_at": "2026-05-21T08:49:01.673601+00:00"
+  },
+  {
+    "id": "149049086f98d427",
+    "title": "SpaceX is about to go public. Here's how it works",
+    "description": "Hundreds of companies raised a combined $70 billion by selling shares to the public in the United States last year.",
+    "url": "https://phys.org/news/2026-05-spacex.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/debuting-on-the-stock-1.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T08:20:02+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784265+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "9444db129f63dfe9",
+    "title": "Upgraded SpaceX Starship set for test launch ahead of IPO",
+    "description": "Elon Musk's SpaceX is set for the debut launch of its latest Starship iteration on Thursday, testing the most powerful version yet of the megarocket as the company targets a blockbuster initial public offering.",
+    "url": "https://phys.org/news/2026-05-spacex-starship-ipo.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-previous-iteration-o.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T08:19:02+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784306+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "d1a09fa75b96286f",
+    "title": "Scientists discover the nutrient that can supercharge cellular energy",
+    "description": "Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic disease treatments.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260520233221.htm",
+    "image": "https://picsum.photos/seed/wv-fill-04b3c750f76b/1200/750",
+    "source": "ScienceDaily Top",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T05:34:34+00:00",
+    "fetched_at": "2026-05-21T08:52:15.694152+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "048436d501e708d8",
+    "title": "MIT scientists discover amino acid that helps the gut heal itself",
+    "description": "MIT scientists have identified cysteine — an amino acid found in foods like meat, dairy, beans, and nuts — as a potent trigger for intestinal repair. In mice, a cysteine-rich diet activated immune cells that released healing signals, helping stem cells rebuild damaged intestinal tissue after radiation exposure. Researchers say the discovery could eventually lead to new dietary therapies for cancer patients suffering from treatment-related gut damage.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
+    "image": "https://picsum.photos/seed/wv-fill-c2b18f28b202/1200/750",
+    "source": "ScienceDaily Top",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T04:40:33+00:00",
+    "fetched_at": "2026-05-21T08:52:15.694097+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "6799064bc398402e",
+    "title": "New Eruption in the Bismarck Sea",
+    "description": "Satellite imagery shows a surge of new volcanic activity in the ocean near Papua New Guinea.",
+    "url": "https://science.nasa.gov/earth/earth-observatory/new-eruption-in-the-bismarck-sea/",
+    "image": "https://picsum.photos/seed/wv-fill-a96e5e15d95e/1200/750",
+    "source": "NASA Breaking News",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-21T04:01:00+00:00",
+    "fetched_at": "2026-05-21T08:52:15.851209+00:00",
+    "missing_core_fill": true
+  },
+  {
     "id": "e3ab42c70d651d10",
     "title": "Who reports wildlife the most? 300,000 citizen science records uncover participation bias",
     "description": "In recent years, citizen science methodology has gained significant momentum and is becoming increasingly important in large-scale ecological and conservation research. By involving volunteers, it enables a level of spatial and temporal coverage that would often be unattainable within traditional research frameworks.",
@@ -9,7 +99,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T04:00:05+00:00",
-    "fetched_at": "2026-05-21T04:32:09.115509+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784346+00:00",
     "missing_core_fill": true
   },
   {
@@ -22,7 +112,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T04:00:03+00:00",
-    "fetched_at": "2026-05-21T04:32:09.115577+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784396+00:00",
     "missing_core_fill": true
   },
   {
@@ -35,8 +125,20 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T04:00:02+00:00",
-    "fetched_at": "2026-05-21T04:32:09.797830+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981010+00:00",
     "missing_core_fill": true
+  },
+  {
+    "id": "b089c8c210aa7d93",
+    "title": "XPENG Starts Producing Robotaxis",
+    "description": "XPENG has been quick to develop its autonomous driving capabilities. It feels like the company is still so young, and now it’s making robotaxis! A couple of days ago, the company announced “the official rollout of its first mass-produced Robotaxi in Guangzhou.” While there are other robotaxis roaming the roads ... [continued] The post XPENG Starts Producing Robotaxis appeared first on CleanTechnica .",
+    "url": "https://cleantechnica.com/2026/05/20/xpeng-starts-producing-riotaxis/",
+    "image": "https://picsum.photos/seed/wv-news-63aa7159ba6f/1200/750",
+    "source": "CleanTechnica",
+    "source_id": "src-089",
+    "category": "znanost",
+    "published_at": "2026-05-21T03:55:27+00:00",
+    "fetched_at": "2026-05-21T08:49:02.022329+00:00"
   },
   {
     "id": "90b7f4b54279a884",
@@ -48,7 +150,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-21T03:43:12+00:00",
-    "fetched_at": "2026-05-21T04:25:06.615977+00:00"
+    "fetched_at": "2026-05-21T08:49:02.022447+00:00"
   },
   {
     "id": "f732f488043c691e",
@@ -60,20 +162,20 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T03:20:01+00:00",
-    "fetched_at": "2026-05-21T04:32:09.797886+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981062+00:00",
     "missing_core_fill": true
   },
   {
     "id": "502a6f30a242233e",
     "title": "Oracle Exec Sues Tesla Over Full Self Driving Promises And Wins $10,600",
-    "description": "Class action lawsuits against Tesla have been running for a while based on the claims and promises Elon Musk made about Tesla Full Self Driving (FSD). Basically, people who spent a lot of money expecting Full Self Driving to work within a reasonable period of time are arguing that they ... [continued] The post Oracle Exec Sues Tesla Over Full Self Driving Promises And Wins $10,600 appeared first on CleanTechnica .",
+    "description": "Class action lawsuits against Tesla have been running for a while based on the claims and promises Elon Musk has made about Tesla Full Self Driving (FSD) over the past decade. Basically, people who spent a lot of money expecting Full Self Driving to work within a reasonable period of ... [continued] The post Oracle Exec Sues Tesla Over Full Self Driving Promises And Wins $10,600 appeared first on CleanTechnica .",
     "url": "https://cleantechnica.com/2026/05/20/oracle-exec-sues-tesla-over-full-self-driving-promises-and-wins-10600/",
     "image": "https://picsum.photos/seed/wv-news-428d93f73c2d/1200/750",
     "source": "CleanTechnica",
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-21T03:15:24+00:00",
-    "fetched_at": "2026-05-21T04:25:06.616074+00:00"
+    "fetched_at": "2026-05-21T08:49:02.022527+00:00"
   },
   {
     "id": "fd3893915c525f7f",
@@ -85,7 +187,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T03:14:18+00:00",
-    "fetched_at": "2026-05-21T04:32:08.889679+00:00",
+    "fetched_at": "2026-05-21T08:52:15.694201+00:00",
     "missing_core_fill": true
   },
   {
@@ -98,7 +200,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T03:00:01+00:00",
-    "fetched_at": "2026-05-21T04:32:09.115652+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784433+00:00",
     "missing_core_fill": true
   },
   {
@@ -111,7 +213,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T02:48:04+00:00",
-    "fetched_at": "2026-05-21T04:32:08.889757+00:00",
+    "fetched_at": "2026-05-21T08:52:15.694247+00:00",
     "missing_core_fill": true
   },
   {
@@ -124,7 +226,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T02:42:10+00:00",
-    "fetched_at": "2026-05-21T04:32:08.889813+00:00",
+    "fetched_at": "2026-05-21T08:52:15.694291+00:00",
     "missing_core_fill": true
   },
   {
@@ -137,7 +239,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T02:40:02+00:00",
-    "fetched_at": "2026-05-21T04:32:09.797933+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981104+00:00",
     "missing_core_fill": true
   },
   {
@@ -150,7 +252,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-21T01:48:54+00:00",
-    "fetched_at": "2026-05-21T04:25:06.616180+00:00"
+    "fetched_at": "2026-05-21T08:49:02.022614+00:00"
   },
   {
     "id": "2f5894e46a44247b",
@@ -162,7 +264,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T01:40:03+00:00",
-    "fetched_at": "2026-05-21T04:32:09.797978+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981144+00:00",
     "missing_core_fill": true
   },
   {
@@ -175,7 +277,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T01:40:01+00:00",
-    "fetched_at": "2026-05-21T04:32:09.115712+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784476+00:00",
     "missing_core_fill": true
   },
   {
@@ -188,7 +290,31 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-21T01:12:11+00:00",
-    "fetched_at": "2026-05-21T04:25:06.616263+00:00"
+    "fetched_at": "2026-05-21T08:49:02.022681+00:00"
+  },
+  {
+    "id": "995af3779c63f3e6",
+    "title": "Hyundai Motor Group Expands Pan-India Network to Accelerate Battery & Electrification Research",
+    "description": "Hyundai Motor Group expands its Hyundai Center of Excellence (Hyundai CoE) to seven universities through four additional partnerships The expanded joint platform, India’s premier academic-industrial network for battery and electrification research, builds on the initial 2025 launch The platform is advancing 39 joint research projects through the Hyundai CoE network ... [continued] The post Hyundai Motor Group Expands Pan-India Network to Accelerate Battery & Electrification Research appeared first on CleanTechnica .",
+    "url": "https://cleantechnica.com/2026/05/20/hyundai-motor-group-expands-pan-india-network-to-accelerate-battery-electrification-research/",
+    "image": "https://picsum.photos/seed/wv-news-c48e51847337/1200/750",
+    "source": "CleanTechnica",
+    "source_id": "src-089",
+    "category": "znanost",
+    "published_at": "2026-05-21T01:11:30+00:00",
+    "fetched_at": "2026-05-21T08:49:02.022772+00:00"
+  },
+  {
+    "id": "0d3bf6dc6d2b5974",
+    "title": "Nissan Formula E Team Clinches Superb Monaco Victory",
+    "description": "MONACO, Monte-Carlo — Nissan Formula E Team claimed victory at Monaco in Round 10 of the 2025/26 ABB FIA Formula E World Championship with Oliver Rowland, recovering superbly from a difficult Saturday in the Principality. Lining up 12th and 14th for Saturday’s Round 9, both Rowland and teammate Norman Nato had ... [continued] The post Nissan Formula E Team Clinches Superb Monaco Victory appeared first on CleanTechnica .",
+    "url": "https://cleantechnica.com/2026/05/20/nissan-formula-e-team-clinches-superb-monaco-victory/",
+    "image": "https://picsum.photos/seed/wv-news-da9c757786a6/1200/750",
+    "source": "CleanTechnica",
+    "source_id": "src-089",
+    "category": "znanost",
+    "published_at": "2026-05-21T01:10:16+00:00",
+    "fetched_at": "2026-05-21T08:49:02.022849+00:00"
   },
   {
     "id": "902a9b2f3c41236f",
@@ -200,7 +326,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-21T01:05:49+00:00",
-    "fetched_at": "2026-05-21T04:25:06.616358+00:00"
+    "fetched_at": "2026-05-21T08:49:02.022949+00:00"
   },
   {
     "id": "0033936268a8281f",
@@ -212,7 +338,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T01:00:01+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798017+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981181+00:00",
     "missing_core_fill": true
   },
   {
@@ -225,7 +351,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T00:40:02+00:00",
-    "fetched_at": "2026-05-21T04:32:09.115777+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784526+00:00",
     "missing_core_fill": true
   },
   {
@@ -238,7 +364,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T00:40:01+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798065+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981226+00:00",
     "missing_core_fill": true
   },
   {
@@ -251,7 +377,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-21T00:05:14+00:00",
-    "fetched_at": "2026-05-21T04:25:06.616448+00:00"
+    "fetched_at": "2026-05-21T08:49:02.023025+00:00"
   },
   {
     "id": "3513077e55d91d1b",
@@ -263,7 +389,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T00:00:06+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798109+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981262+00:00",
     "missing_core_fill": true
   },
   {
@@ -276,7 +402,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T00:00:03+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798157+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981307+00:00",
     "missing_core_fill": true
   },
   {
@@ -289,7 +415,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-21T00:00:01+00:00",
-    "fetched_at": "2026-05-21T04:32:09.115827+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784568+00:00",
     "missing_core_fill": true
   },
   {
@@ -302,7 +428,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T23:10:01+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798195+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981339+00:00",
     "missing_core_fill": true
   },
   {
@@ -315,7 +441,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-20T23:01:00+00:00",
-    "fetched_at": "2026-05-21T04:25:06.437684+00:00"
+    "fetched_at": "2026-05-21T08:49:01.900102+00:00"
   },
   {
     "id": "1b3a704b94184323",
@@ -327,7 +453,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T23:00:03+00:00",
-    "fetched_at": "2026-05-21T04:32:09.115872+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784605+00:00",
     "missing_core_fill": true
   },
   {
@@ -340,7 +466,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T23:00:01+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798233+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981372+00:00",
     "missing_core_fill": true
   },
   {
@@ -353,7 +479,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-20T22:59:44+00:00",
-    "fetched_at": "2026-05-21T04:26:21.848014+00:00"
+    "fetched_at": "2026-05-21T08:49:41.339078+00:00"
   },
   {
     "id": "e444deaec90d3bfc",
@@ -365,7 +491,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T22:40:03+00:00",
-    "fetched_at": "2026-05-21T04:32:09.115917+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784645+00:00",
     "missing_core_fill": true
   },
   {
@@ -378,7 +504,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T22:40:01+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798271+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981405+00:00",
     "missing_core_fill": true
   },
   {
@@ -391,7 +517,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T22:30:03+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798313+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981443+00:00",
     "missing_core_fill": true
   },
   {
@@ -404,7 +530,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T22:30:01+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798355+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981480+00:00",
     "missing_core_fill": true
   },
   {
@@ -417,7 +543,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T22:20:06+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798403+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981522+00:00",
     "missing_core_fill": true
   },
   {
@@ -430,7 +556,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T22:20:01+00:00",
-    "fetched_at": "2026-05-21T04:32:09.115958+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784681+00:00",
     "missing_core_fill": true
   },
   {
@@ -443,7 +569,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-20T22:19:54+00:00",
-    "fetched_at": "2026-05-21T04:25:06.616534+00:00"
+    "fetched_at": "2026-05-21T08:49:02.023096+00:00"
   },
   {
     "id": "8b3d282ad6882d9f",
@@ -455,7 +581,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T22:00:05+00:00",
-    "fetched_at": "2026-05-21T04:32:09.116002+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784724+00:00",
     "missing_core_fill": true
   },
   {
@@ -468,7 +594,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T22:00:03+00:00",
-    "fetched_at": "2026-05-21T04:32:09.116050+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784765+00:00",
     "missing_core_fill": true
   },
   {
@@ -481,7 +607,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T22:00:01+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798443+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981557+00:00",
     "missing_core_fill": true
   },
   {
@@ -494,7 +620,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T21:40:05+00:00",
-    "fetched_at": "2026-05-21T04:32:09.116093+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784803+00:00",
     "missing_core_fill": true
   },
   {
@@ -507,7 +633,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T21:40:04+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798492+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981600+00:00",
     "missing_core_fill": true
   },
   {
@@ -520,7 +646,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T21:40:02+00:00",
-    "fetched_at": "2026-05-21T04:32:09.116139+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784839+00:00",
     "missing_core_fill": true
   },
   {
@@ -533,7 +659,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T21:40:01+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798541+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981644+00:00",
     "missing_core_fill": true
   },
   {
@@ -546,7 +672,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T21:20:03+00:00",
-    "fetched_at": "2026-05-21T04:32:09.116190+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784892+00:00",
     "missing_core_fill": true
   },
   {
@@ -559,7 +685,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T21:20:02+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798582+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981681+00:00",
     "missing_core_fill": true
   },
   {
@@ -572,8 +698,20 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T21:20:01+00:00",
-    "fetched_at": "2026-05-21T04:32:09.116232+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784928+00:00",
     "missing_core_fill": true
+  },
+  {
+    "id": "5a5f9f2cae04bf92",
+    "title": "A Discovered Trove of Bones and Teeth Yields New Clues to the Century-Old Mystery of 'Death Jars' in Laos - Smithsonian Magazine",
+    "description": "A Discovered Trove of Bones and Teeth Yields New Clues to the Century-Old Mystery of 'Death Jars' in Laos Smithsonian Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdHlLUjVESTF0dWh5MkpqeEZPT2dfUmwtUjBPR1VEcklydkk3R01XNjlMVzNIZU1NWjVMbUFLR20xTTU4dVdEeE1sNnJjRVpfQU9tZC1VeHZTYkY2czFwWXpMVVJTOUxBZFc0UkxmR3dfUkVQR0FDWEQ4TXQ0U1lNYnpBcTVadVFKX3dzT1RQeTVBZ0hsWkJqNU5nVjd4NTRTLUZGOVk4MHhwdEEyVllFNUpNbnZGSFp1Q2RXYVh1MFZ0RlQ1WmdIcVcwSmROWk41TU5uMF8tc09PdXpLOHNRTzlNZlI0aHEyVlBKTg?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-e4bc16459f4c/1200/750",
+    "source": "Smithsonian Science - Google News",
+    "source_id": "global-extra-024",
+    "category": "znanost",
+    "published_at": "2026-05-20T21:08:33+00:00",
+    "fetched_at": "2026-05-21T08:49:42.328639+00:00"
   },
   {
     "id": "3cccfa4105b88418",
@@ -585,7 +723,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T21:00:08+00:00",
-    "fetched_at": "2026-05-21T04:32:09.116282+00:00",
+    "fetched_at": "2026-05-21T08:52:15.784971+00:00",
     "missing_core_fill": true
   },
   {
@@ -598,7 +736,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T21:00:07+00:00",
-    "fetched_at": "2026-05-21T04:32:09.116319+00:00",
+    "fetched_at": "2026-05-21T08:52:15.785003+00:00",
     "missing_core_fill": true
   },
   {
@@ -611,7 +749,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T21:00:03+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798656+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981720+00:00",
     "missing_core_fill": true
   },
   {
@@ -624,20 +762,21 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T21:00:02+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798703+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981769+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "36b0306ffdcd4f80",
+    "id": "0dcb9010870e7703",
     "title": "NASA Announces Winners in University Aeronautics Competition",
     "description": "The South Dakota State University team took first place at NASA’s fifth annual Gateways to Blue Skies Competition, which challenged student teams to address a critical element of U.S. aviation: aircraft maintenance. This year’s competition, RepAir: Advancing Aircraft Maintenance, asked teams of postsecondary students to develop innovative systems and practices that could advance commercial aircraft […]",
     "url": "https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/",
-    "image": "https://picsum.photos/seed/wv-news-c6a938429082/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-8b589a4788f8/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T20:48:01+00:00",
-    "fetched_at": "2026-05-21T04:25:02.736820+00:00"
+    "fetched_at": "2026-05-21T08:52:15.851290+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "d159b828b8922c17",
@@ -649,7 +788,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T20:40:08+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798752+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981811+00:00",
     "missing_core_fill": true
   },
   {
@@ -662,7 +801,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T20:40:05+00:00",
-    "fetched_at": "2026-05-21T04:32:09.116358+00:00",
+    "fetched_at": "2026-05-21T08:52:15.785038+00:00",
     "missing_core_fill": true
   },
   {
@@ -675,7 +814,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T20:40:03+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798808+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981872+00:00",
     "missing_core_fill": true
   },
   {
@@ -688,7 +827,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T20:40:01+00:00",
-    "fetched_at": "2026-05-21T04:32:09.116396+00:00",
+    "fetched_at": "2026-05-21T08:52:15.785072+00:00",
     "missing_core_fill": true
   },
   {
@@ -701,7 +840,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T20:20:06+00:00",
-    "fetched_at": "2026-05-21T04:32:09.116441+00:00",
+    "fetched_at": "2026-05-21T08:52:15.785114+00:00",
     "missing_core_fill": true
   },
   {
@@ -714,7 +853,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T20:20:04+00:00",
-    "fetched_at": "2026-05-21T04:32:09.116492+00:00",
+    "fetched_at": "2026-05-21T08:52:15.785160+00:00",
     "missing_core_fill": true
   },
   {
@@ -727,7 +866,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T20:20:03+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798850+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981909+00:00",
     "missing_core_fill": true
   },
   {
@@ -740,11 +879,11 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T20:20:02+00:00",
-    "fetched_at": "2026-05-21T04:32:09.798891+00:00",
+    "fetched_at": "2026-05-21T08:52:15.981944+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "bd039e98c39b13f6",
+    "id": "a1315606073d2cb6",
     "title": "Urban aerosols grow faster in polluted air, sharpening climate model gaps",
     "description": "Aerosols and clouds play a key role in Earth's climate budget. However, the extent to which they reflect solar energy depends heavily on how much water the particles can absorb. This so-called hygroscopicity has so far been represented in a simplified manner in climate models. An international research team led by the Leibniz Institute for Tropospheric Research (TROPOS) has now demonstrated through a global study that the models are not precise enough, particularly in urban regions.",
     "url": "https://phys.org/news/2026-05-urban-aerosols-faster-polluted-air.html",
@@ -783,7 +922,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "78062a905b192643",
+    "id": "97397efcddcc565b",
     "title": "15 Australian companies switched to a four‑day work week. It went surprisingly well",
     "description": "In a 1930 essay, British economist John Maynard Keynes predicted that in 100 years time, technological advances would have displaced so much human labor that people would be working 15-hour weeks—if they worked at all.",
     "url": "https://phys.org/news/2026-05-australian-companies-fourday-week.html",
@@ -809,7 +948,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "7187b9fb54f7f527",
+    "id": "d825ffc4623d5532",
     "title": "Neptune's mysterious moon Nereid may be original survivor of Triton's chaotic arrival",
     "description": "Neptune's far-flung moon Nereid may be the last of the planet's original companions that managed to survive a cosmic crash, scientists reported Wednesday.",
     "url": "https://phys.org/news/2026-05-neptune-mysterious-moon-nereid-survivor.html",
@@ -939,28 +1078,42 @@
     "missing_core_fill": true
   },
   {
-    "id": "e9e7409a283ee2dc",
+    "id": "7fe6f05f73f609dd",
+    "title": "Gentoo Penguins Are Actually Four Different Species, Scientists Say, Revealing They're Not Quite 'Winners' of Climate Change After All - Smithsonian Magazine",
+    "description": "Gentoo Penguins Are Actually Four Different Species, Scientists Say, Revealing They're Not Quite 'Winners' of Climate Change After All Smithsonian Magazine",
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPV0FwRVRMR2ZYVkQ2U2xLZVRCUWZHNERnU0FnZjhjRGloU1h6V1hHeldIQUpuZkdqYy1OWmwyRWR4OUFaSWRJVmxRYlFIODY5ZXRDMFg1c1hnYkRpMjZzbkNxajBSSHFxZlU4b2ZmYlFXclFVeEJydUdXME1aLXJtMDhQdUNnZkJRYXdmaURRZXRkQTRPeDRHaWVhaHozSXdWQk5VbE53Q0dlV2RyeW95R2hJejh0d0N4ZHF4LUdHN1BYak9odEJNUnZLdDAxVVZpX25iLTRzVEh1Mkl1ZFZuVWg0X3pLc0FGTnJ1ZGxSdjV3M1Z4YWVIbXJoNk10c1R1RkpFVFdWNE5fRl9lVjhjNVpGUQ?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-8143c0d27b0f/1200/750",
+    "source": "Smithsonian Science - Google News",
+    "source_id": "global-extra-024",
+    "category": "znanost",
+    "published_at": "2026-05-20T19:09:30+00:00",
+    "fetched_at": "2026-05-21T08:49:42.327847+00:00"
+  },
+  {
+    "id": "423a3e9da3234055",
     "title": "La NASA informará sobre su estrategia y misiones para la Base Lunar",
     "description": "Read this news release in English here. La NASA ofrecerá una conferencia de prensa el martes 26 de mayo a las 2 p.m. EDT (hora del este) para compartir los planes para la Base Lunar y destacar los avances hacia una presencia sostenida en la superficie lunar. La sesión informativa para los medios tendrá lugar […]",
     "url": "https://www.nasa.gov/news-release/la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar/",
-    "image": "https://picsum.photos/seed/wv-news-54513111433c/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-3dbfde4e100b/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T19:08:50+00:00",
-    "fetched_at": "2026-05-21T04:25:02.736920+00:00"
+    "fetched_at": "2026-05-21T08:52:15.851351+00:00",
+    "missing_core_fill": true
   },
   {
-    "id": "52bbb14cbf08806f",
+    "id": "f89269483d61b1e4",
     "title": "NASA TechLeap Prize: Robotically Manipulated Payload Challenge",
     "description": "The Robotically Manipulated Payload Challenge — the fifth in the NASA TechLeap Prize series — is a competition to advance persistent infrastructure for in-space servicing, assembly, and manufacturing. NASA Flight Opportunities invites applicants to propose a payload that can be manipulated by a robotic arm in low Earth orbit. Up to three winners will each receive up […]",
     "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-robotically-manipulated-payload-challenge/",
-    "image": "https://picsum.photos/seed/wv-news-650c1e17558b/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-9010f6e6577d/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T19:02:18+00:00",
-    "fetched_at": "2026-05-21T04:25:02.737010+00:00"
+    "fetched_at": "2026-05-21T08:52:15.851410+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "7a84a6dc7d307a1f",
@@ -972,7 +1125,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T19:00:46+00:00",
-    "fetched_at": "2026-05-21T04:32:09.939067+00:00",
+    "fetched_at": "2026-05-21T08:52:16.020007+00:00",
     "missing_core_fill": true
   },
   {
@@ -1154,7 +1307,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T18:00:42+00:00",
-    "fetched_at": "2026-05-21T04:32:09.939135+00:00",
+    "fetched_at": "2026-05-21T08:52:16.020054+00:00",
     "missing_core_fill": true
   },
   {
@@ -1275,6 +1428,32 @@
     "missing_core_fill": true
   },
   {
+    "id": "d020c13d70cdc6df",
+    "title": "Shiver me timbers: Do we have to worry about space pirates now?",
+    "description": "Feedback goes down a \"moon warfare\" rabbit hole and discovers that some forward-thinkers are making plans to counteract as-yet-hypothetical pirates in space",
+    "url": "https://www.newscientist.com/article/mg27035961-000-shiver-me-timbers-do-we-have-to-worry-about-space-pirates-now/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/19151705/SEI_298000410.jpg",
+    "source": "New Scientist",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-20T18:00:00+00:00",
+    "fetched_at": "2026-05-21T08:52:16.019829+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "c5ee9a3c8bfe1723",
+    "title": "New Scientist recommends a devastating account of farming honeybees",
+    "description": "Jennie Durant's Bitter Honey is a great exposé of the true cost of industrially farming US honeybees, finds Thomas Lewton. But the book's grim figures of bee death alone may not prompt deep change – how about seeing them as fellow creatures?",
+    "url": "https://www.newscientist.com/article/mg27035960-300-new-scientist-recommends-a-devastating-account-of-farming-honeybees/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/15104003/SEI_296752597.jpg",
+    "source": "New Scientist",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-20T18:00:00+00:00",
+    "fetched_at": "2026-05-21T08:52:16.019911+00:00",
+    "missing_core_fill": true
+  },
+  {
     "id": "6288abb6e85884cf",
     "title": "An ancient moonpocalypse may explain Neptune’s odd moon Nereid - Science News",
     "description": "An ancient moonpocalypse may explain Neptune’s odd moon Nereid Science News",
@@ -1284,19 +1463,20 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-20T18:00:00+00:00",
-    "fetched_at": "2026-05-21T04:26:22.490418+00:00"
+    "fetched_at": "2026-05-21T08:49:41.862928+00:00"
   },
   {
-    "id": "c7f99a3b6335ee22",
+    "id": "ba81097b1498017b",
     "title": "Psyche Spacecraft Completes Mars Flyby",
     "description": "NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. During the flyby, it took this image and others. This representative color image, captured by Psyche’s multispectral imager instrument, features the double-ring crater Huygens and the surrounding heavily cratered southern highlands. This flyby […]",
     "url": "https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/",
-    "image": "https://picsum.photos/seed/wv-news-61fade47fe55/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-b432dd7bd6ba/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T17:51:10+00:00",
-    "fetched_at": "2026-05-21T04:25:02.737089+00:00"
+    "fetched_at": "2026-05-21T08:52:15.851459+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "e14de7783ed2306a",
@@ -1364,16 +1544,17 @@
     "missing_core_fill": true
   },
   {
-    "id": "01be10eca3a01837",
+    "id": "6bb81652a98888e3",
     "title": "NASA-developed AI Could Help Track Harmful Algae",
     "description": "NASA scientists have developed an artificial intelligence tool to take on a longstanding challenge in ocean waters. In a study recently published in AGU Earth and Space Science, researchers reported the tool was able to fuse data from multiple satellites and detect harmful algal blooms that occurred in western Florida and Southern California. Severe blooms […]",
     "url": "https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/",
-    "image": "https://picsum.photos/seed/wv-news-e973f1ab6b09/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-ee64e8bd6bd0/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T17:39:10+00:00",
-    "fetched_at": "2026-05-21T04:25:02.737165+00:00"
+    "fetched_at": "2026-05-21T08:52:15.851509+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "13e9c588a81fb0ce",
@@ -1454,28 +1635,30 @@
     "missing_core_fill": true
   },
   {
-    "id": "ffafd1edc47c4d65",
+    "id": "10f5e03dba763d24",
     "title": "NASA to Provide Update on Moon Base Strategy, Missions",
     "description": "NASA will host a news conference at 2 p.m. EDT, Tuesday, May 26, to share Moon Base plans and highlight progress toward a sustained presence on the lunar surface. The media briefing will take place at the agency’s Headquarters in Washington. Leadership will discuss program progress, including new industry partners and mission plans. Subject matter […]",
     "url": "https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/",
-    "image": "https://picsum.photos/seed/wv-news-646517e5c7ad/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-b45d225dfa68/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T17:13:56+00:00",
-    "fetched_at": "2026-05-21T04:25:02.737244+00:00"
+    "fetched_at": "2026-05-21T08:52:15.851555+00:00",
+    "missing_core_fill": true
   },
   {
-    "id": "bf2451f9032df62d",
+    "id": "554e20d4223687a3",
     "title": "NASA Releases Technology Priorities to Energize Space Industry",
     "description": "NASA released the 2026 Civil Space Shortfall Ranking list on Wednesday, which integrates more than 400 responses from stakeholders including industry organizations, government agencies, and academia. Shortfalls refer to technology areas requiring further development to meet future exploration, science, and other mission needs. The goal of this document is to rank the space community’s most pervasive shortfalls to […]",
     "url": "https://www.nasa.gov/technology/nasa-releases-technology-priorities-to-energize-space-industry/",
-    "image": "https://picsum.photos/seed/wv-news-78a139445150/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-c4ca376881bb/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T17:11:42+00:00",
-    "fetched_at": "2026-05-21T04:25:02.737327+00:00"
+    "fetched_at": "2026-05-21T08:52:15.851608+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "b41079ead0bf1b91",
@@ -1513,7 +1696,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T17:00:32+00:00",
-    "fetched_at": "2026-05-21T04:32:09.939190+00:00",
+    "fetched_at": "2026-05-21T08:52:16.020099+00:00",
     "missing_core_fill": true
   },
   {
@@ -1541,6 +1724,18 @@
     "published_at": "2026-05-20T17:00:01+00:00",
     "fetched_at": "2026-05-20T19:59:56.773444+00:00",
     "missing_core_fill": true
+  },
+  {
+    "id": "40c92b0abbc32528",
+    "title": "How to scout a safe summer swimming hole - Science News",
+    "description": "How to scout a safe summer swimming hole Science News",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84MXA2SHFfV3ZXWWdUc1E2bjcyR0lQMVROZXN4X3VwdXBEODlpemk5Y1BmRHFxcklFeXU3YlN2RmxLYm9BMXVuRUVzenJPaUZkTnI3OEJFdG5NQlZMTEJ3VHpDdzkyZk1JSlU5d2Y5bDRrd3d5c29R?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-ff0a3b0331f4/1200/750",
+    "source": "Science News - Google News",
+    "source_id": "global-extra-023",
+    "category": "znanost",
+    "published_at": "2026-05-20T17:00:00+00:00",
+    "fetched_at": "2026-05-21T08:49:41.863343+00:00"
   },
   {
     "id": "3c2ee8e32479cb3a",
@@ -1591,7 +1786,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-20T15:43:54+00:00",
-    "fetched_at": "2026-05-21T04:25:06.616611+00:00"
+    "fetched_at": "2026-05-21T08:49:02.023160+00:00"
   },
   {
     "id": "01bbaf80419b2b54",
@@ -1603,7 +1798,19 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-20T15:35:22+00:00",
-    "fetched_at": "2026-05-21T04:25:06.616707+00:00"
+    "fetched_at": "2026-05-21T08:49:02.023215+00:00"
+  },
+  {
+    "id": "7e77e90575aa7b7a",
+    "title": "Inflight call with ESA astronaut Sophie Adenot",
+    "description": "Video: 00:21:10 On 20 May, ESA astronaut Sophie Adenot conducted an in-flight call with selected media representatives live aboard the International Space Station. During the discussion, Sophie shared insights into life and research in orbit, including scientific experiments supporting human health, climate science and future space exploration.",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/05/Inflight_call_with_ESA_astronaut_Sophie_Adenot",
+    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/05/inflight_call_with_esa_astronaut_sophie_adenot/27284952-2-eng-GB/Inflight_call_with_ESA_astronaut_Sophie_Adenot_card_full.png",
+    "source": "ESA",
+    "source_id": "src-080",
+    "category": "znanost",
+    "published_at": "2026-05-20T15:30:00+00:00",
+    "fetched_at": "2026-05-21T08:49:00.575730+00:00"
   },
   {
     "id": "2f62eb29df2d1c3c",
@@ -1627,19 +1834,20 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-20T15:00:00+00:00",
-    "fetched_at": "2026-05-21T04:26:22.490754+00:00"
+    "fetched_at": "2026-05-21T08:49:41.863219+00:00"
   },
   {
-    "id": "26ce653d59d87051",
+    "id": "3e6e873fa72d1bee",
     "title": "I Am Artemis: Tim Goddard",
     "description": "Listen to this audio excerpt from Tim Goddard, NASA open water lead: At the end of their mission around the Moon, NASA’s Artemis II astronauts were recovered from their Orion spacecraft by a team of U.S. Navy divers and NASA personnel. This included Tim Goddard, NASA open water lead, who helped guide the complex open […]",
     "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tim-goddard/",
-    "image": "https://picsum.photos/seed/wv-news-3b3caf37e463/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-fac84f9b1509/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T14:57:33+00:00",
-    "fetched_at": "2026-05-21T04:25:02.737401+00:00"
+    "fetched_at": "2026-05-21T08:52:15.851653+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "dce7160928e7c49d",
@@ -1663,7 +1871,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-20T14:47:09+00:00",
-    "fetched_at": "2026-05-21T04:26:21.848203+00:00"
+    "fetched_at": "2026-05-21T08:49:41.339579+00:00"
   },
   {
     "id": "e74f91db74f91ed9",
@@ -1675,7 +1883,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-20T14:16:25+00:00",
-    "fetched_at": "2026-05-21T04:25:06.437781+00:00"
+    "fetched_at": "2026-05-21T08:49:01.900192+00:00"
   },
   {
     "id": "182b48ef0dd56145",
@@ -1687,7 +1895,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T14:00:33+00:00",
-    "fetched_at": "2026-05-21T04:32:09.939261+00:00",
+    "fetched_at": "2026-05-21T08:52:16.020155+00:00",
     "missing_core_fill": true
   },
   {
@@ -1700,7 +1908,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T14:00:05+00:00",
-    "fetched_at": "2026-05-21T04:32:09.939319+00:00",
+    "fetched_at": "2026-05-21T08:52:16.020203+00:00",
     "missing_core_fill": true
   },
   {
@@ -1713,7 +1921,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-20T14:00:00+00:00",
-    "fetched_at": "2026-05-21T04:25:05.033699+00:00"
+    "fetched_at": "2026-05-21T08:49:01.189666+00:00"
   },
   {
     "id": "1f0a8ae33462c2a6",
@@ -1725,7 +1933,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-20T14:00:00+00:00",
-    "fetched_at": "2026-05-21T04:25:05.033889+00:00"
+    "fetched_at": "2026-05-21T08:49:01.189848+00:00"
   },
   {
     "id": "ce9454ac41b33d5f",
@@ -1737,7 +1945,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-20T14:00:00+00:00",
-    "fetched_at": "2026-05-21T04:25:05.034074+00:00"
+    "fetched_at": "2026-05-21T08:49:01.190050+00:00"
   },
   {
     "id": "49b6ea27773fc623",
@@ -1749,7 +1957,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-20T14:00:00+00:00",
-    "fetched_at": "2026-05-21T04:25:05.034235+00:00"
+    "fetched_at": "2026-05-21T08:49:01.190203+00:00"
   },
   {
     "id": "88f65d7b71871426",
@@ -1761,7 +1969,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-20T14:00:00+00:00",
-    "fetched_at": "2026-05-21T04:25:05.034360+00:00"
+    "fetched_at": "2026-05-21T08:49:01.190313+00:00"
   },
   {
     "id": "d81c418c376a9d9d",
@@ -1813,6 +2021,18 @@
     "category": "znanost",
     "published_at": "2026-05-20T13:30:42+00:00",
     "fetched_at": "2026-05-20T13:47:09.936056+00:00"
+  },
+  {
+    "id": "74db780c4b82f0d4",
+    "title": "What China’s rise in chemistry means for the rest of the world - Nature",
+    "description": "What China’s rise in chemistry means for the rest of the world Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OLVNWVmN3Y0JqMXd1NXcyVVBOQWEzWVEtRGtRbmNBMTRqMm9YcUVXanloSzJpUmx5SHFUNUY2QmN0Tzk4dTEybi1jWkN1ZXVtUEhnbURNYzlMSHdLRXdZ?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-acd89256ffb0/1200/750",
+    "source": "Nature Science - Google News",
+    "source_id": "global-extra-022",
+    "category": "znanost",
+    "published_at": "2026-05-20T13:21:35+00:00",
+    "fetched_at": "2026-05-21T08:49:41.339701+00:00"
   },
   {
     "id": "ea3bc4bdc69685db",
@@ -1902,7 +2122,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T13:04:32+00:00",
-    "fetched_at": "2026-05-21T04:32:08.890241+00:00",
+    "fetched_at": "2026-05-21T08:52:15.694673+00:00",
     "missing_core_fill": true
   },
   {
@@ -1941,7 +2161,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-20T13:00:00+00:00",
-    "fetched_at": "2026-05-21T04:25:03.652353+00:00"
+    "fetched_at": "2026-05-21T08:49:00.575813+00:00"
   },
   {
     "id": "0ba04727f510f9f5",
@@ -1953,19 +2173,20 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-20T13:00:00+00:00",
-    "fetched_at": "2026-05-21T04:26:22.490919+00:00"
+    "fetched_at": "2026-05-21T08:49:41.863412+00:00"
   },
   {
-    "id": "037ac44a37a25d7e",
+    "id": "315118b4bc55e3e2",
     "title": "NASA’s Fermi Glimpses Power Source of Supercharged Supernovae",
     "description": "An international team studying data from NASA’s Fermi Gamma-ray Space Telescope concludes the mission detected a rare, unusually luminous supernova. The researchers say it likely received its power-up from a supermagnetized neutron star born in the stellar collapse that triggered the explosion.",
     "url": "https://science.nasa.gov/missions/fermi/nasas-fermi-glimpses-power-source-of-supercharged-supernovae/",
-    "image": "https://picsum.photos/seed/wv-news-2ff28ad061c2/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-5be24f0568e5/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T12:55:00+00:00",
-    "fetched_at": "2026-05-21T04:25:02.737478+00:00"
+    "fetched_at": "2026-05-21T08:52:15.851702+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "8498d15ca54c7d2c",
@@ -1977,7 +2198,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T12:54:32+00:00",
-    "fetched_at": "2026-05-21T04:32:08.889873+00:00",
+    "fetched_at": "2026-05-21T08:52:15.694344+00:00",
     "missing_core_fill": true
   },
   {
@@ -1990,7 +2211,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T12:46:14+00:00",
-    "fetched_at": "2026-05-21T04:32:08.890142+00:00",
+    "fetched_at": "2026-05-21T08:52:15.694584+00:00",
     "missing_core_fill": true
   },
   {
@@ -2262,7 +2483,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-20T11:13:43+00:00",
-    "fetched_at": "2026-05-21T04:26:21.848122+00:00"
+    "fetched_at": "2026-05-21T08:49:41.338991+00:00"
   },
   {
     "id": "4b96f30dd30a13dc",
@@ -2313,7 +2534,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T10:00:45+00:00",
-    "fetched_at": "2026-05-21T04:32:08.889923+00:00",
+    "fetched_at": "2026-05-21T08:52:15.694389+00:00",
     "missing_core_fill": true
   },
   {
@@ -2365,7 +2586,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T09:35:15+00:00",
-    "fetched_at": "2026-05-21T04:32:08.890035+00:00",
+    "fetched_at": "2026-05-21T08:52:15.694490+00:00",
     "missing_core_fill": true
   },
   {
@@ -2417,7 +2638,7 @@
     "source_id": "src-090",
     "category": "znanost",
     "published_at": "2026-05-20T09:18:18+00:00",
-    "fetched_at": "2026-05-21T04:25:07.269207+00:00"
+    "fetched_at": "2026-05-21T08:49:02.699543+00:00"
   },
   {
     "id": "0434d7261162a46f",
@@ -2507,7 +2728,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-20T08:45:00+00:00",
-    "fetched_at": "2026-05-21T04:25:06.230241+00:00"
+    "fetched_at": "2026-05-21T08:49:01.673692+00:00"
   },
   {
     "id": "6c442c3c07291863",
@@ -2532,7 +2753,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T07:07:58+00:00",
-    "fetched_at": "2026-05-21T04:32:08.889983+00:00",
+    "fetched_at": "2026-05-21T08:52:15.694443+00:00",
     "missing_core_fill": true
   },
   {
@@ -2545,7 +2766,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-20T07:01:13+00:00",
-    "fetched_at": "2026-05-21T04:26:21.848483+00:00"
+    "fetched_at": "2026-05-21T08:49:41.339322+00:00"
   },
   {
     "id": "d8d38c846be5fe25",
@@ -2608,349 +2829,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-20T06:22:18+00:00",
-    "fetched_at": "2026-05-21T04:32:08.890385+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "c1aa0cce66d43789",
-    "title": "Researchers who use hallucinated references to face arXiv ban - Nature",
-    "description": "Researchers who use hallucinated references to face arXiv ban Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLQkUyWGZGcENOTndtMGpnMXpfSXZPY1FJd2pBZ2dYZGxoZHBsNTNiUXhDQlpDaklHWDBlVVc3YXN1YkJXN1E3cGpDU28xdDc4djNaV19XakVmYlFUdi1Z?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-d46d4261ec0e/1200/750",
-    "source": "Nature Science - Google News",
-    "source_id": "global-extra-022",
-    "category": "znanost",
-    "published_at": "2026-05-20T05:15:18+00:00",
-    "fetched_at": "2026-05-21T04:26:21.848346+00:00"
-  },
-  {
-    "id": "5c8f1496254408a2",
-    "title": "Scientists use DNA from poop to save the world’s rarest marsupial",
-    "description": "Scientists in Australia are using cutting-edge DNA techniques to help save one of the world’s rarest marsupials — the critically endangered Gilbert’s potoroo, with fewer than 150 left in the wild. By analyzing tiny traces of DNA in the animals’ scat, researchers uncovered clues about the elusive fungi the potoroos depend on for survival. The findings could help conservationists identify safer new habitats and establish backup populations before disasters like bushfires wipe them out.",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260519224319.htm",
-    "image": "https://picsum.photos/seed/wv-fill-c24a90712eee/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T04:45:48+00:00",
-    "fetched_at": "2026-05-21T04:32:08.890092+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "9e5f155fdf42d7a6",
-    "title": "T. rex’s tiny arms may have evolved for a surprisingly brutal reason",
-    "description": "Why did T. rex have such tiny arms? Scientists now think it’s because its giant head became the ultimate hunting tool. Across multiple dinosaur groups, stronger skulls and crushing jaws evolved alongside shrinking forelimbs, especially in predators hunting enormous prey. In other words, once the bite became deadly enough, the arms may have stopped mattering.",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260519224314.htm",
-    "image": "https://picsum.photos/seed/wv-fill-f189b38c7cb4/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T04:29:06+00:00",
-    "fetched_at": "2026-05-21T04:32:08.890194+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "93091faaa369b1d9",
-    "title": "Handwriting speed may be a sign of cognitive decline in older people",
-    "description": "Handwriting requires a combination of fine motor control and a complex set of mental skills, such as selecting, organizing, and interpreting sensory information, making it a cognitively challenging task. Because of its high demand on the brain, it is a potential marker of cognitive decline, especially as we age. Then, our handwriting often becomes slower or choppier.",
-    "url": "https://medicalxpress.com/news/2026-05-cognitive-decline-older-people.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/handwriting-speed-amon.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T04:00:01+00:00",
-    "fetched_at": "2026-05-20T13:50:33.328039+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "dbc2046b01959880",
-    "title": "Fire Chars Santa Rosa Island",
-    "description": "The blaze spread across the southern side of the second-largest island in California’s Channel Islands National Park.",
-    "url": "https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/",
-    "image": "https://picsum.photos/seed/wv-news-f03f6b54e050/1200/750",
-    "source": "NASA Breaking News",
-    "source_id": "src-079",
-    "category": "znanost",
-    "published_at": "2026-05-20T04:00:00+00:00",
-    "fetched_at": "2026-05-21T04:25:02.737538+00:00"
-  },
-  {
-    "id": "2d77cddc62e2267c",
-    "title": "$1,845 to Fuel Hyundai Santa Fe Hybrid vs. $283 to Fuel Hyundai IONIQ 5",
-    "description": "After writing an article about how much cheaper it is to “fuel” an electric car than a gas car, something crossed my mind: I should do a comparison of the Hyundai Santa Fe and the Hyundai IONIQ 5! If you haven’t been following along, a friend of mine recently decided ... [continued] The post $1,845 to Fuel Hyundai Santa Fe Hybrid vs. $283 to Fuel Hyundai IONIQ 5 appeared first on CleanTechnica .",
-    "url": "https://cleantechnica.com/2026/05/19/1845-to-fuel-hyundai-santa-fe-hybrid-vs-283-to-fuel-hyundai-ioniq-5/",
-    "image": "https://picsum.photos/seed/wv-news-cd1b56d7af0c/1200/750",
-    "source": "CleanTechnica",
-    "source_id": "src-089",
-    "category": "znanost",
-    "published_at": "2026-05-20T03:57:51+00:00",
-    "fetched_at": "2026-05-20T23:59:54.604890+00:00"
-  },
-  {
-    "id": "cb289fc7b658e86b",
-    "title": "Data Center Server Energy Use Grows Across The Commercial Building Stock",
-    "description": "In the Annual Energy Outlook 2026 (AEO2026), our long-term outlook, we project electricity consumed by data center servers will increase across the commercial building stock, increasing more in standalone data centers than in all other data center rooms combined. By 2050, server consumption alone reaches between 446 billion kilowatthours (BkWh) and 818 ... [continued] The post Data Center Server Energy Use Grows Across The Commercial Building Stock appeared first on CleanTechnica .",
-    "url": "https://cleantechnica.com/2026/05/19/data-center-server-energy-use-grows-across-the-commercial-building-stock/",
-    "image": "https://picsum.photos/seed/wv-news-0336511aa344/1200/750",
-    "source": "CleanTechnica",
-    "source_id": "src-089",
-    "category": "znanost",
-    "published_at": "2026-05-20T03:53:55+00:00",
-    "fetched_at": "2026-05-20T23:59:54.604973+00:00"
-  },
-  {
-    "id": "828f07766ffff0b0",
-    "title": "JUSTIFI Tool Could Unlock Value in Energy Productivity Projects",
-    "description": "Free Software Will Help Industry Understand the Full Value of Energy Projects Energy productivity—the measure of how much economic value is generated for every unit of energy used—can be underestimated when multiple benefits are overlooked. Multiple benefits are the operational and strategic improvements—such as productivity gains, quality enhancements, safety improvements, reduced downtime, ... [continued] The post JUSTIFI Tool Could Unlock Value in Energy Productivity Projects appeared first on CleanTechnica .",
-    "url": "https://cleantechnica.com/2026/05/19/justifi-tool-could-unlock-value-in-energy-productivity-projects/",
-    "image": "https://picsum.photos/seed/wv-news-9d880ee77544/1200/750",
-    "source": "CleanTechnica",
-    "source_id": "src-089",
-    "category": "znanost",
-    "published_at": "2026-05-20T03:51:55+00:00",
-    "fetched_at": "2026-05-20T23:59:54.605059+00:00"
-  },
-  {
-    "id": "78a879f91f85a646",
-    "title": "How High-Performance Computing and AI Accelerated Applied Energy Research in 2025",
-    "description": "Kestrel Supercomputer Advanced More Than 500 Energy Modeling and Simulation Projects By Julia Medeiros Coad The National Laboratory of the Rockies’ (NLR’s) advanced computing capabilities continue to grow with the demands and complexities of applied energy research, with key upgrades to the laboratory’s Kestrel supercomputer supporting hundreds of projects with ... [continued] The post How High-Performance Computing and AI Accelerated Applied Energy Research in 2025 appeared first on CleanTechnica .",
-    "url": "https://cleantechnica.com/2026/05/19/how-high-performance-computing-and-ai-accelerated-applied-energy-research-in-2025/",
-    "image": "https://picsum.photos/seed/wv-news-f683e7e7f06d/1200/750",
-    "source": "CleanTechnica",
-    "source_id": "src-089",
-    "category": "znanost",
-    "published_at": "2026-05-20T03:46:25+00:00",
-    "fetched_at": "2026-05-20T23:59:54.605147+00:00"
-  },
-  {
-    "id": "46f7be03104009f9",
-    "title": "New “Atlas” Will Catalog Proteins That Bind to Rare Earth Elements",
-    "description": "Bioprospecting Tool Could Boost Critical Mineral Refining By Anna Squires Throughout the 1800s, naturalists journeyed to far-flung corners of the world to catalog birds, mammals, minerals, and plants. Now, a team of U.S. researchers is assembling a catalog of their own: an atlas of naturally occurring proteins capable of binding ... [continued] The post New “Atlas” Will Catalog Proteins That Bind to Rare Earth Elements appeared first on CleanTechnica .",
-    "url": "https://cleantechnica.com/2026/05/19/new-atlas-will-catalog-proteins-that-bind-to-rare-earth-elements/",
-    "image": "https://picsum.photos/seed/wv-news-9bae52253bb2/1200/750",
-    "source": "CleanTechnica",
-    "source_id": "src-089",
-    "category": "znanost",
-    "published_at": "2026-05-20T03:42:52+00:00",
-    "fetched_at": "2026-05-20T23:59:54.605245+00:00"
-  },
-  {
-    "id": "7c6c3af478c06483",
-    "title": "Scientists discover strange link between vitamin D and pain",
-    "description": "Low vitamin D levels could be quietly making breast cancer surgery recovery far more painful. In a new study, patients deficient in vitamin D were three times more likely to experience moderate to severe pain after mastectomy surgery and ended up using significantly more opioid medication to cope. Researchers say vitamin D may help regulate how the body processes pain through its effects on inflammation and the immune system.",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260519224308.htm",
-    "image": "https://picsum.photos/seed/wv-fill-ce8b3e0253d3/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T03:30:39+00:00",
-    "fetched_at": "2026-05-21T04:32:08.890290+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "51b37f277a365479",
-    "title": "Lipedema: The painful condition too often dismissed as obesity",
-    "description": "For many women with lipedema, the diagnosis comes after years of being told the same thing: eat less, not more. The problem is that the fat accumulating around their hips and legs isn't responding to diet or exercise, because it was never caused by them in the first place.",
-    "url": "https://medicalxpress.com/news/2026-05-lipedema-painful-condition-dismissed-obesity.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/obese.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T03:20:06+00:00",
-    "fetched_at": "2026-05-20T13:50:33.328075+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "311a43e2258f85ea",
-    "title": "We asked US researchers how the Trump administration's science policies have affected them",
-    "description": "The American academic research engine has long been the envy of the world. Generally well-funded, labs in the United States have been able to attract the best minds who generate breakthroughs and train the next generation workforce that powers the U.S. economy. But since the start of the second Trump administration in January 2025, new federal policies have destabilized the American scientific enterprise.",
-    "url": "https://phys.org/news/2026-05-trump-administration-science-policies-affected.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T03:20:04+00:00",
-    "fetched_at": "2026-05-20T13:06:21.973729+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "813df9065cd08f4d",
-    "title": "Humpback whale breaks migration record with 15,000 kilometer ocean journey",
-    "description": "Scientists have uncovered an astonishing new chapter in humpback whale migration: two whales were found to have traveled between breeding grounds in Australia and Brazil, crossing more than 14,000 kilometers of open ocean. One whale shattered records by covering at least 15,100 kilometers between sightings, marking the longest confirmed journey ever documented for an individual humpback whale.",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260519224303.htm",
-    "image": "https://picsum.photos/seed/wv-fill-b11d7e8abdc4/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T03:15:18+00:00",
-    "fetched_at": "2026-05-21T04:32:08.890333+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "bd9f288b88df11ce",
-    "title": "Historic co-determination helps monasteries navigate digital change across three countries",
-    "description": "Why do some organizations survive across the centuries while others founder when faced with technological disruption? A new study by the University of Zurich shows that historically developed monastic forms of co-determination can be a significant advantage for dealing with digitalization. The findings are published in the journal Research Policy.",
-    "url": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/monastery.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T02:40:02+00:00",
-    "fetched_at": "2026-05-20T12:58:54.428951+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "3bede3f5b2a9cffd",
-    "title": "Home sooner, recovering better: Redesigning hip and knee surgery",
-    "description": "More than 200,000 hip and knee replacements are performed in the U.K. every year. They are usually performed only when conservative treatments such as physiotherapy, weight loss, and medications are no longer effective. The average length of hospital stay for knee or hip replacement surgery is currently 2.7 days.",
-    "url": "https://medicalxpress.com/news/2026-05-home-sooner-recovering-redesigning-hip.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/hospital-bed.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T02:20:02+00:00",
-    "fetched_at": "2026-05-20T13:50:33.328110+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "a4c633afbb8af930",
-    "title": "Survey reveals students' mixed feelings about writing with artificial intelligence",
-    "description": "Most students use AI—but their attitudes toward it are ambivalent. On the one hand, they see it as helpful for working more efficiently, broadening their knowledge, and overcoming writing difficulties. On the other, they worry about becoming overly dependent on it and losing important skills, while also recognizing the value of writing without AI support. These are among the findings of a recent survey conducted by Goethe University's Schreibzentrum with 4,048 participants. The key question now is how universities should respond.",
-    "url": "https://phys.org/news/2026-05-survey-reveals-students-artificial-intelligence.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/writing-with-ai.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T01:20:05+00:00",
-    "fetched_at": "2026-05-20T12:58:54.429005+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "4b29d52dc6d96686",
-    "title": "Losing a parent can dent an adult's earning power, say researchers",
-    "description": "Losing a parent in adulthood not only breaks your heart, but can put a sizable dent in your bank account, a new study says. Adults' earning power persistently declines following the death of a parent, researchers report in the American Economic Review.",
-    "url": "https://medicalxpress.com/news/2026-05-parent-dent-adult-power.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/losing-a-parent-can-de.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T01:20:04+00:00",
-    "fetched_at": "2026-05-20T13:06:22.195379+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "a5a185caad9a8344",
-    "title": "Breakthrough drug reverses aging in skin and dramatically speeds healing",
-    "description": "Scientists have discovered that a topical anti-aging drug called ABT-263 can dramatically improve wound healing in older skin. The treatment works by removing damaged “senescent” cells that accumulate with age and slow the body’s repair process. In aged mice, wounds healed much faster after treatment, while the drug also activated genes tied to collagen production and tissue regeneration.",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260519003215.htm",
-    "image": "https://picsum.photos/seed/wv-fill-c1d81524ee43/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T01:13:26+00:00",
-    "fetched_at": "2026-05-21T04:32:08.890435+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "b1bc98f3eb4c185e",
-    "title": "Text messages aid in reducing cardiovascular risk in adults with psoriasis",
-    "description": "A text-messaging intervention can improve patient activation and cardiovascular risk behaviors in adults with psoriasis, according to a study published online May 13 in JAMA Dermatology.",
-    "url": "https://medicalxpress.com/news/2026-05-text-messages-aid-cardiovascular-adults.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/text-messages-aid-in-r.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T00:40:02+00:00",
-    "fetched_at": "2026-05-20T13:06:22.195415+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "3e0ffa0ec6746cb9",
-    "title": "An AI system to help scientists write expert-level empirical software - Nature",
-    "description": "An AI system to help scientists write expert-level empirical software Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vSjlkMkxya2ZHX2hnSE9NNDNiOHpmcGZpSW9MWGVpVy0yTzBzYXZ1Ty1pMmJZR2p5UGR2bDhOeVE4NXhUSzljUG4xbkc5N3M3WnRiV1lVSnBEbjFEeHN3?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-fc6a666c255e/1200/750",
-    "source": "Nature Science - Google News",
-    "source_id": "global-extra-022",
-    "category": "znanost",
-    "published_at": "2026-05-20T00:35:25+00:00",
-    "fetched_at": "2026-05-21T04:26:21.848554+00:00"
-  },
-  {
-    "id": "4e2bfd749046c862",
-    "title": "AI-driven framework enables precise prediction of RNA splicing and isoform usage",
-    "description": "RNA is the means of translating the genetic code embedded in DNA into proteins, which serve as enzymes, transporters, signaling molecules, receptors, structural components, regulators, and gene-expression controllers, among many other roles. Yet one gene is not limited to producing one RNA variant. The process of RNA splicing—in which different coding RNA segments (exons) are joined together after noncoding regions (introns) are removed—allows for the generation of a large array of RNA transcript isoforms with distinct sequences, and consequently, distinct functions in tissue- and cell-type-specific patterns.",
-    "url": "https://phys.org/news/2026-05-ai-driven-framework-enables-precise.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-driven-framework-en.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T00:20:01+00:00",
-    "fetched_at": "2026-05-20T11:38:42.402149+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "5aa6656df2ac1803",
-    "title": "We may finally know why dinosaurs like T. rex evolved tiny arms",
-    "description": "Five different groups of predatory dinosaurs independently evolved disproportionately small arms, and it seems they did so because their heads became so large and powerful",
-    "url": "https://www.newscientist.com/article/2527282-we-may-finally-know-why-dinosaurs-like-t-rex-evolved-tiny-arms/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/19135210/SEI_297982870.jpg",
-    "source": "New Scientist",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T00:01:19+00:00",
-    "fetched_at": "2026-05-21T04:32:09.939371+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "f8c6043649370814",
-    "title": "Sex differences in dementia risks reveal stronger cognitive impacts in women",
-    "description": "Researchers from the University of California San Diego School of Medicine have found that women not only experience a higher burden of certain modifiable dementia risk factors, but also appear more vulnerable to their effects on cognitive function. The study, which analyzed data from more than 17,000 middle-aged and older adults, is published in Biology of Sex Differences.",
-    "url": "https://medicalxpress.com/news/2026-05-sex-differences-dementia-reveal-stronger.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/57347fa9e8dcb.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T00:00:01+00:00",
-    "fetched_at": "2026-05-20T13:06:22.195462+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "20436cf396885603",
-    "title": "“Real Panic” In Oil Industry Expected To Come In June If Strait Of Hormuz Doesn’t Open",
-    "description": "As I wrote the other day, gas prices are up 56% in the United States since the US first bombed Iran. So, it’s not like things are going swimmingly in this industry. However, as several analysts and observers have been saying, we haven’t seen anything yet! Countries have been relying ... [continued] The post “Real Panic” In Oil Industry Expected To Come In June If Strait Of Hormuz Doesn’t Open appeared first on CleanTechnica .",
-    "url": "https://cleantechnica.com/2026/05/19/real-panic-in-oil-industry-expected-to-come-in-june-if-strait-of-hormuz-doesnt-open/",
-    "image": "https://picsum.photos/seed/wv-news-939def716b15/1200/750",
-    "source": "CleanTechnica",
-    "source_id": "src-089",
-    "category": "znanost",
-    "published_at": "2026-05-19T23:41:23+00:00",
-    "fetched_at": "2026-05-20T23:59:54.605356+00:00"
-  },
-  {
-    "id": "f15b43f00f9df66e",
-    "title": "Hurricane forecasts have improved dramatically, saving lives, but federal cuts stretch NOAA to the breaking point",
-    "description": "The 2026 Atlantic hurricane season starts June 1, and while a developing El Niño might result in a tamer season than in the past few years, all it takes is one big storm hitting a populated area to make it a bad hurricane season.",
-    "url": "https://phys.org/news/2026-05-hurricane-federal-noaa.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hurricane-forecasts-ha.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-19T23:40:05+00:00",
-    "fetched_at": "2026-05-20T11:38:42.402190+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "b4d76458b7e47d6e",
-    "title": "Birds clap in the dark to flirt: Nightjars reveal a hidden language of sound",
-    "description": "Some birds sing to attract a mate. Others dance or display colorful feathers. But in the moonlit forests and shrublands of northern Argentina, one bird courts romance by snapping its wrists together, producing a sharp clapping sound scientists have puzzled over for decades. Now, researchers have captured the behavior in detail for the first time, revealing how scissor-tailed nightjars create one of the most curious sounds in the avian world.",
-    "url": "https://phys.org/news/2026-05-birds-dark-flirt-nightjars-reveal.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nightjar.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-19T23:40:03+00:00",
-    "fetched_at": "2026-05-20T11:38:42.402232+00:00",
+    "fetched_at": "2026-05-21T08:52:15.694792+00:00",
     "missing_core_fill": true
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-21T04:30:49.330479+00:00",
+  "updated_at": "2026-05-21T08:51:24.233193+00:00",
   "sources": 69,
-  "ok_sources": 9,
-  "events_count": 105,
+  "ok_sources": 14,
+  "events_count": 172,
   "results": [
     {
       "id": "infozagreb-events",
@@ -43,7 +43,7 @@
       "type": "kazalište",
       "status": "fallback",
       "count": 1,
-      "error": "<urlopen error timed out>"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "zekaem",
@@ -54,7 +54,7 @@
       "type": "kazalište",
       "status": "fallback",
       "count": 1,
-      "error": "<urlopen error timed out>"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "gavella",
@@ -95,9 +95,8 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "kazalište za djecu",
-      "status": "fallback",
-      "count": 1,
-      "error": "<urlopen error timed out>"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "zkl",
@@ -106,8 +105,9 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "kazalište za djecu",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "msu",
@@ -127,9 +127,8 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "galerija / izložbe",
-      "status": "fallback",
-      "count": 1,
-      "error": "<urlopen error timed out>"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "tehnicki-muzej",
@@ -179,9 +178,8 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "film / festival",
-      "status": "fallback",
-      "count": 1,
-      "error": "<urlopen error timed out>"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "national-theatre-london",
@@ -327,7 +325,7 @@
       "type": "kazalište",
       "status": "fallback",
       "count": 1,
-      "error": "<urlopen error timed out>"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "odeon-paris",
@@ -598,9 +596,8 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "muzej / izložbe",
-      "status": "fallback",
-      "count": 1,
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "musee-orsay",
@@ -609,9 +606,8 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "muzej / izložbe",
-      "status": "fallback",
-      "count": 1,
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "count": 14
     },
     {
       "id": "centre-pompidou",
@@ -620,9 +616,8 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "muzej / izložbe",
-      "status": "fallback",
-      "count": 1,
-      "error": "<urlopen error timed out>"
+      "status": "ok",
+      "count": 47
     },
     {
       "id": "prado",
@@ -642,9 +637,8 @@
       "country": "Španjolska",
       "city": "Madrid",
       "type": "muzej / izložbe",
-      "status": "fallback",
-      "count": 1,
-      "error": "<urlopen error timed out>"
+      "status": "ok",
+      "count": 1
     },
     {
       "id": "rijksmuseum",
@@ -664,8 +658,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "program_link_only",
-      "count": 1
+      "status": "ok",
+      "count": 9
     },
     {
       "id": "uffizi",
@@ -674,7 +668,7 @@
       "country": "Italija",
       "city": "Firenca",
       "type": "galerija / izložbe",
-      "status": "program_link_only",
+      "status": "ok",
       "count": 1
     },
     {

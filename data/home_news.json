@@ -9,7 +9,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-21T04:24:01.095875+00:00"
+    "fetched_at": "2026-05-21T08:48:07.287736+00:00"
   },
   {
     "id": "518893cda3595307",
@@ -21,7 +21,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-21T04:24:01.095965+00:00"
+    "fetched_at": "2026-05-21T08:48:07.287791+00:00"
   },
   {
     "id": "a85a64336941fc6a",
@@ -33,7 +33,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-21T04:24:01.096025+00:00"
+    "fetched_at": "2026-05-21T08:48:07.287838+00:00"
   },
   {
     "id": "ad14d6c56adec45d",
@@ -105,7 +105,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-21T04:24:01.096081+00:00"
+    "fetched_at": "2026-05-21T08:48:07.287903+00:00"
   },
   {
     "id": "afe04b4cab8b18fe",
@@ -117,7 +117,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-21T04:24:01.096136+00:00"
+    "fetched_at": "2026-05-21T08:48:07.287949+00:00"
   },
   {
     "id": "f34e0846cfa4155f",
@@ -129,7 +129,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-21T04:24:01.096189+00:00"
+    "fetched_at": "2026-05-21T08:48:07.287993+00:00"
   },
   {
     "id": "25b3dba7ac823a67",
@@ -141,7 +141,31 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-21T04:24:01.096241+00:00"
+    "fetched_at": "2026-05-21T08:48:07.288034+00:00"
+  },
+  {
+    "id": "c40b3cdc959689d5",
+    "title": "Wired for growth: India’s electrical-equipment opportunity",
+    "description": "Amid a global surge in electrification, India’s scaling domestic demand and structural advantages could make it a globally competitive electrical-equipment-manufacturing powerhouse.",
+    "url": "https://www.mckinsey.com/industries/industrials/our-insights/wired-for-growth-indias-electrical-equipment-opportunity",
+    "image": "https://picsum.photos/seed/wv-news-91f66f270511/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Thu, 21 May 2026",
+    "fetched_at": "2026-05-21T08:48:07.287618+00:00"
+  },
+  {
+    "id": "e1ec5383ee11f320",
+    "title": "Ramping up manufacturing in America?",
+    "description": "Probing how much manufacturing ramp-up would be needed to address US trade dependencies.",
+    "url": "https://www.mckinsey.com/mgi/our-research/ramping-up-manufacturing-in-america",
+    "image": "https://picsum.photos/seed/wv-news-54703be3cccd/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Thu, 21 May 2026",
+    "fetched_at": "2026-05-21T08:48:07.287687+00:00"
   },
   {
     "id": "b4cea2ca3d77a858",
@@ -213,7 +237,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-21T04:24:01.096299+00:00"
+    "fetched_at": "2026-05-21T08:48:07.288078+00:00"
   },
   {
     "id": "a98eee73d2e97e01",
@@ -225,7 +249,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-21T04:24:01.096364+00:00"
+    "fetched_at": "2026-05-21T08:48:07.288132+00:00"
   },
   {
     "id": "b17b2d7b43d45173",
@@ -237,7 +261,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Mon, 18 May 2026",
-    "fetched_at": "2026-05-21T04:24:01.096425+00:00"
+    "fetched_at": "2026-05-21T08:48:07.288181+00:00"
   },
   {
     "id": "415368da854b2685",
@@ -276,6 +300,110 @@
     "fetched_at": "2026-05-20T13:46:09.282480+00:00"
   },
   {
+    "id": "c96ee0a20f2b6a90",
+    "title": "SBS bids to replace teller systems with tablet-based branch banking platform",
+    "description": "SBS, the global financial technology company that more than 1,500 financial institutions rely on to digitally transform the way they operate, has launched Digital Branch, a cloud-native, tablet-based branch servicing platform that replaces legacy teller systems for UK building societies and banks.",
+    "url": "https://www.finextra.com/pressarticle/109920/sbs-bids-to-replace-teller-systems-with-tablet-based-branch-banking-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-eae25cc3fad4/1200/750",
+    "source": "Finextra",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-21T09:41:00+00:00",
+    "fetched_at": "2026-05-21T08:52:08.994756+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "732f91ba59885a4f",
+    "title": "flatexDEGIRO and SocGen join Seturion, Boerse Stuttgart’s tokenized securities platform",
+    "description": "Seturion, Boerse Stuttgart Group's European settlement platform for tokenized securities, today announced a strategic partnership with flatexDEGIRO, Societe Generale, and SG-FORGE, on a clear path to expand its network of leading financial institutions across Europe and to advance digital blockchain-based securities settlement.",
+    "url": "https://www.finextra.com/pressarticle/109919/flatexdegiro-and-socgen-join-seturion-boerse-stuttgarts-tokenized-securities-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-dfcf125f888c/1200/750",
+    "source": "Finextra",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-21T09:32:00+00:00",
+    "fetched_at": "2026-05-21T08:52:08.994807+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "38d36568f7426cf5",
+    "title": "State Street Investment Management takes minority Stake in German wealth platform getquin",
+    "description": "State Street Investment Management, one of the world’s largest asset managers, has made a strategic minority investment in getquin, a fast‑growing German digital wealth management platform for private investors.",
+    "url": "https://www.finextra.com/pressarticle/109918/state-street-investment-management-takes-minority-stake-in-german-wealth-platform-getquin?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-291e956a4df9/1200/750",
+    "source": "Finextra",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-21T09:29:00+00:00",
+    "fetched_at": "2026-05-21T08:52:08.994849+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "84ed04639d13d1f4",
+    "title": "Ebury opens new offices in Antwerp and Lyon",
+    "description": "Ebury is thrilled to announce a dual expansion of our European footprint with the opening of new offices in Antwerp, Belgium, and Lyon, France.",
+    "url": "https://www.finextra.com/pressarticle/109917/ebury-opens-new-offices-in-antwerp-and-lyon?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-e22b78ab129b/1200/750",
+    "source": "Finextra",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-21T09:28:00+00:00",
+    "fetched_at": "2026-05-21T08:52:08.994901+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "bc647b53fa90b423",
+    "title": "ClearBank scales FSCS readiness with Datactics",
+    "description": "ClearBank, the enabler of real-time clearing and embedded banking, has strengthened Financial Services Compensation Scheme (FSCS) compliance through a partnership with data readiness firm Datactics, supporting rapid client onboarding.",
+    "url": "https://www.finextra.com/pressarticle/109916/clearbank-scales-fscs-readiness-with-datactics?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-a1f31863026d/1200/750",
+    "source": "Finextra",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-21T09:26:00+00:00",
+    "fetched_at": "2026-05-21T08:52:08.994939+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "6adf4f51aaa315b3",
+    "title": "PPI develops digital euro operating platform for banks",
+    "description": "The Digital Euro is issued as central bank money, similar to cash. Unlike bank money, which is held in current accounts at the respective commercial banks, the Digital Euro gets ist own accounts managed by the central bank at the DESP (Digital Euro Service Platform).",
+    "url": "https://www.finextra.com/pressarticle/109915/ppi-develops-digital-euro-operating-platform-for-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-f4e4a019b8ef/1200/750",
+    "source": "Finextra",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-21T09:23:00+00:00",
+    "fetched_at": "2026-05-21T08:52:08.994980+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "31dd1bcae9d4232c",
+    "title": "Tirana Bank goes digital with Backbase",
+    "description": "Tirana Bank announces the successful go-live of a complete omnichannel retail banking experience.",
+    "url": "https://www.finextra.com/pressarticle/109914/tirana-bank-goes-digital-with-backbase?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-6265886b1f0c/1200/750",
+    "source": "Finextra",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-21T09:19:00+00:00",
+    "fetched_at": "2026-05-21T08:52:08.995013+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "5c520fdb709d4d00",
+    "title": "Armalytix releases property compliance bundle",
+    "description": "Armalytix, the multi-award-winning intelligence firm delivering precision client information for AML, affordability, and more, has today launched Armalytix Complete Compliance Bundles.",
+    "url": "https://www.finextra.com/pressarticle/109913/armalytix-releases-property-compliance-bundle?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-core-1ff1a185e4ee/1200/750",
+    "source": "Finextra",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-21T09:17:00+00:00",
+    "fetched_at": "2026-05-21T08:52:08.995049+00:00",
+    "core_business_science_fill": true
+  },
+  {
     "id": "4388e4a0f33d9b0d",
     "title": "Quince Sells Caviar and Wine Now. Is It Any Good?",
     "description": "For years, Quince has been a website that I knew as “that place to get affordable cashmere sweaters.” But as its offerings have expanded further and further, from home goods and luggage to jewelry and perfume, it’s also become a source for diamonds, caviar, and even Dom Perignon. The site has been dabbling in gourmet […]",
@@ -284,8 +412,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T04:32:16.659472+00:00",
-    "fetched_at": "2026-05-21T04:32:16.659475+00:00",
+    "published_at": "2026-05-21T08:52:21.129042+00:00",
+    "fetched_at": "2026-05-21T08:52:21.129044+00:00",
     "missing_core_fill": true
   },
   {
@@ -297,8 +425,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T04:32:16.659420+00:00",
-    "fetched_at": "2026-05-21T04:32:16.659422+00:00",
+    "published_at": "2026-05-21T08:52:21.128997+00:00",
+    "fetched_at": "2026-05-21T08:52:21.128999+00:00",
     "missing_core_fill": true
   },
   {
@@ -310,8 +438,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T04:32:16.659368+00:00",
-    "fetched_at": "2026-05-21T04:32:16.659370+00:00",
+    "published_at": "2026-05-21T08:52:21.128953+00:00",
+    "fetched_at": "2026-05-21T08:52:21.128955+00:00",
     "missing_core_fill": true
   },
   {
@@ -323,8 +451,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T04:32:16.659310+00:00",
-    "fetched_at": "2026-05-21T04:32:16.659312+00:00",
+    "published_at": "2026-05-21T08:52:21.128904+00:00",
+    "fetched_at": "2026-05-21T08:52:21.128906+00:00",
     "missing_core_fill": true
   },
   {
@@ -336,8 +464,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T04:32:16.659260+00:00",
-    "fetched_at": "2026-05-21T04:32:16.659263+00:00",
+    "published_at": "2026-05-21T08:52:21.128846+00:00",
+    "fetched_at": "2026-05-21T08:52:21.128848+00:00",
     "missing_core_fill": true
   },
   {
@@ -349,8 +477,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T04:32:16.659200+00:00",
-    "fetched_at": "2026-05-21T04:32:16.659203+00:00",
+    "published_at": "2026-05-21T08:52:21.128798+00:00",
+    "fetched_at": "2026-05-21T08:52:21.128800+00:00",
     "missing_core_fill": true
   },
   {
@@ -362,8 +490,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T04:32:16.659137+00:00",
-    "fetched_at": "2026-05-21T04:32:16.659140+00:00",
+    "published_at": "2026-05-21T08:52:21.128745+00:00",
+    "fetched_at": "2026-05-21T08:52:21.128747+00:00",
     "missing_core_fill": true
   },
   {
@@ -375,8 +503,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T04:32:16.659080+00:00",
-    "fetched_at": "2026-05-21T04:32:16.659084+00:00",
+    "published_at": "2026-05-21T08:52:21.128696+00:00",
+    "fetched_at": "2026-05-21T08:52:21.128699+00:00",
     "missing_core_fill": true
   },
   {
@@ -388,8 +516,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T04:32:16.659010+00:00",
-    "fetched_at": "2026-05-21T04:32:16.659013+00:00",
+    "published_at": "2026-05-21T08:52:21.128635+00:00",
+    "fetched_at": "2026-05-21T08:52:21.128637+00:00",
     "missing_core_fill": true
   },
   {
@@ -401,8 +529,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T04:32:16.658923+00:00",
-    "fetched_at": "2026-05-21T04:32:16.658938+00:00",
+    "published_at": "2026-05-21T08:52:21.128559+00:00",
+    "fetched_at": "2026-05-21T08:52:21.128571+00:00",
     "missing_core_fill": true
   },
   {
@@ -414,8 +542,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T04:32:07.573716+00:00",
-    "fetched_at": "2026-05-21T04:32:07.573718+00:00",
+    "published_at": "2026-05-21T08:52:14.992185+00:00",
+    "fetched_at": "2026-05-21T08:52:14.992187+00:00",
     "missing_core_fill": true
   },
   {
@@ -427,8 +555,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T04:32:07.573648+00:00",
-    "fetched_at": "2026-05-21T04:32:07.573652+00:00",
+    "published_at": "2026-05-21T08:52:14.992125+00:00",
+    "fetched_at": "2026-05-21T08:52:14.992127+00:00",
     "missing_core_fill": true
   },
   {
@@ -440,8 +568,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T04:32:07.573562+00:00",
-    "fetched_at": "2026-05-21T04:32:07.573565+00:00",
+    "published_at": "2026-05-21T08:52:14.992029+00:00",
+    "fetched_at": "2026-05-21T08:52:14.992030+00:00",
     "missing_core_fill": true
   },
   {
@@ -453,8 +581,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T04:32:07.573506+00:00",
-    "fetched_at": "2026-05-21T04:32:07.573508+00:00",
+    "published_at": "2026-05-21T08:52:14.991970+00:00",
+    "fetched_at": "2026-05-21T08:52:14.991973+00:00",
     "missing_core_fill": true
   },
   {
@@ -466,8 +594,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T04:32:07.573407+00:00",
-    "fetched_at": "2026-05-21T04:32:07.573410+00:00",
+    "published_at": "2026-05-21T08:52:14.991776+00:00",
+    "fetched_at": "2026-05-21T08:52:14.991779+00:00",
     "missing_core_fill": true
   },
   {
@@ -479,8 +607,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T04:32:07.573341+00:00",
-    "fetched_at": "2026-05-21T04:32:07.573344+00:00",
+    "published_at": "2026-05-21T08:52:14.991673+00:00",
+    "fetched_at": "2026-05-21T08:52:14.991675+00:00",
     "missing_core_fill": true
   },
   {
@@ -492,8 +620,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T04:32:07.573274+00:00",
-    "fetched_at": "2026-05-21T04:32:07.573277+00:00",
+    "published_at": "2026-05-21T08:52:14.991532+00:00",
+    "fetched_at": "2026-05-21T08:52:14.991555+00:00",
     "missing_core_fill": true
   },
   {
@@ -505,8 +633,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T04:32:07.573205+00:00",
-    "fetched_at": "2026-05-21T04:32:07.573208+00:00",
+    "published_at": "2026-05-21T08:52:14.991453+00:00",
+    "fetched_at": "2026-05-21T08:52:14.991457+00:00",
     "missing_core_fill": true
   },
   {
@@ -518,165 +646,139 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-21T04:32:07.573117+00:00",
-    "fetched_at": "2026-05-21T04:32:07.573132+00:00",
+    "published_at": "2026-05-21T08:52:14.991353+00:00",
+    "fetched_at": "2026-05-21T08:52:14.991372+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "0fa32494d5e8ee32",
-    "title": "Yum! Brands’ SWOT analysis: stock gains momentum on Pizza Hut review",
+    "id": "8f07fae816faef0e",
+    "title": "Earnings call transcript: Sage Q1 2026: EPS Miss, Strong Revenue Growth",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/swot-analysis/yum-brands-swot-analysis-stock-gains-momentum-on-pizza-hut-review-93CH-4702932",
-    "image": "https://picsum.photos/seed/wv-core-3345ce041604/1200/750",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sage-q1-2026-eps-miss-strong-revenue-growth-93CH-4703154",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T04:31:51.411018+00:00",
-    "fetched_at": "2026-05-21T04:31:51.411020+00:00",
+    "published_at": "2026-05-21T08:52:08.828800+00:00",
+    "fetched_at": "2026-05-21T08:52:08.828801+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "5d42e95706671aac",
-    "title": "US energy storage additions hit a first-quarter record, report shows",
+    "id": "502702fb4e88d67e",
+    "title": "Syensqo stock jumps 4.5% on strategic review of unit",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/stock-market-news/us-energy-storage-additions-hit-a-firstquarter-record-report-shows-4702933",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K08X_L.jpg",
+    "url": "https://www.investing.com/news/stock-market-news/syensqo-stock-jumps-45-on-strategic-review-of-unit-93CH-4703155",
+    "image": "https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_M.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T04:31:51.410982+00:00",
-    "fetched_at": "2026-05-21T04:31:51.410984+00:00",
+    "published_at": "2026-05-21T08:52:08.828775+00:00",
+    "fetched_at": "2026-05-21T08:52:08.828777+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "247a3895ca4a4098",
-    "title": "As cocoa prices melt down, real chocolate is making a comeback",
+    "id": "353a1eb3dfc8fa7c",
+    "title": "BOJ policymaker calls for rate hike, warns of war-led inflation overshoot",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/stock-market-news/as-cocoa-prices-melt-down-real-chocolate-is-making-a-comeback-4701828",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J1I2_L.jpg",
+    "url": "https://www.investing.com/news/economy-news/bojs-koeda-calls-for-rate-hike-at-appropriate-pace-4702910",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K045_L.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T04:31:51.410955+00:00",
-    "fetched_at": "2026-05-21T04:31:51.410957+00:00",
+    "published_at": "2026-05-21T08:52:08.828738+00:00",
+    "fetched_at": "2026-05-21T08:52:08.828740+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "be34cb9dcffd25be",
-    "title": "Oil rebounds on Iran peace deal uncertainty and inventory drawdowns",
+    "id": "f92b51b1d27c68c0",
+    "title": "Full Truck Alliance beats estimates as orders surge 14%",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/commodities-news/oil-rebounds-on-uncertainty-over-iran-peace-deal-and-inventory-drawdowns-4702883",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K02A_L.jpg",
+    "url": "https://www.investing.com/news/earnings/full-truck-alliance-beats-estimates-as-orders-surge-14-93CH-4703156",
+    "image": "https://picsum.photos/seed/wv-core-6cd54797d05f/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T04:31:51.410929+00:00",
-    "fetched_at": "2026-05-21T04:31:51.410931+00:00",
+    "published_at": "2026-05-21T08:52:08.828712+00:00",
+    "fetched_at": "2026-05-21T08:52:08.828713+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "b3be46073e4b8eeb",
-    "title": "Samsung shares soar as strike averted, but bonuses of $416,000 for some stoke concern",
+    "id": "b4ecb70323a384d2",
+    "title": "NetEase falls 2% despite beating first quarter estimates",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/stock-market-news/samsung-shares-soar-as-strike-averted-but-bonuses-of-416000-for-some-stoke-concern-4702930",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K08P_L.jpg",
+    "url": "https://www.investing.com/news/earnings/netease-falls-2-despite-beating-first-quarter-estimates-93CH-4703157",
+    "image": "https://picsum.photos/seed/wv-core-29d3e46368d6/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T04:31:51.410902+00:00",
-    "fetched_at": "2026-05-21T04:31:51.410905+00:00",
+    "published_at": "2026-05-21T08:52:08.828686+00:00",
+    "fetched_at": "2026-05-21T08:52:08.828688+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "4dede6100e5b04a4",
-    "title": "Tehran reviewing latest US response as Trump suggests he can wait",
+    "id": "f1112d32c7275747",
+    "title": "O’Reilly Automotive’s SWOT analysis: stock faces pricing power test",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/world-news/tehran-reviewing-latest-us-response-as-trump-suggests-he-can-wait-4702931",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K08A_L.jpg",
+    "url": "https://www.investing.com/news/swot-analysis/oreilly-automotives-swot-analysis-stock-faces-pricing-power-test-93CH-4703158",
+    "image": "https://picsum.photos/seed/wv-core-0900b1adcfe6/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T04:31:51.410874+00:00",
-    "fetched_at": "2026-05-21T04:31:51.410876+00:00",
+    "published_at": "2026-05-21T08:52:08.828660+00:00",
+    "fetched_at": "2026-05-21T08:52:08.828662+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "c20f2d477e5dce8c",
-    "title": "India weighs options including rate hikes to stabilize floundering rupee- Bloomberg",
+    "id": "6918188d36e6e700",
+    "title": "QinetiQ shares jump 8% as FY26 profit beats estimates, U.S. unit reviewed",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/stock-market-news/india-weighs-options-including-rate-hikes-to-stabilize-floundering-rupee-bloomberg-93CH-4702934",
-    "image": "https://i-invdn-com.investing.com/news/Indian_Rupee_M_1440056022.jpg",
+    "url": "https://www.investing.com/news/earnings/qinetiq-shares-jump-8-as-fy26-profit-beats-estimates-us-unit-reviewed-4703159",
+    "image": "https://i-invdn-com.investing.com/news/LYNXNPEB66095_M.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T04:31:51.410845+00:00",
-    "fetched_at": "2026-05-21T04:31:51.410847+00:00",
+    "published_at": "2026-05-21T08:52:08.828629+00:00",
+    "fetched_at": "2026-05-21T08:52:08.828631+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "ff8b3ea62c497d4d",
-    "title": "Marvell Technology’s SWOT analysis: optical growth drives stock upgrade",
+    "id": "0eabf8bc014ca763",
+    "title": "Earnings call transcript: NFON Q1 2026 sees revenue dip amid AI pivot",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/swot-analysis/marvell-technologys-swot-analysis-optical-growth-drives-stock-upgrade-93CH-4702935",
-    "image": "https://picsum.photos/seed/wv-core-73821b461108/1200/750",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-nfon-q1-2026-sees-revenue-dip-amid-ai-pivot-93CH-4703160",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T04:31:51.410813+00:00",
-    "fetched_at": "2026-05-21T04:31:51.410816+00:00",
+    "published_at": "2026-05-21T08:52:08.828603+00:00",
+    "fetched_at": "2026-05-21T08:52:08.828604+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "bd7330ce0dae104d",
-    "title": "Asia stocks rally on upbeat Nvidia earnings, KOSPI surges 8% on Samsung union deal",
+    "id": "c169281e7e51d83d",
+    "title": "Floor & Decor’s SWOT analysis: stock navigates leadership shift",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rally-on-upbeat-nvidia-earnings-kospi-surges-8-on-samsung-union-deal-4702936",
-    "image": "https://i-invdn-com.investing.com/news/LYNXMPEABM09Q_M.jpg",
+    "url": "https://www.investing.com/news/swot-analysis/floor--decors-swot-analysis-stock-navigates-leadership-shift-93CH-4703161",
+    "image": "https://picsum.photos/seed/wv-core-0953e1997246/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T04:31:51.410767+00:00",
-    "fetched_at": "2026-05-21T04:31:51.410771+00:00",
+    "published_at": "2026-05-21T08:52:08.828572+00:00",
+    "fetched_at": "2026-05-21T08:52:08.828574+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "34dfb47c097a5ff2",
-    "title": "Nvidia Asian suppliers rally after AI fuels strong Q1 earnings",
+    "id": "2f6c8c1f45c25d06",
+    "title": "Cirsa’s first quarter results meet analyst expectations",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/stock-market-news/nvidia-asian-suppliers-rally-after-ai-fuels-strong-q1-earnings-4702937",
-    "image": "https://i-invdn-com.investing.com/news/LYNXMPEE141FU_M.jpg",
+    "url": "https://www.investing.com/news/earnings/cirsas-first-quarter-results-meet-analyst-expectations-93CH-4703162",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-21T04:31:51.410715+00:00",
-    "fetched_at": "2026-05-21T04:31:51.410729+00:00",
+    "published_at": "2026-05-21T08:52:08.828512+00:00",
+    "fetched_at": "2026-05-21T08:52:08.828529+00:00",
     "core_business_science_fill": true
-  },
-  {
-    "id": "72724ef2eca83bdc",
-    "title": "Chef Jurica Obrol gostuje u Pizzi Shango, a donosimo i cijeli popis aktualnih gastro događanja u Zagrebu Petak, 15. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - gastro. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/gastro/gastro-dogadanja-u-zagrebu-2026/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/gastro-dogadanja-u-zg-scaled-e1778751170850-768x576.jpeg",
-    "source": "Journal.hr - gastro",
-    "source_id": "extra-journal-gastro",
-    "category": "hedonizam",
-    "published_at": "2026-05-21T04:26:51.198610+00:00",
-    "fetched_at": "2026-05-21T04:26:51.198613+00:00",
-    "html_source": true
-  },
-  {
-    "id": "70a143d71d07b9ce",
-    "title": "Naš savršen doručak u zadnje vrijeme uključuje zobene pahuljice, limun, mak i pistacije. Imamo recept Petak, 15. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - gastro. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/gastro/zobene-pahuljice-s-limunom-i-pistacijama/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/zobene-s-limunom-i-pistacijama-scaled-e1778066760309-768x505.jpg",
-    "source": "Journal.hr - gastro",
-    "source_id": "extra-journal-gastro",
-    "category": "hedonizam",
-    "published_at": "2026-05-21T04:26:51.198433+00:00",
-    "fetched_at": "2026-05-21T04:26:51.198435+00:00",
-    "html_source": true
   },
   {
     "id": "10095664ff1cfa06",
@@ -687,8 +789,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T04:26:51.198252+00:00",
-    "fetched_at": "2026-05-21T04:26:51.198255+00:00",
+    "published_at": "2026-05-21T08:50:06.222747+00:00",
+    "fetched_at": "2026-05-21T08:50:06.222749+00:00",
     "html_source": true
   },
   {
@@ -700,8 +802,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T04:26:51.198081+00:00",
-    "fetched_at": "2026-05-21T04:26:51.198084+00:00",
+    "published_at": "2026-05-21T08:50:06.222579+00:00",
+    "fetched_at": "2026-05-21T08:50:06.222581+00:00",
     "html_source": true
   },
   {
@@ -713,8 +815,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T04:26:51.197891+00:00",
-    "fetched_at": "2026-05-21T04:26:51.197893+00:00",
+    "published_at": "2026-05-21T08:50:06.222394+00:00",
+    "fetched_at": "2026-05-21T08:50:06.222396+00:00",
     "html_source": true
   },
   {
@@ -726,8 +828,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T04:26:51.197733+00:00",
-    "fetched_at": "2026-05-21T04:26:51.197736+00:00",
+    "published_at": "2026-05-21T08:50:06.222247+00:00",
+    "fetched_at": "2026-05-21T08:50:06.222249+00:00",
     "html_source": true
   },
   {
@@ -739,8 +841,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T04:26:51.197542+00:00",
-    "fetched_at": "2026-05-21T04:26:51.197545+00:00",
+    "published_at": "2026-05-21T08:50:06.222094+00:00",
+    "fetched_at": "2026-05-21T08:50:06.222096+00:00",
     "html_source": true
   },
   {
@@ -752,8 +854,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T04:26:51.197359+00:00",
-    "fetched_at": "2026-05-21T04:26:51.197362+00:00",
+    "published_at": "2026-05-21T08:50:06.221922+00:00",
+    "fetched_at": "2026-05-21T08:50:06.221924+00:00",
     "html_source": true
   },
   {
@@ -765,8 +867,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T04:26:51.197195+00:00",
-    "fetched_at": "2026-05-21T04:26:51.197198+00:00",
+    "published_at": "2026-05-21T08:50:06.221755+00:00",
+    "fetched_at": "2026-05-21T08:50:06.221757+00:00",
     "html_source": true
   },
   {
@@ -778,8 +880,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T04:26:51.197015+00:00",
-    "fetched_at": "2026-05-21T04:26:51.197018+00:00",
+    "published_at": "2026-05-21T08:50:06.221589+00:00",
+    "fetched_at": "2026-05-21T08:50:06.221591+00:00",
     "html_source": true
   },
   {
@@ -791,8 +893,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T04:26:51.196853+00:00",
-    "fetched_at": "2026-05-21T04:26:51.196857+00:00",
+    "published_at": "2026-05-21T08:50:06.221443+00:00",
+    "fetched_at": "2026-05-21T08:50:06.221445+00:00",
     "html_source": true
   },
   {
@@ -804,112 +906,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-21T04:26:51.196669+00:00",
-    "fetched_at": "2026-05-21T04:26:51.196683+00:00",
-    "html_source": true
-  },
-  {
-    "id": "309e19bead874b3e",
-    "title": "Interijer ove kuće elegantan je i bezvremenski primjer rekonstrukcije vile iz kasnih 30-ih godina Subota, 09. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/interijeri/vila-u-ceskoj-villa-m/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/vila-u-Ceskoj-villa-m-boysplaynice-01-9-768x576.jpg",
-    "source": "Journal.hr - interijeri",
-    "source_id": "extra-journal-interijeri",
-    "category": "dizajn",
-    "published_at": "2026-05-21T04:26:50.532138+00:00",
-    "fetched_at": "2026-05-21T04:26:50.532141+00:00",
-    "html_source": true
-  },
-  {
-    "id": "4a325e5c724c1d58",
-    "title": "Kultni hotel Francuske rivijere, koji je navodno posjećivala i Audrey Hepburn, ponovo otvara vrata Nedjelja, 10. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/putovanja/le-beauvallon-hotel-saint-tropez/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Le-Beauvallon-hotel_glavna-naslovna-foto-768x473.jpg",
-    "source": "Journal.hr - interijeri",
-    "source_id": "extra-journal-interijeri",
-    "category": "dizajn",
-    "published_at": "2026-05-21T04:26:50.531965+00:00",
-    "fetched_at": "2026-05-21T04:26:50.531968+00:00",
-    "html_source": true
-  },
-  {
-    "id": "539c36f6029c7c0b",
-    "title": "U Splitu otvoren prvi Design Hotel: Evo kako izgleda glamur na Bačvicama Ponedjeljak, 11. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/interijeri/boutique-hotel-venturo-split-design-hotels-marriott-international/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/Venturo-5-768x549.jpg",
-    "source": "Journal.hr - interijeri",
-    "source_id": "extra-journal-interijeri",
-    "category": "dizajn",
-    "published_at": "2026-05-21T04:26:50.531800+00:00",
-    "fetched_at": "2026-05-21T04:26:50.531804+00:00",
-    "html_source": true
-  },
-  {
-    "id": "0998bf2f61628339",
-    "title": "Pariški hotel L’Aventure je posveta art deco estetici, noćnom životu i bojama Utorak, 12. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/interijeri/hotel-laventure-pariz-francuska/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/LAventure-Paris-2-768x512.webp",
-    "source": "Journal.hr - interijeri",
-    "source_id": "extra-journal-interijeri",
-    "category": "dizajn",
-    "published_at": "2026-05-21T04:26:50.531612+00:00",
-    "fetched_at": "2026-05-21T04:26:50.531615+00:00",
-    "html_source": true
-  },
-  {
-    "id": "6cf47ffcb969254f",
-    "title": "Obiteljski dom u kojem umjetnost ne služi samo kao dekoracija, već kao dio koji oblikuje prostor Srijeda, 13. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/interijeri/x-ae-m-22-obiteljski-dom-u-kojem-umjetnost-ima-glavnu-rijec/",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/02/X-AE-M-22_open_space_6-wizia_studio-2025-1-768x528.jpg",
-    "source": "Journal.hr - interijeri",
-    "source_id": "extra-journal-interijeri",
-    "category": "dizajn",
-    "published_at": "2026-05-21T04:26:50.531457+00:00",
-    "fetched_at": "2026-05-21T04:26:50.531459+00:00",
-    "html_source": true
-  },
-  {
-    "id": "cc3479e1297a4647",
-    "title": "Home Edit: Želite urediti glazbeni kutak u svom domu? Zara Home ima komade koji spajaju dizajn i dobar zvuk Petak, 15. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/interijeri/glazbeni-kutak-u-domu-home-edit/",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/10/kako-urediti-glazbeni-kutak-u-domu_Zara-Home_glavna-naslovna-768x511.jpg",
-    "source": "Journal.hr - interijeri",
-    "source_id": "extra-journal-interijeri",
-    "category": "dizajn",
-    "published_at": "2026-05-21T04:26:50.531267+00:00",
-    "fetched_at": "2026-05-21T04:26:50.531270+00:00",
-    "html_source": true
-  },
-  {
-    "id": "acd186a5cd8ff02e",
-    "title": "Tko se boji boje još? Interijer ovog stana ne zazire od kolorita, a ružičastu kuhinju teško je “izbaciti” iz glave Subota, 16. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/interijeri/stan-u-becu-asap-pitro-sammer/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/ASAP-Pitro-Sammer_Stan-u-Becu-6-768x576.jpg",
-    "source": "Journal.hr - interijeri",
-    "source_id": "extra-journal-interijeri",
-    "category": "dizajn",
-    "published_at": "2026-05-21T04:26:50.531100+00:00",
-    "fetched_at": "2026-05-21T04:26:50.531103+00:00",
-    "html_source": true
-  },
-  {
-    "id": "ddf43da31356efd7",
-    "title": "Stan za četveročlanu obitelj u obnovi je uspješno spojio originalne elemente i moderni interijer Nedjelja, 17. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - interijeri. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/interijeri/stan-u-milanu-offstage/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/stan-u-Milanu_Offstage-1-768x515.png",
-    "source": "Journal.hr - interijeri",
-    "source_id": "extra-journal-interijeri",
-    "category": "dizajn",
-    "published_at": "2026-05-21T04:26:50.530916+00:00",
-    "fetched_at": "2026-05-21T04:26:50.530919+00:00",
+    "published_at": "2026-05-21T08:50:06.221296+00:00",
+    "fetched_at": "2026-05-21T08:50:06.221298+00:00",
     "html_source": true
   }
 ]

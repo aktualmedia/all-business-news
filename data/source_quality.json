@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-21T04:32:37.028575+00:00",
+  "updated_at": "2026-05-21T08:52:39.579980+00:00",
   "sources": 236,
-  "ok": 166,
-  "problem": 56,
+  "ok": 167,
+  "problem": 53,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -269,17 +269,6 @@
       "error": ""
     },
     {
-      "id": "src-104",
-      "name": "Deadline",
-      "category": "kultura",
-      "url": "https://deadline.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-165",
       "name": "Decanter",
       "category": "pica",
@@ -295,6 +284,17 @@
       "name": "Decanter Wine - Google News",
       "category": "pica",
       "url": "https://news.google.com/rss/search?q=site:decanter.com%20wine&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-118",
+      "name": "DesignWanted",
+      "category": "dizajn",
+      "url": "https://designwanted.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -654,6 +654,17 @@
       "error": ""
     },
     {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-012",
       "name": "Mining.com Markets - Google News",
       "category": "trzista",
@@ -984,17 +995,6 @@
       "error": ""
     },
     {
-      "id": "src-068",
-      "name": "The Register",
-      "category": "tehnologija",
-      "url": "https://www.theregister.com/headlines.atom",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-167",
       "name": "The Spirits Business",
       "category": "pica",
@@ -1131,6 +1131,17 @@
       "name": "Creative Review",
       "category": "kultura",
       "url": "https://www.creativereview.co.uk/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-104",
+      "name": "Deadline",
+      "category": "kultura",
+      "url": "https://deadline.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1963,6 +1974,28 @@
       "error": ""
     },
     {
+      "id": "src-068",
+      "name": "The Register",
+      "category": "tehnologija",
+      "url": "https://www.theregister.com/headlines.atom",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
+      "id": "src-161",
+      "name": "Time+Tide Watches",
+      "category": "satovi",
+      "url": "https://timeandtidewatches.com/feed/",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
       "id": "extra-care-001",
       "name": "Well+Good",
       "category": "lifestyle",
@@ -2183,17 +2216,6 @@
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "id": "src-118",
-      "name": "DesignWanted",
-      "category": "dizajn",
-      "url": "https://designwanted.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
-    },
-    {
       "id": "src-132",
       "name": "Dezeen Events",
       "category": "lifestyle",
@@ -2370,17 +2392,6 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
       "id": "src-034",
       "name": "Nasdaq Markets",
       "category": "financije",
@@ -2533,17 +2544,6 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "src-161",
-      "name": "Time+Tide Watches",
-      "category": "satovi",
-      "url": "https://timeandtidewatches.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "HTTP Error 415: Unsupported Media Type"
     },
     {
       "id": "src-046",
