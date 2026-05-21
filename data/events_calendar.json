@@ -3,7 +3,7 @@
     "id": "7772a1388c479e43",
     "title": "Program: National Gallery of Victoria",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:03:19.473827+00:00",
+    "datetime": "2026-05-21T04:30:49.328700+00:00",
     "country": "Australija",
     "city": "Melbourne",
     "venue": "National Gallery of Victoria",
@@ -14,13 +14,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:03:19.473881+00:00"
+    "fetched_at": "2026-05-21T04:30:49.328753+00:00"
   },
   {
     "id": "c7f49ae5791c76bd",
     "title": "Program: Sydney Opera House",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:38.331286+00:00",
+    "datetime": "2026-05-21T04:29:33.780494+00:00",
     "country": "Australija",
     "city": "Sydney",
     "venue": "Sydney Opera House",
@@ -31,13 +31,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:38.331339+00:00"
+    "fetched_at": "2026-05-21T04:29:33.780542+00:00"
   },
   {
     "id": "2a89be121853c427",
     "title": "Program: Burgtheater",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:35.474824+00:00",
+    "datetime": "2026-05-21T04:29:28.727950+00:00",
     "country": "Austrija",
     "city": "Beč",
     "venue": "Burgtheater",
@@ -48,13 +48,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:35.474890+00:00"
+    "fetched_at": "2026-05-21T04:29:28.728013+00:00"
   },
   {
     "id": "90f68d56ffdafae8",
     "title": "Program: Volkstheater Wien",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:36.593356+00:00",
+    "datetime": "2026-05-21T04:29:29.972953+00:00",
     "country": "Austrija",
     "city": "Beč",
     "venue": "Volkstheater Wien",
@@ -65,13 +65,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:36.593399+00:00"
+    "fetched_at": "2026-05-21T04:29:29.973001+00:00"
   },
   {
     "id": "002d08d43f9a179f",
     "title": "Program: Wiener Staatsoper",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:34.670296+00:00",
+    "datetime": "2026-05-21T04:29:27.990809+00:00",
     "country": "Austrija",
     "city": "Beč",
     "venue": "Wiener Staatsoper",
@@ -82,13 +82,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:34.670360+00:00"
+    "fetched_at": "2026-05-21T04:29:27.990867+00:00"
   },
   {
     "id": "e5783280a0d3c994",
     "title": "Program: Comédie-Française",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:18.932801+00:00",
+    "datetime": "2026-05-21T04:29:11.899982+00:00",
     "country": "Francuska",
     "city": "Pariz",
     "venue": "Comédie-Française",
@@ -99,13 +99,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:18.932902+00:00"
+    "fetched_at": "2026-05-21T04:29:11.900072+00:00"
   },
   {
     "id": "62963f1ba5e8dd78",
     "title": "Program: Odéon-Théâtre de l'Europe",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:21.942223+00:00",
+    "datetime": "2026-05-21T04:29:13.832126+00:00",
     "country": "Francuska",
     "city": "Pariz",
     "venue": "Odéon-Théâtre de l'Europe",
@@ -116,13 +116,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:21.942267+00:00"
+    "fetched_at": "2026-05-21T04:29:13.832173+00:00"
   },
   {
     "id": "9cbe5b50ea0fe888",
     "title": "Program: Théâtre de la Ville",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:24.695874+00:00",
+    "datetime": "2026-05-21T04:29:17.090862+00:00",
     "country": "Francuska",
     "city": "Pariz",
     "venue": "Théâtre de la Ville",
@@ -133,13 +133,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:24.695938+00:00"
+    "fetched_at": "2026-05-21T04:29:17.090936+00:00"
   },
   {
     "id": "3519371447ca02e4",
     "title": "Program: Centre Pompidou",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:03:09.008912+00:00",
+    "datetime": "2026-05-21T04:30:23.664725+00:00",
     "country": "Francuska",
     "city": "Pariz",
     "venue": "Centre Pompidou",
@@ -150,251 +150,30 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:03:09.008991+00:00"
+    "fetched_at": "2026-05-21T04:30:23.664804+00:00"
   },
   {
-    "id": "db1b0b4dd2b1e026",
-    "title": "Display From May 23rd to September 20th, 2026 Decorating the Wall",
-    "date": "2026-05-23",
-    "datetime": "2026-05-23T00:00:00+00:00",
+    "id": "784b899419c67b10",
+    "title": "Program: Musée d'Orsay",
+    "date": "2026-05-21",
+    "datetime": "2026-05-21T04:30:03.049998+00:00",
     "country": "Francuska",
     "city": "Pariz",
     "venue": "Musée d'Orsay",
     "institution": "Musée d'Orsay",
     "type": "muzej / izložbe",
     "source": "Musée d'Orsay",
-    "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/decorating-wall",
+    "url": "https://www.musee-orsay.fr/en/whats-on/exhibitions",
     "description": "",
     "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:48.173445+00:00"
-  },
-  {
-    "id": "8378ae54593866dc",
-    "title": "Exhibitions off-site Until May 24th, 2026 Monet A question of landscape",
-    "date": "2026-05-24",
-    "datetime": "2026-05-24T00:00:00+00:00",
-    "country": "Francuska",
-    "city": "Pariz",
-    "venue": "Musée d'Orsay",
-    "institution": "Musée d'Orsay",
-    "type": "muzej / izložbe",
-    "source": "Musée d'Orsay",
-    "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/monet-question-landscape",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:48.174054+00:00"
-  },
-  {
-    "id": "9db8e1eeb3026ea5",
-    "title": "Display Until June 21st, 2026 Impressionist fans An exceptional gift from the Kan family",
-    "date": "2026-06-21",
-    "datetime": "2026-06-21T00:00:00+00:00",
-    "country": "Francuska",
-    "city": "Pariz",
-    "venue": "Musée d'Orsay",
-    "institution": "Musée d'Orsay",
-    "type": "muzej / izložbe",
-    "source": "Musée d'Orsay",
-    "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/impressionist-fans-exceptional-gift-kan-family",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:48.173262+00:00"
-  },
-  {
-    "id": "1d2ae6576c504c8f",
-    "title": "Exhibition at the museum Until July 05th, 2026 Renoir Drawings",
-    "date": "2026-07-05",
-    "datetime": "2026-07-05T00:00:00+00:00",
-    "country": "Francuska",
-    "city": "Pariz",
-    "venue": "Musée d'Orsay",
-    "institution": "Musée d'Orsay",
-    "type": "muzej / izložbe",
-    "source": "Musée d'Orsay",
-    "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/renoir-drawings",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:48.172835+00:00"
-  },
-  {
-    "id": "62db0bfd8cc0022f",
-    "title": "Exhibition at the museum Until July 19th, 2026 Renoir and Love A Joyful modernity (1865-1885)",
-    "date": "2026-07-19",
-    "datetime": "2026-07-19T00:00:00+00:00",
-    "country": "Francuska",
-    "city": "Pariz",
-    "venue": "Musée d'Orsay",
-    "institution": "Musée d'Orsay",
-    "type": "muzej / izložbe",
-    "source": "Musée d'Orsay",
-    "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/renoir-and-love",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:48.172951+00:00"
-  },
-  {
-    "id": "733aaffbeab9576d",
-    "title": "Parcours Until August 02nd, 2026 “100 Works that Tell the Story of Work” itinerary",
-    "date": "2026-08-02",
-    "datetime": "2026-08-02T00:00:00+00:00",
-    "country": "Francuska",
-    "city": "Pariz",
-    "venue": "Musée d'Orsay",
-    "institution": "Musée d'Orsay",
-    "type": "muzej / izložbe",
-    "source": "Musée d'Orsay",
-    "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/100-works-tell-story-work-itinerary",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:48.173069+00:00"
-  },
-  {
-    "id": "0268d1e270f5945d",
-    "title": "Display Until September 06th, 2026 The cedar, the majestic green crown of Mediterranean mountain tops",
-    "date": "2026-09-06",
-    "datetime": "2026-09-06T00:00:00+00:00",
-    "country": "Francuska",
-    "city": "Pariz",
-    "venue": "Musée d'Orsay",
-    "institution": "Musée d'Orsay",
-    "type": "muzej / izložbe",
-    "source": "Musée d'Orsay",
-    "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/cedar-majestic-green-crown-mediterranean-mountain-tops",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:48.173361+00:00"
-  },
-  {
-    "id": "f627a4c00b02baeb",
-    "title": "Contemporary exhibition Until September 13th, 2026 Youssef Nabil To dream again",
-    "date": "2026-09-13",
-    "datetime": "2026-09-13T00:00:00+00:00",
-    "country": "Francuska",
-    "city": "Pariz",
-    "venue": "Musée d'Orsay",
-    "institution": "Musée d'Orsay",
-    "type": "muzej / izložbe",
-    "source": "Musée d'Orsay",
-    "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/youssef-nabil-de-rever-encore",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:48.173166+00:00"
-  },
-  {
-    "id": "ef1020d41dfcbe45",
-    "title": "Exhibition at the museum From September 15th, 2026 to January 31st, 2027 Auguste Bartholdi Liberty Enlightening the World",
-    "date": "2026-09-15",
-    "datetime": "2026-09-15T00:00:00+00:00",
-    "country": "Francuska",
-    "city": "Pariz",
-    "venue": "Musée d'Orsay",
-    "institution": "Musée d'Orsay",
-    "type": "muzej / izložbe",
-    "source": "Musée d'Orsay",
-    "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/auguste-bartholdi-liberty-enlightening-world",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:48.173730+00:00"
-  },
-  {
-    "id": "8071c842592eaa9e",
-    "title": "Immersive experience From September 15th, 2026 to January 31st, 2027 A Statue for Liberty, Bartholdi’s dream, from Paris to New York",
-    "date": "2026-09-15",
-    "datetime": "2026-09-15T00:00:00+00:00",
-    "country": "Francuska",
-    "city": "Pariz",
-    "venue": "Musée d'Orsay",
-    "institution": "Musée d'Orsay",
-    "type": "muzej / izložbe",
-    "source": "Musée d'Orsay",
-    "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/statue-liberty-bartholdis-dream-paris-new-york",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:48.173611+00:00"
-  },
-  {
-    "id": "9dbdb14ac3d1a094",
-    "title": "Exhibitions off-site From September 23rd, 2026 to January 17th, 2027 Cezanne and Us",
-    "date": "2026-09-23",
-    "datetime": "2026-09-23T00:00:00+00:00",
-    "country": "Francuska",
-    "city": "Pariz",
-    "venue": "Musée d'Orsay",
-    "institution": "Musée d'Orsay",
-    "type": "muzej / izložbe",
-    "source": "Musée d'Orsay",
-    "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/cezanne-and-us",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:48.174148+00:00"
-  },
-  {
-    "id": "7b03c73b5a828a68",
-    "title": "Exhibition at the museum From October 06th, 2026 to January 31st, 2027 Mary Cassatt The Choice of Independence",
-    "date": "2026-10-06",
-    "datetime": "2026-10-06T00:00:00+00:00",
-    "country": "Francuska",
-    "city": "Pariz",
-    "venue": "Musée d'Orsay",
-    "institution": "Musée d'Orsay",
-    "type": "muzej / izložbe",
-    "source": "Musée d'Orsay",
-    "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/mary-cassatt-choice-independence",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:48.173837+00:00"
-  },
-  {
-    "id": "e9936a00556a8b07",
-    "title": "Contemporary exhibition From October 20th, 2026 to February 21st, 2027 Jenny Holzer J’ai vu / I Have Seen",
-    "date": "2026-10-20",
-    "datetime": "2026-10-20T00:00:00+00:00",
-    "country": "Francuska",
-    "city": "Pariz",
-    "venue": "Musée d'Orsay",
-    "institution": "Musée d'Orsay",
-    "type": "muzej / izložbe",
-    "source": "Musée d'Orsay",
-    "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/jenny-holzer-jai-vu-ive-seen",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:48.173964+00:00"
-  },
-  {
-    "id": "d715eb89ddf8539e",
-    "title": "Exhibitions off-site From November 17th, 2026 to March 28th, 2027 Joie de Vivre Le temps present / The Present Time",
-    "date": "2026-11-17",
-    "datetime": "2026-11-17T00:00:00+00:00",
-    "country": "Francuska",
-    "city": "Pariz",
-    "venue": "Musée d'Orsay",
-    "institution": "Musée d'Orsay",
-    "type": "muzej / izložbe",
-    "source": "Musée d'Orsay",
-    "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/joie-de-vivre-le-temps-present-present-time",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:48.174261+00:00"
+    "program_link_only": true,
+    "fetched_at": "2026-05-21T04:30:03.050051+00:00"
   },
   {
     "id": "0b0b1dbd8e4ac448",
     "title": "Program: Musée du Louvre",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:47.713808+00:00",
+    "datetime": "2026-05-21T04:30:02.829590+00:00",
     "country": "Francuska",
     "city": "Pariz",
     "venue": "Musée du Louvre",
@@ -405,13 +184,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:47.713882+00:00"
+    "fetched_at": "2026-05-21T04:30:02.829674+00:00"
   },
   {
     "id": "d5136c75ca8fe298",
     "title": "Program: Opéra national de Paris",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:23.767379+00:00",
+    "datetime": "2026-05-21T04:29:16.058194+00:00",
     "country": "Francuska",
     "city": "Pariz",
     "venue": "Opéra national de Paris",
@@ -422,13 +201,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:23.767421+00:00"
+    "fetched_at": "2026-05-21T04:29:16.058271+00:00"
   },
   {
     "id": "ba66f4a2a3535e0c",
     "title": "Program: HAVC",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:06.942958+00:00",
+    "datetime": "2026-05-21T04:28:29.531182+00:00",
     "country": "Hrvatska",
     "city": "Hrvatska",
     "venue": "HAVC",
@@ -439,13 +218,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:06.943003+00:00"
+    "fetched_at": "2026-05-21T04:28:29.531235+00:00"
   },
   {
     "id": "e51e4ef04aaf725f",
     "title": "Program: Zagreb Film Festival",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:09.342086+00:00",
+    "datetime": "2026-05-21T04:28:45.926591+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Zagreb Film Festival",
@@ -456,13 +235,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:09.342130+00:00"
+    "fetched_at": "2026-05-21T04:28:45.926726+00:00"
   },
   {
     "id": "90ed74a474379525",
     "title": "Program: Galerija Klovićevi dvori",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:01.648272+00:00",
+    "datetime": "2026-05-21T04:28:24.641280+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Galerija Klovićevi dvori",
@@ -473,13 +252,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:01.648310+00:00"
+    "fetched_at": "2026-05-21T04:28:24.641367+00:00"
   },
   {
     "id": "54bcedbe597bdbd0",
     "title": "Program: Dramsko kazalište Gavella",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:01:49.154597+00:00",
+    "datetime": "2026-05-21T04:27:46.254222+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Dramsko kazalište Gavella",
@@ -490,13 +269,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:01:49.154673+00:00"
+    "fetched_at": "2026-05-21T04:27:46.254298+00:00"
   },
   {
     "id": "9b2221b1c537dfef",
     "title": "Program: Kazalište Komedija",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:01:51.830411+00:00",
+    "datetime": "2026-05-21T04:27:47.671759+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Kazalište Komedija",
@@ -507,13 +286,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:01:51.830505+00:00"
+    "fetched_at": "2026-05-21T04:27:47.671809+00:00"
   },
   {
     "id": "1e74115ac22f086b",
     "title": "Program: Kazalište Trešnja",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:01:57.834383+00:00",
+    "datetime": "2026-05-21T04:28:07.002454+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Kazalište Trešnja",
@@ -524,13 +303,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:01:57.834424+00:00"
+    "fetched_at": "2026-05-21T04:28:07.002547+00:00"
   },
   {
     "id": "f373c8dc2c55c610",
     "title": "Program: Satiričko kazalište Kerempuh",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:01:44.416516+00:00",
+    "datetime": "2026-05-21T04:27:27.534581+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Satiričko kazalište Kerempuh",
@@ -541,13 +320,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:01:44.416629+00:00"
+    "fetched_at": "2026-05-21T04:27:27.534738+00:00"
   },
   {
     "id": "2e5986956143ba20",
     "title": "Program: Teatar Exit",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:01:54.421949+00:00",
+    "datetime": "2026-05-21T04:27:50.418231+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Teatar Exit",
@@ -558,13 +337,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:01:54.422016+00:00"
+    "fetched_at": "2026-05-21T04:27:50.418305+00:00"
   },
   {
     "id": "4916875cb77524a4",
     "title": "Program: Zagrebačko kazalište lutaka",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:01:59.080275+00:00",
+    "datetime": "2026-05-21T04:28:07.714109+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Zagrebačko kazalište lutaka",
@@ -575,13 +354,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:01:59.080342+00:00"
+    "fetched_at": "2026-05-21T04:28:07.714160+00:00"
   },
   {
     "id": "d3c672c08fca30fe",
     "title": "Program: Zagrebačko kazalište mladih / ZKM",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:01:47.400172+00:00",
+    "datetime": "2026-05-21T04:27:44.434746+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Zagrebačko kazalište mladih / ZKM",
@@ -592,13 +371,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:01:47.400247+00:00"
+    "fetched_at": "2026-05-21T04:27:44.434855+00:00"
   },
   {
     "id": "2e242fcc088504e6",
     "title": "Program: Koncertna dvorana Vatroslava Lisinskog",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:01:40.651701+00:00",
+    "datetime": "2026-05-21T04:27:07.146631+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Koncertna dvorana Vatroslava Lisinskog",
@@ -609,13 +388,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:01:40.651757+00:00"
+    "fetched_at": "2026-05-21T04:27:07.146691+00:00"
   },
   {
     "id": "b60fb05ac736ef39",
     "title": "Program: Etnografski muzej Zagreb",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:03.855766+00:00",
+    "datetime": "2026-05-21T04:28:26.555462+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Etnografski muzej Zagreb",
@@ -626,7 +405,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:03.855802+00:00"
+    "fetched_at": "2026-05-21T04:28:26.555501+00:00"
   },
   {
     "id": "7d8563c9716b15a5",
@@ -643,7 +422,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:05.562986+00:00"
+    "fetched_at": "2026-05-21T04:28:28.294793+00:00"
   },
   {
     "id": "0796f652ae9828f1",
@@ -660,13 +439,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:05.562899+00:00"
+    "fetched_at": "2026-05-21T04:28:28.294704+00:00"
   },
   {
     "id": "fa323366f7f31573",
     "title": "Program: Tehnički muzej Nikola Tesla",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:02.831434+00:00",
+    "datetime": "2026-05-21T04:28:25.833925+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Tehnički muzej Nikola Tesla",
@@ -677,13 +456,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:02.831490+00:00"
+    "fetched_at": "2026-05-21T04:28:25.834016+00:00"
   },
   {
     "id": "7c9137fa30ed2192",
     "title": "Program: Muzej suvremene umjetnosti Zagreb",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:01:59.599536+00:00",
+    "datetime": "2026-05-21T04:28:08.240165+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Muzej suvremene umjetnosti Zagreb",
@@ -694,13 +473,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:01:59.599662+00:00"
+    "fetched_at": "2026-05-21T04:28:08.240229+00:00"
   },
   {
     "id": "9ac46ca013da4afb",
     "title": "Program: Info Zagreb / Zagreb events",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:01:39.378239+00:00",
+    "datetime": "2026-05-21T04:27:05.743586+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Info Zagreb / Zagreb events",
@@ -711,13 +490,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:01:39.378303+00:00"
+    "fetched_at": "2026-05-21T04:27:05.743666+00:00"
   },
   {
     "id": "c08f174b0660c90c",
     "title": "Program: Gallerie degli Uffizi",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:03:12.712629+00:00",
+    "datetime": "2026-05-21T04:30:42.193820+00:00",
     "country": "Italija",
     "city": "Firenca",
     "venue": "Gallerie degli Uffizi",
@@ -728,13 +507,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:03:12.712662+00:00"
+    "fetched_at": "2026-05-21T04:30:42.193859+00:00"
   },
   {
     "id": "d47d3368b7859aab",
     "title": "Program: Piccolo Teatro di Milano",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:28.853829+00:00",
+    "datetime": "2026-05-21T04:29:20.965495+00:00",
     "country": "Italija",
     "city": "Milano",
     "venue": "Piccolo Teatro di Milano",
@@ -745,13 +524,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:28.853900+00:00"
+    "fetched_at": "2026-05-21T04:29:20.965562+00:00"
   },
   {
     "id": "8f2831db29aa3bbd",
     "title": "Program: Triennale Milano",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:03:13.520474+00:00",
+    "datetime": "2026-05-21T04:30:43.168569+00:00",
     "country": "Italija",
     "city": "Milano",
     "venue": "Triennale Milano",
@@ -762,7 +541,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:03:13.520510+00:00"
+    "fetched_at": "2026-05-21T04:30:43.168604+00:00"
   },
   {
     "id": "8be6c81357c12f75",
@@ -779,7 +558,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:28.015007+00:00"
+    "fetched_at": "2026-05-21T04:29:20.280947+00:00"
   },
   {
     "id": "53f1e337f6eb7870",
@@ -796,7 +575,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:28.015091+00:00"
+    "fetched_at": "2026-05-21T04:29:20.281031+00:00"
   },
   {
     "id": "d2e964c0961ae162",
@@ -813,7 +592,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:28.015180+00:00"
+    "fetched_at": "2026-05-21T04:29:20.281120+00:00"
   },
   {
     "id": "7e1721be52929870",
@@ -830,7 +609,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:28.015263+00:00"
+    "fetched_at": "2026-05-21T04:29:20.281209+00:00"
   },
   {
     "id": "c34aece0a0490b72",
@@ -847,7 +626,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:28.015343+00:00"
+    "fetched_at": "2026-05-21T04:29:20.281288+00:00"
   },
   {
     "id": "6b8e5e6c737af7d2",
@@ -864,7 +643,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:28.015437+00:00"
+    "fetched_at": "2026-05-21T04:29:20.281385+00:00"
   },
   {
     "id": "d9dab3f7e78276e6",
@@ -881,13 +660,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:28.015502+00:00"
+    "fetched_at": "2026-05-21T04:29:20.281451+00:00"
   },
   {
     "id": "f11e5351ee861f46",
     "title": "Program: Teatro di Roma",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:29.526324+00:00",
+    "datetime": "2026-05-21T04:29:22.469119+00:00",
     "country": "Italija",
     "city": "Rim",
     "venue": "Teatro di Roma",
@@ -898,13 +677,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:29.526366+00:00"
+    "fetched_at": "2026-05-21T04:29:22.469170+00:00"
   },
   {
     "id": "5326c7764a67e688",
     "title": "Program: Tokyo Metropolitan Theatre",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:39.535322+00:00",
+    "datetime": "2026-05-21T04:29:35.278519+00:00",
     "country": "Japan",
     "city": "Tokio",
     "venue": "Tokyo Metropolitan Theatre",
@@ -915,7 +694,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:39.535387+00:00"
+    "fetched_at": "2026-05-21T04:29:35.278578+00:00"
   },
   {
     "id": "2293d24b54fdd669",
@@ -932,13 +711,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:03:16.055815+00:00"
+    "fetched_at": "2026-05-21T04:30:46.194043+00:00"
   },
   {
     "id": "e04a3dd380e6142b",
     "title": "Program: Rijksmuseum",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:03:11.016380+00:00",
+    "datetime": "2026-05-21T04:30:40.937118+00:00",
     "country": "Nizozemska",
     "city": "Amsterdam",
     "venue": "Rijksmuseum",
@@ -949,166 +728,30 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:03:11.016464+00:00"
+    "fetched_at": "2026-05-21T04:30:40.937175+00:00"
   },
   {
-    "id": "1d50ced804d57ae3",
-    "title": "1:00 pm Taka's Poppenhoek Workshops",
-    "date": "2026-05-24",
-    "datetime": "2026-05-24T00:00:00+00:00",
+    "id": "0faf200a48732b4c",
+    "title": "Program: Stedelijk Museum Amsterdam",
+    "date": "2026-05-21",
+    "datetime": "2026-05-21T04:30:41.247889+00:00",
     "country": "Nizozemska",
     "city": "Amsterdam",
     "venue": "Stedelijk Museum Amsterdam",
     "institution": "Stedelijk Museum Amsterdam",
     "type": "muzej / izložbe",
     "source": "Stedelijk Museum Amsterdam",
-    "url": "https://www.stedelijk.nl/en/events/takas-poppenhoek-ENG",
+    "url": "https://www.stedelijk.nl/en/exhibitions",
     "description": "",
     "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:03:12.235285+00:00"
-  },
-  {
-    "id": "8f1495b8efaebb3e",
-    "title": "ABN Amro Art Award: Ivna Esajas Wayward Lines. Consent not to be a single being till",
-    "date": "2026-06-07",
-    "datetime": "2026-06-07T00:00:00+00:00",
-    "country": "Nizozemska",
-    "city": "Amsterdam",
-    "venue": "Stedelijk Museum Amsterdam",
-    "institution": "Stedelijk Museum Amsterdam",
-    "type": "muzej / izložbe",
-    "source": "Stedelijk Museum Amsterdam",
-    "url": "https://www.stedelijk.nl/en/exhibitions/en-abn-amro-art-award-ivna-esajas",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:03:12.234756+00:00"
-  },
-  {
-    "id": "bd3b13845c2e533e",
-    "title": "Beyond the Manosphere Masculinities Today till",
-    "date": "2026-08-02",
-    "datetime": "2026-08-02T00:00:00+00:00",
-    "country": "Nizozemska",
-    "city": "Amsterdam",
-    "venue": "Stedelijk Museum Amsterdam",
-    "institution": "Stedelijk Museum Amsterdam",
-    "type": "muzej / izložbe",
-    "source": "Stedelijk Museum Amsterdam",
-    "url": "https://www.stedelijk.nl/en/exhibitions/manosphere-en",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:03:12.234922+00:00"
-  },
-  {
-    "id": "b82b5c1d65437706",
-    "title": "Danh Vo πνεῦμα (Ἔλισσα) till",
-    "date": "2026-08-02",
-    "datetime": "2026-08-02T00:00:00+00:00",
-    "country": "Nizozemska",
-    "city": "Amsterdam",
-    "venue": "Stedelijk Museum Amsterdam",
-    "institution": "Stedelijk Museum Amsterdam",
-    "type": "muzej / izložbe",
-    "source": "Stedelijk Museum Amsterdam",
-    "url": "https://www.stedelijk.nl/en/exhibitions/danh-vo-2",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:03:12.234840+00:00"
-  },
-  {
-    "id": "14995412ab07d9b9",
-    "title": "Marc Chagall Mid May until end of August 2027",
-    "date": "2026-08-20",
-    "datetime": "2026-08-20T00:00:00+00:00",
-    "country": "Nizozemska",
-    "city": "Amsterdam",
-    "venue": "Stedelijk Museum Amsterdam",
-    "institution": "Stedelijk Museum Amsterdam",
-    "type": "muzej / izložbe",
-    "source": "Stedelijk Museum Amsterdam",
-    "url": "https://www.stedelijk.nl/en/exhibitions/marc-chagall-en",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:03:12.235732+00:00"
-  },
-  {
-    "id": "c754dbdd0eb1af7f",
-    "title": "Yayoi Kusama till",
-    "date": "2026-09-11",
-    "datetime": "2026-09-11T00:00:00+00:00",
-    "country": "Nizozemska",
-    "city": "Amsterdam",
-    "venue": "Stedelijk Museum Amsterdam",
-    "institution": "Stedelijk Museum Amsterdam",
-    "type": "muzej / izložbe",
-    "source": "Stedelijk Museum Amsterdam",
-    "url": "https://www.stedelijk.nl/en/exhibitions/yayoi-kusama-en",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:03:12.235419+00:00"
-  },
-  {
-    "id": "c2adbe3e4e8348e7",
-    "title": "Adam Pendleton until",
-    "date": "2026-10-09",
-    "datetime": "2026-10-09T00:00:00+00:00",
-    "country": "Nizozemska",
-    "city": "Amsterdam",
-    "venue": "Stedelijk Museum Amsterdam",
-    "institution": "Stedelijk Museum Amsterdam",
-    "type": "muzej / izložbe",
-    "source": "Stedelijk Museum Amsterdam",
-    "url": "https://www.stedelijk.nl/en/exhibitions/adam-pendleton-en",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:03:12.235484+00:00"
-  },
-  {
-    "id": "b5281214e3a2c430",
-    "title": "Kho Liang Ie Mid-Century Modernist till",
-    "date": "2026-10-18",
-    "datetime": "2026-10-18T00:00:00+00:00",
-    "country": "Nizozemska",
-    "city": "Amsterdam",
-    "venue": "Stedelijk Museum Amsterdam",
-    "institution": "Stedelijk Museum Amsterdam",
-    "type": "muzej / izložbe",
-    "source": "Stedelijk Museum Amsterdam",
-    "url": "https://www.stedelijk.nl/en/exhibitions/kho-liang-ie-2",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:03:12.234641+00:00"
-  },
-  {
-    "id": "11d157bab48eeb59",
-    "title": "Collaborative Artistic Practices - Proposals for the Museum Collection till",
-    "date": "2026-11-28",
-    "datetime": "2026-11-28T00:00:00+00:00",
-    "country": "Nizozemska",
-    "city": "Amsterdam",
-    "venue": "Stedelijk Museum Amsterdam",
-    "institution": "Stedelijk Museum Amsterdam",
-    "type": "muzej / izložbe",
-    "source": "Stedelijk Museum Amsterdam",
-    "url": "https://www.stedelijk.nl/en/exhibitions/collaborative-artistic-practices-proposals-museum-collection",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:03:12.235612+00:00"
+    "program_link_only": true,
+    "fetched_at": "2026-05-21T04:30:41.247929+00:00"
   },
   {
     "id": "27a66b549ab54e54",
     "title": "Program: Berliner Ensemble",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:31.892495+00:00",
+    "datetime": "2026-05-21T04:29:25.379988+00:00",
     "country": "Njemačka",
     "city": "Berlin",
     "venue": "Berliner Ensemble",
@@ -1119,13 +762,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:31.892590+00:00"
+    "fetched_at": "2026-05-21T04:29:25.380054+00:00"
   },
   {
     "id": "fb06af7dd9501eb5",
     "title": "Program: Schaubühne Berlin",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:31.196545+00:00",
+    "datetime": "2026-05-21T04:29:24.445615+00:00",
     "country": "Njemačka",
     "city": "Berlin",
     "venue": "Schaubühne Berlin",
@@ -1136,13 +779,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:31.196589+00:00"
+    "fetched_at": "2026-05-21T04:29:24.445679+00:00"
   },
   {
     "id": "f438e1a26b19c0db",
     "title": "Program: Gropius Bau",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:03:14.498168+00:00",
+    "datetime": "2026-05-21T04:30:44.015021+00:00",
     "country": "Njemačka",
     "city": "Berlin",
     "venue": "Gropius Bau",
@@ -1153,13 +796,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:03:14.498222+00:00"
+    "fetched_at": "2026-05-21T04:30:44.015072+00:00"
   },
   {
     "id": "0e67b641c488ebf3",
     "title": "Program: Deutsche Oper Berlin",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:33.458078+00:00",
+    "datetime": "2026-05-21T04:29:26.782400+00:00",
     "country": "Njemačka",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
@@ -1170,13 +813,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:33.458122+00:00"
+    "fetched_at": "2026-05-21T04:29:26.782451+00:00"
   },
   {
     "id": "267adcc035acae7e",
     "title": "Program: Bayerische Staatsoper",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:33.928578+00:00",
+    "datetime": "2026-05-21T04:29:27.222737+00:00",
     "country": "Njemačka",
     "city": "München",
     "venue": "Bayerische Staatsoper",
@@ -1187,13 +830,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:33.928632+00:00"
+    "fetched_at": "2026-05-21T04:29:27.222792+00:00"
   },
   {
     "id": "da549ff41eecc085",
     "title": "Program: Broadway.com",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:17.587646+00:00",
+    "datetime": "2026-05-21T04:28:54.583170+00:00",
     "country": "SAD",
     "city": "New York",
     "venue": "Broadway.com",
@@ -1204,13 +847,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:17.587697+00:00"
+    "fetched_at": "2026-05-21T04:28:54.583225+00:00"
   },
   {
     "id": "b5d5e28d22d92783",
     "title": "Program: Playbill / Broadway",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:16.548322+00:00",
+    "datetime": "2026-05-21T04:28:54.127535+00:00",
     "country": "SAD",
     "city": "New York",
     "venue": "Playbill / Broadway",
@@ -1221,13 +864,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:16.548362+00:00"
+    "fetched_at": "2026-05-21T04:28:54.127588+00:00"
   },
   {
     "id": "f618c147057de622",
     "title": "Program: The Public Theater",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:18.276681+00:00",
+    "datetime": "2026-05-21T04:28:55.462131+00:00",
     "country": "SAD",
     "city": "New York",
     "venue": "The Public Theater",
@@ -1238,13 +881,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:18.276737+00:00"
+    "fetched_at": "2026-05-21T04:28:55.462192+00:00"
   },
   {
     "id": "c82510aa6e324a14",
     "title": "Program: Solomon R. Guggenheim Museum",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:40.304144+00:00",
+    "datetime": "2026-05-21T04:29:35.871873+00:00",
     "country": "SAD",
     "city": "New York",
     "venue": "Solomon R. Guggenheim Museum",
@@ -1255,13 +898,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:40.304176+00:00"
+    "fetched_at": "2026-05-21T04:29:35.871912+00:00"
   },
   {
     "id": "721ce5946fea80c3",
     "title": "Program: The Metropolitan Museum of Art",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:40.028497+00:00",
+    "datetime": "2026-05-21T04:29:35.577061+00:00",
     "country": "SAD",
     "city": "New York",
     "venue": "The Metropolitan Museum of Art",
@@ -1272,13 +915,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:40.028569+00:00"
+    "fetched_at": "2026-05-21T04:29:35.577123+00:00"
   },
   {
     "id": "9341af249a42822c",
     "title": "Program: The Museum of Modern Art / MoMA",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:39.777076+00:00",
+    "datetime": "2026-05-21T04:29:35.421906+00:00",
     "country": "SAD",
     "city": "New York",
     "venue": "The Museum of Modern Art / MoMA",
@@ -1289,7 +932,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:39.777122+00:00"
+    "fetched_at": "2026-05-21T04:29:35.421969+00:00"
   },
   {
     "id": "0707b7bacf24e32a",
@@ -1306,7 +949,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:40.852680+00:00"
+    "fetched_at": "2026-05-21T04:29:36.601958+00:00"
   },
   {
     "id": "edb53e7f3dd7bed2",
@@ -1323,7 +966,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:40.852757+00:00"
+    "fetched_at": "2026-05-21T04:29:36.602037+00:00"
   },
   {
     "id": "e4e538e705a1ada1",
@@ -1340,7 +983,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:40.853050+00:00"
+    "fetched_at": "2026-05-21T04:29:36.602332+00:00"
   },
   {
     "id": "bd418e92ca157d0e",
@@ -1357,13 +1000,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:40.852589+00:00"
+    "fetched_at": "2026-05-21T04:29:36.601868+00:00"
   },
   {
     "id": "c96b2a9b38fb3bbb",
     "title": "Program: The Metropolitan Opera",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:17.642299+00:00",
+    "datetime": "2026-05-21T04:28:54.720274+00:00",
     "country": "SAD",
     "city": "New York",
     "venue": "The Metropolitan Opera",
@@ -1374,13 +1017,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:17.642337+00:00"
+    "fetched_at": "2026-05-21T04:28:54.720334+00:00"
   },
   {
     "id": "5bf8ffdbefa5363f",
     "title": "Program: Lincoln Center",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:18.063265+00:00",
+    "datetime": "2026-05-21T04:28:55.308780+00:00",
     "country": "SAD",
     "city": "New York",
     "venue": "Lincoln Center",
@@ -1391,13 +1034,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:18.063316+00:00"
+    "fetched_at": "2026-05-21T04:28:55.308837+00:00"
   },
   {
     "id": "d92c54104d41b9dc",
     "title": "Program: Royal Academy of Arts",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:46.379271+00:00",
+    "datetime": "2026-05-21T04:30:02.077511+00:00",
     "country": "Ujedinjeno Kraljevstvo",
     "city": "London",
     "venue": "Royal Academy of Arts",
@@ -1408,7 +1051,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:46.379304+00:00"
+    "fetched_at": "2026-05-21T04:30:02.077556+00:00"
   },
   {
     "id": "41f10911b4400c5e",
@@ -1425,7 +1068,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.889285+00:00"
+    "fetched_at": "2026-05-21T04:30:01.481540+00:00"
   },
   {
     "id": "d2fbb3bfa4bb2f5f",
@@ -1442,7 +1085,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.889412+00:00"
+    "fetched_at": "2026-05-21T04:30:01.481714+00:00"
   },
   {
     "id": "946dac4b1ba30f51",
@@ -1459,7 +1102,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.889565+00:00"
+    "fetched_at": "2026-05-21T04:30:01.481845+00:00"
   },
   {
     "id": "8facae6365134a51",
@@ -1476,7 +1119,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.889682+00:00"
+    "fetched_at": "2026-05-21T04:30:01.481954+00:00"
   },
   {
     "id": "68d4cfe3c674c2c8",
@@ -1493,7 +1136,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.889814+00:00"
+    "fetched_at": "2026-05-21T04:30:01.482091+00:00"
   },
   {
     "id": "2475accb68f7daad",
@@ -1510,7 +1153,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.890049+00:00"
+    "fetched_at": "2026-05-21T04:30:01.482324+00:00"
   },
   {
     "id": "ae3d42842963de69",
@@ -1527,13 +1170,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.889917+00:00"
+    "fetched_at": "2026-05-21T04:30:01.482197+00:00"
   },
   {
     "id": "9e985f9eeb6cde48",
     "title": "Program: Barbican",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:16.050650+00:00",
+    "datetime": "2026-05-21T04:28:53.366423+00:00",
     "country": "Ujedinjeno Kraljevstvo",
     "city": "London",
     "venue": "Barbican",
@@ -1544,13 +1187,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:16.050696+00:00"
+    "fetched_at": "2026-05-21T04:28:53.366477+00:00"
   },
   {
     "id": "49bbbc4ac0dda0c5",
     "title": "Program: National Theatre",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:09.592687+00:00",
+    "datetime": "2026-05-21T04:28:46.252080+00:00",
     "country": "Ujedinjeno Kraljevstvo",
     "city": "London",
     "venue": "National Theatre",
@@ -1561,7 +1204,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:09.592748+00:00"
+    "fetched_at": "2026-05-21T04:28:46.252138+00:00"
   },
   {
     "id": "24a6b4957a8dee68",
@@ -1578,7 +1221,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:12.231009+00:00"
+    "fetched_at": "2026-05-21T04:28:49.268464+00:00"
   },
   {
     "id": "a6ea42555ce3d793",
@@ -1595,7 +1238,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:12.230628+00:00"
+    "fetched_at": "2026-05-21T04:28:49.268099+00:00"
   },
   {
     "id": "587084e442b8be01",
@@ -1612,7 +1255,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:12.231176+00:00"
+    "fetched_at": "2026-05-21T04:28:49.268648+00:00"
   },
   {
     "id": "199b8f339b78ddbd",
@@ -1629,7 +1272,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:12.228872+00:00"
+    "fetched_at": "2026-05-21T04:28:49.266395+00:00"
   },
   {
     "id": "f7a82c447dd839a6",
@@ -1646,13 +1289,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:12.229600+00:00"
+    "fetched_at": "2026-05-21T04:28:49.267116+00:00"
   },
   {
     "id": "62b6e4eb5d1f92d6",
     "title": "Program: Royal Court Theatre",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:09.747136+00:00",
+    "datetime": "2026-05-21T04:28:46.407591+00:00",
     "country": "Ujedinjeno Kraljevstvo",
     "city": "London",
     "venue": "Royal Court Theatre",
@@ -1663,7 +1306,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:09.747201+00:00"
+    "fetched_at": "2026-05-21T04:28:46.407692+00:00"
   },
   {
     "id": "5b549f6e1fac4312",
@@ -1680,7 +1323,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:15.820704+00:00"
+    "fetched_at": "2026-05-21T04:28:52.990112+00:00"
   },
   {
     "id": "bffad624754f62b3",
@@ -1697,7 +1340,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:15.820776+00:00"
+    "fetched_at": "2026-05-21T04:28:52.990186+00:00"
   },
   {
     "id": "3c5308ce9ffab1d4",
@@ -1714,13 +1357,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:15.820620+00:00"
+    "fetched_at": "2026-05-21T04:28:52.990029+00:00"
   },
   {
     "id": "e90c412ed02f858d",
     "title": "Program: The Old Vic",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:10.602373+00:00",
+    "datetime": "2026-05-21T04:28:47.167058+00:00",
     "country": "Ujedinjeno Kraljevstvo",
     "city": "London",
     "venue": "The Old Vic",
@@ -1731,13 +1374,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:10.602436+00:00"
+    "fetched_at": "2026-05-21T04:28:47.167124+00:00"
   },
   {
     "id": "a78500d0643b0d37",
     "title": "Program: Young Vic",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:11.311388+00:00",
+    "datetime": "2026-05-21T04:28:47.796264+00:00",
     "country": "Ujedinjeno Kraljevstvo",
     "city": "London",
     "venue": "Young Vic",
@@ -1748,7 +1391,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:11.311432+00:00"
+    "fetched_at": "2026-05-21T04:28:47.796311+00:00"
   },
   {
     "id": "bce9fb3dddba52f4",
@@ -1765,7 +1408,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.248854+00:00"
+    "fetched_at": "2026-05-21T04:30:00.596605+00:00"
   },
   {
     "id": "0aca361bfed459af",
@@ -1782,7 +1425,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.248975+00:00"
+    "fetched_at": "2026-05-21T04:30:00.596756+00:00"
   },
   {
     "id": "243cb36ca9abc567",
@@ -1799,7 +1442,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.249087+00:00"
+    "fetched_at": "2026-05-21T04:30:00.596868+00:00"
   },
   {
     "id": "316d8d27d008f897",
@@ -1816,7 +1459,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.248385+00:00"
+    "fetched_at": "2026-05-21T04:30:00.596191+00:00"
   },
   {
     "id": "3dd2d59bc21ca01f",
@@ -1833,7 +1476,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.250097+00:00"
+    "fetched_at": "2026-05-21T04:30:00.597847+00:00"
   },
   {
     "id": "6efcdfcf2ec5b8c2",
@@ -1850,7 +1493,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.248709+00:00"
+    "fetched_at": "2026-05-21T04:30:00.596463+00:00"
   },
   {
     "id": "b2681b50f35ab816",
@@ -1867,7 +1510,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.248468+00:00"
+    "fetched_at": "2026-05-21T04:30:00.596277+00:00"
   },
   {
     "id": "7d5b08ea9abacb9f",
@@ -1884,7 +1527,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.250206+00:00"
+    "fetched_at": "2026-05-21T04:30:00.597955+00:00"
   },
   {
     "id": "eeac191dfa8e2973",
@@ -1901,7 +1544,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.249236+00:00"
+    "fetched_at": "2026-05-21T04:30:00.597011+00:00"
   },
   {
     "id": "780d828bd05b3c1c",
@@ -1918,7 +1561,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.249968+00:00"
+    "fetched_at": "2026-05-21T04:30:00.597715+00:00"
   },
   {
     "id": "555a59a533791635",
@@ -1935,7 +1578,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.249337+00:00"
+    "fetched_at": "2026-05-21T04:30:00.597114+00:00"
   },
   {
     "id": "dc0f1cd0ffed65d9",
@@ -1952,7 +1595,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.249680+00:00"
+    "fetched_at": "2026-05-21T04:30:00.597408+00:00"
   },
   {
     "id": "6dd3b4f5720189a9",
@@ -1969,7 +1612,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.249438+00:00"
+    "fetched_at": "2026-05-21T04:30:00.597219+00:00"
   },
   {
     "id": "7606351db4e7a4ec",
@@ -1986,7 +1629,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.249782+00:00"
+    "fetched_at": "2026-05-21T04:30:00.597505+00:00"
   },
   {
     "id": "875b7bfdd04ba706",
@@ -2003,7 +1646,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.249558+00:00"
+    "fetched_at": "2026-05-21T04:30:00.597312+00:00"
   },
   {
     "id": "0922dec3b0831f14",
@@ -2020,13 +1663,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-21T00:02:45.249870+00:00"
+    "fetched_at": "2026-05-21T04:30:00.597592+00:00"
   },
   {
     "id": "e9452441a060b6e8",
     "title": "Program: The British Museum",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:45.960441+00:00",
+    "datetime": "2026-05-21T04:30:01.616758+00:00",
     "country": "Ujedinjeno Kraljevstvo",
     "city": "London",
     "venue": "The British Museum",
@@ -2037,13 +1680,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:45.960478+00:00"
+    "fetched_at": "2026-05-21T04:30:01.616813+00:00"
   },
   {
     "id": "2b9f6eee7e9d206c",
     "title": "Program: Royal Opera House",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:12.752752+00:00",
+    "datetime": "2026-05-21T04:28:50.361121+00:00",
     "country": "Ujedinjeno Kraljevstvo",
     "city": "London",
     "venue": "Royal Opera House",
@@ -2054,13 +1697,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:12.752793+00:00"
+    "fetched_at": "2026-05-21T04:28:50.361170+00:00"
   },
   {
     "id": "c6595a96e730f1e2",
     "title": "Program: Gran Teatre del Liceu",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:38.143569+00:00",
+    "datetime": "2026-05-21T04:29:32.014108+00:00",
     "country": "Španjolska",
     "city": "Barcelona",
     "venue": "Gran Teatre del Liceu",
@@ -2071,13 +1714,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:38.143627+00:00"
+    "fetched_at": "2026-05-21T04:29:32.014169+00:00"
   },
   {
     "id": "64b5c956b602c756",
     "title": "Program: Museo Nacional del Prado",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:03:09.094332+00:00",
+    "datetime": "2026-05-21T04:30:23.833779+00:00",
     "country": "Španjolska",
     "city": "Madrid",
     "venue": "Museo Nacional del Prado",
@@ -2088,30 +1731,30 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:03:09.094379+00:00"
+    "fetched_at": "2026-05-21T04:30:23.833836+00:00"
   },
   {
-    "id": "e20083687471bb1b",
-    "title": "Exhibition Felix Gonzalez-Torres Sweet Revenge From to",
-    "date": "2026-05-27",
-    "datetime": "2026-05-27T00:00:00+00:00",
+    "id": "a6c4697233945228",
+    "title": "Program: Museo Reina Sofía",
+    "date": "2026-05-21",
+    "datetime": "2026-05-21T04:30:39.985117+00:00",
     "country": "Španjolska",
     "city": "Madrid",
     "venue": "Museo Reina Sofía",
     "institution": "Museo Reina Sofía",
     "type": "muzej / izložbe",
     "source": "Museo Reina Sofía",
-    "url": "https://www.museoreinasofia.es/en/exhibition/felix-gonzalez-torres",
+    "url": "https://www.museoreinasofia.es/en/exhibitions",
     "description": "",
     "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-21T00:03:10.265321+00:00"
+    "program_link_only": true,
+    "fetched_at": "2026-05-21T04:30:39.985199+00:00"
   },
   {
     "id": "dbf4a8de6e925f8c",
     "title": "Program: Teatro Real",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:02:37.711584+00:00",
+    "datetime": "2026-05-21T04:29:31.199877+00:00",
     "country": "Španjolska",
     "city": "Madrid",
     "venue": "Teatro Real",
@@ -2122,13 +1765,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:02:37.711642+00:00"
+    "fetched_at": "2026-05-21T04:29:31.199937+00:00"
   },
   {
     "id": "55370a435604daf3",
     "title": "Program: Fondation Beyeler",
     "date": "2026-05-21",
-    "datetime": "2026-05-21T00:03:15.290153+00:00",
+    "datetime": "2026-05-21T04:30:45.189233+00:00",
     "country": "Švicarska",
     "city": "Basel",
     "venue": "Fondation Beyeler",
@@ -2139,6 +1782,6 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-21T00:03:15.290190+00:00"
+    "fetched_at": "2026-05-21T04:30:45.189273+00:00"
   }
 ]
