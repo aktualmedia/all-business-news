@@ -9,11 +9,177 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T18:43:00+00:00",
-    "fetched_at": "2026-05-21T17:42:41.437112+00:00",
+    "fetched_at": "2026-05-21T18:34:08.487736+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "0a4d66a01b10019d",
+    "id": "78d70b33cfd518bc",
+    "title": "Spotify is going to reserve concert tickets for ‘real fans’",
+    "description": "As part of a new \"Reserved\" program, Spotify is going to start offering concert tickets for \"real fans\" of participating bands that are going on tour. The idea with the Reserved program is to give people an option to buy tickets without the hassle and stress that often comes with securing a spot for a […]",
+    "url": "https://www.theverge.com/entertainment/935394/spotify-reserved-concert-ticket-presales",
+    "image": "https://picsum.photos/seed/wv-fill-7816ae54250e/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T18:34:08.240225+00:00",
+    "fetched_at": "2026-05-21T18:34:08.240227+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "dc6fa2eaa1b2f07a",
+    "title": "Spotify is launching AI-generated remixes",
+    "description": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add-on for Premium subscribers. Artists will be able to opt out of the program, but those who do participate will collect royalties […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
+    "image": "https://picsum.photos/seed/wv-fill-df74f63a586c/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T18:34:08.240175+00:00",
+    "fetched_at": "2026-05-21T18:34:08.240177+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "888394067309fd98",
+    "title": "GitHub faces a fight for its survival at Microsoft",
+    "description": "When Microsoft announced it was acquiring GitHub in a $7.5 billion deal in 2018, developers were nervous. Some were concerned about Microsoft controlling GitHub, and others were taking a wait-and-see approach. Nearly eight years later, GitHub is now fighting for its survival, amid a surge of outages, security issues, and pressure from competitors. In the […]",
+    "url": "https://www.theverge.com/tech/935250/microsoft-github-struggles-notepad",
+    "image": "https://picsum.photos/seed/wv-fill-7a686d08789a/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T18:34:08.240129+00:00",
+    "fetched_at": "2026-05-21T18:34:08.240131+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "a8da8d0a19ab1285",
+    "title": "Meta and Google get data from the app your boss uses to track you",
+    "description": "Hundreds of thousands of workplaces use software to monitor employees. Now, a new study has found that many of these tools share data not just with employers, but with digital advertising platforms and data brokers as well. The review was led by Stephanie Nguyen, senior fellow at Columbia Law School's Center for Law and the […]",
+    "url": "https://www.theverge.com/policy/935299/bossware-employer-surveillance",
+    "image": "https://picsum.photos/seed/wv-fill-08219330dc35/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T18:34:08.240082+00:00",
+    "fetched_at": "2026-05-21T18:34:08.240084+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "3a34f14fd11d3f97",
+    "title": "The cost of the smart home is going up",
+    "description": "Selling the smart home has been hard. Even Amazon has lost money in the space, despite putting hundreds of millions of Echo devices in people's homes. Google has also reportedly struggled to turn a profit from its substantial investment in Nest. But now Google is seeing dollar signs in the prospect of selling AI-driven subscriptions […]",
+    "url": "https://www.theverge.com/tech/935298/smart-home-cost-increase-ai-subscription-fatigue",
+    "image": "https://picsum.photos/seed/wv-fill-78c0a83b8036/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T18:34:08.240036+00:00",
+    "fetched_at": "2026-05-21T18:34:08.240038+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "c2134fe2f3003943",
+    "title": "This mechanical bird drops dead when your home’s air quality worsens",
+    "description": "The original Birdie debuted in 2022 with a morbid-but-fun design - an air-quality monitor with a literal canary in a coal mine. When the CO2 in your home hit a certain level, a mechanical bird mounted on your wall would appear to drop dead, then prompt you to open a window to air things out. […]",
+    "url": "https://www.theverge.com/tech/935292/birdie-pro-smart-air-monitor-kickstarter-crowdfunding",
+    "image": "https://picsum.photos/seed/wv-fill-68ba9eaf13f7/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T18:34:08.239988+00:00",
+    "fetched_at": "2026-05-21T18:34:08.239991+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "d04a832910edd40e",
+    "title": "Uber is deploying its own self-driving cars again, just not as robotaxis",
+    "description": "Uber is putting its own autonomous vehicles back on the road as part of its new AV Lab project to collect data for its dozens of robotaxi partners. The cars will be fitted with all the sensors typical of self-driving cars, like cameras, lidar, and radar. But notably the vehicles will not be operating as […]",
+    "url": "https://www.theverge.com/news/935204/uber-av-lab-self-driving-data-collection",
+    "image": "https://picsum.photos/seed/wv-fill-8b2771a53625/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T18:34:08.239937+00:00",
+    "fetched_at": "2026-05-21T18:34:08.239939+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "1ca22319fb0c0f5f",
+    "title": "The Endless AI guitar pedal has potential",
+    "description": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with a reputation for building niche, idiosyncratic devices. The company has built grooveboxes around old-school trackers and a multi-effect […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
+    "image": "https://picsum.photos/seed/wv-fill-250457df723d/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T18:34:08.239889+00:00",
+    "fetched_at": "2026-05-21T18:34:08.239891+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "18932e22604d4811",
+    "title": "Sonos’s pint-sized Roam 2 speaker is 25 percent off for Memorial Day",
+    "description": "If your summer plans involve spending any time outdoors, whether on the trail or at a pool party, a good portable Bluetooth speaker can go a long way. The latest Sonos Roam is built precisely for those moments, and right now, it’s on sale at Amazon, Best Buy, and Walmart for $134 ($45 off) for […]",
+    "url": "https://www.theverge.com/gadgets/935452/sonos-roam-2-bluetooth-speaker-memorial-day-2026-deal-sale",
+    "image": "https://picsum.photos/seed/wv-fill-e4d117066e8b/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T18:34:08.239836+00:00",
+    "fetched_at": "2026-05-21T18:34:08.239838+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "20997e6e7602e77f",
+    "title": "Bungie gives up on Destiny",
+    "description": "Bungie is moving on from Destiny 2. The studio announced Thursday that it's releasing the last major update for the game on June 9th as its focus \"turns towards a new beginning for Bungie.\" After that final update, the game will remain playable, much like the first Destiny. \"Many changes in this final update will […]",
+    "url": "https://www.theverge.com/games/935536/bungie-destiny-2-final-update-date",
+    "image": "https://picsum.photos/seed/wv-fill-21817954b6f0/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T18:34:08.239750+00:00",
+    "fetched_at": "2026-05-21T18:34:08.239766+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "15369732cfc420dc",
+    "title": "Mustard Made Storage Lockers Are on a Rare Sale Through May 31",
+    "description": "",
+    "url": "https://www.wired.com/story/mustard-made-sale/",
+    "image": "https://media.wired.com/photos/6a0f2dd449ad09d6fc2535b1/master/pass/Mustard%20Made%20deals%20post%20top%20art%20052026%20SOURCE%20Mustard%20Made.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T18:22:40+00:00",
+    "fetched_at": "2026-05-21T18:30:07.976718+00:00"
+  },
+  {
+    "id": "d85efb331189bd41",
+    "title": "Bungie gives up on Destiny - theverge.com",
+    "description": "Bungie gives up on Destiny theverge.com",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yajJGLXp3cHltVmtVekpvS19MNFY4d0ktdHdJX3RUSGxvaDN5Qmoyb2pjNUtiQjlEYXB5QlJzTG9vYnRYamdLSGw4NkFYWHZtOUh4bHdXdV85TG0zTHJnQ2lyVjI2OXMzRmpUYnJOTWszbF9MTi1nbHpuVmg?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-9810dee147a6/1200/750",
+    "source": "The Verge Technology - Google News",
+    "source_id": "global-extra-020",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:48:34+00:00",
+    "fetched_at": "2026-05-21T18:31:19.821466+00:00"
+  },
+  {
+    "id": "d482663690e4e627",
+    "title": "Palantir Held a Hack Week to Add New Controls to Software Used by ICE",
+    "description": "",
+    "url": "https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/",
+    "image": "https://media.wired.com/photos/6a0e2b7526c9e97a2b5443cb/master/pass/pol_palantir_GettyImages-2276544431.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:44:42+00:00",
+    "fetched_at": "2026-05-21T18:30:07.976782+00:00"
+  },
+  {
+    "id": "f9f1a867e16ef1f2",
     "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
     "description": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening history, as well as info from apps you connect to it, like your email inbox, calendar, and notes. Spotify says its AI can […]",
     "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
@@ -26,123 +192,6 @@
     "missing_core_fill": true
   },
   {
-    "id": "78d70b33cfd518bc",
-    "title": "Spotify is going to reserve concert tickets for ‘real fans’",
-    "description": "As part of a new \"Reserved\" program, Spotify is going to start offering concert tickets for \"real fans\" of participating bands that are going on tour. The idea with the Reserved program is to give people an option to buy tickets without the hassle and stress that often comes with securing a spot for a […]",
-    "url": "https://www.theverge.com/entertainment/935394/spotify-reserved-concert-ticket-presales",
-    "image": "https://picsum.photos/seed/wv-fill-7816ae54250e/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-21T17:42:41.159154+00:00",
-    "fetched_at": "2026-05-21T17:42:41.159157+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "dc6fa2eaa1b2f07a",
-    "title": "Spotify is launching AI-generated remixes",
-    "description": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add-on for Premium subscribers. Artists will be able to opt out of the program, but those who do participate will collect royalties […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
-    "image": "https://picsum.photos/seed/wv-fill-df74f63a586c/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-21T17:42:41.159099+00:00",
-    "fetched_at": "2026-05-21T17:42:41.159101+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "888394067309fd98",
-    "title": "GitHub faces a fight for its survival at Microsoft",
-    "description": "When Microsoft announced it was acquiring GitHub in a $7.5 billion deal in 2018, developers were nervous. Some were concerned about Microsoft controlling GitHub, and others were taking a wait-and-see approach. Nearly eight years later, GitHub is now fighting for its survival, amid a surge of outages, security issues, and pressure from competitors. In the […]",
-    "url": "https://www.theverge.com/tech/935250/microsoft-github-struggles-notepad",
-    "image": "https://picsum.photos/seed/wv-fill-7a686d08789a/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-21T17:42:41.159049+00:00",
-    "fetched_at": "2026-05-21T17:42:41.159051+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "a8da8d0a19ab1285",
-    "title": "Meta and Google get data from the app your boss uses to track you",
-    "description": "Hundreds of thousands of workplaces use software to monitor employees. Now, a new study has found that many of these tools share data not just with employers, but with digital advertising platforms and data brokers as well. The review was led by Stephanie Nguyen, senior fellow at Columbia Law School's Center for Law and the […]",
-    "url": "https://www.theverge.com/policy/935299/bossware-employer-surveillance",
-    "image": "https://picsum.photos/seed/wv-fill-08219330dc35/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-21T17:42:41.158997+00:00",
-    "fetched_at": "2026-05-21T17:42:41.159000+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "3a34f14fd11d3f97",
-    "title": "The cost of the smart home is going up",
-    "description": "Selling the smart home has been hard. Even Amazon has lost money in the space, despite putting hundreds of millions of Echo devices in people's homes. Google has also reportedly struggled to turn a profit from its substantial investment in Nest. But now Google is seeing dollar signs in the prospect of selling AI-driven subscriptions […]",
-    "url": "https://www.theverge.com/tech/935298/smart-home-cost-increase-ai-subscription-fatigue",
-    "image": "https://picsum.photos/seed/wv-fill-78c0a83b8036/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-21T17:42:41.158944+00:00",
-    "fetched_at": "2026-05-21T17:42:41.158947+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "c2134fe2f3003943",
-    "title": "This mechanical bird drops dead when your home’s air quality worsens",
-    "description": "The original Birdie debuted in 2022 with a morbid-but-fun design - an air-quality monitor with a literal canary in a coal mine. When the CO2 in your home hit a certain level, a mechanical bird mounted on your wall would appear to drop dead, then prompt you to open a window to air things out. […]",
-    "url": "https://www.theverge.com/tech/935292/birdie-pro-smart-air-monitor-kickstarter-crowdfunding",
-    "image": "https://picsum.photos/seed/wv-fill-68ba9eaf13f7/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-21T17:42:41.158889+00:00",
-    "fetched_at": "2026-05-21T17:42:41.158891+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "d04a832910edd40e",
-    "title": "Uber is deploying its own self-driving cars again, just not as robotaxis",
-    "description": "Uber is putting its own autonomous vehicles back on the road as part of its new AV Lab project to collect data for its dozens of robotaxi partners. The cars will be fitted with all the sensors typical of self-driving cars, like cameras, lidar, and radar. But notably the vehicles will not be operating as […]",
-    "url": "https://www.theverge.com/news/935204/uber-av-lab-self-driving-data-collection",
-    "image": "https://picsum.photos/seed/wv-fill-8b2771a53625/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-21T17:42:41.158826+00:00",
-    "fetched_at": "2026-05-21T17:42:41.158829+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "1ca22319fb0c0f5f",
-    "title": "The Endless AI guitar pedal has potential",
-    "description": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with a reputation for building niche, idiosyncratic devices. The company has built grooveboxes around old-school trackers and a multi-effect […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
-    "image": "https://picsum.photos/seed/wv-fill-250457df723d/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-21T17:42:41.158739+00:00",
-    "fetched_at": "2026-05-21T17:42:41.158762+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "18932e22604d4811",
-    "title": "Sonos’s pint-sized Roam 2 speaker is 25 percent off for Memorial Day",
-    "description": "If your summer plans involve spending any time outdoors, whether on the trail or at a pool party, a good portable Bluetooth speaker can go a long way. The latest Sonos Roam is built precisely for those moments, and right now, it’s on sale at Amazon, Best Buy, and Walmart for $134 ($45 off) for […]",
-    "url": "https://www.theverge.com/gadgets/935452/sonos-roam-2-bluetooth-speaker-memorial-day-2026-deal-sale",
-    "image": "https://picsum.photos/seed/wv-fill-e4d117066e8b/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-21T17:42:41.158660+00:00",
-    "fetched_at": "2026-05-21T17:42:41.158674+00:00",
-    "missing_core_fill": true
-  },
-  {
     "id": "f8961581cccae494",
     "title": "Convective Capital raises an $85 million fund to build disaster resilience",
     "description": "After launching to invest in fire tech, Convective is broadening its mandate to disaster resilience.",
@@ -152,8 +201,20 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T17:41:20+00:00",
-    "fetched_at": "2026-05-21T17:42:40.419573+00:00",
+    "fetched_at": "2026-05-21T18:34:07.375869+00:00",
     "missing_core_fill": true
+  },
+  {
+    "id": "e4c53a04e10a7f39",
+    "title": "Spotify is adding more AI gunk for podcasts and audiobooks",
+    "description": "Spotify podcasts are getting the personalized AI slop treatment.",
+    "url": "https://www.engadget.com/2178788/spotify-is-adding-more-ai-gunk-for-podcasts-and-audiobooks/",
+    "image": "https://www.engadget.com/img/gallery/spotify-is-adding-more-ai-gunk-for-podcasts-and-audiobooks/l-intro-1779384839.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T17:35:19+00:00",
+    "fetched_at": "2026-05-21T18:30:08.189604+00:00"
   },
   {
     "id": "e9fb5c983a6bfe30",
@@ -165,7 +226,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T17:30:45+00:00",
-    "fetched_at": "2026-05-21T17:42:40.419643+00:00",
+    "fetched_at": "2026-05-21T18:34:07.375938+00:00",
     "missing_core_fill": true
   },
   {
@@ -178,7 +239,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-21T17:28:26+00:00",
-    "fetched_at": "2026-05-21T17:38:47.085381+00:00"
+    "fetched_at": "2026-05-21T18:30:08.189754+00:00"
   },
   {
     "id": "a89b3d6e5470fd6b",
@@ -190,7 +251,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-21T17:12:51+00:00",
-    "fetched_at": "2026-05-21T17:38:48.130672+00:00"
+    "fetched_at": "2026-05-21T18:30:09.402926+00:00"
   },
   {
     "id": "6b66c7c4e9a9f53a",
@@ -202,7 +263,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-21T17:05:43+00:00",
-    "fetched_at": "2026-05-21T17:38:47.085637+00:00"
+    "fetched_at": "2026-05-21T18:30:08.189941+00:00"
   },
   {
     "id": "184200e54f317b73",
@@ -214,7 +275,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-21T17:00:42+00:00",
-    "fetched_at": "2026-05-21T17:38:48.130765+00:00"
+    "fetched_at": "2026-05-21T18:30:09.402994+00:00"
   },
   {
     "id": "202592deab37b1b8",
@@ -226,7 +287,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-21T17:00:00+00:00",
-    "fetched_at": "2026-05-21T17:38:49.815631+00:00"
+    "fetched_at": "2026-05-21T18:30:10.964643+00:00"
   },
   {
     "id": "d2f0f99934384aca",
@@ -238,7 +299,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-21T16:58:43+00:00",
-    "fetched_at": "2026-05-21T17:38:47.085831+00:00"
+    "fetched_at": "2026-05-21T18:30:08.190063+00:00"
   },
   {
     "id": "f7606f364946554e",
@@ -250,7 +311,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-21T16:54:22+00:00",
-    "fetched_at": "2026-05-21T17:38:48.130836+00:00"
+    "fetched_at": "2026-05-21T18:30:09.403050+00:00"
   },
   {
     "id": "66d92bb7f965cbf6",
@@ -262,7 +323,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T16:42:43+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528025+00:00",
+    "fetched_at": "2026-05-21T18:34:07.426440+00:00",
     "missing_core_fill": true
   },
   {
@@ -275,7 +336,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T16:30:00+00:00",
-    "fetched_at": "2026-05-21T17:42:41.437492+00:00",
+    "fetched_at": "2026-05-21T18:34:08.488119+00:00",
     "missing_core_fill": true
   },
   {
@@ -288,7 +349,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T16:30:00+00:00",
-    "fetched_at": "2026-05-21T17:42:41.438005+00:00",
+    "fetched_at": "2026-05-21T18:34:08.488565+00:00",
     "missing_core_fill": true
   },
   {
@@ -301,7 +362,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-21T16:30:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.130897+00:00"
+    "fetched_at": "2026-05-21T18:30:09.403099+00:00"
   },
   {
     "id": "d1d6ac2002cf332b",
@@ -313,7 +374,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-21T16:28:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.130955+00:00"
+    "fetched_at": "2026-05-21T18:30:09.403145+00:00"
   },
   {
     "id": "d401ccae55ffb0c2",
@@ -325,7 +386,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-21T16:23:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.131013+00:00"
+    "fetched_at": "2026-05-21T18:30:09.403191+00:00"
   },
   {
     "id": "75ac7deb8cc03e1d",
@@ -337,7 +398,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-21T16:16:49+00:00",
-    "fetched_at": "2026-05-21T17:38:48.131067+00:00"
+    "fetched_at": "2026-05-21T18:30:09.403234+00:00"
   },
   {
     "id": "f444ca27d7ca9e2e",
@@ -349,7 +410,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-21T16:15:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.131122+00:00"
+    "fetched_at": "2026-05-21T18:30:09.403277+00:00"
   },
   {
     "id": "718d1978857528c9",
@@ -361,7 +422,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-21T16:14:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.131177+00:00"
+    "fetched_at": "2026-05-21T18:30:09.403319+00:00"
   },
   {
     "id": "8e6281f4a94a2439",
@@ -373,7 +434,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T16:07:17+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528083+00:00",
+    "fetched_at": "2026-05-21T18:34:07.426492+00:00",
     "missing_core_fill": true
   },
   {
@@ -386,7 +447,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-21T16:00:51+00:00",
-    "fetched_at": "2026-05-21T17:38:48.131232+00:00"
+    "fetched_at": "2026-05-21T18:30:09.403366+00:00"
   },
   {
     "id": "e73731189d9107ff",
@@ -398,7 +459,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T16:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:40.419699+00:00",
+    "fetched_at": "2026-05-21T18:34:07.375989+00:00",
     "missing_core_fill": true
   },
   {
@@ -411,7 +472,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-21T16:00:00+00:00",
-    "fetched_at": "2026-05-21T17:38:47.085454+00:00"
+    "fetched_at": "2026-05-21T18:30:08.189702+00:00"
   },
   {
     "id": "245c47365bf38123",
@@ -423,7 +484,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-21T15:58:27+00:00",
-    "fetched_at": "2026-05-21T17:38:46.868597+00:00"
+    "fetched_at": "2026-05-21T18:30:07.976834+00:00"
   },
   {
     "id": "ae296383d54fe570",
@@ -435,7 +496,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-21T15:48:24+00:00",
-    "fetched_at": "2026-05-21T17:38:46.868688+00:00"
+    "fetched_at": "2026-05-21T18:30:07.976893+00:00"
   },
   {
     "id": "2ab75ef6f8f711e5",
@@ -447,7 +508,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-21T15:42:47+00:00",
-    "fetched_at": "2026-05-21T17:38:48.131288+00:00"
+    "fetched_at": "2026-05-21T18:30:09.403411+00:00"
   },
   {
     "id": "517529a4782d823d",
@@ -459,19 +520,19 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-21T15:41:18+00:00",
-    "fetched_at": "2026-05-21T17:38:48.131343+00:00"
+    "fetched_at": "2026-05-21T18:30:09.403455+00:00"
   },
   {
     "id": "90d0df3677b72b1a",
     "title": "Spotify takes on Google’s NotebookLM with its new app",
-    "description": "Spotify is releasing the new desktop app as a research preview in more than 20 markets",
+    "description": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
     "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
     "image": "https://picsum.photos/seed/wv-fill-b247c087117b/1200/750",
     "source": "TechCrunch",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T15:27:00+00:00",
-    "fetched_at": "2026-05-21T17:42:40.419768+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376030+00:00",
     "missing_core_fill": true
   },
   {
@@ -484,7 +545,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T15:27:00+00:00",
-    "fetched_at": "2026-05-21T17:42:40.419824+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376073+00:00",
     "missing_core_fill": true
   },
   {
@@ -497,7 +558,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T15:27:00+00:00",
-    "fetched_at": "2026-05-21T17:42:40.419866+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376109+00:00",
     "missing_core_fill": true
   },
   {
@@ -510,7 +571,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T15:26:00+00:00",
-    "fetched_at": "2026-05-21T17:42:40.419910+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376147+00:00",
     "missing_core_fill": true
   },
   {
@@ -523,7 +584,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T15:02:57+00:00",
-    "fetched_at": "2026-05-21T17:42:40.419952+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376185+00:00",
     "missing_core_fill": true
   },
   {
@@ -536,7 +597,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-21T15:02:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.057944+00:00"
+    "fetched_at": "2026-05-21T18:30:09.261532+00:00"
   },
   {
     "id": "259c3ce3748c0f1d",
@@ -548,7 +609,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T14:30:45+00:00",
-    "fetched_at": "2026-05-21T17:42:40.386877+00:00",
+    "fetched_at": "2026-05-21T18:34:07.341325+00:00",
     "missing_core_fill": true
   },
   {
@@ -561,7 +622,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T14:27:46+00:00",
-    "fetched_at": "2026-05-21T17:42:40.419992+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376225+00:00",
     "missing_core_fill": true
   },
   {
@@ -574,7 +635,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-21T14:26:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.058014+00:00"
+    "fetched_at": "2026-05-21T18:30:09.261600+00:00"
   },
   {
     "id": "58facbce002518de",
@@ -586,7 +647,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T14:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:40.420036+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376268+00:00",
     "missing_core_fill": true
   },
   {
@@ -599,7 +660,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T14:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:40.420091+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376316+00:00",
     "missing_core_fill": true
   },
   {
@@ -612,7 +673,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T14:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:40.420145+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376365+00:00",
     "missing_core_fill": true
   },
   {
@@ -625,7 +686,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-21T13:53:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.058071+00:00"
+    "fetched_at": "2026-05-21T18:30:09.261682+00:00"
   },
   {
     "id": "5e968bee73b6da0f",
@@ -637,7 +698,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T13:52:23+00:00",
-    "fetched_at": "2026-05-21T17:42:40.420191+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376408+00:00",
     "missing_core_fill": true
   },
   {
@@ -650,7 +711,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T13:48:38+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528129+00:00",
+    "fetched_at": "2026-05-21T18:34:07.426534+00:00",
     "missing_core_fill": true
   },
   {
@@ -663,7 +724,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T13:46:07+00:00",
-    "fetched_at": "2026-05-21T17:42:40.420235+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376448+00:00",
     "missing_core_fill": true
   },
   {
@@ -676,7 +737,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T13:38:42+00:00",
-    "fetched_at": "2026-05-21T17:42:40.420276+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376488+00:00",
     "missing_core_fill": true
   },
   {
@@ -689,7 +750,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T13:34:53+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528169+00:00",
+    "fetched_at": "2026-05-21T18:34:07.426570+00:00",
     "missing_core_fill": true
   },
   {
@@ -702,7 +763,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-21T13:33:42+00:00",
-    "fetched_at": "2026-05-21T17:38:46.868809+00:00"
+    "fetched_at": "2026-05-21T18:30:07.976937+00:00"
   },
   {
     "id": "30ce0c99c48c1850",
@@ -714,7 +775,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T13:25:37+00:00",
-    "fetched_at": "2026-05-21T17:42:40.420323+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376528+00:00",
     "missing_core_fill": true
   },
   {
@@ -727,7 +788,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-21T13:20:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.058131+00:00"
+    "fetched_at": "2026-05-21T18:30:09.261736+00:00"
   },
   {
     "id": "7f780eb59da88f1d",
@@ -739,7 +800,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-21T13:01:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.058185+00:00"
+    "fetched_at": "2026-05-21T18:30:09.261781+00:00"
   },
   {
     "id": "2cdbd0c6106605e8",
@@ -751,7 +812,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T13:00:09+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528209+00:00",
+    "fetched_at": "2026-05-21T18:34:07.426606+00:00",
     "missing_core_fill": true
   },
   {
@@ -764,7 +825,7 @@
     "source_id": "global-extra-021",
     "category": "tehnologija",
     "published_at": "2026-05-21T13:00:09+00:00",
-    "fetched_at": "2026-05-21T17:39:48.729148+00:00"
+    "fetched_at": "2026-05-21T18:31:20.354496+00:00"
   },
   {
     "id": "d4211a2aa3ffe8d2",
@@ -776,7 +837,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T13:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:41.438996+00:00",
+    "fetched_at": "2026-05-21T18:34:08.489561+00:00",
     "missing_core_fill": true
   },
   {
@@ -789,7 +850,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T13:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:41.439706+00:00",
+    "fetched_at": "2026-05-21T18:34:08.490302+00:00",
     "missing_core_fill": true
   },
   {
@@ -802,7 +863,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-21T13:00:00+00:00",
-    "fetched_at": "2026-05-21T17:38:47.085523+00:00"
+    "fetched_at": "2026-05-21T18:30:08.189810+00:00"
   },
   {
     "id": "e831c1f9a7a0f025",
@@ -814,7 +875,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T12:48:46+00:00",
-    "fetched_at": "2026-05-21T17:42:41.440011+00:00",
+    "fetched_at": "2026-05-21T18:34:08.490556+00:00",
     "missing_core_fill": true
   },
   {
@@ -827,7 +888,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-21T12:41:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.058237+00:00"
+    "fetched_at": "2026-05-21T18:30:09.261823+00:00"
   },
   {
     "id": "86f98f56755bf8f0",
@@ -839,7 +900,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-21T12:20:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.058292+00:00"
+    "fetched_at": "2026-05-21T18:30:09.261865+00:00"
   },
   {
     "id": "d6bb42ead20323b5",
@@ -851,7 +912,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T12:10:00+00:00",
-    "fetched_at": "2026-05-21T17:42:40.386957+00:00",
+    "fetched_at": "2026-05-21T18:34:07.341401+00:00",
     "missing_core_fill": true
   },
   {
@@ -972,18 +1033,6 @@
     "missing_core_fill": true
   },
   {
-    "id": "958b5b6d3d5cdb74",
-    "title": "11 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
-    "description": "",
-    "url": "https://www.wired.com/gallery/best-meal-kit-services-1/",
-    "image": "https://media.wired.com/photos/69b24dc4853ef33f258516c7/master/pass/The-Best-Meal-Delivery-Services-and-Meal-Kits-of-2026.jpg",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-21T12:02:00+00:00",
-    "fetched_at": "2026-05-21T17:38:46.868907+00:00"
-  },
-  {
     "id": "b55cd5ca9ee9fc48",
     "title": "Best Duffel Bags: Eastpak, Patagonia, Baboon to the Moon (2026)",
     "description": "",
@@ -993,7 +1042,19 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-21T12:02:00+00:00",
-    "fetched_at": "2026-05-21T17:38:46.868970+00:00"
+    "fetched_at": "2026-05-21T18:30:07.976979+00:00"
+  },
+  {
+    "id": "958b5b6d3d5cdb74",
+    "title": "11 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
+    "description": "",
+    "url": "https://www.wired.com/gallery/best-meal-kit-services-1/",
+    "image": "https://media.wired.com/photos/69b24dc4853ef33f258516c7/master/pass/The-Best-Meal-Delivery-Services-and-Meal-Kits-of-2026.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-21T12:02:00+00:00",
+    "fetched_at": "2026-05-21T18:30:07.977018+00:00"
   },
   {
     "id": "6db492d5b6a32025",
@@ -1005,7 +1066,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-21T12:00:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.058344+00:00"
+    "fetched_at": "2026-05-21T18:30:09.261907+00:00"
   },
   {
     "id": "85a3fdb43c804c3b",
@@ -1017,7 +1078,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-21T12:00:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.977591+00:00"
+    "fetched_at": "2026-05-21T18:30:10.323307+00:00"
   },
   {
     "id": "e06c1866ed317a00",
@@ -1029,7 +1090,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T11:42:57+00:00",
-    "fetched_at": "2026-05-21T17:42:40.420365+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376565+00:00",
     "missing_core_fill": true
   },
   {
@@ -1054,7 +1115,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-21T11:33:00+00:00",
-    "fetched_at": "2026-05-21T17:38:46.869024+00:00"
+    "fetched_at": "2026-05-21T18:30:07.977059+00:00"
   },
   {
     "id": "2f4688cc249940b6",
@@ -1066,7 +1127,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-21T11:27:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.058423+00:00"
+    "fetched_at": "2026-05-21T18:30:09.261975+00:00"
   },
   {
     "id": "65f65b72730667ac",
@@ -1078,7 +1139,7 @@
     "source_id": "src-073",
     "category": "tehnologija",
     "published_at": "2026-05-21T11:02:33+00:00",
-    "fetched_at": "2026-05-21T17:38:49.309175+00:00"
+    "fetched_at": "2026-05-21T18:30:10.512115+00:00"
   },
   {
     "id": "5f31e17184bbf320",
@@ -1090,7 +1151,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-21T11:01:00+00:00",
-    "fetched_at": "2026-05-21T17:38:46.869075+00:00"
+    "fetched_at": "2026-05-21T18:30:07.977098+00:00"
   },
   {
     "id": "a5ec80dd06dadb97",
@@ -1102,7 +1163,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T11:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:40.420452+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376655+00:00",
     "missing_core_fill": true
   },
   {
@@ -1127,7 +1188,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:54:23+00:00",
-    "fetched_at": "2026-05-21T17:38:48.058477+00:00"
+    "fetched_at": "2026-05-21T18:30:09.262017+00:00"
   },
   {
     "id": "211f0d9df9882746",
@@ -1139,7 +1200,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:38:00+00:00",
-    "fetched_at": "2026-05-21T17:38:46.869127+00:00"
+    "fetched_at": "2026-05-21T18:30:07.977136+00:00"
   },
   {
     "id": "025eaa24cffcc41d",
@@ -1151,7 +1212,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:30:00+00:00",
-    "fetched_at": "2026-05-21T17:38:46.869187+00:00"
+    "fetched_at": "2026-05-21T18:30:07.977182+00:00"
   },
   {
     "id": "9dfbb4e5ce44ad40",
@@ -1163,7 +1224,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:30:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.058527+00:00"
+    "fetched_at": "2026-05-21T18:30:09.262058+00:00"
   },
   {
     "id": "b5cfc58b23d1a7b3",
@@ -1223,7 +1284,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:00:02+00:00",
-    "fetched_at": "2026-05-21T17:42:41.491902+00:00",
+    "fetched_at": "2026-05-21T18:34:08.547119+00:00",
     "missing_core_fill": true
   },
   {
@@ -1236,7 +1297,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:00:02+00:00",
-    "fetched_at": "2026-05-21T17:42:41.492039+00:00",
+    "fetched_at": "2026-05-21T18:34:08.547262+00:00",
     "missing_core_fill": true
   },
   {
@@ -1249,7 +1310,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:40.387016+00:00",
+    "fetched_at": "2026-05-21T18:34:07.341456+00:00",
     "missing_core_fill": true
   },
   {
@@ -1262,7 +1323,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:00:00+00:00",
-    "fetched_at": "2026-05-21T17:38:46.869245+00:00"
+    "fetched_at": "2026-05-21T18:30:07.977227+00:00"
   },
   {
     "id": "7ef3bbc0592b7254",
@@ -1274,7 +1335,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:00:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.058579+00:00"
+    "fetched_at": "2026-05-21T18:30:09.262101+00:00"
   },
   {
     "id": "e3dcd7b92990f2bf",
@@ -1334,7 +1395,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T09:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:40.387079+00:00",
+    "fetched_at": "2026-05-21T18:34:07.341512+00:00",
     "missing_core_fill": true
   },
   {
@@ -1421,7 +1482,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T06:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:40.420499+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376695+00:00",
     "missing_core_fill": true
   },
   {
@@ -1434,7 +1495,7 @@
     "source_id": "global-extra-019",
     "category": "tehnologija",
     "published_at": "2026-05-21T06:00:00+00:00",
-    "fetched_at": "2026-05-21T17:39:47.677180+00:00"
+    "fetched_at": "2026-05-21T18:31:19.325231+00:00"
   },
   {
     "id": "1804cd37a3010dd3",
@@ -1458,7 +1519,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-21T05:52:38+00:00",
-    "fetched_at": "2026-05-21T17:42:40.420550+00:00",
+    "fetched_at": "2026-05-21T18:34:07.376738+00:00",
     "missing_core_fill": true
   },
   {
@@ -1742,6 +1803,18 @@
     "fetched_at": "2026-05-21T08:48:56.010662+00:00"
   },
   {
+    "id": "2387c5ead7a1cf21",
+    "title": "SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers - WIRED",
+    "description": "SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers WIRED",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lYnVYekxWbU5kLXdMaFd3M2xRV3F5TEZ4bzktWThEcHBKNUwwaVl1bDNoNnowS3FXdWItSTJ6YzljZHpJMTRoUnRMd1lGTDhwRDZkRnQ2REdfMlc3bzhyXzVUZ3l0clZ6UXlCUjZTOFhNY3R5YWd4bDVFZ0U?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-f096d0cf1ca9/1200/750",
+    "source": "Wired Technology - Google News",
+    "source_id": "global-extra-019",
+    "category": "tehnologija",
+    "published_at": "2026-05-20T23:30:00+00:00",
+    "fetched_at": "2026-05-21T18:31:19.325542+00:00"
+  },
+  {
     "id": "ad637545953b83f0",
     "title": "Kansas City has bought more than 4,500 MacBook Neos for its students",
     "description": "The newly \"all-Apple district\" will replace 30,000 Windows and Chromebook devices across its public schools.",
@@ -1788,7 +1861,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T23:02:49+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528250+00:00",
+    "fetched_at": "2026-05-21T18:34:07.426675+00:00",
     "missing_core_fill": true
   },
   {
@@ -1826,7 +1899,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T22:26:11+00:00",
-    "fetched_at": "2026-05-21T17:42:41.440210+00:00",
+    "fetched_at": "2026-05-21T18:34:08.490772+00:00",
     "missing_core_fill": true
   },
   {
@@ -1901,7 +1974,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T21:58:01+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528289+00:00",
+    "fetched_at": "2026-05-21T18:34:07.426712+00:00",
     "missing_core_fill": true
   },
   {
@@ -1914,7 +1987,7 @@
     "source_id": "global-extra-019",
     "category": "tehnologija",
     "published_at": "2026-05-20T21:58:00+00:00",
-    "fetched_at": "2026-05-21T17:39:47.677632+00:00"
+    "fetched_at": "2026-05-21T18:31:19.325758+00:00"
   },
   {
     "id": "9c282e027f019a7a",
@@ -1964,7 +2037,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T21:26:57+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528330+00:00",
+    "fetched_at": "2026-05-21T18:34:07.426752+00:00",
     "missing_core_fill": true
   },
   {
@@ -2016,7 +2089,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-20T20:40:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.549608+00:00"
+    "fetched_at": "2026-05-21T18:30:09.823649+00:00"
   },
   {
     "id": "c9f528541e40b1da",
@@ -2053,7 +2126,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T20:29:39+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528372+00:00",
+    "fetched_at": "2026-05-21T18:34:07.426787+00:00",
     "missing_core_fill": true
   },
   {
@@ -2155,7 +2228,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T19:53:34+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528415+00:00",
+    "fetched_at": "2026-05-21T18:34:07.426826+00:00",
     "missing_core_fill": true
   },
   {
@@ -2205,7 +2278,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-20T19:30:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.549674+00:00"
+    "fetched_at": "2026-05-21T18:30:09.823715+00:00"
   },
   {
     "id": "817234f081428a97",
@@ -2217,7 +2290,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T19:19:44+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528455+00:00",
+    "fetched_at": "2026-05-21T18:34:07.426862+00:00",
     "missing_core_fill": true
   },
   {
@@ -2230,7 +2303,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T19:10:36+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528492+00:00",
+    "fetched_at": "2026-05-21T18:34:07.426896+00:00",
     "missing_core_fill": true
   },
   {
@@ -2243,7 +2316,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T18:59:52+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528532+00:00",
+    "fetched_at": "2026-05-21T18:34:07.426933+00:00",
     "missing_core_fill": true
   },
   {
@@ -2268,7 +2341,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T18:48:41+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528572+00:00",
+    "fetched_at": "2026-05-21T18:34:07.426971+00:00",
     "missing_core_fill": true
   },
   {
@@ -2281,7 +2354,7 @@
     "source_id": "global-extra-021",
     "category": "tehnologija",
     "published_at": "2026-05-20T18:48:41+00:00",
-    "fetched_at": "2026-05-21T17:39:48.728977+00:00"
+    "fetched_at": "2026-05-21T18:31:20.354346+00:00"
   },
   {
     "id": "e6bac6c1996eb8aa",
@@ -2305,7 +2378,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T18:38:05+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528610+00:00",
+    "fetched_at": "2026-05-21T18:34:07.427006+00:00",
     "missing_core_fill": true
   },
   {
@@ -2343,7 +2416,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T18:20:56+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528655+00:00",
+    "fetched_at": "2026-05-21T18:34:07.427040+00:00",
     "missing_core_fill": true
   },
   {
@@ -2442,7 +2515,7 @@
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
     "published_at": "2026-05-20T17:31:04+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528695+00:00",
+    "fetched_at": "2026-05-21T18:34:07.427074+00:00",
     "missing_core_fill": true
   },
   {
@@ -2455,7 +2528,7 @@
     "source_id": "global-extra-021",
     "category": "tehnologija",
     "published_at": "2026-05-20T17:31:04+00:00",
-    "fetched_at": "2026-05-21T17:39:48.729389+00:00"
+    "fetched_at": "2026-05-21T18:31:20.354714+00:00"
   },
   {
     "id": "054273aa0aa8b40c",
@@ -2518,7 +2591,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-20T17:00:00+00:00",
-    "fetched_at": "2026-05-21T17:38:47.085580+00:00"
+    "fetched_at": "2026-05-21T18:30:08.189854+00:00"
   },
   {
     "id": "1ff323739ad3d5bb",
@@ -2530,7 +2603,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-20T16:45:00+00:00",
-    "fetched_at": "2026-05-21T17:38:48.549729+00:00"
+    "fetched_at": "2026-05-21T18:30:09.823764+00:00"
   },
   {
     "id": "2f16dbdc628bb82b",
@@ -2578,7 +2651,7 @@
     "source_id": "global-extra-020",
     "category": "tehnologija",
     "published_at": "2026-05-20T16:03:21+00:00",
-    "fetched_at": "2026-05-21T17:39:48.199135+00:00"
+    "fetched_at": "2026-05-21T18:31:19.821257+00:00"
   },
   {
     "id": "93d8dcc0a863258f",
@@ -2591,155 +2664,5 @@
     "category": "tehnologija",
     "published_at": "2026-05-20T16:00:44+00:00",
     "fetched_at": "2026-05-21T11:59:21.973240+00:00"
-  },
-  {
-    "id": "18d66674d76550c2",
-    "title": "Google says AI agents spending your money is a 'more fun' way to shop",
-    "description": "Google's new Universal Cart consolidates products from multiple retailers into one place.",
-    "url": "https://www.zdnet.com/article/google-says-ai-agents-spending-your-money-is-a-more-fun-way-to-shop/",
-    "image": "https://picsum.photos/seed/wv-news-3df847d6530f/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T15:58:23+00:00",
-    "fetched_at": "2026-05-21T11:59:21.973295+00:00"
-  },
-  {
-    "id": "14c876eb9bfb39df",
-    "title": "Plex appeal fades as Lifetime Pass jumps to $750",
-    "description": "How many times would you have to watch Lord of the Rings to cover that?",
-    "url": "https://www.theregister.com/saas/2026/05/20/plex-appeal-fades-as-lifetime-pass-jumps-to-750/5243480",
-    "image": "https://image.theregister.com/?imageId=5240227&width=800",
-    "source": "The Register",
-    "source_id": "src-068",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T15:51:38+00:00",
-    "fetched_at": "2026-05-21T04:24:59.384806+00:00"
-  },
-  {
-    "id": "bc97b256285bb6e8",
-    "title": "Customers say Trump Mobile is leaking their personal information",
-    "description": "Trump Mobile is leaking customers’ email and home addresses but has not responded to people alerting the company of the data exposure, according to two YouTubers who said they verified that their leaked data is authentic.",
-    "url": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
-    "image": "https://picsum.photos/seed/wv-fill-5064d703c0bd/1200/750",
-    "source": "TechCrunch",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T15:28:55+00:00",
-    "fetched_at": "2026-05-21T04:32:07.306785+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "26b4b54cb2668f8a",
-    "title": "Intuit to lay off over 3,000 employees to refocus on AI",
-    "description": "In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.",
-    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-    "image": "https://picsum.photos/seed/wv-fill-f6d6fc0591b8/1200/750",
-    "source": "TechCrunch",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T15:14:31+00:00",
-    "fetched_at": "2026-05-21T00:04:35.533675+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "968daf9731344e6a",
-    "title": "AI search startups are blowing up",
-    "description": "AI search has quietly become one of the most attractive targets in consumer AI.",
-    "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-    "image": "https://picsum.photos/seed/wv-fill-85404713c253/1200/750",
-    "source": "TechCrunch",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T15:04:45+00:00",
-    "fetched_at": "2026-05-21T00:04:35.533711+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "c543bcfda27f8126",
-    "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
-    "description": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
-    "url": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
-    "image": "https://www.engadget.com/img/gallery/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/l-intro-1779289906.jpg",
-    "source": "Engadget",
-    "source_id": "src-065",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T15:02:44+00:00",
-    "fetched_at": "2026-05-21T17:38:47.085692+00:00"
-  },
-  {
-    "id": "596bf8aa20d76454",
-    "title": "It’s Officially Election Season in Trumpworld",
-    "description": "",
-    "url": "https://www.wired.com/story/after-kentucky-the-trump-white-house-has-its-sights-on-these-primaries/",
-    "image": "https://media.wired.com/photos/6a0cbdbd27172be772291c47/master/pass/politics_republicans_primaries_white_house.jpg",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T15:00:00+00:00",
-    "fetched_at": "2026-05-21T04:24:57.052808+00:00"
-  },
-  {
-    "id": "2fceee2752604fb4",
-    "title": "Stability AI releases a new audio model that can create 6-minute songs",
-    "description": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
-    "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-    "image": "https://picsum.photos/seed/wv-fill-6466ad40916e/1200/750",
-    "source": "TechCrunch",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T15:00:00+00:00",
-    "fetched_at": "2026-05-21T00:04:35.533749+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "0b3663b65f5592b9",
-    "title": "Man jailed for posting Trump meme wins $835,000 settlement",
-    "description": "Sheriff loses fight with man he jailed for 37 days for posting a Trump meme on Facebook.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/man-wins-835k-after-sheriff-jailed-him-for-a-month-over-charlie-kirk-post/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Larry-Bushart-via-FIRE.jpg-1152x648-1779285875.jpeg",
-    "source": "Ars Technica",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T14:50:40+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528738+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "3d580c7bc790cd90",
-    "title": "Ubuntu Core 26 offers an immutable Linux you can trust through 2041",
-    "description": "If your company wants to sell IoT or edge gear in the EU, Canonical's minimal, immutable distro is worth a serious look.",
-    "url": "https://www.zdnet.com/article/ubuntu-core-26-canonicals-minimal-immutable-operating-system-arrives/",
-    "image": "https://picsum.photos/seed/wv-news-6ecc1a7c5be3/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T14:43:42+00:00",
-    "fetched_at": "2026-05-21T11:59:21.973351+00:00"
-  },
-  {
-    "id": "4ac1a5e547d69886",
-    "title": "51% of professionals say AI workslop lowers their productivity - stop it in 2 steps",
-    "description": "Professionals are concerned about the low quality of AI output. Preventing workslop requires two crucial steps.",
-    "url": "https://www.zdnet.com/article/workslop-can-kill-your-productivity-heres-how-to-turn-ai-into-a-competitive-advantage/",
-    "image": "https://picsum.photos/seed/wv-news-027b8c7d0f4b/1200/750",
-    "source": "ZDNET",
-    "source_id": "src-069",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T14:37:33+00:00",
-    "fetched_at": "2026-05-21T08:48:57.293944+00:00"
-  },
-  {
-    "id": "70d4025ac6785d2f",
-    "title": "Russia's plan to advertise on rockets and spacecraft takes off",
-    "description": "We now pause for a word from our sponsors.",
-    "url": "https://arstechnica.com/space/2026/05/russias-plan-to-advertise-on-rockets-and-spacecraft-takes-off/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/coffee-1152x648.png",
-    "source": "Ars Technica",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T14:28:57+00:00",
-    "fetched_at": "2026-05-21T17:42:40.528801+00:00",
-    "missing_core_fill": true
   }
 ]

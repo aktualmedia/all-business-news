@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-21T17:43:05.226596+00:00",
+  "updated_at": "2026-05-21T18:34:33.330188+00:00",
   "sources": 236,
-  "ok": 168,
-  "problem": 53,
+  "ok": 166,
+  "problem": 56,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -489,17 +489,6 @@
       "error": ""
     },
     {
-      "id": "src-124",
-      "name": "Highsnobiety",
-      "category": "lifestyle",
-      "url": "https://www.highsnobiety.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-123",
       "name": "Hypebeast",
       "category": "lifestyle",
@@ -654,10 +643,10 @@
       "error": ""
     },
     {
-      "id": "extra-care-002",
-      "name": "MindBodyGreen",
-      "category": "lifestyle",
-      "url": "https://www.mindbodygreen.com/rss.xml",
+      "id": "src-085",
+      "name": "Medical Xpress",
+      "category": "znanost",
+      "url": "https://medicalxpress.com/rss-feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -665,10 +654,10 @@
       "error": ""
     },
     {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
+      "id": "extra-care-002",
+      "name": "MindBodyGreen",
+      "category": "lifestyle",
+      "url": "https://www.mindbodygreen.com/rss.xml",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1171,17 +1160,6 @@
       "error": ""
     },
     {
-      "id": "src-085",
-      "name": "Medical Xpress",
-      "category": "znanost",
-      "url": "https://medicalxpress.com/rss-feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-036",
       "name": "National Jeweler - Google News",
       "category": "nakit",
@@ -1457,6 +1435,17 @@
       "error": ""
     },
     {
+      "id": "src-124",
+      "name": "Highsnobiety",
+      "category": "lifestyle",
+      "url": "https://www.highsnobiety.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-103",
       "name": "Hollywood Reporter",
       "category": "kultura",
@@ -1494,17 +1483,6 @@
       "name": "Knowledge at Wharton",
       "category": "poslovanje",
       "url": "https://knowledge.wharton.upenn.edu/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-138",
-      "name": "LSE Business Review",
-      "category": "ekonomija",
-      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1941,17 +1919,6 @@
       "error": ""
     },
     {
-      "id": "src-163",
-      "name": "JCK",
-      "category": "nakit",
-      "url": "https://www.jckonline.com/feed/",
-      "status": "empty",
-      "label": "prazan feed",
-      "count": 0,
-      "score": 55,
-      "error": ""
-    },
-    {
       "id": "src-009",
       "name": "Kellogg Insight",
       "category": "poslovanje",
@@ -2370,6 +2337,17 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
+      "id": "src-163",
+      "name": "JCK",
+      "category": "nakit",
+      "url": "https://www.jckonline.com/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "The read operation timed out"
+    },
+    {
       "id": "src-048",
       "name": "Kitco News",
       "category": "trzista",
@@ -2381,6 +2359,17 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
+      "id": "src-138",
+      "name": "LSE Business Review",
+      "category": "ekonomija",
+      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
       "id": "src-127",
       "name": "Lonely Planet",
       "category": "lifestyle",
@@ -2390,6 +2379,17 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-034",

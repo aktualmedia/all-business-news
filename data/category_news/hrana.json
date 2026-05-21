@@ -8,8 +8,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T17:42:46.946034+00:00",
-    "fetched_at": "2026-05-21T17:42:46.946036+00:00",
+    "published_at": "2026-05-21T18:34:14.847994+00:00",
+    "fetched_at": "2026-05-21T18:34:14.847996+00:00",
     "missing_core_fill": true
   },
   {
@@ -21,8 +21,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T17:42:46.945982+00:00",
-    "fetched_at": "2026-05-21T17:42:46.945984+00:00",
+    "published_at": "2026-05-21T18:34:14.847949+00:00",
+    "fetched_at": "2026-05-21T18:34:14.847951+00:00",
     "missing_core_fill": true
   },
   {
@@ -34,8 +34,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T17:42:46.945930+00:00",
-    "fetched_at": "2026-05-21T17:42:46.945932+00:00",
+    "published_at": "2026-05-21T18:34:14.847907+00:00",
+    "fetched_at": "2026-05-21T18:34:14.847909+00:00",
     "missing_core_fill": true
   },
   {
@@ -47,8 +47,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T17:42:46.945873+00:00",
-    "fetched_at": "2026-05-21T17:42:46.945876+00:00",
+    "published_at": "2026-05-21T18:34:14.847858+00:00",
+    "fetched_at": "2026-05-21T18:34:14.847859+00:00",
     "missing_core_fill": true
   },
   {
@@ -60,8 +60,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T17:42:46.945823+00:00",
-    "fetched_at": "2026-05-21T17:42:46.945825+00:00",
+    "published_at": "2026-05-21T18:34:14.847815+00:00",
+    "fetched_at": "2026-05-21T18:34:14.847817+00:00",
     "missing_core_fill": true
   },
   {
@@ -73,8 +73,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T17:42:46.945738+00:00",
-    "fetched_at": "2026-05-21T17:42:46.945760+00:00",
+    "published_at": "2026-05-21T18:34:14.847765+00:00",
+    "fetched_at": "2026-05-21T18:34:14.847767+00:00",
     "missing_core_fill": true
   },
   {
@@ -86,8 +86,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T17:42:46.945677+00:00",
-    "fetched_at": "2026-05-21T17:42:46.945680+00:00",
+    "published_at": "2026-05-21T18:34:14.847713+00:00",
+    "fetched_at": "2026-05-21T18:34:14.847714+00:00",
     "missing_core_fill": true
   },
   {
@@ -99,8 +99,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T17:42:46.945623+00:00",
-    "fetched_at": "2026-05-21T17:42:46.945626+00:00",
+    "published_at": "2026-05-21T18:34:14.847665+00:00",
+    "fetched_at": "2026-05-21T18:34:14.847667+00:00",
     "missing_core_fill": true
   },
   {
@@ -112,8 +112,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T17:42:46.945554+00:00",
-    "fetched_at": "2026-05-21T17:42:46.945557+00:00",
+    "published_at": "2026-05-21T18:34:14.847584+00:00",
+    "fetched_at": "2026-05-21T18:34:14.847587+00:00",
     "missing_core_fill": true
   },
   {
@@ -125,9 +125,35 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-21T17:42:46.945474+00:00",
-    "fetched_at": "2026-05-21T17:42:46.945486+00:00",
+    "published_at": "2026-05-21T18:34:14.847503+00:00",
+    "fetched_at": "2026-05-21T18:34:14.847516+00:00",
     "missing_core_fill": true
+  },
+  {
+    "id": "fd765cd70d81c08a",
+    "title": "Big Bean Ceviche",
+    "description": "Izvorni naslov/sažetak s portala Bon Appetit. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.bonappetit.com/recipe/vegetarian-bean-ceviche",
+    "image": "https://assets.bonappetit.com/photos/6a0f13a84c0e0714e007d4fe/master/pass/20260507_01_Big%20Bean%20Ceviche_089_FINAL_HORIZONTAL.jpg",
+    "source": "Bon Appetit",
+    "source_id": "missing-core-hrana",
+    "category": "hrana",
+    "published_at": "2026-05-21T18:00:00+00:00",
+    "fetched_at": "2026-05-21T18:34:14.987585+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "a89a786deefc589c",
+    "title": "IKEA’s Memorial Day Deals Start at $6 — Here’s Everything We’re Adding to Our Carts",
+    "description": "Save up to 47% off! READ MORE...",
+    "url": "https://www.thekitchn.com/ikea-memorial-day-kitchen-deals-2026-23783929?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+    "image": "https://picsum.photos/seed/wv-premium-cd04bf0159cb/1200/750",
+    "source": "The Kitchn",
+    "source_id": "premium-hrana",
+    "category": "hrana",
+    "published_at": "2026-05-21T17:00:00+00:00",
+    "fetched_at": "2026-05-21T18:33:31.412558+00:00",
+    "premium_category_fill": true
   },
   {
     "id": "4dad5899d9a96069",
@@ -139,7 +165,7 @@
     "source_id": "premium-hrana",
     "category": "hrana",
     "published_at": "2026-05-21T16:30:00+00:00",
-    "fetched_at": "2026-05-21T17:42:09.099560+00:00",
+    "fetched_at": "2026-05-21T18:33:31.412662+00:00",
     "premium_category_fill": true
   },
   {
@@ -152,7 +178,7 @@
     "source_id": "premium-hrana",
     "category": "hrana",
     "published_at": "2026-05-21T16:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:09.099650+00:00",
+    "fetched_at": "2026-05-21T18:33:31.412738+00:00",
     "premium_category_fill": true
   },
   {
@@ -165,7 +191,7 @@
     "source_id": "missing-core-hrana",
     "category": "hrana",
     "published_at": "2026-05-21T15:32:32+00:00",
-    "fetched_at": "2026-05-21T17:42:47.190594+00:00",
+    "fetched_at": "2026-05-21T18:34:14.987658+00:00",
     "missing_core_fill": true
   },
   {
@@ -178,7 +204,7 @@
     "source_id": "premium-hrana",
     "category": "hrana",
     "published_at": "2026-05-21T15:08:38+00:00",
-    "fetched_at": "2026-05-21T17:42:09.099728+00:00",
+    "fetched_at": "2026-05-21T18:33:31.412805+00:00",
     "premium_category_fill": true
   },
   {
@@ -191,7 +217,7 @@
     "source_id": "premium-hrana",
     "category": "hrana",
     "published_at": "2026-05-21T14:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:09.099827+00:00",
+    "fetched_at": "2026-05-21T18:33:31.412870+00:00",
     "premium_category_fill": true
   },
   {
@@ -204,7 +230,7 @@
     "source_id": "premium-hrana",
     "category": "hrana",
     "published_at": "2026-05-21T13:40:00+00:00",
-    "fetched_at": "2026-05-21T17:42:09.099897+00:00",
+    "fetched_at": "2026-05-21T18:33:31.412929+00:00",
     "premium_category_fill": true
   },
   {
@@ -217,7 +243,7 @@
     "source_id": "missing-core-hrana",
     "category": "hrana",
     "published_at": "2026-05-21T13:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:47.190642+00:00",
+    "fetched_at": "2026-05-21T18:34:14.987693+00:00",
     "missing_core_fill": true
   },
   {
@@ -230,7 +256,7 @@
     "source_id": "premium-hrana",
     "category": "hrana",
     "published_at": "2026-05-21T13:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:09.099964+00:00",
+    "fetched_at": "2026-05-21T18:33:31.412987+00:00",
     "premium_category_fill": true
   },
   {
@@ -243,7 +269,7 @@
     "source_id": "premium-hrana",
     "category": "hrana",
     "published_at": "2026-05-20T21:30:00+00:00",
-    "fetched_at": "2026-05-21T17:42:09.100033+00:00",
+    "fetched_at": "2026-05-21T18:33:31.413051+00:00",
     "premium_category_fill": true
   },
   {
@@ -256,7 +282,7 @@
     "source_id": "missing-core-hrana",
     "category": "hrana",
     "published_at": "2026-05-20T21:00:33+00:00",
-    "fetched_at": "2026-05-21T17:42:47.190681+00:00",
+    "fetched_at": "2026-05-21T18:34:14.987723+00:00",
     "missing_core_fill": true
   },
   {
@@ -269,7 +295,7 @@
     "source_id": "missing-core-hrana",
     "category": "hrana",
     "published_at": "2026-05-20T20:41:22+00:00",
-    "fetched_at": "2026-05-21T17:42:47.190717+00:00",
+    "fetched_at": "2026-05-21T18:34:14.987753+00:00",
     "missing_core_fill": true
   },
   {
@@ -282,7 +308,7 @@
     "source_id": "premium-hrana",
     "category": "hrana",
     "published_at": "2026-05-20T20:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:09.100097+00:00",
+    "fetched_at": "2026-05-21T18:33:31.413104+00:00",
     "premium_category_fill": true
   },
   {
@@ -308,7 +334,7 @@
     "source_id": "missing-core-hrana",
     "category": "hrana",
     "published_at": "2026-05-20T19:26:32+00:00",
-    "fetched_at": "2026-05-21T17:42:47.190775+00:00",
+    "fetched_at": "2026-05-21T18:34:14.987781+00:00",
     "missing_core_fill": true
   },
   {
@@ -321,7 +347,7 @@
     "source_id": "missing-core-hrana",
     "category": "hrana",
     "published_at": "2026-05-20T18:48:47+00:00",
-    "fetched_at": "2026-05-21T17:42:47.190821+00:00",
+    "fetched_at": "2026-05-21T18:34:14.987815+00:00",
     "missing_core_fill": true
   },
   {
@@ -334,7 +360,7 @@
     "source_id": "premium-hrana",
     "category": "hrana",
     "published_at": "2026-05-20T18:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:09.100159+00:00",
+    "fetched_at": "2026-05-21T18:33:31.413157+00:00",
     "premium_category_fill": true
   },
   {
@@ -347,7 +373,7 @@
     "source_id": "premium-hrana",
     "category": "hrana",
     "published_at": "2026-05-20T17:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:09.100219+00:00",
+    "fetched_at": "2026-05-21T18:33:31.413209+00:00",
     "premium_category_fill": true
   },
   {
@@ -360,7 +386,7 @@
     "source_id": "missing-core-hrana",
     "category": "hrana",
     "published_at": "2026-05-20T16:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:47.190855+00:00",
+    "fetched_at": "2026-05-21T18:34:14.987843+00:00",
     "missing_core_fill": true
   },
   {
@@ -373,7 +399,7 @@
     "source_id": "missing-core-hrana",
     "category": "hrana",
     "published_at": "2026-05-20T16:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:47.190894+00:00",
+    "fetched_at": "2026-05-21T18:34:14.987876+00:00",
     "missing_core_fill": true
   },
   {
@@ -386,33 +412,7 @@
     "source_id": "premium-hrana",
     "category": "hrana",
     "published_at": "2026-05-20T16:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:09.100280+00:00",
-    "premium_category_fill": true
-  },
-  {
-    "id": "2eafad2579f6eeef",
-    "title": "The 12 Best Kitchen Furniture Deals We Found at the Biggest Memorial Day Sales",
-    "description": "From Amazon, Wayfair, IKEA, and more! READ MORE...",
-    "url": "https://www.thekitchn.com/best-kitchen-furniture-memorial-day-deals-23783753?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-    "image": "https://picsum.photos/seed/wv-premium-cb5a62361f56/1200/750",
-    "source": "The Kitchn",
-    "source_id": "premium-hrana",
-    "category": "hrana",
-    "published_at": "2026-05-20T15:00:00+00:00",
-    "fetched_at": "2026-05-21T17:42:09.100342+00:00",
-    "premium_category_fill": true
-  },
-  {
-    "id": "d6865d46c7fa0f83",
-    "title": "5 “Unbelievably Delicious” Seasoning Blends Our Editors Refuse to Grill Without (Starting at $4)",
-    "description": "#5 is amazing on grilled chicken. READ MORE...",
-    "url": "https://www.thekitchn.com/best-grilling-seasonings-editors-23783759?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-    "image": "https://picsum.photos/seed/wv-premium-1ab8c4093a62/1200/750",
-    "source": "The Kitchn",
-    "source_id": "premium-hrana",
-    "category": "hrana",
-    "published_at": "2026-05-20T14:30:00+00:00",
-    "fetched_at": "2026-05-21T17:42:09.100409+00:00",
+    "fetched_at": "2026-05-21T18:33:31.413262+00:00",
     "premium_category_fill": true
   }
 ]
