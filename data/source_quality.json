@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-22T09:07:37.470579+00:00",
+  "updated_at": "2026-05-22T10:41:00.114907+00:00",
   "sources": 236,
-  "ok": 166,
-  "problem": 54,
+  "ok": 167,
+  "problem": 53,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -654,6 +654,17 @@
       "error": ""
     },
     {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-012",
       "name": "Mining.com Markets - Google News",
       "category": "trzista",
@@ -669,17 +680,6 @@
       "name": "NBER Digest",
       "category": "ekonomija",
       "url": "https://www.nber.org/rss/new.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-083",
-      "name": "Nature News",
-      "category": "znanost",
-      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1567,6 +1567,17 @@
       "error": ""
     },
     {
+      "id": "src-098",
+      "name": "MuseumNext",
+      "category": "kultura",
+      "url": "https://www.museumnext.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-079",
       "name": "NASA Breaking News",
       "category": "znanost",
@@ -1776,17 +1787,6 @@
       "error": ""
     },
     {
-      "id": "src-124",
-      "name": "Highsnobiety",
-      "category": "lifestyle",
-      "url": "https://www.highsnobiety.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 6,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "extra-symbol-gastronomija",
       "name": "Symbol Quorum - gastronomija",
       "category": "pica",
@@ -1805,6 +1805,17 @@
       "status": "ok",
       "label": "radi",
       "count": 6,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-124",
+      "name": "Highsnobiety",
+      "category": "lifestyle",
+      "url": "https://www.highsnobiety.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 5,
       "score": 100,
       "error": ""
     },
@@ -1941,10 +1952,10 @@
       "error": ""
     },
     {
-      "id": "src-098",
-      "name": "MuseumNext",
-      "category": "kultura",
-      "url": "https://www.museumnext.com/feed/",
+      "id": "src-083",
+      "name": "Nature News",
+      "category": "znanost",
+      "url": "https://www.nature.com/nature.rss",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -2379,17 +2390,6 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-034",
