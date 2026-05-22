@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-21T23:00:52.021481+00:00",
+  "updated_at": "2026-05-22T07:13:24.412079+00:00",
   "sources": 236,
-  "ok": 167,
+  "ok": 165,
   "problem": 54,
   "items": [
     {
@@ -152,6 +152,17 @@
       "name": "Atlas Obscura",
       "category": "lifestyle",
       "url": "https://www.atlasobscura.com/feeds/latest",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-041",
+      "name": "BBC World - Google News",
+      "category": "vijesti",
+      "url": "https://news.google.com/rss/search?q=site:bbc.com%2Fnews%20world&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -808,6 +819,17 @@
       "error": ""
     },
     {
+      "id": "src-015",
+      "name": "Quartz",
+      "category": "poslovanje",
+      "url": "https://qz.com/rss",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-002",
       "name": "Reuters Business - Google News",
       "category": "poslovanje",
@@ -1017,6 +1039,17 @@
       "error": ""
     },
     {
+      "id": "src-112",
+      "name": "Wallpaper",
+      "category": "dizajn",
+      "url": "https://www.wallpaper.com/rss",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-025",
       "name": "Wallpaper Lifestyle - Google News",
       "category": "lifestyle",
@@ -1105,17 +1138,6 @@
       "error": ""
     },
     {
-      "id": "global-extra-041",
-      "name": "BBC World - Google News",
-      "category": "vijesti",
-      "url": "https://news.google.com/rss/search?q=site:bbc.com%2Fnews%20world&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-099",
       "name": "Creative Review",
       "category": "kultura",
@@ -1160,17 +1182,6 @@
       "error": ""
     },
     {
-      "id": "src-015",
-      "name": "Quartz",
-      "category": "poslovanje",
-      "url": "https://qz.com/rss",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-023",
       "name": "Science News - Google News",
       "category": "znanost",
@@ -1204,10 +1215,10 @@
       "error": ""
     },
     {
-      "id": "src-112",
-      "name": "Wallpaper",
-      "category": "dizajn",
-      "url": "https://www.wallpaper.com/rss",
+      "id": "global-extra-031",
+      "name": "WatchTime - Google News",
+      "category": "satovi",
+      "url": "https://news.google.com/rss/search?q=site:watchtime.com%20watches&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1215,10 +1226,10 @@
       "error": ""
     },
     {
-      "id": "global-extra-031",
-      "name": "WatchTime - Google News",
+      "id": "global-extra-032",
+      "name": "aBlogtoWatch - Google News",
       "category": "satovi",
-      "url": "https://news.google.com/rss/search?q=site:watchtime.com%20watches&hl=en-US&gl=US&ceid=US:en",
+      "url": "https://news.google.com/rss/search?q=site:ablogtowatch.com%20watches&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1457,17 +1468,6 @@
       "error": ""
     },
     {
-      "id": "src-037",
-      "name": "Investing.com Economic Indicators",
-      "category": "financije",
-      "url": "https://www.investing.com/rss/forex.rss",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-036",
       "name": "Investing.com News",
       "category": "financije",
@@ -1571,17 +1571,6 @@
       "name": "Monochrome Watches",
       "category": "satovi",
       "url": "https://monochrome-watches.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-098",
-      "name": "MuseumNext",
-      "category": "kultura",
-      "url": "https://www.museumnext.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1714,17 +1703,6 @@
       "name": "Yanko Design",
       "category": "dizajn",
       "url": "https://www.yankodesign.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "global-extra-032",
-      "name": "aBlogtoWatch - Google News",
-      "category": "satovi",
-      "url": "https://news.google.com/rss/search?q=site:ablogtowatch.com%20watches&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1930,6 +1908,17 @@
       "error": ""
     },
     {
+      "id": "src-037",
+      "name": "Investing.com Economic Indicators",
+      "category": "financije",
+      "url": "https://www.investing.com/rss/forex.rss",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
       "id": "src-163",
       "name": "JCK",
       "category": "nakit",
@@ -1945,6 +1934,17 @@
       "name": "Kellogg Insight",
       "category": "poslovanje",
       "url": "https://insight.kellogg.northwestern.edu/feed",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
+      "id": "src-098",
+      "name": "MuseumNext",
+      "category": "kultura",
+      "url": "https://www.museumnext.com/feed/",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
