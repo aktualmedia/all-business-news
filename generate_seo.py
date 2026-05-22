@@ -26,11 +26,13 @@ STATIC_URLS = [
     ("symbol/index.html", "weekly", "0.88"),
     ("symbol-galerija/index.html", "weekly", "0.86"),
     ("digitalna-izdanja/index.html", "weekly", "0.84"),
-    ("galerija/index.html", "daily", "0.82"),
+    ("galerija-real/index.html", "daily", "0.84"),
     ("video/index.html", "daily", "0.80"),
     ("radio/index.html", "weekly", "0.70"),
     ("dogadjanja/index.html", "daily", "0.84"),
     ("izvori/index.html", "daily", "0.78"),
+    ("status/index.html", "daily", "0.64"),
+    ("app/index.html", "weekly", "0.62"),
     ("poslovanje/index.html", "hourly", "0.86"),
     ("ekonomija/index.html", "hourly", "0.86"),
     ("financije/index.html", "hourly", "0.86"),
@@ -103,10 +105,30 @@ def write_sitemap(path: str, entries: list[str]):
     write(path, "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n" + "\n".join(entries) + "\n</urlset>\n")
 
 
+def merge_posts(validated, legacy):
+    """Prefer validated original Nermin articles and avoid duplicate URLs/titles."""
+    merged = []
+    seen_paths = set()
+    seen_titles = set()
+    for item in list(validated if isinstance(validated, list) else []) + list(legacy if isinstance(legacy, list) else []):
+        if not isinstance(item, dict):
+            continue
+        path = str(item.get("url") or item.get("local_url") or "").lstrip("/")
+        title = textify(item.get("title")).lower()
+        if not path or path.startswith("http") or path in seen_paths or title in seen_titles:
+            continue
+        if item.get("validated_original_article") and int(item.get("word_count") or 0) < 300:
+            continue
+        seen_paths.add(path)
+        seen_titles.add(title)
+        merged.append(item)
+    return merged
+
+
 def main():
     news = read_json("data/news.json", [])
     editions = read_json("data/editions.json", [])
-    posts = read_json("data/ai_posts.json", [])
+    posts = merge_posts(read_json("data/nermin_seo_posts.json", []), read_json("data/ai_posts.json", []))
     events = read_json("data/events_calendar.json", [])
 
     entries = []
@@ -131,10 +153,11 @@ def main():
         author_bucket = author_entries if path.startswith("autor/") or path.startswith("nermin-sefic/") else None
         add(path, NOW, freq, prio, author_bucket)
 
-    for p in posts if isinstance(posts, list) else []:
+    for p in posts:
         path = str(p.get("url") or p.get("local_url") or "").lstrip("/")
         if path and not path.startswith("http"):
-            add(path, parse_date(p.get("published_at") or p.get("created_at") or p.get("date")), "weekly", "0.84", post_entries)
+            priority = "0.90" if p.get("validated_original_article") else "0.84"
+            add(path, parse_date(p.get("published_at") or p.get("created_at") or p.get("date")), "weekly", priority, post_entries)
 
     for e in editions if isinstance(editions, list) else []:
         path = str(e.get("url") or "").lstrip("/")
@@ -197,6 +220,7 @@ def main():
         "total_urls": len(simple_urls),
         "news_urls": len(news_entries),
         "posts_urls": len(post_entries),
+        "validated_posts": len([p for p in posts if p.get("validated_original_article")]),
         "authors_urls": len(author_entries),
         "events_urls": len(event_entries) or 1,
         "sitemap": SITE + "sitemap.xml",
@@ -204,9 +228,9 @@ def main():
         "posts_sitemap": SITE + "sitemap-posts.xml",
         "authors_sitemap": SITE + "sitemap-authors.xml",
         "events_sitemap": SITE + "sitemap-events.xml",
-        "robots": SITE + "robots.txt",
+        "robots": SITE + "robots.txt"
     })
-    print(f"SEO OK: {len(simple_urls)} URL-ova, news {len(news_entries)}, posts {len(post_entries)}, authors {len(author_entries)}")
+    print(f"SEO OK: {len(simple_urls)} URL-ova, news {len(news_entries)}, posts {len(post_entries)}, validated {len([p for p in posts if p.get('validated_original_article')])}")
 
 
 if __name__ == "__main__":
