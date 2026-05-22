@@ -9,7 +9,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-22T18:17:23.248853+00:00"
+    "fetched_at": "2026-05-22T21:47:43.151444+00:00"
   },
   {
     "id": "518893cda3595307",
@@ -21,7 +21,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-22T18:17:23.248903+00:00"
+    "fetched_at": "2026-05-22T21:47:43.151503+00:00"
   },
   {
     "id": "a85a64336941fc6a",
@@ -33,7 +33,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-22T18:17:23.248946+00:00"
+    "fetched_at": "2026-05-22T21:47:43.151555+00:00"
   },
   {
     "id": "2e1458e924954e4f",
@@ -117,7 +117,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-22T18:17:23.248987+00:00"
+    "fetched_at": "2026-05-22T21:47:43.151605+00:00"
   },
   {
     "id": "afe04b4cab8b18fe",
@@ -129,7 +129,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-22T18:17:23.249027+00:00"
+    "fetched_at": "2026-05-22T21:47:43.151655+00:00"
   },
   {
     "id": "25b3dba7ac823a67",
@@ -165,7 +165,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-22T18:17:23.248616+00:00"
+    "fetched_at": "2026-05-22T21:47:43.151135+00:00"
   },
   {
     "id": "c1e318d2391644ae",
@@ -177,7 +177,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-22T18:17:23.248662+00:00"
+    "fetched_at": "2026-05-22T21:47:43.151188+00:00"
   },
   {
     "id": "c40b3cdc959689d5",
@@ -189,7 +189,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-22T18:17:23.248716+00:00"
+    "fetched_at": "2026-05-22T21:47:43.151276+00:00"
   },
   {
     "id": "0a9048444929a690",
@@ -201,7 +201,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-22T18:17:23.248769+00:00"
+    "fetched_at": "2026-05-22T21:47:43.151343+00:00"
   },
   {
     "id": "e1ec5383ee11f320",
@@ -213,7 +213,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-22T18:17:23.248811+00:00"
+    "fetched_at": "2026-05-22T21:47:43.151395+00:00"
   },
   {
     "id": "b4cea2ca3d77a858",
@@ -321,7 +321,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 22 May 2026",
-    "fetched_at": "2026-05-22T18:17:23.248563+00:00"
+    "fetched_at": "2026-05-22T21:47:43.151078+00:00"
   },
   {
     "id": "415368da854b2685",
@@ -368,8 +368,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-22T18:21:53.460862+00:00",
-    "fetched_at": "2026-05-22T18:21:53.460864+00:00",
+    "published_at": "2026-05-22T21:53:27.406970+00:00",
+    "fetched_at": "2026-05-22T21:53:27.406972+00:00",
     "missing_core_fill": true
   },
   {
@@ -381,8 +381,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-22T18:21:53.460815+00:00",
-    "fetched_at": "2026-05-22T18:21:53.460818+00:00",
+    "published_at": "2026-05-22T21:53:27.406919+00:00",
+    "fetched_at": "2026-05-22T21:53:27.406922+00:00",
     "missing_core_fill": true
   },
   {
@@ -394,8 +394,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-22T18:21:53.460769+00:00",
-    "fetched_at": "2026-05-22T18:21:53.460771+00:00",
+    "published_at": "2026-05-22T21:53:27.406869+00:00",
+    "fetched_at": "2026-05-22T21:53:27.406871+00:00",
     "missing_core_fill": true
   },
   {
@@ -407,8 +407,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-22T18:21:53.460718+00:00",
-    "fetched_at": "2026-05-22T18:21:53.460720+00:00",
+    "published_at": "2026-05-22T21:53:27.406812+00:00",
+    "fetched_at": "2026-05-22T21:53:27.406815+00:00",
     "missing_core_fill": true
   },
   {
@@ -420,8 +420,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-22T18:21:53.460674+00:00",
-    "fetched_at": "2026-05-22T18:21:53.460676+00:00",
+    "published_at": "2026-05-22T21:53:27.406764+00:00",
+    "fetched_at": "2026-05-22T21:53:27.406766+00:00",
     "missing_core_fill": true
   },
   {
@@ -433,8 +433,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-22T18:21:53.460623+00:00",
-    "fetched_at": "2026-05-22T18:21:53.460625+00:00",
+    "published_at": "2026-05-22T21:53:27.406709+00:00",
+    "fetched_at": "2026-05-22T21:53:27.406711+00:00",
     "missing_core_fill": true
   },
   {
@@ -446,8 +446,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-22T18:21:53.460570+00:00",
-    "fetched_at": "2026-05-22T18:21:53.460572+00:00",
+    "published_at": "2026-05-22T21:53:27.406651+00:00",
+    "fetched_at": "2026-05-22T21:53:27.406654+00:00",
     "missing_core_fill": true
   },
   {
@@ -459,8 +459,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-22T18:21:53.460521+00:00",
-    "fetched_at": "2026-05-22T18:21:53.460523+00:00",
+    "published_at": "2026-05-22T21:53:27.406597+00:00",
+    "fetched_at": "2026-05-22T21:53:27.406599+00:00",
     "missing_core_fill": true
   },
   {
@@ -472,8 +472,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-22T18:21:53.460457+00:00",
-    "fetched_at": "2026-05-22T18:21:53.460460+00:00",
+    "published_at": "2026-05-22T21:53:27.406532+00:00",
+    "fetched_at": "2026-05-22T21:53:27.406535+00:00",
     "missing_core_fill": true
   },
   {
@@ -485,8 +485,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-22T18:21:53.460362+00:00",
-    "fetched_at": "2026-05-22T18:21:53.460374+00:00",
+    "published_at": "2026-05-22T21:53:27.406459+00:00",
+    "fetched_at": "2026-05-22T21:53:27.406466+00:00",
     "missing_core_fill": true
   },
   {
@@ -498,8 +498,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-22T18:21:46.832412+00:00",
-    "fetched_at": "2026-05-22T18:21:46.832414+00:00",
+    "published_at": "2026-05-22T21:53:19.060805+00:00",
+    "fetched_at": "2026-05-22T21:53:19.060807+00:00",
     "missing_core_fill": true
   },
   {
@@ -511,21 +511,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-22T18:21:46.832364+00:00",
-    "fetched_at": "2026-05-22T18:21:46.832367+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "f1f431814e9f7597",
-    "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
-    "description": "Google's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results, the AI Overview section instead includes a response like what you'd see from a more traditional AI chatbot, as called out by a […]",
-    "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-    "image": "https://picsum.photos/seed/wv-fill-804c5e08e8f4/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-22T18:21:46.832315+00:00",
-    "fetched_at": "2026-05-22T18:21:46.832317+00:00",
+    "published_at": "2026-05-22T21:53:19.060752+00:00",
+    "fetched_at": "2026-05-22T21:53:19.060755+00:00",
     "missing_core_fill": true
   },
   {
@@ -537,8 +524,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-22T18:21:46.832259+00:00",
-    "fetched_at": "2026-05-22T18:21:46.832261+00:00",
+    "published_at": "2026-05-22T21:53:19.060697+00:00",
+    "fetched_at": "2026-05-22T21:53:19.060699+00:00",
     "missing_core_fill": true
   },
   {
@@ -550,8 +537,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-22T18:21:46.832213+00:00",
-    "fetched_at": "2026-05-22T18:21:46.832215+00:00",
+    "published_at": "2026-05-22T21:53:19.060646+00:00",
+    "fetched_at": "2026-05-22T21:53:19.060649+00:00",
     "missing_core_fill": true
   },
   {
@@ -563,8 +550,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-22T18:21:46.832155+00:00",
-    "fetched_at": "2026-05-22T18:21:46.832158+00:00",
+    "published_at": "2026-05-22T21:53:19.060585+00:00",
+    "fetched_at": "2026-05-22T21:53:19.060587+00:00",
     "missing_core_fill": true
   },
   {
@@ -576,8 +563,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-22T18:21:46.832100+00:00",
-    "fetched_at": "2026-05-22T18:21:46.832102+00:00",
+    "published_at": "2026-05-22T21:53:19.060524+00:00",
+    "fetched_at": "2026-05-22T21:53:19.060527+00:00",
     "missing_core_fill": true
   },
   {
@@ -589,8 +576,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-22T18:21:46.832050+00:00",
-    "fetched_at": "2026-05-22T18:21:46.832053+00:00",
+    "published_at": "2026-05-22T21:53:19.060471+00:00",
+    "fetched_at": "2026-05-22T21:53:19.060474+00:00",
     "missing_core_fill": true
   },
   {
@@ -602,8 +589,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-22T18:21:46.831997+00:00",
-    "fetched_at": "2026-05-22T18:21:46.832000+00:00",
+    "published_at": "2026-05-22T21:53:19.060418+00:00",
+    "fetched_at": "2026-05-22T21:53:19.060421+00:00",
     "missing_core_fill": true
   },
   {
@@ -615,178 +602,152 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-22T18:21:46.831921+00:00",
-    "fetched_at": "2026-05-22T18:21:46.831933+00:00",
+    "published_at": "2026-05-22T21:53:19.060354+00:00",
+    "fetched_at": "2026-05-22T21:53:19.060357+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "b5cac526a4d68e23",
-    "title": "Form 8K Euronet Worldwide Inc For: 22 May",
+    "id": "f1f431814e9f7597",
+    "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
+    "description": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the […]",
+    "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+    "image": "https://picsum.photos/seed/wv-fill-804c5e08e8f4/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-22T21:53:19.060273+00:00",
+    "fetched_at": "2026-05-22T21:53:19.060282+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "f51c1e3f4b35e7ce",
+    "title": "Abeona Therapeutics director Mark Alvino sells $35,462 in stock",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/filings/form-8k-euronet-worldwide-inc-for-22-may-93CH-4707270",
-    "image": "https://picsum.photos/seed/wv-core-c5c58c013482/1200/750",
+    "url": "https://www.investing.com/news/insider-trading-news/abeona-therapeutics-director-mark-alvino-sells-35462-in-stock-93CH-4707732",
+    "image": "https://picsum.photos/seed/wv-core-80d84d86abae/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-22T18:21:39.552259+00:00",
-    "fetched_at": "2026-05-22T18:21:39.552261+00:00",
+    "published_at": "2026-05-22T21:53:09.744058+00:00",
+    "fetched_at": "2026-05-22T21:53:09.744060+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "85124f9c054bac30",
-    "title": "Form 8K GROOVE BOTANICALS INC. For: 22 May",
+    "id": "08da1f49f79c514c",
+    "title": "Form 8K Aperture AC For: 22 May",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/filings/form-8k-groove-botanicals-inc-for-22-may-93CH-4707271",
-    "image": "https://picsum.photos/seed/wv-core-10700233756a/1200/750",
+    "url": "https://www.investing.com/news/filings/form-8k-apertureac-for-22-may-93CH-4707733",
+    "image": "https://picsum.photos/seed/wv-core-3fbcabf3a5bf/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-22T18:21:39.552236+00:00",
-    "fetched_at": "2026-05-22T18:21:39.552238+00:00",
+    "published_at": "2026-05-22T21:53:09.744032+00:00",
+    "fetched_at": "2026-05-22T21:53:09.744033+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "1fa3b7bceb2cb642",
-    "title": "Gilead Sciences stock rises after FDA approves HDV treatment",
+    "id": "1a707af732ec75b2",
+    "title": "Form 8K KOIL ENERGY SOLUTIONS For: 22 May",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/stock-market-news/gilead-sciences-stock-rises-after-fda-approves-hdv-treatment-93CH-4707272",
-    "image": "https://picsum.photos/seed/wv-core-ae317bdb3ba4/1200/750",
+    "url": "https://www.investing.com/news/filings/form-8k-koil-energy-solutions-for-22-may-93CH-4707734",
+    "image": "https://picsum.photos/seed/wv-core-1237f25b064f/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-22T18:21:39.552198+00:00",
-    "fetched_at": "2026-05-22T18:21:39.552200+00:00",
+    "published_at": "2026-05-22T21:53:09.744006+00:00",
+    "fetched_at": "2026-05-22T21:53:09.744008+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "a127bab06a03aa66",
-    "title": "Form 6K Eldorado Gold Corp For: 22 May",
+    "id": "0fcae30bda963bfd",
+    "title": "Arm Holdings CCO William Abbey sells $1.34m in company stock",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/filings/form-6k-eldorado-gold-corp-for-22-may-93CH-4707273",
-    "image": "https://picsum.photos/seed/wv-core-76dac4676a17/1200/750",
+    "url": "https://www.investing.com/news/insider-trading-news/arm-holdings-cco-william-abbey-sells-134m-in-company-stock-93CH-4707735",
+    "image": "https://picsum.photos/seed/wv-core-059f8a6738ed/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-22T18:21:39.552174+00:00",
-    "fetched_at": "2026-05-22T18:21:39.552175+00:00",
+    "published_at": "2026-05-22T21:53:09.743976+00:00",
+    "fetched_at": "2026-05-22T21:53:09.743979+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "9904a400cea932f7",
-    "title": "Form 8K Nov Inc For: 22 May",
+    "id": "5bccdfe871b5620d",
+    "title": "Four dead, 90 trapped in north China coal mine accident, Xinhua reports",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/filings/form-8k-nov-inc-for-22-may-93CH-4707274",
-    "image": "https://picsum.photos/seed/wv-core-f1edcdc97142/1200/750",
+    "url": "https://www.investing.com/news/commodities-news/four-dead-90-trapped-in-north-china-coal-mine-accident-xinhua-reports-4707736",
+    "image": "https://i-invdn-com.investing.com/news/LYNXMPEE0T090_M.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-22T18:21:39.552148+00:00",
-    "fetched_at": "2026-05-22T18:21:39.552150+00:00",
+    "published_at": "2026-05-22T21:53:09.743943+00:00",
+    "fetched_at": "2026-05-22T21:53:09.743945+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "50f89fca10acad4b",
-    "title": "Range Resources’ SWOT analysis: stock faces natural gas headwinds",
+    "id": "3b46ca7e01f2bc51",
+    "title": "Senior Walmart executives depart amid rejig under new CEO, memo shows",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/swot-analysis/range-resources-swot-analysis-stock-faces-natural-gas-headwinds-93CH-4707276",
-    "image": "https://i-invdn-com.investing.com/news/gas_M_1440047759.jpg",
+    "url": "https://www.investing.com/news/stock-market-news/senior-walmart-executives-depart-amid-reshuffling-under-new-ceo-wsj-reports-4707353",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L1JS_L.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-22T18:21:39.552105+00:00",
-    "fetched_at": "2026-05-22T18:21:39.552107+00:00",
+    "published_at": "2026-05-22T21:53:09.743916+00:00",
+    "fetched_at": "2026-05-22T21:53:09.743918+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "04cf1899ebe067b3",
-    "title": "USTR Greer sees no immediate chip tariffs but says protection important for sector",
+    "id": "77dfd135e348f92e",
+    "title": "Arm Holdings chief people officer sells $2.26 million in shares",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/economy-news/ustr-greer-sees-no-immediate-chip-tariffs-but-says-protection-important-for-sector-4707278",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L1GV_L.jpg",
+    "url": "https://www.investing.com/news/insider-trading-news/arm-holdings-chief-people-officer-sells-226-million-in-shares-93CH-4707737",
+    "image": "https://picsum.photos/seed/wv-core-ef887ced2f15/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-22T18:21:39.552066+00:00",
-    "fetched_at": "2026-05-22T18:21:39.552068+00:00",
+    "published_at": "2026-05-22T21:53:09.743887+00:00",
+    "fetched_at": "2026-05-22T21:53:09.743889+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "e88a43f9520632fc",
-    "title": "Akanda cancels shareholder meeting due to lack of quorum",
+    "id": "1f1bf867fdeb4a26",
+    "title": "Form 13D/A Tax-Free Fixed Income Fund III for Puerto Rico Residents For: 22 May",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/company-news/akanda-cancels-shareholder-meeting-due-to-lack-of-quorum-93CH-4707279",
+    "url": "https://www.investing.com/news/filings/form-13da-taxfree-fixed-income-fund-iii-for-puerto-rico-residents-for-22-may-93CH-4707738",
     "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-22T18:21:39.552037+00:00",
-    "fetched_at": "2026-05-22T18:21:39.552040+00:00",
+    "published_at": "2026-05-22T21:53:09.743857+00:00",
+    "fetched_at": "2026-05-22T21:53:09.743859+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "5445c8d8afaa6515",
-    "title": "Earnings call transcript: Grupo Financiero Galicia sees mixed Q1 2026 results",
+    "id": "93d12613edbb58a2",
+    "title": "Everquote chief accounting officer Ayotte sells $5,198 in shares",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-grupo-financiero-galicia-sees-mixed-q1-2026-results-93CH-4707280",
+    "url": "https://www.investing.com/news/insider-trading-news/everquote-chief-accounting-officer-ayotte-sells-5198-in-shares-93CH-4707739",
     "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-22T18:21:39.551991+00:00",
-    "fetched_at": "2026-05-22T18:21:39.552007+00:00",
+    "published_at": "2026-05-22T21:53:09.743826+00:00",
+    "fetched_at": "2026-05-22T21:53:09.743829+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "6db480cfe81d6208",
-    "title": "Rediscovering science: New knowledge hidden in old data",
-    "description": "What if the knowledge that could fuel the next scientific breakthrough has simply been forgotten in an old graph or table? Valuable scientific insights may already exist across decades of published experiments, yet remain buried in old research papers, waiting to be rediscovered.",
-    "url": "https://phys.org/news/2026-05-rediscovering-science-knowledge-hidden.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rediscovering-science-2.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-22T18:20:05+00:00",
-    "fetched_at": "2026-05-22T18:21:47.601266+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "0ba5b5a1e93d63d7",
-    "title": "Second ribosome binding site helps explain how tetracyclines work",
-    "description": "For decades, doctors have widely used tetracyclines for conditions ranging from acne to tick-borne illnesses. Using high-resolution imaging technology, researchers in the laboratory of Christopher Bunick, MD, Ph.D., associate professor of dermatology at Yale School of Medicine (YSM), captured a never-before-seen look into how different kinds of tetracyclines bind to and kill bacteria.",
-    "url": "https://phys.org/news/2026-05-ribosome-site-tetracyclines.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-tetracyclines-work.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-22T18:20:04+00:00",
-    "fetched_at": "2026-05-22T18:21:47.601320+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "1cda3e3b0d427461",
-    "title": "Overloaded brain cleanup cells may mark severe multiple sclerosis progression",
-    "description": "Researcher Daan van der Vliet, together with colleagues from the Netherlands Institute for Neuroscience, Leiden University, and Utrecht University, has discovered an important mechanism that may be linked to severe progression of multiple sclerosis (MS). In brain tissue from patients with rapidly progressing MS, they found large numbers of abnormal immune cells overloaded with fat droplets. The study offers new leads for treatments as well as biomarkers that could better predict disease progression. The work is published in the journal Nature Neuroscience.",
-    "url": "https://medicalxpress.com/news/2026-05-overloaded-brain-cleanup-cells-severe.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-clue-to-severe-ms.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-22T18:20:03+00:00",
-    "fetched_at": "2026-05-22T18:21:48.286836+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "8fe34939bbf7a870",
-    "title": "Psilocybin cuts nerve pain for weeks and boosts gabapentin in mice",
-    "description": "A single dose of psilocybin, the active compound in magic mushrooms, reduces nerve pain for up to a month and makes a widely used painkiller work more effectively, University of Reading research has found.",
-    "url": "https://medicalxpress.com/news/2026-05-psilocybin-nerve-pain-weeks-boosts.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/psilocybin-mushrooms.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-22T18:20:01+00:00",
-    "fetched_at": "2026-05-22T18:21:48.286886+00:00",
-    "missing_core_fill": true
+    "id": "a28b19e42a65db36",
+    "title": "Roblox chief safety officer Matthew Kaufman sells $649,955 in stock",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/insider-trading-news/roblox-chief-safety-officer-matthew-kaufman-sells-649955-in-stock-93CH-4707740",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-22T21:53:09.743786+00:00",
+    "fetched_at": "2026-05-22T21:53:09.743793+00:00",
+    "core_business_science_fill": true
   },
   {
     "id": "3e6f139e8b4e0b8a",
@@ -797,8 +758,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-22T18:19:34.985786+00:00",
-    "fetched_at": "2026-05-22T18:19:34.985788+00:00",
+    "published_at": "2026-05-22T21:50:19.325766+00:00",
+    "fetched_at": "2026-05-22T21:50:19.325769+00:00",
     "html_source": true
   },
   {
@@ -810,8 +771,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-22T18:19:34.985626+00:00",
-    "fetched_at": "2026-05-22T18:19:34.985628+00:00",
+    "published_at": "2026-05-22T21:50:19.325612+00:00",
+    "fetched_at": "2026-05-22T21:50:19.325615+00:00",
     "html_source": true
   },
   {
@@ -823,8 +784,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-22T18:19:34.985458+00:00",
-    "fetched_at": "2026-05-22T18:19:34.985461+00:00",
+    "published_at": "2026-05-22T21:50:19.325451+00:00",
+    "fetched_at": "2026-05-22T21:50:19.325454+00:00",
     "html_source": true
   },
   {
@@ -836,8 +797,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-22T18:19:34.985264+00:00",
-    "fetched_at": "2026-05-22T18:19:34.985266+00:00",
+    "published_at": "2026-05-22T21:50:19.325269+00:00",
+    "fetched_at": "2026-05-22T21:50:19.325272+00:00",
     "html_source": true
   },
   {
@@ -849,8 +810,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-22T18:19:34.985110+00:00",
-    "fetched_at": "2026-05-22T18:19:34.985112+00:00",
+    "published_at": "2026-05-22T21:50:19.325092+00:00",
+    "fetched_at": "2026-05-22T21:50:19.325094+00:00",
     "html_source": true
   },
   {
@@ -862,8 +823,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-22T18:19:34.984938+00:00",
-    "fetched_at": "2026-05-22T18:19:34.984940+00:00",
+    "published_at": "2026-05-22T21:50:19.324926+00:00",
+    "fetched_at": "2026-05-22T21:50:19.324928+00:00",
     "html_source": true
   },
   {
@@ -875,8 +836,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-22T18:19:34.984790+00:00",
-    "fetched_at": "2026-05-22T18:19:34.984791+00:00",
+    "published_at": "2026-05-22T21:50:19.324778+00:00",
+    "fetched_at": "2026-05-22T21:50:19.324781+00:00",
     "html_source": true
   },
   {
@@ -888,8 +849,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-22T18:19:34.984638+00:00",
-    "fetched_at": "2026-05-22T18:19:34.984640+00:00",
+    "published_at": "2026-05-22T21:50:19.324630+00:00",
+    "fetched_at": "2026-05-22T21:50:19.324633+00:00",
     "html_source": true
   },
   {
@@ -901,8 +862,47 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-22T18:19:34.984486+00:00",
-    "fetched_at": "2026-05-22T18:19:34.984488+00:00",
+    "published_at": "2026-05-22T21:50:19.324479+00:00",
+    "fetched_at": "2026-05-22T21:50:19.324482+00:00",
+    "html_source": true
+  },
+  {
+    "id": "2d977c89b6000537",
+    "title": "Jaja pečena s ova dva sastojka naša su nova opsesija za doručak, donosimo jako jednostavan recept Četvrtak, 21. svibnja 2026.",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - gastro. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/lifestyle/gastro/jaja-sa-sezamom-recept/",
+    "image": "https://www.journal.hr/wp-content/uploads/2025/11/jaja-sa-sezamom-e1763028937766-768x574.jpg",
+    "source": "Journal.hr - gastro",
+    "source_id": "extra-journal-gastro",
+    "category": "hedonizam",
+    "published_at": "2026-05-22T21:50:19.324316+00:00",
+    "fetched_at": "2026-05-22T21:50:19.324320+00:00",
+    "html_source": true
+  },
+  {
+    "id": "e1eb5be7548777f7",
+    "title": "Cherimoya je nova viralna voćka koja osvaja društvene mreže – jeste li čuli za nju? Petak, 22. svibnja 2026.",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - gastro. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/lifestyle/gastro/cherimoya-viralna-vocka/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/cerimoja-naslovnica-768x427.png",
+    "source": "Journal.hr - gastro",
+    "source_id": "extra-journal-gastro",
+    "category": "hedonizam",
+    "published_at": "2026-05-22T21:50:19.324127+00:00",
+    "fetched_at": "2026-05-22T21:50:19.324130+00:00",
+    "html_source": true
+  },
+  {
+    "id": "43d5b5257de6face",
+    "title": "Ovo novo brunch mjesto pamti se i po interijeru: U Banja Luci je otvoren GOAT Petak, 22. svibnja 2026.",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - gastro. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/lifestyle/gastro/goat-brunch-beyond-banja-luka/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/GOAT-Brunch-Beyond-14-768x432.jpg",
+    "source": "Journal.hr - gastro",
+    "source_id": "extra-journal-gastro",
+    "category": "hedonizam",
+    "published_at": "2026-05-22T21:50:19.323942+00:00",
+    "fetched_at": "2026-05-22T21:50:19.323953+00:00",
     "html_source": true
   }
 ]

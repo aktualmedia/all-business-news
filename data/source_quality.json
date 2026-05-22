@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-22T18:22:11.928384+00:00",
+  "updated_at": "2026-05-22T21:53:47.097937+00:00",
   "sources": 236,
-  "ok": 166,
-  "problem": 55,
+  "ok": 167,
+  "problem": 53,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -489,6 +489,17 @@
       "error": ""
     },
     {
+      "id": "src-124",
+      "name": "Highsnobiety",
+      "category": "lifestyle",
+      "url": "https://www.highsnobiety.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-123",
       "name": "Hypebeast",
       "category": "lifestyle",
@@ -654,17 +665,6 @@
       "error": ""
     },
     {
-      "id": "extra-care-002",
-      "name": "MindBodyGreen",
-      "category": "lifestyle",
-      "url": "https://www.mindbodygreen.com/rss.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-012",
       "name": "Mining.com Markets - Google News",
       "category": "trzista",
@@ -680,6 +680,17 @@
       "name": "NBER Digest",
       "category": "ekonomija",
       "url": "https://www.nber.org/rss/new.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-036",
+      "name": "National Jeweler - Google News",
+      "category": "nakit",
+      "url": "https://news.google.com/rss/search?q=site:nationaljeweler.com%20jewelry&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1017,17 +1028,6 @@
       "error": ""
     },
     {
-      "id": "global-extra-020",
-      "name": "The Verge Technology - Google News",
-      "category": "tehnologija",
-      "url": "https://news.google.com/rss/search?q=site:theverge.com%20technology&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-026",
       "name": "Travel + Leisure - Google News",
       "category": "lifestyle",
@@ -1182,17 +1182,6 @@
       "error": ""
     },
     {
-      "id": "global-extra-036",
-      "name": "National Jeweler - Google News",
-      "category": "nakit",
-      "url": "https://news.google.com/rss/search?q=site:nationaljeweler.com%20jewelry&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-023",
       "name": "Science News - Google News",
       "category": "znanost",
@@ -1208,6 +1197,17 @@
       "name": "Supply Chain Brain",
       "category": "trzista",
       "url": "https://www.supplychainbrain.com/rss/topic/1145-news",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-020",
+      "name": "The Verge Technology - Google News",
+      "category": "tehnologija",
+      "url": "https://news.google.com/rss/search?q=site:theverge.com%20technology&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1479,6 +1479,17 @@
       "error": ""
     },
     {
+      "id": "src-138",
+      "name": "LSE Business Review",
+      "category": "ekonomija",
+      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-150",
       "name": "Logistics Manager",
       "category": "trzista",
@@ -1721,6 +1732,17 @@
       "error": ""
     },
     {
+      "id": "extra-care-002",
+      "name": "MindBodyGreen",
+      "category": "lifestyle",
+      "url": "https://www.mindbodygreen.com/rss.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 9,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-025",
       "name": "Our World in Data",
       "category": "ekonomija",
@@ -1750,17 +1772,6 @@
       "status": "ok",
       "label": "radi",
       "count": 8,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-124",
-      "name": "Highsnobiety",
-      "category": "lifestyle",
-      "url": "https://www.highsnobiety.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 7,
       "score": 100,
       "error": ""
     },
@@ -1934,6 +1945,17 @@
       "name": "Kellogg Insight",
       "category": "poslovanje",
       "url": "https://insight.kellogg.northwestern.edu/feed",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
+      "id": "src-127",
+      "name": "Lonely Planet",
+      "category": "lifestyle",
+      "url": "https://www.lonelyplanet.com/news/feed",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -2359,28 +2381,6 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "id": "src-138",
-      "name": "LSE Business Review",
-      "category": "ekonomija",
-      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "src-127",
-      "name": "Lonely Planet",
-      "category": "lifestyle",
-      "url": "https://www.lonelyplanet.com/news/feed",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
       "id": "src-049",
       "name": "Mining.com",
       "category": "trzista",
@@ -2521,7 +2521,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 404: Not Found"
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "id": "src-130",
