@@ -1,78 +1,78 @@
 {
-  "updated_at": "2026-05-22T09:07:37.434646+00:00",
+  "updated_at": "2026-05-22T14:37:27.296388+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 98,
-      "cover": "https://variety.com/wp-content/uploads/2026/05/Recluse1.jpg"
+      "count": 96,
+      "cover": "https://variety.com/wp-content/uploads/2026/05/GettyImages-2277345867.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 26,
-      "cover": "https://cdn.mos.cms.futurecdn.net/MhsWintQkrnM5fG2AdGtXX-1280-80.png"
+      "count": 36,
+      "cover": "https://www.yankodesign.com/images/design_news/2026/05/one-speaker-10-drivers-400-watts-dalis-vega-changes-the-game/vega-01.jpg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 8,
-      "cover": "https://robbreport.com/wp-content/uploads/2026/05/polestar-6-01.jpg"
+      "count": 7,
+      "cover": "https://robbreport.com/wp-content/uploads/2026/05/Banner-Images_1000x1000-11.png"
     },
     {
       "id": "hrana",
       "label": "HRANA",
-      "count": 2,
-      "cover": "https://assets.bonappetit.com/photos/6a0f6d85527fd5f173f7b091/master/pass/Hello%20Fresh%202026%201.jpg"
+      "count": 1,
+      "cover": "https://assets.bonappetit.com/photos/6765c92475e08750ee022ae4/master/pass/pistachio-bundt-cake-lemon-cream-cheese-glaze_RECIPE_V3_121924_8820_VOG_NoBadge_final.jpg"
     },
     {
       "id": "pica",
       "label": "PIĆA",
-      "count": 11,
-      "cover": "https://www.thespiritsbusiness.com/content/uploads/2026/05/Connie-Glaze-Passion-Fruit-Vodka-Liqueur.jpg"
+      "count": 28,
+      "cover": "https://www.thespiritsbusiness.com/content/uploads/2026/05/DropWorks-Rum-Distillery.jpg"
     },
     {
       "id": "satovi",
       "label": "SATOVI",
       "count": 5,
-      "cover": "https://monochrome-watches.com/app/uploads/2026/05/Union-Glashutte-Noramis-Date-Limited-Edition-Petro-Surf-2026-Fuchs-Inspired-Dial-1-600x237.jpg"
+      "cover": "https://monochrome-watches.com/app/uploads/2026/05/Marco-Tedeschi-MT1.1-Le-Tourbillon-7-Jours-review-2-600x237.jpg"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 32,
-      "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F22%2Fnetflix-avatar-the-last-airbender-season-2-official-trailer-release-info-0.jpg?w=800&cbr=1&q=90&fit=max"
+      "count": 35,
+      "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F22%2Ffear-of-god-mlb-essentials-spring-2026-collection-release-info.jpg?w=800&cbr=1&q=90&fit=max"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 46,
-      "cover": "https://www.engadget.com/img/gallery/bungie-reported-layoffs/l-intro-1779439378.jpg"
+      "count": 52,
+      "cover": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/ai-fabricated-quotes-Rosenbaum-1152x648.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 111,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-complex-interactio.jpg"
+      "count": 79,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/adolescents-2.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 95,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a1012dcd004196271a0caf9/0x0.jpg?width=960"
+      "count": 86,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/62792c6a8956d9e3f1ed076c/0x0.jpg?width=960"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 50,
-      "cover": "https://www.finance-monthly.com/wp-content/uploads/2026/05/pexels-tara-winstead-7111604-1024x682.jpg"
+      "count": 62,
+      "cover": "https://images.mktw.net/im-76366035"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 16,
-      "cover": "https://www.freightwaves.com/wp-content/uploads/2026/05/21/sof-5-21.jpg"
+      "count": 13,
+      "cover": "https://www.freightwaves.com/wp-content/uploads/2026/05/21/Port_Houston_April-cargo.jpg"
     }
   ]
 }
