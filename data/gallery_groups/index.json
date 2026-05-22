@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-05-22T07:13:24.375901+00:00",
+  "updated_at": "2026-05-22T09:07:37.434646+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 90,
-      "cover": "https://variety.com/wp-content/uploads/2026/05/9-temples-to-heaven.jpg"
+      "count": 98,
+      "cover": "https://variety.com/wp-content/uploads/2026/05/Recluse1.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 24,
-      "cover": "https://cdn.mos.cms.futurecdn.net/psvbrZV4EoNDbwWws4p6JE-1280-80.png"
+      "count": 26,
+      "cover": "https://cdn.mos.cms.futurecdn.net/MhsWintQkrnM5fG2AdGtXX-1280-80.png"
     },
     {
       "id": "hedonizam",
@@ -23,55 +23,55 @@
     {
       "id": "hrana",
       "label": "HRANA",
-      "count": 3,
+      "count": 2,
       "cover": "https://assets.bonappetit.com/photos/6a0f6d85527fd5f173f7b091/master/pass/Hello%20Fresh%202026%201.jpg"
     },
     {
       "id": "pica",
       "label": "PIĆA",
-      "count": 4,
-      "cover": "https://www.thedrinksbusiness.com/content/uploads/2026/05/Herti.jpeg"
+      "count": 11,
+      "cover": "https://www.thespiritsbusiness.com/content/uploads/2026/05/Connie-Glaze-Passion-Fruit-Vodka-Liqueur.jpg"
     },
     {
       "id": "satovi",
       "label": "SATOVI",
-      "count": 4,
-      "cover": "https://monochrome-watches.com/app/uploads/2023/07/richemont-group-luxury-results-sales-600x237.jpg"
+      "count": 5,
+      "cover": "https://monochrome-watches.com/app/uploads/2026/05/Union-Glashutte-Noramis-Date-Limited-Edition-Petro-Surf-2026-Fuchs-Inspired-Dial-1-600x237.jpg"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 28,
-      "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F21%2Feverything0.jpg?w=800&cbr=1&q=90&fit=max"
+      "count": 32,
+      "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F22%2Fnetflix-avatar-the-last-airbender-season-2-official-trailer-release-info-0.jpg?w=800&cbr=1&q=90&fit=max"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
       "count": 46,
-      "cover": "https://image.theregister.com/?imageId=4094195&width=800"
+      "cover": "https://www.engadget.com/img/gallery/bungie-reported-layoffs/l-intro-1779439378.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 125,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/seagrass-found-to-give-1.jpg"
+      "count": 111,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-complex-interactio.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 96,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a0c863918b95547f3230c71/0x0.jpg?width=960"
+      "count": 95,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a1012dcd004196271a0caf9/0x0.jpg?width=960"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 49,
-      "cover": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L0BK_L.jpg"
+      "count": 50,
+      "cover": "https://www.finance-monthly.com/wp-content/uploads/2026/05/pexels-tara-winstead-7111604-1024x682.jpg"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 23,
+      "count": 16,
       "cover": "https://www.freightwaves.com/wp-content/uploads/2026/05/21/sof-5-21.jpg"
     }
   ]

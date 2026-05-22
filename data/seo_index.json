@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-05-22T07:13:24+00:00",
+  "generated_at": "2026-05-22T09:07:37+00:00",
   "site": "https://aktualmedia.github.io/all-business-news/",
-  "author": "Nermin Sefić",
-  "author_url": "https://aktualmedia.github.io/all-business-news/autor/nermin-sefic.html",
-  "person_json": "https://aktualmedia.github.io/all-business-news/data/person.json",
-  "total_urls": 1251,
-  "news_urls": 200,
-  "posts_urls": 12,
-  "validated_posts": 2,
-  "authors_urls": 2,
-  "events_urls": 1,
-  "sitemap": "https://aktualmedia.github.io/all-business-news/sitemap.xml",
-  "news_sitemap": "https://aktualmedia.github.io/all-business-news/sitemap-news.xml",
+  "primary_sitemap": "https://aktualmedia.github.io/all-business-news/sitemap.xml",
+  "pages_sitemap": "https://aktualmedia.github.io/all-business-news/sitemap-pages.xml",
   "posts_sitemap": "https://aktualmedia.github.io/all-business-news/sitemap-posts.xml",
   "authors_sitemap": "https://aktualmedia.github.io/all-business-news/sitemap-authors.xml",
-  "events_sitemap": "https://aktualmedia.github.io/all-business-news/sitemap-events.xml",
-  "robots": "https://aktualmedia.github.io/all-business-news/robots.txt"
+  "indexable_pages": 23,
+  "indexable_original_posts": 5,
+  "policy": "canonical public pages and original numbered articles only"
 }

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-22T07:13:24.412079+00:00",
+  "updated_at": "2026-05-22T09:07:37.470579+00:00",
   "sources": 236,
-  "ok": 165,
+  "ok": 166,
   "problem": 54,
   "items": [
     {
@@ -1226,17 +1226,6 @@
       "error": ""
     },
     {
-      "id": "global-extra-032",
-      "name": "aBlogtoWatch - Google News",
-      "category": "satovi",
-      "url": "https://news.google.com/rss/search?q=site:ablogtowatch.com%20watches&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-152",
       "name": "Airport Technology",
       "category": "trzista",
@@ -1446,10 +1435,10 @@
       "error": ""
     },
     {
-      "id": "src-124",
-      "name": "Highsnobiety",
-      "category": "lifestyle",
-      "url": "https://www.highsnobiety.com/feed/",
+      "id": "src-103",
+      "name": "Hollywood Reporter",
+      "category": "kultura",
+      "url": "https://www.hollywoodreporter.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1457,10 +1446,10 @@
       "error": ""
     },
     {
-      "id": "src-103",
-      "name": "Hollywood Reporter",
-      "category": "kultura",
-      "url": "https://www.hollywoodreporter.com/feed/",
+      "id": "src-037",
+      "name": "Investing.com Economic Indicators",
+      "category": "financije",
+      "url": "https://www.investing.com/rss/forex.rss",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1710,6 +1699,17 @@
       "error": ""
     },
     {
+      "id": "global-extra-032",
+      "name": "aBlogtoWatch - Google News",
+      "category": "satovi",
+      "url": "https://news.google.com/rss/search?q=site:ablogtowatch.com%20watches&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-080",
       "name": "ESA",
       "category": "znanost",
@@ -1772,6 +1772,17 @@
       "status": "ok",
       "label": "radi",
       "count": 7,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-124",
+      "name": "Highsnobiety",
+      "category": "lifestyle",
+      "url": "https://www.highsnobiety.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 6,
       "score": 100,
       "error": ""
     },
@@ -1901,17 +1912,6 @@
       "name": "IMF Blog",
       "category": "ekonomija",
       "url": "https://www.imf.org/en/Blogs/RSS",
-      "status": "empty",
-      "label": "prazan feed",
-      "count": 0,
-      "score": 55,
-      "error": ""
-    },
-    {
-      "id": "src-037",
-      "name": "Investing.com Economic Indicators",
-      "category": "financije",
-      "url": "https://www.investing.com/rss/forex.rss",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,

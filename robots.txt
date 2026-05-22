@@ -2,6 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://aktualmedia.github.io/all-business-news/sitemap.xml
-
-# sitemap.xml je glavni indeks javnih stranica i autorskih objava.
-# Tehničke JSON datoteke portala ostaju dostupne za javni prikaz sadržaja.
