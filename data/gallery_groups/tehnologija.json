@@ -1,6 +1,160 @@
 [
   {
-    "id": "gal-22419545588562",
+    "id": "gal-69882624661990",
+    "title": "First-generation Chromecast users stressed by devices suddenly failing",
+    "description": "Google tells Ars it fixed the first-gen Chromecast bug.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1470646299-1152x648-1779483037.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
+    "created_at": "2026-05-22T21:42:59+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-86243237369049",
+    "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
+    "description": "FCC seeks opinions on whether ABC show's decisions are \"based on newsworthiness.\"",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-1152x648-1758655744.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
+    "created_at": "2026-05-22T21:10:46+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-33087471520391",
+    "title": "Your AI agents need a terminal, not just a vector database",
+    "description": "When agentic workflows fail, developers often assume the problem lies in the underlying model’s reasoning abilities. In reality, the limited information provided by the retrieval interface is often the primary limiting factor. Researchers at multiple universities propose a technique called direct corpus interaction (DCI) that lets agents bypass embedding models entirely, searching raw corpora directly using standard command-line tools. The limits of classic retrieval In classic retrieval systems such as RAG , documents are chunked, converted into vector representations (or embeddings), and indexed offline in a vector database. When an AI system processes a query, a retriever filters the entire database to return a ranked \"top-k\" list of document snippets that match the query. All evidence must pass through this scoring mechanism before any downstream reasoning occurs. But modern agentic",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/51KtnPJMnFTcVI5RCYgMb1/60e17e8e05411ce2080a43004719706a/ai_agent_using_the_terminal.png?w=300&q=30",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "VentureBeat",
+    "source_url": "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database",
+    "created_at": "2026-05-22T21:05:07+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-38417492655621",
+    "title": "Google is currently struggling to define words like disregard, stop and ignore",
+    "description": "The search engine's definitions have been replaced with AI Overviews.",
+    "image": "https://www.engadget.com/img/gallery/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/l-intro-1779486439.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Engadget",
+    "source_url": "https://www.engadget.com/2179762/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/",
+    "created_at": "2026-05-22T20:29:21+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-89476859280177",
+    "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
+    "description": "Workaround flouts law that bans NTSB disclosures of cockpit audio recordings.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-22-at-9.11.47-AM-1152x648.png",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+    "created_at": "2026-05-22T19:39:04+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-49571405735063",
+    "title": "The Boys is dead. Long live Vought Rising.",
+    "description": "\"There's a brighter future. All we need to do is take it.\"",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/vought1-1152x648.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/culture/2026/05/the-boys-is-dead-long-live-vought-rising/",
+    "created_at": "2026-05-22T19:02:48+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-90026094156059",
+    "title": "Megalodon chums the waters in 5.5K+ GitHub repo poisonings",
+    "description": "Will Jason Statham save us?",
+    "image": "https://image.theregister.com/?imageId=227881&width=800",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342",
+    "created_at": "2026-05-22T18:57:14+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-52646561588862",
+    "title": "Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
+    "description": "",
+    "image": "https://media.wired.com/photos/6a06188db84b146a9eec38c1/master/pass/Memorial%20Day%20Deals%20Tech%20top%20art%20052026%20SOURCE%20Amazon.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
+    "created_at": "2026-05-22T18:52:47+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-30109353571948",
+    "title": "Police boast of hacking VPN where criminals \"believed themselves to be safe\"",
+    "description": "Law enforcement intercepted VPN traffic, seized domains, and arrested its operator.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/first-vpn-1152x648-1779474790.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
+    "created_at": "2026-05-22T18:43:54+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-14947959799972",
+    "title": "Review: The Mandalorian and Grogu is ... fine",
+    "description": "The plot is predictable, the fight scenes are meh, but you can't beat the charm of that little green Grogu.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/mando1-1152x648.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/",
+    "created_at": "2026-05-22T18:30:06+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-39000541402707",
+    "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+    "description": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/whatsapp-1024x648.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+    "created_at": "2026-05-22T18:13:05+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-46889958664042",
     "title": "NASA is opening up bids for who will run the Jet Propulsion Laboratory",
     "description": "The JPL's current contract with Caltech ends in 2028.",
     "image": "https://www.engadget.com/img/gallery/nasa-is-opening-up-bids-for-who-will-run-the-jet-propulsion-laboratory/l-intro-1779472806.jpg",
@@ -14,7 +168,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-27756258302215",
+    "id": "gal-47065816712621",
     "title": "Catch up on the Dialogues stage at Google I/O 2026.",
     "description": "",
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp",
@@ -28,7 +182,21 @@
     "from_old_news": true
   },
   {
-    "id": "gal-12130659945504",
+    "id": "gal-10052115393524",
+    "title": "Before it comes down, what should be saved from the International Space Station?",
+    "description": "What went up cannot all come down (for museum display).",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/news-052226a-lg-1152x648.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/space/2026/05/before-it-comes-down-what-should-be-saved-from-the-international-space-station/",
+    "created_at": "2026-05-22T17:59:29+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-69961537241209",
     "title": "Shein Buying Everlane Actually Makes Perfect Sense",
     "description": "",
     "image": "https://media.wired.com/photos/6a0e432877419513babe1985/master/pass/Made-In-China-SHEIN-Buys-Everlane-Business.jpg",
@@ -42,7 +210,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-41704432672458",
+    "id": "gal-32343719982158",
     "title": "Memorial Day 2026 Grill and Griddle Deals: Weber, Traeger, Recteq",
     "description": "",
     "image": "https://media.wired.com/photos/6a10708e045b52d42fd7ced5/master/pass/Memorial%20Day%20Deals%20Grills%20top%20art%20052026%20SOURCE%20Amazon-Home%20Depot.jpg",
@@ -56,7 +224,21 @@
     "from_old_news": true
   },
   {
-    "id": "gal-18703367867100",
+    "id": "gal-79556662378127",
+    "title": "Marketer that claimed it could tap devices for ad targeting will pay $880K settlement",
+    "description": "Two additional marketing companies will also pay $25,000 each.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1344903607-1152x648.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/tech-policy/2026/05/marketer-that-claimed-it-could-tap-devices-for-ad-targeting-will-pay-880k-settlement/",
+    "created_at": "2026-05-22T17:48:03+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-56062173796422",
     "title": "Soaring solar and a surge in hydro push more coal off the US grid",
     "description": "The first data from 2026 seem to indicate that last year was an oddity.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/solar-panels-1000x648.jpg",
@@ -70,7 +252,21 @@
     "from_old_news": true
   },
   {
-    "id": "gal-30738249234563",
+    "id": "gal-60201518006800",
+    "title": "Datacenter builders face an impossible quandary: Demand to the left of me, protests to the right",
+    "description": "Wood Mackenzie analysts say bit barn operators are in a tough spot",
+    "image": "https://image.theregister.com/?imageId=252577&width=800",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/systems/2026/05/22/ai-datacenter-boom-collides-with-us-grid-reality/5245295",
+    "created_at": "2026-05-22T17:10:04+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-66761745777291",
     "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
     "description": "Trump delays AI safety testing EO, claiming it would be an innovation “blocker.”",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276026044-1152x648-1779465384.jpg",
@@ -84,7 +280,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-23908394202529",
+    "id": "gal-14582818510361",
     "title": "Trump Mobile has exposed customers' personal data, including home addresses and phone numbers",
     "description": "Trump Mobile admitted to the leak after people started finding that their information was publicly accessible.",
     "image": "https://www.engadget.com/img/gallery/trump-mobile-has-exposed-customers-personal-data-including-home-addresses-and-phone-numbers/l-intro-1779467072.jpg",
@@ -98,7 +294,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-18789553531723",
+    "id": "gal-39955535894598",
     "title": "The Steam Controller’s “drop-in” charger almost started a fire for this owner",
     "description": "Keep the charging puck’s exposed pins far away from anything metal.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/steampuck-1152x648.jpg",
@@ -112,7 +308,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-15808562792673",
+    "id": "gal-53912072030261",
     "title": "As memory prices squeeze enterprise buyers, Lenovo laughs all the way to the bank",
     "description": "Switch to premium devices pays off as PC giant post record record, just don't ask about cheap laptops",
     "image": "https://image.theregister.com/?imageId=4093591&width=800",
@@ -126,7 +322,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-72642274919290",
+    "id": "gal-15923680485513",
     "title": "Media giant settles for $930k with FTC over allegations it lied about eavesdropping on conversations through smart devices",
     "description": "Cox Media Group allegedly sold a bogus AI-powered snoopfest service",
     "image": "https://image.theregister.com/?imageId=255575&width=800",
@@ -140,7 +336,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-34908148267420",
+    "id": "gal-60843940980367",
     "title": "Routers vs. Modems: What You Need to Get Online",
     "description": "",
     "image": "https://media.wired.com/photos/6a0dfd9ddc47543f0fce9ed5/master/pass/Modem%20vs%20Router%20top%20art%20052026%20SOURCE%20Amazon.jpg",
@@ -154,7 +350,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-60775721816270",
+    "id": "gal-67413533977806",
     "title": "Even If You Hate AI, You Will Use Google AI Search",
     "description": "",
     "image": "https://media.wired.com/photos/6a0f3c884bfa87f10e0f1aa1/master/pass/Backchannel-Google-Search-Business-2276578156.jpg",
@@ -168,7 +364,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-71621895448574",
+    "id": "gal-46038055108661",
     "title": "NASA undertakes major reorganization to reduce bureaucracy and move faster",
     "description": "\"It is imperative to concentrate resources towards the highest priority objectives.\"",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2218040220-1024x648.jpg",
@@ -182,7 +378,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-77182995677411",
+    "id": "gal-30908990466662",
     "title": "Microsoft lets users exile floating Copilot button after interface rage",
     "description": "Listening to your customers? Who are you, and what have you done with Microsoft?",
     "image": "https://image.theregister.com/?imageId=5230512&width=800",
@@ -196,7 +392,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-67678869452624",
+    "id": "gal-56881395006369",
     "title": "AI put \"synthetic quotes\" in his book. But this author wants to keep using it.",
     "description": "Steven Rosenbaum explains how inaccurate quotes got into his book The Future of Truth .",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/ai-fabricated-quotes-Rosenbaum-1152x648.jpg",
@@ -210,7 +406,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-46666960276484",
+    "id": "gal-48905833908184",
     "title": "The Mandalorian and Grogu is a lazy attempt at bringing TV to the big screen",
     "description": "The Mandalorian and Grogu can't quite leave its TV origins behind.",
     "image": "https://www.engadget.com/img/gallery/the-mandalorian-and-grogu-is-a-lazy-attempt-at-bringing-tv-to-the-big-screen/l-intro-1779457810.jpg",
@@ -224,7 +420,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-10855738522469",
+    "id": "gal-20313590817063",
     "title": "AT&T sues to ditch Cali copper phone lines to save billions",
     "description": "Telecoms giant files suit in Golden State so it doesn't have to maintain network it claims is hardly used",
     "image": "https://image.theregister.com/?imageId=226807&width=800",
@@ -238,7 +434,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-34835375166749",
+    "id": "gal-87650960476540",
     "title": "D&B's database of 642 million businesses was built for humans, not AI agents. So they rebuilt it.",
     "description": "Dun & Bradstreet has spent over 180 years building a comprehensive commercial database. Its Commercial Graph, covering 642 million businesses and their relationships, corporate hierarchies and risk profiles, was designed for people. Credit analysts, risk managers and sales professionals who could wait for query results and work through ambiguous entity matches. AI agents cannot do any of those things. When D&B's customers started pushing agents into credit, procurement and supply chain workflows, the Commercial Graph that had reliably served nearly 200,000 customers globally became a problem. The systems built to serve human analysts were the wrong architecture for machines. So D&B rebuilt. \"We need to think about agents as our new consumer category, evolving from our standard credit analysts or sales and marketing professionals, et cetera, to also now catering to these customers' agents",
     "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5h07xIBH1aSM1191hKeXCx/17194ab3abc451c88f3c47324e72c0e6/agentic-context-graph-smk1.jpg?w=300&q=30",
@@ -252,7 +448,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-17374733653265",
+    "id": "gal-13702812841648",
     "title": "Oppo Find X9 Ultra vs. Vivo X300 Ultra: Battle of the telephoto smartphones",
     "description": "We put the Oppo Find X9 Ultra up against the Vivo X300 Ultra to see which telephoto smartphone reigns supreme.",
     "image": "https://www.engadget.com/img/gallery/oppo-find-x9-ultra-vs-vivo-x300-ultra-battle-of-the-telephoto-smartphones/l-intro-1779383819.jpg",
@@ -266,7 +462,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-82188480691438",
+    "id": "gal-65396030960149",
     "title": "Workday wants AI to punch in instead of having to hire new recruits",
     "description": "CEO eyes margin gains by keeping headcount flat – bold for a company selling HR software to employers",
     "image": "https://image.theregister.com/?imageId=5245073&width=800",
@@ -280,7 +476,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-71259117167946",
+    "id": "gal-33972862224086",
     "title": "FBI warns Kali365 phishing kit is stealing Microsoft OAuth tokens at scale",
     "description": "MFA? No problem, says crimeware that tricks users into handing attackers the keys to M365",
     "image": "https://image.theregister.com/?imageId=262937&width=800",
@@ -294,7 +490,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-42911476408017",
+    "id": "gal-77646254555761",
     "title": "Engadget Podcast: RGB, OLED and the TVs you should buy today",
     "description": "Which new TV should you buy? The Engadget Podcast dives into RGB LCDs, OLED and all the new TV tech",
     "image": "https://www.engadget.com/img/gallery/engadget-podcast-rgb-oled-and-the-tvs-you-should-buy-today/l-intro-1779452753.jpg",
@@ -308,7 +504,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-33143199993184",
+    "id": "gal-60493717991425",
     "title": "SpaceX will launch Starship V3 for its first test flight today",
     "description": "Watch SpaceX launch Starship V3 for the first time.",
     "image": "https://www.engadget.com/img/gallery/spacex-will-launch-starship-v3-for-its-first-test-flight-today/l-intro-1779451669.jpg",
@@ -322,7 +518,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-31539621629873",
+    "id": "gal-31464734120053",
     "title": "ZTE Day Indonesia 2026 strengthens AI innovation and digital infrastructure collaboration to accelerate Indonesia's digital transformation",
     "description": "The annual tech showcase highlights next-gen AI, cloud, and future-ready ICT solutions while uniting ecosystem partners to build the foundation for the nation's AI era",
     "image": "https://image.theregister.com/?imageId=5245060&width=800",
@@ -336,7 +532,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-87494834690674",
+    "id": "gal-49891650585572",
     "title": "SpaceX scrubs Starship launch with seconds to go",
     "description": "Not all bad news: Crypto billionaire signs up for a mission to Mars",
     "image": "https://image.theregister.com/?imageId=226873&width=800",
@@ -350,7 +546,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-89790748632605",
+    "id": "gal-67567895509392",
     "title": "Samsung Movingstyle M7 Review: A Screen on Wheels",
     "description": "",
     "image": "https://media.wired.com/photos/6a0e3bc2ebc845925eb93dd9/master/pass/Review%20samsung%20movingstyle%20m7%20052026%20SOURCE%20Amazon.jpg",
@@ -364,7 +560,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-35096537608713",
+    "id": "gal-40180850276702",
     "title": "ZTE unveils localized roadmap for Eurasia's digital future at GSMA M360 Eurasia 2026",
     "description": "Driving \"affordable AI\" through open ecosystems, anti-fragile infrastructure, and optimized TCO to empower local industries",
     "image": "https://image.theregister.com/?imageId=5245007&width=800",
@@ -378,7 +574,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-63418894700125",
+    "id": "gal-79341035842643",
     "title": "Best Vacuum Cleaner (2026): Cordless Vacuums, Robot Vacuums, Dysons",
     "description": "",
     "image": "https://media.wired.com/photos/6a0f57858c7714286687e471/master/pass/All%20the%20Best%20Vacuum%20Cleaners%20We%E2%80%99ve%20Ever%20Tried%20top%20art%20052026%20SOURCE%20Eufy-Bissell-Dyson.jpg",
@@ -392,7 +588,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-13050277074189",
+    "id": "gal-45999493737087",
     "title": "First vaccines, now mammograms? RFK Jr.’s latest firings have doctors outraged.",
     "description": "Doctors are angry and alarmed that preventive care could go the way of vaccines.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-1152x648.jpg",
@@ -402,244 +598,6 @@
     "source": "Ars Technica",
     "source_url": "https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel/",
     "created_at": "2026-05-22T11:30:38+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-21651463774409",
-    "title": "Outlook has an image problem",
-    "description": "Microsoft says classic client may lose embedded pictures thanks to wrapping bug",
-    "image": "https://image.theregister.com/?imageId=5237731&width=800",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/on-prem/2026/05/22/outlook-has-an-image-problem/5244844",
-    "created_at": "2026-05-22T11:29:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-10044626579832",
-    "title": "Rocket Report: Starship launch delayed, German launch company may aid Canada",
-    "description": "All eyes on South Texas for the latest Starship test flight.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HIu9mKcWAAAmrHQ-1152x648.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Ars Technica",
-    "source_url": "https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/",
-    "created_at": "2026-05-22T11:20:43+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-89411533059773",
-    "title": "The Morning After: The biggest news from Google I/O 2026",
-    "description": "Google I/O 2026 kicked off this week and to no one's surprise, it was almost completely about AI.",
-    "image": "https://www.engadget.com/img/gallery/the-morning-after-the-biggest-news-from-google-io-2026/l-intro-1779442968.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Engadget",
-    "source_url": "https://www.engadget.com/2179217/the-morning-after-the-biggest-news-from-google-io-2026/",
-    "created_at": "2026-05-22T11:15:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-88552548492533",
-    "title": "The 13 Best Fans to Buy Before It Gets Hot Again (2026)",
-    "description": "",
-    "image": "https://media.wired.com/photos/6a0dd6dc9ba3e3dc9d0ced2f/master/pass/Update%20The%20Best%20Fans%20to%20Buy%20Before%20It%20Gets%20Hot%20Again%20top%20art%20052026%20SOURCE%20Amazon-Sylvane.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Wired",
-    "source_url": "https://www.wired.com/story/the-best-fans-2026/",
-    "created_at": "2026-05-22T11:03:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-53692042520788",
-    "title": "The $58,000 TV bill: When DirecTV sued O.J. Simpson for piracy",
-    "description": "In 2001, the FBI raided O.J.'s house and found smartcards, bootloaders.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-51985137-1152x648-1779298700.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Ars Technica",
-    "source_url": "https://arstechnica.com/tech-policy/2026/05/the-58000-tv-bill-when-directv-sued-o-j-simpson-for-piracy/",
-    "created_at": "2026-05-22T11:00:43+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-34894247071317",
-    "title": "All the Fancy Measuring Devices Used in Science Rely on Two Stone-Age Techniques",
-    "description": "",
-    "image": "https://media.wired.com/photos/6a0f914d9e18cc3e8178a5a5/master/pass/GettyImages-2161734123%20copy.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Wired",
-    "source_url": "https://www.wired.com/story/story/all-measuring-devices-run-on-two-stone-age-techniques/",
-    "created_at": "2026-05-22T11:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-72536670418250",
-    "title": "Techie claims Trump Mobile website was leaking thousands of people's data",
-    "description": "Customers' info potentially handed to anyone who could send an HTTP request",
-    "image": "https://image.theregister.com/?imageId=254116&width=800",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/security/2026/05/22/trump-mobile-site-leaks-customer-data-as-phone-finally-ships/5244828",
-    "created_at": "2026-05-22T10:59:09+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-62923269011676",
-    "title": "Irish Rail writes down €50M after train IT project goes off the rails",
-    "description": "State-owned operator loses confidence in delayed traffic management system as politicians compare Ireland’s latest public-sector IT fiasco to 'Groundhog Day'",
-    "image": "https://image.theregister.com/?imageId=5244900&width=800",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/public-sector/2026/05/22/irish-rail-writes-down-50m-after-train-it-project-goes-off-the-rails/5244857",
-    "created_at": "2026-05-22T10:34:02+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-73020759242399",
-    "title": "A hacker group is poisoning open source code at an unprecedented scale",
-    "description": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2270725355-1152x648.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Ars Technica",
-    "source_url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
-    "created_at": "2026-05-22T10:30:14+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-51632050981164",
-    "title": "Valve Steam Controller Review (2026): Wait for the Steam Machine",
-    "description": "",
-    "image": "https://media.wired.com/photos/6a0b1a8f5b26f3e1da9832a7/master/pass/Steam%20Controller%20(3)top.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Wired",
-    "source_url": "https://www.wired.com/review/valve-steam-controller-2026/",
-    "created_at": "2026-05-22T10:30:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-45087379878601",
-    "title": "BOFH: Vibe-coded solutions arrive for problems nobody has",
-    "description": "The Boss gives common sense an AI wrapper",
-    "image": "https://image.theregister.com/?imageId=5244067&width=800",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/bofh/2026/05/22/bofh-vibe-coded-solutions-arrive-for-problems-nobody-has/5243976",
-    "created_at": "2026-05-22T10:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-29741202455460",
-    "title": "Razer Viper V4 Pro Review: Iterative Update Packs Big Performance",
-    "description": "",
-    "image": "https://media.wired.com/photos/6a0df479e29d602973ad0c80/master/pass/Review%20Razer%20Viper%20V4%20Pro%20top%20art%20052026%20SOURCE%20Amazon.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Wired",
-    "source_url": "https://www.wired.com/review/review-razer-viper-v4-pro/",
-    "created_at": "2026-05-22T09:32:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-46131397411969",
-    "title": "Finally, a Great Free Radio App for Windows",
-    "description": "",
-    "image": "https://media.wired.com/photos/6a0b416db68d07257efe6909/master/pass/Gear_FreeRadioAppForWindows.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Wired",
-    "source_url": "https://www.wired.com/story/trdo-is-a-great-free-radio-app-for-windows/",
-    "created_at": "2026-05-22T09:30:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-77948556618200",
-    "title": "Trump postpones AI oversight executive order",
-    "description": "Trump's AI order was reportedly delayed due to last-minute pressure from industry leaders.",
-    "image": "https://www.engadget.com/img/gallery/trump-postpones-ai-oversight-executive-order/l-intro-1779441949.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Engadget",
-    "source_url": "https://www.engadget.com/2179211/trump-postpones-ai-oversight-bill-after-big-tech-pressure/",
-    "created_at": "2026-05-22T09:25:59+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-15863416197140",
-    "title": "Burnham backlash: UK Digital ID plans in peril if Manchester mayor succeeds Starmer",
-    "description": "He'll have to beat Nigel Farage in a Brexit-backing constituency first, though",
-    "image": "https://image.theregister.com/?imageId=5243256&width=800",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/public-sector/2026/05/22/burnham-backlash-uk-digital-id-plans-in-peril-if-manchester-mayor-succeeds-starmer/5243195",
-    "created_at": "2026-05-22T09:15:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-82298913543881",
-    "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
-    "description": "",
-    "image": "https://media.wired.com/photos/6a0f1eac22b304758d42f327/master/pass/6a0ecc1805928bccd6b0e6c5_UnderwaterCables_Lead_autoxauto.0000001.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Wired",
-    "source_url": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
-    "created_at": "2026-05-22T09:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-43091010872857",
-    "title": "Destiny developer Bungie will reportedly lay off a 'significant number' of people",
-    "description": "Bungie is reportedly laying off a significant number of people and has not started work on Destiny 3.",
-    "image": "https://www.engadget.com/img/gallery/bungie-reported-layoffs/l-intro-1779439378.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Engadget",
-    "source_url": "https://www.engadget.com/2179194/bungie-reported-layoffs/",
-    "created_at": "2026-05-22T08:41:42+00:00",
     "gallery_source": "older_active_news",
     "from_old_news": true
   }

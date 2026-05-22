@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-22T21:53:47.097937+00:00",
+  "updated_at": "2026-05-22T22:21:29.692405+00:00",
   "sources": 236,
   "ok": 167,
-  "problem": 53,
+  "problem": 52,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -665,6 +665,17 @@
       "error": ""
     },
     {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-012",
       "name": "Mining.com Markets - Google News",
       "category": "trzista",
@@ -691,17 +702,6 @@
       "name": "National Jeweler - Google News",
       "category": "nakit",
       "url": "https://news.google.com/rss/search?q=site:nationaljeweler.com%20jewelry&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-083",
-      "name": "Nature News",
-      "category": "znanost",
-      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1963,6 +1963,17 @@
       "error": ""
     },
     {
+      "id": "src-083",
+      "name": "Nature News",
+      "category": "znanost",
+      "url": "https://www.nature.com/nature.rss",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
       "id": "src-003",
       "name": "Strategy+Business",
       "category": "poslovanje",
@@ -2381,17 +2392,6 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
       "id": "src-034",
       "name": "Nasdaq Markets",
       "category": "financije",
@@ -2521,7 +2521,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 503: Service Unavailable"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "src-130",
