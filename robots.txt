@@ -2,9 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://aktualmedia.github.io/all-business-news/sitemap.xml
-Sitemap: https://aktualmedia.github.io/all-business-news/sitemap-news.xml
-Sitemap: https://aktualmedia.github.io/all-business-news/sitemap-posts.xml
-Sitemap: https://aktualmedia.github.io/all-business-news/sitemap-authors.xml
-Sitemap: https://aktualmedia.github.io/all-business-news/sitemap-events.xml
 
-# Tehničke JSON datoteke dopuštene su za čitanje jer pune javni portal i strukturirane podatke.
+# sitemap.xml je glavni indeks javnih stranica i autorskih objava.
+# Tehničke JSON datoteke portala ostaju dostupne za javni prikaz sadržaja.
