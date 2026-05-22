@@ -1,51 +1,46 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Generira SEO datoteke za WEB VIJESTI / GitHub Pages."""
+"""Generira čiste SEO karte za WEB VIJESTI / GitHub Pages.
+
+Pravila:
+- sitemap.xml je sitemap index;
+- indeksiraju se stvarne javne rubrike i originalne autorske objave;
+- ne izlažu se prolazni agregatorski URL-ovi s query parametrima kao glavni SEO URL-ovi;
+- koristi se samo vjerodostojan lastmod, bez priority/changefreq elemenata.
+"""
 from __future__ import annotations
 
 import json
-import re
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import quote
 from xml.sax.saxutils import escape
 
 ROOT = Path(__file__).resolve().parent
 SITE = "https://aktualmedia.github.io/all-business-news/"
-NOW = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+TODAY = datetime.now(timezone.utc).date().isoformat()
 
-STATIC_URLS = [
-    ("", "hourly", "1.00"),
-    ("web-vijesti/index.html", "weekly", "0.96"),
-    ("aktual-media/index.html", "weekly", "0.94"),
-    ("nermin-sefic/index.html", "weekly", "0.96"),
-    ("autor/nermin-sefic.html", "weekly", "0.96"),
-    ("symbol-casopis/index.html", "weekly", "0.92"),
-    ("vijesti/index.html", "hourly", "0.95"),
-    ("objave/index.html", "daily", "0.94"),
-    ("symbol/index.html", "weekly", "0.88"),
-    ("symbol-galerija/index.html", "weekly", "0.86"),
-    ("digitalna-izdanja/index.html", "weekly", "0.84"),
-    ("galerija-real/index.html", "daily", "0.84"),
-    ("video/index.html", "daily", "0.80"),
-    ("radio/index.html", "weekly", "0.70"),
-    ("dogadjanja/index.html", "daily", "0.84"),
-    ("izvori/index.html", "daily", "0.78"),
-    ("status/index.html", "daily", "0.64"),
-    ("app/index.html", "weekly", "0.62"),
-    ("poslovanje/index.html", "hourly", "0.86"),
-    ("ekonomija/index.html", "hourly", "0.86"),
-    ("financije/index.html", "hourly", "0.86"),
-    ("trzista/index.html", "hourly", "0.86"),
-    ("kultura/index.html", "hourly", "0.84"),
-    ("dizajn/index.html", "daily", "0.82"),
-    ("tehnologija/index.html", "hourly", "0.84"),
-    ("znanost/index.html", "daily", "0.80"),
-    ("lifestyle/index.html", "daily", "0.80"),
-    ("hedonizam/index.html", "daily", "0.78"),
-    ("satovi/index.html", "daily", "0.76"),
-    ("nakit/index.html", "daily", "0.76"),
-    ("pica/index.html", "daily", "0.76"),
+PUBLIC_PAGES = [
+    "", "vijesti/index.html", "objave/index.html", "autor/nermin-sefic.html",
+    "poslovanje/index.html", "ekonomija/index.html", "financije/index.html",
+    "trzista/index.html", "tehnologija/index.html", "kultura/index.html",
+    "dizajn/index.html", "znanost/index.html", "lifestyle/index.html",
+    "hedonizam/index.html", "satovi/index.html", "nakit/index.html",
+    "pica/index.html", "galerija-real/index.html", "symbol/index.html",
+    "video/index.html", "radio/index.html", "dogadjanja/index.html",
+    "app/index.html"
+]
+
+PRESERVED_ORIGINAL_POSTS = [
+    {
+        "url": "objave/2026-05-18-vjerodostojnost-kao-poslovna-valuta.html",
+        "created_at": "2026-05-18",
+        "title": "Vjerodostojnost kao poslovna valuta"
+    },
+    {
+        "url": "objave/2026-05-18-digitalna-imovina-i-reputacija.html",
+        "created_at": "2026-05-18",
+        "title": "Digitalna imovina i reputacija"
+    }
 ]
 
 
@@ -65,172 +60,71 @@ def write(path: str, content: str):
     p.write_text(content, encoding="utf-8")
 
 
-def write_json(path: str, obj):
-    p = ROOT / path
-    p.parent.mkdir(parents=True, exist_ok=True)
-    p.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
+def absolute(path: str) -> str:
+    return SITE + str(path or "").lstrip("/")
 
 
-def textify(v: str) -> str:
-    v = re.sub(r"<[^>]+>", " ", str(v or ""))
-    return re.sub(r"\s+", " ", v).strip()
+def date_only(value: str | None) -> str:
+    value = str(value or "")
+    return value[:10] if len(value) >= 10 else TODAY
 
 
-def url(path: str) -> str:
-    return SITE + quote(path.lstrip("/"), safe="/:?=&%#.-_")
+def url_entry(path: str, modified: str) -> str:
+    return f"  <url>\n    <loc>{escape(absolute(path))}</loc>\n    <lastmod>{escape(date_only(modified))}</lastmod>\n  </url>"
 
 
-def parse_date(value: str) -> str:
-    if not value:
-        return NOW
-    s = str(value).replace("Z", "+00:00")
-    try:
-        return datetime.fromisoformat(s).astimezone(timezone.utc).replace(microsecond=0).isoformat()
-    except Exception:
-        return NOW
+def write_urlset(path: str, entries: list[str]):
+    write(path, '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + '\n'.join(entries) + '\n</urlset>\n')
 
 
-def sitemap_entry(loc: str, lastmod: str, changefreq: str, priority: str) -> str:
-    return (
-        "  <url>\n"
-        f"    <loc>{escape(loc)}</loc>\n"
-        f"    <lastmod>{escape(lastmod)}</lastmod>\n"
-        f"    <changefreq>{escape(changefreq)}</changefreq>\n"
-        f"    <priority>{escape(priority)}</priority>\n"
-        "  </url>"
-    )
-
-
-def write_sitemap(path: str, entries: list[str]):
-    write(path, "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n" + "\n".join(entries) + "\n</urlset>\n")
-
-
-def merge_posts(validated, legacy):
-    """Prefer validated original Nermin articles and avoid duplicate URLs/titles."""
-    merged = []
-    seen_paths = set()
-    seen_titles = set()
-    for item in list(validated if isinstance(validated, list) else []) + list(legacy if isinstance(legacy, list) else []):
-        if not isinstance(item, dict):
+def unique_original_posts():
+    validated = read_json("data/nermin_seo_posts.json", [])
+    items = list(validated if isinstance(validated, list) else []) + PRESERVED_ORIGINAL_POSTS
+    clean, urls, topics, titles = [], set(), set(), set()
+    for p in items:
+        if not isinstance(p, dict):
             continue
-        path = str(item.get("url") or item.get("local_url") or "").lstrip("/")
-        title = textify(item.get("title")).lower()
-        if not path or path.startswith("http") or path in seen_paths or title in seen_titles:
+        path = str(p.get("url") or p.get("local_url") or "").lstrip("/")
+        title = str(p.get("title") or "").strip().lower()
+        topic = str(p.get("topic_key") or title).strip().lower()
+        if not path or not title or path in urls or title in titles or topic in topics:
             continue
-        if item.get("validated_original_article") and int(item.get("word_count") or 0) < 300:
+        if p.get("validated_original_article") and int(p.get("word_count") or 0) < 300:
             continue
-        seen_paths.add(path)
-        seen_titles.add(title)
-        merged.append(item)
-    return merged
+        urls.add(path); titles.add(title); topics.add(topic); clean.append(p)
+    clean.sort(key=lambda p: str(p.get("created_at") or ""), reverse=True)
+    return clean
 
 
 def main():
-    news = read_json("data/news.json", [])
-    editions = read_json("data/editions.json", [])
-    posts = merge_posts(read_json("data/nermin_seo_posts.json", []), read_json("data/ai_posts.json", []))
-    events = read_json("data/events_calendar.json", [])
+    posts = unique_original_posts()
+    pages_entries = [url_entry(path, TODAY) for path in PUBLIC_PAGES]
+    post_entries = [url_entry(str(p.get("url") or p.get("local_url")), str(p.get("created_at") or TODAY)) for p in posts]
+    author_entries = [url_entry("autor/nermin-sefic.html", TODAY)]
 
-    entries = []
-    simple_urls = []
-    seen = set()
-    post_entries = []
-    author_entries = []
-    event_entries = []
+    write_urlset("sitemap-pages.xml", pages_entries)
+    write_urlset("sitemap-posts.xml", post_entries)
+    write_urlset("sitemap-authors.xml", author_entries)
 
-    def add(path: str, lastmod: str = NOW, changefreq: str = "weekly", priority: str = "0.60", bucket: list[str] | None = None):
-        loc = url(path)
-        if loc in seen:
-            return
-        seen.add(loc)
-        simple_urls.append(loc)
-        entry = sitemap_entry(loc, lastmod, changefreq, priority)
-        entries.append(entry)
-        if bucket is not None:
-            bucket.append(entry)
+    write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+          f'  <sitemap>\n    <loc>{SITE}sitemap-pages.xml</loc>\n    <lastmod>{TODAY}</lastmod>\n  </sitemap>\n'
+          f'  <sitemap>\n    <loc>{SITE}sitemap-posts.xml</loc>\n    <lastmod>{TODAY}</lastmod>\n  </sitemap>\n'
+          f'  <sitemap>\n    <loc>{SITE}sitemap-authors.xml</loc>\n    <lastmod>{TODAY}</lastmod>\n  </sitemap>\n'
+          '</sitemapindex>\n')
 
-    for path, freq, prio in STATIC_URLS:
-        author_bucket = author_entries if path.startswith("autor/") or path.startswith("nermin-sefic/") else None
-        add(path, NOW, freq, prio, author_bucket)
-
-    for p in posts:
-        path = str(p.get("url") or p.get("local_url") or "").lstrip("/")
-        if path and not path.startswith("http"):
-            priority = "0.90" if p.get("validated_original_article") else "0.84"
-            add(path, parse_date(p.get("published_at") or p.get("created_at") or p.get("date")), "weekly", priority, post_entries)
-
-    for e in editions if isinstance(editions, list) else []:
-        path = str(e.get("url") or "").lstrip("/")
-        if path and not path.startswith("http"):
-            add(path, parse_date(e.get("updated_at") or e.get("date")), "monthly", "0.74")
-
-    for idx, ev in enumerate(events[:300] if isinstance(events, list) else [], start=1):
-        base = "dogadjanja/index.html"
-        lastmod = parse_date(ev.get("fetched_at") or ev.get("datetime") or ev.get("date"))
-        add(base, lastmod, "daily", "0.72", event_entries if idx == 1 else None)
-        break
-
-    for idx, n in enumerate(news[:1200], start=1):
-        title = textify(n.get("title"))
-        if not title:
-            continue
-        path = str(n.get("local_url") or n.get("local_path") or "").lstrip("/")
-        if not path or path.startswith("http"):
-            path = f"citaj/index.html?u={quote(str(n.get('url') or ''), safe='')}&t={quote(title, safe='')}&s={quote(str(n.get('source') or ''), safe='')}&c={quote(str(n.get('category') or 'vijesti'), safe='')}"
-        prio = "0.72" if idx <= 80 else "0.58"
-        add(path, parse_date(n.get("published_at") or n.get("fetched_at")), "hourly" if idx <= 80 else "daily", prio)
-
-    write_sitemap("sitemap.xml", entries)
-
-    news_entries = []
-    for idx, n in enumerate(news[:200], start=1):
-        title = textify(n.get("title"))
-        if not title:
-            continue
-        path = str(n.get("local_url") or n.get("local_path") or "").lstrip("/")
-        if not path or path.startswith("http"):
-            path = f"citaj/index.html?u={quote(str(n.get('url') or ''), safe='')}&t={quote(title, safe='')}&s={quote(str(n.get('source') or ''), safe='')}&c={quote(str(n.get('category') or 'vijesti'), safe='')}"
-        news_entries.append(sitemap_entry(url(path), parse_date(n.get("published_at") or n.get("fetched_at")), "hourly", "0.76" if idx <= 50 else "0.64"))
-    write_sitemap("sitemap-news.xml", news_entries)
-    write_sitemap("sitemap-posts.xml", post_entries)
-    write_sitemap("sitemap-authors.xml", author_entries)
-    write_sitemap("sitemap-events.xml", event_entries or [sitemap_entry(url("dogadjanja/index.html"), NOW, "daily", "0.78")])
-
-    write("urllist.txt", "\n".join(simple_urls) + "\n")
-    write("site.webmanifest", json.dumps({
-        "name": "WEB VIJESTI / All Business News",
-        "short_name": "WEB VIJESTI",
-        "start_url": "/all-business-news/",
-        "scope": "/all-business-news/",
-        "display": "standalone",
-        "background_color": "#ffffff",
-        "theme_color": "#111111",
-        "description": "Pregled poslovnih, ekonomskih, tehnoloških, kulturnih i autorskih vijesti. Autor objava: Nermin Sefić.",
-        "lang": "hr-HR"
-    }, ensure_ascii=False, indent=2))
-
-    write("llms.txt", "# WEB VIJESTI / All Business News\n\nSlužbena stranica: https://aktualmedia.github.io/all-business-news/\n\nAutor objava: Nermin Sefić\nAutorski profil: https://aktualmedia.github.io/all-business-news/autor/nermin-sefic.html\nPerson JSON-LD: https://aktualmedia.github.io/all-business-news/data/person.json\n\nGlavne rubrike:\n- Vijesti: poslovanje, ekonomija, financije, tržišta, tehnologija, kultura, dizajn, znanost, lifestyle, hedonizam, satovi, nakit i pića.\n- Objave: autorski tekstovi Nermina Sefića o ekonomiji, businessu, poduzetništvu, kapitalu, reputaciji i digitalnoj imovini.\n- Događanja: kazališta, premijere, opere, baleti, muzeji, galerije i izložbe.\n- Symbol: digitalna izdanja i PDF pregled.\n\nSitemap: https://aktualmedia.github.io/all-business-news/sitemap.xml\nNews sitemap: https://aktualmedia.github.io/all-business-news/sitemap-news.xml\nPosts sitemap: https://aktualmedia.github.io/all-business-news/sitemap-posts.xml\nAuthors sitemap: https://aktualmedia.github.io/all-business-news/sitemap-authors.xml\nEvents sitemap: https://aktualmedia.github.io/all-business-news/sitemap-events.xml\n")
-
-    write_json("data/seo_index.json", {
-        "generated_at": NOW,
+    write("robots.txt", 'User-agent: *\nAllow: /\n\nSitemap: ' + SITE + 'sitemap.xml\n')
+    write("data/seo_index.json", json.dumps({
+        "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
         "site": SITE,
-        "author": "Nermin Sefić",
-        "author_url": SITE + "autor/nermin-sefic.html",
-        "person_json": SITE + "data/person.json",
-        "total_urls": len(simple_urls),
-        "news_urls": len(news_entries),
-        "posts_urls": len(post_entries),
-        "validated_posts": len([p for p in posts if p.get("validated_original_article")]),
-        "authors_urls": len(author_entries),
-        "events_urls": len(event_entries) or 1,
-        "sitemap": SITE + "sitemap.xml",
-        "news_sitemap": SITE + "sitemap-news.xml",
+        "primary_sitemap": SITE + "sitemap.xml",
+        "pages_sitemap": SITE + "sitemap-pages.xml",
         "posts_sitemap": SITE + "sitemap-posts.xml",
         "authors_sitemap": SITE + "sitemap-authors.xml",
-        "events_sitemap": SITE + "sitemap-events.xml",
-        "robots": SITE + "robots.txt"
-    })
-    print(f"SEO OK: {len(simple_urls)} URL-ova, news {len(news_entries)}, posts {len(post_entries)}, validated {len([p for p in posts if p.get('validated_original_article')])}")
+        "indexable_pages": len(PUBLIC_PAGES),
+        "indexable_original_posts": len(posts),
+        "policy": "canonical public pages and original numbered articles only"
+    }, ensure_ascii=False, indent=2))
+    print(f"SEO OK: {len(PUBLIC_PAGES)} javnih stranica, {len(posts)} originalnih objava")
 
 
 if __name__ == "__main__":
