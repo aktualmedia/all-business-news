@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-22T17:34:23.477512+00:00",
+  "updated_at": "2026-05-22T18:22:11.928384+00:00",
   "sources": 236,
   "ok": 166,
-  "problem": 53,
+  "problem": 55,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -665,17 +665,6 @@
       "error": ""
     },
     {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-012",
       "name": "Mining.com Markets - Google News",
       "category": "trzista",
@@ -691,6 +680,17 @@
       "name": "NBER Digest",
       "category": "ekonomija",
       "url": "https://www.nber.org/rss/new.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-083",
+      "name": "Nature News",
+      "category": "znanost",
+      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1017,6 +1017,17 @@
       "error": ""
     },
     {
+      "id": "global-extra-020",
+      "name": "The Verge Technology - Google News",
+      "category": "tehnologija",
+      "url": "https://news.google.com/rss/search?q=site:theverge.com%20technology&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-026",
       "name": "Travel + Leisure - Google News",
       "category": "lifestyle",
@@ -1197,17 +1208,6 @@
       "name": "Supply Chain Brain",
       "category": "trzista",
       "url": "https://www.supplychainbrain.com/rss/topic/1145-news",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "global-extra-020",
-      "name": "The Verge Technology - Google News",
-      "category": "tehnologija",
-      "url": "https://news.google.com/rss/search?q=site:theverge.com%20technology&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1479,17 +1479,6 @@
       "error": ""
     },
     {
-      "id": "src-138",
-      "name": "LSE Business Review",
-      "category": "ekonomija",
-      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-150",
       "name": "Logistics Manager",
       "category": "trzista",
@@ -1560,6 +1549,17 @@
       "name": "Monochrome Watches",
       "category": "satovi",
       "url": "https://monochrome-watches.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-098",
+      "name": "MuseumNext",
+      "category": "kultura",
+      "url": "https://www.museumnext.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1934,28 +1934,6 @@
       "name": "Kellogg Insight",
       "category": "poslovanje",
       "url": "https://insight.kellogg.northwestern.edu/feed",
-      "status": "empty",
-      "label": "prazan feed",
-      "count": 0,
-      "score": 55,
-      "error": ""
-    },
-    {
-      "id": "src-098",
-      "name": "MuseumNext",
-      "category": "kultura",
-      "url": "https://www.museumnext.com/feed/",
-      "status": "empty",
-      "label": "prazan feed",
-      "count": 0,
-      "score": 55,
-      "error": ""
-    },
-    {
-      "id": "src-083",
-      "name": "Nature News",
-      "category": "znanost",
-      "url": "https://www.nature.com/nature.rss",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -2381,6 +2359,17 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
+      "id": "src-138",
+      "name": "LSE Business Review",
+      "category": "ekonomija",
+      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
       "id": "src-127",
       "name": "Lonely Planet",
       "category": "lifestyle",
@@ -2390,6 +2379,17 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-034",

@@ -1,78 +1,78 @@
 {
-  "updated_at": "2026-05-22T14:37:27.296388+00:00",
+  "updated_at": "2026-05-22T18:22:11.889062+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 96,
-      "cover": "https://variety.com/wp-content/uploads/2026/05/GettyImages-2277345867.jpg"
+      "count": 87,
+      "cover": "https://th-thumbnailer.cdn-si-edu.com/_bTLg1ioo-j3m1ep_SaYpZ66z2A=/420x240/filters:focal(1950x2043:1951x2044)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/92/3b/923b410a-898a-4120-bd32-66ee0f394879/gettyimages-1352888016.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 36,
-      "cover": "https://www.yankodesign.com/images/design_news/2026/05/one-speaker-10-drivers-400-watts-dalis-vega-changes-the-game/vega-01.jpg"
+      "count": 21,
+      "cover": "https://www.yankodesign.com/images/design_news/2026/05/halcyon-grand/halcyon_grand_yanko_design_01.jpg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 7,
-      "cover": "https://robbreport.com/wp-content/uploads/2026/05/Banner-Images_1000x1000-11.png"
+      "count": 6,
+      "cover": "https://robbreport.com/wp-content/uploads/2026/05/KenGriffeyJr.House_FI.jpg"
     },
     {
       "id": "hrana",
       "label": "HRANA",
-      "count": 1,
-      "cover": "https://assets.bonappetit.com/photos/6765c92475e08750ee022ae4/master/pass/pistachio-bundt-cake-lemon-cream-cheese-glaze_RECIPE_V3_121924_8820_VOG_NoBadge_final.jpg"
+      "count": 5,
+      "cover": "https://assets.bonappetit.com/photos/6a107f7972c7032b7327abbd/master/pass/GettyImages-2268057491.jpg"
     },
     {
       "id": "pica",
       "label": "PIĆA",
-      "count": 28,
-      "cover": "https://www.thespiritsbusiness.com/content/uploads/2026/05/DropWorks-Rum-Distillery.jpg"
+      "count": 20,
+      "cover": "https://www.thedrinksbusiness.com/content/uploads/2026/05/iStock-1127201580-scaled.jpg"
     },
     {
       "id": "satovi",
       "label": "SATOVI",
-      "count": 5,
-      "cover": "https://monochrome-watches.com/app/uploads/2026/05/Marco-Tedeschi-MT1.1-Le-Tourbillon-7-Jours-review-2-600x237.jpg"
+      "count": 6,
+      "cover": "https://monochrome-watches.com/app/uploads/2026/05/marco-lang-seven-spheres-review-seven-axis-tourbillon-4-600x237.jpg"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 35,
-      "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F22%2Ffear-of-god-mlb-essentials-spring-2026-collection-release-info.jpg?w=800&cbr=1&q=90&fit=max"
+      "count": 34,
+      "cover": "https://img.atlasobscura.com/gcc2ha6yNxUtFiO6viNwiErsWz_lIo6D66UVsFljYQ0/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jYWY1/ZWRjZC05M2JhLTQ0/NjQtYjMxNy0wZTM4/NmM5YjYyNjU0ZWI5/NTJjZmM5NTE3OGI2/OWNfQkU2MDIyN0It/MDk4OS00N0FDLTkx/ODEtQzE0MjNFNzky/QTIxXzFfMTAyX28u/anBlZw.jpg"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 52,
-      "cover": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/ai-fabricated-quotes-Rosenbaum-1152x648.jpg"
+      "count": 46,
+      "cover": "https://www.engadget.com/img/gallery/nasa-is-opening-up-bids-for-who-will-run-the-jet-propulsion-laboratory/l-intro-1779472806.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 79,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/adolescents-2.jpg"
+      "count": 84,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2023/pill-icon.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 86,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/62792c6a8956d9e3f1ed076c/0x0.jpg?width=960"
+      "count": 98,
+      "cover": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2243105019.jpg"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 62,
-      "cover": "https://images.mktw.net/im-76366035"
+      "count": 66,
+      "cover": "https://images.mktw.net/im-65947404"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 13,
-      "cover": "https://www.freightwaves.com/wp-content/uploads/2026/05/21/Port_Houston_April-cargo.jpg"
+      "count": 27,
+      "cover": "https://www.freightwaves.com/wp-content/uploads/2024/11/19/DGNOtrainDallas.jpeg"
     }
   ]
 }
