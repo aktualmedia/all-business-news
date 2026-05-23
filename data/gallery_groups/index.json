@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-23T20:17:11.476497+00:00",
+  "updated_at": "2026-05-23T23:49:20.982471+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 105,
-      "cover": "https://variety.com/wp-content/uploads/2026/05/Streisand.jpg"
+      "count": 111,
+      "cover": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2277878323-e1779570119292.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 26,
-      "cover": "https://www.yankodesign.com/images/design_news/2026/05/10-minimalist-desk-accessories-that-earn-their-footprint/oakywood-desk-shelf-pro-02.jpg"
+      "count": 29,
+      "cover": "https://www.yankodesign.com/images/design_news/2026/05/draft-navy-seal-museum/navy_seal_museum_yanko_design_01.jpg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 9,
+      "count": 8,
       "cover": "https://robbreport.com/wp-content/uploads/2026/05/Jeremy_King_Simpsons_Chris_Floyd_085_lores_RT-1.jpg"
     },
     {
@@ -35,43 +35,43 @@
     {
       "id": "satovi",
       "label": "SATOVI",
-      "count": 6,
+      "count": 5,
       "cover": "https://monochrome-watches.com/app/uploads/2025/01/Greubel-Forsey-Hand-Made-2-watch-9-600x237.jpg"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 17,
+      "count": 13,
       "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2Fgraphic-t-shirt-gray-product-1-72813ee2_1779545581.jpg?w=800&cbr=1&q=90&fit=max"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 54,
-      "cover": "https://www.engadget.com/img/gallery/what-to-read-this-weekend-the-new-image-comics-miniseries-of-the-earth/l-intro-1779562271.jpg"
+      "count": 56,
+      "cover": "https://www.engadget.com/img/gallery/ansel-adams-trust-says-ai-colorized-version-of-his-work-was-exhibited-without-permission/l-intro-1779567408.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 74,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2025/forensic-1.jpg"
+      "count": 73,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/vanderbilt-professor-d.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 137,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a11bc02c273976f9e85269d/0x0.jpg?width=960&precrop=1466%2C906%2Cx0%2Cy70"
+      "count": 131,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/69f6acd10084fb39b46f00b0/0x0.jpg?width=960"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 60,
-      "cover": "https://images.mktw.net/im-96636188"
+      "count": 63,
+      "cover": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M0LE_L.jpg"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 10,
+      "count": 9,
       "cover": "https://www.freightwaves.com/wp-content/uploads/2026/03/03/Front-view-of-two-tractor-trailers-on-a-highway.jpg"
     }
   ]

@@ -9,7 +9,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-23T23:14:03.371020+00:00"
+    "fetched_at": "2026-05-23T23:43:40.505227+00:00"
   },
   {
     "id": "518893cda3595307",
@@ -21,7 +21,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-23T23:14:03.371072+00:00"
+    "fetched_at": "2026-05-23T23:43:40.505281+00:00"
   },
   {
     "id": "a85a64336941fc6a",
@@ -33,7 +33,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-23T23:14:03.371116+00:00"
+    "fetched_at": "2026-05-23T23:43:40.505330+00:00"
   },
   {
     "id": "2e1458e924954e4f",
@@ -108,18 +108,6 @@
     "fetched_at": "2026-05-18T12:20:05.331874+00:00"
   },
   {
-    "id": "77cb9bc8323d1bff",
-    "title": "Primary care, reimagined: Workforce and care model innovation in a modern age",
-    "description": "Inequitable access to primary care jeopardizes the health of millions of Americans, especially in rural communities, resulting in the equivalent of 45 million people with unmet primary care needs.",
-    "url": "https://www.mckinsey.com/mhi/our-insights/primary-care-reimagined-workforce-and-care-model-innovation-in-a-modern-age",
-    "image": "https://picsum.photos/seed/wv-news-428eb3a05976/1200/750",
-    "source": "McKinsey Insights",
-    "source_id": "src-004",
-    "category": "poslovanje",
-    "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-23T23:14:03.371159+00:00"
-  },
-  {
     "id": "afe04b4cab8b18fe",
     "title": "For industrials, the next decade belongs to builders",
     "description": "As core growth stalls, a small set of AI-enabled business-building plays is emerging as the fastest path to new revenue for industrial and energy leaders that know how to execute successfully.",
@@ -129,7 +117,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-23T23:14:03.371204+00:00"
+    "fetched_at": "2026-05-23T23:43:40.505376+00:00"
+  },
+  {
+    "id": "77cb9bc8323d1bff",
+    "title": "Primary care, reimagined: Workforce and care model innovation in a modern age",
+    "description": "Inequitable access to primary care jeopardizes the health of millions of Americans, especially in rural communities, resulting in the equivalent of 45 million people with unmet primary care needs.",
+    "url": "https://www.mckinsey.com/mhi/our-insights/primary-care-reimagined-workforce-and-care-model-innovation-in-a-modern-age",
+    "image": "https://picsum.photos/seed/wv-news-428eb3a05976/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Tue, 19 May 2026",
+    "fetched_at": "2026-05-23T23:43:40.505422+00:00"
   },
   {
     "id": "25b3dba7ac823a67",
@@ -165,7 +165,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-23T23:14:03.370781+00:00"
+    "fetched_at": "2026-05-23T23:43:40.504975+00:00"
   },
   {
     "id": "c1e318d2391644ae",
@@ -177,7 +177,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-23T23:14:03.370828+00:00"
+    "fetched_at": "2026-05-23T23:43:40.505024+00:00"
   },
   {
     "id": "c40b3cdc959689d5",
@@ -189,19 +189,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-23T23:14:03.370883+00:00"
-  },
-  {
-    "id": "e1ec5383ee11f320",
-    "title": "Ramping up manufacturing in America?",
-    "description": "Probing how much manufacturing ramp-up would be needed to address US trade dependencies.",
-    "url": "https://www.mckinsey.com/mgi/our-research/ramping-up-manufacturing-in-america",
-    "image": "https://picsum.photos/seed/wv-news-54703be3cccd/1200/750",
-    "source": "McKinsey Insights",
-    "source_id": "src-004",
-    "category": "poslovanje",
-    "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-23T23:14:03.370921+00:00"
+    "fetched_at": "2026-05-23T23:43:40.505080+00:00"
   },
   {
     "id": "0a9048444929a690",
@@ -213,7 +201,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-23T23:14:03.370977+00:00"
+    "fetched_at": "2026-05-23T23:43:40.505138+00:00"
+  },
+  {
+    "id": "e1ec5383ee11f320",
+    "title": "Ramping up manufacturing in America?",
+    "description": "Probing how much manufacturing ramp-up would be needed to address US trade dependencies.",
+    "url": "https://www.mckinsey.com/mgi/our-research/ramping-up-manufacturing-in-america",
+    "image": "https://picsum.photos/seed/wv-news-54703be3cccd/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Thu, 21 May 2026",
+    "fetched_at": "2026-05-23T23:43:40.505182+00:00"
   },
   {
     "id": "b4cea2ca3d77a858",
@@ -321,7 +321,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 22 May 2026",
-    "fetched_at": "2026-05-23T23:14:03.370709+00:00"
+    "fetched_at": "2026-05-23T23:43:40.504924+00:00"
   },
   {
     "id": "415368da854b2685",
@@ -368,8 +368,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T23:18:39.328251+00:00",
-    "fetched_at": "2026-05-23T23:18:39.328253+00:00",
+    "published_at": "2026-05-23T23:49:01.825411+00:00",
+    "fetched_at": "2026-05-23T23:49:01.825413+00:00",
     "missing_core_fill": true
   },
   {
@@ -381,8 +381,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T23:18:39.328203+00:00",
-    "fetched_at": "2026-05-23T23:18:39.328205+00:00",
+    "published_at": "2026-05-23T23:49:01.825365+00:00",
+    "fetched_at": "2026-05-23T23:49:01.825367+00:00",
     "missing_core_fill": true
   },
   {
@@ -394,8 +394,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T23:18:39.328156+00:00",
-    "fetched_at": "2026-05-23T23:18:39.328158+00:00",
+    "published_at": "2026-05-23T23:49:01.825322+00:00",
+    "fetched_at": "2026-05-23T23:49:01.825324+00:00",
     "missing_core_fill": true
   },
   {
@@ -407,8 +407,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T23:18:39.328101+00:00",
-    "fetched_at": "2026-05-23T23:18:39.328103+00:00",
+    "published_at": "2026-05-23T23:49:01.825273+00:00",
+    "fetched_at": "2026-05-23T23:49:01.825275+00:00",
     "missing_core_fill": true
   },
   {
@@ -420,8 +420,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T23:18:39.328056+00:00",
-    "fetched_at": "2026-05-23T23:18:39.328058+00:00",
+    "published_at": "2026-05-23T23:49:01.825231+00:00",
+    "fetched_at": "2026-05-23T23:49:01.825233+00:00",
     "missing_core_fill": true
   },
   {
@@ -433,8 +433,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T23:18:39.328005+00:00",
-    "fetched_at": "2026-05-23T23:18:39.328007+00:00",
+    "published_at": "2026-05-23T23:49:01.825183+00:00",
+    "fetched_at": "2026-05-23T23:49:01.825185+00:00",
     "missing_core_fill": true
   },
   {
@@ -446,8 +446,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T23:18:39.327948+00:00",
-    "fetched_at": "2026-05-23T23:18:39.327950+00:00",
+    "published_at": "2026-05-23T23:49:01.825132+00:00",
+    "fetched_at": "2026-05-23T23:49:01.825134+00:00",
     "missing_core_fill": true
   },
   {
@@ -459,8 +459,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T23:18:39.327895+00:00",
-    "fetched_at": "2026-05-23T23:18:39.327897+00:00",
+    "published_at": "2026-05-23T23:49:01.825084+00:00",
+    "fetched_at": "2026-05-23T23:49:01.825086+00:00",
     "missing_core_fill": true
   },
   {
@@ -472,8 +472,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T23:18:39.327829+00:00",
-    "fetched_at": "2026-05-23T23:18:39.327832+00:00",
+    "published_at": "2026-05-23T23:49:01.825025+00:00",
+    "fetched_at": "2026-05-23T23:49:01.825028+00:00",
     "missing_core_fill": true
   },
   {
@@ -485,8 +485,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T23:18:39.327745+00:00",
-    "fetched_at": "2026-05-23T23:18:39.327762+00:00",
+    "published_at": "2026-05-23T23:49:01.824955+00:00",
+    "fetched_at": "2026-05-23T23:49:01.824965+00:00",
     "missing_core_fill": true
   },
   {
@@ -498,8 +498,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T23:18:32.751126+00:00",
-    "fetched_at": "2026-05-23T23:18:32.751128+00:00",
+    "published_at": "2026-05-23T23:48:52.898057+00:00",
+    "fetched_at": "2026-05-23T23:48:52.898059+00:00",
     "missing_core_fill": true
   },
   {
@@ -511,8 +511,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T23:18:32.751078+00:00",
-    "fetched_at": "2026-05-23T23:18:32.751080+00:00",
+    "published_at": "2026-05-23T23:48:52.898012+00:00",
+    "fetched_at": "2026-05-23T23:48:52.898014+00:00",
     "missing_core_fill": true
   },
   {
@@ -524,8 +524,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T23:18:32.751025+00:00",
-    "fetched_at": "2026-05-23T23:18:32.751027+00:00",
+    "published_at": "2026-05-23T23:48:52.897964+00:00",
+    "fetched_at": "2026-05-23T23:48:52.897966+00:00",
     "missing_core_fill": true
   },
   {
@@ -537,8 +537,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T23:18:32.750969+00:00",
-    "fetched_at": "2026-05-23T23:18:32.750971+00:00",
+    "published_at": "2026-05-23T23:48:52.897912+00:00",
+    "fetched_at": "2026-05-23T23:48:52.897914+00:00",
     "missing_core_fill": true
   },
   {
@@ -550,8 +550,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T23:18:32.750909+00:00",
-    "fetched_at": "2026-05-23T23:18:32.750911+00:00",
+    "published_at": "2026-05-23T23:48:52.897858+00:00",
+    "fetched_at": "2026-05-23T23:48:52.897860+00:00",
     "missing_core_fill": true
   },
   {
@@ -563,8 +563,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T23:18:32.750856+00:00",
-    "fetched_at": "2026-05-23T23:18:32.750858+00:00",
+    "published_at": "2026-05-23T23:48:52.897809+00:00",
+    "fetched_at": "2026-05-23T23:48:52.897811+00:00",
     "missing_core_fill": true
   },
   {
@@ -576,8 +576,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T23:18:32.750810+00:00",
-    "fetched_at": "2026-05-23T23:18:32.750812+00:00",
+    "published_at": "2026-05-23T23:48:52.897765+00:00",
+    "fetched_at": "2026-05-23T23:48:52.897767+00:00",
     "missing_core_fill": true
   },
   {
@@ -589,8 +589,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T23:18:32.750761+00:00",
-    "fetched_at": "2026-05-23T23:18:32.750763+00:00",
+    "published_at": "2026-05-23T23:48:52.897719+00:00",
+    "fetched_at": "2026-05-23T23:48:52.897722+00:00",
     "missing_core_fill": true
   },
   {
@@ -602,8 +602,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T23:18:32.750705+00:00",
-    "fetched_at": "2026-05-23T23:18:32.750707+00:00",
+    "published_at": "2026-05-23T23:48:52.897667+00:00",
+    "fetched_at": "2026-05-23T23:48:52.897670+00:00",
     "missing_core_fill": true
   },
   {
@@ -615,138 +615,138 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T23:18:32.750632+00:00",
-    "fetched_at": "2026-05-23T23:18:32.750641+00:00",
+    "published_at": "2026-05-23T23:48:52.897604+00:00",
+    "fetched_at": "2026-05-23T23:48:52.897614+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "c80e89e2a4e727c2",
-    "title": "Why airlines look set for winter capacity cuts",
+    "id": "fb63dbe20e78024a",
+    "title": "Brookdale Senior Living’s SWOT analysis: stock gains momentum on occupancy surge",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/stock-market-news/why-airlines-look-set-for-winter-capacity-cuts-4708093",
-    "image": "https://i-invdn-com.investing.com/news/LYNXNPEC502XS_M.jpg",
+    "url": "https://www.investing.com/news/swot-analysis/brookdale-senior-livings-swot-analysis-stock-gains-momentum-on-occupancy-surge-93CH-4708101",
+    "image": "https://picsum.photos/seed/wv-core-c09bf6b39cf4/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T23:18:26.027250+00:00",
-    "fetched_at": "2026-05-23T23:18:26.027251+00:00",
+    "published_at": "2026-05-23T23:48:43.748807+00:00",
+    "fetched_at": "2026-05-23T23:48:43.748809+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "1083a5cd9bacee28",
-    "title": "Wells Fargo’s SWOT analysis: stock navigates asset cap removal",
+    "id": "023df3e0099edf20",
+    "title": "Central Securities stock hits 52-week high at 53.15 USD",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/swot-analysis/wells-fargos-swot-analysis-stock-navigates-asset-cap-removal-93CH-4708094",
-    "image": "https://i-invdn-com.investing.com/news/LYNXMPEA670SW_M.jpg",
+    "url": "https://www.investing.com/news/company-news/central-securities-stock-hits-52week-high-at-5315-usd-93CH-4708102",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T23:18:26.027227+00:00",
-    "fetched_at": "2026-05-23T23:18:26.027229+00:00",
+    "published_at": "2026-05-23T23:48:43.748767+00:00",
+    "fetched_at": "2026-05-23T23:48:43.748769+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "290daa254d736efc",
-    "title": "Trump says framework of Iran deal ’largely negotiated,’ with provision to reopen strait",
+    "id": "2fc6dde5e4678dc1",
+    "title": "Penumbra stock hits 52-week high at $328.69",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/commodities-news/us-and-iran-report-progress-on-talks-ending-war-looking-to-next-few-days-4708058",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M0D2_L.jpg",
+    "url": "https://www.investing.com/news/company-news/penumbra-stock-hits-52week-high-at-32869-93CH-4708103",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T23:18:26.027186+00:00",
-    "fetched_at": "2026-05-23T23:18:26.027188+00:00",
+    "published_at": "2026-05-23T23:48:43.748744+00:00",
+    "fetched_at": "2026-05-23T23:48:43.748746+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "2008bb78de2a8c7a",
-    "title": "California chemical tank heating up after evacuation in LA suburb, fire official says",
+    "id": "9d35e928092a21e0",
+    "title": "Sprott Physical Gold and Silver Trust stock hits all-time high of 47.33 USD",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/world-news/california-chemical-tank-heating-up-after-evacuation-in-la-suburb-fire-official-4708092",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M0SE_L.jpg",
+    "url": "https://www.investing.com/news/company-news/sprott-physical-gold-and-silver-trust-stock-hits-alltime-high-of-4733-usd-93CH-4708104",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T23:18:26.027155+00:00",
-    "fetched_at": "2026-05-23T23:18:26.027157+00:00",
+    "published_at": "2026-05-23T23:48:43.748722+00:00",
+    "fetched_at": "2026-05-23T23:48:43.748724+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "4925f72edc48be40",
-    "title": "Huntington Bancshares’ SWOT analysis: stock faces integration test amid expansion",
+    "id": "2ea12d338796ead7",
+    "title": "American Financial Group stock hits 52-week low at $19.77",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/swot-analysis/huntington-bancshares-swot-analysis-stock-faces-integration-test-amid-expansion-93CH-4708095",
-    "image": "https://picsum.photos/seed/wv-core-f120e99f210e/1200/750",
+    "url": "https://www.investing.com/news/company-news/american-financial-group-stock-hits-52week-low-at-1977-93CH-4708105",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T23:18:26.027129+00:00",
-    "fetched_at": "2026-05-23T23:18:26.027131+00:00",
+    "published_at": "2026-05-23T23:48:43.748697+00:00",
+    "fetched_at": "2026-05-23T23:48:43.748699+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "a9aa27286d87b119",
-    "title": "US conducts military drill over Venezuelan capital Caracas",
+    "id": "b7c0c93262ac6195",
+    "title": "Eaton Vance Tax Managed Buy Write stock hits 52-week high at $14.57",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/world-news/us-conducts-military-drill-over-venezuelan-capital-caracas-4708090",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M0RP_L.jpg",
+    "url": "https://www.investing.com/news/company-news/eaton-vance-tax-managed-buy-write-stock-hits-52week-high-at-1457-93CH-4708106",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T23:18:26.027098+00:00",
-    "fetched_at": "2026-05-23T23:18:26.027099+00:00",
+    "published_at": "2026-05-23T23:48:43.748673+00:00",
+    "fetched_at": "2026-05-23T23:48:43.748675+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "1b0f4f88da980ee0",
-    "title": "Nasdaq’s SWOT analysis: stock transformation draws analyst upgrades",
+    "id": "bfe5807bdc04789d",
+    "title": "Eaton Vance stock hits 52-week high at 22.74 USD",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/swot-analysis/nasdaqs-swot-analysis-stock-transformation-draws-analyst-upgrades-93CH-4708096",
-    "image": "https://picsum.photos/seed/wv-core-a2599028f8e6/1200/750",
+    "url": "https://www.investing.com/news/company-news/eaton-vance-stock-hits-52week-high-at-2274-usd-93CH-4708107",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T23:18:26.027074+00:00",
-    "fetched_at": "2026-05-23T23:18:26.027075+00:00",
+    "published_at": "2026-05-23T23:48:43.748648+00:00",
+    "fetched_at": "2026-05-23T23:48:43.748650+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "1bec7d612df67760",
-    "title": "US Secret Service investigates reports of shots near White House",
+    "id": "92e2c0ce34a7a05a",
+    "title": "Texas Capital Bancshares stock hits 52-week high at 20.95 USD",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/world-news/us-secret-service-investigates-reports-of-shots-near-white-house-4708097",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M0TN_L.jpg",
+    "url": "https://www.investing.com/news/company-news/texas-capital-bancshares-stock-hits-52week-high-at-2095-usd-93CH-4708108",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T23:18:26.027041+00:00",
-    "fetched_at": "2026-05-23T23:18:26.027043+00:00",
+    "published_at": "2026-05-23T23:48:43.748624+00:00",
+    "fetched_at": "2026-05-23T23:48:43.748626+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "e073d2d7b3f2b01e",
-    "title": "Citigroup’s SWOT analysis: transformation gains traction as stock targets rise",
+    "id": "f767d6e1aeedf229",
+    "title": "Taysha Gene Therapies stock hits all-time high at 5.49 USD",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/swot-analysis/citigroups-swot-analysis-transformation-gains-traction-as-stock-targets-rise-93CH-4708098",
-    "image": "https://i-invdn-com.investing.com/news/citibank_M_1440049090.jpg",
+    "url": "https://www.investing.com/news/company-news/taysha-gene-therapies-stock-hits-alltime-high-at-549-usd-93CH-4708109",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T23:18:26.027013+00:00",
-    "fetched_at": "2026-05-23T23:18:26.027016+00:00",
+    "published_at": "2026-05-23T23:48:43.748598+00:00",
+    "fetched_at": "2026-05-23T23:48:43.748600+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "1bb2072ae5ffe293",
-    "title": "Possible gunfire heard near White House North Lawn - CBS News",
+    "id": "6c8b57e21f03139e",
+    "title": "IHS Holding stock hits 52-week high at 8.39 USD",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/economy-news/possible-gunfire-heard-near-white-house-north-lawn--cbs-news-4708099",
-    "image": "https://i-invdn-com.investing.com/news/white_house_M_1440051410.jpg",
+    "url": "https://www.investing.com/news/company-news/ihs-holding-stock-hits-52week-high-at-839-usd-93CH-4708110",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T23:18:26.026956+00:00",
-    "fetched_at": "2026-05-23T23:18:26.026970+00:00",
+    "published_at": "2026-05-23T23:48:43.748554+00:00",
+    "fetched_at": "2026-05-23T23:48:43.748568+00:00",
     "core_business_science_fill": true
   },
   {
@@ -758,8 +758,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T23:16:03.164338+00:00",
-    "fetched_at": "2026-05-23T23:16:03.164340+00:00",
+    "published_at": "2026-05-23T23:46:12.381049+00:00",
+    "fetched_at": "2026-05-23T23:46:12.381052+00:00",
     "html_source": true
   },
   {
@@ -771,8 +771,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T23:16:03.164187+00:00",
-    "fetched_at": "2026-05-23T23:16:03.164189+00:00",
+    "published_at": "2026-05-23T23:46:12.380915+00:00",
+    "fetched_at": "2026-05-23T23:46:12.380917+00:00",
     "html_source": true
   },
   {
@@ -784,8 +784,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T23:16:03.164021+00:00",
-    "fetched_at": "2026-05-23T23:16:03.164023+00:00",
+    "published_at": "2026-05-23T23:46:12.380766+00:00",
+    "fetched_at": "2026-05-23T23:46:12.380768+00:00",
     "html_source": true
   },
   {
@@ -797,8 +797,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T23:16:03.163879+00:00",
-    "fetched_at": "2026-05-23T23:16:03.163881+00:00",
+    "published_at": "2026-05-23T23:46:12.380641+00:00",
+    "fetched_at": "2026-05-23T23:46:12.380643+00:00",
     "html_source": true
   },
   {
@@ -810,8 +810,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T23:16:03.163735+00:00",
-    "fetched_at": "2026-05-23T23:16:03.163738+00:00",
+    "published_at": "2026-05-23T23:46:12.380499+00:00",
+    "fetched_at": "2026-05-23T23:46:12.380501+00:00",
     "html_source": true
   },
   {
@@ -823,8 +823,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T23:16:03.163585+00:00",
-    "fetched_at": "2026-05-23T23:16:03.163589+00:00",
+    "published_at": "2026-05-23T23:46:12.380366+00:00",
+    "fetched_at": "2026-05-23T23:46:12.380369+00:00",
     "html_source": true
   },
   {
@@ -836,8 +836,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T23:16:03.163385+00:00",
-    "fetched_at": "2026-05-23T23:16:03.163387+00:00",
+    "published_at": "2026-05-23T23:46:12.380227+00:00",
+    "fetched_at": "2026-05-23T23:46:12.380229+00:00",
     "html_source": true
   },
   {
@@ -849,8 +849,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T23:16:03.163232+00:00",
-    "fetched_at": "2026-05-23T23:16:03.163234+00:00",
+    "published_at": "2026-05-23T23:46:12.380092+00:00",
+    "fetched_at": "2026-05-23T23:46:12.380094+00:00",
     "html_source": true
   },
   {
@@ -862,8 +862,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T23:16:03.163079+00:00",
-    "fetched_at": "2026-05-23T23:16:03.163081+00:00",
+    "published_at": "2026-05-23T23:46:12.379950+00:00",
+    "fetched_at": "2026-05-23T23:46:12.379953+00:00",
     "html_source": true
   },
   {
@@ -875,8 +875,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T23:16:03.162924+00:00",
-    "fetched_at": "2026-05-23T23:16:03.162927+00:00",
+    "published_at": "2026-05-23T23:46:12.379812+00:00",
+    "fetched_at": "2026-05-23T23:46:12.379814+00:00",
     "html_source": true
   },
   {
@@ -888,8 +888,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T23:16:03.162757+00:00",
-    "fetched_at": "2026-05-23T23:16:03.162760+00:00",
+    "published_at": "2026-05-23T23:46:12.379662+00:00",
+    "fetched_at": "2026-05-23T23:46:12.379664+00:00",
     "html_source": true
   },
   {
@@ -901,8 +901,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T23:16:03.162560+00:00",
-    "fetched_at": "2026-05-23T23:16:03.162591+00:00",
+    "published_at": "2026-05-23T23:46:12.379491+00:00",
+    "fetched_at": "2026-05-23T23:46:12.379505+00:00",
     "html_source": true
   }
 ]
