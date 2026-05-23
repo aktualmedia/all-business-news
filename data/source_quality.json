@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T07:50:04.752178+00:00",
+  "updated_at": "2026-05-23T11:51:05.783088+00:00",
   "sources": 236,
   "ok": 167,
   "problem": 53,
@@ -658,6 +658,17 @@
       "name": "Medical Xpress",
       "category": "znanost",
       "url": "https://medicalxpress.com/rss-feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "extra-care-002",
+      "name": "MindBodyGreen",
+      "category": "lifestyle",
+      "url": "https://www.mindbodygreen.com/rss.xml",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1725,17 +1736,6 @@
       "name": "ESA",
       "category": "znanost",
       "url": "https://www.esa.int/rssfeed/Our_Activities",
-      "status": "ok",
-      "label": "radi",
-      "count": 9,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "extra-care-002",
-      "name": "MindBodyGreen",
-      "category": "lifestyle",
-      "url": "https://www.mindbodygreen.com/rss.xml",
       "status": "ok",
       "label": "radi",
       "count": 9,
