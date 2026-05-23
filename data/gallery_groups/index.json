@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-05-23T15:53:30.309606+00:00",
+  "updated_at": "2026-05-23T16:17:29.358289+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 99,
-      "cover": "https://deadline.com/wp-content/uploads/2026/05/Cannes-2026_805828.jpg"
+      "count": 100,
+      "cover": "https://variety.com/wp-content/uploads/2026/05/6577f30044496-SWGE_Millennium_Falcon_8_2018_WDI.0153.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 26,
+      "count": 25,
       "cover": "https://www.yankodesign.com/images/design_news/2026/05/scaffolding-was-never-meant-to-be-beautiful-estrade-disagrees/estrade-0.jpg"
     },
     {
@@ -47,31 +47,31 @@
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 52,
-      "cover": "https://www.engadget.com/img/gallery/dead-by-daylight-is-finally-adding-jason-from-friday-the-13th/l-intro-1779391376.jpg"
+      "count": 54,
+      "cover": "https://www.engadget.com/img/gallery/deepseek-permanently-reduces-the-price-of-its-flagship-v4-model-by-75-percent/l-intro-1779550016.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 81,
+      "count": 78,
       "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-metasurface-bo.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 138,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a11b7d8a374d2f4818c6c29/0x0.jpg"
+      "count": 139,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a11cae3487ac08c72cfcc2a/0x0.jpg"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 51,
-      "cover": "https://images.mktw.net/im-65947404"
+      "count": 53,
+      "cover": "https://i-invdn-com.investing.com/news/LYNXMPEB0B0I5_M.jpg"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 15,
+      "count": 13,
       "cover": "https://www.visualcapitalist.com/wp-content/uploads/2026/05/U.S.-Workplace-Fatality-Rate-by-State-2024_shareable_May19.webp"
     }
   ]
