@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-23T20:03:00.047366+00:00",
+  "updated_at": "2026-05-23T20:17:11.512833+00:00",
   "sources": 236,
   "ok": 166,
-  "problem": 54,
+  "problem": 53,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -368,17 +368,6 @@
       "error": ""
     },
     {
-      "id": "src-065",
-      "name": "Engadget",
-      "category": "tehnologija",
-      "url": "https://www.engadget.com/rss.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-001",
       "name": "FT Business - Google News",
       "category": "poslovanje",
@@ -665,6 +654,17 @@
       "error": ""
     },
     {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-012",
       "name": "Mining.com Markets - Google News",
       "category": "trzista",
@@ -680,17 +680,6 @@
       "name": "NBER Digest",
       "category": "ekonomija",
       "url": "https://www.nber.org/rss/new.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-083",
-      "name": "Nature News",
-      "category": "znanost",
-      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1164,6 +1153,17 @@
       "name": "Design Milk Lifestyle",
       "category": "lifestyle",
       "url": "https://design-milk.com/category/lifestyle/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-065",
+      "name": "Engadget",
+      "category": "tehnologija",
+      "url": "https://www.engadget.com/rss.xml",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1952,6 +1952,17 @@
       "error": ""
     },
     {
+      "id": "src-083",
+      "name": "Nature News",
+      "category": "znanost",
+      "url": "https://www.nature.com/nature.rss",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
       "id": "src-003",
       "name": "Strategy+Business",
       "category": "poslovanje",
@@ -2379,17 +2390,6 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 409: Conflict"
-    },
-    {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-034",

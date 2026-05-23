@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-05-23T16:17:29.358289+00:00",
+  "updated_at": "2026-05-23T20:17:11.476497+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 100,
-      "cover": "https://variety.com/wp-content/uploads/2026/05/6577f30044496-SWGE_Millennium_Falcon_8_2018_WDI.0153.jpg"
+      "count": 105,
+      "cover": "https://variety.com/wp-content/uploads/2026/05/Streisand.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 25,
-      "cover": "https://www.yankodesign.com/images/design_news/2026/05/scaffolding-was-never-meant-to-be-beautiful-estrade-disagrees/estrade-0.jpg"
+      "count": 26,
+      "cover": "https://www.yankodesign.com/images/design_news/2026/05/10-minimalist-desk-accessories-that-earn-their-footprint/oakywood-desk-shelf-pro-02.jpg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 8,
-      "cover": "https://www.journal.hr/wp-content/uploads/2026/02/zapecene-palacinke-sa-sirom-1-scaled-e1770365408629-768x512.jpg"
+      "count": 9,
+      "cover": "https://robbreport.com/wp-content/uploads/2026/05/Jeremy_King_Simpsons_Chris_Floyd_085_lores_RT-1.jpg"
     },
     {
       "id": "hrana",
       "label": "HRANA",
-      "count": 4,
+      "count": 1,
       "cover": "https://assets.bonappetit.com/photos/6a107f7972c7032b7327abbd/master/pass/GettyImages-2268057491.jpg"
     },
     {
@@ -35,44 +35,44 @@
     {
       "id": "satovi",
       "label": "SATOVI",
-      "count": 5,
-      "cover": "https://monochrome-watches.com/app/uploads/2026/05/Czapek-an-unexpected-renaissance-movie-600x237.jpg"
+      "count": 6,
+      "cover": "https://monochrome-watches.com/app/uploads/2025/01/Greubel-Forsey-Hand-Made-2-watch-9-600x237.jpg"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 20,
+      "count": 17,
       "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2Fgraphic-t-shirt-gray-product-1-72813ee2_1779545581.jpg?w=800&cbr=1&q=90&fit=max"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
       "count": 54,
-      "cover": "https://www.engadget.com/img/gallery/deepseek-permanently-reduces-the-price-of-its-flagship-v4-model-by-75-percent/l-intro-1779550016.jpg"
+      "cover": "https://www.engadget.com/img/gallery/what-to-read-this-weekend-the-new-image-comics-miniseries-of-the-earth/l-intro-1779562271.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 78,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-metasurface-bo.jpg"
+      "count": 74,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2025/forensic-1.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 139,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a11cae3487ac08c72cfcc2a/0x0.jpg"
+      "count": 137,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a11bc02c273976f9e85269d/0x0.jpg?width=960&precrop=1466%2C906%2Cx0%2Cy70"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 53,
-      "cover": "https://i-invdn-com.investing.com/news/LYNXMPEB0B0I5_M.jpg"
+      "count": 60,
+      "cover": "https://images.mktw.net/im-96636188"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 13,
-      "cover": "https://www.visualcapitalist.com/wp-content/uploads/2026/05/U.S.-Workplace-Fatality-Rate-by-State-2024_shareable_May19.webp"
+      "count": 10,
+      "cover": "https://www.freightwaves.com/wp-content/uploads/2026/03/03/Front-view-of-two-tractor-trailers-on-a-highway.jpg"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-23T20:01:36.042411+00:00",
+  "updated_at": "2026-05-23T20:15:47.561664+00:00",
   "sources": 69,
   "ok_sources": 13,
-  "events_count": 167,
+  "events_count": 160,
   "results": [
     {
       "id": "infozagreb-events",
@@ -65,7 +65,7 @@
       "type": "kazalište",
       "status": "fallback",
       "count": 1,
-      "error": "HTTP Error 404: Not Found"
+      "error": "The read operation timed out"
     },
     {
       "id": "komedija",
@@ -333,9 +333,8 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "kazalište / premijere",
-      "status": "fallback",
-      "count": 1,
-      "error": "<urlopen error timed out>"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "opera-paris",
@@ -555,8 +554,9 @@
       "country": "Ujedinjeno Kraljevstvo",
       "city": "London",
       "type": "muzej / izložbe",
-      "status": "ok",
-      "count": 16
+      "status": "fallback",
+      "count": 1,
+      "error": "The read operation timed out"
     },
     {
       "id": "national-gallery-london",
@@ -649,7 +649,7 @@
       "type": "muzej / izložbe",
       "status": "fallback",
       "count": 1,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "stedelijk",
@@ -658,8 +658,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "program_link_only",
-      "count": 1
+      "status": "ok",
+      "count": 9
     },
     {
       "id": "uffizi",
