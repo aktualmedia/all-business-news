@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-05-23T06:40:00.681097+00:00",
+  "updated_at": "2026-05-23T07:50:04.718446+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 103,
-      "cover": "https://deadline.com/wp-content/uploads/2026/03/CBS-News-Radio-Edward-R.-Murrow.jpg"
+      "count": 104,
+      "cover": "https://www.journal.hr/wp-content/uploads/2026/05/amore-u-more-predstava-journal-550x550.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
       "count": 20,
-      "cover": "https://cdn.mos.cms.futurecdn.net/YiCZZ2XNqKjjFBqxzXAPLQ-1280-80.jpg"
+      "cover": "https://cdn.mos.cms.futurecdn.net/jyeLD9WvnSxCBP6Hf8ic6T-1280-80.jpg"
     },
     {
       "id": "hedonizam",
@@ -47,26 +47,26 @@
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 44,
-      "cover": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png"
+      "count": 45,
+      "cover": "https://media.wired.com/photos/6a0603633f6b307a9138c247/master/pass/Best%20Memorial%20Day%20Mattress%20Deals%20SOURCE%20MyGreenMattress%20Birch%20Naturepedic.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 88,
+      "count": 86,
       "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/linkedin.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 129,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a112cc5d5195fe7736bc547/0x0.jpg?width=960"
+      "count": 127,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a114b6d3d6433ce2801b379/0x0.jpg?width=960"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 53,
-      "cover": "https://images.mktw.net/im-69899727"
+      "count": 55,
+      "cover": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M01H_L.jpg"
     },
     {
       "id": "trzista",

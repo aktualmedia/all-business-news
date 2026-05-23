@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-23T06:40:00.714922+00:00",
+  "updated_at": "2026-05-23T07:50:04.752178+00:00",
   "sources": 236,
-  "ok": 168,
-  "problem": 52,
+  "ok": 167,
+  "problem": 53,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -658,17 +658,6 @@
       "name": "Medical Xpress",
       "category": "znanost",
       "url": "https://medicalxpress.com/rss-feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -2390,6 +2379,17 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-034",
