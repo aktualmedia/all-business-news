@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-05-23T12:11:12.002686+00:00",
+  "updated_at": "2026-05-23T15:53:30.309606+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 100,
-      "cover": "https://deadline.com/wp-content/uploads/2026/05/MixCollage-23-May-2026-01-40-PM-3583.jpg"
+      "count": 99,
+      "cover": "https://deadline.com/wp-content/uploads/2026/05/Cannes-2026_805828.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 25,
-      "cover": "https://www.yankodesign.com/images/design_news/2026/05/designer-pens-that-make-every-other-gift-for-him-look-lazy/5_best_pens_yanko_design_hero.webp"
+      "count": 26,
+      "cover": "https://www.yankodesign.com/images/design_news/2026/05/scaffolding-was-never-meant-to-be-beautiful-estrade-disagrees/estrade-0.jpg"
     },
     {
       "id": "hedonizam",
@@ -36,43 +36,43 @@
       "id": "satovi",
       "label": "SATOVI",
       "count": 5,
-      "cover": "https://monochrome-watches.com/app/uploads/2026/05/1937-BMW-328-Bugelfalte-Concorso-dEleganza-Villa-dEste-4-600x237.jpg"
+      "cover": "https://monochrome-watches.com/app/uploads/2026/05/Czapek-an-unexpected-renaissance-movie-600x237.jpg"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 19,
-      "cover": "https://www.catster.com/wp-content/uploads/2023/11/happy-birthday-cats.jpg"
+      "count": 20,
+      "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2Fgraphic-t-shirt-gray-product-1-72813ee2_1779545581.jpg?w=800&cbr=1&q=90&fit=max"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 53,
-      "cover": "https://media.wired.com/photos/6a0c7736cffddde770352aa6/master/pass/1%20-%20Courtesy-of-L.L.-Bean.jpg"
+      "count": 52,
+      "cover": "https://www.engadget.com/img/gallery/dead-by-daylight-is-finally-adding-jason-from-friday-the-13th/l-intro-1779391376.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 82,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-model-of-chinas-tian.jpg"
+      "count": 81,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-metasurface-bo.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 131,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/6836be3590f0458b4430a5c7/0x0.jpg?width=960"
+      "count": 138,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a11b7d8a374d2f4818c6c29/0x0.jpg"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 55,
-      "cover": "https://www.finance-monthly.com/wp-content/uploads/2026/05/aaa1-1024x614.jpg"
+      "count": 51,
+      "cover": "https://images.mktw.net/im-65947404"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 17,
-      "cover": "https://www.freightwaves.com/wp-content/uploads/2026/05/22/Trailers-Jim-Allen-FreightWaves.jpg"
+      "count": 15,
+      "cover": "https://www.visualcapitalist.com/wp-content/uploads/2026/05/U.S.-Workplace-Fatality-Rate-by-State-2024_shareable_May19.webp"
     }
   ]
 }

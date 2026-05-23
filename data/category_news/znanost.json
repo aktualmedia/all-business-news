@@ -1,5 +1,224 @@
 [
   {
+    "id": "40c16b7df80daaec",
+    "title": "Quantum metasurface boosts terahertz detection sensitivity by exploiting in-plane photoelectric effect",
+    "description": "Being able to see light and detect radiation is of utmost importance at any frequency. While this challenge has been solved in the visible range, radiation detectors in the far-infrared and terahertz regimes are either not sensitive, slow, or require bulky and expensive, often cryogenically cooled devices, which hinders practical applications.",
+    "url": "https://phys.org/news/2026-05-quantum-metasurface-boosts-terahertz-sensitivity.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-metasurface-bo.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T15:00:02+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089094+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "8114bdb1e0f8dc54",
+    "title": "Work capacity changes could reveal sick leave risk early in workplace, thesis suggests",
+    "description": "Changes in work capacity can provide early signals for who is at risk of sick leave, according to a doctoral thesis from the University of Gothenburg. The findings point to new ways to identify the need for support before employees leave work.",
+    "url": "https://phys.org/news/2026-05-capacity-reveal-sick-early-workplace.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blue-collar-work.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T15:00:01+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089146+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "a5b3c97a3f48ab21",
+    "title": "Scientists warn popular vitamin D supplement may have a “previously unknown” downside",
+    "description": "A surprising study suggests vitamin D2 supplements may reduce the body’s levels of vitamin D3 — the more effective form of vitamin D. Researchers found D3 not only boosts vitamin D status more efficiently, but may also play a unique role in helping the immune system fight off viruses and bacteria. The discovery is prompting scientists to rethink whether D3 should become the preferred choice for supplementation.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260523021820.htm",
+    "image": "https://picsum.photos/seed/wv-fill-fec68c017f23/1200/750",
+    "source": "ScienceDaily Top",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T14:38:26+00:00",
+    "fetched_at": "2026-05-23T15:53:04.944246+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "79e424c929926c9d",
+    "title": "xAI Selling $1.5 Billion of Compute to Anthropic Each Month",
+    "description": "There’s vast divergence of opinion on how useful AI systems, particularly LLMs (Large Language Models), are for our society. Some claim they bring us a massive leap forward and are completely worth all the money and energy being put into them. Others see them as incremental improvements (or worse) that ... [continued] The post xAI Selling $1.5 Billion of Compute to Anthropic Each Month appeared first on CleanTechnica .",
+    "url": "https://cleantechnica.com/2026/05/23/xai-selling-1-5-billion-of-compute-to-anthropic-each-month/",
+    "image": "https://picsum.photos/seed/wv-news-c60eada6d819/1200/750",
+    "source": "CleanTechnica",
+    "source_id": "src-089",
+    "category": "znanost",
+    "published_at": "2026-05-23T14:22:34+00:00",
+    "fetched_at": "2026-05-23T15:49:17.674303+00:00"
+  },
+  {
+    "id": "67692827ecd9643d",
+    "title": "Extreme 8.5-minute orbit reveals white dwarf being torn apart by its binary companion",
+    "description": "A team of U.S. astronomers has observed a binary pair of white dwarfs where one star is actively devouring material from the other. Led by Emma Chickles at MIT, the researchers revealed one of the clearest views yet of how ultracompact white dwarf binaries exchange mass at extreme orbital periods—offering an enticing potential target for future generations of gravitational wave detectors. The research has been published in The Astrophysical Journal.",
+    "url": "https://phys.org/news/2026-05-extreme-minute-orbit-reveals-white.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/white-dwarf-is-torn-ap.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T14:20:01+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089202+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "aee026186e0e98af",
+    "title": "Scientists discover the perfect temperature to keep mangoes fresh much longer",
+    "description": "Scientists found that storing mangoes at 54°F dramatically slows ripening and keeps the fruit fresh far longer than typical tropical temperatures. The cooler conditions helped mangoes stay firm, retain moisture, and preserve important antioxidants while reducing cellular damage. Researchers also uncovered the internal defense systems that switch on during cold storage, protecting the fruit from stress and decay.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260522023136.htm",
+    "image": "https://picsum.photos/seed/wv-fill-a4e84ab0f19b/1200/750",
+    "source": "ScienceDaily Top",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T14:09:11+00:00",
+    "fetched_at": "2026-05-23T15:53:04.944499+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "055ddfedb5cb45df",
+    "title": "Thermoreversible biogel may solve a hairy problem for wearable brain-monitoring systems",
+    "description": "A vital tool for health care practitioners, electroencephalography (EEG) systems measure electrical activity in the brain through electrodes placed on the scalp, but getting reliable readings can be surprisingly difficult. Hair interferes with contact between the electrodes and skin, and the gels used to improve those connections often dry out over time, weakening signal quality.",
+    "url": "https://medicalxpress.com/news/2026-05-thermoreversible-biogel-hairy-problem-wearable.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-biogel-may-solve.jpg",
+    "source": "Medical Xpress",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T14:00:04+00:00",
+    "fetched_at": "2026-05-23T15:53:05.773449+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "74458f327ff943e6",
+    "title": "Atlantic seaweed blooms may be predictable, opening path to carbon removal and biofuels",
+    "description": "Across the Caribbean, Gulf of Mexico and West African coasts, massive arrivals of Sargassum seaweed have become an annual crisis. Thick mats of algae blanket beaches, disrupt fisheries, damage tourism and release harmful gases as they decay, with cleanup costs reaching hundreds of millions of dollars each year. What began as an unexpected environmental phenomenon has grown into a persistent socioeconomic challenge affecting multiple regions on both sides of the Atlantic.",
+    "url": "https://phys.org/news/2026-05-atlantic-seaweed-blooms-path-carbon.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seaweed-bloom.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T14:00:02+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089251+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "2e1a7ab1a7f38a7a",
+    "title": "Scientists just found a faster, cleaner way to extract lithium for EV batteries",
+    "description": "A breakthrough lithium-extraction method could help solve one of clean energy’s dirtiest problems. Researchers at Columbia Engineering have developed a fast new technique that pulls lithium directly from salty underground brines using a temperature-sensitive solvent, avoiding the giant evaporation ponds that can take years and drain precious water supplies. Even better, the method works on low-quality lithium sources that current technologies struggle to use.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260522023132.htm",
+    "image": "https://picsum.photos/seed/wv-fill-bc0698100391/1200/750",
+    "source": "ScienceDaily Top",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T13:42:24+00:00",
+    "fetched_at": "2026-05-23T15:53:04.944598+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "71a0cdf058c1d075",
+    "title": "De‑extinction company says it's made an artificial egg—if true, it could help save living species",
+    "description": "Today's announcement by Texas-based de-extinction company Colossal Biosciences about a successful hatching of chicks from an artificial egg would represent a major innovation, if the claims can be verified.",
+    "url": "https://phys.org/news/2026-05-deextinction-company-artificial-egg-true.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/egg-in-hand.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T13:30:01+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089301+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "a51e9d4a91461eea",
+    "title": "Wegovy linked to rare “eye stroke” that can cause sudden blindness",
+    "description": "A new analysis is raising concerns about Wegovy, the blockbuster weight-loss drug, after researchers found it may carry the highest risk of a rare “eye stroke” that can cause sudden vision loss. The study, based on millions of FDA side-effect reports, found the risk signal was nearly five times stronger for Wegovy than for Ozempic, despite both containing semaglutide.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260522023134.htm",
+    "image": "https://picsum.photos/seed/wv-fill-a820d2f6f26b/1200/750",
+    "source": "ScienceDaily Top",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T13:23:30+00:00",
+    "fetched_at": "2026-05-23T15:53:04.944550+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "69e5e16e7e90e336",
+    "title": "Saturday citations: Two T. rexes and new exercise guidance that scientists are not calling 'easy'",
+    "description": "John Hammond voice: \"Welcome... to Saturday Citations.\" We're talking about different types of T. rexes today, along with some unwelcome news about cardiovascular health, but this week also brought news about the connection between poor grip strength and depression; scientists have improved knowledge of sea level rise and confirm it's accelerated since 1960; and researchers provided new insights into how the human hand developed from those of our ape-like ancestors.",
+    "url": "https://phys.org/news/2026-05-saturday-citations-rexes-guidance-scientists.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/saturday-citations-two.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T12:50:01+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089352+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "f4342988c6da776b",
+    "title": "World’s Fourth-Largest Economy Challenges Trump On Offshore Wind",
+    "description": "Offshore wind stakeholders in California are moving forward with plans to develop 25 gigawatts by 2045, despite the sharp U-turn in federal energy policy. The post World’s Fourth-Largest Economy Challenges Trump On Offshore Wind appeared first on CleanTechnica .",
+    "url": "https://cleantechnica.com/2026/05/23/offshore-wind-california-global-agreements/",
+    "image": "https://picsum.photos/seed/wv-news-f7e562ff9cbe/1200/750",
+    "source": "CleanTechnica",
+    "source_id": "src-089",
+    "category": "znanost",
+    "published_at": "2026-05-23T12:49:41+00:00",
+    "fetched_at": "2026-05-23T15:49:17.674402+00:00"
+  },
+  {
+    "id": "b7da69be419413b9",
+    "title": "New AI body map reveals obesity’s hidden attack on facial nerves",
+    "description": "Scientists have created an AI-powered system that can scan and map an entire mouse body in extraordinary detail — and it just uncovered a surprising new effect of obesity. Beyond disrupting metabolism, obesity appears to damage facial sensory nerves linked to touch and sensation, while also triggering widespread inflammation across the body.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260522023308.htm",
+    "image": "https://picsum.photos/seed/wv-fill-9b51d43df9cc/1200/750",
+    "source": "ScienceDaily Top",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T12:34:45+00:00",
+    "fetched_at": "2026-05-23T15:53:04.944453+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "61072ee114fe3cf4",
+    "title": "New AI system uses cameras and thermal sensors to steer ships clear of gray whales in the San Francisco Bay",
+    "description": "Researchers from UC Santa Barbara's Benioff Ocean Science Laboratory (BOSL) and local partners in San Francisco have unveiled new technology in their ongoing efforts to prevent whales and oceangoing vessels from colliding in and near the busy San Francisco Bay.",
+    "url": "https://phys.org/news/2026-05-ai-cameras-thermal-sensors-ships.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ai-system-uses-cam.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T12:30:01+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089395+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "7a72ce32217b8558",
+    "title": "NASA’s Psyche spacecraft captures stunning Mars images during high-speed flyby",
+    "description": "NASA’s Psyche spacecraft skimmed past Mars in a precision flyby that helped catapult it deeper into space toward its ultimate target: the bizarre metal-rich asteroid Psyche. During the encounter, it snapped detailed images of heavily cratered Martian terrain, including the striking double-ring Huygens crater. The flyby gave the spacecraft a critical gravity boost without using extra fuel.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260522023123.htm",
+    "image": "https://picsum.photos/seed/wv-fill-506a02290ad0/1200/750",
+    "source": "ScienceDaily Top",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T12:18:29+00:00",
+    "fetched_at": "2026-05-23T15:53:04.944742+00:00",
+    "missing_core_fill": true
+  },
+  {
+    "id": "ef237f237ae4cd18",
+    "title": "NASA stunned as strange solar radio burst lasts 19 days",
+    "description": "NASA scientists were stunned when a strange radio signal from the Sun refused to fade away. Instead of lasting a few hours or days like normal solar radio bursts, this one persisted for an astonishing 19 days — shattering the previous record. Using a fleet of spacecraft spread across the solar system, researchers tracked the mysterious signal to a massive magnetic structure on the Sun called a helmet streamer.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260522023120.htm",
+    "image": "https://picsum.photos/seed/wv-fill-756b08bb11a7/1200/750",
+    "source": "ScienceDaily Top",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T12:06:50+00:00",
+    "fetched_at": "2026-05-23T15:53:04.944787+00:00",
+    "missing_core_fill": true
+  },
+  {
     "id": "a948807d468f1b26",
     "title": "Integrating substance use disorder treatment into clinic-based internal medicine expands access to care",
     "description": "Researchers at the University of Cincinnati have found that embedding addiction treatment into primary care training clinics may be a promising approach to addressing substance use disorders (SUDs). Published in the journal Academic Medicine, the study shows how integrating SUD treatment into an internal medicine resident practice could not only expand access to primary care addiction treatment for patients but also significantly boost physician confidence in treating addiction.",
@@ -9,7 +228,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-23T12:00:05+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256033+00:00",
+    "fetched_at": "2026-05-23T15:53:05.773506+00:00",
     "missing_core_fill": true
   },
   {
@@ -22,7 +241,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-23T12:00:03+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419021+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089439+00:00",
     "missing_core_fill": true
   },
   {
@@ -35,7 +254,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-23T12:00:02+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419059+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089475+00:00",
     "missing_core_fill": true
   },
   {
@@ -48,7 +267,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-23T11:20:03+00:00",
-    "fetched_at": "2026-05-23T12:10:42.052756+00:00",
+    "fetched_at": "2026-05-23T15:53:04.693268+00:00",
     "missing_core_fill": true
   },
   {
@@ -61,7 +280,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-23T10:50:05+00:00",
-    "fetched_at": "2026-05-23T12:10:42.278955+00:00",
+    "fetched_at": "2026-05-23T15:53:04.944900+00:00",
     "missing_core_fill": true
   },
   {
@@ -74,7 +293,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-23T09:20:27+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419091+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089512+00:00",
     "missing_core_fill": true
   },
   {
@@ -87,7 +306,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-23T09:19:32+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419119+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089548+00:00",
     "missing_core_fill": true
   },
   {
@@ -100,7 +319,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-23T09:18:59+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256071+00:00",
+    "fetched_at": "2026-05-23T15:53:05.773548+00:00",
     "missing_core_fill": true
   },
   {
@@ -113,7 +332,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-23T07:01:02+00:00",
-    "fetched_at": "2026-05-23T12:07:08.073622+00:00"
+    "fetched_at": "2026-05-23T15:49:17.674496+00:00"
   },
   {
     "id": "8d48de32d27b71cf",
@@ -125,7 +344,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-23T04:56:17+00:00",
-    "fetched_at": "2026-05-23T12:10:42.052819+00:00",
+    "fetched_at": "2026-05-23T15:53:04.693346+00:00",
     "missing_core_fill": true
   },
   {
@@ -138,7 +357,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-23T03:50:04+00:00",
-    "fetched_at": "2026-05-23T12:07:08.073716+00:00"
+    "fetched_at": "2026-05-23T15:49:17.674581+00:00"
   },
   {
     "id": "4f983efa815a7bab",
@@ -150,7 +369,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-23T03:40:34+00:00",
-    "fetched_at": "2026-05-23T12:07:08.073795+00:00"
+    "fetched_at": "2026-05-23T15:49:17.674672+00:00"
   },
   {
     "id": "0edbaf1cd9c9e7ed",
@@ -162,7 +381,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-23T03:30:58+00:00",
-    "fetched_at": "2026-05-23T12:07:08.073866+00:00"
+    "fetched_at": "2026-05-23T15:49:17.674764+00:00"
   },
   {
     "id": "e0c9c07364b788f4",
@@ -174,7 +393,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-23T03:20:01+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419150+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089587+00:00",
     "missing_core_fill": true
   },
   {
@@ -187,7 +406,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-23T03:03:54+00:00",
-    "fetched_at": "2026-05-23T12:10:42.278890+00:00",
+    "fetched_at": "2026-05-23T15:53:04.944693+00:00",
     "missing_core_fill": true
   },
   {
@@ -200,7 +419,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-23T02:47:02+00:00",
-    "fetched_at": "2026-05-23T12:07:08.073928+00:00"
+    "fetched_at": "2026-05-23T15:49:17.674873+00:00"
   },
   {
     "id": "93a609a68ca88185",
@@ -212,7 +431,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-23T02:40:01+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256103+00:00",
+    "fetched_at": "2026-05-23T15:53:05.773589+00:00",
     "missing_core_fill": true
   },
   {
@@ -225,7 +444,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-23T01:40:01+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419199+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089642+00:00",
     "missing_core_fill": true
   },
   {
@@ -238,7 +457,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-23T00:58:46+00:00",
-    "fetched_at": "2026-05-23T12:07:08.073993+00:00"
+    "fetched_at": "2026-05-23T15:49:17.674970+00:00"
   },
   {
     "id": "b4b47a6765c62167",
@@ -250,7 +469,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-23T00:40:03+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419229+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089680+00:00",
     "missing_core_fill": true
   },
   {
@@ -263,7 +482,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-23T00:40:01+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256134+00:00",
+    "fetched_at": "2026-05-23T15:53:05.773629+00:00",
     "missing_core_fill": true
   },
   {
@@ -276,7 +495,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-23T00:14:35+00:00",
-    "fetched_at": "2026-05-23T12:07:08.074038+00:00"
+    "fetched_at": "2026-05-23T15:49:17.675037+00:00"
   },
   {
     "id": "fc48e91c93de300e",
@@ -288,7 +507,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-22T23:41:25+00:00",
-    "fetched_at": "2026-05-23T12:07:08.074096+00:00"
+    "fetched_at": "2026-05-23T15:49:17.675122+00:00"
   },
   {
     "id": "4c90e2a00bb746a4",
@@ -300,7 +519,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T23:40:02+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256162+00:00",
+    "fetched_at": "2026-05-23T15:53:05.773669+00:00",
     "missing_core_fill": true
   },
   {
@@ -313,7 +532,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T23:10:01+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419267+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089731+00:00",
     "missing_core_fill": true
   },
   {
@@ -326,7 +545,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-22T23:00:39+00:00",
-    "fetched_at": "2026-05-23T12:07:08.074139+00:00"
+    "fetched_at": "2026-05-23T15:49:17.675187+00:00"
   },
   {
     "id": "5ba877e52dd4029e",
@@ -338,7 +557,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T22:40:01+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419308+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089785+00:00",
     "missing_core_fill": true
   },
   {
@@ -351,7 +570,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T22:20:03+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419339+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089851+00:00",
     "missing_core_fill": true
   },
   {
@@ -364,20 +583,21 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T22:20:01+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256203+00:00",
+    "fetched_at": "2026-05-23T15:53:05.773720+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "f7bf6c80cca07c41",
+    "id": "e86ef0a80ed50f0e",
     "title": "Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling",
     "description": "As NASA pushes the boundaries of exploration and innovation for the benefit of humanity, the agency is looking for partners to share mission stories covering Artemis Moon missions, nuclear propulsion, aeronautics, and more. NASA published an Announcement for Proposals on May 21 asking filmmakers, documentarians, songwriters, storytellers, poets, and others to submit proposals to partner […]",
     "url": "https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/",
-    "image": "https://picsum.photos/seed/wv-news-90668769c711/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-6a3e123baca4/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T22:12:40+00:00",
-    "fetched_at": "2026-05-23T12:07:05.674805+00:00"
+    "fetched_at": "2026-05-23T15:53:05.155865+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "cd9d355159a3ad01",
@@ -389,7 +609,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T22:00:02+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419376+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089905+00:00",
     "missing_core_fill": true
   },
   {
@@ -402,7 +622,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T21:40:03+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419411+00:00",
+    "fetched_at": "2026-05-23T15:53:05.089956+00:00",
     "missing_core_fill": true
   },
   {
@@ -415,7 +635,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T21:40:01+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419455+00:00",
+    "fetched_at": "2026-05-23T15:53:05.090014+00:00",
     "missing_core_fill": true
   },
   {
@@ -440,7 +660,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T21:20:01+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419489+00:00",
+    "fetched_at": "2026-05-23T15:53:05.090060+00:00",
     "missing_core_fill": true
   },
   {
@@ -453,7 +673,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T21:00:03+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256242+00:00",
+    "fetched_at": "2026-05-23T15:53:05.773767+00:00",
     "missing_core_fill": true
   },
   {
@@ -466,7 +686,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T21:00:01+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419519+00:00",
+    "fetched_at": "2026-05-23T15:53:05.090101+00:00",
     "missing_core_fill": true
   },
   {
@@ -479,7 +699,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-22T20:40:58+00:00",
-    "fetched_at": "2026-05-23T12:07:08.074196+00:00"
+    "fetched_at": "2026-05-23T15:49:17.675266+00:00"
   },
   {
     "id": "8d22f44414306d80",
@@ -491,7 +711,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T20:40:02+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419546+00:00",
+    "fetched_at": "2026-05-23T15:53:05.090136+00:00",
     "missing_core_fill": true
   },
   {
@@ -504,7 +724,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T20:20:03+00:00",
-    "fetched_at": "2026-05-23T12:10:42.419578+00:00",
+    "fetched_at": "2026-05-23T15:53:05.090179+00:00",
     "missing_core_fill": true
   },
   {
@@ -517,7 +737,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T20:20:01+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256278+00:00",
+    "fetched_at": "2026-05-23T15:53:05.773834+00:00",
     "missing_core_fill": true
   },
   {
@@ -530,10 +750,10 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-22T20:15:33+00:00",
-    "fetched_at": "2026-05-23T12:07:51.244756+00:00"
+    "fetched_at": "2026-05-23T15:50:15.080527+00:00"
   },
   {
-    "id": "83a68c87851043f9",
+    "id": "5367afbabb5b3262",
     "title": "Arctic thaw unleashes mining-like pollution across hundreds Arctic waterways",
     "description": "Thawing permafrost is rapidly transforming dozens of Arctic streams into acidic, metal-laden waterways, according to new research published in Science. The study shows how thawing permafrost exposes sulfide minerals that react with oxygen and water—a process similar to what occurs in mining pollution. The reactions release acidity and heavy metals such as zinc, nickel, cadmium, and aluminum into surrounding waters.",
     "url": "https://phys.org/news/2026-05-arctic-unleashes-pollution-hundreds-waterways.html",
@@ -546,16 +766,17 @@
     "missing_core_fill": true
   },
   {
-    "id": "1138ad810884e815",
+    "id": "e1de9ca64dd300a6",
     "title": "NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station",
     "description": "NASA will provide live coverage on Wednesday, May 27, as two Roscosmos cosmonauts conduct a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at approximately 10:15 a.m. EDT and last roughly five hours. Watch NASA’s live coverage beginning at 9:45 a.m. on NASA+, Amazon Prime, and the agency’s YouTube channel. Learn […]",
     "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/",
-    "image": "https://picsum.photos/seed/wv-news-2b78894267e5/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-d0dc346928e7/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T19:43:57+00:00",
-    "fetched_at": "2026-05-23T12:07:05.674876+00:00"
+    "fetched_at": "2026-05-23T15:53:05.155933+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "adc808e17dfbaec6",
@@ -567,11 +788,11 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T19:40:04+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256309+00:00",
+    "fetched_at": "2026-05-23T15:53:05.773884+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "a802c969d08a6adb",
+    "id": "dbf0f1ad1218d1c5",
     "title": "Physicists figure out how to reduce formation of 'viscous fingers'",
     "description": "When they reach the bottom of a soap dispenser, frugal handwashers might try adding water to the bottle to push out the last bit of soap. But usually, the water drills right through the soap and jets out an only slightly sudsy splash.",
     "url": "https://phys.org/news/2026-05-physicists-figure-formation-viscous-fingers.html",
@@ -593,11 +814,11 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T19:40:01+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256337+00:00",
+    "fetched_at": "2026-05-23T15:53:05.773924+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "b1b7ce19f7323a59",
+    "id": "03d1ef244dd4c604",
     "title": "Student talent drives simpler method for programming artificial muscles in soft robots",
     "description": "An interdisciplinary student research team at the University of Waterloo has achieved an advance in materials science with the creation of a tissue-like hydrogel for artificial muscles to make soft robots move.",
     "url": "https://phys.org/news/2026-05-student-talent-simpler-method-artificial.html",
@@ -619,7 +840,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T19:20:01+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256363+00:00",
+    "fetched_at": "2026-05-23T15:53:05.773962+00:00",
     "missing_core_fill": true
   },
   {
@@ -632,7 +853,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-22T19:17:52+00:00",
-    "fetched_at": "2026-05-23T12:07:51.244679+00:00"
+    "fetched_at": "2026-05-23T15:50:15.080430+00:00"
   },
   {
     "id": "15abe18b97636bac",
@@ -644,11 +865,11 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T19:00:05+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256388+00:00",
+    "fetched_at": "2026-05-23T15:53:05.773999+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "1b289713d81b5e1a",
+    "id": "83f6ddad6657e318",
     "title": "Scientists discover thriving hard-substrate fauna in Oceania's deep sea",
     "description": "In the crushing darkness of the hadal zone—deep ocean trenches plunging 6,000 m to nearly 11,000 m—scientists have uncovered a hidden community. A study published in Science on May 14 reports the discovery of a protist-dominated hard-substrate fauna across seven hadal regions in Oceania, highlighting an overlooked yet highly active carbon \"hotspot.\"",
     "url": "https://phys.org/news/2026-05-scientists-hard-substrate-fauna-oceania.html",
@@ -661,7 +882,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "c5475beb0d88c9a9",
+    "id": "aef71b9691d35ae9",
     "title": "'Designer' superconducting diamond: Researchers uncover path to multi-modality quantum chips",
     "description": "Diamond is extremely valuable to science and technology not for its sparkle but for its extreme hardness, high thermal conductivity, transparency to a large fraction of the light spectrum, and a host of other exceptional properties. Two decades ago, scientists discovered another advantage: under the right conditions, diamond can become a superconductor—allowing electricity to flow through it with zero resistance.",
     "url": "https://phys.org/news/2026-05-superconducting-diamond-uncover-path-multi.html",
@@ -686,7 +907,7 @@
     "fetched_at": "2026-05-23T12:07:08.074257+00:00"
   },
   {
-    "id": "70c4bfd172260a9d",
+    "id": "9d1a62fd80baf748",
     "title": "South China Sea coral reefs reveal carbon stores rivaling mangroves and seagrasses",
     "description": "A collaborative research team has revealed the long-overlooked carbon storage potential of coral reef ecosystems and how reef-dwelling fish, corals, and surface sediments jointly shape reef carbon reservoirs. The paper is published in the journal Advanced Science. The team was led by The Hong Kong University of Science and Technology (HKUST), the Institute of Zoology at the Chinese Academy of Sciences (IOZ-CAS) and the Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou) (GML).",
     "url": "https://phys.org/news/2026-05-south-china-sea-coral-reefs.html",
@@ -708,11 +929,11 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T18:40:01+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256420+00:00",
+    "fetched_at": "2026-05-23T15:53:05.774041+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "90aa306b0ef3bf59",
+    "id": "ef0e3fee01bb7680",
     "title": "SpaceX to retry Starship test launch Friday",
     "description": "Elon Musk's SpaceX will attempt another launch of its mammoth Starship rocket Friday, after the previous evening's try was called off over technical issues.",
     "url": "https://phys.org/news/2026-05-spacex-retry-starship-friday.html",
@@ -725,16 +946,17 @@
     "missing_core_fill": true
   },
   {
-    "id": "851cf4e6f521959c",
+    "id": "ed2bf67f85f08606",
     "title": "Webb Studies Star Clusters",
     "description": "This near-infrared image released on May 6, 2026, shows a section of one of the spiral arms of Messier 51 (M51). M51 is one of four nearby galaxies observed by NASA’s James Webb Space Telescope in a study of nearly 9,000 star clusters. Data from the study shows that more massive star clusters emerge more […]",
     "url": "https://www.nasa.gov/image-article/webb-studies-star-clusters/",
-    "image": "https://picsum.photos/seed/wv-news-1a08cac37e15/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-26ce0b602a18/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T18:23:38+00:00",
-    "fetched_at": "2026-05-23T12:07:05.674932+00:00"
+    "fetched_at": "2026-05-23T15:53:05.155989+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "1beb54dc35c74478",
@@ -772,7 +994,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T18:20:03+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256454+00:00",
+    "fetched_at": "2026-05-23T15:53:05.774088+00:00",
     "missing_core_fill": true
   },
   {
@@ -785,7 +1007,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T18:20:01+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256479+00:00",
+    "fetched_at": "2026-05-23T15:53:05.774124+00:00",
     "missing_core_fill": true
   },
   {
@@ -823,7 +1045,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T18:00:10+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256515+00:00",
+    "fetched_at": "2026-05-23T15:53:05.774172+00:00",
     "missing_core_fill": true
   },
   {
@@ -849,7 +1071,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T18:00:07+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256541+00:00",
+    "fetched_at": "2026-05-23T15:53:05.774212+00:00",
     "missing_core_fill": true
   },
   {
@@ -875,7 +1097,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T18:00:04+00:00",
-    "fetched_at": "2026-05-23T12:10:43.309215+00:00",
+    "fetched_at": "2026-05-23T15:53:05.826054+00:00",
     "missing_core_fill": true
   },
   {
@@ -888,7 +1110,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T18:00:02+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256573+00:00",
+    "fetched_at": "2026-05-23T15:53:05.774255+00:00",
     "missing_core_fill": true
   },
   {
@@ -914,7 +1136,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T17:40:03+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256602+00:00",
+    "fetched_at": "2026-05-23T15:53:05.774297+00:00",
     "missing_core_fill": true
   },
   {
@@ -977,7 +1199,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T17:00:37+00:00",
-    "fetched_at": "2026-05-23T12:10:43.309250+00:00",
+    "fetched_at": "2026-05-23T15:53:05.826100+00:00",
     "missing_core_fill": true
   },
   {
@@ -1003,7 +1225,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T17:00:03+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256631+00:00",
+    "fetched_at": "2026-05-23T15:53:05.774339+00:00",
     "missing_core_fill": true
   },
   {
@@ -1029,7 +1251,7 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-22T17:00:00+00:00",
-    "fetched_at": "2026-05-23T12:07:51.712909+00:00"
+    "fetched_at": "2026-05-23T15:50:15.542735+00:00"
   },
   {
     "id": "3f84273f4f2d4694",
@@ -1054,7 +1276,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T16:40:03+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256686+00:00",
+    "fetched_at": "2026-05-23T15:53:05.774390+00:00",
     "missing_core_fill": true
   },
   {
@@ -1067,7 +1289,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T16:20:06+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256714+00:00",
+    "fetched_at": "2026-05-23T15:53:05.774430+00:00",
     "missing_core_fill": true
   },
   {
@@ -1106,7 +1328,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-22T16:10:00+00:00",
-    "fetched_at": "2026-05-23T12:07:06.384181+00:00"
+    "fetched_at": "2026-05-23T15:49:15.905693+00:00"
   },
   {
     "id": "6e59d370253886c9",
@@ -1118,7 +1340,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T16:00:06+00:00",
-    "fetched_at": "2026-05-23T12:10:43.256744+00:00",
+    "fetched_at": "2026-05-23T15:53:05.774471+00:00",
     "missing_core_fill": true
   },
   {
@@ -1157,19 +1379,20 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-22T16:00:00+00:00",
-    "fetched_at": "2026-05-23T12:07:51.713171+00:00"
+    "fetched_at": "2026-05-23T15:50:15.543112+00:00"
   },
   {
-    "id": "279e14bfb553d5a1",
+    "id": "aad290ae630d3bbf",
     "title": "Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness",
     "description": "From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready. At NASA’s Armstrong Flight Research Center in Edwards, California, specially trained maintenance crews are essential to keeping the agency’s aircraft flying safely and reliably. This year, NASA added two […]",
     "url": "https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/",
-    "image": "https://picsum.photos/seed/wv-news-b2c6ac67c48b/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-1554e24f5c91/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T15:45:38+00:00",
-    "fetched_at": "2026-05-23T12:07:05.674986+00:00"
+    "fetched_at": "2026-05-23T15:53:05.156047+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "bffbecba6e65d328",
@@ -1185,7 +1408,7 @@
     "missing_core_fill": true
   },
   {
-    "id": "2c31efacfe47b51b",
+    "id": "8cb62de0f525df8e",
     "title": "Nitric oxide rewires gene expression in the brain, offering new insight into Alzheimer's disease",
     "description": "Genes undergo extensive editing through a process called alternative splicing, which greatly increases the size of the functional genome—the working portion of our DNA that helps make each person unique. Put simply, a single gene can be edited in different ways to produce multiple sets of instructions. This helps explain why humans differ so significantly from fruit flies and mice, despite having a similar number of genes.",
     "url": "https://medicalxpress.com/news/2026-05-nitric-oxide-rewires-gene-brain.html",
@@ -1233,7 +1456,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-22T15:36:00+00:00",
-    "fetched_at": "2026-05-23T12:07:06.384252+00:00"
+    "fetched_at": "2026-05-23T15:49:15.905786+00:00"
   },
   {
     "id": "0833150179bfdeb6",
@@ -1336,7 +1559,7 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-22T15:00:00+00:00",
-    "fetched_at": "2026-05-23T12:07:51.713060+00:00"
+    "fetched_at": "2026-05-23T15:50:15.542951+00:00"
   },
   {
     "id": "ff5140cb3326b6a3",
@@ -1348,7 +1571,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-22T14:50:07+00:00",
-    "fetched_at": "2026-05-23T12:07:07.911916+00:00"
+    "fetched_at": "2026-05-23T15:49:17.507279+00:00"
   },
   {
     "id": "fc2bc597ea42a590",
@@ -1360,7 +1583,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-22T14:47:00+00:00",
-    "fetched_at": "2026-05-23T12:07:07.825120+00:00"
+    "fetched_at": "2026-05-23T15:49:17.429945+00:00"
   },
   {
     "id": "07e326cec8412092",
@@ -1372,7 +1595,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T14:46:22+00:00",
-    "fetched_at": "2026-05-23T12:10:42.278816+00:00",
+    "fetched_at": "2026-05-23T15:53:04.944401+00:00",
     "missing_core_fill": true
   },
   {
@@ -1437,7 +1660,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T14:39:24+00:00",
-    "fetched_at": "2026-05-23T12:10:42.279025+00:00",
+    "fetched_at": "2026-05-23T15:53:04.944998+00:00",
     "missing_core_fill": true
   },
   {
@@ -1454,16 +1677,17 @@
     "missing_core_fill": true
   },
   {
-    "id": "23cd451e2b75eaa2",
+    "id": "e72eaf8938827392",
     "title": "NASA to Compete Contract for Jet Propulsion Laboratory Management",
     "description": "NASA announced plans Friday to compete the next contract for managing and operating the agency’s federally funded research and development center (FFRDC) in Southern California at the Jet Propulsion Laboratory (JPL), to ensure continued accountability and strong value for U.S. taxpayers. The California Institute of Technology (Caltech) has managed the laboratory since its inception in […]",
     "url": "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
-    "image": "https://picsum.photos/seed/wv-news-0f3edffa83a5/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-8548d3aaeb85/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T14:34:04+00:00",
-    "fetched_at": "2026-05-23T12:07:05.675036+00:00"
+    "fetched_at": "2026-05-23T15:53:05.156100+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "f6bb6a0454dbb997",
@@ -1488,7 +1712,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-22T14:24:29+00:00",
-    "fetched_at": "2026-05-23T12:07:07.911989+00:00"
+    "fetched_at": "2026-05-23T15:49:17.507373+00:00"
   },
   {
     "id": "511e8d36b6cba240",
@@ -1530,16 +1754,17 @@
     "missing_core_fill": true
   },
   {
-    "id": "df64bfa478841c6f",
+    "id": "3dff0f2383fb0f28",
     "title": "NASA Announces Realignment to Accelerate Mission Delivery",
     "description": "Editor’s Note: This advisory was updated May 22, 2026 to include a retirement. NASA announced Friday an agencywide realignment to increase mission focus and move out on the National Space Policy. These changes position the agency to better deliver on the nation’s highest‑priority objectives with speed and efficiency. During the Ignition event in late March, […]",
     "url": "https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/",
-    "image": "https://picsum.photos/seed/wv-news-d1f49c6a2685/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-b659055932cf/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T14:01:35+00:00",
-    "fetched_at": "2026-05-23T12:07:05.675087+00:00"
+    "fetched_at": "2026-05-23T15:53:05.156154+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "eafe7a4e9fe99636",
@@ -1551,7 +1776,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-22T14:00:13+00:00",
-    "fetched_at": "2026-05-23T12:07:06.595498+00:00"
+    "fetched_at": "2026-05-23T15:49:16.237659+00:00"
   },
   {
     "id": "143a1b59802eee37",
@@ -1593,16 +1818,17 @@
     "missing_core_fill": true
   },
   {
-    "id": "418e42f9736ebf02",
+    "id": "4eb04b06e9061227",
     "title": "New Material Could Help NASA Melt Moon Rocks, Harness Lunar Resources",
     "description": "A material recently discovered and tested at NASA’s Glenn Research Center in Cleveland could help astronauts pack lighter for future missions to the Moon. NASA is researching ways explorers could “live off the land” by harnessing lunar resources, including melting Moon rocks to extract metals for building infrastructure and oxygen for fuel and life support. […]",
     "url": "https://www.nasa.gov/general/new-material-melt-moon-rocks/",
-    "image": "https://picsum.photos/seed/wv-news-352089cd1280/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-b42e6f4c4c9c/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T14:00:00+00:00",
-    "fetched_at": "2026-05-23T12:07:05.675139+00:00"
+    "fetched_at": "2026-05-23T15:53:05.156208+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "c4db22b11ad629c2",
@@ -1614,7 +1840,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-22T14:00:00+00:00",
-    "fetched_at": "2026-05-23T12:07:07.244319+00:00"
+    "fetched_at": "2026-05-23T15:49:16.882337+00:00"
   },
   {
     "id": "cf8c362a12ec3228",
@@ -1665,7 +1891,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T13:38:12+00:00",
-    "fetched_at": "2026-05-23T12:10:42.279289+00:00",
+    "fetched_at": "2026-05-23T15:53:04.945360+00:00",
     "missing_core_fill": true
   },
   {
@@ -1704,7 +1930,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T13:09:27+00:00",
-    "fetched_at": "2026-05-23T12:10:42.278858+00:00",
+    "fetched_at": "2026-05-23T15:53:04.944650+00:00",
     "missing_core_fill": true
   },
   {
@@ -1794,7 +2020,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-22T12:35:00+00:00",
-    "fetched_at": "2026-05-23T12:07:06.384304+00:00"
+    "fetched_at": "2026-05-23T15:49:15.905886+00:00"
   },
   {
     "id": "c256cd35bc781ec6",
@@ -1806,7 +2032,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T12:33:40+00:00",
-    "fetched_at": "2026-05-23T12:10:42.278784+00:00",
+    "fetched_at": "2026-05-23T15:53:04.944358+00:00",
     "missing_core_fill": true
   },
   {
@@ -1858,7 +2084,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T12:00:25+00:00",
-    "fetched_at": "2026-05-23T12:10:43.309386+00:00",
+    "fetched_at": "2026-05-23T15:53:05.826288+00:00",
     "missing_core_fill": true
   },
   {
@@ -1914,16 +2140,17 @@
     "missing_core_fill": true
   },
   {
-    "id": "99035aeceef379f3",
+    "id": "fc6610026782846f",
     "title": "Hubble Captures Galaxy Cluster",
     "description": "Look closely at this image from NASA’s Hubble Space Telescope and you’ll see galaxies of various shapes and sizes clustered together toward the center-left of the image. A few foreground stars shine brightly and are easily distinguished by the spikes that appear to extend outward from each star. These spikes, called diffraction spikes, are the […]",
     "url": "https://science.nasa.gov/missions/hubble/hubble-captures-galaxy-cluster/",
-    "image": "https://picsum.photos/seed/wv-news-db6f7a3f58cc/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-9788211f41b7/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T11:37:42+00:00",
-    "fetched_at": "2026-05-23T12:07:05.675186+00:00"
+    "fetched_at": "2026-05-23T15:53:05.156257+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "448a2b472be18362",
@@ -1974,7 +2201,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T11:07:58+00:00",
-    "fetched_at": "2026-05-23T12:10:42.278736+00:00",
+    "fetched_at": "2026-05-23T15:53:04.944304+00:00",
     "missing_core_fill": true
   },
   {
@@ -2025,7 +2252,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-22T09:59:55+00:00",
-    "fetched_at": "2026-05-23T12:07:07.912045+00:00"
+    "fetched_at": "2026-05-23T15:49:17.507449+00:00"
   },
   {
     "id": "cd3f1aa15cd9e243",
@@ -2050,7 +2277,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T09:17:29+00:00",
-    "fetched_at": "2026-05-23T12:10:42.279122+00:00",
+    "fetched_at": "2026-05-23T15:53:04.945130+00:00",
     "missing_core_fill": true
   },
   {
@@ -2076,7 +2303,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T09:00:50+00:00",
-    "fetched_at": "2026-05-23T12:10:43.309461+00:00",
+    "fetched_at": "2026-05-23T15:53:05.826392+00:00",
     "missing_core_fill": true
   },
   {
@@ -2258,7 +2485,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-22T08:00:00+00:00",
-    "fetched_at": "2026-05-23T12:07:06.384357+00:00"
+    "fetched_at": "2026-05-23T15:49:15.905964+00:00"
   },
   {
     "id": "976aa2dfe72940d1",
@@ -2270,7 +2497,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T06:47:03+00:00",
-    "fetched_at": "2026-05-23T12:10:42.279219+00:00",
+    "fetched_at": "2026-05-23T15:53:04.945266+00:00",
     "missing_core_fill": true
   },
   {
@@ -2283,7 +2510,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T06:31:16+00:00",
-    "fetched_at": "2026-05-23T12:10:42.278923+00:00",
+    "fetched_at": "2026-05-23T15:53:04.944857+00:00",
     "missing_core_fill": true
   },
   {
@@ -2296,7 +2523,7 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T06:12:43+00:00",
-    "fetched_at": "2026-05-23T12:10:42.279092+00:00",
+    "fetched_at": "2026-05-23T15:53:04.945088+00:00",
     "missing_core_fill": true
   },
   {
@@ -2309,20 +2536,21 @@
     "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T04:28:12+00:00",
-    "fetched_at": "2026-05-23T12:10:42.279156+00:00",
+    "fetched_at": "2026-05-23T15:53:04.945178+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "ddc51b24c8380cb9",
+    "id": "c722003ca8862ffc",
     "title": "Tornado Draws a Jagged Line in Mississippi",
     "description": "The strongest of several twisters to touch down in the southern part of the state in early May 2026 left a visible path of damaged vegetation.",
     "url": "https://science.nasa.gov/earth/earth-observatory/tornado-draws-a-jagged-line-in-mississippi/",
-    "image": "https://picsum.photos/seed/wv-news-7ed96b0ca4d0/1200/750",
+    "image": "https://picsum.photos/seed/wv-fill-14ca6ba02fe8/1200/750",
     "source": "NASA Breaking News",
-    "source_id": "src-079",
+    "source_id": "missing-core-znanost",
     "category": "znanost",
     "published_at": "2026-05-22T04:01:00+00:00",
-    "fetched_at": "2026-05-23T12:07:05.675221+00:00"
+    "fetched_at": "2026-05-23T15:53:05.156297+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "add13cdc7265bb94",
@@ -2335,316 +2563,6 @@
     "category": "znanost",
     "published_at": "2026-05-22T04:00:01+00:00",
     "fetched_at": "2026-05-22T10:40:33.992114+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "d476a77ca608b0e3",
-    "title": "'Seed Transfer Zones' could help restore vast areas of degraded land in Brazil",
-    "description": "A new study divides Brazil into 48 zones, each defined by its climate and soil conditions. Restoration projects can use these zones to identify which native seeds are best suited to each location under both current and future climates.",
-    "url": "https://phys.org/news/2026-05-seed-zones-vast-areas-degraded.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seed-transfer-zones-wi.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-22T03:10:01+00:00",
-    "fetched_at": "2026-05-22T10:40:33.992155+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "67cfd80f1ffa7387",
-    "title": "EU Aviation Strategy — T&E Call for Evidence Response",
-    "description": "In light of the current crisis in Iran and broader conflicts such as the Ukraine war, the dependency of European aviation on fossil fuels and imported kerosene is clearer than ever. Countries like China are quickly catching up in the field of aerospace technologies. If we fail to look ahead, ... [continued] The post EU Aviation Strategy — T&E Call for Evidence Response appeared first on CleanTechnica .",
-    "url": "https://cleantechnica.com/2026/05/21/eu-aviation-strategy-te-call-for-evidence-response/",
-    "image": "https://picsum.photos/seed/wv-news-88e8dbd2f224/1200/750",
-    "source": "CleanTechnica",
-    "source_id": "src-089",
-    "category": "znanost",
-    "published_at": "2026-05-22T03:03:35+00:00",
-    "fetched_at": "2026-05-22T10:36:40.891591+00:00"
-  },
-  {
-    "id": "a4d3f22fb99b94a8",
-    "title": "Scientists discover towering red auroras reaching deep into space above Japan",
-    "description": "Mysterious red auroras spotted over Japan were found reaching astonishingly high altitudes, even during space storms considered relatively mild. The discovery suggests hidden solar activity may be stronger than scientists realized — with potential consequences for satellites orbiting Earth.",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260521072359.htm",
-    "image": "https://picsum.photos/seed/wv-fill-dce900cabab1/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-22T03:02:27+00:00",
-    "fetched_at": "2026-05-23T12:10:42.279185+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "f9e5a7187dfc0465",
-    "title": "James Webb discovers a rare giant planet with surprisingly Earth-like temperatures",
-    "description": "Astronomers using NASA’s James Webb Space Telescope have uncovered a rare world unlike anything in our solar system — a giant planet about the size of Saturn with surprisingly Earth-like temperatures and an atmosphere packed with methane. The planet, TOI-199b, sits more than 330 light-years away and is one of the first known “temperate” gas giants ever studied in detail.",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260521072355.htm",
-    "image": "https://picsum.photos/seed/wv-fill-001df0387acc/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-22T02:41:53+00:00",
-    "fetched_at": "2026-05-23T12:10:42.279252+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "5e0d343145c5590c",
-    "title": "Can AI help predict how you might be feeling in the future?",
-    "description": "From the weather to sports to the performance of the stock market, predictions are a regular feature of our lives. Most of these sectors rely on past data and models that can give us a decent sense of what to expect in the future.",
-    "url": "https://medicalxpress.com/news/2026-05-ai-future.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-ai-help-predict-ho.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-22T02:40:01+00:00",
-    "fetched_at": "2026-05-22T14:36:59.410028+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "7c5da6817ac70c13",
-    "title": "Researchers transform paper sludge into valuable biofuels",
-    "description": "Researchers have demonstrated that different types of paper industry sludge, typically treated as a low-value waste, can be transformed into a high-yield renewable biofuel. The study, published in Biofuels, Bioproducts and Biorefining, reveals that paper sludge streams vary significantly in their suitability for producing bioethanol and biogas, offering a pathway to more efficient waste-to-energy strategies.",
-    "url": "https://phys.org/news/2026-05-paper-sludge-valuable-biofuels.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paper-sludge-could-be.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-22T02:00:01+00:00",
-    "fetched_at": "2026-05-22T10:40:33.992201+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "cdeb21f05a1a122e",
-    "title": "Researcher develops 'smart, tiny bubbles' to treat cancer and heart disease",
-    "description": "A cell 500 times thinner than a human hair could heal hearts and kill cancer cells, thanks to a patent-pending technology created by a University of Central Florida researcher and now licensed to a university donor in hopes of getting it to clinical trials.",
-    "url": "https://medicalxpress.com/news/2026-05-smart-tiny-cancer-heart-disease.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ucf-researcher-develop.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-22T01:40:04+00:00",
-    "fetched_at": "2026-05-22T14:36:59.410057+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "402c76230de93a27",
-    "title": "Scientists discover a two-stage aging process that may cause cancer and arthritis",
-    "description": "A new theory suggests many age-related diseases may actually start decades before symptoms appear. Researchers say early-life damage — from infections, injuries, or genetic mutations — can remain hidden until aging weakens the body’s ability to keep it under control. This could explain why conditions like cancer, osteoarthritis, and shingles suddenly emerge later in life.",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260521072420.htm",
-    "image": "https://picsum.photos/seed/wv-fill-11be435c48ae/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-22T01:00:18+00:00",
-    "fetched_at": "2026-05-23T12:10:42.278988+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "f4c199f1c707f300",
-    "title": "Bacterial STIs reach record highs in Europe, and congenital syphilis cases nearly double",
-    "description": "The latest Annual Epidemiological Reports from ECDC indicate a surge in bacterial sexually transmitted infections (STIs) across Europe. In 2024, notifications of gonorrhea and syphilis, alongside congenital syphilis, reached their highest levels in over a decade, reflecting sustained transmission across multiple countries.",
-    "url": "https://medicalxpress.com/news/2026-05-bacterial-stis-highs-europe-congenital.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nightclub-1.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-22T01:00:02+00:00",
-    "fetched_at": "2026-05-22T14:36:59.410086+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "4ada06e570c281a7",
-    "title": "Long-serving CEOs may weaken innovation, study finds",
-    "description": "A new study from the University of East London has found that companies led by long-serving chief executives may become less innovative over time unless challenged by strong independent boards. The research examined 215 FTSE 350 companies over an 11-year period between 2010 and 2021. It explored how CEO tenure and independent directors influence a company's \"R&D knowledge stock,\" which is the research, expertise and technological capability built through investment in innovation.",
-    "url": "https://phys.org/news/2026-05-ceos-weaken.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/business-office.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-22T00:40:01+00:00",
-    "fetched_at": "2026-05-22T10:40:33.992257+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "3109f1f7cc4200d8",
-    "title": "Elite immune cells lead the fight against multiple myeloma",
-    "description": "Immunotherapy for cancer works like a guided missile, directing the body's immune cells toward tumor cells. However, not all immune cells respond to the call to attack, and this can lead to variability in treatment responses. As immune cell response is a critical factor in the likelihood of overcoming the disease, understanding why is paramount.",
-    "url": "https://medicalxpress.com/news/2026-05-elite-immune-cells-multiple-myeloma.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/elite-immune-cells-lea.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-22T00:20:01+00:00",
-    "fetched_at": "2026-05-22T14:36:59.410116+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "db630a10f48cb454",
-    "title": "Think you’re bad at languages? Experts say these 5 myths are to blame",
-    "description": "Many people avoid learning a new language because they remember stressful grammar lessons or fear making mistakes. But language experts say communication, culture, and connection matter far more than perfection. Modern apps, entertainment, travel, and online communities have made learning easier, more social, and surprisingly fun.",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260521072412.htm",
-    "image": "https://picsum.photos/seed/wv-fill-f6ac202f31b6/1200/750",
-    "source": "ScienceDaily Top",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-22T00:14:13+00:00",
-    "fetched_at": "2026-05-23T12:10:42.279061+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "dbe81464795a64de",
-    "title": "Romania dig uncovers 350-square-meter megastructure in 45-house prehistoric settlement",
-    "description": "Researchers from Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) have found new indications of how large prehistoric settlements were organized. Their research focused on a special type of building known as a megastructure. Excavations in Romania have now shown that this type of building was also found in smaller settlements. Megastructures give new insights into how communities with thousands of members were able to function without any recognizable hierarchies.",
-    "url": "https://phys.org/news/2026-05-romania-uncovers-square-meter-megastructure.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/megastructures-give-cl.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-21T23:40:05+00:00",
-    "fetched_at": "2026-05-22T10:40:33.992307+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "d758e91efb448e90",
-    "title": "Exercising in the open air is the best ally to combat winter vitamin D deficiency, study says",
-    "description": "Vitamin D is important for the body to function properly: it balances the immune system, helps to keep bones healthy and benefits muscle regeneration. Yet, 1 billion people worldwide are vitamin D deficient. This is the case in winter particularly, as UVB rays barely reach Earth's surface. In fact, the body produces 80% of this type of vitamin through solar radiation (the remainder comes from the diet). Given this, and considering the physiological functions of vitamin D, the effect it might have on both health and physical performance when taken as a supplement has kindled interest.",
-    "url": "https://medicalxpress.com/news/2026-05-air-ally-combat-winter-vitamin.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exercising-in-the-open.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-21T23:40:04+00:00",
-    "fetched_at": "2026-05-22T14:36:59.410153+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "b365f2831084f5b7",
-    "title": "We analyzed the TikTok history of 142 men. Here's what it taught us about the manosphere",
-    "description": "Interest in the manosphere has recently surged yet again, with the recent Louis Theroux documentary catapulting the term \"manosphere\" back to the forefront of our cultural psyche.",
-    "url": "https://phys.org/news/2026-05-tiktok-history-men-taught-manosphere.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/we-analysed-the-tiktok.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-21T23:40:01+00:00",
-    "fetched_at": "2026-05-22T10:40:33.992345+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "52810aa5ab9172dc",
-    "title": "NASA's AWE instrument completes mission to study Earth's effect on space weather",
-    "description": "On May 21, ground controllers powered down NASA's AWE (Atmospheric Waves Experiment) instrument, bringing the data collection phase of the mission to a successful and scheduled end, surpassing its planned two-year mission.",
-    "url": "https://phys.org/news/2026-05-nasa-awe-instrument-mission-earth.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-experiment-comple.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-21T23:20:04+00:00",
-    "fetched_at": "2026-05-22T10:40:33.992384+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "235f72c9000fc461",
-    "title": "Molecular pathways behind inflammation in alcohol-associated liver disease mapped",
-    "description": "Cedars-Sinai Health Sciences University investigators have identified molecular mechanisms that drive inflammation in alcohol-associated liver disease. Their preclinical discoveries could one day provide targets for therapies to treat the potentially fatal condition.",
-    "url": "https://medicalxpress.com/news/2026-05-molecular-pathways-inflammation-alcohol-liver.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cedars-sinai-research.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-21T23:20:03+00:00",
-    "fetched_at": "2026-05-22T14:36:59.410179+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "92868b776cc81362",
-    "title": "UK's younger generations likelier to experience poor health earlier in life than previous cohorts, research shows",
-    "description": "Younger generations appear to be experiencing poorer health earlier in life than previous generations, according to a review of studies comparing national birth cohort datasets involving tens of thousands of people across the UK born since 1946.",
-    "url": "https://medicalxpress.com/news/2026-05-uk-younger-generations-likelier-poor.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/overweight-young-perso.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-21T23:10:02+00:00",
-    "fetched_at": "2026-05-22T14:36:59.410207+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "66d15d8b1435f100",
-    "title": "AI not yet good enough to grade university essays, rewarding 'style over substance'",
-    "description": "Researchers have used top Generative AI models to grade hundreds of undergraduate essays and found that AI only matched human-awarded degree classification around half the time, with AI often failing to accurately assess the best and worst submissions.",
-    "url": "https://phys.org/news/2026-05-ai-good-grade-university-essays.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exam-hall.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-21T23:00:04+00:00",
-    "fetched_at": "2026-05-22T10:40:33.992424+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "5c06a6b733a65456",
-    "title": "Ancient seas get a new T. rex as massive mosasaur emerges from Texas fossils",
-    "description": "There's a new T. rex in the fossil record, only this one terrorized the ancient seas. New research led by scientists at the American Museum of Natural History, the Perot Museum of Nature and Science in Dallas, and Southern Methodist University uncovers a new, massive species of mosasaur, a marine reptile that lived during the age of the dinosaurs. One of the largest mosasaurs known to date—stretching up to 43 feet long—this top predator was described from 80-million-year-old fossils that were found primarily in northern Texas decades ago. It was named Tylosaurus rex, or T. rex for short, meaning \"king of the tylosaurs.\"",
-    "url": "https://phys.org/news/2026-05-ancient-seas-rex-massive-mosasaur.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-species-of-massive.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-21T23:00:03+00:00",
-    "fetched_at": "2026-05-22T10:40:33.992482+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "e90ebd9bcc23dec6",
-    "title": "Spinal stimulation data reveal why high-frequency pulses may miss key nerve pathways",
-    "description": "Electrical stimulation of the spinal cord, such as following a spinal cord injury, has made great strides in recent years. However, high-frequency stimulation pulses, which are used in many current applications, appear less efficient at activating those nerve fibers that are believed to contribute decisively to therapeutic effects. This is the conclusion of a study conducted by an international team with the participation of Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU).",
-    "url": "https://medicalxpress.com/news/2026-05-spinal-reveal-high-frequency-pulses.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electrical-spinal-cord.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-21T23:00:02+00:00",
-    "fetched_at": "2026-05-22T14:36:59.410242+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "ab8275e8e4430592",
-    "title": "Television news coverage of climate policy is limited and polarized in the US, study finds",
-    "description": "Two-thirds of Americans want action on climate change, but people vastly underestimate public support for climate solutions and policy. Historically, U.S. news outlets overrepresented views on climate change that went against scientific consensus. If news outlets are similarly overrepresenting opposition to climate policy, it could explain the discrepancy between public support and perception.",
-    "url": "https://phys.org/news/2026-05-television-news-coverage-climate-policy.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tv-news-1.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-21T22:40:01+00:00",
-    "fetched_at": "2026-05-22T10:40:33.992525+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "90ff762d3cc608c3",
-    "title": "Ford Could Sell Spanish Factory Space To Geely To Build EVs",
-    "description": "The trend continues — another Chinese automaker finds factory space in Europe to build electric cars there. Ford is reportedly on the verge of selling factory space in Spain to Chinese automotive giant Geely. This would be the first place in Europe where Geely would build cars. The factory space ... [continued] The post Ford Could Sell Spanish Factory Space To Geely To Build EVs appeared first on CleanTechnica .",
-    "url": "https://cleantechnica.com/2026/05/21/ford-could-sell-spanish-factory-space-to-geely-to-build-evs/",
-    "image": "https://picsum.photos/seed/wv-news-4bd336d505fb/1200/750",
-    "source": "CleanTechnica",
-    "source_id": "src-089",
-    "category": "znanost",
-    "published_at": "2026-05-21T22:33:04+00:00",
-    "fetched_at": "2026-05-22T22:17:33.846982+00:00"
-  },
-  {
-    "id": "9c2adbcf5037356c",
-    "title": "Mental disorders have nearly doubled since 1990, now affecting 1.2 billion people worldwide",
-    "description": "Nearly 1.2 billion people worldwide are living with a mental disorder, nearly double the number recorded in 1990. According to a new study, this stark rise has placed mental disorders as the leading cause of disability globally, surpassing cardiovascular disease, cancer, and musculoskeletal conditions.",
-    "url": "https://medicalxpress.com/news/2026-05-mental-disorders-affecting-billion-people.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/mental-disorders.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-21T22:30:02+00:00",
-    "fetched_at": "2026-05-22T14:36:59.410270+00:00",
     "missing_core_fill": true
   }
 ]

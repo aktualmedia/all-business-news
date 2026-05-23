@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-23T12:11:12.031370+00:00",
+  "updated_at": "2026-05-23T15:53:30.343711+00:00",
   "sources": 236,
-  "ok": 167,
-  "problem": 53,
+  "ok": 168,
+  "problem": 52,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -368,17 +368,6 @@
       "error": ""
     },
     {
-      "id": "src-065",
-      "name": "Engadget",
-      "category": "tehnologija",
-      "url": "https://www.engadget.com/rss.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-001",
       "name": "FT Business - Google News",
       "category": "poslovanje",
@@ -665,10 +654,10 @@
       "error": ""
     },
     {
-      "id": "extra-care-002",
-      "name": "MindBodyGreen",
-      "category": "lifestyle",
-      "url": "https://www.mindbodygreen.com/rss.xml",
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1175,6 +1164,17 @@
       "name": "Design Milk Lifestyle",
       "category": "lifestyle",
       "url": "https://design-milk.com/category/lifestyle/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-065",
+      "name": "Engadget",
+      "category": "tehnologija",
+      "url": "https://www.engadget.com/rss.xml",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1842,6 +1842,17 @@
       "error": ""
     },
     {
+      "id": "extra-care-002",
+      "name": "MindBodyGreen",
+      "category": "lifestyle",
+      "url": "https://www.mindbodygreen.com/rss.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 3,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-022",
       "name": "Brookings Economy",
       "category": "ekonomija",
@@ -2379,17 +2390,6 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-034",
