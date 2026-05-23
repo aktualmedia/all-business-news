@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-05-23T10:16:54.550938+00:00",
+  "updated_at": "2026-05-23T12:11:12.002686+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 104,
-      "cover": "https://www.journal.hr/wp-content/uploads/2026/05/amore-u-more-predstava-journal-550x550.jpg"
+      "count": 100,
+      "cover": "https://deadline.com/wp-content/uploads/2026/05/MixCollage-23-May-2026-01-40-PM-3583.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 20,
-      "cover": "https://cdn.mos.cms.futurecdn.net/jyeLD9WvnSxCBP6Hf8ic6T-1280-80.jpg"
+      "count": 25,
+      "cover": "https://www.yankodesign.com/images/design_news/2026/05/designer-pens-that-make-every-other-gift-for-him-look-lazy/5_best_pens_yanko_design_hero.webp"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
       "count": 8,
-      "cover": "https://robbreport.com/wp-content/uploads/2026/05/Rittenhouse_Rye_250th_Anniversary_c4c861.jpg"
+      "cover": "https://www.journal.hr/wp-content/uploads/2026/02/zapecene-palacinke-sa-sirom-1-scaled-e1770365408629-768x512.jpg"
     },
     {
       "id": "hrana",
@@ -35,43 +35,43 @@
     {
       "id": "satovi",
       "label": "SATOVI",
-      "count": 6,
-      "cover": "https://hodinkee.imgix.net/uploads/images/66641725-c703-43ff-8603-0d63be4da8cf/cropped.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000"
+      "count": 5,
+      "cover": "https://monochrome-watches.com/app/uploads/2026/05/1937-BMW-328-Bugelfalte-Concorso-dEleganza-Villa-dEste-4-600x237.jpg"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 20,
+      "count": 19,
       "cover": "https://www.catster.com/wp-content/uploads/2023/11/happy-birthday-cats.jpg"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 45,
-      "cover": "https://media.wired.com/photos/6a0603633f6b307a9138c247/master/pass/Best%20Memorial%20Day%20Mattress%20Deals%20SOURCE%20MyGreenMattress%20Birch%20Naturepedic.jpg"
+      "count": 53,
+      "cover": "https://media.wired.com/photos/6a0c7736cffddde770352aa6/master/pass/1%20-%20Courtesy-of-L.L.-Bean.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 86,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/linkedin.jpg"
+      "count": 82,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-model-of-chinas-tian.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 127,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a114b6d3d6433ce2801b379/0x0.jpg?width=960"
+      "count": 131,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/6836be3590f0458b4430a5c7/0x0.jpg?width=960"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
       "count": 55,
-      "cover": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M01H_L.jpg"
+      "cover": "https://www.finance-monthly.com/wp-content/uploads/2026/05/aaa1-1024x614.jpg"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 24,
+      "count": 17,
       "cover": "https://www.freightwaves.com/wp-content/uploads/2026/05/22/Trailers-Jim-Allen-FreightWaves.jpg"
     }
   ]

@@ -9,7 +9,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-23T11:45:54.390518+00:00"
+    "fetched_at": "2026-05-23T12:06:16.551852+00:00"
   },
   {
     "id": "518893cda3595307",
@@ -21,7 +21,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-23T11:45:54.390578+00:00"
+    "fetched_at": "2026-05-23T12:06:16.551893+00:00"
   },
   {
     "id": "a85a64336941fc6a",
@@ -33,7 +33,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-23T11:45:54.390631+00:00"
+    "fetched_at": "2026-05-23T12:06:16.551927+00:00"
   },
   {
     "id": "2e1458e924954e4f",
@@ -117,7 +117,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-23T11:45:54.390681+00:00"
+    "fetched_at": "2026-05-23T12:06:16.551959+00:00"
+  },
+  {
+    "id": "25b3dba7ac823a67",
+    "title": "A hidden figure behind GPS, a cycling champion, and a quiet trucking giant",
+    "description": "Our latest obituaries also include a Hollywood animator, a cable industry innovator, and a prize-winning doctor who built a tuberculosis lab.",
+    "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-lives-and-legacies/2026-volume-3",
+    "image": "https://picsum.photos/seed/wv-news-d01f37bede34/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Tue, 19 May 2026",
+    "fetched_at": "2026-05-23T12:06:16.551989+00:00"
   },
   {
     "id": "afe04b4cab8b18fe",
@@ -130,18 +142,6 @@
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
     "fetched_at": "2026-05-23T11:45:54.390731+00:00"
-  },
-  {
-    "id": "25b3dba7ac823a67",
-    "title": "A hidden figure behind GPS, a cycling champion, and a quiet trucking giant",
-    "description": "Our latest obituaries also include a Hollywood animator, a cable industry innovator, and a prize-winning doctor who built a tuberculosis lab.",
-    "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-lives-and-legacies/2026-volume-3",
-    "image": "https://picsum.photos/seed/wv-news-d01f37bede34/1200/750",
-    "source": "McKinsey Insights",
-    "source_id": "src-004",
-    "category": "poslovanje",
-    "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-22T14:31:05.502056+00:00"
   },
   {
     "id": "f34e0846cfa4155f",
@@ -165,7 +165,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-23T11:45:54.390206+00:00"
+    "fetched_at": "2026-05-23T12:06:16.551664+00:00"
   },
   {
     "id": "c1e318d2391644ae",
@@ -177,7 +177,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-23T11:45:54.390259+00:00"
+    "fetched_at": "2026-05-23T12:06:16.551700+00:00"
   },
   {
     "id": "c40b3cdc959689d5",
@@ -189,7 +189,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-23T11:45:54.390346+00:00"
+    "fetched_at": "2026-05-23T12:06:16.551742+00:00"
   },
   {
     "id": "0a9048444929a690",
@@ -201,7 +201,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-23T11:45:54.390415+00:00"
+    "fetched_at": "2026-05-23T12:06:16.551785+00:00"
   },
   {
     "id": "e1ec5383ee11f320",
@@ -213,7 +213,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-23T11:45:54.390467+00:00"
+    "fetched_at": "2026-05-23T12:06:16.551818+00:00"
   },
   {
     "id": "b4cea2ca3d77a858",
@@ -321,7 +321,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 22 May 2026",
-    "fetched_at": "2026-05-23T11:45:54.390149+00:00"
+    "fetched_at": "2026-05-23T12:06:16.551610+00:00"
   },
   {
     "id": "415368da854b2685",
@@ -368,8 +368,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T11:50:48.028960+00:00",
-    "fetched_at": "2026-05-23T11:50:48.028963+00:00",
+    "published_at": "2026-05-23T12:10:48.202561+00:00",
+    "fetched_at": "2026-05-23T12:10:48.202563+00:00",
     "missing_core_fill": true
   },
   {
@@ -381,8 +381,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T11:50:48.028909+00:00",
-    "fetched_at": "2026-05-23T11:50:48.028912+00:00",
+    "published_at": "2026-05-23T12:10:48.202525+00:00",
+    "fetched_at": "2026-05-23T12:10:48.202527+00:00",
     "missing_core_fill": true
   },
   {
@@ -394,8 +394,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T11:50:48.028859+00:00",
-    "fetched_at": "2026-05-23T11:50:48.028861+00:00",
+    "published_at": "2026-05-23T12:10:48.202490+00:00",
+    "fetched_at": "2026-05-23T12:10:48.202491+00:00",
     "missing_core_fill": true
   },
   {
@@ -407,8 +407,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T11:50:48.028800+00:00",
-    "fetched_at": "2026-05-23T11:50:48.028803+00:00",
+    "published_at": "2026-05-23T12:10:48.202450+00:00",
+    "fetched_at": "2026-05-23T12:10:48.202452+00:00",
     "missing_core_fill": true
   },
   {
@@ -420,8 +420,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T11:50:48.028752+00:00",
-    "fetched_at": "2026-05-23T11:50:48.028755+00:00",
+    "published_at": "2026-05-23T12:10:48.202416+00:00",
+    "fetched_at": "2026-05-23T12:10:48.202418+00:00",
     "missing_core_fill": true
   },
   {
@@ -433,8 +433,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T11:50:48.028697+00:00",
-    "fetched_at": "2026-05-23T11:50:48.028700+00:00",
+    "published_at": "2026-05-23T12:10:48.202380+00:00",
+    "fetched_at": "2026-05-23T12:10:48.202381+00:00",
     "missing_core_fill": true
   },
   {
@@ -446,8 +446,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T11:50:48.028640+00:00",
-    "fetched_at": "2026-05-23T11:50:48.028642+00:00",
+    "published_at": "2026-05-23T12:10:48.202338+00:00",
+    "fetched_at": "2026-05-23T12:10:48.202340+00:00",
     "missing_core_fill": true
   },
   {
@@ -459,8 +459,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T11:50:48.028587+00:00",
-    "fetched_at": "2026-05-23T11:50:48.028590+00:00",
+    "published_at": "2026-05-23T12:10:48.202301+00:00",
+    "fetched_at": "2026-05-23T12:10:48.202302+00:00",
     "missing_core_fill": true
   },
   {
@@ -472,8 +472,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T11:50:48.028523+00:00",
-    "fetched_at": "2026-05-23T11:50:48.028526+00:00",
+    "published_at": "2026-05-23T12:10:48.202253+00:00",
+    "fetched_at": "2026-05-23T12:10:48.202255+00:00",
     "missing_core_fill": true
   },
   {
@@ -485,21 +485,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T11:50:48.028451+00:00",
-    "fetched_at": "2026-05-23T11:50:48.028458+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "4a9732af781049ba",
-    "title": "LG’s 77-inch B5 OLED TV is down to $1,500 and comes with a $200 gift card",
-    "description": "Best Buy’s Memorial Day sale includes a good deal on a massive OLED TV. The 77-inch LG B5 is down to $1,499.99 (originally $2,999.99), and the purchase includes a $200 Best Buy gift card. I’m a 55-inch TV kind of person, but if you’ve got the budget — and the wall space — this is […]",
-    "url": "https://www.theverge.com/gadgets/936122/lg-b5-oled-77-best-buy-gift-card-memorial-day-deal-sale",
-    "image": "https://picsum.photos/seed/wv-fill-bbbc61c21cc7/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-23T11:50:41.277218+00:00",
-    "fetched_at": "2026-05-23T11:50:41.277221+00:00",
+    "published_at": "2026-05-23T12:10:48.202197+00:00",
+    "fetched_at": "2026-05-23T12:10:48.202204+00:00",
     "missing_core_fill": true
   },
   {
@@ -511,8 +498,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T11:50:41.277161+00:00",
-    "fetched_at": "2026-05-23T11:50:41.277164+00:00",
+    "published_at": "2026-05-23T12:10:41.592043+00:00",
+    "fetched_at": "2026-05-23T12:10:41.592045+00:00",
     "missing_core_fill": true
   },
   {
@@ -524,8 +511,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T11:50:41.277111+00:00",
-    "fetched_at": "2026-05-23T11:50:41.277114+00:00",
+    "published_at": "2026-05-23T12:10:41.592007+00:00",
+    "fetched_at": "2026-05-23T12:10:41.592009+00:00",
     "missing_core_fill": true
   },
   {
@@ -537,8 +524,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T11:50:41.277050+00:00",
-    "fetched_at": "2026-05-23T11:50:41.277053+00:00",
+    "published_at": "2026-05-23T12:10:41.591966+00:00",
+    "fetched_at": "2026-05-23T12:10:41.591967+00:00",
     "missing_core_fill": true
   },
   {
@@ -550,8 +537,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T11:50:41.276990+00:00",
-    "fetched_at": "2026-05-23T11:50:41.276992+00:00",
+    "published_at": "2026-05-23T12:10:41.591926+00:00",
+    "fetched_at": "2026-05-23T12:10:41.591927+00:00",
     "missing_core_fill": true
   },
   {
@@ -563,8 +550,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T11:50:41.276923+00:00",
-    "fetched_at": "2026-05-23T11:50:41.276925+00:00",
+    "published_at": "2026-05-23T12:10:41.591889+00:00",
+    "fetched_at": "2026-05-23T12:10:41.591891+00:00",
     "missing_core_fill": true
   },
   {
@@ -576,8 +563,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T11:50:41.276869+00:00",
-    "fetched_at": "2026-05-23T11:50:41.276872+00:00",
+    "published_at": "2026-05-23T12:10:41.591854+00:00",
+    "fetched_at": "2026-05-23T12:10:41.591855+00:00",
     "missing_core_fill": true
   },
   {
@@ -589,8 +576,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T11:50:41.276808+00:00",
-    "fetched_at": "2026-05-23T11:50:41.276811+00:00",
+    "published_at": "2026-05-23T12:10:41.591813+00:00",
+    "fetched_at": "2026-05-23T12:10:41.591815+00:00",
     "missing_core_fill": true
   },
   {
@@ -602,8 +589,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T11:50:41.276741+00:00",
-    "fetched_at": "2026-05-23T11:50:41.276744+00:00",
+    "published_at": "2026-05-23T12:10:41.591768+00:00",
+    "fetched_at": "2026-05-23T12:10:41.591770+00:00",
     "missing_core_fill": true
   },
   {
@@ -615,35 +602,22 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T11:50:41.276656+00:00",
-    "fetched_at": "2026-05-23T11:50:41.276668+00:00",
+    "published_at": "2026-05-23T12:10:41.591717+00:00",
+    "fetched_at": "2026-05-23T12:10:41.591719+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "0c7a752ae8119e34",
-    "title": "Republican defiance over ’anti-weaponization’ fund sets up confrontation with Trump",
-    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/economy-news/republican-defiance-over-antiweaponization-fund-sets-up-confrontation-with-trump-4708028",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M068_L.jpg",
-    "source": "Investing.com News",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-23T11:50:34.230620+00:00",
-    "fetched_at": "2026-05-23T11:50:34.230622+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "00c912b7693b014a",
-    "title": "Exclusive-Ukraine’s Zelenskiy says proposal of associate EU membership ’unfair’",
-    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/economy-news/exclusiveukraines-zelenskiy-says-proposal-of-associate-eu-membership-unfair-4708014",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M03O_L.jpg",
-    "source": "Investing.com News",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-23T11:50:34.230587+00:00",
-    "fetched_at": "2026-05-23T11:50:34.230589+00:00",
-    "core_business_science_fill": true
+    "id": "adee31f13a36cbc4",
+    "title": "I have a new go-to browser",
+    "description": "Hi, friends! Welcome to Installer No. 129, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, come on you Gunners, and also you can read all the old editions at the Installer homepage.) This week, I've mostly been sick, which has meant nearly a full rewatch of Parks […]",
+    "url": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer",
+    "image": "https://picsum.photos/seed/wv-fill-357528806287/1200/750",
+    "source": "The Verge",
+    "source_id": "missing-core-tehnologija",
+    "category": "tehnologija",
+    "published_at": "2026-05-23T12:10:41.591660+00:00",
+    "fetched_at": "2026-05-23T12:10:41.591667+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "39b3871775b3948c",
@@ -654,8 +628,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T11:50:34.230553+00:00",
-    "fetched_at": "2026-05-23T11:50:34.230556+00:00",
+    "published_at": "2026-05-23T12:10:35.553560+00:00",
+    "fetched_at": "2026-05-23T12:10:35.553562+00:00",
     "core_business_science_fill": true
   },
   {
@@ -667,8 +641,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T11:50:34.230514+00:00",
-    "fetched_at": "2026-05-23T11:50:34.230516+00:00",
+    "published_at": "2026-05-23T12:10:35.553537+00:00",
+    "fetched_at": "2026-05-23T12:10:35.553539+00:00",
     "core_business_science_fill": true
   },
   {
@@ -680,8 +654,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T11:50:34.230479+00:00",
-    "fetched_at": "2026-05-23T11:50:34.230482+00:00",
+    "published_at": "2026-05-23T12:10:35.553515+00:00",
+    "fetched_at": "2026-05-23T12:10:35.553516+00:00",
     "core_business_science_fill": true
   },
   {
@@ -693,8 +667,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T11:50:34.230444+00:00",
-    "fetched_at": "2026-05-23T11:50:34.230446+00:00",
+    "published_at": "2026-05-23T12:10:35.553491+00:00",
+    "fetched_at": "2026-05-23T12:10:35.553493+00:00",
     "core_business_science_fill": true
   },
   {
@@ -706,8 +680,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T11:50:34.230409+00:00",
-    "fetched_at": "2026-05-23T11:50:34.230411+00:00",
+    "published_at": "2026-05-23T12:10:35.553469+00:00",
+    "fetched_at": "2026-05-23T12:10:35.553471+00:00",
     "core_business_science_fill": true
   },
   {
@@ -719,8 +693,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T11:50:34.230365+00:00",
-    "fetched_at": "2026-05-23T11:50:34.230369+00:00",
+    "published_at": "2026-05-23T12:10:35.553447+00:00",
+    "fetched_at": "2026-05-23T12:10:35.553448+00:00",
     "core_business_science_fill": true
   },
   {
@@ -732,8 +706,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T11:50:34.230297+00:00",
-    "fetched_at": "2026-05-23T11:50:34.230300+00:00",
+    "published_at": "2026-05-23T12:10:35.553421+00:00",
+    "fetched_at": "2026-05-23T12:10:35.553422+00:00",
     "core_business_science_fill": true
   },
   {
@@ -745,22 +719,35 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T11:50:34.230245+00:00",
-    "fetched_at": "2026-05-23T11:50:34.230260+00:00",
+    "published_at": "2026-05-23T12:10:35.553400+00:00",
+    "fetched_at": "2026-05-23T12:10:35.553402+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "4bbbd3880f7d60c3",
-    "title": "Kada ste zadnji put jeli zapečene palačinke sa sirom? Donosimo najbolji domaći recept Ponedjeljak, 18. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - gastro. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/gastro/zapecene-palacinke-sa-sirom/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/02/zapecene-palacinke-sa-sirom-1-scaled-e1770365408629-768x512.jpg",
-    "source": "Journal.hr - gastro",
-    "source_id": "extra-journal-gastro",
-    "category": "hedonizam",
-    "published_at": "2026-05-23T11:47:58.243125+00:00",
-    "fetched_at": "2026-05-23T11:47:58.243127+00:00",
-    "html_source": true
+    "id": "76c6ce9f2363bb6b",
+    "title": "Interactive Brokers’ SWOT analysis: stock shows momentum amid growth",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/swot-analysis/interactive-brokers-swot-analysis-stock-shows-momentum-amid-growth-93CH-4708038",
+    "image": "https://picsum.photos/seed/wv-core-406769876e32/1200/750",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-23T12:10:35.553374+00:00",
+    "fetched_at": "2026-05-23T12:10:35.553376+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "2e9be6de5624bc5e",
+    "title": "Thousands evacuated in Southern California due to failing chemical tank",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/world-news/thousands-evacuated-in-southern-california-due-to-failing-chemicaltank-4707960",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M011_L.jpg",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-23T12:10:35.553330+00:00",
+    "fetched_at": "2026-05-23T12:10:35.553340+00:00",
+    "core_business_science_fill": true
   },
   {
     "id": "41fc2641c3f0ad67",
@@ -771,8 +758,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T11:47:58.242944+00:00",
-    "fetched_at": "2026-05-23T11:47:58.242946+00:00",
+    "published_at": "2026-05-23T12:08:16.737808+00:00",
+    "fetched_at": "2026-05-23T12:08:16.737810+00:00",
     "html_source": true
   },
   {
@@ -784,8 +771,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T11:47:58.242786+00:00",
-    "fetched_at": "2026-05-23T11:47:58.242789+00:00",
+    "published_at": "2026-05-23T12:08:16.737693+00:00",
+    "fetched_at": "2026-05-23T12:08:16.737694+00:00",
     "html_source": true
   },
   {
@@ -797,8 +784,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T11:47:58.242609+00:00",
-    "fetched_at": "2026-05-23T11:47:58.242612+00:00",
+    "published_at": "2026-05-23T12:08:16.737557+00:00",
+    "fetched_at": "2026-05-23T12:08:16.737558+00:00",
     "html_source": true
   },
   {
@@ -810,8 +797,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T11:47:58.242452+00:00",
-    "fetched_at": "2026-05-23T11:47:58.242456+00:00",
+    "published_at": "2026-05-23T12:08:16.737448+00:00",
+    "fetched_at": "2026-05-23T12:08:16.737450+00:00",
     "html_source": true
   },
   {
@@ -823,8 +810,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T11:47:58.242278+00:00",
-    "fetched_at": "2026-05-23T11:47:58.242281+00:00",
+    "published_at": "2026-05-23T12:08:16.737338+00:00",
+    "fetched_at": "2026-05-23T12:08:16.737340+00:00",
     "html_source": true
   },
   {
@@ -836,8 +823,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T11:47:58.242128+00:00",
-    "fetched_at": "2026-05-23T11:47:58.242130+00:00",
+    "published_at": "2026-05-23T12:08:16.737228+00:00",
+    "fetched_at": "2026-05-23T12:08:16.737229+00:00",
     "html_source": true
   },
   {
@@ -849,8 +836,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T11:47:58.241972+00:00",
-    "fetched_at": "2026-05-23T11:47:58.241974+00:00",
+    "published_at": "2026-05-23T12:08:16.737114+00:00",
+    "fetched_at": "2026-05-23T12:08:16.737115+00:00",
     "html_source": true
   },
   {
@@ -862,8 +849,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T11:47:58.241811+00:00",
-    "fetched_at": "2026-05-23T11:47:58.241814+00:00",
+    "published_at": "2026-05-23T12:08:16.736997+00:00",
+    "fetched_at": "2026-05-23T12:08:16.736998+00:00",
     "html_source": true
   },
   {
@@ -875,8 +862,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T11:47:58.241647+00:00",
-    "fetched_at": "2026-05-23T11:47:58.241650+00:00",
+    "published_at": "2026-05-23T12:08:16.736880+00:00",
+    "fetched_at": "2026-05-23T12:08:16.736881+00:00",
     "html_source": true
   },
   {
@@ -888,8 +875,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T11:47:58.241479+00:00",
-    "fetched_at": "2026-05-23T11:47:58.241483+00:00",
+    "published_at": "2026-05-23T12:08:16.736763+00:00",
+    "fetched_at": "2026-05-23T12:08:16.736765+00:00",
     "html_source": true
   },
   {
@@ -901,8 +888,21 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T11:47:58.241257+00:00",
-    "fetched_at": "2026-05-23T11:47:58.241271+00:00",
+    "published_at": "2026-05-23T12:08:16.736623+00:00",
+    "fetched_at": "2026-05-23T12:08:16.736625+00:00",
+    "html_source": true
+  },
+  {
+    "id": "88b8317515431faa",
+    "title": "Ako tražite lagan i osvježavajuć ručak, imamo recept za salatu koja priziva ljeto Subota, 23. svibnja 2026.",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - gastro. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/lifestyle/gastro/salata-od-rajcice-haloumi-sira-i-narance-recept/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/salata-od-rajcice-768x576.jpg",
+    "source": "Journal.hr - gastro",
+    "source_id": "extra-journal-gastro",
+    "category": "hedonizam",
+    "published_at": "2026-05-23T12:08:16.736482+00:00",
+    "fetched_at": "2026-05-23T12:08:16.736497+00:00",
     "html_source": true
   }
 ]
