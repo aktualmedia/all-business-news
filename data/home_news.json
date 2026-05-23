@@ -9,7 +9,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-23T16:12:38.339088+00:00"
+    "fetched_at": "2026-05-23T19:57:39.606141+00:00"
   },
   {
     "id": "518893cda3595307",
@@ -21,7 +21,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-23T16:12:38.339151+00:00"
+    "fetched_at": "2026-05-23T19:57:39.606191+00:00"
   },
   {
     "id": "a85a64336941fc6a",
@@ -33,7 +33,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-23T16:12:38.339205+00:00"
+    "fetched_at": "2026-05-23T19:57:39.606234+00:00"
   },
   {
     "id": "2e1458e924954e4f",
@@ -117,7 +117,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-23T16:12:38.339258+00:00"
+    "fetched_at": "2026-05-23T19:57:39.606276+00:00"
   },
   {
     "id": "afe04b4cab8b18fe",
@@ -129,7 +129,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-23T16:12:38.339312+00:00"
+    "fetched_at": "2026-05-23T19:57:39.606318+00:00"
   },
   {
     "id": "25b3dba7ac823a67",
@@ -165,7 +165,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-23T16:12:38.338752+00:00"
+    "fetched_at": "2026-05-23T19:57:39.605900+00:00"
   },
   {
     "id": "c1e318d2391644ae",
@@ -177,7 +177,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-23T16:12:38.338809+00:00"
+    "fetched_at": "2026-05-23T19:57:39.605948+00:00"
   },
   {
     "id": "c40b3cdc959689d5",
@@ -189,19 +189,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-23T16:12:38.338906+00:00"
-  },
-  {
-    "id": "e1ec5383ee11f320",
-    "title": "Ramping up manufacturing in America?",
-    "description": "Probing how much manufacturing ramp-up would be needed to address US trade dependencies.",
-    "url": "https://www.mckinsey.com/mgi/our-research/ramping-up-manufacturing-in-america",
-    "image": "https://picsum.photos/seed/wv-news-54703be3cccd/1200/750",
-    "source": "McKinsey Insights",
-    "source_id": "src-004",
-    "category": "poslovanje",
-    "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-23T16:12:38.338962+00:00"
+    "fetched_at": "2026-05-23T19:57:39.606003+00:00"
   },
   {
     "id": "0a9048444929a690",
@@ -213,7 +201,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-23T16:12:38.339033+00:00"
+    "fetched_at": "2026-05-23T19:57:39.606057+00:00"
+  },
+  {
+    "id": "e1ec5383ee11f320",
+    "title": "Ramping up manufacturing in America?",
+    "description": "Probing how much manufacturing ramp-up would be needed to address US trade dependencies.",
+    "url": "https://www.mckinsey.com/mgi/our-research/ramping-up-manufacturing-in-america",
+    "image": "https://picsum.photos/seed/wv-news-54703be3cccd/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Thu, 21 May 2026",
+    "fetched_at": "2026-05-23T19:57:39.606100+00:00"
   },
   {
     "id": "b4cea2ca3d77a858",
@@ -321,7 +321,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 22 May 2026",
-    "fetched_at": "2026-05-23T16:12:38.338691+00:00"
+    "fetched_at": "2026-05-23T19:57:39.605849+00:00"
   },
   {
     "id": "415368da854b2685",
@@ -368,8 +368,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T16:17:10.469883+00:00",
-    "fetched_at": "2026-05-23T16:17:10.469886+00:00",
+    "published_at": "2026-05-23T20:02:40.969754+00:00",
+    "fetched_at": "2026-05-23T20:02:40.969758+00:00",
     "missing_core_fill": true
   },
   {
@@ -381,8 +381,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T16:17:10.469807+00:00",
-    "fetched_at": "2026-05-23T16:17:10.469809+00:00",
+    "published_at": "2026-05-23T20:02:40.969643+00:00",
+    "fetched_at": "2026-05-23T20:02:40.969645+00:00",
     "missing_core_fill": true
   },
   {
@@ -394,8 +394,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T16:17:10.469753+00:00",
-    "fetched_at": "2026-05-23T16:17:10.469755+00:00",
+    "published_at": "2026-05-23T20:02:40.969591+00:00",
+    "fetched_at": "2026-05-23T20:02:40.969594+00:00",
     "missing_core_fill": true
   },
   {
@@ -407,8 +407,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T16:17:10.469692+00:00",
-    "fetched_at": "2026-05-23T16:17:10.469695+00:00",
+    "published_at": "2026-05-23T20:02:40.969499+00:00",
+    "fetched_at": "2026-05-23T20:02:40.969501+00:00",
     "missing_core_fill": true
   },
   {
@@ -420,8 +420,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T16:17:10.469639+00:00",
-    "fetched_at": "2026-05-23T16:17:10.469641+00:00",
+    "published_at": "2026-05-23T20:02:40.969447+00:00",
+    "fetched_at": "2026-05-23T20:02:40.969451+00:00",
     "missing_core_fill": true
   },
   {
@@ -433,8 +433,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T16:17:10.469580+00:00",
-    "fetched_at": "2026-05-23T16:17:10.469582+00:00",
+    "published_at": "2026-05-23T20:02:40.969321+00:00",
+    "fetched_at": "2026-05-23T20:02:40.969323+00:00",
     "missing_core_fill": true
   },
   {
@@ -446,8 +446,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T16:17:10.469519+00:00",
-    "fetched_at": "2026-05-23T16:17:10.469521+00:00",
+    "published_at": "2026-05-23T20:02:40.969259+00:00",
+    "fetched_at": "2026-05-23T20:02:40.969262+00:00",
     "missing_core_fill": true
   },
   {
@@ -459,8 +459,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T16:17:10.469462+00:00",
-    "fetched_at": "2026-05-23T16:17:10.469464+00:00",
+    "published_at": "2026-05-23T20:02:40.969174+00:00",
+    "fetched_at": "2026-05-23T20:02:40.969177+00:00",
     "missing_core_fill": true
   },
   {
@@ -472,8 +472,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T16:17:10.469393+00:00",
-    "fetched_at": "2026-05-23T16:17:10.469396+00:00",
+    "published_at": "2026-05-23T20:02:40.969094+00:00",
+    "fetched_at": "2026-05-23T20:02:40.969102+00:00",
     "missing_core_fill": true
   },
   {
@@ -485,8 +485,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-23T16:17:10.469316+00:00",
-    "fetched_at": "2026-05-23T16:17:10.469323+00:00",
+    "published_at": "2026-05-23T20:02:40.968938+00:00",
+    "fetched_at": "2026-05-23T20:02:40.968952+00:00",
     "missing_core_fill": true
   },
   {
@@ -498,8 +498,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T16:17:03.900570+00:00",
-    "fetched_at": "2026-05-23T16:17:03.900572+00:00",
+    "published_at": "2026-05-23T20:02:33.700897+00:00",
+    "fetched_at": "2026-05-23T20:02:33.700899+00:00",
     "missing_core_fill": true
   },
   {
@@ -511,8 +511,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T16:17:03.900516+00:00",
-    "fetched_at": "2026-05-23T16:17:03.900518+00:00",
+    "published_at": "2026-05-23T20:02:33.700848+00:00",
+    "fetched_at": "2026-05-23T20:02:33.700851+00:00",
     "missing_core_fill": true
   },
   {
@@ -524,8 +524,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T16:17:03.900465+00:00",
-    "fetched_at": "2026-05-23T16:17:03.900467+00:00",
+    "published_at": "2026-05-23T20:02:33.700803+00:00",
+    "fetched_at": "2026-05-23T20:02:33.700805+00:00",
     "missing_core_fill": true
   },
   {
@@ -537,8 +537,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T16:17:03.900405+00:00",
-    "fetched_at": "2026-05-23T16:17:03.900408+00:00",
+    "published_at": "2026-05-23T20:02:33.700751+00:00",
+    "fetched_at": "2026-05-23T20:02:33.700753+00:00",
     "missing_core_fill": true
   },
   {
@@ -550,8 +550,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T16:17:03.900345+00:00",
-    "fetched_at": "2026-05-23T16:17:03.900347+00:00",
+    "published_at": "2026-05-23T20:02:33.700696+00:00",
+    "fetched_at": "2026-05-23T20:02:33.700698+00:00",
     "missing_core_fill": true
   },
   {
@@ -563,8 +563,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T16:17:03.900277+00:00",
-    "fetched_at": "2026-05-23T16:17:03.900280+00:00",
+    "published_at": "2026-05-23T20:02:33.700618+00:00",
+    "fetched_at": "2026-05-23T20:02:33.700620+00:00",
     "missing_core_fill": true
   },
   {
@@ -576,8 +576,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T16:17:03.900217+00:00",
-    "fetched_at": "2026-05-23T16:17:03.900219+00:00",
+    "published_at": "2026-05-23T20:02:33.700563+00:00",
+    "fetched_at": "2026-05-23T20:02:33.700565+00:00",
     "missing_core_fill": true
   },
   {
@@ -589,8 +589,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T16:17:03.900164+00:00",
-    "fetched_at": "2026-05-23T16:17:03.900166+00:00",
+    "published_at": "2026-05-23T20:02:33.700515+00:00",
+    "fetched_at": "2026-05-23T20:02:33.700517+00:00",
     "missing_core_fill": true
   },
   {
@@ -602,8 +602,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T16:17:03.900105+00:00",
-    "fetched_at": "2026-05-23T16:17:03.900108+00:00",
+    "published_at": "2026-05-23T20:02:33.700463+00:00",
+    "fetched_at": "2026-05-23T20:02:33.700466+00:00",
     "missing_core_fill": true
   },
   {
@@ -615,139 +615,165 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-23T16:17:03.900026+00:00",
-    "fetched_at": "2026-05-23T16:17:03.900040+00:00",
+    "published_at": "2026-05-23T20:02:33.700388+00:00",
+    "fetched_at": "2026-05-23T20:02:33.700401+00:00",
     "missing_core_fill": true
   },
   {
-    "id": "1084e48450b5e618",
-    "title": "U.S. and Iran report progress on talks ending war, looking to next few days",
+    "id": "487dcc07ac491b2d",
+    "title": "Colombian right-wing presidential hopeful leads poll for runoff vote",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/commodities-news/colombian-rightwing-presidential-hopeful-leads-poll-for-runoff-vote-4708074",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M0LE_L.jpg",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-23T20:02:26.057919+00:00",
+    "fetched_at": "2026-05-23T20:02:26.057921+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "7b2b3faf9f9a383b",
+    "title": "General Motors’ SWOT analysis: automaker stock faces EV headwinds",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/swot-analysis/general-motors-swot-analysis-automaker-stock-faces-ev-headwinds-93CH-4708075",
+    "image": "https://i-invdn-com.investing.com/news/General-Motors_M_1440049469.jpg",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-23T20:02:26.057893+00:00",
+    "fetched_at": "2026-05-23T20:02:26.057895+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "73b5c2725b14e977",
+    "title": "US and Iran report progress on talks ending war",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
     "url": "https://www.investing.com/news/commodities-news/us-and-iran-report-progress-on-talks-ending-war-looking-to-next-few-days-4708058",
     "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M0D2_L.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T16:16:53.437286+00:00",
-    "fetched_at": "2026-05-23T16:16:53.437288+00:00",
+    "published_at": "2026-05-23T20:02:26.057864+00:00",
+    "fetched_at": "2026-05-23T20:02:26.057866+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "7032c2a21af80646",
-    "title": "Rubio touts US energy on India trip meant to repair ties",
+    "id": "e6a4645691380f60",
+    "title": "Meta Platforms’ SWOT analysis: stock faces margin pressure amid AI push",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/economic-indicators/rubios-trip-to-india-signals-us-need-to-repair-ties-4707990",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M01H_L.jpg",
+    "url": "https://www.investing.com/news/swot-analysis/meta-platforms-swot-analysis-stock-faces-margin-pressure-amid-ai-push-93CH-4708076",
+    "image": "https://i-invdn-com.investing.com/news/facebook_2_M_1440049069.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T16:16:53.437257+00:00",
-    "fetched_at": "2026-05-23T16:16:53.437259+00:00",
+    "published_at": "2026-05-23T20:02:26.057836+00:00",
+    "fetched_at": "2026-05-23T20:02:26.057838+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "e875e77b6ccf2885",
-    "title": "McCormick & Co.’s SWOT analysis: stock navigates volume strategy",
+    "id": "1abe221296739669",
+    "title": "Corteva’s SWOT analysis: agribusiness stock shows growth potential",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/swot-analysis/mccormick--cos-swot-analysis-stock-navigates-volume-strategy-93CH-4708059",
-    "image": "https://picsum.photos/seed/wv-core-527914748f1d/1200/750",
+    "url": "https://www.investing.com/news/swot-analysis/cortevas-swot-analysis-agribusiness-stock-shows-growth-potential-93CH-4708077",
+    "image": "https://picsum.photos/seed/wv-core-0f8435caca8f/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T16:16:53.437228+00:00",
-    "fetched_at": "2026-05-23T16:16:53.437231+00:00",
+    "published_at": "2026-05-23T20:02:26.057803+00:00",
+    "fetched_at": "2026-05-23T20:02:26.057805+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "00c912b7693b014a",
-    "title": "Exclusive-Ukraine’s Zelenskiy says proposal of associate EU membership ’unfair’",
+    "id": "4c4199d275c55c99",
+    "title": "Atlassian’s SWOT analysis: stock faces AI headwinds and cloud growth",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/economy-news/exclusiveukraines-zelenskiy-says-proposal-of-associate-eu-membership-unfair-4708014",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M03O_L.jpg",
+    "url": "https://www.investing.com/news/swot-analysis/atlassians-swot-analysis-stock-faces-ai-headwinds-and-cloud-growth-93CH-4708078",
+    "image": "https://picsum.photos/seed/wv-core-c5873a95e3d7/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T16:16:53.437175+00:00",
-    "fetched_at": "2026-05-23T16:16:53.437177+00:00",
+    "published_at": "2026-05-23T20:02:26.057761+00:00",
+    "fetched_at": "2026-05-23T20:02:26.057764+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "7e782cfdae7530db",
-    "title": "Ionis Pharmaceuticals’ SWOT analysis: stock gains momentum on FDA approval",
+    "id": "796add2ce1e6a1dd",
+    "title": "Shoals Technologies’ SWOT analysis: stock faces margin pressure despite growth",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/swot-analysis/ionis-pharmaceuticals-swot-analysis-stock-gains-momentum-on-fda-approval-93CH-4708060",
-    "image": "https://picsum.photos/seed/wv-core-5954e2055ae5/1200/750",
+    "url": "https://www.investing.com/news/swot-analysis/shoals-technologies-swot-analysis-stock-faces-margin-pressure-despite-growth-93CH-4708079",
+    "image": "https://picsum.photos/seed/wv-core-086c6fe5d387/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T16:16:53.437140+00:00",
-    "fetched_at": "2026-05-23T16:16:53.437142+00:00",
+    "published_at": "2026-05-23T20:02:26.057686+00:00",
+    "fetched_at": "2026-05-23T20:02:26.057691+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "f4e195015eeb68cb",
-    "title": "Uber and DoorDash hold talks with Delivery Hero over potential buyout",
+    "id": "d49a7bde76232e3c",
+    "title": "Police and protesters clash in Serbia as crowds demand president’s exit",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/stock-market-news/uber-and-doordash-hold-talks-with-delivery-hero-over-potential-buyout-4708057",
-    "image": "https://i-invdn-com.investing.com/news/LYNXMPED5I1KT_M.jpg",
+    "url": "https://www.investing.com/news/world-news/police-and-protesters-clash-in-serbia-as-crowds-demand-presidents-exit-4708080",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M0OK_L.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T16:16:53.437102+00:00",
-    "fetched_at": "2026-05-23T16:16:53.437104+00:00",
+    "published_at": "2026-05-23T20:02:26.057579+00:00",
+    "fetched_at": "2026-05-23T20:02:26.057581+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "d514e8a66c542a39",
-    "title": "Bangladesh central bank unveils $4.9 billion in stimulus as growth slows",
+    "id": "2baa70b56f8b309d",
+    "title": "Generac Holdings’ SWOT analysis: stock faces storm activity headwinds",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/economy-news/bangladesh-central-bank-unveils-49-billion-in-stimulus-as-growth-slows-4708061",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M0FD_L.jpg",
+    "url": "https://www.investing.com/news/swot-analysis/generac-holdings-swot-analysis-stock-faces-storm-activity-headwinds-93CH-4708081",
+    "image": "https://picsum.photos/seed/wv-core-81462c8a36d5/1200/750",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T16:16:53.437075+00:00",
-    "fetched_at": "2026-05-23T16:16:53.437077+00:00",
+    "published_at": "2026-05-23T20:02:26.057540+00:00",
+    "fetched_at": "2026-05-23T20:02:26.057543+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "62bf8f1d00504301",
-    "title": "US adds Atlanta area airport for Ebola screening, CDC says",
+    "id": "f034ca7d82ac9a5a",
+    "title": "Tens of thousands march in Madrid to demand prime minister’s resignation",
     "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/world-news/us-adds-atlanta-area-airport-for-ebola-screening-cdc-says-4708062",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M0FJ_L.jpg",
+    "url": "https://www.investing.com/news/world-news/tens-of-thousands-march-in-madrid-to-demand-spanish-prime-minister-resigns-4708047",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M0A6_L.jpg",
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-23T16:16:53.437044+00:00",
-    "fetched_at": "2026-05-23T16:16:53.437047+00:00",
+    "published_at": "2026-05-23T20:02:26.057480+00:00",
+    "fetched_at": "2026-05-23T20:02:26.057497+00:00",
     "core_business_science_fill": true
   },
   {
-    "id": "ec1e5d4b953d617f",
-    "title": "Trump says he is “50/50” on Iran deal or military action: Axios",
-    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/economy-news/mediators-race-to-prevent-us-and-israeli-strikes-on-iran--reports-wsj-4707860",
-    "image": "https://picsum.photos/seed/wv-core-4e3052f1be6d/1200/750",
-    "source": "Investing.com News",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-23T16:16:53.437011+00:00",
-    "fetched_at": "2026-05-23T16:16:53.437014+00:00",
-    "core_business_science_fill": true
+    "id": "a2141d646256d919",
+    "title": "Controlled experiments reveal how nuclear fallout particles form",
+    "description": "In less than a millionth of a second after a nuclear detonation or a severe nuclear reactor accident, an enormous burst of energy heats the surrounding air and materials. Everything in the vicinity is vaporized into a hot, glowing cloud of gas and plasma. As that nuclear fireball expands, it mixes with air, begins to cool and condenses into tiny solid particles—creating nuclear fallout.",
+    "url": "https://phys.org/news/2026-05-reveal-nuclear-fallout-particles.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-use-control.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T20:00:03+00:00",
+    "fetched_at": "2026-05-23T20:02:34.569293+00:00",
+    "missing_core_fill": true
   },
   {
-    "id": "1fca355b74ddaef1",
-    "title": "Adobe’s SWOT analysis: stock faces AI transition uncertainty",
-    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/swot-analysis/adobes-swot-analysis-stock-faces-ai-transition-uncertainty-93CH-4708063",
-    "image": "https://picsum.photos/seed/wv-core-d66daa185afb/1200/750",
-    "source": "Investing.com News",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-23T16:16:53.436954+00:00",
-    "fetched_at": "2026-05-23T16:16:53.436968+00:00",
-    "core_business_science_fill": true
+    "id": "c7021051c9d1c83a",
+    "title": "After the flames, wildfires pollute drinking water for years",
+    "description": "When people think about wildfires, they usually think about flames, smoke and evacuations. However, for many communities, some of the most important damage begins after the fire has passed.",
+    "url": "https://phys.org/news/2026-05-flames-wildfires-pollute-years.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/wildfire-4.jpg",
+    "source": "Phys.org",
+    "source_id": "missing-core-znanost",
+    "category": "znanost",
+    "published_at": "2026-05-23T20:00:01+00:00",
+    "fetched_at": "2026-05-23T20:02:34.569342+00:00",
+    "missing_core_fill": true
   },
   {
     "id": "41fc2641c3f0ad67",
@@ -758,8 +784,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T16:14:47.422994+00:00",
-    "fetched_at": "2026-05-23T16:14:47.422998+00:00",
+    "published_at": "2026-05-23T19:59:49.769793+00:00",
+    "fetched_at": "2026-05-23T19:59:49.769796+00:00",
     "html_source": true
   },
   {
@@ -771,8 +797,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T16:14:47.422805+00:00",
-    "fetched_at": "2026-05-23T16:14:47.422807+00:00",
+    "published_at": "2026-05-23T19:59:49.769632+00:00",
+    "fetched_at": "2026-05-23T19:59:49.769633+00:00",
     "html_source": true
   },
   {
@@ -784,8 +810,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T16:14:47.422632+00:00",
-    "fetched_at": "2026-05-23T16:14:47.422635+00:00",
+    "published_at": "2026-05-23T19:59:49.769469+00:00",
+    "fetched_at": "2026-05-23T19:59:49.769471+00:00",
     "html_source": true
   },
   {
@@ -797,8 +823,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T16:14:47.422483+00:00",
-    "fetched_at": "2026-05-23T16:14:47.422485+00:00",
+    "published_at": "2026-05-23T19:59:49.769325+00:00",
+    "fetched_at": "2026-05-23T19:59:49.769327+00:00",
     "html_source": true
   },
   {
@@ -810,8 +836,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T16:14:47.422332+00:00",
-    "fetched_at": "2026-05-23T16:14:47.422335+00:00",
+    "published_at": "2026-05-23T19:59:49.769183+00:00",
+    "fetched_at": "2026-05-23T19:59:49.769185+00:00",
     "html_source": true
   },
   {
@@ -823,8 +849,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T16:14:47.422181+00:00",
-    "fetched_at": "2026-05-23T16:14:47.422184+00:00",
+    "published_at": "2026-05-23T19:59:49.769043+00:00",
+    "fetched_at": "2026-05-23T19:59:49.769045+00:00",
     "html_source": true
   },
   {
@@ -836,8 +862,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T16:14:47.422018+00:00",
-    "fetched_at": "2026-05-23T16:14:47.422020+00:00",
+    "published_at": "2026-05-23T19:59:49.768893+00:00",
+    "fetched_at": "2026-05-23T19:59:49.768895+00:00",
     "html_source": true
   },
   {
@@ -849,8 +875,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T16:14:47.421853+00:00",
-    "fetched_at": "2026-05-23T16:14:47.421857+00:00",
+    "published_at": "2026-05-23T19:59:49.768741+00:00",
+    "fetched_at": "2026-05-23T19:59:49.768743+00:00",
     "html_source": true
   },
   {
@@ -862,8 +888,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T16:14:47.421674+00:00",
-    "fetched_at": "2026-05-23T16:14:47.421677+00:00",
+    "published_at": "2026-05-23T19:59:49.768569+00:00",
+    "fetched_at": "2026-05-23T19:59:49.768571+00:00",
     "html_source": true
   },
   {
@@ -875,34 +901,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-23T16:14:47.421507+00:00",
-    "fetched_at": "2026-05-23T16:14:47.421510+00:00",
-    "html_source": true
-  },
-  {
-    "id": "48e05e7e1cf82403",
-    "title": "Zamagna pizzerija u Dubrovniku poslužuje pizzu u autentičnom napuljskom stilu Subota, 23. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - gastro. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/gastro/zamagna-pizza-bar-dubrovnik/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Zamagna-Pizza-Bar-768x432.jpg",
-    "source": "Journal.hr - gastro",
-    "source_id": "extra-journal-gastro",
-    "category": "hedonizam",
-    "published_at": "2026-05-23T16:14:47.421333+00:00",
-    "fetched_at": "2026-05-23T16:14:47.421337+00:00",
-    "html_source": true
-  },
-  {
-    "id": "88b8317515431faa",
-    "title": "Ako tražite lagan i osvježavajuć ručak, imamo recept za salatu koja priziva ljeto Subota, 23. svibnja 2026.",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - gastro. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/gastro/salata-od-rajcice-haloumi-sira-i-narance-recept/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/05/salata-od-rajcice-768x576.jpg",
-    "source": "Journal.hr - gastro",
-    "source_id": "extra-journal-gastro",
-    "category": "hedonizam",
-    "published_at": "2026-05-23T16:14:47.421146+00:00",
-    "fetched_at": "2026-05-23T16:14:47.421160+00:00",
+    "published_at": "2026-05-23T19:59:49.768421+00:00",
+    "fetched_at": "2026-05-23T19:59:49.768423+00:00",
     "html_source": true
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-23T16:17:29.392809+00:00",
+  "updated_at": "2026-05-23T20:03:00.047366+00:00",
   "sources": 236,
   "ok": 166,
-  "problem": 53,
+  "problem": 54,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -361,6 +361,17 @@
       "name": "Elite Traveler Luxury - Google News",
       "category": "hedonizam",
       "url": "https://news.google.com/rss/search?q=site:elitetraveler.com%20luxury&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-065",
+      "name": "Engadget",
+      "category": "tehnologija",
+      "url": "https://www.engadget.com/rss.xml",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1160,17 +1171,6 @@
       "error": ""
     },
     {
-      "id": "src-065",
-      "name": "Engadget",
-      "category": "tehnologija",
-      "url": "https://www.engadget.com/rss.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-036",
       "name": "National Jeweler - Google News",
       "category": "nakit",
@@ -1490,17 +1490,6 @@
       "error": ""
     },
     {
-      "id": "src-138",
-      "name": "LSE Business Review",
-      "category": "ekonomija",
-      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-150",
       "name": "Logistics Manager",
       "category": "trzista",
@@ -1571,6 +1560,17 @@
       "name": "Monochrome Watches",
       "category": "satovi",
       "url": "https://monochrome-watches.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-098",
+      "name": "MuseumNext",
+      "category": "kultura",
+      "url": "https://www.museumnext.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1945,17 +1945,6 @@
       "name": "Lonely Planet",
       "category": "lifestyle",
       "url": "https://www.lonelyplanet.com/news/feed",
-      "status": "empty",
-      "label": "prazan feed",
-      "count": 0,
-      "score": 55,
-      "error": ""
-    },
-    {
-      "id": "src-098",
-      "name": "MuseumNext",
-      "category": "kultura",
-      "url": "https://www.museumnext.com/feed/",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -2379,6 +2368,17 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "src-138",
+      "name": "LSE Business Review",
+      "category": "ekonomija",
+      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 409: Conflict"
     },
     {
       "id": "src-049",

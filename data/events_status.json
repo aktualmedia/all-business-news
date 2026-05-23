@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T16:16:08.291083+00:00",
+  "updated_at": "2026-05-23T20:01:36.042411+00:00",
   "sources": 69,
   "ok_sources": 13,
   "events_count": 167,
@@ -291,9 +291,8 @@
       "country": "SAD",
       "city": "New York",
       "type": "opera",
-      "status": "fallback",
-      "count": 1,
-      "error": "HTTP Error 403: Forbidden"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "lincoln-center",
@@ -334,8 +333,9 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "kazalište / premijere",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "<urlopen error timed out>"
     },
     {
       "id": "opera-paris",
@@ -649,7 +649,7 @@
       "type": "muzej / izložbe",
       "status": "fallback",
       "count": 1,
-      "error": "HTTP Error 404: Not Found"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "id": "stedelijk",
