@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-22T22:20:12.250861+00:00",
+  "updated_at": "2026-05-23T06:38:28.454635+00:00",
   "sources": 69,
   "ok_sources": 14,
-  "events_count": 176,
+  "events_count": 175,
   "results": [
     {
       "id": "infozagreb-events",
@@ -159,7 +159,7 @@
       "city": "Zagreb",
       "type": "muzej",
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     {
       "id": "havc",

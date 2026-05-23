@@ -1,5 +1,29 @@
 [
   {
+    "id": "b7c9294b78916d65",
+    "title": "Mandatory utility fees distort price signals for rooftop solar in the US",
+    "description": "Regulators in 27 U.S. states are shifting residential electricity pricing toward higher fixed monthly charges and lower usage-based rates, weakening the economics of rooftop solar and home battery systems. This redesign reduces incentives for distributed energy, compresses savings from peak-rate arbitrage, and reinforces reliance on costly centralized grid expansion, potentially raising long-term electricity costs for consumers.",
+    "url": "https://www.pv-magazine.com/2026/05/23/mandatory-utility-fees-distort-price-signals-for-rooftop-solar-in-the-us/",
+    "image": "https://picsum.photos/seed/wv-news-f87870903060/1200/750",
+    "source": "PV Magazine",
+    "source_id": "src-060",
+    "category": "trzista",
+    "published_at": "2026-05-23T06:00:26+00:00",
+    "fetched_at": "2026-05-23T06:35:10.058091+00:00"
+  },
+  {
+    "id": "8fe2838ba03b2e41",
+    "title": "Canadian steel sector faces deeper pain than aluminum as tariff uncertainty clouds outlook",
+    "description": "Federal support package seen as short-term relief while industry braces for prolonged trade disruption.",
+    "url": "https://www.mining.com/canadian-steel-sector-faces-deeper-pain-than-aluminum-as-tariff-uncertainty-clouds-outlook/",
+    "image": "https://picsum.photos/seed/wv-news-ea91636f3aed/1200/750",
+    "source": "Mining.com",
+    "source_id": "src-049",
+    "category": "trzista",
+    "published_at": "2026-05-22T22:49:30+00:00",
+    "fetched_at": "2026-05-23T06:35:07.090708+00:00"
+  },
+  {
     "id": "7133faf46767baf3",
     "title": "Colombia's Natural Gas Crisis Deepens as Strait of Hormuz Closure Cuts Supply",
     "description": "Strife-torn Colombia is facing a severe energy crisis at a critical juncture. Global supply of natural gas is heavily constrained due to the closure of the Strait of Hormuz after U.S. strikes on Iran. This could not come at a worse time for Colombia, with the Andean country experiencing a massive surge in demand for natural gas at a time when domestic production is declining. The rapidly growing supply shortfall was filled by costly liquefied natural gas (LNG) imports, the future of which now appears uncertain. These events are weighing heavily…",
@@ -9,7 +33,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-22T22:00:00+00:00",
-    "fetched_at": "2026-05-22T22:17:24.522915+00:00"
+    "fetched_at": "2026-05-23T06:35:05.879945+00:00"
   },
   {
     "id": "b6b8df88761a4be4",
@@ -21,7 +45,7 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2026-05-22T21:45:12+00:00",
-    "fetched_at": "2026-05-22T22:17:25.658773+00:00"
+    "fetched_at": "2026-05-23T06:35:07.488507+00:00"
   },
   {
     "id": "40d1910fb3737c1d",
@@ -33,7 +57,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-22T21:00:00+00:00",
-    "fetched_at": "2026-05-22T22:17:24.523015+00:00"
+    "fetched_at": "2026-05-23T06:35:05.880071+00:00"
   },
   {
     "id": "6f4c6e4833ac1f33",
@@ -45,7 +69,7 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2026-05-22T20:37:03+00:00",
-    "fetched_at": "2026-05-22T22:17:25.658845+00:00"
+    "fetched_at": "2026-05-23T06:35:07.488580+00:00"
   },
   {
     "id": "004e841e23066747",
@@ -57,7 +81,7 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2026-05-22T20:02:45+00:00",
-    "fetched_at": "2026-05-22T22:17:25.658917+00:00"
+    "fetched_at": "2026-05-23T06:35:07.488651+00:00"
   },
   {
     "id": "905c1ddc7e070b1a",
@@ -69,7 +93,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-22T20:00:00+00:00",
-    "fetched_at": "2026-05-22T22:17:24.523099+00:00"
+    "fetched_at": "2026-05-23T06:35:05.880159+00:00"
   },
   {
     "id": "f53019e65ec665aa",
@@ -81,7 +105,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-22T18:31:00+00:00",
-    "fetched_at": "2026-05-22T22:17:24.523207+00:00"
+    "fetched_at": "2026-05-23T06:35:05.880238+00:00"
   },
   {
     "id": "6eaa370493a65996",
@@ -93,7 +117,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T18:15:25+00:00",
-    "fetched_at": "2026-05-22T22:20:58.702509+00:00",
+    "fetched_at": "2026-05-23T06:39:27.194976+00:00",
     "core_business_science_fill": true
   },
   {
@@ -106,7 +130,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T18:01:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.298242+00:00",
+    "fetched_at": "2026-05-23T06:39:26.776946+00:00",
     "core_business_science_fill": true
   },
   {
@@ -119,7 +143,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-22T18:00:00+00:00",
-    "fetched_at": "2026-05-22T22:17:24.523296+00:00"
+    "fetched_at": "2026-05-23T06:35:05.880328+00:00"
   },
   {
     "id": "74f67194e94c2bd3",
@@ -131,7 +155,7 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-22T17:19:11+00:00",
-    "fetched_at": "2026-05-22T22:17:25.520213+00:00"
+    "fetched_at": "2026-05-23T06:35:07.090787+00:00"
   },
   {
     "id": "e72d34261664202f",
@@ -143,7 +167,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-22T17:14:00+00:00",
-    "fetched_at": "2026-05-22T22:17:24.523383+00:00"
+    "fetched_at": "2026-05-23T06:35:05.880415+00:00"
   },
   {
     "id": "cfcf365e7e453868",
@@ -155,7 +179,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T16:59:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.381962+00:00",
+    "fetched_at": "2026-05-23T06:39:26.896127+00:00",
     "core_business_science_fill": true
   },
   {
@@ -168,7 +192,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T16:56:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.298289+00:00",
+    "fetched_at": "2026-05-23T06:39:26.777041+00:00",
     "core_business_science_fill": true
   },
   {
@@ -181,7 +205,7 @@
     "source_id": "global-extra-012",
     "category": "trzista",
     "published_at": "2026-05-22T16:49:13+00:00",
-    "fetched_at": "2026-05-22T22:18:15.920882+00:00"
+    "fetched_at": "2026-05-23T06:36:12.767652+00:00"
   },
   {
     "id": "47cc4cf52db15ced",
@@ -193,7 +217,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T16:45:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.298324+00:00",
+    "fetched_at": "2026-05-23T06:39:26.777080+00:00",
     "core_business_science_fill": true
   },
   {
@@ -206,7 +230,7 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2026-05-22T16:33:56+00:00",
-    "fetched_at": "2026-05-22T22:17:25.658999+00:00"
+    "fetched_at": "2026-05-23T06:35:07.488757+00:00"
   },
   {
     "id": "ef6f17fcbc526ac6",
@@ -218,7 +242,7 @@
     "source_id": "src-052",
     "category": "trzista",
     "published_at": "2026-05-22T16:28:00+00:00",
-    "fetched_at": "2026-05-22T22:17:25.924414+00:00"
+    "fetched_at": "2026-05-23T06:35:08.002145+00:00"
   },
   {
     "id": "d776d206c7fdd670",
@@ -230,7 +254,7 @@
     "source_id": "src-052",
     "category": "trzista",
     "published_at": "2026-05-22T16:27:00+00:00",
-    "fetched_at": "2026-05-22T22:17:25.924514+00:00"
+    "fetched_at": "2026-05-23T06:35:08.002243+00:00"
   },
   {
     "id": "e69d1a79b9a2681d",
@@ -242,7 +266,7 @@
     "source_id": "src-052",
     "category": "trzista",
     "published_at": "2026-05-22T16:14:00+00:00",
-    "fetched_at": "2026-05-22T22:17:25.924603+00:00"
+    "fetched_at": "2026-05-23T06:35:08.002330+00:00"
   },
   {
     "id": "0752bbd31c33a74e",
@@ -254,7 +278,7 @@
     "source_id": "src-056",
     "category": "trzista",
     "published_at": "2026-05-22T16:10:00+00:00",
-    "fetched_at": "2026-05-22T22:17:26.485216+00:00"
+    "fetched_at": "2026-05-23T06:35:09.083452+00:00"
   },
   {
     "id": "e647671cf21bc1db",
@@ -266,7 +290,7 @@
     "source_id": "src-056",
     "category": "trzista",
     "published_at": "2026-05-22T16:05:00+00:00",
-    "fetched_at": "2026-05-22T22:17:26.485333+00:00"
+    "fetched_at": "2026-05-23T06:35:09.083556+00:00"
   },
   {
     "id": "f3cf0bda29c1f71d",
@@ -278,7 +302,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T16:04:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.298368+00:00",
+    "fetched_at": "2026-05-23T06:39:26.777122+00:00",
     "core_business_science_fill": true
   },
   {
@@ -291,7 +315,7 @@
     "source_id": "src-052",
     "category": "trzista",
     "published_at": "2026-05-22T16:03:00+00:00",
-    "fetched_at": "2026-05-22T22:17:25.924691+00:00"
+    "fetched_at": "2026-05-23T06:35:08.002415+00:00"
   },
   {
     "id": "8677cbca4cff76ff",
@@ -303,7 +327,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-22T16:00:00+00:00",
-    "fetched_at": "2026-05-22T22:17:24.523461+00:00"
+    "fetched_at": "2026-05-23T06:35:05.880493+00:00"
   },
   {
     "id": "92bdad19590aaf6f",
@@ -315,7 +339,7 @@
     "source_id": "src-056",
     "category": "trzista",
     "published_at": "2026-05-22T15:55:00+00:00",
-    "fetched_at": "2026-05-22T22:17:26.485411+00:00"
+    "fetched_at": "2026-05-23T06:35:09.083633+00:00"
   },
   {
     "id": "ba651d42da8b6bb8",
@@ -327,7 +351,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T15:52:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.382018+00:00",
+    "fetched_at": "2026-05-23T06:39:26.896192+00:00",
     "core_business_science_fill": true
   },
   {
@@ -340,7 +364,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T15:41:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.298413+00:00",
+    "fetched_at": "2026-05-23T06:39:26.777164+00:00",
     "core_business_science_fill": true
   },
   {
@@ -353,7 +377,7 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-22T15:36:00+00:00",
-    "fetched_at": "2026-05-22T22:17:25.520291+00:00"
+    "fetched_at": "2026-05-23T06:35:07.090851+00:00"
   },
   {
     "id": "bfb93595a7a9eabc",
@@ -365,7 +389,7 @@
     "source_id": "src-051",
     "category": "trzista",
     "published_at": "2026-05-22T15:35:00+00:00",
-    "fetched_at": "2026-05-22T22:17:25.790386+00:00"
+    "fetched_at": "2026-05-23T06:35:07.744601+00:00"
   },
   {
     "id": "e1b584ec4ddce53c",
@@ -377,7 +401,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-22T15:31:03+00:00",
-    "fetched_at": "2026-05-22T22:17:27.227266+00:00"
+    "fetched_at": "2026-05-23T06:35:10.058173+00:00"
   },
   {
     "id": "002d8234d2464ccc",
@@ -389,7 +413,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-22T15:30:00+00:00",
-    "fetched_at": "2026-05-22T22:17:24.523537+00:00"
+    "fetched_at": "2026-05-23T06:35:05.880571+00:00"
   },
   {
     "id": "8dd3793b126354f1",
@@ -401,19 +425,19 @@
     "source_id": "src-054",
     "category": "trzista",
     "published_at": "2026-05-22T15:30:00+00:00",
-    "fetched_at": "2026-05-22T22:17:26.172298+00:00"
+    "fetched_at": "2026-05-23T06:35:08.482197+00:00"
   },
   {
     "id": "6a5156043a70c771",
     "title": "Sen. Cotton urges DOJ investigation of China-backed parcel carriers",
     "description": "Sen. Tom Cotton of Arkansas is calling for an investigation into Chinese-controlled parcel delivery companies in the U.S., saying they receive heavy subsidies that allow them to underprice domestic carriers and could be sharing critical U.S. market data with the Chinese government. The post Sen. Cotton urges DOJ investigation of China-backed parcel carriers appeared first on FreightWaves .",
     "url": "https://www.freightwaves.com/news/sen-cotton-urges-doj-investigation-of-china-backed-parcel-carriers",
-    "image": "https://www.freightwaves.com/wp-content/uploads/2026/05/22/UniUni_1.jpg",
+    "image": "https://www.freightwaves.com/wp-content/uploads/2026/05/22/Tom-Cotton_1.jpg",
     "source": "FreightWaves",
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2026-05-22T15:27:40+00:00",
-    "fetched_at": "2026-05-22T22:17:25.659073+00:00"
+    "fetched_at": "2026-05-23T06:35:07.488840+00:00"
   },
   {
     "id": "591baf988669d025",
@@ -425,7 +449,7 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-22T15:25:32+00:00",
-    "fetched_at": "2026-05-22T22:17:25.520364+00:00"
+    "fetched_at": "2026-05-23T06:35:07.090920+00:00"
   },
   {
     "id": "595733efa1c2fdc1",
@@ -437,7 +461,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-22T15:24:02+00:00",
-    "fetched_at": "2026-05-22T22:17:24.523615+00:00"
+    "fetched_at": "2026-05-23T06:35:05.880650+00:00"
   },
   {
     "id": "f1f24ae5f5955272",
@@ -449,7 +473,7 @@
     "source_id": "global-extra-011",
     "category": "trzista",
     "published_at": "2026-05-22T15:24:02+00:00",
-    "fetched_at": "2026-05-22T22:18:15.432881+00:00"
+    "fetched_at": "2026-05-23T06:36:12.241932+00:00"
   },
   {
     "id": "c4cc9aee9baee78a",
@@ -461,7 +485,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T15:22:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.298446+00:00",
+    "fetched_at": "2026-05-23T06:39:26.777195+00:00",
     "core_business_science_fill": true
   },
   {
@@ -474,7 +498,7 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-22T15:16:49+00:00",
-    "fetched_at": "2026-05-22T22:17:25.520432+00:00"
+    "fetched_at": "2026-05-23T06:35:07.091030+00:00"
   },
   {
     "id": "1d22970b661afaff",
@@ -486,7 +510,7 @@
     "source_id": "src-053",
     "category": "trzista",
     "published_at": "2026-05-22T15:11:00+00:00",
-    "fetched_at": "2026-05-22T22:17:26.082795+00:00"
+    "fetched_at": "2026-05-23T06:35:08.252123+00:00"
   },
   {
     "id": "141427775c1b7683",
@@ -498,7 +522,7 @@
     "source_id": "src-053",
     "category": "trzista",
     "published_at": "2026-05-22T15:08:59+00:00",
-    "fetched_at": "2026-05-22T22:17:26.082895+00:00"
+    "fetched_at": "2026-05-23T06:35:08.252219+00:00"
   },
   {
     "id": "696622c7098aa49f",
@@ -510,7 +534,7 @@
     "source_id": "src-051",
     "category": "trzista",
     "published_at": "2026-05-22T15:03:00+00:00",
-    "fetched_at": "2026-05-22T22:17:25.790476+00:00"
+    "fetched_at": "2026-05-23T06:35:07.744691+00:00"
   },
   {
     "id": "69ec5048d6b0ec9c",
@@ -522,7 +546,7 @@
     "source_id": "src-050",
     "category": "trzista",
     "published_at": "2026-05-22T14:58:08+00:00",
-    "fetched_at": "2026-05-22T22:17:25.659192+00:00"
+    "fetched_at": "2026-05-23T06:35:07.488904+00:00"
   },
   {
     "id": "14ff5e6bbbaa1cc1",
@@ -534,7 +558,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T14:54:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.298480+00:00",
+    "fetched_at": "2026-05-23T06:39:26.777229+00:00",
     "core_business_science_fill": true
   },
   {
@@ -547,7 +571,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-22T14:41:00+00:00",
-    "fetched_at": "2026-05-22T22:17:24.523693+00:00"
+    "fetched_at": "2026-05-23T06:35:05.880728+00:00"
   },
   {
     "id": "6f3c7eb61b334203",
@@ -559,7 +583,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-22T14:30:00+00:00",
-    "fetched_at": "2026-05-22T22:17:24.523776+00:00"
+    "fetched_at": "2026-05-23T06:35:05.880809+00:00"
   },
   {
     "id": "ac31b6fd43615f2d",
@@ -571,7 +595,7 @@
     "source_id": "src-052",
     "category": "trzista",
     "published_at": "2026-05-22T14:16:00+00:00",
-    "fetched_at": "2026-05-22T22:17:25.924767+00:00"
+    "fetched_at": "2026-05-23T06:35:08.002488+00:00"
   },
   {
     "id": "eb82f94e6b02ef72",
@@ -583,7 +607,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T14:00:29+00:00",
-    "fetched_at": "2026-05-22T22:20:58.552224+00:00",
+    "fetched_at": "2026-05-23T06:39:27.027210+00:00",
     "core_business_science_fill": true
   },
   {
@@ -596,7 +620,7 @@
     "source_id": "src-047",
     "category": "trzista",
     "published_at": "2026-05-22T14:00:00+00:00",
-    "fetched_at": "2026-05-22T22:17:24.523854+00:00"
+    "fetched_at": "2026-05-23T06:35:05.880885+00:00"
   },
   {
     "id": "60e1162f9f9ddac1",
@@ -608,7 +632,7 @@
     "source_id": "src-054",
     "category": "trzista",
     "published_at": "2026-05-22T14:00:00+00:00",
-    "fetched_at": "2026-05-22T22:17:26.172386+00:00"
+    "fetched_at": "2026-05-23T06:35:08.482284+00:00"
   },
   {
     "id": "f3e16c0c3d5ec908",
@@ -632,7 +656,7 @@
     "source_id": "src-151",
     "category": "trzista",
     "published_at": "2026-05-22T13:59:00+00:00",
-    "fetched_at": "2026-05-22T22:17:59.711685+00:00"
+    "fetched_at": "2026-05-23T06:35:53.464084+00:00"
   },
   {
     "id": "0dcd07638f9ce32e",
@@ -644,7 +668,7 @@
     "source_id": "src-055",
     "category": "trzista",
     "published_at": "2026-05-22T13:57:00+00:00",
-    "fetched_at": "2026-05-22T22:17:26.259853+00:00"
+    "fetched_at": "2026-05-23T06:35:08.759756+00:00"
   },
   {
     "id": "5aa39fdded9bd97a",
@@ -656,7 +680,7 @@
     "source_id": "src-055",
     "category": "trzista",
     "published_at": "2026-05-22T13:56:00+00:00",
-    "fetched_at": "2026-05-22T22:17:26.259948+00:00"
+    "fetched_at": "2026-05-23T06:35:08.759850+00:00"
   },
   {
     "id": "fb13a90ced8dfd8e",
@@ -668,7 +692,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T13:51:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.298516+00:00",
+    "fetched_at": "2026-05-23T06:39:26.777265+00:00",
     "core_business_science_fill": true
   },
   {
@@ -681,7 +705,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T13:48:05+00:00",
-    "fetched_at": "2026-05-22T22:20:58.702565+00:00",
+    "fetched_at": "2026-05-23T06:39:27.195031+00:00",
     "core_business_science_fill": true
   },
   {
@@ -694,7 +718,7 @@
     "source_id": "src-054",
     "category": "trzista",
     "published_at": "2026-05-22T13:42:00+00:00",
-    "fetched_at": "2026-05-22T22:17:26.172469+00:00"
+    "fetched_at": "2026-05-23T06:35:08.482362+00:00"
   },
   {
     "id": "6ed3a2f4bb19bafd",
@@ -718,7 +742,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T13:27:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.298548+00:00",
+    "fetched_at": "2026-05-23T06:39:26.777303+00:00",
     "core_business_science_fill": true
   },
   {
@@ -731,7 +755,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-22T13:23:19+00:00",
-    "fetched_at": "2026-05-22T22:17:27.227369+00:00"
+    "fetched_at": "2026-05-23T06:35:10.058263+00:00"
   },
   {
     "id": "e0258c66693b8151",
@@ -767,7 +791,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-22T12:55:35+00:00",
-    "fetched_at": "2026-05-22T22:17:27.227458+00:00"
+    "fetched_at": "2026-05-23T06:35:10.058351+00:00"
   },
   {
     "id": "0f84300332087552",
@@ -779,7 +803,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-22T12:47:14+00:00",
-    "fetched_at": "2026-05-22T22:17:27.227526+00:00"
+    "fetched_at": "2026-05-23T06:35:10.058419+00:00"
   },
   {
     "id": "513861a67b77bcc1",
@@ -791,7 +815,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T12:36:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.298579+00:00",
+    "fetched_at": "2026-05-23T06:39:26.777334+00:00",
     "core_business_science_fill": true
   },
   {
@@ -804,7 +828,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-22T12:35:18+00:00",
-    "fetched_at": "2026-05-22T22:17:27.227607+00:00"
+    "fetched_at": "2026-05-23T06:35:10.058495+00:00"
   },
   {
     "id": "a5c0b5ac330326ea",
@@ -829,7 +853,7 @@
     "source_id": "src-054",
     "category": "trzista",
     "published_at": "2026-05-22T12:30:00+00:00",
-    "fetched_at": "2026-05-22T22:17:26.172545+00:00"
+    "fetched_at": "2026-05-23T06:35:08.482431+00:00"
   },
   {
     "id": "6573a9ea01603746",
@@ -917,7 +941,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T11:49:40+00:00",
-    "fetched_at": "2026-05-22T22:20:58.702609+00:00",
+    "fetched_at": "2026-05-23T06:39:27.195075+00:00",
     "core_business_science_fill": true
   },
   {
@@ -930,7 +954,7 @@
     "source_id": "src-051",
     "category": "trzista",
     "published_at": "2026-05-22T11:49:00+00:00",
-    "fetched_at": "2026-05-22T22:17:25.790563+00:00"
+    "fetched_at": "2026-05-23T06:35:07.744774+00:00"
   },
   {
     "id": "6cb64bfaebcdb2ee",
@@ -942,7 +966,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-22T11:39:46+00:00",
-    "fetched_at": "2026-05-22T22:17:27.227677+00:00"
+    "fetched_at": "2026-05-23T06:35:10.058563+00:00"
   },
   {
     "id": "5052c804593c205f",
@@ -1002,7 +1026,7 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-22T11:19:00+00:00",
-    "fetched_at": "2026-05-22T22:17:25.520503+00:00"
+    "fetched_at": "2026-05-23T06:35:07.091106+00:00"
   },
   {
     "id": "7e9f77e3925eb7f2",
@@ -1014,7 +1038,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-22T11:16:14+00:00",
-    "fetched_at": "2026-05-22T22:17:27.227753+00:00"
+    "fetched_at": "2026-05-23T06:35:10.058635+00:00"
   },
   {
     "id": "46d7aa89cb0be678",
@@ -1038,7 +1062,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-22T10:49:23+00:00",
-    "fetched_at": "2026-05-22T22:17:27.227816+00:00"
+    "fetched_at": "2026-05-23T06:35:10.058699+00:00"
   },
   {
     "id": "4df733048faa9825",
@@ -1062,7 +1086,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T10:30:39+00:00",
-    "fetched_at": "2026-05-22T22:20:58.552308+00:00",
+    "fetched_at": "2026-05-23T06:39:27.027289+00:00",
     "core_business_science_fill": true
   },
   {
@@ -1087,7 +1111,7 @@
     "source_id": "src-151",
     "category": "trzista",
     "published_at": "2026-05-22T09:47:14+00:00",
-    "fetched_at": "2026-05-22T22:17:59.711769+00:00"
+    "fetched_at": "2026-05-23T06:35:53.464164+00:00"
   },
   {
     "id": "9122cf57230a0a8e",
@@ -1099,7 +1123,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T09:26:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.382063+00:00",
+    "fetched_at": "2026-05-23T06:39:26.896250+00:00",
     "core_business_science_fill": true
   },
   {
@@ -1112,7 +1136,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-22T09:24:57+00:00",
-    "fetched_at": "2026-05-22T22:17:27.227888+00:00"
+    "fetched_at": "2026-05-23T06:35:10.058769+00:00"
   },
   {
     "id": "9cc38ede182ae347",
@@ -1149,7 +1173,7 @@
     "source_id": "src-151",
     "category": "trzista",
     "published_at": "2026-05-22T09:01:18+00:00",
-    "fetched_at": "2026-05-22T22:17:59.711844+00:00"
+    "fetched_at": "2026-05-23T06:35:53.464238+00:00"
   },
   {
     "id": "d4e796ca7676019d",
@@ -1161,7 +1185,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-22T09:00:18+00:00",
-    "fetched_at": "2026-05-22T22:17:27.227958+00:00"
+    "fetched_at": "2026-05-23T06:35:10.058839+00:00"
   },
   {
     "id": "96fdd3e26f066d97",
@@ -1185,7 +1209,7 @@
     "source_id": "src-151",
     "category": "trzista",
     "published_at": "2026-05-22T08:56:32+00:00",
-    "fetched_at": "2026-05-22T22:17:59.711912+00:00"
+    "fetched_at": "2026-05-23T06:35:53.464304+00:00"
   },
   {
     "id": "6fbce00c0555a030",
@@ -1223,7 +1247,7 @@
     "source_id": "src-060",
     "category": "trzista",
     "published_at": "2026-05-22T08:46:24+00:00",
-    "fetched_at": "2026-05-22T22:17:27.228037+00:00"
+    "fetched_at": "2026-05-23T06:35:10.058919+00:00"
   },
   {
     "id": "d9dc00038db035dd",
@@ -1260,7 +1284,7 @@
     "source_id": "src-059",
     "category": "trzista",
     "published_at": "2026-05-22T07:59:06+00:00",
-    "fetched_at": "2026-05-22T22:17:26.908068+00:00"
+    "fetched_at": "2026-05-23T06:35:09.724279+00:00"
   },
   {
     "id": "e069af66a895954e",
@@ -1284,7 +1308,7 @@
     "source_id": "src-151",
     "category": "trzista",
     "published_at": "2026-05-22T07:31:54+00:00",
-    "fetched_at": "2026-05-22T22:17:59.711982+00:00"
+    "fetched_at": "2026-05-23T06:35:53.464372+00:00"
   },
   {
     "id": "99f5b941af33ce5d",
@@ -1308,7 +1332,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T07:24:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.382100+00:00",
+    "fetched_at": "2026-05-23T06:39:26.896299+00:00",
     "core_business_science_fill": true
   },
   {
@@ -1394,7 +1418,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T06:31:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.382161+00:00",
+    "fetched_at": "2026-05-23T06:39:26.896342+00:00",
     "core_business_science_fill": true
   },
   {
@@ -1435,6 +1459,18 @@
     "fetched_at": "2026-05-22T10:36:32.939680+00:00"
   },
   {
+    "id": "4fb6e44d8e480c0e",
+    "title": "Indonesia to exempt nickel pig iron and some palm oil derivatives from centralised export policy - Reuters",
+    "description": "Indonesia to exempt nickel pig iron and some palm oil derivatives from centralised export policy Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZjlXQ3NVdl92QzhLVmNTZFh0Mm9xTVIybHhRVndBNmdLcnRsREVheWNyYWxHU2hBdm0xTmc3ckZ1QVJsRV9oUUltYTJaRFdmdGhvRXI4QUhuZXg1VHljUjJBYjF2eUZXZE1DSmFUSnNwdThEX3RmTU9LY090QWR5YXdrMTBtQ2xBZXFIQlluNl9uaFR3MnJwUHgyYTZFcjlBSG5UT3BIdW9GVU1xeHFMYWlla3BuSXpUNnFkem5WMElkcFJBaW5NSW11d28?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-d8d23d4f77a1/1200/750",
+    "source": "Reuters Commodities - Google News",
+    "source_id": "global-extra-010",
+    "category": "trzista",
+    "published_at": "2026-05-22T05:57:00+00:00",
+    "fetched_at": "2026-05-23T06:36:11.719320+00:00"
+  },
+  {
     "id": "2f83b23980919472",
     "title": "Oil Prices Rise as Iran Draws Red Line on Uranium",
     "description": "Izvorni naslov/sažetak s portala Investing.com Commodities. Nastavak se čita kod izvornog izdavača.",
@@ -1444,7 +1480,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T05:56:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.382195+00:00",
+    "fetched_at": "2026-05-23T06:39:26.896373+00:00",
     "core_business_science_fill": true
   },
   {
@@ -1457,7 +1493,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T05:51:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.382232+00:00",
+    "fetched_at": "2026-05-23T06:39:26.896407+00:00",
     "core_business_science_fill": true
   },
   {
@@ -1507,7 +1543,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T04:42:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.382282+00:00",
+    "fetched_at": "2026-05-23T06:39:26.896440+00:00",
     "core_business_science_fill": true
   },
   {
@@ -1520,7 +1556,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-22T04:17:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.382316+00:00",
+    "fetched_at": "2026-05-23T06:39:26.896471+00:00",
     "core_business_science_fill": true
   },
   {
@@ -1557,7 +1593,7 @@
     "source_id": "global-extra-010",
     "category": "trzista",
     "published_at": "2026-05-22T01:06:00+00:00",
-    "fetched_at": "2026-05-22T22:18:14.939506+00:00"
+    "fetched_at": "2026-05-23T06:36:11.718595+00:00"
   },
   {
     "id": "ead99aef8f2e9eb8",
@@ -1581,7 +1617,7 @@
     "source_id": "global-extra-012",
     "category": "trzista",
     "published_at": "2026-05-21T23:58:36+00:00",
-    "fetched_at": "2026-05-22T22:18:15.921198+00:00"
+    "fetched_at": "2026-05-23T06:36:12.767942+00:00"
   },
   {
     "id": "b5cf491505a614c2",
@@ -1593,7 +1629,7 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-21T23:55:32+00:00",
-    "fetched_at": "2026-05-22T22:17:25.520569+00:00"
+    "fetched_at": "2026-05-23T06:35:07.091181+00:00"
   },
   {
     "id": "17f34ec80dad246a",
@@ -1605,7 +1641,7 @@
     "source_id": "global-extra-010",
     "category": "trzista",
     "published_at": "2026-05-21T23:00:52+00:00",
-    "fetched_at": "2026-05-22T22:18:14.939956+00:00"
+    "fetched_at": "2026-05-23T06:36:11.719013+00:00"
   },
   {
     "id": "0bbf4deccb22ed1f",
@@ -1653,7 +1689,7 @@
     "source_id": "src-058",
     "category": "trzista",
     "published_at": "2026-05-21T21:25:23+00:00",
-    "fetched_at": "2026-05-22T22:17:26.741269+00:00"
+    "fetched_at": "2026-05-23T06:35:09.610424+00:00"
   },
   {
     "id": "340eb55ecce8bffc",
@@ -1665,7 +1701,7 @@
     "source_id": "core-fill-trzista",
     "category": "trzista",
     "published_at": "2026-05-21T21:13:00+00:00",
-    "fetched_at": "2026-05-22T22:20:58.382349+00:00",
+    "fetched_at": "2026-05-23T06:39:26.896501+00:00",
     "core_business_science_fill": true
   },
   {
@@ -1678,7 +1714,7 @@
     "source_id": "src-049",
     "category": "trzista",
     "published_at": "2026-05-21T21:07:45+00:00",
-    "fetched_at": "2026-05-22T22:17:25.520631+00:00"
+    "fetched_at": "2026-05-23T06:35:07.091239+00:00"
   },
   {
     "id": "724548d7b41a6ffa",
@@ -1740,7 +1776,7 @@
     "source_id": "src-051",
     "category": "trzista",
     "published_at": "2026-05-21T20:26:00+00:00",
-    "fetched_at": "2026-05-22T22:17:25.790640+00:00"
+    "fetched_at": "2026-05-23T06:35:07.744849+00:00"
   },
   {
     "id": "aad6664937d20a9b",
@@ -1752,7 +1788,7 @@
     "source_id": "src-058",
     "category": "trzista",
     "published_at": "2026-05-21T20:17:30+00:00",
-    "fetched_at": "2026-05-22T22:17:26.741376+00:00"
+    "fetched_at": "2026-05-23T06:35:09.610527+00:00"
   },
   {
     "id": "d4eeca4962a733f9",
@@ -1765,163 +1801,5 @@
     "category": "trzista",
     "published_at": "2026-05-21T20:09:16+00:00",
     "fetched_at": "2026-05-22T10:36:30.512732+00:00"
-  },
-  {
-    "id": "70123a34edfd4efb",
-    "title": "UK Adds New Tax Pressure as Energy Security Concerns Grow",
-    "description": "Britain is tightening another screw on its oil and gas sector, this time by closing a tax structure that officials say allowed multinational energy firms to sharply reduce taxes on profits generated from UK operations. Finance Minister Rachel Reeves said Thursday the government will end a practice allowing losses from foreign branches to offset taxable UK profits, a move she said was being used by some oil and gas companies to pay \"little or no corporation tax\" on British energy trading income. \"Today we're putting an end to that practice,\" Reeves…",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Adds-New-Tax-Pressure-as-Energy-Security-Concerns-Grow.html",
-    "image": "https://picsum.photos/seed/wv-news-429f31635e18/1200/750",
-    "source": "OilPrice",
-    "source_id": "src-047",
-    "category": "trzista",
-    "published_at": "2026-05-21T20:00:00+00:00",
-    "fetched_at": "2026-05-22T10:36:29.031180+00:00"
-  },
-  {
-    "id": "2e8d54a99e6d5f3b",
-    "title": "AMD’s Q1 Cash Flow Jump Strengthens the Case for a Higher Multiple",
-    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/analysis/amds-q1-cash-flow-jump-strengthens-the-case-for-a-higher-multiple-200680752",
-    "image": "https://picsum.photos/seed/wv-core-00f5ff463ba4/1200/750",
-    "source": "Investing.com Stock Market",
-    "source_id": "core-fill-trzista",
-    "category": "trzista",
-    "published_at": "2026-05-21T19:48:00+00:00",
-    "fetched_at": "2026-05-22T10:40:27.482826+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "e5d90fc1787ba93c",
-    "title": "Georgia ports volumes hit by higher costs, softer market",
-    "description": "The Georgia Ports Authority said higher operating costs and a softer market were reflected in the latest container figures for the Port of Savannah. The post Georgia ports volumes hit by higher costs, softer market appeared first on FreightWaves .",
-    "url": "https://www.freightwaves.com/news/georgia-ports-volumes-hit-by-higher-costs-softer-market",
-    "image": "https://www.freightwaves.com/wp-content/uploads/2026/01/13/savannah250313-Garden-City-Terminal-Dock-3-FOR-RELEASE_cropped_processed_by_imagy.jpg",
-    "source": "FreightWaves",
-    "source_id": "src-050",
-    "category": "trzista",
-    "published_at": "2026-05-21T19:46:33+00:00",
-    "fetched_at": "2026-05-22T10:36:30.512811+00:00"
-  },
-  {
-    "id": "ff4e6f56fb5c09d7",
-    "title": "The Charcoal on That Truck Costs More to Import, More to Buy, and Is Headed to a Cookout That Runs 13% Higher Than Last Year. Here Is What That Tells You About the Consumer Right Now.",
-    "description": "Pull up the import data on U.S. charcoal briquette shipments and you are looking at something that some people in trucking would not think to check heading into a holiday weekend. But that data, read against the consumer spending picture for Memorial Day 2026, tells you something specific about the supply chain, the retail freight […] The post The Charcoal on That Truck Costs More to Import, More to Buy, and Is Headed to a Cookout That Runs 13% Higher Than Last Year. Here Is What That Tells You About the Consumer Right Now. appeared first on FreightWaves .",
-    "url": "https://www.freightwaves.com/news/the-charcoal-on-that-truck-costs-more-to-import-more-to-buy-and-is-headed-to-a-cookout-that-runs-13-higher-than-last-year-here-is-what-that-tells-you-about-the-consumer-right-now",
-    "image": "https://www.freightwaves.com/wp-content/uploads/2025/08/29/FW_GAL_T12-747.jpg",
-    "source": "FreightWaves",
-    "source_id": "src-050",
-    "category": "trzista",
-    "published_at": "2026-05-21T19:35:13+00:00",
-    "fetched_at": "2026-05-22T10:36:30.512935+00:00"
-  },
-  {
-    "id": "19cb107450c84cd3",
-    "title": "AgriFood Signals: More Microsoft carbon deals, a $200m greenhouse in Mexico, rubber from dandelions",
-    "description": "Plus: Steakholder Foods plans US launch. The post AgriFood Signals: More Microsoft carbon deals, a $200m greenhouse in Mexico, rubber from dandelions appeared first on AgFunderNews .",
-    "url": "https://agfundernews.com/agrifood-signals-more-microsoft-carbon-deals-a-200m-greenhouse-in-mexico-rubber-from-dandelions",
-    "image": "https://agfundernews.com/wp-content/uploads/2026/05/California-Cultured-150x150.webp",
-    "source": "AgFunderNews",
-    "source_id": "src-058",
-    "category": "trzista",
-    "published_at": "2026-05-21T19:33:48+00:00",
-    "fetched_at": "2026-05-22T22:17:26.741451+00:00"
-  },
-  {
-    "id": "03d71bb3ce771618",
-    "title": "CHART: Copper price surge mints 23 new unicorn mines",
-    "description": "The ranks of copper mining’s answer to Silicon Valley's $1 billion startup unicorns swell to 75.",
-    "url": "https://www.mining.com/chart-copper-price-surge-mints-23-new-unicorn-mines/",
-    "image": "https://picsum.photos/seed/wv-news-ef6c8d502482/1200/750",
-    "source": "Mining.com",
-    "source_id": "src-049",
-    "category": "trzista",
-    "published_at": "2026-05-21T19:32:47+00:00",
-    "fetched_at": "2026-05-22T22:17:25.520694+00:00"
-  },
-  {
-    "id": "0425a34c84a5030f",
-    "title": "Fleetworthy bets on AI, unified data as trucking margins tighten",
-    "description": "Fleetworthy executives recently unveiled a connected platform strategy they say will help fleets reduce operational inefficiencies and leverage AI-driven analytics across trucking operations. The post Fleetworthy bets on AI, unified data as trucking margins tighten appeared first on FreightWaves .",
-    "url": "https://www.freightwaves.com/news/fleetworthy-bets-on-ai-unified-data-as-trucking-margins-tighten",
-    "image": "https://www.freightwaves.com/wp-content/uploads/2026/05/21/Fleetworthy_Fogarty_Precia.jpg",
-    "source": "FreightWaves",
-    "source_id": "src-050",
-    "category": "trzista",
-    "published_at": "2026-05-21T19:23:41+00:00",
-    "fetched_at": "2026-05-22T10:36:30.513005+00:00"
-  },
-  {
-    "id": "a15e4b38564b2afd",
-    "title": "Meta Platforms’ 10% Layoff Raises a Bigger Question About AI Spending",
-    "description": "Izvorni naslov/sažetak s portala Investing.com Stock Market. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/analysis/meta-platforms-10-layoff-raises-a-bigger-question-about-ai-spending-200680751",
-    "image": "https://picsum.photos/seed/wv-core-e60d3609241b/1200/750",
-    "source": "Investing.com Stock Market",
-    "source_id": "core-fill-trzista",
-    "category": "trzista",
-    "published_at": "2026-05-21T19:23:00+00:00",
-    "fetched_at": "2026-05-22T09:07:07.261053+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "85393389a60ffa26",
-    "title": "Norway’s Oil Industry Is Learning How To Produce More With Less",
-    "description": "Norway’s oil industry is entering a new phase where infrastructure utilization, subsea tie-backs, and recovery rates could matter more than giant new discoveries. Equinor and Aker BP on Thursday released a new cooperation announcement aimed at deepening collaboration across parts of the Norwegian continental shelf (NCS). At first glance, the agreement looks highly technical. But the two companies said the cooperation is designed to accelerate developments, improve resource recovery, and unlock more value from existing offshore infrastructure.…",
-    "url": "https://oilprice.com/Energy/Energy-General/Norways-Oil-Industry-Is-Learning-How-To-Produce-More-With-Less.html",
-    "image": "https://picsum.photos/seed/wv-news-63220defa50e/1200/750",
-    "source": "OilPrice",
-    "source_id": "src-047",
-    "category": "trzista",
-    "published_at": "2026-05-21T19:00:00+00:00",
-    "fetched_at": "2026-05-22T09:03:07.172213+00:00"
-  },
-  {
-    "id": "155f41b5754199f5",
-    "title": "Lawmakers introduce SILVER Act to increase precious metals storage sites in US - Mining.com",
-    "description": "Lawmakers introduce SILVER Act to increase precious metals storage sites in US Mining.com",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV05oeGw3d044cmlrWmQwN0hvSnJ3WEVvRENHVUZ2RkFWODFtT0JsNzItUFQybm5WYnBTcUZaa2RjbkNFSWdiNlpCTVFVM0VMejhDRkZPYmxwa3Ryc2gxVU5GaDZtaGlMVmFEY0s0TW9ZXzVtR1YyaGlteUNzNkpCRXZydkl5X3VkQU82Z1A1a2RROE8tZ3hNRC1yTmxvV3EydDNZQQ?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-836e78a11a94/1200/750",
-    "source": "Mining.com Markets - Google News",
-    "source_id": "global-extra-012",
-    "category": "trzista",
-    "published_at": "2026-05-21T18:45:52+00:00",
-    "fetched_at": "2026-05-22T22:18:15.921098+00:00"
-  },
-  {
-    "id": "092f394efe6b54bc",
-    "title": "Lawmakers introduce SILVER Act to increase precious metals storage sites in US",
-    "description": "The bill aims to amend the Commodity Exchange Act to reduce systemic risk while increasing geographical diversity and competition.",
-    "url": "https://www.mining.com/lawmakers-introduce-silver-act-to-increase-precious-metals-storage-sites-in-us/",
-    "image": "https://picsum.photos/seed/wv-news-ed1b37913dc6/1200/750",
-    "source": "Mining.com",
-    "source_id": "src-049",
-    "category": "trzista",
-    "published_at": "2026-05-21T18:41:47+00:00",
-    "fetched_at": "2026-05-22T22:17:25.520757+00:00"
-  },
-  {
-    "id": "4524e835a0a6ccda",
-    "title": "Oil Could Enter Red Zone by July/August IEA - Crude Oil Prices Today | OilPrice.com",
-    "description": "Oil Could Enter Red Zone by July/August IEA Crude Oil Prices Today | OilPrice.com",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTHdJMlgtUzctUzlpREpmNGtnYmQzcm8zVXN1ZTAtNUVmd3FHZS1xdGEtMGV4VHBQV3N3OUp3Ti1jLXRBWkJOcVhGVGtBZVBmdGw2aWxSQ2d0a1dycGJDVy1qdTZZZjNOX3FLak12RVlIakhDMXJUMVlBZ2NTM3BnVDliVjZDV21pbEhyY2YtSGcxQ09CbjVXaVpCMTR2OWPSAaQBQVVfeXFMUFp6WC03XzNyaDY3X0xId2hDbW9nOEl1Y2dpVjUyNDBHcUlCMDIxdHVyNk51bTZwbTVvX2k0N2c0X1FYUUNHTkV5b09MTGl1M2UyNHZ5ZnBCLXFVSDI3ckpXaHdRZUxFWkNLTk8tRGpXNHNpbjFndFJQVU8xSzMtdUphYnhCNVl3SThZN016cmdoRnpHTUdGWVpTX1ZaektZQjFRRFc?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-ca6a30db6a2d/1200/750",
-    "source": "OilPrice Markets - Google News",
-    "source_id": "global-extra-011",
-    "category": "trzista",
-    "published_at": "2026-05-21T18:30:00+00:00",
-    "fetched_at": "2026-05-22T22:18:15.433611+00:00"
-  },
-  {
-    "id": "d5f1152a105cd9d2",
-    "title": "Oil Could Enter Red Zone by July/August: IEA",
-    "description": "The oil market is heading into what Fatih Birol calls the \"red zone\" this summer. Speaking Thursday at Chatham House in London, Birol warned that rapidly falling inventories, missing Middle Eastern exports, and rising summer demand could push global oil markets into dangerous territory by July or August. \"This may be difficult and we may be entering the red zone in July-August if we don't see some improvements,\" Birol said. And unlike some earlier warnings that felt a bit theoretical, the inventory data increasingly suggest he may actually have…",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Could-Enter-Red-Zone-by-JulyAugust-IEA.html",
-    "image": "https://picsum.photos/seed/wv-news-18a48d32b201/1200/750",
-    "source": "OilPrice",
-    "source_id": "src-047",
-    "category": "trzista",
-    "published_at": "2026-05-21T18:30:00+00:00",
-    "fetched_at": "2026-05-22T09:03:07.172292+00:00"
   }
 ]

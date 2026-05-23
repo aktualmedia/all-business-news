@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-05-23T05:26:51.233360+00:00",
+  "updated_at": "2026-05-23T06:40:00.681097+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 95,
-      "cover": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-85233584.jpg"
+      "count": 103,
+      "cover": "https://deadline.com/wp-content/uploads/2026/03/CBS-News-Radio-Edward-R.-Murrow.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 15,
-      "cover": "https://www.yankodesign.com/images/design_news/2026/05/draft-anker/anker_eufy_s2_1.jpeg"
+      "count": 20,
+      "cover": "https://cdn.mos.cms.futurecdn.net/YiCZZ2XNqKjjFBqxzXAPLQ-1280-80.jpg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 5,
-      "cover": "https://robbreport.com/wp-content/uploads/2026/05/102_2HolesofWater_EH_FI_8aa9b9.jpg"
+      "count": 8,
+      "cover": "https://robbreport.com/wp-content/uploads/2026/05/Rittenhouse_Rye_250th_Anniversary_c4c861.jpg"
     },
     {
       "id": "hrana",
@@ -29,49 +29,49 @@
     {
       "id": "pica",
       "label": "PIĆA",
-      "count": 2,
+      "count": 1,
       "cover": "https://www.thedrinksbusiness.com/content/uploads/2026/05/iStock-1127201580-scaled.jpg"
     },
     {
       "id": "satovi",
       "label": "SATOVI",
-      "count": 7,
+      "count": 6,
       "cover": "https://hodinkee.imgix.net/uploads/images/66641725-c703-43ff-8603-0d63be4da8cf/cropped.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 25,
+      "count": 20,
       "cover": "https://www.catster.com/wp-content/uploads/2023/11/happy-birthday-cats.jpg"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 43,
-      "cover": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1470646299-1152x648-1779483037.jpg"
+      "count": 44,
+      "cover": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 93,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/green-chemistry.jpg"
+      "count": 88,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/linkedin.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 121,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a10c9a3aa84df5e6282775d/0x0.jpg?width=960&precrop=1404%2C936%2Cx0%2Cy0"
+      "count": 129,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a112cc5d5195fe7736bc547/0x0.jpg?width=960"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 60,
-      "cover": "https://i-invdn-com.investing.com/news/LYNXMPEE0T090_M.jpg"
+      "count": 53,
+      "cover": "https://images.mktw.net/im-69899727"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 30,
+      "count": 24,
       "cover": "https://www.freightwaves.com/wp-content/uploads/2026/05/22/Trailers-Jim-Allen-FreightWaves.jpg"
     }
   ]

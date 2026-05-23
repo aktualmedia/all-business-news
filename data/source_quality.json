@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-22T22:21:29.692405+00:00",
+  "updated_at": "2026-05-23T06:40:00.714922+00:00",
   "sources": 236,
-  "ok": 167,
+  "ok": 168,
   "problem": 52,
   "items": [
     {
@@ -698,10 +698,10 @@
       "error": ""
     },
     {
-      "id": "global-extra-036",
-      "name": "National Jeweler - Google News",
-      "category": "nakit",
-      "url": "https://news.google.com/rss/search?q=site:nationaljeweler.com%20jewelry&hl=en-US&gl=US&ceid=US:en",
+      "id": "src-083",
+      "name": "Nature News",
+      "category": "znanost",
+      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1182,6 +1182,17 @@
       "error": ""
     },
     {
+      "id": "global-extra-036",
+      "name": "National Jeweler - Google News",
+      "category": "nakit",
+      "url": "https://news.google.com/rss/search?q=site:nationaljeweler.com%20jewelry&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-023",
       "name": "Science News - Google News",
       "category": "znanost",
@@ -1219,6 +1230,17 @@
       "name": "WatchTime - Google News",
       "category": "satovi",
       "url": "https://news.google.com/rss/search?q=site:watchtime.com%20watches&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-032",
+      "name": "aBlogtoWatch - Google News",
+      "category": "satovi",
+      "url": "https://news.google.com/rss/search?q=site:ablogtowatch.com%20watches&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1710,17 +1732,6 @@
       "error": ""
     },
     {
-      "id": "global-extra-032",
-      "name": "aBlogtoWatch - Google News",
-      "category": "satovi",
-      "url": "https://news.google.com/rss/search?q=site:ablogtowatch.com%20watches&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-080",
       "name": "ESA",
       "category": "znanost",
@@ -1956,17 +1967,6 @@
       "name": "Lonely Planet",
       "category": "lifestyle",
       "url": "https://www.lonelyplanet.com/news/feed",
-      "status": "empty",
-      "label": "prazan feed",
-      "count": 0,
-      "score": 55,
-      "error": ""
-    },
-    {
-      "id": "src-083",
-      "name": "Nature News",
-      "category": "znanost",
-      "url": "https://www.nature.com/nature.rss",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
