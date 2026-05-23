@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-23T20:17:11.512833+00:00",
+  "updated_at": "2026-05-23T23:18:58.725570+00:00",
   "sources": 236,
-  "ok": 166,
-  "problem": 53,
+  "ok": 165,
+  "problem": 54,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -368,6 +368,17 @@
       "error": ""
     },
     {
+      "id": "src-065",
+      "name": "Engadget",
+      "category": "tehnologija",
+      "url": "https://www.engadget.com/rss.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-001",
       "name": "FT Business - Google News",
       "category": "poslovanje",
@@ -471,17 +482,6 @@
       "name": "Google AI Blog",
       "category": "tehnologija",
       "url": "https://blog.google/technology/ai/rss/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-124",
-      "name": "Highsnobiety",
-      "category": "lifestyle",
-      "url": "https://www.highsnobiety.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -654,17 +654,6 @@
       "error": ""
     },
     {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-012",
       "name": "Mining.com Markets - Google News",
       "category": "trzista",
@@ -680,6 +669,17 @@
       "name": "NBER Digest",
       "category": "ekonomija",
       "url": "https://www.nber.org/rss/new.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-083",
+      "name": "Nature News",
+      "category": "znanost",
+      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1160,17 +1160,6 @@
       "error": ""
     },
     {
-      "id": "src-065",
-      "name": "Engadget",
-      "category": "tehnologija",
-      "url": "https://www.engadget.com/rss.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-036",
       "name": "National Jeweler - Google News",
       "category": "nakit",
@@ -1446,6 +1435,17 @@
       "error": ""
     },
     {
+      "id": "src-124",
+      "name": "Highsnobiety",
+      "category": "lifestyle",
+      "url": "https://www.highsnobiety.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-103",
       "name": "Hollywood Reporter",
       "category": "kultura",
@@ -1560,17 +1560,6 @@
       "name": "Monochrome Watches",
       "category": "satovi",
       "url": "https://monochrome-watches.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-098",
-      "name": "MuseumNext",
-      "category": "kultura",
-      "url": "https://www.museumnext.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1952,10 +1941,10 @@
       "error": ""
     },
     {
-      "id": "src-083",
-      "name": "Nature News",
-      "category": "znanost",
-      "url": "https://www.nature.com/nature.rss",
+      "id": "src-098",
+      "name": "MuseumNext",
+      "category": "kultura",
+      "url": "https://www.museumnext.com/feed/",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -2390,6 +2379,17 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 409: Conflict"
+    },
+    {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-034",

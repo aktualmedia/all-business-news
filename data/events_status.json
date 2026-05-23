@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-23T20:15:47.561664+00:00",
+  "updated_at": "2026-05-23T23:17:38.871060+00:00",
   "sources": 69,
   "ok_sources": 13,
-  "events_count": 160,
+  "events_count": 167,
   "results": [
     {
       "id": "infozagreb-events",
@@ -65,7 +65,7 @@
       "type": "kazalište",
       "status": "fallback",
       "count": 1,
-      "error": "The read operation timed out"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "komedija",
@@ -333,8 +333,9 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "kazalište / premijere",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "<urlopen error timed out>"
     },
     {
       "id": "opera-paris",
@@ -554,9 +555,8 @@
       "country": "Ujedinjeno Kraljevstvo",
       "city": "London",
       "type": "muzej / izložbe",
-      "status": "fallback",
-      "count": 1,
-      "error": "The read operation timed out"
+      "status": "ok",
+      "count": 16
     },
     {
       "id": "national-gallery-london",
@@ -658,8 +658,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "ok",
-      "count": 9
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "uffizi",
