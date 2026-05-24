@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-23T23:49:21.012601+00:00",
+  "updated_at": "2026-05-24T09:15:12.337322+00:00",
   "sources": 236,
-  "ok": 167,
-  "problem": 53,
+  "ok": 166,
+  "problem": 54,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -449,17 +449,6 @@
       "name": "Forbes Business",
       "category": "poslovanje",
       "url": "https://www.forbes.com/business/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-135",
-      "name": "Forbes Innovation",
-      "category": "poslovanje",
-      "url": "https://www.forbes.com/innovation/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1160,6 +1149,17 @@
       "error": ""
     },
     {
+      "id": "src-135",
+      "name": "Forbes Innovation",
+      "category": "poslovanje",
+      "url": "https://www.forbes.com/innovation/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-036",
       "name": "National Jeweler - Google News",
       "category": "nakit",
@@ -1483,17 +1483,6 @@
       "name": "Knowledge at Wharton",
       "category": "poslovanje",
       "url": "https://knowledge.wharton.upenn.edu/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-138",
-      "name": "LSE Business Review",
-      "category": "ekonomija",
-      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -2379,6 +2368,17 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "src-138",
+      "name": "LSE Business Review",
+      "category": "ekonomija",
+      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 409: Conflict"
     },
     {
       "id": "src-049",

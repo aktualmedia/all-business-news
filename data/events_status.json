@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-23T23:47:54.479608+00:00",
+  "updated_at": "2026-05-24T09:13:51.743985+00:00",
   "sources": 69,
-  "ok_sources": 12,
-  "events_count": 152,
+  "ok_sources": 13,
+  "events_count": 167,
   "results": [
     {
       "id": "infozagreb-events",
@@ -554,9 +554,8 @@
       "country": "Ujedinjeno Kraljevstvo",
       "city": "London",
       "type": "muzej / izložbe",
-      "status": "fallback",
-      "count": 1,
-      "error": "The read operation timed out"
+      "status": "ok",
+      "count": 16
     },
     {
       "id": "national-gallery-london",
