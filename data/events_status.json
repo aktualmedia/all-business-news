@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-24T18:17:56.126530+00:00",
+  "updated_at": "2026-05-24T19:53:33.842966+00:00",
   "sources": 69,
-  "ok_sources": 13,
-  "events_count": 167,
+  "ok_sources": 12,
+  "events_count": 154,
   "results": [
     {
       "id": "infozagreb-events",
@@ -333,8 +333,9 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "kazalište / premijere",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "<urlopen error timed out>"
     },
     {
       "id": "opera-paris",
@@ -605,8 +606,9 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "muzej / izložbe",
-      "status": "ok",
-      "count": 14
+      "status": "fallback",
+      "count": 1,
+      "error": "The read operation timed out"
     },
     {
       "id": "centre-pompidou",

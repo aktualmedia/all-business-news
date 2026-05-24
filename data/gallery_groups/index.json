@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-05-24T18:19:15.098084+00:00",
+  "updated_at": "2026-05-24T19:54:58.246869+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 98,
-      "cover": "https://variety.com/wp-content/uploads/2026/04/MCDMICH_LG028.jpg"
+      "count": 91,
+      "cover": "https://deadline.com/wp-content/uploads/2026/05/P106EXA6-e1779648396177.jpg"
     },
     {
       "id": "dizajn",
@@ -17,8 +17,8 @@
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 8,
-      "cover": "https://robbreport.com/wp-content/uploads/2026/05/Very_Old_St_Nick_Immaculata.jpg"
+      "count": 10,
+      "cover": "https://robbreport.com/wp-content/uploads/2026/05/RR_20260515_Alto_Adige_Pinot_Noir_1.jpg"
     },
     {
       "id": "satovi",
@@ -29,32 +29,32 @@
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 14,
+      "count": 13,
       "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F24%2Ftiffany-co-blue-box-cafe-lee-gardens-hong-kong-000.jpg?w=800&cbr=1&q=90&fit=max"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 52,
-      "cover": "https://images.ctfassets.net/jdtwqhzvc2n1/1mLIFSfteOdN7VXTz3uRpL/cd695921058b68548ea5880d6da3bbca/u7277289442_AI_engineers_are_hunched_over_computers_wearing_l_9f2e4220-4bb1-4a1c-8d2e-567e67d7bf36_2.png?w=300&q=30"
+      "count": 49,
+      "cover": "https://www.engadget.com/img/gallery/the-white-house-is-reportedly-forcing-its-official-app-onto-all-government-employee-phones/l-intro-1779645823.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 62,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/gold-coated-optical-fi.jpg"
+      "count": 61,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2020/1-game.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 138,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a132a0fa857c03a9bf67c9b/0x0.jpg"
+      "count": 143,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a1062624e97e3e8564cc823/0x0.png?width=960"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 68,
-      "cover": "https://images.mktw.net/im-10074017"
+      "count": 73,
+      "cover": "https://www.finance-monthly.com/wp-content/uploads/2026/05/5000-1024x768.webp"
     },
     {
       "id": "trzista",
