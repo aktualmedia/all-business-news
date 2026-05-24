@@ -1,66 +1,66 @@
 {
-  "updated_at": "2026-05-24T09:30:05.110822+00:00",
+  "updated_at": "2026-05-24T18:19:15.098084+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 112,
-      "cover": "https://deadline.com/wp-content/uploads/2026/05/MCDSTWA_WD094.jpg"
+      "count": 98,
+      "cover": "https://variety.com/wp-content/uploads/2026/04/MCDMICH_LG028.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 37,
-      "cover": "https://cdn.mos.cms.futurecdn.net/qTGdyXjaNAQUpC9tXWGDPJ-1280-80.gif"
+      "count": 46,
+      "cover": "https://www.yankodesign.com/images/design_news/2026/05/philo/philo_yanko_design_04.jpg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 7,
-      "cover": "https://robbreport.com/wp-content/uploads/2026/05/Jeremy_King_Simpsons_Chris_Floyd_085_lores_RT-1.jpg"
+      "count": 8,
+      "cover": "https://robbreport.com/wp-content/uploads/2026/05/Very_Old_St_Nick_Immaculata.jpg"
     },
     {
       "id": "satovi",
       "label": "SATOVI",
       "count": 4,
-      "cover": "https://monochrome-watches.com/app/uploads/2025/01/Greubel-Forsey-Hand-Made-2-watch-9-600x237.jpg"
+      "cover": "https://monochrome-watches.com/app/uploads/2026/03/2026-Tissot-Visodate-Collection-Redesigned-Powermatic-80-review-7-600x237.jpg"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 11,
-      "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F24%2Fetai-felipe-pantone-parallel-practices-tailored-structures-kinetic-surfaces-albertz-benda-los-angeles-info-000.jpg?w=800&cbr=1&q=90&fit=max"
+      "count": 14,
+      "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F24%2Ftiffany-co-blue-box-cafe-lee-gardens-hong-kong-000.jpg?w=800&cbr=1&q=90&fit=max"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 51,
-      "cover": "https://image.theregister.com/?imageId=5244357&width=800"
+      "count": 52,
+      "cover": "https://images.ctfassets.net/jdtwqhzvc2n1/1mLIFSfteOdN7VXTz3uRpL/cd695921058b68548ea5880d6da3bbca/u7277289442_AI_engineers_are_hunched_over_computers_wearing_l_9f2e4220-4bb1-4a1c-8d2e-567e67d7bf36_2.png?w=300&q=30"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 72,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/indonesia-flooding.jpg"
+      "count": 62,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/gold-coated-optical-fi.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 131,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a124e35736c4ff6d11afa10/0x0.jpg"
+      "count": 138,
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a132a0fa857c03a9bf67c9b/0x0.jpg"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 65,
-      "cover": "https://i-invdn-com.investing.com/news/LYNXNPEC502XS_M.jpg"
+      "count": 68,
+      "cover": "https://images.mktw.net/im-10074017"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
       "count": 10,
-      "cover": "https://www.visualcapitalist.com/wp-content/uploads/2026/05/Europes-Favorite-Streaming-Genres_02-share.webp"
+      "cover": "https://www.visualcapitalist.com/wp-content/uploads/2026/05/Tallest-Buildings_02-share.webp"
     }
   ]
 }

@@ -1,6 +1,230 @@
 [
   {
-    "id": "gal-76323343030662",
+    "id": "gal-48219684866837",
+    "title": "Gold-coated optical fiber rapidly gathers microscopic targets for faster, more sensitive detection",
+    "description": "Osaka Metropolitan University researchers have developed a light-driven technique that quickly amasses thousands of bacteria into a single spot, boosting detection speed and sensitivity. Their approach paves the way for earlier diagnosis of disease. The study is published in Communications Physics.",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gold-coated-optical-fi.jpg",
+    "category": "znanost",
+    "group": "znanost",
+    "label": "ZNANOST",
+    "source": "Phys.org",
+    "source_url": "https://phys.org/news/2026-05-gold-coated-optical-fiber-rapidly.html",
+    "created_at": "2026-05-24T17:00:11+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-60030156696726",
+    "title": "DNA repair protein gene gone rogue may unlock new cancer treatments",
+    "description": "When it comes to cancer, tumor suppressor genes are usually thought of as the \"good guys.\" These genes make proteins that protect and repair DNA in cells. If they stop functioning or there's not enough, cancer risk goes up. But there can be too much of a good thing: when cells overexpress the gene EXO1—meaning that they make more of the protein than they should—it can degrade the DNA it's supposed to repair. This causes damage that can disrupt the genome, which is a hallmark of cancer, according to a team of researchers from Penn State College of Medicine.",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-repair-protein-gen.jpg",
+    "category": "znanost",
+    "group": "znanost",
+    "label": "ZNANOST",
+    "source": "Medical Xpress",
+    "source_url": "https://medicalxpress.com/news/2026-05-dna-protein-gene-rogue-cancer.html",
+    "created_at": "2026-05-24T17:00:10+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-34834751198875",
+    "title": "Study shows how sunspot activity speeds up reentries",
+    "description": "It's getting crowded up there. Over the past few years, the advent of SpaceX's Starlink and other players in the mega-satellite constellation game are adding an exponential load of satellites and orbital debris to the low Earth orbit environment. But all that goes up, must eventually come down. Now, a new study looks at solar activity over time as a predictor for how reentries trend.",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-shows-how-sunspo.jpg",
+    "category": "znanost",
+    "group": "znanost",
+    "label": "ZNANOST",
+    "source": "Phys.org",
+    "source_url": "https://phys.org/news/2026-05-sunspot-reentries.html",
+    "created_at": "2026-05-24T17:00:02+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-54196164809822",
+    "title": "Mathematicians solve decades-old mystery about the hidden order in high-dimensional randomness",
+    "description": "Three mathematicians have laid out proof that solves a long-standing problem in mathematics. Even the mathematician—an Abel prize winner—that first posed the problem didn't believe it would ever be solved. The solution provides insight into high-dimensional random structures that could potentially impact data science, machine learning and optimization.",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/geometry-1.jpg",
+    "category": "znanost",
+    "group": "znanost",
+    "label": "ZNANOST",
+    "source": "Phys.org",
+    "source_url": "https://phys.org/news/2026-05-mathematicians-decades-mystery-hidden-high.html",
+    "created_at": "2026-05-24T16:20:01+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-84899622705822",
+    "title": "The impact of microplastics on ocean carbon uptake",
+    "description": "Marine microplastics affect algae's ability to grow and photosynthesize. Researchers have now calculated what impact this has on the greenhouse effect and the ocean's ability to absorb carbon dioxide.",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-impact-of-micropla.jpg",
+    "category": "znanost",
+    "group": "znanost",
+    "label": "ZNANOST",
+    "source": "Phys.org",
+    "source_url": "https://phys.org/news/2026-05-impact-microplastics-ocean-carbon-uptake.html",
+    "created_at": "2026-05-24T16:00:01+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-71919266438607",
+    "title": "Blood biomarkers could detect earliest signs of Alzheimer's disease—and slow its progression",
+    "description": "Alzheimer's disease, a progressive neurodegenerative disorder that affects millions worldwide, has a long preclinical stage. It potentially begins decades before clinical symptoms become apparent.",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/blood-test-2.jpg",
+    "category": "znanost",
+    "group": "znanost",
+    "label": "ZNANOST",
+    "source": "Medical Xpress",
+    "source_url": "https://medicalxpress.com/news/2026-05-blood-biomarkers-earliest-alzheimer-disease.html",
+    "created_at": "2026-05-24T14:30:03+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-32250529518117",
+    "title": "Hydrous mantle minerals reveal possible source of seismic anisotropy in stagnant slabs",
+    "description": "Seismic waves traveling through Earth's interior often propagate at different speeds depending on their direction, a phenomenon known as seismic anisotropy. Such anisotropy is commonly detected beneath subduction zones, particularly near stagnant slabs in the mantle transition zone and uppermost lower mantle. However, the physical origin of these signals has remained uncertain.",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/deformed-hydrous-mantl.jpg",
+    "category": "znanost",
+    "group": "znanost",
+    "label": "ZNANOST",
+    "source": "Phys.org",
+    "source_url": "https://phys.org/news/2026-05-hydrous-mantle-minerals-reveal-source.html",
+    "created_at": "2026-05-24T14:30:01+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-51846780569560",
+    "title": "Ebola toll tops 200, other African countries seen at risk",
+    "description": "Officials in the Democratic Republic of Congo updated the death toll from the Ebola outbreak to 204 late Saturday, hours after the Red Cross said three volunteers had died there and Uganda confirmed three new Ebola cases.",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-ebola-outbreak-in.jpg",
+    "category": "znanost",
+    "group": "znanost",
+    "label": "ZNANOST",
+    "source": "Medical Xpress",
+    "source_url": "https://medicalxpress.com/news/2026-05-ebola-toll-tops-african-countries.html",
+    "created_at": "2026-05-24T14:00:04+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-13969347252502",
+    "title": "Hotels strive to be found as AI models conduct travel search",
+    "description": "With people increasingly adopting AI to help plan their vacations, hotels are working to make sure that you check them out—and check in.",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-rise-of-ai-to-plan.jpg",
+    "category": "znanost",
+    "group": "znanost",
+    "label": "ZNANOST",
+    "source": "Phys.org",
+    "source_url": "https://phys.org/news/2026-05-hotels-ai.html",
+    "created_at": "2026-05-24T14:00:03+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-79418915093657",
+    "title": "'Patchwork families' existed more than 5,000 years ago, Neolithic DNA reveals",
+    "description": "Children from previous relationships growing up as siblings in a new family, couples adopting or fostering children: So-called patchwork families are a widespread way of life today. It is considered modern, but is in fact ancient, according to a recent analysis of human genetic material from the Neolithic period.",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/patchwork-families-exi.jpg",
+    "category": "znanost",
+    "group": "znanost",
+    "label": "ZNANOST",
+    "source": "Phys.org",
+    "source_url": "https://phys.org/news/2026-05-patchwork-families-years-neolithic-dna.html",
+    "created_at": "2026-05-24T14:00:01+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-70036400251986",
+    "title": "Heatstroke kills 16 in India as temperatures climb",
+    "description": "At least 16 people have died of heatstroke in southern India so far this summer, officials said Sunday, as a heat wave grips swathes of the country following official health warnings.",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-man-takes-a-nap-in-f.jpg",
+    "category": "znanost",
+    "group": "znanost",
+    "label": "ZNANOST",
+    "source": "Phys.org",
+    "source_url": "https://phys.org/news/2026-05-heatstroke-india-temperatures-climb.html",
+    "created_at": "2026-05-24T13:40:03+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-76726197412226",
+    "title": "Good dog! More children's hospitals turn to furry caregivers to help kids heal",
+    "description": "The first time 5-year-old Calvin Owens went outside in more than a month, he met up with his canine friend Hadley on a hospital patio. Despite being tethered to equipment with wires and tubes, the little boy managed to stand up near his wheelchair long enough to toss her a ball.",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/good-dog-more-children.jpg",
+    "category": "znanost",
+    "group": "znanost",
+    "label": "ZNANOST",
+    "source": "Medical Xpress",
+    "source_url": "https://medicalxpress.com/news/2026-05-good-dog-children-hospitals-furry.html",
+    "created_at": "2026-05-24T13:40:01+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-12009793943328",
+    "title": "How state laws can stymie research into your ancestors' psychiatric records",
+    "description": "Breta Meria Conole was in a state psychiatric hospital for more than two decades. But the reason why is a family mystery.",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-state-laws-can-sty.jpg",
+    "category": "znanost",
+    "group": "znanost",
+    "label": "ZNANOST",
+    "source": "Medical Xpress",
+    "source_url": "https://medicalxpress.com/news/2026-05-state-laws-stymie-ancestors-psychiatric.html",
+    "created_at": "2026-05-24T13:29:13+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-13128250096227",
+    "title": "Solar activity follows an 11‑year cycle. Here's how it controls eruptions and solar flares",
+    "description": "When you look up at the sky on a sunny day, the sun might seem like a bright spot, unchanging in the sky. But the sun is a complex, dynamic celestial body, wrapped in electrical currents and magnetic fields that constantly move and tangle as it rotates. At times the sun's surface is very active, casting out powerful bursts of plasma called coronal mass ejections, while at other times it is calmer.",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/solar-flare-1.jpg",
+    "category": "znanost",
+    "group": "znanost",
+    "label": "ZNANOST",
+    "source": "Phys.org",
+    "source_url": "https://phys.org/news/2026-05-solar-11year-eruptions-flares.html",
+    "created_at": "2026-05-24T13:00:01+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-23775853213657",
+    "title": "How a distinct communication subspace in the brain turns goals into actions",
+    "description": "Humans continuously adapt their actions and behaviors in response to changes in their surrounding environment. Past neuroscience studies suggest that this adaptation process relies on the brain's ability to translate abstract goals or rules into specific physical actions or behaviors, yet its neural underpinnings have not yet been clearly elucidated.",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-insight-into-how-t-1.jpg",
+    "category": "znanost",
+    "group": "znanost",
+    "label": "ZNANOST",
+    "source": "Medical Xpress",
+    "source_url": "https://medicalxpress.com/news/2026-05-distinct-communication-subspace-brain-goals.html",
+    "created_at": "2026-05-24T12:40:01+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-17844692003293",
+    "title": "Heavily reddened quasars caught going through a 'blow-out' phase",
+    "description": "At the center of most large galaxies sits a supermassive black hole (SMBH). When these black holes are actively consuming material, they become incredibly luminous quasars. But some quasars appear wrapped in thick clouds of dust, making them hard to detect. In a new study, astronomers have revealed 77 new, hidden, \"heavily reddened\" quasars (HRQs).",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/heavily-reddened-quasa.jpg",
+    "category": "znanost",
+    "group": "znanost",
+    "label": "ZNANOST",
+    "source": "Phys.org",
+    "source_url": "https://phys.org/news/2026-05-heavily-reddened-quasars-caught-phase.html",
+    "created_at": "2026-05-24T12:20:01+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-72575946404160",
     "title": "Indonesia says its giant sea wall will stop flooding. Is this climate adaptation or a costly folly?",
     "description": "Indonesia plans to build a \"giant sea wall,\" more than 500 kilometers long, to defend Java's north coast from rising sea levels.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/indonesia-flooding.jpg",
@@ -14,7 +238,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-77491946952086",
+    "id": "gal-61743193074817",
     "title": "Community-based baby hip screening successfully reduces late diagnosis of developmental dysplasia",
     "description": "A recent trial of community-based and nurse-led ultrasound screening for hip dysplasia in Japan has been met with great success, according to new research at the University of Tokyo. The trial achieved almost universal reach and 8.7% of infants were found to have suspected developmental dysplasia of the hip (DDH), including children with no clinical signs or known risk factors. The paper is published in the International Journal of Nursing Studies.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/community-based-baby-h.jpg",
@@ -28,7 +252,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-20551939589216",
+    "id": "gal-73970265563968",
     "title": "Early locust warning systems are key to minimizing natural disasters, returning up to 680 times investment",
     "description": "A study of one of the world's longest-running disaster warning systems—desert locust monitoring—finds surveillance limits damages and generates returns of up to 680 times the investment. The new study, published by the National Bureau of Economic Research as part of its working papers series, measures how valuable early warning systems could be in limiting the damage caused by natural disasters. Using three decades of data, it evaluates one of the earliest and longest-running disaster monitoring systems: monitoring for the desert locust, one of the world's most destructive agricultural pests.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/early-warning-systems.jpg",
@@ -42,7 +266,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-30399152248239",
+    "id": "gal-43684366406605",
     "title": "Human-centered framework cuts child development tests to eight minutes across four skill areas",
     "description": "Educators and researchers around the world, especially in countries with limited resources, need cost-effective, scalable tools for assessing early child development. Direct assessments, a commonly used approach, require children to complete a range of activities that measure academic, physical, and social-emotional skills. These assessments paint a nuanced picture of early child development and are useful to evaluate programs and policies. However, administering direct assessments often takes 30 or more minutes, making them impractical for measuring large populations. Practitioners and researchers need more practical methods.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/vanderbilt-professor-d.jpg",
@@ -56,7 +280,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-25209847360645",
+    "id": "gal-29974427277555",
     "title": "Tiny fossils found in 1.7-billion‑year‑old mud yield clues to the evolution of complex life",
     "description": "Stored in an open-air warehouse in tropical Darwin, Australia, are dozens of trays containing cylindrical cores of rock. They are from drill holes bored hundreds of meters below the surface by mineral exploration companies decades ago.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-fossils-found-in-2.jpg",
@@ -70,7 +294,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-34732900409095",
+    "id": "gal-32731296356863",
     "title": "Stem cells have potent potential for diabetes treatment",
     "description": "Humans have around 30 trillion cells in our adult bodies. Amazingly, each of these cells came from a handful of about 100 stem cells in the earliest days of development. The ability of these embryonic stem cells to turn into any cell type makes them pluripotent—something that researchers are harnessing in science and medicine today.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stem-cells-have-potent.jpg",
@@ -84,7 +308,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-77988383557067",
+    "id": "gal-27552457617911",
     "title": "Controlled experiments reveal how nuclear fallout particles form",
     "description": "In less than a millionth of a second after a nuclear detonation or a severe nuclear reactor accident, an enormous burst of energy heats the surrounding air and materials. Everything in the vicinity is vaporized into a hot, glowing cloud of gas and plasma. As that nuclear fireball expands, it mixes with air, begins to cool and condenses into tiny solid particles—creating nuclear fallout.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-use-control.jpg",
@@ -98,7 +322,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-30720295544745",
+    "id": "gal-41927937508560",
     "title": "After the flames, wildfires pollute drinking water for years",
     "description": "When people think about wildfires, they usually think about flames, smoke and evacuations. However, for many communities, some of the most important damage begins after the fire has passed.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/wildfire-4.jpg",
@@ -112,7 +336,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-19940736892064",
+    "id": "gal-65423071369283",
     "title": "'The Silence of the Lambs' introduced the world to forensic entomology—but how much has changed since?",
     "description": "In the early 1990s, crime-loving television audiences could choose mainly between cozy, fictional detective series such as Columbo and Murder, She Wrote. The US docuseries Unsolved Mysteries brought a few real cold-case investigations to light, but coverage of forensic science on screen was still relatively simple.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/forensic-1.jpg",
@@ -126,7 +350,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-63272953249859",
+    "id": "gal-68633636802887",
     "title": "'Permanently wet' coating method could transform wastewater treatment by helping bacteria survive better",
     "description": "Living bacteria embedded in coatings could clean wastewater, capture carbon and generate biofuels—but only if they survive the manufacturing process. Researchers at the University of Surrey and the University of Warwick have developed a method that keeps bacteria submerged throughout coating formation, increasing the number of surviving cells by around 500 times compared to conventional approaches.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-permanently-wet-co-1.jpg",
@@ -140,7 +364,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-43913953640570",
+    "id": "gal-61061371369207",
     "title": "Digital platform significantly reduces distress among children of divorce",
     "description": "Every year, thousands of Danish children experience their parents splitting up. For many, this is a major upheaval that can leave lasting marks on their well-being and daily lives. A new study conducted in collaboration with 21 Danish municipalities and the Danish Agency of Family Law shows that a digital tool developed by researchers at the University of Copenhagen can make a real difference. The tool helps children understand their emotions, put them into words and make tangible changes that improve their everyday life.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/digital-platform-signi.jpg",
@@ -154,7 +378,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-27470129569704",
+    "id": "gal-61890487509734",
     "title": "Ancient tooth proteins suggest Homo erectus may have left a genetic legacy in people today",
     "description": "For most of the 20th century, the model of human origins was a tree: with the trunk dividing into branches, and then twigs. Each species of human relative (hominin) was a neat, single branch.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-tooth-proteins.jpg",
@@ -168,7 +392,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-86912144266857",
+    "id": "gal-20918038780905",
     "title": "Honeybees reveal Weber's law in flight when choosing paths",
     "description": "Honeybees are among the widely studied insects, due to their sophisticated, hierarchical social organization and their essential ecological role. Bees can move swiftly in natural environments, passing through narrow openings and identifying the best paths to reach their destinations without colliding with other objects.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-honeybees-choose-p-2.jpg",
@@ -182,7 +406,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-86156931857125",
+    "id": "gal-19228190384010",
     "title": "Freud's century-old ideas are colliding with modern brain science in ways that could change how minds are treated",
     "description": "A new article published in the neurocognitive journal Entropy argues that Sigmund Freud's model of the mind, as well as more recent psychoanalytic theory, has similarities with the leading model in brain research today, the so-called prediction paradigm.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/psychoanalysis-meets-m.jpg",
@@ -196,7 +420,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-35737938849767",
+    "id": "gal-65184493678625",
     "title": "As corporations race for the stars, we need international collaboration on space governance",
     "description": "The science academies of G7 member countries have identified international space governance as a pressing issue for the G7 Leaders' Summit, to be held from June 15–17 in Evian, France.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/space.jpg",
@@ -210,7 +434,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-36867408366241",
+    "id": "gal-51244424354101",
     "title": "The first signs of human cremation may date back 100,000 years",
     "description": "The latest discoveries by an international research team, which includes Academy Research Fellow Ferhat Kaya from the University of Oulu, Finland, offer a detailed view of how early humans lived, moved, and adapted to their environment 100,000 years ago. The group has been studying the Afar Rift since 1981. The study is published in the journal Proceedings of the National Academy of Sciences.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/were-the-deceased-crem.jpg",
@@ -224,7 +448,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-66014681115062",
+    "id": "gal-16281759833231",
     "title": "Quantum metasurface boosts terahertz detection sensitivity by exploiting in-plane photoelectric effect",
     "description": "Being able to see light and detect radiation is of utmost importance at any frequency. While this challenge has been solved in the visible range, radiation detectors in the far-infrared and terahertz regimes are either not sensitive, slow, or require bulky and expensive, often cryogenically cooled devices, which hinders practical applications.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-metasurface-bo.jpg",
@@ -238,7 +462,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-79147625816235",
+    "id": "gal-15832414053356",
     "title": "Work capacity changes could reveal sick leave risk early in workplace, thesis suggests",
     "description": "Changes in work capacity can provide early signals for who is at risk of sick leave, according to a doctoral thesis from the University of Gothenburg. The findings point to new ways to identify the need for support before employees leave work.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blue-collar-work.jpg",
@@ -252,7 +476,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-46751836936211",
+    "id": "gal-77436207445750",
     "title": "Extreme 8.5-minute orbit reveals white dwarf being torn apart by its binary companion",
     "description": "A team of U.S. astronomers has observed a binary pair of white dwarfs where one star is actively devouring material from the other. Led by Emma Chickles at MIT, the researchers revealed one of the clearest views yet of how ultracompact white dwarf binaries exchange mass at extreme orbital periods—offering an enticing potential target for future generations of gravitational wave detectors. The research has been published in The Astrophysical Journal.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/white-dwarf-is-torn-ap.jpg",
@@ -266,7 +490,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-54381905800951",
+    "id": "gal-45427006071158",
     "title": "Thermoreversible biogel may solve a hairy problem for wearable brain-monitoring systems",
     "description": "A vital tool for health care practitioners, electroencephalography (EEG) systems measure electrical activity in the brain through electrodes placed on the scalp, but getting reliable readings can be surprisingly difficult. Hair interferes with contact between the electrodes and skin, and the gels used to improve those connections often dry out over time, weakening signal quality.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-biogel-may-solve.jpg",
@@ -280,7 +504,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-88497276905402",
+    "id": "gal-58412677942364",
     "title": "Atlantic seaweed blooms may be predictable, opening path to carbon removal and biofuels",
     "description": "Across the Caribbean, Gulf of Mexico and West African coasts, massive arrivals of Sargassum seaweed have become an annual crisis. Thick mats of algae blanket beaches, disrupt fisheries, damage tourism and release harmful gases as they decay, with cleanup costs reaching hundreds of millions of dollars each year. What began as an unexpected environmental phenomenon has grown into a persistent socioeconomic challenge affecting multiple regions on both sides of the Atlantic.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seaweed-bloom.jpg",
@@ -294,7 +518,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-28230695234248",
+    "id": "gal-59377362078339",
     "title": "De‑extinction company says it's made an artificial egg—if true, it could help save living species",
     "description": "Today's announcement by Texas-based de-extinction company Colossal Biosciences about a successful hatching of chicks from an artificial egg would represent a major innovation, if the claims can be verified.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/egg-in-hand.jpg",
@@ -308,7 +532,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-67433915279899",
+    "id": "gal-69859178877098",
     "title": "Saturday citations: Two T. rexes and new exercise guidance that scientists are not calling 'easy'",
     "description": "John Hammond voice: \"Welcome... to Saturday Citations.\" We're talking about different types of T. rexes today, along with some unwelcome news about cardiovascular health, but this week also brought news about the connection between poor grip strength and depression; scientists have improved knowledge of sea level rise and confirm it's accelerated since 1960; and researchers provided new insights into how the human hand developed from those of our ape-like ancestors.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/saturday-citations-two.jpg",
@@ -322,7 +546,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-28008749642612",
+    "id": "gal-19851150295946",
     "title": "New AI system uses cameras and thermal sensors to steer ships clear of gray whales in the San Francisco Bay",
     "description": "Researchers from UC Santa Barbara's Benioff Ocean Science Laboratory (BOSL) and local partners in San Francisco have unveiled new technology in their ongoing efforts to prevent whales and oceangoing vessels from colliding in and near the busy San Francisco Bay.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ai-system-uses-cam.jpg",
@@ -336,7 +560,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-53153941334017",
+    "id": "gal-57116784147402",
     "title": "Integrating substance use disorder treatment into clinic-based internal medicine expands access to care",
     "description": "Researchers at the University of Cincinnati have found that embedding addiction treatment into primary care training clinics may be a promising approach to addressing substance use disorders (SUDs). Published in the journal Academic Medicine, the study shows how integrating SUD treatment into an internal medicine resident practice could not only expand access to primary care addiction treatment for patients but also significantly boost physician confidence in treating addiction.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/therapist-session.jpg",
@@ -350,7 +574,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-68622857051986",
+    "id": "gal-85837699110554",
     "title": "Hope boosts climate problem-solving, new experiments suggest",
     "description": "A new study has shown that messages of hope can be effective in promoting creative problem-solving around sustainability. Experts from the University of Nottingham's School of Psychology developed a new measure of climate creativity that indicates that positive emotions have a different effect to negative emotions in promoting problem solving in undertaking climate action. The study has been published in the Journal of Environmental Psychology.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/climate-change-protest.jpg",
@@ -364,7 +588,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-48478574853421",
+    "id": "gal-40567638999285",
     "title": "Emergence of new cavefish species challenges evolutionary dead-end idea",
     "description": "A new Yale study identifies a distinct species of eyeless cavefish, a discovery that challenges long-held conventional wisdom that caves and other subterranean ecosystems are evolutionary dead ends.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/underground-evolution.jpg",
@@ -378,7 +602,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-31795486810111",
+    "id": "gal-27007823135187",
     "title": "China set for latest space launch, with Hong Kong astronaut aboard",
     "description": "A Hong Kong astronaut will join a Chinese space mission for the first time as part of a three-person crew launching on Sunday, as Beijing edges closer to its goal of landing people on the moon.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-model-of-chinas-tian.jpg",
@@ -392,7 +616,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-47370974461302",
+    "id": "gal-57430047725596",
     "title": "SpaceX launches its biggest, most beefed-up Starship yet on a test flight",
     "description": "SpaceX launched its biggest, most powerful Starship yet on a test flight Friday, an upgraded version that NASA is counting on to land astronauts on the moon.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spacex-launches-its-bi.jpg",
@@ -406,7 +630,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-28116344651049",
+    "id": "gal-82822728480354",
     "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
     "description": "When South African infectious disease specialist Lucille Blumberg checked her email on the morning of May 1, while the country was celebrating the Labor Day holiday, an urgent message caught her attention.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-south-african-scie.jpg",
@@ -420,7 +644,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-20440135718717",
+    "id": "gal-45828023951643",
     "title": "Study shows highlighting others' achievements on LinkedIn sparks the most engagement",
     "description": "If you're trying to stand out on LinkedIn, it might seem like posting about your own achievements is a smart approach. But new research from The University of Texas at Arlington suggests a different strategy: highlight others.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/linkedin.jpg",
@@ -434,7 +658,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-14131500170626",
+    "id": "gal-13359098108385",
     "title": "Efforts to understand the nation's drugged driving problem stall under Trump",
     "description": "Two state transportation workers were replacing a sign on the shoulder of U.S. Highway 6 in western Colorado one morning when a Jeep Grand Cherokee swerved off the road and struck them.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/efforts-to-understand.jpg",
@@ -448,7 +672,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-67369445938893",
+    "id": "gal-23474402435990",
     "title": "The Bayeux Tapestry tells only the winner's story—but the other side can be found in old English texts",
     "description": "As the Bayeux Tapestry comes to London, the year 1066 and the Norman Conquest are in the spotlight. The tapestry—an embroidered cloth nearly 70 meters long, created soon after the events it depicts—tells the story of the Battle of Hastings in 1066 and William of Normandy's triumphant defeat of Harold Godwinson, King of England.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-bayeux-tapestry-te.jpg",
@@ -462,7 +686,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-76808617537770",
+    "id": "gal-24360554545622",
     "title": "Wildfire risk is now spreading to cool climates like the Scottish Highlands and Irish uplands",
     "description": "The most destructive wildfire season on record in Europe was in 2025, with more than 1 million hectares burned and tens of thousands of people displaced by fires across the continent.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/wildfire-4.jpg",
@@ -476,7 +700,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-27252199687066",
+    "id": "gal-57308435191311",
     "title": "Sunscreen confusion puts more Americans at risk for Melanoma",
     "description": "Melanoma—the most serious form of skin cancer—doesn't just happen at the beach or in a tanning booth.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sunscreen-confusion-pu.jpg",
@@ -490,7 +714,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-80616204337608",
+    "id": "gal-14570743329658",
     "title": "New study could improve testing and treatment for rare brain, spinal cord, and eye cancers",
     "description": "A new study has identified hepatitis A virus cellular receptor 1 (HAVCR1) as a biomarker that could make it easier to diagnose rare but aggressive forms of brain and eye cancer earlier and with fewer invasive tests.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oncologist.jpg",
@@ -504,7 +728,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-49534679252955",
+    "id": "gal-14238483784510",
     "title": "Blue and fin whale sightings on the rise in the Southeast Atlantic",
     "description": "More than 40 years after the end of commercial whaling, new research reveals a recent increase in sightings of the world's two largest whale species in the southeastern Atlantic. The findings, published in the African Journal of Marine Science, compile more than 60 years of confirmed sightings and strandings from Namibia and South Africa's west coast. Although overall numbers remain low, sightings of both species have increased markedly in recent years—with 95% of observations recorded since 2012.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blue-and-fin-whale-sig-1.jpg",
@@ -518,7 +742,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-30184631052715",
+    "id": "gal-28117880484288",
     "title": "Imaging ellipsometry tracks MXene thin-film quality during fabrication without damage",
     "description": "A German–Israeli research team led by Dr. Andreas Furchner has demonstrated how imaging ellipsometry enables non-destructive characterization and quality control of microstructured MXene thin films during device fabrication. The authors used two complementary ellipsometry approaches for precise, multi-scale access to key material properties. The work positions imaging ellipsometry as a powerful platform for monitoring thin-film uniformity, device integrity, and functionality throughout processing, including critical lithographic steps. The study was published in Applied Physics Letters and selected as an Editor's Pick.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/imaging-ellipsometry-f-1.jpg",
@@ -532,7 +756,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-71347172343455",
+    "id": "gal-62354593521933",
     "title": "Understanding the mechanisms of collective cell movement",
     "description": "Like schools of fish and flocks of birds, our cells can also migrate collectively in coordination with their neighbors. This harmonious movement of cells occurs during embryonic development, wound healing, and cancer metastasis. However, since individual cells can only sense limited local information, how they are able to coordinate as a larger collective has remained poorly understood.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/understanding-the-mech.jpg",
@@ -546,7 +770,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-53405047477131",
+    "id": "gal-77787404597092",
     "title": "New indicator for response to therapy in pediatric cancers identified",
     "description": "A study by researchers at the University of Birmingham has identified a new biomarker for response to a specific cancer therapy, treating children with Ewing Sarcoma and other tumor types. The study, which is a Phase I/II treatment arm within the eSMART Trial, was carried out at the Cancer Research UK Clinical Trials Unit (CRCTU), recruited 70 patients, and of those 66 were treated across four countries (the UK, France, the Netherlands and Spain). All these patients had solid tumors, 36 had Ewing Sarcoma and 34 had various other tumor types, mainly types of sarcoma and central nervous system tumors.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/child-cancer-1.jpg",
@@ -560,7 +784,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-27797487219467",
+    "id": "gal-92168904812203",
     "title": "Just outside Jupiter, one region may have forged six meteorite parent bodies",
     "description": "When the solar system formed, a disk of gas and dust orbited the young sun. Over the course of millions of years, the dust gradually clumped together to form kilometer-sized chunks known as planetesimals. Some grew into planets, while the rest are considered to be the precursors of today's asteroids. Researchers assume that this development did not proceed in a linear fashion, with different stages of planetesimal development occurring simultaneously, and not every region of the disk offering favorable \"starting conditions\" for planetesimals.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/different-meteorites-s-1.jpg",
@@ -574,7 +798,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-76576685607984",
+    "id": "gal-15888778754692",
     "title": "We're 'green chemists'—why we think this emerging science can transform the way the world uses its resources",
     "description": "Society depends on chemistry far more than we consciously realize, from medicines to energy to electronics. However, chemistry is viewed with as much apprehension as gratitude, because of the pollution and health problems that some chemicals cause.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/green-chemistry.jpg",
@@ -588,7 +812,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-74786724398657",
+    "id": "gal-32653631477254",
     "title": "Why we live alone—and what it means for the climate and our sense of community",
     "description": "Solo living in your own home places a greater strain on the planet's resources than living with others, as everyone needs their own appliances—a toaster, a washing machine and so on. The Nordic countries stand out: Almost half of all households are solo-living households. Sustainability researcher Tullia Jack interviewed people who live alone about the reasons for this and hopes for new forms of co-living. The study is published in the journal Humanities and Social Sciences Communications.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/man-cooking.jpg",
@@ -602,7 +826,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-38511047722490",
+    "id": "gal-62378986490249",
     "title": "Making biomolecules glow: New dye solves imaging interference problem",
     "description": "Biomolecules, also known as organic molecules, include sugars, proteins and lipids and are the building blocks of all life. They play a role in the structure and metabolism of all living organisms. To make them visible under a microscope, researchers use special dyes to make them glow. A research team at the University of Göttingen has now developed a new method to do this better.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-biomolecules-gl.jpg",
@@ -616,7 +840,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-71841437550617",
+    "id": "gal-76824333715906",
     "title": "Q&A: Using advanced imaging to improve brain cancer treatment",
     "description": "Glioblastoma is one of the most treatment-resistant brain tumors, making it especially difficult to treat. Part of that resistance stems from its unique tumor microenvironment—the complex mix of cells and biological activity surrounding the tumor.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-advanced-imaging.jpg",
@@ -630,7 +854,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-61949512142875",
+    "id": "gal-32946286303162",
     "title": "Novel porous gel changes color, shrinks and hardens when it detects target molecules",
     "description": "Researchers at Kyoto University and Tohoku University have developed a new porous polymer gel that selectively recognizes specific molecules (referred to as \"guests\" in the study) through coordination chemistry and converts these invisible molecular-scale interactions into strikingly visible, macroscale deformation.",
     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-porous-gel-changes.jpg",
@@ -640,370 +864,6 @@
     "source": "Phys.org",
     "source_url": "https://phys.org/news/2026-05-porous-gel-hardens-molecules.html",
     "created_at": "2026-05-22T21:00:01+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-95861593628097",
-    "title": "Nickelate reveals nodeless gap, providing key clue to high-temperature superconductivity",
-    "description": "The mechanism of high-temperature (TC) superconductivity is a key challenge in condensed matter physics. Recently, Chinese scientists made significant progress in the study of high-TC nickelate superconductors.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chinese-scientists-dis.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Phys.org",
-    "source_url": "https://phys.org/news/2026-05-nickelate-reveals-nodeless-gap-key.html",
-    "created_at": "2026-05-22T20:40:02+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-28411309545802",
-    "title": "Some technologies use accelerated natural processes to capture carbon, but can they store it durably?",
-    "description": "Natural geological processes have been regulating Earth's climate for millions of years. Accelerated versions of these processes are now being promoted as technologies to draw down carbon from the atmosphere—and some are rapidly moving from concept to real-world deployments.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/some-technologies-use-1.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Phys.org",
-    "source_url": "https://phys.org/news/2026-05-technologies-natural-capture-carbon-durably.html",
-    "created_at": "2026-05-22T20:20:03+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-49237799407940",
-    "title": "DKA may trigger lingering inflammatory surge in children with type 1 diabetes",
-    "description": "Many children who develop type 1 diabetes, the inability to produce insulin and process blood sugar, do not know they have the condition until symptoms arise. These symptoms are often driven by a severe and sometimes fatal condition called diabetic ketoacidosis, or DKA. As insulin levels drop and blood sugar rises, the body generates molecules called ketones, which are toxic in high concentrations. Children with DKA can experience organ failure and other serious issues, but why these complications occur is not well understood.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/type-1-diabetes.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Medical Xpress",
-    "source_url": "https://medicalxpress.com/news/2026-05-dka-trigger-lingering-inflammatory-surge.html",
-    "created_at": "2026-05-22T20:20:01+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-70811137523419",
-    "title": "Arctic thaw unleashes mining-like pollution across hundreds Arctic waterways",
-    "description": "Thawing permafrost is rapidly transforming dozens of Arctic streams into acidic, metal-laden waterways, according to new research published in Science. The study shows how thawing permafrost exposes sulfide minerals that react with oxygen and water—a process similar to what occurs in mining pollution. The reactions release acidity and heavy metals such as zinc, nickel, cadmium, and aluminum into surrounding waters.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/permafrost.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Phys.org",
-    "source_url": "https://phys.org/news/2026-05-arctic-unleashes-pollution-hundreds-waterways.html",
-    "created_at": "2026-05-22T20:00:02+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-43656004714209",
-    "title": "Brain inflammation is unlikely to explain persistent long COVID symptoms, neuroimaging study finds",
-    "description": "A new brain imaging study has found no evidence of widespread brain inflammation in patients suffering from prolonged symptoms after COVID-19 infection. Instead, the most severe long COVID symptoms were associated with increased brain activity in regions involved in mood and emotion. The study is published in the Journal of Neurology.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/brain-inflammation-is.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Medical Xpress",
-    "source_url": "https://medicalxpress.com/news/2026-05-brain-inflammation-persistent-covid-symptoms.html",
-    "created_at": "2026-05-22T19:40:04+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-73244360820955",
-    "title": "Physicists figure out how to reduce formation of 'viscous fingers'",
-    "description": "When they reach the bottom of a soap dispenser, frugal handwashers might try adding water to the bottle to push out the last bit of soap. But usually, the water drills right through the soap and jets out an only slightly sudsy splash.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/soap-dispenser.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Phys.org",
-    "source_url": "https://phys.org/news/2026-05-physicists-figure-formation-viscous-fingers.html",
-    "created_at": "2026-05-22T19:40:03+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-28169253167002",
-    "title": "WHO says new hantavirus case among Hondius ship's crew",
-    "description": "A member of the MV Hondius cruise ship crew who disembarked in Spain's Canary Islands and was repatriated to the Netherlands was confirmed Friday as a new hantavirus case, the WHO said.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cruise-ship.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Medical Xpress",
-    "source_url": "https://medicalxpress.com/news/2026-05-hantavirus-case-hondius-ship-crew.html",
-    "created_at": "2026-05-22T19:40:01+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-39601549932042",
-    "title": "Student talent drives simpler method for programming artificial muscles in soft robots",
-    "description": "An interdisciplinary student research team at the University of Waterloo has achieved an advance in materials science with the creation of a tissue-like hydrogel for artificial muscles to make soft robots move.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/student-talent-drives.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Phys.org",
-    "source_url": "https://phys.org/news/2026-05-student-talent-simpler-method-artificial.html",
-    "created_at": "2026-05-22T19:20:03+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-76663693768866",
-    "title": "EU regulator approves pill form of Novo Nordisk's Wegovy weight loss drug",
-    "description": "Novo Nordisk has obtained approval for the pill form of its popular Wegovy anti-obesity drug in the European Union, the bloc's medicines regulator said on Friday.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/weight-loss.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Medical Xpress",
-    "source_url": "https://medicalxpress.com/news/2026-05-eu-pill-novo-nordisk-wegovy.html",
-    "created_at": "2026-05-22T19:20:01+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-33313609549907",
-    "title": "Ebola risk now at highest level in DR Congo, says WHO",
-    "description": "The risk from the deadly Ebola outbreak has been raised to the highest level for the Democratic Republic of Congo, the World Health Organization said Friday, as the toll continued to rise.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/dr-congo.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Medical Xpress",
-    "source_url": "https://medicalxpress.com/news/2026-05-ebola-highest-dr-congo.html",
-    "created_at": "2026-05-22T19:00:05+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-26098208947470",
-    "title": "Scientists discover thriving hard-substrate fauna in Oceania's deep sea",
-    "description": "In the crushing darkness of the hadal zone—deep ocean trenches plunging 6,000 m to nearly 11,000 m—scientists have uncovered a hidden community. A study published in Science on May 14 reports the discovery of a protist-dominated hard-substrate fauna across seven hadal regions in Oceania, highlighting an overlooked yet highly active carbon \"hotspot.\"",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-th-1.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Phys.org",
-    "source_url": "https://phys.org/news/2026-05-scientists-hard-substrate-fauna-oceania.html",
-    "created_at": "2026-05-22T19:00:03+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-23645460570482",
-    "title": "'Designer' superconducting diamond: Researchers uncover path to multi-modality quantum chips",
-    "description": "Diamond is extremely valuable to science and technology not for its sparkle but for its extreme hardness, high thermal conductivity, transparency to a large fraction of the light spectrum, and a host of other exceptional properties. Two decades ago, scientists discovered another advantage: under the right conditions, diamond can become a superconductor—allowing electricity to flow through it with zero resistance.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/designer-superconducti.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Phys.org",
-    "source_url": "https://phys.org/news/2026-05-superconducting-diamond-uncover-path-multi.html",
-    "created_at": "2026-05-22T18:46:44+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-49943478092452",
-    "title": "South China Sea coral reefs reveal carbon stores rivaling mangroves and seagrasses",
-    "description": "A collaborative research team has revealed the long-overlooked carbon storage potential of coral reef ecosystems and how reef-dwelling fish, corals, and surface sediments jointly shape reef carbon reservoirs. The paper is published in the journal Advanced Science. The team was led by The Hong Kong University of Science and Technology (HKUST), the Institute of Zoology at the Chinese Academy of Sciences (IOZ-CAS) and the Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou) (GML).",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hkust-researchers-reve-2.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Phys.org",
-    "source_url": "https://phys.org/news/2026-05-south-china-sea-coral-reefs.html",
-    "created_at": "2026-05-22T18:40:03+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-83140375672211",
-    "title": "How a father's obesity affects his children's metabolism",
-    "description": "The scientific literature already contains robust evidence that obesity, whether maternal or paternal, can lead to metabolic changes in offspring that increase their risk of developing diseases. A new study published in the journal Nature Communications reveals the mechanism by which this \"inheritance\" is transmitted to the embryo by the father via the sperm.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/father-and-child.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Medical Xpress",
-    "source_url": "https://medicalxpress.com/news/2026-05-father-obesity-affects-children-metabolism.html",
-    "created_at": "2026-05-22T18:40:01+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-39457096408984",
-    "title": "SpaceX to retry Starship test launch Friday",
-    "description": "Elon Musk's SpaceX will attempt another launch of its mammoth Starship rocket Friday, after the previous evening's try was called off over technical issues.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spacexs-new-starship-v.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Phys.org",
-    "source_url": "https://phys.org/news/2026-05-spacex-retry-starship-friday.html",
-    "created_at": "2026-05-22T18:33:44+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-40028319610365",
-    "title": "Rediscovering science: New knowledge hidden in old data",
-    "description": "What if the knowledge that could fuel the next scientific breakthrough has simply been forgotten in an old graph or table? Valuable scientific insights may already exist across decades of published experiments, yet remain buried in old research papers, waiting to be rediscovered.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rediscovering-science-2.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Phys.org",
-    "source_url": "https://phys.org/news/2026-05-rediscovering-science-knowledge-hidden.html",
-    "created_at": "2026-05-22T18:20:05+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-57160499315426",
-    "title": "Second ribosome binding site helps explain how tetracyclines work",
-    "description": "For decades, doctors have widely used tetracyclines for conditions ranging from acne to tick-borne illnesses. Using high-resolution imaging technology, researchers in the laboratory of Christopher Bunick, MD, Ph.D., associate professor of dermatology at Yale School of Medicine (YSM), captured a never-before-seen look into how different kinds of tetracyclines bind to and kill bacteria.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-tetracyclines-work.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Phys.org",
-    "source_url": "https://phys.org/news/2026-05-ribosome-site-tetracyclines.html",
-    "created_at": "2026-05-22T18:20:04+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-59586813924194",
-    "title": "Overloaded brain cleanup cells may mark severe multiple sclerosis progression",
-    "description": "Researcher Daan van der Vliet, together with colleagues from the Netherlands Institute for Neuroscience, Leiden University, and Utrecht University, has discovered an important mechanism that may be linked to severe progression of multiple sclerosis (MS). In brain tissue from patients with rapidly progressing MS, they found large numbers of abnormal immune cells overloaded with fat droplets. The study offers new leads for treatments as well as biomarkers that could better predict disease progression. The work is published in the journal Nature Neuroscience.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-clue-to-severe-ms.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Medical Xpress",
-    "source_url": "https://medicalxpress.com/news/2026-05-overloaded-brain-cleanup-cells-severe.html",
-    "created_at": "2026-05-22T18:20:03+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-44769936235712",
-    "title": "Psilocybin cuts nerve pain for weeks and boosts gabapentin in mice",
-    "description": "A single dose of psilocybin, the active compound in magic mushrooms, reduces nerve pain for up to a month and makes a widely used painkiller work more effectively, University of Reading research has found.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/psilocybin-mushrooms.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Medical Xpress",
-    "source_url": "https://medicalxpress.com/news/2026-05-psilocybin-nerve-pain-weeks-boosts.html",
-    "created_at": "2026-05-22T18:20:01+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-74761408371488",
-    "title": "Travel hookups go digital, bringing intimacy, risk and emotional exhaustion",
-    "description": "New research shows that gay dating apps during travel can bring excitement and connection but also emotional exhaustion, catfishing and vulnerability.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dating-app-1.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Phys.org",
-    "source_url": "https://phys.org/news/2026-05-hookups-digital-intimacy-emotional-exhaustion.html",
-    "created_at": "2026-05-22T18:11:54+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-92101040051831",
-    "title": "A once-daily pill takes aim at measles, croup and other dangerous viruses",
-    "description": "A new oral antiviral drug candidate has been developed for the treatment of diseases caused by orthoparamyxoviruses, such as measles and croup syndrome, according to a study published by researchers in the Center for Translational Antiviral Research at Georgia State University. The paper in Science Advances identifies clinical candidate GHP-88310 for urgently needed, improved orthoparamyxovirus disease management in rodent and non-rodent animal models of infection. Orthoparamyxoviruses, such as human parainfluenzaviruses, measles virus and emerging henipaviruses, pose a significant threat to human health.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/pill-icon.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Medical Xpress",
-    "source_url": "https://medicalxpress.com/news/2026-05-daily-pill-aim-measles-croup.html",
-    "created_at": "2026-05-22T18:00:10+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-13575501571391",
-    "title": "Key switch controlling soil fungi symbiosis could solve a longstanding agricultural problem",
-    "description": "Over the course of evolution, plants have developed an elegant strategy to counteract a lack of phosphate in the soil—they form symbiotic relationships with soil fungi. These mycorrhizal fungi efficiently supply their plant partners with phosphate and other essential minerals.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/less-fertilizer-throug.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Phys.org",
-    "source_url": "https://phys.org/news/2026-05-key-soil-fungi-symbiosis-longstanding.html",
-    "created_at": "2026-05-22T18:00:08+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-90181512854941",
-    "title": "Cholesterol-craving cancers need lipid enzymes to use metabolites for growth, study shows",
-    "description": "While many American adults are trying to reduce cholesterol levels, certain cancerous tumors have a relentless appetite for the metabolite. Some tumor cells use as much cholesterol as they can access to accelerate their growth beyond the capabilities of normal cells.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tumor-cells.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Medical Xpress",
-    "source_url": "https://medicalxpress.com/news/2026-05-cholesterol-craving-cancers-lipid-enzymes.html",
-    "created_at": "2026-05-22T18:00:07+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-83356484212438",
-    "title": "Bodies in fashion: Diversity is up, but the ideal stays the same",
-    "description": "Fashion and media have become visibly more diverse over the past quarter-century. Yet beneath that surface change, a new study suggests that the industry's central female body ideal has barely shifted.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bodies-in-fashion-dive.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Phys.org",
-    "source_url": "https://phys.org/news/2026-05-bodies-fashion-diversity-ideal-stays.html",
-    "created_at": "2026-05-22T18:00:06+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-52593456740468",
-    "title": "Mercury may have gained all of its unexpected water in a single day",
-    "description": "Despite being the closest planet to the sun, Mercury has thick deposits of ice at its poles, and now we may understand the events that formed them over just one Mercurian day",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/22135052/SEI_298452760.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "New Scientist",
-    "source_url": "https://www.newscientist.com/article/2527597-mercury-may-have-gained-all-of-its-unexpected-water-in-a-single-day/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "created_at": "2026-05-22T18:00:04+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-46130327191753",
-    "title": "Mitochondria may control immune cell activation and the effectiveness of immunotherapy",
-    "description": "A study led by researchers at the Centro Nacional de Investigaciones Cardiovasculares (CNIC) has identified a mitochondrial checkpoint that enables dendritic cells to efficiently activate T lymphocytes against viruses and tumors. Dendritic cells are immune cells that detect threats and activate the body's defenses, acting as sentinels that instruct T lymphocytes on what to attack.",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mitochondria-control-i.jpg",
-    "category": "znanost",
-    "group": "znanost",
-    "label": "ZNANOST",
-    "source": "Medical Xpress",
-    "source_url": "https://medicalxpress.com/news/2026-05-mitochondria-immune-cell-effectiveness-immunotherapy.html",
-    "created_at": "2026-05-22T18:00:02+00:00",
     "gallery_source": "older_active_news",
     "from_old_news": true
   }

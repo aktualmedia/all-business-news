@@ -1,6 +1,160 @@
 [
   {
-    "id": "gal-83124600590751",
+    "id": "gal-13897104483396",
+    "title": "AI agents are quietly generating chaos engineering failures enterprises don’t track yet",
+    "description": "There is a category of production incident that engineering teams are not tracking yet — because it doesn't fit any existing postmortem template. The agent initiated an action. The action was technically correct given the agent's context. The context was incomplete. The infrastructure cascaded. And, by the time the incident review happened, three teams were arguing about whether it was an agent failure or an infrastructure failure, because the frameworks for thinking about these two things have never been connected. The scale of this exposure is no longer theoretical. Seventy-nine percent of organizations now have some form of AI agent in production, with 96% planning expansion. Gartner predicts 33% of enterprise software will include agentic AI by 2028, but separately warns that 40% of those projects will be canceled due to poor risk controls. What neither statistic captures is the fail",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1mLIFSfteOdN7VXTz3uRpL/cd695921058b68548ea5880d6da3bbca/u7277289442_AI_engineers_are_hunched_over_computers_wearing_l_9f2e4220-4bb1-4a1c-8d2e-567e67d7bf36_2.png?w=300&q=30",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "VentureBeat",
+    "source_url": "https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet",
+    "created_at": "2026-05-24T17:00:17+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-50740646738973",
+    "title": "Memorial Day Tech Deals: Sony, Anker, Beats (2026)",
+    "description": "",
+    "image": "https://media.wired.com/photos/6a06188db84b146a9eec38c1/master/pass/Memorial%20Day%20Deals%20Tech%20top%20art%20052026%20SOURCE%20Amazon.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
+    "created_at": "2026-05-24T15:55:15+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-29086335580559",
+    "title": "Best Memorial Day Mattress Deals: Helix, Saatva (2026)",
+    "description": "",
+    "image": "https://media.wired.com/photos/6a0603633f6b307a9138c247/master/pass/Best%20Memorial%20Day%20Mattress%20Deals%20SOURCE%20MyGreenMattress%20Birch%20Naturepedic.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/memorial-day-mattress-deals-2026-1/",
+    "created_at": "2026-05-24T15:50:18+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-61447593772760",
+    "title": "Kalshi and Rhode Island sue each other in latest challenge to prediction markets",
+    "description": "Rhode Island joins other states that have taken similar legal action.",
+    "image": "https://www.engadget.com/img/gallery/kalshi-and-rhode-island-sue-each-other-in-latest-challenge-to-prediction-markets/l-intro-1779636733.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Engadget",
+    "source_url": "https://www.engadget.com/2180225/kalshi-and-rhode-island-sue-each-other-in-latest-challenge-to-prediction-markets/",
+    "created_at": "2026-05-24T15:38:37+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-62608995947806",
+    "title": "Whatever the mirror test tells us, beluga whales pass it",
+    "description": "The white whales join the short, contested list of animals that see themselves.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-547332154-1152x648.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
+    "created_at": "2026-05-24T11:15:38+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-21427558414053",
+    "title": "Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used",
+    "description": "",
+    "image": "https://media.wired.com/photos/6a0c9b5a028aaee97d26288d/master/pass/Topo%20Designs%20Rover%20Trail%20PackSOURCE%20Topo%20Designs%20(Bag%20Check).jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/topo-designs-rover-trail-pack/",
+    "created_at": "2026-05-24T11:01:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-18572128824639",
+    "title": "The Best Browser Extensions to Get More Out of YouTube",
+    "description": "",
+    "image": "https://media.wired.com/photos/6a0b226ac5d1d3f5d3f90767/master/pass/01-improve.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/the-best-browser-extensions-to-get-more-out-of-youtube/",
+    "created_at": "2026-05-24T11:00:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-56381734518022",
+    "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
+    "description": "",
+    "image": "https://media.wired.com/photos/6a10ce314007cbd416b6e106/master/pass/Robot-Meals-Gear-Chef+-robot-(1).jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+    "created_at": "2026-05-24T10:30:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-77338876136853",
+    "title": "HP investigating BIOS updates that leave premium laptop users in boot loop limbo",
+    "description": "Slowdowns, crashes, BSODs reported on pricey mobile workstations",
+    "image": "https://image.theregister.com/?imageId=4093804&width=800",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/personal-tech/2026/05/24/hp-investigating-bios-updates-that-leave-premium-laptop-users-in-boot-loop-limbo/5244769",
+    "created_at": "2026-05-24T10:28:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-70938637567881",
+    "title": "14 New Tools for Taking on the Great Outdoors Properly",
+    "description": "",
+    "image": "https://media.wired.com/photos/6a0c785e25e6c2e7a731681d/master/pass/WIRED_CAMPING_STOVE_17_04_20263191TIFF16-bit-WF_Cutout.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/14-new-tools-for-taking-on-the-great-outdoors-properly/",
+    "created_at": "2026-05-24T09:30:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-81677994760687",
+    "title": "Why Garlic Repels Mosquitoes and Keeps Them From Breeding",
+    "description": "",
+    "image": "https://media.wired.com/photos/6a0dd23c6174d8e9dcf10ee1/master/pass/GettyImages-117581895.jpg",
+    "category": "tehnologija",
+    "group": "tehnologija",
+    "label": "TEHNOLOGIJA",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/why-garlic-repels-mosquitoes-and-keeps-them-from-breeding/",
+    "created_at": "2026-05-24T09:00:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-94181835281895",
     "title": "No captain, my captain: Navantia floats crewless warship",
     "description": "Spanish shipbuilder's 75-meter drone vessel comes with sensors, modular payloads, and no room for sailors",
     "image": "https://image.theregister.com/?imageId=5244357&width=800",
@@ -14,7 +168,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-55685490678205",
+    "id": "gal-29859952606112",
     "title": "The Universe Is Full of ‘Impossible’ Black Holes. Now Scientists Know Why",
     "description": "",
     "image": "https://media.wired.com/photos/6a106360fd385efc3ca2f3dc/master/pass/binary-bh-art-1041-illustration-1.jpg",
@@ -28,7 +182,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-64127237214345",
+    "id": "gal-92158557849981",
     "title": "Ansel Adams' trust says AI-colorized version of his work was exhibited without permission",
     "description": "The AI-generated version of 'Moonrise, Hernandez, New Mexico' was on display at AIPAD's The Photography show.",
     "image": "https://www.engadget.com/img/gallery/ansel-adams-trust-says-ai-colorized-version-of-his-work-was-exhibited-without-permission/l-intro-1779567408.jpg",
@@ -42,7 +196,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-11259350832284",
+    "id": "gal-63387153154897",
     "title": "Ayaneo reveals yet another Game Boy remake but this one has AI",
     "description": "The Konkr Pocket Block will be smaller than the company's previous vertical handhelds.",
     "image": "https://www.engadget.com/img/gallery/ayaneo-reveals-yet-another-game-boy-remake-but-this-one-has-ai/l-intro-1779559455.jpg",
@@ -56,7 +210,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-91290543533125",
+    "id": "gal-36936532776606",
     "title": "NASA shares Psyche spacecraft's photos of Mars",
     "description": "NASA has released the photos Psyche took when it did a flyby of Mars.",
     "image": "https://www.engadget.com/img/gallery/nasa-shares-psyche-spacecrafts-photos-of-mars/l-intro-1779562790.jpg",
@@ -70,7 +224,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-40869918096090",
+    "id": "gal-55064576158888",
     "title": "What to read this weekend: The new Image Comics miniseries, Of the Earth",
     "description": "Here's what we recommend this week.",
     "image": "https://www.engadget.com/img/gallery/what-to-read-this-weekend-the-new-image-comics-miniseries-of-the-earth/l-intro-1779562271.jpg",
@@ -84,7 +238,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-79710683797376",
+    "id": "gal-68917021645426",
     "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
     "description": "SpaceX has more to prove before flying Starship all the way to low-Earth orbit.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/starshipflight12_inflight-1152x648.jpg",
@@ -98,7 +252,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-37296972532690",
+    "id": "gal-72404818917632",
     "title": "Chicks hatched from artificial eggshells, a new mission to study Earth's magnetosphere and more science stories",
     "description": "This week's science news.",
     "image": "https://www.engadget.com/img/gallery/chicks-hatched-from-artificial-eggshells-a-new-mission-to-study-earths-magnetosphere-and-more-science-stories/l-intro-1779553288.jpg",
@@ -112,7 +266,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-66007897398970",
+    "id": "gal-63280892697726",
     "title": "DeepSeek permanently reduces the price of its flagship V4 model by 75 percent",
     "description": "The lower prices could be aimed at undercutting the competition.",
     "image": "https://www.engadget.com/img/gallery/deepseek-permanently-reduces-the-price-of-its-flagship-v4-model-by-75-percent/l-intro-1779550016.jpg",
@@ -126,7 +280,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-62428897398715",
+    "id": "gal-98350883344059",
     "title": "Best Power Banks (2026): My Picks After Testing Over 100",
     "description": "",
     "image": "https://media.wired.com/photos/69b9d28bd522b4f35aea0a0d/master/pass/The-Best-Power-Banks-for-All-Your-Devices.jpg",
@@ -140,7 +294,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-47463405324441",
+    "id": "gal-70914099904833",
     "title": "Dead by Daylight is finally adding Jason from Friday the 13th",
     "description": "At long last, Jason is coming to Dead By Daylight.",
     "image": "https://www.engadget.com/img/gallery/dead-by-daylight-is-finally-adding-jason-from-friday-the-13th/l-intro-1779391376.jpg",
@@ -154,7 +308,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-15231534618790",
+    "id": "gal-55912289535104",
     "title": "Memorial Day Dyson Vacuum Deals: V15 Detect, Gen5Detect, PencilVac On Sale",
     "description": "",
     "image": "https://media.wired.com/photos/6a0f59295911df75ea3deb49/master/pass/Memorial%20Day%20Deals%20Dyson%20Vacuum%20top%20art%20052026%20SOURCE%20Amazon.jpg",
@@ -168,7 +322,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-47549800529280",
+    "id": "gal-82001245097577",
     "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
     "description": "\"Two astronauts whose careers embody excellence, leadership, and service.\"",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/news-051626b-lg-1152x648.jpg",
@@ -182,7 +336,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-79007886624277",
+    "id": "gal-72536893131600",
     "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
     "description": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
     "image": "https://www.engadget.com/img/gallery/myst-and-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/l-intro-1779479221.jpg",
@@ -196,7 +350,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-15053167945191",
+    "id": "gal-79025779749680",
     "title": "L.L.Bean's Zip Hunter's Tote Is the Only Carryall You Need",
     "description": "",
     "image": "https://media.wired.com/photos/6a0c7736cffddde770352aa6/master/pass/1%20-%20Courtesy-of-L.L.-Bean.jpg",
@@ -210,7 +364,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-69184445051732",
+    "id": "gal-41327203284596",
     "title": "China’s shark finning could lead to US seafood sanctions",
     "description": "A formal petition to the US government calls for sanctions on Chinese seafood imports.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240037962-1152x648.jpg",
@@ -224,7 +378,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-82014845474372",
+    "id": "gal-77180051922817",
     "title": "Quantum ‘Jamming’ Could Help Unlock the Mysteries of Causality",
     "description": "",
     "image": "https://media.wired.com/photos/6a0f0337527cc03d8afd9e0d/master/pass/Quantum-Jamming-cr-Samuel-Velasco-Lede.jpg",
@@ -238,21 +392,21 @@
     "from_old_news": true
   },
   {
-    "id": "gal-29504833029485",
-    "title": "Dirty Frag, Copy Fail, Fragnesia: The start of a worrisome Linux security trend",
-    "description": "Or is it just life today, with AI constantly digging through code repositories in search of security holes?",
+    "id": "gal-73752165580821",
+    "title": "AI eyes scanning for bugs create a worrisome Linux security trend",
+    "description": "Dirty Frag, Copy Fail, and Fragesia show the new reality",
     "image": "https://image.theregister.com/?imageId=5244793&width=800",
     "category": "tehnologija",
     "group": "tehnologija",
     "label": "TEHNOLOGIJA",
     "source": "The Register",
-    "source_url": "https://www.theregister.com/security/2026/05/23/dirty-frag-copy-fail-fragnesia-the-start-of-a-worrisome-linux-security-trend/5244742",
+    "source_url": "https://www.theregister.com/security/2026/05/23/ai-eyes-scanning-for-bugs-create-a-worrisome-linux-security-trend/5244742",
     "created_at": "2026-05-23T10:59:00+00:00",
     "gallery_source": "older_active_news",
     "from_old_news": true
   },
   {
-    "id": "gal-37506181772195",
+    "id": "gal-22902854360153",
     "title": "The Best Smart Sprinklers and Irrigation Systems: In-Ground Sprinklers, Hose Timers (2026)",
     "description": "",
     "image": "https://media.wired.com/photos/6a107fa378bc72379f0e7023/master/pass/The%20Best%20Smart%20Sprinklers%20and%20Irrigation%20Systems%20top%20art%20052026%20SOURCE%20Amazon.jpg",
@@ -266,7 +420,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-88352683780433",
+    "id": "gal-33857283594551",
     "title": "Cosmic Voids May Contain the Universe’s Best Secrets",
     "description": "",
     "image": "https://media.wired.com/photos/69f8b35fae7585ea23948deb/master/pass/GettyImages-90532973.jpg",
@@ -280,7 +434,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-72765439613740",
+    "id": "gal-89419949548576",
     "title": "Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)",
     "description": "",
     "image": "https://media.wired.com/photos/6a10a47ac5d38b1aa367362d/master/pass/Memorial%20Day%20Deals%20Early%20top%20art%20updated%20052026%20SOURCE%20Amazon.jpg",
@@ -294,7 +448,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-66307630153963",
+    "id": "gal-95777376812849",
     "title": "UK MPs slam digital ID rollout as a 'fiasco' after botched launch",
     "description": "Government's 'rushed' plans damaged public confidence before ministers had even explained how the system would work",
     "image": "https://image.theregister.com/?imageId=244169&width=800",
@@ -308,7 +462,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-41857268606610",
+    "id": "gal-60287016169817",
     "title": "A 'Golden Orb' on the Ocean Floor Came From a Mysterious Animal",
     "description": "",
     "image": "https://media.wired.com/photos/6a0db01b6d37e2188c7d5c5d/master/pass/orb-hires.jpg",
@@ -322,7 +476,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-75673981120377",
+    "id": "gal-31817133083081",
     "title": "The Virtual OS Museum opens its doors",
     "description": "A massive compilation of historic OSes and the emulators to run them",
     "image": "https://image.theregister.com/?imageId=5243566&width=800",
@@ -336,7 +490,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-70565233337751",
+    "id": "gal-27370319988332",
     "title": "All Vehicles Sold in the EU Must Be Able to Hook Up to a Breathalyzer",
     "description": "",
     "image": "https://media.wired.com/photos/6a10793c045b52d42fd7cf26/master/pass/autos%20alcohol%C3%ADmetro%20Uni%C3%B3n%20Europea%20626989022.jpg",
@@ -350,21 +504,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-34735267775557",
-    "title": "Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)",
-    "description": "",
-    "image": "https://media.wired.com/photos/6a0603633f6b307a9138c247/master/pass/Best%20Memorial%20Day%20Mattress%20Deals%20SOURCE%20MyGreenMattress%20Birch%20Naturepedic.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Wired",
-    "source_url": "https://www.wired.com/story/memorial-day-mattress-deals-2026-1/",
-    "created_at": "2026-05-23T06:54:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-21925399162763",
+    "id": "gal-79234791631998",
     "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
     "description": "",
     "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
@@ -378,7 +518,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-63941731745055",
+    "id": "gal-84203279966787",
     "title": "Ulta Promo Codes: Up to 50% Off in May",
     "description": "",
     "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
@@ -392,7 +532,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-19226456240203",
+    "id": "gal-84908988045267",
     "title": "Valvoline Coupons & Promo Codes for May 2026",
     "description": "",
     "image": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
@@ -406,7 +546,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-16746727291151",
+    "id": "gal-36932827667860",
     "title": "Hoka Coupon Codes: 30% Off | May 2026",
     "description": "",
     "image": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
@@ -420,7 +560,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-36291644893755",
+    "id": "gal-59672620118437",
     "title": "Squarespace Promo Codes: 20% Off in May 2026",
     "description": "",
     "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
@@ -434,7 +574,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-44929465446744",
+    "id": "gal-26375550810224",
     "title": "T-Mobile Promo Codes: 25% Off | May",
     "description": "",
     "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
@@ -448,7 +588,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-26034337186851",
+    "id": "gal-51563320688214",
     "title": "Feds unwittingly leak pilots' pre-crash conversation",
     "description": "Release of spectrogram of cockpit recorder audio allows conversation recovery with 'emerging' decades-old tech",
     "image": "https://image.theregister.com/?imageId=241517&width=800",
@@ -462,7 +602,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-66594907282266",
+    "id": "gal-26710539479006",
     "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
     "description": "\"This capability is not common for satellites conducting typical missions.\"",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/ICEYE_anechoic_chamber_01_5x4-1152x648.jpg",
@@ -476,7 +616,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-10376369526235",
+    "id": "gal-60793022707034",
     "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\"",
     "description": "Ebola outbreak risk level increased as deaths reach 177 with nearly 750 cases.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277132506-1152x648.jpg",
@@ -490,7 +630,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-59824463985479",
+    "id": "gal-70425167154956",
     "title": "Valid certificates, stolen accounts: how attackers broke npm's last trust signal",
     "description": "On May 19, 633 malicious npm package versions passed Sigstore provenance verification . They were cleared by the system because the attacker had generated valid signing certificates from a compromised maintainer account. Sigstore worked exactly as designed: it verified the package was built in a CI environment, confirmed a valid certificate was issued, and recorded everything in the transparency log. What it cannot do is determine whether the person holding the credentials authorized the publish — and that gap turned the last automated trust signal in npm into camouflage. One day earlier, StepSecurity documented an attack on the Nx Console VS Code extension , a widely used developer tool with more than 2.2 million lifetime installs. Version 18.95.0 was published using stolen credentials on May 18 and stayed live for under 40 minutes — but Nx internal telemetry showed approximately 6,000",
     "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3fqnou87sWjHiEvKupJyGB/9de43fb83d1bb45c4f9cc6f4d9f8fb3c/hero.png?w=300&q=30",
@@ -504,7 +644,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-65796595641982",
+    "id": "gal-36204431707930",
     "title": "First-generation Chromecast users stressed by devices suddenly failing",
     "description": "Google tells Ars it fixed the first-gen Chromecast bug.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1470646299-1152x648-1779483037.jpg",
@@ -518,7 +658,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-16953519041868",
+    "id": "gal-48909287768797",
     "title": "Minor edits to AI skills can make agents go rogue",
     "description": "Text is the new attack",
     "image": "https://image.theregister.com/?imageId=252635&width=800",
@@ -532,7 +672,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-25783500257075",
+    "id": "gal-53684929462626",
     "title": "A Russian speaker and jailbroken Gemini went on a hacking spree and emptied at least one MAGA victim's crypto wallets",
     "description": "Hey, Gemini, how much can we earn from one pump-and-dump cycle?",
     "image": "https://image.theregister.com/?imageId=229879&width=800",
@@ -546,7 +686,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-33227844974366",
+    "id": "gal-53632463621123",
     "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
     "description": "FCC seeks opinions on whether ABC show's decisions are \"based on newsworthiness.\"",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-1152x648-1758655744.jpg",
@@ -560,7 +700,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-76203555064343",
+    "id": "gal-91549694201574",
     "title": "Your AI agents need a terminal, not just a vector database",
     "description": "When agentic workflows fail, developers often assume the problem lies in the underlying model’s reasoning abilities. In reality, the limited information provided by the retrieval interface is often the primary limiting factor. Researchers at multiple universities propose a technique called direct corpus interaction (DCI) that lets agents bypass embedding models entirely, searching raw corpora directly using standard command-line tools. The limits of classic retrieval In classic retrieval systems such as RAG , documents are chunked, converted into vector representations (or embeddings), and indexed offline in a vector database. When an AI system processes a query, a retriever filters the entire database to return a ranked \"top-k\" list of document snippets that match the query. All evidence must pass through this scoring mechanism before any downstream reasoning occurs. But modern agentic",
     "image": "https://images.ctfassets.net/jdtwqhzvc2n1/51KtnPJMnFTcVI5RCYgMb1/60e17e8e05411ce2080a43004719706a/ai_agent_using_the_terminal.png?w=300&q=30",
@@ -574,7 +714,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-88699758534045",
+    "id": "gal-69112845243387",
     "title": "Zuck defends monitoring employees to win AI race in purported leaked audio",
     "description": "Limping Llama model needs a crutch made of surveillance tools",
     "image": "https://image.theregister.com/?imageId=250238&width=800",
@@ -584,132 +724,6 @@
     "source": "The Register",
     "source_url": "https://www.theregister.com/ai-ml/2026/05/22/zuck-defends-monitoring-employees-to-win-ai-race-in-purported-leaked-audio/5245379",
     "created_at": "2026-05-22T20:55:41+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-13627482434389",
-    "title": "Google is currently struggling to define words like disregard, stop and ignore",
-    "description": "The search engine's definitions have been replaced with AI Overviews.",
-    "image": "https://www.engadget.com/img/gallery/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/l-intro-1779486439.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Engadget",
-    "source_url": "https://www.engadget.com/2179762/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/",
-    "created_at": "2026-05-22T20:29:21+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-76107056558849",
-    "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
-    "description": "Workaround flouts law that bans NTSB disclosures of cockpit audio recordings.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-22-at-9.11.47-AM-1152x648.png",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Ars Technica",
-    "source_url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
-    "created_at": "2026-05-22T19:39:04+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-79149960257961",
-    "title": "The Boys is dead. Long live Vought Rising.",
-    "description": "\"There's a brighter future. All we need to do is take it.\"",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/vought1-1152x648.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Ars Technica",
-    "source_url": "https://arstechnica.com/culture/2026/05/the-boys-is-dead-long-live-vought-rising/",
-    "created_at": "2026-05-22T19:02:48+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-60096919341814",
-    "title": "Megalodon chums the waters in 5.5K+ GitHub repo poisonings",
-    "description": "Will Jason Statham save us?",
-    "image": "https://image.theregister.com/?imageId=227881&width=800",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342",
-    "created_at": "2026-05-22T18:57:14+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-73740644502524",
-    "title": "Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
-    "description": "",
-    "image": "https://media.wired.com/photos/6a06188db84b146a9eec38c1/master/pass/Memorial%20Day%20Deals%20Tech%20top%20art%20052026%20SOURCE%20Amazon.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Wired",
-    "source_url": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
-    "created_at": "2026-05-22T18:52:47+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-40184318281886",
-    "title": "Police boast of hacking VPN where criminals \"believed themselves to be safe\"",
-    "description": "Law enforcement intercepted VPN traffic, seized domains, and arrested its operator.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/first-vpn-1152x648-1779474790.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Ars Technica",
-    "source_url": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
-    "created_at": "2026-05-22T18:43:54+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-23545831629499",
-    "title": "Review: The Mandalorian and Grogu is ... fine",
-    "description": "The plot is predictable, the fight scenes are meh, but you can't beat the charm of that little green Grogu.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/mando1-1152x648.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Ars Technica",
-    "source_url": "https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/",
-    "created_at": "2026-05-22T18:30:06+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-85694200603101",
-    "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
-    "description": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/whatsapp-1024x648.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Ars Technica",
-    "source_url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
-    "created_at": "2026-05-22T18:13:05+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-46821864695381",
-    "title": "NASA is opening up bids for who will run the Jet Propulsion Laboratory",
-    "description": "The JPL's current contract with Caltech ends in 2028.",
-    "image": "https://www.engadget.com/img/gallery/nasa-is-opening-up-bids-for-who-will-run-the-jet-propulsion-laboratory/l-intro-1779472806.jpg",
-    "category": "tehnologija",
-    "group": "tehnologija",
-    "label": "TEHNOLOGIJA",
-    "source": "Engadget",
-    "source_url": "https://www.engadget.com/2179587/nasa-is-opening-up-bids-for-who-will-run-the-jet-propulsion-laboratory/",
-    "created_at": "2026-05-22T18:01:36+00:00",
     "gallery_source": "older_active_news",
     "from_old_news": true
   }
