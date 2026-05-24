@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T22:20:31.445388+00:00",
+  "updated_at": "2026-05-24T23:51:52.677742+00:00",
   "sources": 236,
   "ok": 167,
   "problem": 53,
@@ -361,17 +361,6 @@
       "name": "Elite Traveler Luxury - Google News",
       "category": "hedonizam",
       "url": "https://news.google.com/rss/search?q=site:elitetraveler.com%20luxury&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-065",
-      "name": "Engadget",
-      "category": "tehnologija",
-      "url": "https://www.engadget.com/rss.xml",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1175,6 +1164,17 @@
       "name": "Design Milk Lifestyle",
       "category": "lifestyle",
       "url": "https://design-milk.com/category/lifestyle/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-065",
+      "name": "Engadget",
+      "category": "tehnologija",
+      "url": "https://www.engadget.com/rss.xml",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -2257,7 +2257,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 404: Not Found"
+      "error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1016)>"
     },
     {
       "id": "src-078",
