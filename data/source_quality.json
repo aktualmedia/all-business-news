@@ -1,53 +1,9 @@
 {
-  "updated_at": "2026-05-24T09:30:05.144654+00:00",
+  "updated_at": "2026-05-24T14:55:22.896175+00:00",
   "sources": 236,
-  "ok": 166,
-  "problem": 54,
+  "ok": 161,
+  "problem": 58,
   "items": [
-    {
-      "id": "extra-journal-kultura",
-      "name": "Journal.hr - kultura",
-      "category": "kultura",
-      "url": "https://www.journal.hr/kultura/",
-      "status": "ok",
-      "label": "radi",
-      "count": 18,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "extra-journal-lifestyle",
-      "name": "Journal.hr - lifestyle",
-      "category": "lifestyle",
-      "url": "https://www.journal.hr/lifestyle/",
-      "status": "ok",
-      "label": "radi",
-      "count": 18,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "extra-journal-ljepota",
-      "name": "Journal.hr - ljepota",
-      "category": "lifestyle",
-      "url": "https://www.journal.hr/ljepota/",
-      "status": "ok",
-      "label": "radi",
-      "count": 18,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "extra-journal-moda",
-      "name": "Journal.hr - moda",
-      "category": "lifestyle",
-      "url": "https://www.journal.hr/moda/",
-      "status": "ok",
-      "label": "radi",
-      "count": 18,
-      "score": 100,
-      "error": ""
-    },
     {
       "id": "global-extra-040",
       "name": "AP International - Google News",
@@ -456,6 +412,17 @@
       "error": ""
     },
     {
+      "id": "src-135",
+      "name": "Forbes Innovation",
+      "category": "poslovanje",
+      "url": "https://www.forbes.com/innovation/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-050",
       "name": "FreightWaves",
       "category": "trzista",
@@ -555,28 +522,6 @@
       "error": ""
     },
     {
-      "id": "extra-journal-gastro",
-      "name": "Journal.hr - gastro",
-      "category": "hedonizam",
-      "url": "https://www.journal.hr/lifestyle/gastro/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "extra-journal-interijeri",
-      "name": "Journal.hr - interijeri",
-      "category": "dizajn",
-      "url": "https://www.journal.hr/lifestyle/interijeri/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-030",
       "name": "Liberty Street Economics",
       "category": "ekonomija",
@@ -636,6 +581,17 @@
       "name": "Medical Xpress",
       "category": "znanost",
       "url": "https://medicalxpress.com/rss-feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-049",
+      "name": "Mining.com",
+      "category": "trzista",
+      "url": "https://www.mining.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -995,6 +951,17 @@
       "error": ""
     },
     {
+      "id": "global-extra-020",
+      "name": "The Verge Technology - Google News",
+      "category": "tehnologija",
+      "url": "https://news.google.com/rss/search?q=site:theverge.com%20technology&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-026",
       "name": "Travel + Leisure - Google News",
       "category": "lifestyle",
@@ -1149,17 +1116,6 @@
       "error": ""
     },
     {
-      "id": "src-135",
-      "name": "Forbes Innovation",
-      "category": "poslovanje",
-      "url": "https://www.forbes.com/innovation/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-036",
       "name": "National Jeweler - Google News",
       "category": "nakit",
@@ -1193,32 +1149,10 @@
       "error": ""
     },
     {
-      "id": "global-extra-020",
-      "name": "The Verge Technology - Google News",
-      "category": "tehnologija",
-      "url": "https://news.google.com/rss/search?q=site:theverge.com%20technology&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-031",
       "name": "WatchTime - Google News",
       "category": "satovi",
       "url": "https://news.google.com/rss/search?q=site:watchtime.com%20watches&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "global-extra-032",
-      "name": "aBlogtoWatch - Google News",
-      "category": "satovi",
-      "url": "https://news.google.com/rss/search?q=site:ablogtowatch.com%20watches&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1435,17 +1369,6 @@
       "error": ""
     },
     {
-      "id": "src-124",
-      "name": "Highsnobiety",
-      "category": "lifestyle",
-      "url": "https://www.highsnobiety.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-103",
       "name": "Hollywood Reporter",
       "category": "kultura",
@@ -1483,6 +1406,17 @@
       "name": "Knowledge at Wharton",
       "category": "poslovanje",
       "url": "https://knowledge.wharton.upenn.edu/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-138",
+      "name": "LSE Business Review",
+      "category": "ekonomija",
+      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1560,17 +1494,6 @@
       "name": "Monochrome Watches",
       "category": "satovi",
       "url": "https://monochrome-watches.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-098",
-      "name": "MuseumNext",
-      "category": "kultura",
-      "url": "https://www.museumnext.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1710,6 +1633,17 @@
       "error": ""
     },
     {
+      "id": "global-extra-032",
+      "name": "aBlogtoWatch - Google News",
+      "category": "satovi",
+      "url": "https://news.google.com/rss/search?q=site:ablogtowatch.com%20watches&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-080",
       "name": "ESA",
       "category": "znanost",
@@ -1739,6 +1673,17 @@
       "status": "ok",
       "label": "radi",
       "count": 9,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-124",
+      "name": "Highsnobiety",
+      "category": "lifestyle",
+      "url": "https://www.highsnobiety.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 8,
       "score": 100,
       "error": ""
     },
@@ -1945,6 +1890,17 @@
       "name": "Lonely Planet",
       "category": "lifestyle",
       "url": "https://www.lonelyplanet.com/news/feed",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
+      "id": "src-098",
+      "name": "MuseumNext",
+      "category": "kultura",
+      "url": "https://www.museumnext.com/feed/",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -2359,6 +2315,72 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
+      "id": "extra-journal-gastro",
+      "name": "Journal.hr - gastro",
+      "category": "hedonizam",
+      "url": "https://www.journal.hr/lifestyle/gastro/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "extra-journal-interijeri",
+      "name": "Journal.hr - interijeri",
+      "category": "dizajn",
+      "url": "https://www.journal.hr/lifestyle/interijeri/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "extra-journal-kultura",
+      "name": "Journal.hr - kultura",
+      "category": "kultura",
+      "url": "https://www.journal.hr/kultura/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "extra-journal-lifestyle",
+      "name": "Journal.hr - lifestyle",
+      "category": "lifestyle",
+      "url": "https://www.journal.hr/lifestyle/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "extra-journal-ljepota",
+      "name": "Journal.hr - ljepota",
+      "category": "lifestyle",
+      "url": "https://www.journal.hr/ljepota/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "extra-journal-moda",
+      "name": "Journal.hr - moda",
+      "category": "lifestyle",
+      "url": "https://www.journal.hr/moda/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
       "id": "src-048",
       "name": "Kitco News",
       "category": "trzista",
@@ -2368,28 +2390,6 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "id": "src-138",
-      "name": "LSE Business Review",
-      "category": "ekonomija",
-      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "HTTP Error 409: Conflict"
-    },
-    {
-      "id": "src-049",
-      "name": "Mining.com",
-      "category": "trzista",
-      "url": "https://www.mining.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-034",
