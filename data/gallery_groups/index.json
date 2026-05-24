@@ -1,78 +1,66 @@
 {
-  "updated_at": "2026-05-23T23:49:20.982471+00:00",
+  "updated_at": "2026-05-24T09:30:05.110822+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 111,
-      "cover": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2277878323-e1779570119292.jpg"
+      "count": 112,
+      "cover": "https://deadline.com/wp-content/uploads/2026/05/MCDSTWA_WD094.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 29,
-      "cover": "https://www.yankodesign.com/images/design_news/2026/05/draft-navy-seal-museum/navy_seal_museum_yanko_design_01.jpg"
+      "count": 37,
+      "cover": "https://cdn.mos.cms.futurecdn.net/qTGdyXjaNAQUpC9tXWGDPJ-1280-80.gif"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 8,
+      "count": 7,
       "cover": "https://robbreport.com/wp-content/uploads/2026/05/Jeremy_King_Simpsons_Chris_Floyd_085_lores_RT-1.jpg"
-    },
-    {
-      "id": "hrana",
-      "label": "HRANA",
-      "count": 1,
-      "cover": "https://assets.bonappetit.com/photos/6a107f7972c7032b7327abbd/master/pass/GettyImages-2268057491.jpg"
-    },
-    {
-      "id": "pica",
-      "label": "PIĆA",
-      "count": 1,
-      "cover": "https://www.thedrinksbusiness.com/content/uploads/2026/05/iStock-1127201580-scaled.jpg"
     },
     {
       "id": "satovi",
       "label": "SATOVI",
-      "count": 5,
+      "count": 4,
       "cover": "https://monochrome-watches.com/app/uploads/2025/01/Greubel-Forsey-Hand-Made-2-watch-9-600x237.jpg"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 13,
-      "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2Fgraphic-t-shirt-gray-product-1-72813ee2_1779545581.jpg?w=800&cbr=1&q=90&fit=max"
+      "count": 11,
+      "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F24%2Fetai-felipe-pantone-parallel-practices-tailored-structures-kinetic-surfaces-albertz-benda-los-angeles-info-000.jpg?w=800&cbr=1&q=90&fit=max"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 56,
-      "cover": "https://www.engadget.com/img/gallery/ansel-adams-trust-says-ai-colorized-version-of-his-work-was-exhibited-without-permission/l-intro-1779567408.jpg"
+      "count": 51,
+      "cover": "https://image.theregister.com/?imageId=5244357&width=800"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 73,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/vanderbilt-professor-d.jpg"
+      "count": 72,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/indonesia-flooding.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
       "count": 131,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/69f6acd10084fb39b46f00b0/0x0.jpg?width=960"
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a124e35736c4ff6d11afa10/0x0.jpg"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 63,
-      "cover": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M0LE_L.jpg"
+      "count": 65,
+      "cover": "https://i-invdn-com.investing.com/news/LYNXNPEC502XS_M.jpg"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 9,
-      "cover": "https://www.freightwaves.com/wp-content/uploads/2026/03/03/Front-view-of-two-tractor-trailers-on-a-highway.jpg"
+      "count": 10,
+      "cover": "https://www.visualcapitalist.com/wp-content/uploads/2026/05/Europes-Favorite-Streaming-Genres_02-share.webp"
     }
   ]
 }

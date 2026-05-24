@@ -9,7 +9,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-24T09:10:19.491812+00:00"
+    "fetched_at": "2026-05-24T09:25:00.806635+00:00"
   },
   {
     "id": "518893cda3595307",
@@ -21,7 +21,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-24T09:10:19.491863+00:00"
+    "fetched_at": "2026-05-24T09:25:00.806697+00:00"
   },
   {
     "id": "a85a64336941fc6a",
@@ -33,7 +33,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 20 May 2026",
-    "fetched_at": "2026-05-24T09:10:19.491907+00:00"
+    "fetched_at": "2026-05-24T09:25:00.806750+00:00"
   },
   {
     "id": "2e1458e924954e4f",
@@ -117,7 +117,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-24T09:10:19.491951+00:00"
+    "fetched_at": "2026-05-24T09:25:00.806802+00:00"
   },
   {
     "id": "77cb9bc8323d1bff",
@@ -129,7 +129,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 19 May 2026",
-    "fetched_at": "2026-05-24T09:10:19.491994+00:00"
+    "fetched_at": "2026-05-24T09:25:00.806854+00:00"
   },
   {
     "id": "25b3dba7ac823a67",
@@ -165,7 +165,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-24T09:10:19.491569+00:00"
+    "fetched_at": "2026-05-24T09:25:00.806350+00:00"
   },
   {
     "id": "c1e318d2391644ae",
@@ -177,7 +177,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-24T09:10:19.491617+00:00"
+    "fetched_at": "2026-05-24T09:25:00.806405+00:00"
   },
   {
     "id": "c40b3cdc959689d5",
@@ -189,7 +189,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-24T09:10:19.491671+00:00"
+    "fetched_at": "2026-05-24T09:25:00.806468+00:00"
   },
   {
     "id": "0a9048444929a690",
@@ -201,7 +201,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-24T09:10:19.491725+00:00"
+    "fetched_at": "2026-05-24T09:25:00.806531+00:00"
   },
   {
     "id": "e1ec5383ee11f320",
@@ -213,7 +213,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 21 May 2026",
-    "fetched_at": "2026-05-24T09:10:19.491768+00:00"
+    "fetched_at": "2026-05-24T09:25:00.806582+00:00"
   },
   {
     "id": "b4cea2ca3d77a858",
@@ -321,7 +321,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 22 May 2026",
-    "fetched_at": "2026-05-24T09:10:19.491518+00:00"
+    "fetched_at": "2026-05-24T09:25:00.806293+00:00"
   },
   {
     "id": "415368da854b2685",
@@ -368,8 +368,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-24T09:14:53.342203+00:00",
-    "fetched_at": "2026-05-24T09:14:53.342205+00:00",
+    "published_at": "2026-05-24T09:29:46.910235+00:00",
+    "fetched_at": "2026-05-24T09:29:46.910237+00:00",
     "missing_core_fill": true
   },
   {
@@ -381,8 +381,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-24T09:14:53.342156+00:00",
-    "fetched_at": "2026-05-24T09:14:53.342158+00:00",
+    "published_at": "2026-05-24T09:29:46.910178+00:00",
+    "fetched_at": "2026-05-24T09:29:46.910182+00:00",
     "missing_core_fill": true
   },
   {
@@ -394,8 +394,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-24T09:14:53.342110+00:00",
-    "fetched_at": "2026-05-24T09:14:53.342112+00:00",
+    "published_at": "2026-05-24T09:29:46.910096+00:00",
+    "fetched_at": "2026-05-24T09:29:46.910098+00:00",
     "missing_core_fill": true
   },
   {
@@ -407,8 +407,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-24T09:14:53.342055+00:00",
-    "fetched_at": "2026-05-24T09:14:53.342057+00:00",
+    "published_at": "2026-05-24T09:29:46.910040+00:00",
+    "fetched_at": "2026-05-24T09:29:46.910042+00:00",
     "missing_core_fill": true
   },
   {
@@ -420,8 +420,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-24T09:14:53.342011+00:00",
-    "fetched_at": "2026-05-24T09:14:53.342013+00:00",
+    "published_at": "2026-05-24T09:29:46.909991+00:00",
+    "fetched_at": "2026-05-24T09:29:46.909993+00:00",
     "missing_core_fill": true
   },
   {
@@ -433,8 +433,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-24T09:14:53.341961+00:00",
-    "fetched_at": "2026-05-24T09:14:53.341963+00:00",
+    "published_at": "2026-05-24T09:29:46.909936+00:00",
+    "fetched_at": "2026-05-24T09:29:46.909938+00:00",
     "missing_core_fill": true
   },
   {
@@ -446,8 +446,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-24T09:14:53.341905+00:00",
-    "fetched_at": "2026-05-24T09:14:53.341907+00:00",
+    "published_at": "2026-05-24T09:29:46.909878+00:00",
+    "fetched_at": "2026-05-24T09:29:46.909880+00:00",
     "missing_core_fill": true
   },
   {
@@ -459,8 +459,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-24T09:14:53.341855+00:00",
-    "fetched_at": "2026-05-24T09:14:53.341857+00:00",
+    "published_at": "2026-05-24T09:29:46.909824+00:00",
+    "fetched_at": "2026-05-24T09:29:46.909826+00:00",
     "missing_core_fill": true
   },
   {
@@ -472,8 +472,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-24T09:14:53.341790+00:00",
-    "fetched_at": "2026-05-24T09:14:53.341793+00:00",
+    "published_at": "2026-05-24T09:29:46.909758+00:00",
+    "fetched_at": "2026-05-24T09:29:46.909761+00:00",
     "missing_core_fill": true
   },
   {
@@ -485,8 +485,8 @@
     "source": "Eater",
     "source_id": "missing-core-hrana",
     "category": "hrana",
-    "published_at": "2026-05-24T09:14:53.341707+00:00",
-    "fetched_at": "2026-05-24T09:14:53.341723+00:00",
+    "published_at": "2026-05-24T09:29:46.909683+00:00",
+    "fetched_at": "2026-05-24T09:29:46.909690+00:00",
     "missing_core_fill": true
   },
   {
@@ -498,8 +498,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-24T09:14:46.236391+00:00",
-    "fetched_at": "2026-05-24T09:14:46.236393+00:00",
+    "published_at": "2026-05-24T09:29:40.824528+00:00",
+    "fetched_at": "2026-05-24T09:29:40.824530+00:00",
     "missing_core_fill": true
   },
   {
@@ -511,8 +511,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-24T09:14:46.236316+00:00",
-    "fetched_at": "2026-05-24T09:14:46.236319+00:00",
+    "published_at": "2026-05-24T09:29:40.824477+00:00",
+    "fetched_at": "2026-05-24T09:29:40.824479+00:00",
     "missing_core_fill": true
   },
   {
@@ -524,8 +524,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-24T09:14:46.236264+00:00",
-    "fetched_at": "2026-05-24T09:14:46.236266+00:00",
+    "published_at": "2026-05-24T09:29:40.824421+00:00",
+    "fetched_at": "2026-05-24T09:29:40.824423+00:00",
     "missing_core_fill": true
   },
   {
@@ -537,8 +537,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-24T09:14:46.236209+00:00",
-    "fetched_at": "2026-05-24T09:14:46.236211+00:00",
+    "published_at": "2026-05-24T09:29:40.824361+00:00",
+    "fetched_at": "2026-05-24T09:29:40.824363+00:00",
     "missing_core_fill": true
   },
   {
@@ -550,8 +550,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-24T09:14:46.236150+00:00",
-    "fetched_at": "2026-05-24T09:14:46.236151+00:00",
+    "published_at": "2026-05-24T09:29:40.824297+00:00",
+    "fetched_at": "2026-05-24T09:29:40.824300+00:00",
     "missing_core_fill": true
   },
   {
@@ -563,8 +563,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-24T09:14:46.236093+00:00",
-    "fetched_at": "2026-05-24T09:14:46.236095+00:00",
+    "published_at": "2026-05-24T09:29:40.824236+00:00",
+    "fetched_at": "2026-05-24T09:29:40.824238+00:00",
     "missing_core_fill": true
   },
   {
@@ -576,8 +576,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-24T09:14:46.236045+00:00",
-    "fetched_at": "2026-05-24T09:14:46.236047+00:00",
+    "published_at": "2026-05-24T09:29:40.824177+00:00",
+    "fetched_at": "2026-05-24T09:29:40.824181+00:00",
     "missing_core_fill": true
   },
   {
@@ -589,8 +589,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-24T09:14:46.235996+00:00",
-    "fetched_at": "2026-05-24T09:14:46.235998+00:00",
+    "published_at": "2026-05-24T09:29:40.824097+00:00",
+    "fetched_at": "2026-05-24T09:29:40.824099+00:00",
     "missing_core_fill": true
   },
   {
@@ -602,8 +602,8 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-24T09:14:46.235938+00:00",
-    "fetched_at": "2026-05-24T09:14:46.235941+00:00",
+    "published_at": "2026-05-24T09:29:40.824035+00:00",
+    "fetched_at": "2026-05-24T09:29:40.824038+00:00",
     "missing_core_fill": true
   },
   {
@@ -615,48 +615,9 @@
     "source": "The Verge",
     "source_id": "missing-core-tehnologija",
     "category": "tehnologija",
-    "published_at": "2026-05-24T09:14:46.235857+00:00",
-    "fetched_at": "2026-05-24T09:14:46.235874+00:00",
+    "published_at": "2026-05-24T09:29:40.823963+00:00",
+    "fetched_at": "2026-05-24T09:29:40.823969+00:00",
     "missing_core_fill": true
-  },
-  {
-    "id": "7d881e735e1c6761",
-    "title": "Palo Alto Networks’ SWOT analysis: stock navigates growth amid platform expansion",
-    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/swot-analysis/palo-alto-networks-swot-analysis-stock-navigates-growth-amid-platform-expansion-93CH-4708151",
-    "image": "https://picsum.photos/seed/wv-core-57ec747c22e5/1200/750",
-    "source": "Investing.com News",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-24T09:14:39.210547+00:00",
-    "fetched_at": "2026-05-24T09:14:39.210549+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "8cf0865ff243262e",
-    "title": "Trump says Iran deal ’largely negotiated’, would reopen Strait of Hormuz",
-    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/commodities-news/trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-4708125",
-    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4N02S_L.jpg",
-    "source": "Investing.com News",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-24T09:14:39.210514+00:00",
-    "fetched_at": "2026-05-24T09:14:39.210516+00:00",
-    "core_business_science_fill": true
-  },
-  {
-    "id": "def2e75d2b5334b0",
-    "title": "Alexandria Real Estate stock faces biotech headwinds amid restructuring",
-    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.investing.com/news/swot-analysis/alexandria-real-estate-stock-faces-biotech-headwinds-amid-restructuring-93CH-4708152",
-    "image": "https://picsum.photos/seed/wv-core-a88614340b67/1200/750",
-    "source": "Investing.com News",
-    "source_id": "core-fill-financije",
-    "category": "financije",
-    "published_at": "2026-05-24T09:14:39.210484+00:00",
-    "fetched_at": "2026-05-24T09:14:39.210486+00:00",
-    "core_business_science_fill": true
   },
   {
     "id": "dab0345a1329e3e6",
@@ -667,8 +628,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-24T09:14:39.210456+00:00",
-    "fetched_at": "2026-05-24T09:14:39.210459+00:00",
+    "published_at": "2026-05-24T09:29:34.537231+00:00",
+    "fetched_at": "2026-05-24T09:29:34.537233+00:00",
     "core_business_science_fill": true
   },
   {
@@ -680,8 +641,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-24T09:14:39.210431+00:00",
-    "fetched_at": "2026-05-24T09:14:39.210433+00:00",
+    "published_at": "2026-05-24T09:29:34.537203+00:00",
+    "fetched_at": "2026-05-24T09:29:34.537205+00:00",
     "core_business_science_fill": true
   },
   {
@@ -693,8 +654,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-24T09:14:39.210405+00:00",
-    "fetched_at": "2026-05-24T09:14:39.210407+00:00",
+    "published_at": "2026-05-24T09:29:34.537176+00:00",
+    "fetched_at": "2026-05-24T09:29:34.537178+00:00",
     "core_business_science_fill": true
   },
   {
@@ -706,8 +667,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-24T09:14:39.210377+00:00",
-    "fetched_at": "2026-05-24T09:14:39.210379+00:00",
+    "published_at": "2026-05-24T09:29:34.537143+00:00",
+    "fetched_at": "2026-05-24T09:29:34.537147+00:00",
     "core_business_science_fill": true
   },
   {
@@ -719,8 +680,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-24T09:14:39.210328+00:00",
-    "fetched_at": "2026-05-24T09:14:39.210331+00:00",
+    "published_at": "2026-05-24T09:29:34.537087+00:00",
+    "fetched_at": "2026-05-24T09:29:34.537089+00:00",
     "core_business_science_fill": true
   },
   {
@@ -732,8 +693,8 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-24T09:14:39.210293+00:00",
-    "fetched_at": "2026-05-24T09:14:39.210295+00:00",
+    "published_at": "2026-05-24T09:29:34.537053+00:00",
+    "fetched_at": "2026-05-24T09:29:34.537055+00:00",
     "core_business_science_fill": true
   },
   {
@@ -745,8 +706,47 @@
     "source": "Investing.com News",
     "source_id": "core-fill-financije",
     "category": "financije",
-    "published_at": "2026-05-24T09:14:39.210227+00:00",
-    "fetched_at": "2026-05-24T09:14:39.210245+00:00",
+    "published_at": "2026-05-24T09:29:34.537017+00:00",
+    "fetched_at": "2026-05-24T09:29:34.537019+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "6fb5ae53b464730f",
+    "title": "Kenvue’s SWOT analysis: consumer health stock faces headwinds",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/swot-analysis/kenvues-swot-analysis-consumer-health-stock-faces-headwinds-93CH-4708160",
+    "image": "https://picsum.photos/seed/wv-core-55bfea7dfe07/1200/750",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-24T09:29:34.536986+00:00",
+    "fetched_at": "2026-05-24T09:29:34.536989+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "746cb0c572172051",
+    "title": "5 big analyst AI moves: ASML, Dell and Nokia flagged as top picks",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-asml-dell-and-nokia-flagged-as-top-picks-4708070",
+    "image": "https://i-invdn-com.investing.com/news/LYNXMPEE0P0AE_M.jpg",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-24T09:29:34.536946+00:00",
+    "fetched_at": "2026-05-24T09:29:34.536949+00:00",
+    "core_business_science_fill": true
+  },
+  {
+    "id": "8cf0865ff243262e",
+    "title": "Trump says Iran deal ’largely negotiated’, would reopen Strait of Hormuz",
+    "description": "Izvorni naslov/sažetak s portala Investing.com News. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.investing.com/news/commodities-news/trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-4708125",
+    "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4N02S_L.jpg",
+    "source": "Investing.com News",
+    "source_id": "core-fill-financije",
+    "category": "financije",
+    "published_at": "2026-05-24T09:29:34.536905+00:00",
+    "fetched_at": "2026-05-24T09:29:34.536912+00:00",
     "core_business_science_fill": true
   },
   {
@@ -758,8 +758,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-24T09:12:20.647043+00:00",
-    "fetched_at": "2026-05-24T09:12:20.647045+00:00",
+    "published_at": "2026-05-24T09:26:57.032402+00:00",
+    "fetched_at": "2026-05-24T09:26:57.032405+00:00",
     "html_source": true
   },
   {
@@ -771,8 +771,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-24T09:12:20.646888+00:00",
-    "fetched_at": "2026-05-24T09:12:20.646889+00:00",
+    "published_at": "2026-05-24T09:26:57.032245+00:00",
+    "fetched_at": "2026-05-24T09:26:57.032249+00:00",
     "html_source": true
   },
   {
@@ -784,8 +784,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-24T09:12:20.646717+00:00",
-    "fetched_at": "2026-05-24T09:12:20.646719+00:00",
+    "published_at": "2026-05-24T09:26:57.032054+00:00",
+    "fetched_at": "2026-05-24T09:26:57.032057+00:00",
     "html_source": true
   },
   {
@@ -797,8 +797,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-24T09:12:20.646566+00:00",
-    "fetched_at": "2026-05-24T09:12:20.646569+00:00",
+    "published_at": "2026-05-24T09:26:57.031908+00:00",
+    "fetched_at": "2026-05-24T09:26:57.031910+00:00",
     "html_source": true
   },
   {
@@ -810,8 +810,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-24T09:12:20.646414+00:00",
-    "fetched_at": "2026-05-24T09:12:20.646416+00:00",
+    "published_at": "2026-05-24T09:26:57.031762+00:00",
+    "fetched_at": "2026-05-24T09:26:57.031765+00:00",
     "html_source": true
   },
   {
@@ -823,8 +823,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-24T09:12:20.646252+00:00",
-    "fetched_at": "2026-05-24T09:12:20.646254+00:00",
+    "published_at": "2026-05-24T09:26:57.031616+00:00",
+    "fetched_at": "2026-05-24T09:26:57.031618+00:00",
     "html_source": true
   },
   {
@@ -836,8 +836,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-24T09:12:20.646102+00:00",
-    "fetched_at": "2026-05-24T09:12:20.646104+00:00",
+    "published_at": "2026-05-24T09:26:57.031465+00:00",
+    "fetched_at": "2026-05-24T09:26:57.031467+00:00",
     "html_source": true
   },
   {
@@ -849,8 +849,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-24T09:12:20.645951+00:00",
-    "fetched_at": "2026-05-24T09:12:20.645953+00:00",
+    "published_at": "2026-05-24T09:26:57.031310+00:00",
+    "fetched_at": "2026-05-24T09:26:57.031312+00:00",
     "html_source": true
   },
   {
@@ -862,8 +862,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-24T09:12:20.645795+00:00",
-    "fetched_at": "2026-05-24T09:12:20.645797+00:00",
+    "published_at": "2026-05-24T09:26:57.031139+00:00",
+    "fetched_at": "2026-05-24T09:26:57.031143+00:00",
     "html_source": true
   },
   {
@@ -875,8 +875,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-24T09:12:20.645640+00:00",
-    "fetched_at": "2026-05-24T09:12:20.645642+00:00",
+    "published_at": "2026-05-24T09:26:57.030957+00:00",
+    "fetched_at": "2026-05-24T09:26:57.030960+00:00",
     "html_source": true
   },
   {
@@ -888,8 +888,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-24T09:12:20.645470+00:00",
-    "fetched_at": "2026-05-24T09:12:20.645473+00:00",
+    "published_at": "2026-05-24T09:26:57.030780+00:00",
+    "fetched_at": "2026-05-24T09:26:57.030783+00:00",
     "html_source": true
   },
   {
@@ -901,8 +901,8 @@
     "source": "Journal.hr - gastro",
     "source_id": "extra-journal-gastro",
     "category": "hedonizam",
-    "published_at": "2026-05-24T09:12:20.645271+00:00",
-    "fetched_at": "2026-05-24T09:12:20.645288+00:00",
+    "published_at": "2026-05-24T09:26:57.030596+00:00",
+    "fetched_at": "2026-05-24T09:26:57.030607+00:00",
     "html_source": true
   }
 ]
