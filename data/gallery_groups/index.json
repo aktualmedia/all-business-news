@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-24T19:54:58.246869+00:00",
+  "updated_at": "2026-05-24T22:20:31.410807+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 91,
-      "cover": "https://deadline.com/wp-content/uploads/2026/05/P106EXA6-e1779648396177.jpg"
+      "count": 90,
+      "cover": "https://deadline.com/wp-content/uploads/2026/05/Maximum_Pleasure_Guaranteed_Photo_010307.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 46,
-      "cover": "https://www.yankodesign.com/images/design_news/2026/05/philo/philo_yanko_design_04.jpg"
+      "count": 52,
+      "cover": "https://www.yankodesign.com/images/design_news/2026/05/auto-draft/lego_ideas_chinese_junk_1.jpeg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 10,
+      "count": 8,
       "cover": "https://robbreport.com/wp-content/uploads/2026/05/RR_20260515_Alto_Adige_Pinot_Noir_1.jpg"
     },
     {
@@ -35,31 +35,31 @@
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 49,
+      "count": 47,
       "cover": "https://www.engadget.com/img/gallery/the-white-house-is-reportedly-forcing-its-official-app-onto-all-government-employee-phones/l-intro-1779645823.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
       "count": 61,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2020/1-game.jpg"
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/female-politician.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
       "count": 143,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a1062624e97e3e8564cc823/0x0.png?width=960"
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/6a1361a4d45825129795d75e/0x0.jpg?width=960&precrop=2862%2C1909%2Cx0%2Cy0"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
       "count": 73,
-      "cover": "https://www.finance-monthly.com/wp-content/uploads/2026/05/5000-1024x768.webp"
+      "cover": "https://images.mktw.net/im-49032826"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
-      "count": 10,
+      "count": 9,
       "cover": "https://www.visualcapitalist.com/wp-content/uploads/2026/05/Tallest-Buildings_02-share.webp"
     }
   ]
