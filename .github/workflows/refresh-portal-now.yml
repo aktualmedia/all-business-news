@@ -1,0 +1,87 @@
+name: Jednokratno potpuno osvjezavanje portala
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/refresh-portal-now.yml"
+
+permissions:
+  contents: write
+
+env:
+  TZ: Europe/Zagreb
+  PYTHONUNBUFFERED: "1"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+concurrency:
+  group: portal-data-writes
+  cancel-in-progress: false
+
+jobs:
+  refresh-all:
+    name: Osvjezi sve javne module portala
+    runs-on: ubuntu-latest
+    timeout-minutes: 85
+    steps:
+      - name: Checkout repozitorija
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Postavi Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Osvjezi vijesti i premium rubrike
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "START FULL PORTAL REFRESH: $(date -u)"
+          python merge_global_extra_feeds.py
+          python update_news.py
+          python fill_symbol_quorum_en.py
+          python fill_premium_categories.py
+          python fill_core_business_science.py
+          python fill_missing_core_categories.py
+          python postprocess_news.py
+          python limit_news_archive.py
+
+      - name: Osvjezi galeriju, dogadjanja, video i objave
+        shell: bash
+        run: |
+          set -euo pipefail
+          python build_gallery_from_archive.py
+          python update_gallery_groups.py
+          python update_events.py
+          python update_videos.py
+          python generate_posts.py
+
+      - name: Izradi naslovnicu, SEO i potvrdi integritet
+        shell: bash
+        run: |
+          set -euo pipefail
+          python generate_home_data.py
+          python generate_seo.py
+          python portal_check.py
+          python generate_home_data.py
+          echo "END FULL PORTAL REFRESH: $(date -u)"
+
+      - name: Spremi sve potvrdene podatke
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data objave sitemap.xml sitemap-news.xml sitemap-posts.xml sitemap-authors.xml sitemap-events.xml urllist.txt site.webmanifest llms.txt robots.txt
+          if git diff --cached --quiet; then
+            echo "Cijeli portal je vec azuran; nema novih promjena za spremanje."
+            exit 0
+          fi
+          git commit -m "Jednokratno potpuno osvjezavanje svih modula portala"
+          git pull --rebase origin main
+          git push origin HEAD:main
