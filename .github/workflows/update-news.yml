@@ -1,64 +1,45 @@
-name: Update vijesti - rucno i automatski
-# force-run: gallery-from-archive-no-random-2026-05-20
+name: Update vijesti - svaki sat
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "7 * * * *"
-    - cron: "37 * * * *"
+    - cron: "17 * * * *"
   push:
     branches:
       - main
     paths:
       - ".github/workflows/update-news.yml"
       - "update_news.py"
+      - "postprocess_news.py"
       - "limit_news_archive.py"
       - "build_gallery_from_archive.py"
       - "update_gallery_groups.py"
       - "merge_global_extra_feeds.py"
-      - "data/global_extra_feeds.json"
       - "fill_symbol_quorum_en.py"
       - "fill_premium_categories.py"
       - "fill_core_business_science.py"
       - "fill_missing_core_categories.py"
-      - "update_events.py"
-      - "postprocess_news.py"
       - "generate_home_data.py"
       - "generate_seo.py"
-      - "assets/app.js"
-      - "assets/home-lite.js"
-      - "assets/event-notice.js"
-      - "assets/seo-meta.js"
-      - "index.html"
-      - "dogadjanja/**"
-      - "objave/**"
-      - "autor/**"
-      - "nermin-sefic/**"
-      - "aktual-media/**"
-      - "web-vijesti/**"
-      - "symbol-casopis/**"
-      - "hrana/**"
-      - "nakit/**"
-      - "pica/**"
-      - "satovi/**"
-      - "hedonizam/**"
+      - "portal_check.py"
+      - "data/global_extra_feeds.json"
       - "data/ai_posts.json"
-      - "data/person.json"
-      - "data/events_sources.json"
-      - "data/event_sources.json"
+      - "data/editions.json"
 
 permissions:
   contents: write
 
 env:
   TZ: Europe/Zagreb
+  PYTHONUNBUFFERED: "1"
 
 concurrency:
-  group: update-vijesti
+  group: update-vijesti-main
   cancel-in-progress: true
 
 jobs:
   update-news:
+    name: Osvjezi sadrzaj i potvrdi integritet
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
@@ -73,29 +54,36 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Azuriraj vijesti dogadjanja premium kategorije home podatke galeriju i SEO
+      - name: Generiraj vijesti i premium rubrike
+        shell: bash
         run: |
-          echo "START UPDATE: $(date -u)"
-          python merge_global_extra_feeds.py || echo "merge_global_extra_feeds.py nije prosao, nastavljam bez spajanja dodatnih izvora"
-          python update_news.py || echo "update_news.py nije prosao do kraja, nastavljam postprocess"
-          python update_events.py || echo "update_events.py nije prosao do kraja, nastavljam dalje"
-          python postprocess_news.py
-          python fill_symbol_quorum_en.py || echo "fill_symbol_quorum_en.py nije prosao do kraja, nastavljam dalje"
-          python fill_premium_categories.py || echo "fill_premium_categories.py nije prosao do kraja, nastavljam dalje"
-          python fill_core_business_science.py || echo "fill_core_business_science.py nije prosao do kraja, nastavljam dalje"
-          python fill_missing_core_categories.py || echo "fill_missing_core_categories.py nije prosao do kraja, nastavljam dalje"
-          python limit_news_archive.py || echo "limit_news_archive.py nije prosao, nastavljam dalje"
-          python build_gallery_from_archive.py || echo "build_gallery_from_archive.py nije prosao, nastavljam dalje"
-          python update_gallery_groups.py || echo "update_gallery_groups.py nije prosao, nastavljam dalje"
+          set -euo pipefail
+          echo "START VIJESTI: $(date -u)"
+          python merge_global_extra_feeds.py
+          python update_news.py
+          python fill_symbol_quorum_en.py
+          python fill_premium_categories.py
+          python fill_core_business_science.py
+          python fill_missing_core_categories.py
+          python limit_news_archive.py
+          python build_gallery_from_archive.py
+          python update_gallery_groups.py
           python generate_home_data.py
           python generate_seo.py
-          echo "END UPDATE: $(date -u)"
+          python portal_check.py
+          echo "END VIJESTI: $(date -u)"
 
-      - name: Spremi promjene
+      - name: Spremi potvrdene podatke
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/feeds.json data/news.json data/archive.json data/category_news data/category_counts.json data/generated_at.json data/source_stats.json data/source_quality.json data/manual_gallery.json data/gallery_status.json data/gallery_groups data/home_gallery_groups.json data/gallery_groups_status.json data/events_calendar.json data/events_status.json data/manual_events.json data/home_news.json data/home_events.json data/home_symbol.json data/home_status.json data/seo_index.json sitemap.xml sitemap-news.xml sitemap-posts.xml sitemap-authors.xml sitemap-events.xml urllist.txt site.webmanifest llms.txt robots.txt
-          git commit -m "Automatsko azuriranje vijesti dogadjanja premium kategorija home podataka galerije i SEO datoteka" || echo "Nema promjena za commit"
-          git pull --rebase || true
-          git push || true
+          git add data/feeds.json data/news.json data/archive.json data/category_news data/category_counts.json data/generated_at.json data/source_stats.json data/source_quality.json data/manual_gallery.json data/gallery_status.json data/gallery_groups data/home_gallery_groups.json data/gallery_groups_status.json data/home_news.json data/home_symbol.json data/home_status.json data/automation_status.json data/seo_index.json sitemap.xml sitemap-news.xml sitemap-posts.xml sitemap-authors.xml sitemap-events.xml urllist.txt site.webmanifest llms.txt robots.txt
+          if git diff --cached --quiet; then
+            echo "Nema novih podataka za spremanje."
+            exit 0
+          fi
+          git commit -m "Automatsko satno azuriranje vijesti i provjera integriteta"
+          git pull --rebase origin main
+          git push origin main
