@@ -3,7 +3,7 @@
     "id": "a45768645aa3eba0",
     "title": "Program: National Gallery of Victoria",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:17:13.451755+00:00",
+    "datetime": "2026-05-25T12:45:36.347861+00:00",
     "country": "Australija",
     "city": "Melbourne",
     "venue": "National Gallery of Victoria",
@@ -14,13 +14,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:17:13.451808+00:00"
+    "fetched_at": "2026-05-25T12:45:36.347916+00:00"
   },
   {
     "id": "e687275c9d8d263f",
     "title": "Program: Sydney Opera House",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:53.827714+00:00",
+    "datetime": "2026-05-25T12:45:11.938867+00:00",
     "country": "Australija",
     "city": "Sydney",
     "venue": "Sydney Opera House",
@@ -31,13 +31,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:53.827756+00:00"
+    "fetched_at": "2026-05-25T12:45:11.938910+00:00"
   },
   {
     "id": "312d7c9cf10f8973",
     "title": "Program: Burgtheater",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:51.283526+00:00",
+    "datetime": "2026-05-25T12:45:07.777285+00:00",
     "country": "Austrija",
     "city": "Beč",
     "venue": "Burgtheater",
@@ -48,13 +48,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:51.283589+00:00"
+    "fetched_at": "2026-05-25T12:45:07.777346+00:00"
   },
   {
     "id": "9b7ec03076afb460",
     "title": "Program: Volkstheater Wien",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:52.306846+00:00",
+    "datetime": "2026-05-25T12:45:08.810337+00:00",
     "country": "Austrija",
     "city": "Beč",
     "venue": "Volkstheater Wien",
@@ -65,13 +65,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:52.306902+00:00"
+    "fetched_at": "2026-05-25T12:45:08.810381+00:00"
   },
   {
     "id": "76ab972240798935",
     "title": "Program: Wiener Staatsoper",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:50.611431+00:00",
+    "datetime": "2026-05-25T12:45:06.993101+00:00",
     "country": "Austrija",
     "city": "Beč",
     "venue": "Wiener Staatsoper",
@@ -82,13 +82,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:50.611490+00:00"
+    "fetched_at": "2026-05-25T12:45:06.993160+00:00"
   },
   {
     "id": "c60f26ef7a193820",
     "title": "Program: Comédie-Française",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:34.509828+00:00",
+    "datetime": "2026-05-25T12:44:48.577002+00:00",
     "country": "Francuska",
     "city": "Pariz",
     "venue": "Comédie-Française",
@@ -99,13 +99,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:34.509892+00:00"
+    "fetched_at": "2026-05-25T12:44:48.577068+00:00"
   },
   {
     "id": "6459c93fe3099862",
     "title": "Program: Odéon-Théâtre de l'Europe",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:36.446426+00:00",
+    "datetime": "2026-05-25T12:44:50.555914+00:00",
     "country": "Francuska",
     "city": "Pariz",
     "venue": "Odéon-Théâtre de l'Europe",
@@ -116,13 +116,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:36.446471+00:00"
+    "fetched_at": "2026-05-25T12:44:50.555957+00:00"
   },
   {
     "id": "f307c96ebe5514f7",
     "title": "Program: Théâtre de la Ville",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:38.827269+00:00",
+    "datetime": "2026-05-25T12:44:53.217940+00:00",
     "country": "Francuska",
     "city": "Pariz",
     "venue": "Théâtre de la Ville",
@@ -133,7 +133,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:38.827336+00:00"
+    "fetched_at": "2026-05-25T12:44:53.218007+00:00"
   },
   {
     "id": "a610dfa0c2904185",
@@ -150,7 +150,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.560079+00:00"
+    "fetched_at": "2026-05-25T12:45:25.966814+00:00"
   },
   {
     "id": "5f480c10f82537a6",
@@ -167,7 +167,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.560263+00:00"
+    "fetched_at": "2026-05-25T12:45:25.967026+00:00"
   },
   {
     "id": "f6ff7deef3bb7c23",
@@ -184,7 +184,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.558890+00:00"
+    "fetched_at": "2026-05-25T12:45:25.965437+00:00"
   },
   {
     "id": "7d303cf2534c43a9",
@@ -201,7 +201,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.560367+00:00"
+    "fetched_at": "2026-05-25T12:45:25.967266+00:00"
   },
   {
     "id": "05704cf3e6b3636a",
@@ -218,7 +218,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.558974+00:00"
+    "fetched_at": "2026-05-25T12:45:25.965521+00:00"
   },
   {
     "id": "a25252a23dccf8d9",
@@ -235,7 +235,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.560453+00:00"
+    "fetched_at": "2026-05-25T12:45:25.967381+00:00"
   },
   {
     "id": "8aee38dcce8ad527",
@@ -252,7 +252,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.560552+00:00"
+    "fetched_at": "2026-05-25T12:45:25.967492+00:00"
   },
   {
     "id": "920574f90becb8e7",
@@ -269,7 +269,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.560740+00:00"
+    "fetched_at": "2026-05-25T12:45:25.967696+00:00"
   },
   {
     "id": "d8bc47af2b452e91",
@@ -286,7 +286,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.560823+00:00"
+    "fetched_at": "2026-05-25T12:45:25.967788+00:00"
   },
   {
     "id": "dd23209693e83ce7",
@@ -303,7 +303,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.560650+00:00"
+    "fetched_at": "2026-05-25T12:45:25.967600+00:00"
   },
   {
     "id": "2616bb7ab5dd3d1a",
@@ -320,7 +320,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.560954+00:00"
+    "fetched_at": "2026-05-25T12:45:25.967919+00:00"
   },
   {
     "id": "7bea7fd9401b63c5",
@@ -337,7 +337,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.559820+00:00"
+    "fetched_at": "2026-05-25T12:45:25.966527+00:00"
   },
   {
     "id": "981967843ca31afb",
@@ -354,7 +354,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.559059+00:00"
+    "fetched_at": "2026-05-25T12:45:25.965618+00:00"
   },
   {
     "id": "379548bf13d8b7d8",
@@ -371,7 +371,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.558820+00:00"
+    "fetched_at": "2026-05-25T12:45:25.965354+00:00"
   },
   {
     "id": "6f6fc27525d0c8e3",
@@ -388,7 +388,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.559757+00:00"
+    "fetched_at": "2026-05-25T12:45:25.966449+00:00"
   },
   {
     "id": "1372f70b6cd4ab57",
@@ -405,7 +405,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.559683+00:00"
+    "fetched_at": "2026-05-25T12:45:25.966359+00:00"
   },
   {
     "id": "1e3a37e555cd9fd9",
@@ -422,7 +422,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.559128+00:00"
+    "fetched_at": "2026-05-25T12:45:25.965697+00:00"
   },
   {
     "id": "dd704a45506f897b",
@@ -439,7 +439,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.559201+00:00"
+    "fetched_at": "2026-05-25T12:45:25.965780+00:00"
   },
   {
     "id": "2ebe24fe44a0c348",
@@ -456,7 +456,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.559932+00:00"
+    "fetched_at": "2026-05-25T12:45:25.966644+00:00"
   },
   {
     "id": "ef8c7b95a76f9bf5",
@@ -473,7 +473,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.558650+00:00"
+    "fetched_at": "2026-05-25T12:45:25.965140+00:00"
   },
   {
     "id": "411885e1611dc100",
@@ -490,7 +490,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.557693+00:00"
+    "fetched_at": "2026-05-25T12:45:25.964051+00:00"
   },
   {
     "id": "663d4a11e0dc74e3",
@@ -507,7 +507,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.559292+00:00"
+    "fetched_at": "2026-05-25T12:45:25.965883+00:00"
   },
   {
     "id": "212a664a369fe8d2",
@@ -524,7 +524,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.559438+00:00"
+    "fetched_at": "2026-05-25T12:45:25.966051+00:00"
   },
   {
     "id": "982cf8690385bd60",
@@ -541,7 +541,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.559373+00:00"
+    "fetched_at": "2026-05-25T12:45:25.965976+00:00"
   },
   {
     "id": "ad3cebaeb792fd72",
@@ -558,7 +558,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.560179+00:00"
+    "fetched_at": "2026-05-25T12:45:25.966929+00:00"
   },
   {
     "id": "9d3a4c03890206db",
@@ -575,7 +575,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.560005+00:00"
+    "fetched_at": "2026-05-25T12:45:25.966726+00:00"
   },
   {
     "id": "6ca1f03a24ccdc56",
@@ -592,7 +592,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.559522+00:00"
+    "fetched_at": "2026-05-25T12:45:25.966146+00:00"
   },
   {
     "id": "cf6602b0645583fa",
@@ -609,7 +609,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.558572+00:00"
+    "fetched_at": "2026-05-25T12:45:25.965053+00:00"
   },
   {
     "id": "f8ff122162cea512",
@@ -626,7 +626,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.561482+00:00"
+    "fetched_at": "2026-05-25T12:45:25.968541+00:00"
   },
   {
     "id": "a72f622654493a1e",
@@ -643,7 +643,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.561793+00:00"
+    "fetched_at": "2026-05-25T12:45:25.968901+00:00"
   },
   {
     "id": "08dd68f36f9f9008",
@@ -660,7 +660,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.558757+00:00"
+    "fetched_at": "2026-05-25T12:45:25.965279+00:00"
   },
   {
     "id": "e1185862e83bc15b",
@@ -677,7 +677,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.561713+00:00"
+    "fetched_at": "2026-05-25T12:45:25.968810+00:00"
   },
   {
     "id": "edc69634520ce940",
@@ -694,7 +694,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.561558+00:00"
+    "fetched_at": "2026-05-25T12:45:25.968631+00:00"
   },
   {
     "id": "a2a3e2a4e8893a4d",
@@ -711,7 +711,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.559587+00:00"
+    "fetched_at": "2026-05-25T12:45:25.966246+00:00"
   },
   {
     "id": "0b34b68abf568ea0",
@@ -728,7 +728,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.561641+00:00"
+    "fetched_at": "2026-05-25T12:45:25.968727+00:00"
   },
   {
     "id": "03946a1514516b29",
@@ -745,7 +745,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.557603+00:00"
+    "fetched_at": "2026-05-25T12:45:25.963956+00:00"
   },
   {
     "id": "034ba2cb215da123",
@@ -762,7 +762,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.558213+00:00"
+    "fetched_at": "2026-05-25T12:45:25.964645+00:00"
   },
   {
     "id": "3305b6a896b74c86",
@@ -779,7 +779,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.561314+00:00"
+    "fetched_at": "2026-05-25T12:45:25.968351+00:00"
   },
   {
     "id": "7717f8dedaf8ba78",
@@ -796,7 +796,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.561252+00:00"
+    "fetched_at": "2026-05-25T12:45:25.968272+00:00"
   },
   {
     "id": "5b56cdec07050d17",
@@ -813,7 +813,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.561153+00:00"
+    "fetched_at": "2026-05-25T12:45:25.968134+00:00"
   },
   {
     "id": "8b639fe768d40672",
@@ -830,7 +830,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.561052+00:00"
+    "fetched_at": "2026-05-25T12:45:25.968025+00:00"
   },
   {
     "id": "38d42fce9f2266c0",
@@ -847,7 +847,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.558430+00:00"
+    "fetched_at": "2026-05-25T12:45:25.964889+00:00"
   },
   {
     "id": "2e4602ab412db16f",
@@ -864,7 +864,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.558149+00:00"
+    "fetched_at": "2026-05-25T12:45:25.964567+00:00"
   },
   {
     "id": "d3d552c587ed87d2",
@@ -881,7 +881,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.558289+00:00"
+    "fetched_at": "2026-05-25T12:45:25.964733+00:00"
   },
   {
     "id": "217d198c61dbc95c",
@@ -898,7 +898,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.557773+00:00"
+    "fetched_at": "2026-05-25T12:45:25.964139+00:00"
   },
   {
     "id": "e5ee3b66aa58e127",
@@ -915,7 +915,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.558368+00:00"
+    "fetched_at": "2026-05-25T12:45:25.964820+00:00"
   },
   {
     "id": "247943875ba9062d",
@@ -932,7 +932,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.558514+00:00"
+    "fetched_at": "2026-05-25T12:45:25.964984+00:00"
   },
   {
     "id": "67ccdd525bb74c55",
@@ -949,7 +949,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.561405+00:00"
+    "fetched_at": "2026-05-25T12:45:25.968454+00:00"
   },
   {
     "id": "a515adb1b02f1b36",
@@ -966,7 +966,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.557885+00:00"
+    "fetched_at": "2026-05-25T12:45:25.964284+00:00"
   },
   {
     "id": "70f3abf0de6c55d8",
@@ -983,7 +983,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.557998+00:00"
+    "fetched_at": "2026-05-25T12:45:25.964394+00:00"
   },
   {
     "id": "0cd016508ada768d",
@@ -1000,7 +1000,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:03.558083+00:00"
+    "fetched_at": "2026-05-25T12:45:25.964488+00:00"
   },
   {
     "id": "9db8e1eeb3026ea5",
@@ -1017,7 +1017,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:02.395700+00:00"
+    "fetched_at": "2026-05-25T12:45:24.524763+00:00"
   },
   {
     "id": "1d2ae6576c504c8f",
@@ -1034,7 +1034,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:02.395308+00:00"
+    "fetched_at": "2026-05-25T12:45:24.524337+00:00"
   },
   {
     "id": "62db0bfd8cc0022f",
@@ -1051,7 +1051,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:02.395414+00:00"
+    "fetched_at": "2026-05-25T12:45:24.524450+00:00"
   },
   {
     "id": "733aaffbeab9576d",
@@ -1068,7 +1068,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:02.395526+00:00"
+    "fetched_at": "2026-05-25T12:45:24.524566+00:00"
   },
   {
     "id": "0268d1e270f5945d",
@@ -1085,7 +1085,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:02.395792+00:00"
+    "fetched_at": "2026-05-25T12:45:24.524863+00:00"
   },
   {
     "id": "f627a4c00b02baeb",
@@ -1102,7 +1102,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:02.395614+00:00"
+    "fetched_at": "2026-05-25T12:45:24.524665+00:00"
   },
   {
     "id": "ef1020d41dfcbe45",
@@ -1119,7 +1119,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:02.395978+00:00"
+    "fetched_at": "2026-05-25T12:45:24.525227+00:00"
   },
   {
     "id": "8071c842592eaa9e",
@@ -1136,7 +1136,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:02.396115+00:00"
+    "fetched_at": "2026-05-25T12:45:24.525081+00:00"
   },
   {
     "id": "a6b459be9f2f6881",
@@ -1153,7 +1153,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:02.395859+00:00"
+    "fetched_at": "2026-05-25T12:45:24.524942+00:00"
   },
   {
     "id": "9dbdb14ac3d1a094",
@@ -1170,7 +1170,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:02.396418+00:00"
+    "fetched_at": "2026-05-25T12:45:24.525578+00:00"
   },
   {
     "id": "7b03c73b5a828a68",
@@ -1187,7 +1187,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:02.396215+00:00"
+    "fetched_at": "2026-05-25T12:45:24.525344+00:00"
   },
   {
     "id": "e9936a00556a8b07",
@@ -1204,7 +1204,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:02.396333+00:00"
+    "fetched_at": "2026-05-25T12:45:24.525478+00:00"
   },
   {
     "id": "d715eb89ddf8539e",
@@ -1221,13 +1221,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:02.396520+00:00"
+    "fetched_at": "2026-05-25T12:45:24.525696+00:00"
   },
   {
     "id": "0803d5e637ecdf10",
     "title": "Program: Musée du Louvre",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:17:01.910884+00:00",
+    "datetime": "2026-05-25T12:45:23.466790+00:00",
     "country": "Francuska",
     "city": "Pariz",
     "venue": "Musée du Louvre",
@@ -1238,13 +1238,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:17:01.910938+00:00"
+    "fetched_at": "2026-05-25T12:45:23.466829+00:00"
   },
   {
     "id": "f0ea2dfae52d844e",
     "title": "Program: Opéra national de Paris",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:38.001771+00:00",
+    "datetime": "2026-05-25T12:44:52.287514+00:00",
     "country": "Francuska",
     "city": "Pariz",
     "venue": "Opéra national de Paris",
@@ -1255,13 +1255,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:38.001823+00:00"
+    "fetched_at": "2026-05-25T12:44:52.287557+00:00"
   },
   {
     "id": "bd514ffa7fd5b75d",
     "title": "Program: HAVC",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:23.633141+00:00",
+    "datetime": "2026-05-25T12:44:24.968251+00:00",
     "country": "Hrvatska",
     "city": "Hrvatska",
     "venue": "HAVC",
@@ -1272,13 +1272,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:23.633193+00:00"
+    "fetched_at": "2026-05-25T12:44:24.968303+00:00"
   },
   {
     "id": "c2416a3c86be9ef7",
     "title": "Program: Zagreb Film Festival",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:24.203847+00:00",
+    "datetime": "2026-05-25T12:44:27.194253+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Zagreb Film Festival",
@@ -1289,13 +1289,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:24.203896+00:00"
+    "fetched_at": "2026-05-25T12:44:27.194296+00:00"
   },
   {
     "id": "688e50a599ab6c10",
     "title": "Program: Galerija Klovićevi dvori",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:20.097777+00:00",
+    "datetime": "2026-05-25T12:44:20.342292+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Galerija Klovićevi dvori",
@@ -1306,13 +1306,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:20.097824+00:00"
+    "fetched_at": "2026-05-25T12:44:20.342342+00:00"
   },
   {
     "id": "9d801f69622d7253",
     "title": "Program: Dramsko kazalište Gavella",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:14.725052+00:00",
+    "datetime": "2026-05-25T12:43:52.529232+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Dramsko kazalište Gavella",
@@ -1323,13 +1323,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:14.725125+00:00"
+    "fetched_at": "2026-05-25T12:43:52.529304+00:00"
   },
   {
     "id": "4ab83513449cecbf",
     "title": "Program: Kazalište Komedija",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:15.734969+00:00",
+    "datetime": "2026-05-25T12:44:09.228521+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Kazalište Komedija",
@@ -1340,13 +1340,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:15.735024+00:00"
+    "fetched_at": "2026-05-25T12:44:09.228615+00:00"
   },
   {
     "id": "f491e11189ae35ad",
     "title": "Program: Kazalište Trešnja",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:18.671193+00:00",
+    "datetime": "2026-05-25T12:44:16.351780+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Kazalište Trešnja",
@@ -1357,13 +1357,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:18.671245+00:00"
+    "fetched_at": "2026-05-25T12:44:16.351820+00:00"
   },
   {
     "id": "e70cfe14d9bba47d",
     "title": "Program: Satiričko kazalište Kerempuh",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:12.488956+00:00",
+    "datetime": "2026-05-25T12:43:49.788263+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Satiričko kazalište Kerempuh",
@@ -1374,13 +1374,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:12.489008+00:00"
+    "fetched_at": "2026-05-25T12:43:49.788337+00:00"
   },
   {
     "id": "0c621fdc5aa5f18e",
     "title": "Program: Teatar Exit",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:18.111305+00:00",
+    "datetime": "2026-05-25T12:44:12.252067+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Teatar Exit",
@@ -1391,13 +1391,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:18.111378+00:00"
+    "fetched_at": "2026-05-25T12:44:12.252141+00:00"
   },
   {
     "id": "63247315dfc9b04d",
     "title": "Program: Zagrebačko kazalište lutaka",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:19.269798+00:00",
+    "datetime": "2026-05-25T12:44:18.062672+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Zagrebačko kazalište lutaka",
@@ -1408,13 +1408,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:19.269850+00:00"
+    "fetched_at": "2026-05-25T12:44:18.062737+00:00"
   },
   {
     "id": "f0ad940dfd85655f",
     "title": "Program: Zagrebačko kazalište mladih / ZKM",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:13.262824+00:00",
+    "datetime": "2026-05-25T12:43:50.950767+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Zagrebačko kazalište mladih / ZKM",
@@ -1425,13 +1425,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:13.262881+00:00"
+    "fetched_at": "2026-05-25T12:43:50.950840+00:00"
   },
   {
     "id": "71de7251086fd879",
     "title": "Program: Koncertna dvorana Vatroslava Lisinskog",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:07.859113+00:00",
+    "datetime": "2026-05-25T12:43:45.895377+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Koncertna dvorana Vatroslava Lisinskog",
@@ -1442,13 +1442,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:07.859168+00:00"
+    "fetched_at": "2026-05-25T12:43:45.895428+00:00"
   },
   {
     "id": "cfe94a37b6e8ffb9",
     "title": "Program: Etnografski muzej Zagreb",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:21.270790+00:00",
+    "datetime": "2026-05-25T12:44:22.072161+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Etnografski muzej Zagreb",
@@ -1459,7 +1459,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:21.270830+00:00"
+    "fetched_at": "2026-05-25T12:44:22.072214+00:00"
   },
   {
     "id": "0796f652ae9828f1",
@@ -1476,13 +1476,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:22.699268+00:00"
+    "fetched_at": "2026-05-25T12:44:23.865481+00:00"
   },
   {
     "id": "cf8eaff9d9be94d4",
     "title": "Program: Tehnički muzej Nikola Tesla",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:20.709018+00:00",
+    "datetime": "2026-05-25T12:44:21.048817+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Tehnički muzej Nikola Tesla",
@@ -1493,13 +1493,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:20.709078+00:00"
+    "fetched_at": "2026-05-25T12:44:21.048881+00:00"
   },
   {
     "id": "7cd9ca78a4ee1cd2",
     "title": "Program: Muzej suvremene umjetnosti Zagreb",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:19.634984+00:00",
+    "datetime": "2026-05-25T12:44:18.474384+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Muzej suvremene umjetnosti Zagreb",
@@ -1510,13 +1510,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:19.635057+00:00"
+    "fetched_at": "2026-05-25T12:44:18.474445+00:00"
   },
   {
     "id": "35f8d8a7bbcef7a6",
     "title": "Program: Info Zagreb / Zagreb events",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:06.664879+00:00",
+    "datetime": "2026-05-25T12:43:44.573799+00:00",
     "country": "Hrvatska",
     "city": "Zagreb",
     "venue": "Info Zagreb / Zagreb events",
@@ -1527,7 +1527,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:06.664952+00:00"
+    "fetched_at": "2026-05-25T12:43:44.573863+00:00"
   },
   {
     "id": "d322d4a274a13d92",
@@ -1544,13 +1544,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:05.855222+00:00"
+    "fetched_at": "2026-05-25T12:45:29.576266+00:00"
   },
   {
     "id": "40700357f15397da",
     "title": "Program: Piccolo Teatro di Milano",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:41.932488+00:00",
+    "datetime": "2026-05-25T12:44:56.767831+00:00",
     "country": "Italija",
     "city": "Milano",
     "venue": "Piccolo Teatro di Milano",
@@ -1561,13 +1561,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:41.932553+00:00"
+    "fetched_at": "2026-05-25T12:44:56.767898+00:00"
   },
   {
     "id": "f07e4ca765f42ac7",
     "title": "Program: Triennale Milano",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:17:07.064219+00:00",
+    "datetime": "2026-05-25T12:45:30.435084+00:00",
     "country": "Italija",
     "city": "Milano",
     "venue": "Triennale Milano",
@@ -1578,7 +1578,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:17:07.064255+00:00"
+    "fetched_at": "2026-05-25T12:45:30.435119+00:00"
   },
   {
     "id": "6b8e5e6c737af7d2",
@@ -1595,7 +1595,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:41.260538+00:00"
+    "fetched_at": "2026-05-25T12:44:56.161763+00:00"
   },
   {
     "id": "d9dab3f7e78276e6",
@@ -1612,7 +1612,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:41.260611+00:00"
+    "fetched_at": "2026-05-25T12:44:56.161845+00:00"
   },
   {
     "id": "d46afce6c403aca3",
@@ -1629,7 +1629,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:41.260702+00:00"
+    "fetched_at": "2026-05-25T12:44:56.161941+00:00"
   },
   {
     "id": "f4eb9b830dd79825",
@@ -1646,7 +1646,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:41.260777+00:00"
+    "fetched_at": "2026-05-25T12:44:56.162024+00:00"
   },
   {
     "id": "5c8bbc917ab769bf",
@@ -1663,7 +1663,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:41.260832+00:00"
+    "fetched_at": "2026-05-25T12:44:56.162090+00:00"
   },
   {
     "id": "16bbcd5058dcfa2e",
@@ -1680,7 +1680,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:41.260996+00:00"
+    "fetched_at": "2026-05-25T12:44:56.162286+00:00"
   },
   {
     "id": "c99b09e4dbafdc0f",
@@ -1697,13 +1697,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:41.260909+00:00"
+    "fetched_at": "2026-05-25T12:44:56.162198+00:00"
   },
   {
     "id": "ba0e42b4e08e7516",
     "title": "Program: Teatro di Roma",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:43.442009+00:00",
+    "datetime": "2026-05-25T12:44:58.130273+00:00",
     "country": "Italija",
     "city": "Rim",
     "venue": "Teatro di Roma",
@@ -1714,13 +1714,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:43.442056+00:00"
+    "fetched_at": "2026-05-25T12:44:58.130317+00:00"
   },
   {
     "id": "51210ab85e7cf1d7",
     "title": "Program: Tokyo Metropolitan Theatre",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:55.292438+00:00",
+    "datetime": "2026-05-25T12:45:13.499131+00:00",
     "country": "Japan",
     "city": "Tokio",
     "venue": "Tokyo Metropolitan Theatre",
@@ -1731,7 +1731,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:55.292503+00:00"
+    "fetched_at": "2026-05-25T12:45:13.499233+00:00"
   },
   {
     "id": "2293d24b54fdd669",
@@ -1748,13 +1748,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:10.092452+00:00"
+    "fetched_at": "2026-05-25T12:45:32.979574+00:00"
   },
   {
     "id": "ff2e3bd56253c222",
     "title": "Program: Rijksmuseum",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:17:05.303351+00:00",
+    "datetime": "2026-05-25T12:45:28.023586+00:00",
     "country": "Nizozemska",
     "city": "Amsterdam",
     "venue": "Rijksmuseum",
@@ -1765,30 +1765,166 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:17:05.303410+00:00"
+    "fetched_at": "2026-05-25T12:45:28.023689+00:00"
   },
   {
-    "id": "d6f6661064d8f137",
-    "title": "Program: Stedelijk Museum Amsterdam",
-    "date": "2026-05-25",
-    "datetime": "2026-05-25T12:17:05.512453+00:00",
+    "id": "f67f5e840ee3edca",
+    "title": "2:00 pm Introduction Danh Vo",
+    "date": "2026-05-28",
+    "datetime": "2026-05-28T00:00:00+00:00",
     "country": "Nizozemska",
     "city": "Amsterdam",
     "venue": "Stedelijk Museum Amsterdam",
     "institution": "Stedelijk Museum Amsterdam",
     "type": "muzej / izložbe",
     "source": "Stedelijk Museum Amsterdam",
-    "url": "https://www.stedelijk.nl/en/exhibitions",
+    "url": "https://www.stedelijk.nl/en/events/copy-of-introductielezing_Danh%20Vo_Eng",
     "description": "",
     "image": null,
-    "program_link_only": true,
-    "fetched_at": "2026-05-25T12:17:05.512495+00:00"
+    "program_link_only": false,
+    "fetched_at": "2026-05-25T12:45:29.174680+00:00"
+  },
+  {
+    "id": "8f1495b8efaebb3e",
+    "title": "ABN Amro Art Award: Ivna Esajas Wayward Lines. Consent not to be a single being till",
+    "date": "2026-06-07",
+    "datetime": "2026-06-07T00:00:00+00:00",
+    "country": "Nizozemska",
+    "city": "Amsterdam",
+    "venue": "Stedelijk Museum Amsterdam",
+    "institution": "Stedelijk Museum Amsterdam",
+    "type": "muzej / izložbe",
+    "source": "Stedelijk Museum Amsterdam",
+    "url": "https://www.stedelijk.nl/en/exhibitions/en-abn-amro-art-award-ivna-esajas",
+    "description": "",
+    "image": null,
+    "program_link_only": false,
+    "fetched_at": "2026-05-25T12:45:29.174187+00:00"
+  },
+  {
+    "id": "bd3b13845c2e533e",
+    "title": "Beyond the Manosphere Masculinities Today till",
+    "date": "2026-08-02",
+    "datetime": "2026-08-02T00:00:00+00:00",
+    "country": "Nizozemska",
+    "city": "Amsterdam",
+    "venue": "Stedelijk Museum Amsterdam",
+    "institution": "Stedelijk Museum Amsterdam",
+    "type": "muzej / izložbe",
+    "source": "Stedelijk Museum Amsterdam",
+    "url": "https://www.stedelijk.nl/en/exhibitions/manosphere-en",
+    "description": "",
+    "image": null,
+    "program_link_only": false,
+    "fetched_at": "2026-05-25T12:45:29.174359+00:00"
+  },
+  {
+    "id": "b82b5c1d65437706",
+    "title": "Danh Vo πνεῦμα (Ἔλισσα) till",
+    "date": "2026-08-02",
+    "datetime": "2026-08-02T00:00:00+00:00",
+    "country": "Nizozemska",
+    "city": "Amsterdam",
+    "venue": "Stedelijk Museum Amsterdam",
+    "institution": "Stedelijk Museum Amsterdam",
+    "type": "muzej / izložbe",
+    "source": "Stedelijk Museum Amsterdam",
+    "url": "https://www.stedelijk.nl/en/exhibitions/danh-vo-2",
+    "description": "",
+    "image": null,
+    "program_link_only": false,
+    "fetched_at": "2026-05-25T12:45:29.174276+00:00"
+  },
+  {
+    "id": "14995412ab07d9b9",
+    "title": "Marc Chagall Mid May until end of August 2027",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20T00:00:00+00:00",
+    "country": "Nizozemska",
+    "city": "Amsterdam",
+    "venue": "Stedelijk Museum Amsterdam",
+    "institution": "Stedelijk Museum Amsterdam",
+    "type": "muzej / izložbe",
+    "source": "Stedelijk Museum Amsterdam",
+    "url": "https://www.stedelijk.nl/en/exhibitions/marc-chagall-en",
+    "description": "",
+    "image": null,
+    "program_link_only": false,
+    "fetched_at": "2026-05-25T12:45:29.175093+00:00"
+  },
+  {
+    "id": "c754dbdd0eb1af7f",
+    "title": "Yayoi Kusama till",
+    "date": "2026-09-11",
+    "datetime": "2026-09-11T00:00:00+00:00",
+    "country": "Nizozemska",
+    "city": "Amsterdam",
+    "venue": "Stedelijk Museum Amsterdam",
+    "institution": "Stedelijk Museum Amsterdam",
+    "type": "muzej / izložbe",
+    "source": "Stedelijk Museum Amsterdam",
+    "url": "https://www.stedelijk.nl/en/exhibitions/yayoi-kusama-en",
+    "description": "",
+    "image": null,
+    "program_link_only": false,
+    "fetched_at": "2026-05-25T12:45:29.174861+00:00"
+  },
+  {
+    "id": "c2adbe3e4e8348e7",
+    "title": "Adam Pendleton until",
+    "date": "2026-10-09",
+    "datetime": "2026-10-09T00:00:00+00:00",
+    "country": "Nizozemska",
+    "city": "Amsterdam",
+    "venue": "Stedelijk Museum Amsterdam",
+    "institution": "Stedelijk Museum Amsterdam",
+    "type": "muzej / izložbe",
+    "source": "Stedelijk Museum Amsterdam",
+    "url": "https://www.stedelijk.nl/en/exhibitions/adam-pendleton-en",
+    "description": "",
+    "image": null,
+    "program_link_only": false,
+    "fetched_at": "2026-05-25T12:45:29.174926+00:00"
+  },
+  {
+    "id": "b5281214e3a2c430",
+    "title": "Kho Liang Ie Mid-Century Modernist till",
+    "date": "2026-10-18",
+    "datetime": "2026-10-18T00:00:00+00:00",
+    "country": "Nizozemska",
+    "city": "Amsterdam",
+    "venue": "Stedelijk Museum Amsterdam",
+    "institution": "Stedelijk Museum Amsterdam",
+    "type": "muzej / izložbe",
+    "source": "Stedelijk Museum Amsterdam",
+    "url": "https://www.stedelijk.nl/en/exhibitions/kho-liang-ie-2",
+    "description": "",
+    "image": null,
+    "program_link_only": false,
+    "fetched_at": "2026-05-25T12:45:29.174054+00:00"
+  },
+  {
+    "id": "11d157bab48eeb59",
+    "title": "Collaborative Artistic Practices - Proposals for the Museum Collection till",
+    "date": "2026-11-28",
+    "datetime": "2026-11-28T00:00:00+00:00",
+    "country": "Nizozemska",
+    "city": "Amsterdam",
+    "venue": "Stedelijk Museum Amsterdam",
+    "institution": "Stedelijk Museum Amsterdam",
+    "type": "muzej / izložbe",
+    "source": "Stedelijk Museum Amsterdam",
+    "url": "https://www.stedelijk.nl/en/exhibitions/collaborative-artistic-practices-proposals-museum-collection",
+    "description": "",
+    "image": null,
+    "program_link_only": false,
+    "fetched_at": "2026-05-25T12:45:29.175015+00:00"
   },
   {
     "id": "b28efcd9319ca1a8",
     "title": "Program: Berliner Ensemble",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:48.358473+00:00",
+    "datetime": "2026-05-25T12:45:04.698529+00:00",
     "country": "Njemačka",
     "city": "Berlin",
     "venue": "Berliner Ensemble",
@@ -1799,13 +1935,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:48.358538+00:00"
+    "fetched_at": "2026-05-25T12:45:04.698598+00:00"
   },
   {
     "id": "bd9d2e8ef3e7e26e",
     "title": "Program: Schaubühne Berlin",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:45.000516+00:00",
+    "datetime": "2026-05-25T12:44:59.343568+00:00",
     "country": "Njemačka",
     "city": "Berlin",
     "venue": "Schaubühne Berlin",
@@ -1816,13 +1952,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:45.000564+00:00"
+    "fetched_at": "2026-05-25T12:44:59.343611+00:00"
   },
   {
     "id": "f9bb567b3d555429",
     "title": "Program: Gropius Bau",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:17:08.205895+00:00",
+    "datetime": "2026-05-25T12:45:31.121359+00:00",
     "country": "Njemačka",
     "city": "Berlin",
     "venue": "Gropius Bau",
@@ -1833,13 +1969,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:17:08.205985+00:00"
+    "fetched_at": "2026-05-25T12:45:31.121424+00:00"
   },
   {
     "id": "c36f69ac8d4afc37",
     "title": "Program: Deutsche Oper Berlin",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:49.552078+00:00",
+    "datetime": "2026-05-25T12:45:05.933796+00:00",
     "country": "Njemačka",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
@@ -1850,13 +1986,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:49.552127+00:00"
+    "fetched_at": "2026-05-25T12:45:05.933838+00:00"
   },
   {
     "id": "852037e747deadff",
     "title": "Program: Bayerische Staatsoper",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:49.873049+00:00",
+    "datetime": "2026-05-25T12:45:06.257699+00:00",
     "country": "Njemačka",
     "city": "München",
     "venue": "Bayerische Staatsoper",
@@ -1867,13 +2003,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:49.873109+00:00"
+    "fetched_at": "2026-05-25T12:45:06.257752+00:00"
   },
   {
     "id": "736677a4fb926d10",
     "title": "Program: Broadway.com",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:33.029052+00:00",
+    "datetime": "2026-05-25T12:44:46.868267+00:00",
     "country": "SAD",
     "city": "New York",
     "venue": "Broadway.com",
@@ -1884,13 +2020,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:33.029102+00:00"
+    "fetched_at": "2026-05-25T12:44:46.868314+00:00"
   },
   {
     "id": "8a0938b55cf31d59",
     "title": "Program: Playbill / Broadway",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:32.773658+00:00",
+    "datetime": "2026-05-25T12:44:46.648952+00:00",
     "country": "SAD",
     "city": "New York",
     "venue": "Playbill / Broadway",
@@ -1901,13 +2037,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:32.773702+00:00"
+    "fetched_at": "2026-05-25T12:44:46.649053+00:00"
   },
   {
     "id": "399aa18deac47148",
     "title": "Program: The Public Theater",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:33.787611+00:00",
+    "datetime": "2026-05-25T12:44:47.789320+00:00",
     "country": "SAD",
     "city": "New York",
     "venue": "The Public Theater",
@@ -1918,13 +2054,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:33.787652+00:00"
+    "fetched_at": "2026-05-25T12:44:47.789387+00:00"
   },
   {
     "id": "f5c8ca1d06d816ad",
     "title": "Program: Solomon R. Guggenheim Museum",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:55.637511+00:00",
+    "datetime": "2026-05-25T12:45:13.792012+00:00",
     "country": "SAD",
     "city": "New York",
     "venue": "Solomon R. Guggenheim Museum",
@@ -1935,13 +2071,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:55.637546+00:00"
+    "fetched_at": "2026-05-25T12:45:13.792047+00:00"
   },
   {
     "id": "5d80961b07db47d7",
     "title": "Program: The Metropolitan Museum of Art",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:55.409463+00:00",
+    "datetime": "2026-05-25T12:45:13.680125+00:00",
     "country": "SAD",
     "city": "New York",
     "venue": "The Metropolitan Museum of Art",
@@ -1952,13 +2088,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:55.409518+00:00"
+    "fetched_at": "2026-05-25T12:45:13.680217+00:00"
   },
   {
     "id": "508845383f2140f7",
     "title": "Program: The Museum of Modern Art / MoMA",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:55.341902+00:00",
+    "datetime": "2026-05-25T12:45:13.577941+00:00",
     "country": "SAD",
     "city": "New York",
     "venue": "The Museum of Modern Art / MoMA",
@@ -1969,7 +2105,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:55.341971+00:00"
+    "fetched_at": "2026-05-25T12:45:13.577999+00:00"
   },
   {
     "id": "0707b7bacf24e32a",
@@ -1986,7 +2122,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:55.942001+00:00"
+    "fetched_at": "2026-05-25T12:45:14.111330+00:00"
   },
   {
     "id": "edb53e7f3dd7bed2",
@@ -2003,7 +2139,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:55.942069+00:00"
+    "fetched_at": "2026-05-25T12:45:14.111409+00:00"
   },
   {
     "id": "e4e538e705a1ada1",
@@ -2020,7 +2156,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:55.942347+00:00"
+    "fetched_at": "2026-05-25T12:45:14.111704+00:00"
   },
   {
     "id": "bd418e92ca157d0e",
@@ -2037,13 +2173,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:55.941901+00:00"
+    "fetched_at": "2026-05-25T12:45:14.111236+00:00"
   },
   {
     "id": "de2e78ba7ba901c9",
     "title": "Program: The Metropolitan Opera",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:33.334730+00:00",
+    "datetime": "2026-05-25T12:44:47.273681+00:00",
     "country": "SAD",
     "city": "New York",
     "venue": "The Metropolitan Opera",
@@ -2054,13 +2190,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:33.334993+00:00"
+    "fetched_at": "2026-05-25T12:44:47.273965+00:00"
   },
   {
     "id": "0986ed6d88495ee9",
     "title": "Program: Lincoln Center",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:33.744908+00:00",
+    "datetime": "2026-05-25T12:44:47.716949+00:00",
     "country": "SAD",
     "city": "New York",
     "venue": "Lincoln Center",
@@ -2071,13 +2207,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:33.744971+00:00"
+    "fetched_at": "2026-05-25T12:44:47.716999+00:00"
   },
   {
     "id": "7b0a72e73a223663",
     "title": "Program: Royal Academy of Arts",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:17:00.972707+00:00",
+    "datetime": "2026-05-25T12:45:22.209434+00:00",
     "country": "Ujedinjeno Kraljevstvo",
     "city": "London",
     "venue": "Royal Academy of Arts",
@@ -2088,7 +2224,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:17:00.972753+00:00"
+    "fetched_at": "2026-05-25T12:45:22.209479+00:00"
   },
   {
     "id": "41f10911b4400c5e",
@@ -2105,7 +2241,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.664909+00:00"
+    "fetched_at": "2026-05-25T12:45:21.769199+00:00"
   },
   {
     "id": "d2fbb3bfa4bb2f5f",
@@ -2122,7 +2258,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.665039+00:00"
+    "fetched_at": "2026-05-25T12:45:21.769326+00:00"
   },
   {
     "id": "946dac4b1ba30f51",
@@ -2139,7 +2275,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.665158+00:00"
+    "fetched_at": "2026-05-25T12:45:21.769451+00:00"
   },
   {
     "id": "8facae6365134a51",
@@ -2156,7 +2292,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.665259+00:00"
+    "fetched_at": "2026-05-25T12:45:21.769559+00:00"
   },
   {
     "id": "68d4cfe3c674c2c8",
@@ -2173,7 +2309,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.665387+00:00"
+    "fetched_at": "2026-05-25T12:45:21.769688+00:00"
   },
   {
     "id": "2475accb68f7daad",
@@ -2190,7 +2326,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.665602+00:00"
+    "fetched_at": "2026-05-25T12:45:21.769916+00:00"
   },
   {
     "id": "ae3d42842963de69",
@@ -2207,13 +2343,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.665485+00:00"
+    "fetched_at": "2026-05-25T12:45:21.769790+00:00"
   },
   {
     "id": "37aa4f12b138a05c",
     "title": "Program: Barbican",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:32.376211+00:00",
+    "datetime": "2026-05-25T12:44:30.561438+00:00",
     "country": "Ujedinjeno Kraljevstvo",
     "city": "London",
     "venue": "Barbican",
@@ -2224,13 +2360,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:32.376256+00:00"
+    "fetched_at": "2026-05-25T12:44:30.561486+00:00"
   },
   {
     "id": "834163a1ed1142ca",
     "title": "Program: National Theatre",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:24.866976+00:00",
+    "datetime": "2026-05-25T12:44:27.473155+00:00",
     "country": "Ujedinjeno Kraljevstvo",
     "city": "London",
     "venue": "National Theatre",
@@ -2241,7 +2377,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:24.867030+00:00"
+    "fetched_at": "2026-05-25T12:44:27.473232+00:00"
   },
   {
     "id": "a6ea42555ce3d793",
@@ -2258,7 +2394,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:26.616783+00:00"
+    "fetched_at": "2026-05-25T12:44:29.726880+00:00"
   },
   {
     "id": "07f21db7b74d681e",
@@ -2275,7 +2411,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:26.617248+00:00"
+    "fetched_at": "2026-05-25T12:44:29.727394+00:00"
   },
   {
     "id": "199b8f339b78ddbd",
@@ -2292,7 +2428,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:26.615125+00:00"
+    "fetched_at": "2026-05-25T12:44:29.725079+00:00"
   },
   {
     "id": "f7a82c447dd839a6",
@@ -2309,7 +2445,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:26.615848+00:00"
+    "fetched_at": "2026-05-25T12:44:29.725876+00:00"
   },
   {
     "id": "b428696f327426ff",
@@ -2326,13 +2462,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:26.617108+00:00"
+    "fetched_at": "2026-05-25T12:44:29.727238+00:00"
   },
   {
     "id": "d50f5b682e4c0f63",
     "title": "Program: Royal Court Theatre",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:24.990985+00:00",
+    "datetime": "2026-05-25T12:44:27.554923+00:00",
     "country": "Ujedinjeno Kraljevstvo",
     "city": "London",
     "venue": "Royal Court Theatre",
@@ -2343,7 +2479,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:24.991040+00:00"
+    "fetched_at": "2026-05-25T12:44:27.554976+00:00"
   },
   {
     "id": "5b549f6e1fac4312",
@@ -2360,7 +2496,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:31.918488+00:00"
+    "fetched_at": "2026-05-25T12:44:30.343408+00:00"
   },
   {
     "id": "bffad624754f62b3",
@@ -2377,7 +2513,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:31.918548+00:00"
+    "fetched_at": "2026-05-25T12:44:30.343479+00:00"
   },
   {
     "id": "3c5308ce9ffab1d4",
@@ -2394,13 +2530,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:16:31.918415+00:00"
+    "fetched_at": "2026-05-25T12:44:30.343325+00:00"
   },
   {
     "id": "b913b90bce5cc9c2",
     "title": "Program: The Old Vic",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:25.605525+00:00",
+    "datetime": "2026-05-25T12:44:28.231300+00:00",
     "country": "Ujedinjeno Kraljevstvo",
     "city": "London",
     "venue": "The Old Vic",
@@ -2411,13 +2547,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:25.605590+00:00"
+    "fetched_at": "2026-05-25T12:44:28.231373+00:00"
   },
   {
     "id": "44197ebedc0c7881",
     "title": "Program: Young Vic",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:25.992723+00:00",
+    "datetime": "2026-05-25T12:44:28.780079+00:00",
     "country": "Ujedinjeno Kraljevstvo",
     "city": "London",
     "venue": "Young Vic",
@@ -2428,7 +2564,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:25.992767+00:00"
+    "fetched_at": "2026-05-25T12:44:28.780122+00:00"
   },
   {
     "id": "bce9fb3dddba52f4",
@@ -2445,7 +2581,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.162015+00:00"
+    "fetched_at": "2026-05-25T12:45:21.131672+00:00"
   },
   {
     "id": "0aca361bfed459af",
@@ -2462,7 +2598,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.162136+00:00"
+    "fetched_at": "2026-05-25T12:45:21.131793+00:00"
   },
   {
     "id": "243cb36ca9abc567",
@@ -2479,7 +2615,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.162242+00:00"
+    "fetched_at": "2026-05-25T12:45:21.131905+00:00"
   },
   {
     "id": "316d8d27d008f897",
@@ -2496,7 +2632,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.161600+00:00"
+    "fetched_at": "2026-05-25T12:45:21.131259+00:00"
   },
   {
     "id": "3dd2d59bc21ca01f",
@@ -2513,7 +2649,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.163129+00:00"
+    "fetched_at": "2026-05-25T12:45:21.132890+00:00"
   },
   {
     "id": "6efcdfcf2ec5b8c2",
@@ -2530,7 +2666,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.161855+00:00"
+    "fetched_at": "2026-05-25T12:45:21.131529+00:00"
   },
   {
     "id": "b2681b50f35ab816",
@@ -2547,7 +2683,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.161675+00:00"
+    "fetched_at": "2026-05-25T12:45:21.131344+00:00"
   },
   {
     "id": "7d5b08ea9abacb9f",
@@ -2564,7 +2700,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.163230+00:00"
+    "fetched_at": "2026-05-25T12:45:21.132997+00:00"
   },
   {
     "id": "eeac191dfa8e2973",
@@ -2581,7 +2717,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.162380+00:00"
+    "fetched_at": "2026-05-25T12:45:21.132045+00:00"
   },
   {
     "id": "cbf84c2045be9684",
@@ -2598,7 +2734,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.163007+00:00"
+    "fetched_at": "2026-05-25T12:45:21.132764+00:00"
   },
   {
     "id": "555a59a533791635",
@@ -2615,7 +2751,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.162477+00:00"
+    "fetched_at": "2026-05-25T12:45:21.132147+00:00"
   },
   {
     "id": "dc0f1cd0ffed65d9",
@@ -2632,7 +2768,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.162737+00:00"
+    "fetched_at": "2026-05-25T12:45:21.132477+00:00"
   },
   {
     "id": "6dd3b4f5720189a9",
@@ -2649,7 +2785,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.162560+00:00"
+    "fetched_at": "2026-05-25T12:45:21.132277+00:00"
   },
   {
     "id": "7606351db4e7a4ec",
@@ -2666,7 +2802,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.162828+00:00"
+    "fetched_at": "2026-05-25T12:45:21.132575+00:00"
   },
   {
     "id": "875b7bfdd04ba706",
@@ -2683,7 +2819,7 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.162647+00:00"
+    "fetched_at": "2026-05-25T12:45:21.132379+00:00"
   },
   {
     "id": "0922dec3b0831f14",
@@ -2700,13 +2836,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:00.162907+00:00"
+    "fetched_at": "2026-05-25T12:45:21.132664+00:00"
   },
   {
     "id": "509afabfc11eed87",
     "title": "Program: The British Museum",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:17:00.719601+00:00",
+    "datetime": "2026-05-25T12:45:21.827684+00:00",
     "country": "Ujedinjeno Kraljevstvo",
     "city": "London",
     "venue": "The British Museum",
@@ -2717,13 +2853,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:17:00.719653+00:00"
+    "fetched_at": "2026-05-25T12:45:21.827740+00:00"
   },
   {
     "id": "325183e25b1c1994",
     "title": "Program: Royal Opera House",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:27.780793+00:00",
+    "datetime": "2026-05-25T12:44:30.221913+00:00",
     "country": "Ujedinjeno Kraljevstvo",
     "city": "London",
     "venue": "Royal Opera House",
@@ -2734,13 +2870,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:27.780835+00:00"
+    "fetched_at": "2026-05-25T12:44:30.221952+00:00"
   },
   {
     "id": "8758e582702312f9",
     "title": "Program: Gran Teatre del Liceu",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:53.659479+00:00",
+    "datetime": "2026-05-25T12:45:10.269855+00:00",
     "country": "Španjolska",
     "city": "Barcelona",
     "venue": "Gran Teatre del Liceu",
@@ -2751,13 +2887,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:53.659537+00:00"
+    "fetched_at": "2026-05-25T12:45:10.269915+00:00"
   },
   {
     "id": "54023c13b73f6073",
     "title": "Program: Museo Nacional del Prado",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:17:03.613468+00:00",
+    "datetime": "2026-05-25T12:45:26.036333+00:00",
     "country": "Španjolska",
     "city": "Madrid",
     "venue": "Museo Nacional del Prado",
@@ -2768,7 +2904,7 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:17:03.613515+00:00"
+    "fetched_at": "2026-05-25T12:45:26.036386+00:00"
   },
   {
     "id": "e20083687471bb1b",
@@ -2785,13 +2921,13 @@
     "description": "",
     "image": null,
     "program_link_only": false,
-    "fetched_at": "2026-05-25T12:17:04.437381+00:00"
+    "fetched_at": "2026-05-25T12:45:27.178203+00:00"
   },
   {
     "id": "bc507e5fd9c67822",
     "title": "Program: Teatro Real",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:16:53.145622+00:00",
+    "datetime": "2026-05-25T12:45:09.839156+00:00",
     "country": "Španjolska",
     "city": "Madrid",
     "venue": "Teatro Real",
@@ -2802,13 +2938,13 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:16:53.145685+00:00"
+    "fetched_at": "2026-05-25T12:45:09.839251+00:00"
   },
   {
     "id": "870adf099db110cc",
     "title": "Program: Fondation Beyeler",
     "date": "2026-05-25",
-    "datetime": "2026-05-25T12:17:08.908154+00:00",
+    "datetime": "2026-05-25T12:45:31.959237+00:00",
     "country": "Švicarska",
     "city": "Basel",
     "venue": "Fondation Beyeler",
@@ -2819,6 +2955,6 @@
     "description": "",
     "image": null,
     "program_link_only": true,
-    "fetched_at": "2026-05-25T12:17:08.908197+00:00"
+    "fetched_at": "2026-05-25T12:45:31.959276+00:00"
   }
 ]

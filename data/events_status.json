@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-25T12:17:13.454404+00:00",
+  "updated_at": "2026-05-25T12:45:36.351306+00:00",
   "sources": 69,
-  "ok_sources": 13,
-  "events_count": 166,
+  "ok_sources": 14,
+  "events_count": 174,
   "results": [
     {
       "id": "infozagreb-events",
@@ -41,8 +41,9 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "kazalište",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "zekaem",
@@ -51,8 +52,9 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "kazalište",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "gavella",
@@ -72,8 +74,9 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "kazalište / mjuzikl",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "<urlopen error _ssl.c:999: The handshake operation timed out>"
     },
     {
       "id": "teatar-exit",
@@ -103,8 +106,9 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "kazalište za djecu",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "msu",
@@ -268,8 +272,9 @@
       "country": "SAD",
       "city": "New York",
       "type": "kazalište / Broadway / premijere",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "The read operation timed out"
     },
     {
       "id": "broadway-com",
@@ -654,8 +659,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "program_link_only",
-      "count": 1
+      "status": "ok",
+      "count": 9
     },
     {
       "id": "uffizi",
