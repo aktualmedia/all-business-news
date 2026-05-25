@@ -34,12 +34,23 @@
   }
   function init() {
     if (document.getElementById('webAiToggle')) return;
-    const toggle = document.createElement('button'); toggle.id = 'webAiToggle'; toggle.className = 'wv-assistant-toggle'; toggle.type = 'button'; toggle.innerHTML = '<i>AI</i><span>WEB AI</span>';
-    const panel = document.createElement('aside'); panel.className = 'wv-assistant-panel'; panel.innerHTML = '<header class="wv-ai-head"><div><strong>WEB AI VODIČ</strong><span>Pretražite sadržaj portala</span></div><button class="wv-ai-close" type="button">×</button></header><div class="wv-ai-messages"><div class="wv-ai-message bot">Upišite temu: financije, kultura, Symbol, tehnologija ili događanja.</div></div><div class="wv-ai-suggest"><button>financije</button><button>kultura</button><button>Symbol</button><button>tehnologija</button><button>događanja</button></div><form class="wv-ai-form"><input type="search" placeholder="Pretražite portal..."><button type="submit">TRAŽI</button></form><div class="wv-ai-note">WEB AI vodič pretražuje javni sadržaj ovog portala.</div>';
+    const toggle = document.createElement('button');
+    toggle.id = 'webAiToggle'; toggle.className = 'wv-assistant-toggle'; toggle.type = 'button'; toggle.innerHTML = '<i>AI</i><span>WEB AI</span>'; toggle.setAttribute('aria-label','Otvori WEB AI vodič');
+    const panel = document.createElement('aside');
+    panel.className = 'wv-assistant-panel';
+    panel.innerHTML = '<header class="wv-ai-head"><div><strong>WEB AI VODIČ</strong><span>Pretražite sadržaj portala</span></div><button class="wv-ai-close" type="button" aria-label="Zatvori">×</button></header><div class="wv-ai-messages"><div class="wv-ai-message bot">Upišite temu: financije, kultura, Symbol, tehnologija ili događanja.</div></div><div class="wv-ai-suggest"><button type="button">financije</button><button type="button">kultura</button><button type="button">Symbol</button><button type="button">tehnologija</button><button type="button">događanja</button></div><form class="wv-ai-form"><input type="search" placeholder="Pretražite portal..." aria-label="Pretražite sadržaj"><button type="submit">TRAŽI</button></form><div class="wv-ai-note">WEB AI vodič pretražuje javni sadržaj ovog portala.</div>';
     document.body.append(toggle, panel);
+    const openPanel = () => { panel.classList.add('open'); panel.querySelector('input').focus(); };
     const messages = panel.querySelector('.wv-ai-messages'), input = panel.querySelector('input');
-    toggle.onclick = () => { panel.classList.toggle('open'); if (panel.classList.contains('open')) input.focus(); };
+    toggle.onclick = () => { panel.classList.contains('open') ? panel.classList.remove('open') : openPanel(); };
     panel.querySelector('.wv-ai-close').onclick = () => panel.classList.remove('open');
+    const mobileNav = document.querySelector('.mobile-bottom-nav');
+    if (mobileNav && !mobileNav.querySelector('.wv-bottom-ai')) {
+      const aiTab = document.createElement('button');
+      aiTab.className = 'wv-bottom-ai'; aiTab.type = 'button'; aiTab.innerHTML = '<span>AI</span><b>AI</b>'; aiTab.setAttribute('aria-label','Otvori WEB AI vodič');
+      aiTab.onclick = openPanel;
+      mobileNav.appendChild(aiTab);
+    }
     async function run(value) {
       if (!value.trim()) return;
       messages.insertAdjacentHTML('beforeend', '<div class="wv-ai-message user">' + esc(value) + '</div>');
