@@ -1,0 +1,26 @@
+{
+  "updated_at": "2026-05-25T12:50:19.096704+00:00",
+  "status": "radi",
+  "active_news": 2000,
+  "active_limit": 2000,
+  "archive_news": 5924,
+  "archive_limit": 12000,
+  "gallery_count": 500,
+  "gallery_limit": 500,
+  "sources": 236,
+  "ok_sources": 166,
+  "events_count": 166,
+  "video_categories": 14,
+  "module_updates": {
+    "vijesti": "2026-05-25T12:17:13.491390+00:00",
+    "galerija": "2026-05-25T10:03:42.538917+00:00",
+    "dogadjanja": "2026-05-25T12:50:19.064331+00:00",
+    "video": "2026-05-25T12:42:07.313116+00:00"
+  },
+  "checks": [
+    "Vijesti su generirane u aktivnom limitu od 2000 stavki.",
+    "Galerija sadrži 500 stvarnih fotografija bez nasumičnih placeholder zamjena.",
+    "Događanja su ponovno osvježena i sinkronizirana s naslovnicom.",
+    "Video modul je ponovno osvježen i postavljen na ciklus svaka 4 sata."
+  ]
+}
