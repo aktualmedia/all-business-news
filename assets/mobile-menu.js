@@ -15,6 +15,8 @@ document.addEventListener('DOMContentLoaded',function(){
     app.textContent='APP';
     nav.appendChild(app);
   }
+  if(header.dataset.mobileMenuBound==='1')return;
+  header.dataset.mobileMenuBound='1';
   var button=header.querySelector('.mobile-menu-button');
   if(!button){
     button=document.createElement('button');
@@ -25,8 +27,13 @@ document.addEventListener('DOMContentLoaded',function(){
     button.setAttribute('aria-expanded','false');
     header.insertBefore(button,nav);
   }
-  function closeMenu(){nav.classList.remove('open');button.setAttribute('aria-expanded','false');button.textContent='☰ IZBORNIK';}
-  button.addEventListener('click',function(){
+  function closeMenu(){
+    nav.classList.remove('open');
+    button.setAttribute('aria-expanded','false');
+    button.textContent='☰ IZBORNIK';
+  }
+  button.addEventListener('click',function(event){
+    event.stopPropagation();
     var open=!nav.classList.contains('open');
     nav.classList.toggle('open',open);
     button.setAttribute('aria-expanded',open?'true':'false');
