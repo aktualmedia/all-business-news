@@ -26,6 +26,7 @@ concurrency:
 
 jobs:
   update-videos:
+    name: Osvjezi video i status naslovnice
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
@@ -40,12 +41,13 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Azuriraj YouTube video preview
+      - name: Azuriraj video i status naslovnice
         shell: bash
         run: |
           set -euo pipefail
           echo "START VIDEO UPDATE: $(date -u)"
           python update_videos.py
+          python generate_home_data.py
           echo "END VIDEO UPDATE: $(date -u)"
 
       - name: Spremi video promjene
@@ -54,11 +56,11 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/videos.json data/home_videos.json data/video_status.json
+          git add data/videos.json data/home_videos.json data/video_status.json data/home_status.json data/source_quality.json data/home_news.json data/home_events.json data/home_symbol.json
           if git diff --cached --quiet; then
             echo "Nema video promjena za commit."
             exit 0
           fi
-          git commit -m "Automatsko azuriranje YouTube video previewa"
+          git commit -m "Automatsko azuriranje video modula i statusa"
           git pull --rebase origin main
           git push origin HEAD:main
