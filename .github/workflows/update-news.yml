@@ -73,6 +73,7 @@ jobs:
           python generate_home_data.py
           python generate_seo.py
           python portal_check.py
+          python generate_home_data.py
           echo "END VIJESTI: $(date -u)"
 
       - name: Spremi samo potvrdene podatke
