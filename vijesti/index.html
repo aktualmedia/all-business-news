@@ -7,28 +7,29 @@
   <meta http-equiv="Pragma" content="no-cache">
   <meta http-equiv="Expires" content="0">
   <title>VIJESTI | WEB VIJESTI</title>
-  <meta name="description" content="WEB VIJESTI / ALL BUSINESS NEWS">
+  <meta name="description" content="Najnovije poslovne, financijske, kulturne, tehnološke i lifestyle vijesti portala WEB VIJESTI.">
   <link rel="stylesheet" href="../assets/style.css">
-  <link rel="stylesheet" href="../assets/mobile-menu.css?v=2">
+  <link rel="stylesheet" href="../assets/mobile-menu.css?v=3">
+  <link rel="stylesheet" href="../assets/portal-shell.css?v=20260525-01">
   <script>window.WV_PAGE="news"; window.WV_CATEGORY="";</script>
 </head>
 <body data-page="news" data-category="">
 <header class="site-header">
   <a class="brand" href="../index.html"><span class="brand-mark">WV</span><span><strong>WEB VIJESTI</strong><small>AKTUAL MEDIA D.O.O.</small></span></a>
   <nav class="top-nav" aria-label="GLAVNI IZBORNIK">
-    <a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../objave/index.html">OBJAVE</a><a href="../poslovanje/index.html">POSLOVANJE</a><a href="../ekonomija/index.html">EKONOMIJA</a><a href="../financije/index.html">FINANCIJE</a><a href="../tehnologija/index.html">TEHNOLOGIJA</a><a href="../kultura/index.html">KULTURA</a><a href="../galerija/index.html">GALERIJA</a><a href="../symbol/index.html">SYMBOL</a><a href="../radio/index.html">RADIO</a><a href="../izvori/index.html">IZVORI</a><a href="../status/index.html">STATUS</a><a href="../admin/index.html">ADMIN</a>
+    <a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../objave/index.html">OBJAVE</a><a href="../poslovanje/index.html">POSLOVANJE</a><a href="../ekonomija/index.html">EKONOMIJA</a><a href="../financije/index.html">FINANCIJE</a><a href="../tehnologija/index.html">TEHNOLOGIJA</a><a href="../kultura/index.html">KULTURA</a><a href="../galerija-real/index.html">GALERIJA</a><a href="../symbol/index.html">SYMBOL</a><a href="../radio/index.html">RADIO</a><a href="../izvori/index.html">IZVORI</a><a href="../status/index.html">STATUS</a>
   </nav>
-  <div class="lang-bar"><span>JEZICI</span><a href="https://aktualmedia.github.io/all-business-news/">HR</a><a href="https://translate.google.com/translate?sl=auto&tl=en&u=https://aktualmedia.github.io/all-business-news/">EN</a><a href="https://translate.google.com/translate?sl=auto&tl=de&u=https://aktualmedia.github.io/all-business-news/">DE</a><a href="https://translate.google.com/translate?sl=auto&tl=it&u=https://aktualmedia.github.io/all-business-news/">IT</a><a href="https://translate.google.com/translate?sl=auto&tl=fr&u=https://aktualmedia.github.io/all-business-news/">FR</a><a href="https://translate.google.com/translate?sl=auto&tl=es&u=https://aktualmedia.github.io/all-business-news/">ES</a><a href="https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://aktualmedia.github.io/all-business-news/">中文</a><a href="https://translate.google.com/translate?sl=auto&tl=ar&u=https://aktualmedia.github.io/all-business-news/">AR</a></div>
+  <div class="lang-bar"><span>JEZICI</span><a href="https://aktualmedia.github.io/all-business-news/">HR</a><a href="https://translate.google.com/translate?sl=auto&tl=en&u=https://aktualmedia.github.io/all-business-news/vijesti/">EN</a><a href="https://translate.google.com/translate?sl=auto&tl=de&u=https://aktualmedia.github.io/all-business-news/vijesti/">DE</a><a href="https://translate.google.com/translate?sl=auto&tl=it&u=https://aktualmedia.github.io/all-business-news/vijesti/">IT</a></div>
 </header>
 <main class="page-shell">
-<a class="home-button" href="../index.html">HOME – POVRATAK</a><section class="hero compact"><p class="eyebrow">WEB VIJESTI</p><h1>VIJESTI</h1><p class="lead">PREGLED SVIH VIJESTI S FOTOGRAFIJOM. Prikaz sada rotira izvore i izbjegava ponavljanje istih fotografija.</p></section><section class="control-panel"><div class="control-row"><input id="searchInput" type="search" placeholder="PRETRAŽI VIJESTI..."><select id="categorySelect"><option value="">SVE RUBRIKE</option><option value="poslovanje">POSLOVANJE</option><option value="ekonomija">EKONOMIJA</option><option value="financije">FINANCIJE</option><option value="trzista">TRŽIŠTA</option><option value="kultura">KULTURA</option><option value="dizajn">DIZAJN</option><option value="tehnologija">TEHNOLOGIJA</option><option value="znanost">ZNANOST</option><option value="lifestyle">LIFESTYLE</option><option value="hedonizam">HEDONIZAM</option><option value="satovi">SATOVI</option><option value="nakit">NAKIT</option><option value="pica">PIĆA</option></select></div><div id="quickCategories" class="chips"></div></section><div id="newsGrid" class="news-grid"></div><div class="hero-actions"><button id="loadMore" class="button">UČITAJ JOŠ</button></div>
+<a class="home-button" href="../index.html">HOME – POVRATAK</a><section class="hero compact"><p class="eyebrow">WEB VIJESTI</p><h1>VIJESTI</h1><p class="lead">Pregled najnovijih vijesti prema odabranoj rubrici i izvoru.</p></section><section class="control-panel"><div class="control-row"><input id="searchInput" type="search" placeholder="PRETRAŽI VIJESTI..."><select id="categorySelect"><option value="">SVE RUBRIKE</option><option value="poslovanje">POSLOVANJE</option><option value="ekonomija">EKONOMIJA</option><option value="financije">FINANCIJE</option><option value="trzista">TRŽIŠTA</option><option value="kultura">KULTURA</option><option value="dizajn">DIZAJN</option><option value="tehnologija">TEHNOLOGIJA</option><option value="znanost">ZNANOST</option><option value="lifestyle">LIFESTYLE</option><option value="hedonizam">HEDONIZAM</option><option value="satovi">SATOVI</option><option value="nakit">NAKIT</option><option value="pica">PIĆA</option><option value="hrana">HRANA</option></select></div><div id="quickCategories" class="chips"></div></section><div id="newsGrid" class="news-grid"></div><div class="hero-actions"><button id="loadMore" class="button">UČITAJ JOŠ</button></div>
 </main>
 <nav class="mobile-bottom-nav" aria-label="BRZA MOBILNA NAVIGACIJA"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../objave/index.html">OBJAVE</a><a href="../symbol/index.html">SYMBOL</a></nav>
 <footer class="site-footer"><p><strong>WEB VIJESTI / ALL BUSINESS NEWS</strong> JE RSS/HTML AGREGATOR. AUTORSKA PRAVA NAD ČLANCIMA I FOTOGRAFIJAMA PRIPADAJU IZVORNIM IZDAVAČIMA.</p></footer>
-<script src="../assets/app.js?v=base" defer></script>
-<script src="../assets/news-smart-sorter.js?v=2" defer></script>
-<script src="../assets/cache-reset.js?v=2" defer></script>
-<script src="../assets/mobile-menu.js?v=2" defer></script>
+<script src="../assets/app.js?v=portal7" defer></script>
+<script src="../assets/news-smart-sorter.js?v=3" defer></script>
+<script src="../assets/mobile-menu.js?v=3" defer></script>
+<script src="../assets/web-ai.js?v=20260525-01" defer></script>
 <script src="../assets/global-radio.js" defer></script>
 </body>
 </html>
