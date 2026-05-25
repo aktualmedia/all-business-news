@@ -5,12 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>WEB APLIKACIJA | WEB VIJESTI</title>
   <meta name="description" content="Instalacija portala WEB VIJESTI kao aplikacije na početni zaslon mobitela.">
-  <link rel="manifest" href="../manifest.webmanifest?v=20260525-02">
+  <link rel="manifest" href="../manifest.webmanifest?v=20260525-03">
   <meta name="theme-color" content="#111111">
-  <link rel="icon" href="../assets/icons/web-vijesti-icon.svg?v=20260525-02" type="image/svg+xml">
-  <link rel="stylesheet" href="../assets/style.css?v=portal8">
-  <link rel="stylesheet" href="../assets/mobile-menu.css?v=portal8">
-  <link rel="stylesheet" href="../assets/portal-shell.css?v=20260525-02">
+  <link rel="icon" href="../assets/icons/web-vijesti-icon.svg?v=20260525-03" type="image/svg+xml">
+  <link rel="stylesheet" href="../assets/style.css?v=portal9">
+  <link rel="stylesheet" href="../assets/mobile-menu.css?v=portal9">
+  <link rel="stylesheet" href="../assets/portal-shell.css?v=20260525-03">
+  <link rel="stylesheet" href="../assets/floating-actions.css?v=20260525-03">
   <style>
     .install-intro{display:grid;grid-template-columns:148px minmax(0,1fr);gap:22px;align-items:center;margin:18px 0;padding:22px;background:linear-gradient(135deg,#0b0c10,#1b160f);border:1px solid #c8a44d;border-radius:26px;color:#fff}.install-icon{width:132px;height:132px;border-radius:29px;display:block;box-shadow:0 20px 42px rgba(0,0,0,.28)}.install-intro h2{margin:0 0 7px;color:#fff;font-size:1.55rem}.install-intro p{margin:0;color:#e8d8ae;line-height:1.55}.install-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0}.install-card{background:#fff;border:1px solid var(--line,#ded7c8);border-radius:24px;padding:20px;box-shadow:0 14px 34px rgba(17,17,17,.06)}.install-card h2{font-family:Georgia,'Times New Roman',serif;font-weight:500;margin:.1rem 0 .7rem}.install-card ol{padding-left:20px;line-height:1.65}.install-card li{margin:.35rem 0}.install-note{background:#fffaf0;border:1px solid #ead59a;border-radius:22px;padding:18px;margin:18px 0;color:#111}.install-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}.device-badge{display:inline-flex;border:1px solid var(--line,#ded7c8);border-radius:999px;padding:7px 10px;font-size:.72rem;font-weight:1000;text-transform:uppercase;color:#6b7280;background:#f8f7f2}@media(max-width:980px){.install-intro{grid-template-columns:94px 1fr;gap:14px;padding:15px;border-radius:18px}.install-icon{width:90px;height:90px;border-radius:20px}.install-intro h2{font-size:1.18rem}.install-grid{grid-template-columns:1fr}.install-card{padding:16px}.install-actions{display:grid;grid-template-columns:1fr}.install-actions .button{width:100%;justify-content:center}}@media(max-width:390px){.install-intro{grid-template-columns:1fr;text-align:center}.install-icon{margin:0 auto}}
   </style>
@@ -19,19 +20,20 @@
 <header class="site-header"><a class="brand" href="../index.html"><span class="brand-mark">WV</span><span><strong>WEB VIJESTI</strong><small>WEB APLIKACIJA</small></span></a><nav class="top-nav"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../objave/index.html">OBJAVE</a><a href="../symbol/index.html">SYMBOL</a><a href="../video/index.html">VIDEO</a><a href="../radio/index.html">RADIO</a><a href="../status/index.html">STATUS</a><a href="../app/index.html">APP</a></nav></header>
 <main class="page-shell">
   <a class="home-button" href="../index.html">HOME – POVRATAK</a>
-  <section class="hero compact"><p class="eyebrow">WEB VIJESTI · APP</p><h1>Postavi portal na početni zaslon</h1><p class="lead">WEB VIJESTI možete otvoriti kao mobilnu aplikaciju jednim dodirom, s novom jasnom oznakom portala.</p><div class="install-actions"><a class="button primary" href="../index.html">OTVORI PORTAL</a><a class="button" href="../status/index.html">PROVJERI STATUS</a></div></section>
-  <section class="install-intro"><img class="install-icon" src="../assets/icons/web-vijesti-icon.svg?v=20260525-02" alt="Ikona aplikacije WEB VIJESTI"><div><h2>Nova oznaka aplikacije</h2><p>Tamna premium oznaka sa zlatnim slovima <strong>WV</strong> prikazivat će se na početnom zaslonu nakon instalacije portala.</p></div></section>
+  <section class="hero compact"><p class="eyebrow">WEB VIJESTI · APP</p><h1>Postavi portal na početni zaslon</h1><p class="lead">WEB VIJESTI možete otvoriti kao mobilnu aplikaciju jednim dodirom, s novom jasnom oznakom portala.</p><div class="install-actions"><button class="button primary wv-install-cta" type="button" data-install-app aria-label="Instaliraj WEB VIJESTI na početni zaslon">INSTALIRAJ APLIKACIJU</button><a class="button" href="../index.html">OTVORI PORTAL</a><a class="button" href="../status/index.html">PROVJERI STATUS</a></div></section>
+  <section class="install-intro"><img class="install-icon" src="../assets/icons/web-vijesti-icon.svg?v=20260525-03" alt="Ikona aplikacije WEB VIJESTI"><div><h2>Nova oznaka aplikacije</h2><p>Tamna premium oznaka sa zlatnim slovima <strong>WV</strong> prikazivat će se na početnom zaslonu nakon instalacije portala.</p></div></section>
   <section class="install-grid">
-    <article class="install-card"><span class="device-badge">Android · Chrome</span><h2>Android mobitel</h2><ol><li>Otvorite portal u pregledniku <strong>Chrome</strong>.</li><li>Dodirnite izbornik s tri točkice.</li><li>Odaberite <strong>Dodaj na početni zaslon</strong> ili <strong>Instaliraj aplikaciju</strong>.</li><li>Potvrdite naziv <strong>WEB VIJESTI</strong>.</li><li>Pokrenite portal dodirom nove WV ikone.</li></ol></article>
-    <article class="install-card"><span class="device-badge">iPhone · Safari</span><h2>iPhone / iPad</h2><ol><li>Otvorite portal u pregledniku <strong>Safari</strong>.</li><li>Dodirnite ikonu <strong>Dijeli</strong>.</li><li>Odaberite <strong>Dodaj na početni zaslon</strong>.</li><li>Potvrdite naziv aplikacije.</li><li>Portal će se otvarati iz vlastite ikone.</li></ol></article>
-    <article class="install-card"><span class="device-badge">Desktop</span><h2>Računalo</h2><ol><li>Otvorite portal u Chromeu ili Edgeu.</li><li>U adresnoj traci odaberite ikonu instalacije.</li><li>Potvrdite instalaciju.</li><li>Portal se otvara u zasebnom prozoru poput aplikacije.</li></ol></article>
+    <article class="install-card"><span class="device-badge">Android · Chrome</span><h2>Android mobitel</h2><ol><li>Pritisnite gumb <strong>INSTALIRAJ APLIKACIJU</strong> iznad.</li><li>Ako se pojavi potvrda, odaberite <strong>Instaliraj</strong>.</li><li>Ako se ne pojavi, otvorite izbornik s tri točkice u Chromeu.</li><li>Odaberite <strong>Dodaj na početni zaslon</strong> ili <strong>Instaliraj aplikaciju</strong>.</li><li>Pokrenite portal dodirom nove WV ikone.</li></ol></article>
+    <article class="install-card"><span class="device-badge">iPhone · Safari</span><h2>iPhone / iPad</h2><ol><li>Pritisnite gumb <strong>INSTALIRAJ APLIKACIJU</strong> iznad za kratke upute.</li><li>Otvorite portal u pregledniku <strong>Safari</strong>.</li><li>Dodirnite ikonu <strong>Dijeli</strong>.</li><li>Odaberite <strong>Dodaj na početni zaslon</strong>.</li><li>Potvrdite naziv aplikacije.</li></ol></article>
+    <article class="install-card"><span class="device-badge">Desktop</span><h2>Računalo</h2><ol><li>Otvorite portal u Chromeu ili Edgeu.</li><li>Pritisnite <strong>INSTALIRAJ APLIKACIJU</strong> ili ikonu instalacije u adresnoj traci.</li><li>Potvrdite instalaciju.</li><li>Portal se otvara u zasebnom prozoru poput aplikacije.</li></ol></article>
   </section>
-  <section class="install-note"><strong>Status i ažuriranje:</strong> nakon promjene ikone već instalirana aplikacija ponekad zadrži staru oznaku. U tom slučaju uklonite staru ikonu s početnog zaslona i ponovno instalirajte portal.</section>
+  <section class="install-note"><strong>Nema opcije „Preuzmi”?</strong> To je normalno: WEB VIJESTI su web-aplikacija. Na iPhoneu se dodaju preko <strong>Dijeli → Dodaj na početni zaslon</strong>, a na Androidu preko gumba iznad ili izbornika preglednika. Nakon promjene ikone ranije instaliranu staru ikonu treba ukloniti i ponovno instalirati portal.</section>
 </main>
-<nav class="mobile-bottom-nav"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../symbol/index.html">SYMBOL</a><a href="../status/index.html">STATUS</a></nav>
+<nav class="mobile-bottom-nav"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../symbol/index.html">SYMBOL</a><a href="../app/index.html">APP</a></nav>
 <footer class="site-footer"><p><strong>WEB VIJESTI / ALL BUSINESS NEWS</strong> · WEB APLIKACIJA.</p></footer>
-<script src="../assets/mobile-menu.js?v=portal8" defer></script>
-<script src="../assets/web-ai.js?v=20260525-02" defer></script>
-<script>if('serviceWorker' in navigator){navigator.serviceWorker.register('../sw.js?v=20260525-02').catch(function(){});}</script>
+<script src="../assets/mobile-menu.js?v=portal9" defer></script>
+<script src="../assets/web-ai.js?v=20260525-03" defer></script>
+<script src="../assets/floating-actions.js?v=20260525-03" defer></script>
+<script>if('serviceWorker' in navigator){navigator.serviceWorker.register('../sw.js?v=20260525-03').catch(function(){});}</script>
 </body>
 </html>
