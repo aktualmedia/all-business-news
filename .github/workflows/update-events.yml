@@ -40,12 +40,13 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Azuriraj kalendar dogadjanja
+      - name: Azuriraj dogadjanja i status naslovnice
         shell: bash
         run: |
           set -euo pipefail
           echo "START EVENTS UPDATE: $(date -u)"
           python update_events.py
+          python generate_home_data.py
           echo "END EVENTS UPDATE: $(date -u)"
 
       - name: Spremi promjene dogadjanja
@@ -54,11 +55,11 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/events_calendar.json data/events_status.json
+          git add data/events_calendar.json data/events_status.json data/home_events.json data/home_status.json data/source_quality.json data/home_news.json data/home_symbol.json
           if git diff --cached --quiet; then
             echo "Nema promjena događanja za commit."
             exit 0
           fi
-          git commit -m "Automatsko azuriranje kalendara dogadjanja"
+          git commit -m "Automatsko azuriranje kalendara dogadjanja i statusa"
           git pull --rebase origin main
           git push origin HEAD:main
