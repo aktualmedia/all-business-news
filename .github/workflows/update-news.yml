@@ -32,26 +32,29 @@ permissions:
 env:
   TZ: Europe/Zagreb
   PYTHONUNBUFFERED: "1"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 concurrency:
-  group: update-vijesti-main
-  cancel-in-progress: true
+  group: portal-data-writes
+  cancel-in-progress: false
 
 jobs:
   update-news:
-    name: Osvjezi sadrzaj i potvrdi integritet
+    name: Osvjezi vijesti, galeriju i naslovnicu te potvrdi integritet
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 55
     steps:
       - name: Checkout repozitorija
         uses: actions/checkout@v4
         with:
           persist-credentials: true
           fetch-depth: 0
+
       - name: Postavi Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
       - name: Generiraj i provjeri portal
         shell: bash
         run: |
@@ -71,18 +74,18 @@ jobs:
           python generate_seo.py
           python portal_check.py
           echo "END VIJESTI: $(date -u)"
-      - name: Spremi potvrdene podatke
+
+      - name: Spremi samo potvrdene podatke
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data
-          git add sitemap.xml sitemap-news.xml sitemap-posts.xml sitemap-authors.xml sitemap-events.xml urllist.txt site.webmanifest llms.txt robots.txt
+          git add data sitemap.xml sitemap-news.xml sitemap-posts.xml sitemap-authors.xml sitemap-events.xml urllist.txt site.webmanifest llms.txt robots.txt
           if git diff --cached --quiet; then
-            echo "Nema novih podataka za spremanje."
+            echo "Nema promjena u podatcima."
             exit 0
           fi
           git commit -m "Automatsko satno azuriranje vijesti i provjera integriteta"
           git pull --rebase origin main
-          git push origin main
+          git push origin HEAD:main
