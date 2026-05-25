@@ -7,6 +7,17 @@ document.addEventListener('DOMContentLoaded', function () {
   var isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
   var isAndroid = /android/i.test(navigator.userAgent);
 
+  function createInlineButton() {
+    var actions = document.querySelector('.hero .hero-actions');
+    if (!actions || actions.querySelector('[data-install-app]')) return;
+    var button = document.createElement('button');
+    button.className = 'button primary wv-install-cta';
+    button.type = 'button';
+    button.setAttribute('data-install-app', '1');
+    button.setAttribute('aria-label', 'Instaliraj WEB VIJESTI na početni zaslon');
+    button.textContent = 'INSTALIRAJ APLIKACIJU';
+    actions.appendChild(button);
+  }
   function createFloatingButton() {
     var box = document.getElementById('wvFloatingActions');
     if (!box) {
@@ -51,8 +62,8 @@ document.addEventListener('DOMContentLoaded', function () {
       steps.innerHTML = '<li><b>1</b><span>Otvorite ovu stranicu u pregledniku <strong>Safari</strong>.</span></li><li><b>2</b><span>Na dnu zaslona dodirnite ikonu <strong>Dijeli</strong> (kvadrat sa strelicom prema gore).</span></li><li><b>3</b><span>Odaberite <strong>Dodaj na početni zaslon</strong>.</span></li><li><b>4</b><span>Potvrdite naziv <strong>WEB VIJESTI</strong>.</span></li>';
       note.textContent = 'Na iPhoneu nema zasebnog gumba Preuzmi; instalacija ide kroz izbornik Dijeli u Safariju.';
     } else if (isAndroid) {
-      steps.innerHTML = '<li><b>1</b><span>Otvorite portal u pregledniku <strong>Chrome</strong>.</span></li><li><b>2</b><span>Dodirnite izbornik s tri točkice u gornjem desnom kutu.</span></li><li><b>3</b><span>Odaberite <strong>Instaliraj aplikaciju</strong> ili <strong>Dodaj na početni zaslon</strong>.</span></li><li><b>4</b><span>Potvrdite instalaciju nove WV ikone.</span></li>';
-      note.textContent = 'Kada preglednik pripremi izravnu instalaciju, isti gumb na portalu otvorit će potvrdu jednim dodirom.';
+      steps.innerHTML = '<li><b>1</b><span>Ako se prikaže potvrda, dodirnite <strong>Instaliraj</strong>.</span></li><li><b>2</b><span>Ako se potvrda ne prikaže, otvorite portal u pregledniku <strong>Chrome</strong>.</span></li><li><b>3</b><span>U izborniku s tri točkice odaberite <strong>Instaliraj aplikaciju</strong> ili <strong>Dodaj na početni zaslon</strong>.</span></li><li><b>4</b><span>Potvrdite novu WV ikonu.</span></li>';
+      note.textContent = 'Na nekim Android preglednicima opcija se prikazuje tek nakon ponovnog učitavanja portala.';
     } else {
       steps.innerHTML = '<li><b>1</b><span>U pregledniku otvorite njegov glavni izbornik.</span></li><li><b>2</b><span>Potražite opciju <strong>Instaliraj aplikaciju</strong> ili <strong>Dodaj na početni zaslon</strong>.</span></li>';
       note.textContent = 'Dostupne opcije ovise o pregledniku i uređaju.';
@@ -81,6 +92,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (standalone) setInstalled();
   }
 
+  createInlineButton();
   createFloatingButton();
   createHelp();
   wireButtons();
