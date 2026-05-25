@@ -1,24 +1,33 @@
-name: Update kalendar dogadjanja
+name: Update kalendar dogadjanja - svaka 4 sata
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "20 4 * * *"
+    - cron: "40 */4 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "update_events.py"
+      - ".github/workflows/update-events.yml"
 
 permissions:
   contents: write
 
 env:
   TZ: Europe/Zagreb
+  PYTHONUNBUFFERED: "1"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 concurrency:
-  group: update-events
-  cancel-in-progress: true
+  group: portal-data-writes
+  cancel-in-progress: false
 
 jobs:
   update-events:
+    name: Osvjezi javni kalendar dogadjanja
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 35
     steps:
       - name: Checkout repozitorija
         uses: actions/checkout@v4
@@ -32,16 +41,24 @@ jobs:
           python-version: "3.11"
 
       - name: Azuriraj kalendar dogadjanja
+        shell: bash
         run: |
+          set -euo pipefail
           echo "START EVENTS UPDATE: $(date -u)"
           python update_events.py
           echo "END EVENTS UPDATE: $(date -u)"
 
-      - name: Spremi promjene
+      - name: Spremi promjene dogadjanja
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data/events_calendar.json data/events_status.json
-          git commit -m "Automatsko azuriranje kalendara dogadjanja" || echo "Nema promjena za commit"
-          git pull --rebase || true
-          git push || true
+          if git diff --cached --quiet; then
+            echo "Nema promjena događanja za commit."
+            exit 0
+          fi
+          git commit -m "Automatsko azuriranje kalendara dogadjanja"
+          git pull --rebase origin main
+          git push origin HEAD:main
