@@ -1,4 +1,4 @@
-const CACHE='web-vijesti-live-20260525-mobile-layout-icon-v8';
+const CACHE='web-vijesti-live-20260525-mobile-emergency-v10';
 self.addEventListener('install',event=>{event.waitUntil(self.skipWaiting());});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()));});
 self.addEventListener('fetch',event=>{
@@ -6,8 +6,8 @@ self.addEventListener('fetch',event=>{
   if(request.method!=='GET')return;
   if(!request.url.includes('/all-business-news/'))return;
   const url=new URL(request.url);
-  const dynamic=url.pathname.endsWith('.html')||url.pathname.endsWith('.js')||url.pathname.endsWith('.css')||url.pathname.endsWith('.json')||url.pathname.endsWith('.webmanifest')||url.pathname.endsWith('/')||url.search.includes('v=');
-  if(dynamic){
+  const alwaysFresh=url.pathname.endsWith('.html')||url.pathname.endsWith('.js')||url.pathname.endsWith('.css')||url.pathname.endsWith('.json')||url.pathname.endsWith('.svg')||url.pathname.endsWith('.webmanifest')||url.pathname.endsWith('/')||url.search.includes('v=');
+  if(alwaysFresh){
     event.respondWith(fetch(new Request(request,{cache:'reload'})).then(response=>{
       const copy=response.clone();
       caches.open(CACHE).then(cache=>cache.put(request,copy));
