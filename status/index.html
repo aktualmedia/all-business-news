@@ -3,22 +3,31 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>STATUS | WEB VIJESTI</title>
-<link rel="stylesheet" href="../assets/style.css">
-<link rel="stylesheet" href="../assets/editorial-redesign.css">
+<title>STATUS PORTALA | WEB VIJESTI</title>
+<meta name="description" content="Status automatskog ažuriranja vijesti, galerije, događanja, videa i izvora portala WEB VIJESTI.">
+<link rel="stylesheet" href="../assets/style.css?v=status12">
+<link rel="stylesheet" href="../assets/editorial-redesign.css?v=status12">
+<link rel="stylesheet" href="../assets/mobile-menu.css?v=status12">
+<link rel="stylesheet" href="../assets/portal-shell.css?v=status12">
 <style>
-.status-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:18px 0}.status-card{background:#fff;border:1px solid var(--line,#ded7c8);border-radius:18px;padding:16px;box-shadow:0 12px 28px rgba(17,17,17,.05)}.status-card span{display:block;color:#6b7280;font-size:.72rem;font-weight:1000;text-transform:uppercase}.status-card strong{display:block;margin-top:6px;font-size:1.2rem;color:#111}.status-table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line,#ded7c8)}.status-table th,.status-table td{border-bottom:1px solid var(--line,#ded7c8);padding:10px;text-align:left;font-size:.9rem}.status-table th{background:#f8f7f2;text-transform:uppercase;font-size:.72rem}.ok{color:#047857;font-weight:900}.bad{color:#b91c1c;font-weight:900}@media(max-width:900px){.status-grid{grid-template-columns:repeat(2,1fr)}}@media(max-width:620px){.status-grid{grid-template-columns:1fr}.status-table{display:block;overflow:auto}}
+.status-summary{background:#fff;border:1px solid var(--line,#ded7c8);border-radius:20px;padding:16px;margin:18px 0;box-shadow:0 12px 28px rgba(17,17,17,.05)}.status-summary-head{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:13px}.status-pill{display:inline-flex;align-items:center;gap:7px;border-radius:999px;padding:8px 12px;background:#ecfdf5;border:1px solid #a7f3d0;color:#047857;font-size:.7rem;font-weight:1000;text-transform:uppercase}.status-pill:before{content:'';width:8px;height:8px;border-radius:50%;background:#10b981}.status-pill.problem{background:#fef2f2;border-color:#fecaca;color:#b91c1c}.status-pill.problem:before{background:#ef4444}.status-summary p{margin:0;color:#667085;font-size:.85rem;line-height:1.5}.module-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:18px 0}.module-card,.status-card{background:#fff;border:1px solid var(--line,#ded7c8);border-radius:18px;padding:16px;box-shadow:0 12px 28px rgba(17,17,17,.05);min-width:0}.module-card span,.status-card span{display:block;color:#6b7280;font-size:.68rem;font-weight:1000;text-transform:uppercase;letter-spacing:.06em}.module-card strong,.status-card strong{display:block;margin-top:7px;font-size:1.05rem;color:#111;line-height:1.25;overflow-wrap:anywhere}.module-card small{display:block;margin-top:6px;color:#667085;font-size:.7rem;font-weight:700}.status-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:18px 0}.status-table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line,#ded7c8)}.status-table th,.status-table td{border-bottom:1px solid var(--line,#ded7c8);padding:10px;text-align:left;font-size:.9rem}.status-table th{background:#f8f7f2;text-transform:uppercase;font-size:.72rem}.ok{color:#047857;font-weight:900}.bad{color:#b91c1c;font-weight:900}.notices{margin:16px 0;padding:13px;border:1px solid #ead59a;background:#fffaf0;border-radius:16px;color:#54420e;font-size:.8rem;line-height:1.5}.notices ul{margin:7px 0 0;padding-left:18px}@media(max-width:900px){.module-grid,.status-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:620px){.module-grid,.status-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.module-card,.status-card{padding:12px;border-radius:13px}.module-card strong,.status-card strong{font-size:.9rem}.status-table{display:block;overflow:auto}.status-summary{padding:13px;border-radius:14px}.status-summary-head{display:block}.status-pill{margin-bottom:9px}}
 </style>
 </head>
 <body data-page="status">
-<header class="site-header"><a class="brand" href="../index.html"><span class="brand-mark">WV</span><span><strong>WEB VIJESTI</strong><small>STATUS</small></span></a><nav class="top-nav"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../symbol/index.html">SYMBOL</a><a href="../video/index.html">VIDEO</a><a href="../admin/index.html">ADMIN</a></nav></header>
+<header class="site-header"><a class="brand" href="../index.html"><span class="brand-mark">WV</span><span><strong>WEB VIJESTI</strong><small>STATUS</small></span></a><nav class="top-nav"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../objave/index.html">OBJAVE</a><a href="../symbol/index.html">SYMBOL</a><a href="../video/index.html">VIDEO</a><a href="../radio/index.html">RADIO</a><a href="../dogadjanja/index.html">DOGAĐANJA</a><a href="../izvori/index.html">IZVORI</a><a href="../app/index.html">APP</a></nav></header>
 <main class="page-shell">
 <a class="home-button" href="../index.html">HOME – POVRATAK</a>
-<section class="hero compact"><p class="eyebrow">WEB VIJESTI</p><h1>STATUS PORTALA</h1><p class="lead">Pregled automatike, izvora, video previewa i zadnjeg ažuriranja.</p></section>
+<section class="hero compact"><p class="eyebrow">WEB VIJESTI</p><h1>STATUS PORTALA</h1><p class="lead">Provjera automatike, modula, izvora i vremena posljednjeg osvježavanja.</p></section>
+<section id="automationSummary" class="status-summary"></section>
+<section class="section-head"><h2>MODULI PORTALA</h2></section>
+<section id="moduleCards" class="module-grid"></section>
+<section class="section-head"><h2>KAPACITET I IZVORI</h2></section>
 <section id="statusCards" class="status-grid"></section>
+<div id="statusNotices"></div>
 <section class="section-head"><h2>IZVORI</h2></section>
 <div id="sourcesBox"></div>
 </main>
+<nav class="mobile-bottom-nav" aria-label="BRZA MOBILNA NAVIGACIJA"><a href="../index.html">HOME</a><a href="../vijesti/index.html">VIJESTI</a><a href="../symbol/index.html">SYMBOL</a><a href="../app/index.html">APP</a></nav>
 <footer class="site-footer"><p><strong>WEB VIJESTI / ALL BUSINESS NEWS</strong> · STATUS.</p></footer>
 <script>
 const repo='/all-business-news/';
@@ -26,7 +35,21 @@ const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 const link=p=>repo+String(p||'').replace(/^\/+/, '');
 async function get(p,d){try{const r=await fetch(link(p)+'?v='+Date.now(),{cache:'no-store'});return r.ok?await r.json():d}catch(e){return d}}
 function fmt(x){try{return new Date(x).toLocaleString('hr-HR')}catch(e){return x||'-'}}
-(async()=>{const hs=await get('data/home_status.json',{}),vs=await get('data/video_status.json',{}),sq=await get('data/source_quality.json',{}),cc=await get('data/category_counts.json',{});document.getElementById('statusCards').innerHTML=`<div class="status-card"><span>Vijesti</span><strong>${esc(hs.news_count||0)}</strong></div><div class="status-card"><span>Izvori OK</span><strong>${esc((hs.ok_sources||'-')+' / '+(hs.sources||'-'))}</strong></div><div class="status-card"><span>Zadnje vijesti</span><strong>${esc(fmt(hs.generated_at||hs.updated_at))}</strong></div><div class="status-card"><span>Zadnji video</span><strong>${esc(fmt(vs.updated_at))}</strong></div>`;let items=Array.isArray(sq.items)?sq.items.slice(0,120):[];document.getElementById('sourcesBox').innerHTML=`<table class="status-table"><thead><tr><th>Izvor</th><th>Kategorija</th><th>Status</th><th>Broj</th></tr></thead><tbody>${items.map(x=>`<tr><td>${esc(x.name||x.id)}</td><td>${esc(x.category)}</td><td class="${x.label==='radi'?'ok':'bad'}">${esc(x.label||x.status)}</td><td>${esc(x.count||0)}</td></tr>`).join('')}</tbody></table>`;})();
+(async()=>{
+ const [hs,auto,sq,events,video,gallery]=await Promise.all([get('data/home_status.json',{}),get('data/automation_status.json',{}),get('data/source_quality.json',{}),get('data/events_status.json',{}),get('data/video_status.json',{}),get('data/gallery_status.json',{})]);
+ const status=(auto.status||hs.automation||'provjera').toLowerCase();
+ const healthy=status==='radi';
+ document.getElementById('automationSummary').innerHTML=`<div class="status-summary-head"><span class="status-pill ${healthy?'':'problem'}">${esc(healthy?'AUTOMATIKA RADI':status.toUpperCase())}</span><strong>Zadnja provjera: ${esc(fmt(auto.updated_at||hs.updated_at))}</strong></div><p>Portal zasebno prati osvježavanje vijesti, galerije, događanja i video sadržaja. Vrijeme pojedinog modula prikazano je ispod.</p>`;
+ const updates=hs.module_updates||auto.module_updates||{};
+ document.getElementById('moduleCards').innerHTML=`<article class="module-card"><span>Vijesti</span><strong>${esc(fmt(updates.vijesti||hs.generated_at))}</strong><small>${esc(hs.news_count||auto.active_news||0)} aktivnih</small></article><article class="module-card"><span>Galerija</span><strong>${esc(fmt(updates.galerija||gallery.updated_at))}</strong><small>${esc(hs.gallery_count||gallery.count||0)} fotografija</small></article><article class="module-card"><span>Događanja</span><strong>${esc(fmt(updates.dogadjanja||events.updated_at))}</strong><small>${esc(hs.events_count||events.events_count||0)} zapisa</small></article><article class="module-card"><span>Video</span><strong>${esc(fmt(updates.video||video.updated_at))}</strong><small>${esc(hs.video_categories||Object.keys(video.categories||{}).length)} kategorija</small></article>`;
+ document.getElementById('statusCards').innerHTML=`<div class="status-card"><span>Vijesti</span><strong>${esc(hs.news_count||auto.active_news||0)} / ${esc(auto.active_limit||2000)}</strong></div><div class="status-card"><span>Arhiva</span><strong>${esc(auto.archive_news||'-')} / ${esc(auto.archive_limit||12000)}</strong></div><div class="status-card"><span>Galerija</span><strong>${esc(hs.gallery_count||auto.gallery_count||0)} / ${esc(auto.gallery_limit||500)}</strong></div><div class="status-card"><span>Izvori OK</span><strong>${esc((hs.ok_sources||auto.ok_sources||'-')+' / '+(hs.sources||auto.sources||'-'))}</strong></div>`;
+ const notices=Array.isArray(auto.notices)?auto.notices:[];
+ document.getElementById('statusNotices').innerHTML=notices.length?`<aside class="notices"><strong>Napomene sustava</strong><ul>${notices.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></aside>`:'';
+ const items=Array.isArray(sq.items)?sq.items.slice(0,120):[];
+ document.getElementById('sourcesBox').innerHTML=`<table class="status-table"><thead><tr><th>Izvor</th><th>Kategorija</th><th>Status</th><th>Broj</th></tr></thead><tbody>${items.map(x=>`<tr><td>${esc(x.name||x.id)}</td><td>${esc(x.category)}</td><td class="${x.label==='radi'?'ok':'bad'}">${esc(x.label||x.status)}</td><td>${esc(x.count||0)}</td></tr>`).join('')}</tbody></table>`;
+})();
 </script>
+<script src="../assets/mobile-menu.js?v=status12" defer></script>
+<script src="../assets/web-ai.js?v=status12" defer></script>
 </body>
 </html>
