@@ -1,31 +1,25 @@
-name: Update galerija po grupama - svaka 2 dana
+name: Servisni rebuild galerije - rucno
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "41 4 */2 * *"
-  push:
-    branches:
-      - main
-    paths:
-      - "build_gallery_from_archive.py"
-      - "update_gallery_groups.py"
-      - ".github/workflows/update-gallery-groups.yml"
 
 permissions:
   contents: write
 
 env:
   TZ: Europe/Zagreb
+  PYTHONUNBUFFERED: "1"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 concurrency:
-  group: update-gallery-groups
-  cancel-in-progress: true
+  group: portal-data-writes
+  cancel-in-progress: false
 
 jobs:
   update-gallery-groups:
+    name: Ponovno izgradi galeriju iz arhive
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - name: Checkout repozitorija
         uses: actions/checkout@v4
@@ -38,18 +32,27 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Azuriraj galeriju iz starih vijesti i po grupama
+      - name: Ponovno izgradi galeriju i status naslovnice
+        shell: bash
         run: |
-          echo "START GALLERY GROUPS: $(date -u)"
+          set -euo pipefail
+          echo "START GALLERY REBUILD: $(date -u)"
           python build_gallery_from_archive.py
           python update_gallery_groups.py
-          echo "END GALLERY GROUPS: $(date -u)"
+          python generate_home_data.py
+          echo "END GALLERY REBUILD: $(date -u)"
 
-      - name: Spremi galerijske grupe
+      - name: Spremi galerijske podatke
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/manual_gallery.json data/gallery_status.json data/gallery_groups data/home_gallery_groups.json data/gallery_groups_status.json
-          git commit -m "Azuriranje galerije iz starih vijesti po grupama" || echo "Nema promjena za commit"
-          git pull --rebase || true
-          git push || true
+          git add data/manual_gallery.json data/gallery_status.json data/gallery_groups data/home_gallery_groups.json data/gallery_groups_status.json data/home_status.json data/source_quality.json data/home_news.json data/home_events.json data/home_symbol.json
+          if git diff --cached --quiet; then
+            echo "Nema promjena galerije za commit."
+            exit 0
+          fi
+          git commit -m "Servisno ponovno generiranje galerije i statusa"
+          git pull --rebase origin main
+          git push origin HEAD:main
