@@ -1,28 +1,66 @@
-name: Posts
+name: Update autorske objave - tri puta dnevno
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "15 6,14,22 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "generate_posts.py"
+      - ".github/workflows/posts.yml"
 
 permissions:
   contents: write
 
+env:
+  TZ: Europe/Zagreb
+  PYTHONUNBUFFERED: "1"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+concurrency:
+  group: portal-data-writes
+  cancel-in-progress: false
+
 jobs:
   run:
+    name: Osvjezi objave, naslovnicu i SEO
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repozitorija
+        uses: actions/checkout@v4
         with:
           persist-credentials: true
-      - uses: actions/setup-python@v5
+          fetch-depth: 0
+
+      - name: Postavi Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: python generate_posts.py
-      - run: |
+
+      - name: Generiraj objave i naslovnicu
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "START POSTS UPDATE: $(date -u)"
+          python generate_posts.py
+          python generate_home_data.py
+          python generate_seo.py
+          echo "END POSTS UPDATE: $(date -u)"
+
+      - name: Spremi objave i povezane podatke
+        shell: bash
+        run: |
+          set -euo pipefail
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/ai_posts.json objave
-          git commit -m "Update posts" || echo "No changes"
-          git pull --rebase || true
-          git push || true
+          git add data/ai_posts.json objave data/home_status.json data/home_news.json data/home_events.json data/home_symbol.json data/source_quality.json data/seo_index.json sitemap.xml sitemap-news.xml sitemap-posts.xml sitemap-authors.xml sitemap-events.xml urllist.txt llms.txt robots.txt
+          if git diff --cached --quiet; then
+            echo "Nema novih objava za commit."
+            exit 0
+          fi
+          git commit -m "Automatsko azuriranje objava, naslovnice i SEO"
+          git pull --rebase origin main
+          git push origin HEAD:main
