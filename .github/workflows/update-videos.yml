@@ -1,9 +1,9 @@
-name: Update video preview - dnevno
+name: Update video preview - svaka 4 sata
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 5 * * *"
+    - cron: "23 */4 * * *"
   push:
     branches:
       - main
@@ -17,15 +17,17 @@ permissions:
 
 env:
   TZ: Europe/Zagreb
+  PYTHONUNBUFFERED: "1"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 concurrency:
-  group: update-videos
-  cancel-in-progress: true
+  group: portal-data-writes
+  cancel-in-progress: false
 
 jobs:
   update-videos:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
     steps:
       - name: Checkout repozitorija
         uses: actions/checkout@v4
@@ -39,16 +41,24 @@ jobs:
           python-version: "3.11"
 
       - name: Azuriraj YouTube video preview
+        shell: bash
         run: |
+          set -euo pipefail
           echo "START VIDEO UPDATE: $(date -u)"
           python update_videos.py
           echo "END VIDEO UPDATE: $(date -u)"
 
       - name: Spremi video promjene
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data/videos.json data/home_videos.json data/video_status.json
-          git commit -m "Dnevno azuriranje YouTube video previewa" || echo "Nema promjena za commit"
-          git pull --rebase || true
-          git push || true
+          if git diff --cached --quiet; then
+            echo "Nema video promjena za commit."
+            exit 0
+          fi
+          git commit -m "Automatsko azuriranje YouTube video previewa"
+          git pull --rebase origin main
+          git push origin HEAD:main
