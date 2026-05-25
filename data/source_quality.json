@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-24T23:51:52.677742+00:00",
+  "updated_at": "2026-05-25T12:18:31.728953+00:00",
   "sources": 236,
-  "ok": 167,
-  "problem": 53,
+  "ok": 166,
+  "problem": 54,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -361,6 +361,17 @@
       "name": "Elite Traveler Luxury - Google News",
       "category": "hedonizam",
       "url": "https://news.google.com/rss/search?q=site:elitetraveler.com%20luxury&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-065",
+      "name": "Engadget",
+      "category": "tehnologija",
+      "url": "https://www.engadget.com/rss.xml",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1171,17 +1182,6 @@
       "error": ""
     },
     {
-      "id": "src-065",
-      "name": "Engadget",
-      "category": "tehnologija",
-      "url": "https://www.engadget.com/rss.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-036",
       "name": "National Jeweler - Google News",
       "category": "nakit",
@@ -1578,17 +1578,6 @@
       "error": ""
     },
     {
-      "id": "src-098",
-      "name": "MuseumNext",
-      "category": "kultura",
-      "url": "https://www.museumnext.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-079",
       "name": "NASA Breaking News",
       "category": "znanost",
@@ -1776,17 +1765,6 @@
       "error": ""
     },
     {
-      "id": "src-033",
-      "name": "Seeking Alpha Market News",
-      "category": "financije",
-      "url": "https://seekingalpha.com/market_currents.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 7,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-067",
       "name": "VentureBeat",
       "category": "tehnologija",
@@ -1794,6 +1772,17 @@
       "status": "ok",
       "label": "radi",
       "count": 7,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-033",
+      "name": "Seeking Alpha Market News",
+      "category": "financije",
+      "url": "https://seekingalpha.com/market_currents.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 6,
       "score": 100,
       "error": ""
     },
@@ -1963,6 +1952,17 @@
       "error": ""
     },
     {
+      "id": "src-098",
+      "name": "MuseumNext",
+      "category": "kultura",
+      "url": "https://www.museumnext.com/feed/",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
       "id": "src-003",
       "name": "Strategy+Business",
       "category": "poslovanje",
@@ -1978,17 +1978,6 @@
       "name": "The Paypers",
       "category": "financije",
       "url": "https://thepaypers.com/rss.xml",
-      "status": "empty",
-      "label": "prazan feed",
-      "count": 0,
-      "score": 55,
-      "error": ""
-    },
-    {
-      "id": "src-161",
-      "name": "Time+Tide Watches",
-      "category": "satovi",
-      "url": "https://timeandtidewatches.com/feed/",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -2257,7 +2246,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1016)>"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "src-078",
@@ -2544,6 +2533,17 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "src-161",
+      "name": "Time+Tide Watches",
+      "category": "satovi",
+      "url": "https://timeandtidewatches.com/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 415: Unsupported Media Type"
     },
     {
       "id": "src-046",

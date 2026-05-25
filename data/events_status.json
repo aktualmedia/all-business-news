@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-24T23:50:21.818360+00:00",
+  "updated_at": "2026-05-25T12:17:13.454404+00:00",
   "sources": 69,
   "ok_sources": 13,
-  "events_count": 167,
+  "events_count": 166,
   "results": [
     {
       "id": "infozagreb-events",
@@ -41,9 +41,8 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "kazalište",
-      "status": "fallback",
-      "count": 1,
-      "error": "HTTP Error 404: Not Found"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "zekaem",
@@ -52,9 +51,8 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "kazalište",
-      "status": "fallback",
-      "count": 1,
-      "error": "HTTP Error 404: Not Found"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "gavella",
@@ -105,9 +103,8 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "kazalište za djecu",
-      "status": "fallback",
-      "count": 1,
-      "error": "HTTP Error 404: Not Found"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "msu",
@@ -271,9 +268,8 @@
       "country": "SAD",
       "city": "New York",
       "type": "kazalište / Broadway / premijere",
-      "status": "fallback",
-      "count": 1,
-      "error": "The read operation timed out"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "broadway-com",
@@ -607,7 +603,7 @@
       "city": "Pariz",
       "type": "muzej / izložbe",
       "status": "ok",
-      "count": 14
+      "count": 13
     },
     {
       "id": "centre-pompidou",
