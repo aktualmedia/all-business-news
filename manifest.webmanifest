@@ -1,23 +1,25 @@
 {
-  "name": "WEB VIJESTI / All Business News",
+  "name": "WEB VIJESTI | Aktual Media",
   "short_name": "WEB VIJESTI",
-  "description": "Pregled poslovnih, ekonomskih, tehnoloških, kulturnih i autorskih vijesti.",
+  "description": "Poslovne, financijske, tehnološke, kulturne i autorske vijesti te digitalna izdanja Symbol.",
   "id": "/all-business-news/?source=pwa",
   "start_url": "/all-business-news/?source=pwa",
   "scope": "/all-business-news/",
   "display": "standalone",
   "display_override": ["standalone", "minimal-ui"],
   "orientation": "portrait-primary",
-  "background_color": "#ffffff",
+  "background_color": "#090a0d",
   "theme_color": "#111111",
   "lang": "hr-HR",
   "categories": ["news", "business", "culture", "magazines"],
   "icons": [
-    {"src": "/all-business-news/assets/icons/web-vijesti-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+    {"src": "/all-business-news/assets/icons/web-vijesti-icon.svg?v=20260525-02", "sizes": "any", "type": "image/svg+xml", "purpose": "any"},
+    {"src": "/all-business-news/assets/icons/web-vijesti-icon.svg?v=20260525-02", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable"}
   ],
   "shortcuts": [
     {"name": "Vijesti", "short_name": "Vijesti", "url": "/all-business-news/vijesti/index.html", "description": "Najnovije vijesti"},
+    {"name": "Objave", "short_name": "Objave", "url": "/all-business-news/objave/index.html", "description": "Autorski tekstovi"},
     {"name": "Symbol", "short_name": "Symbol", "url": "/all-business-news/symbol/index.html", "description": "Digitalna izdanja Symbol"},
-    {"name": "Video", "short_name": "Video", "url": "/all-business-news/video/index.html", "description": "YouTube preview"}
+    {"name": "Status", "short_name": "Status", "url": "/all-business-news/status/index.html", "description": "Stanje ažuriranja portala"}
   ]
 }
