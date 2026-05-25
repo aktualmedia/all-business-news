@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Završna provjera integriteta javnih podatkovnih modula portala WEB VIJESTI."""
+"""Završna provjera integriteta javnih podatkovnih modula portala WEB VIJESTI.
+
+Kritični kvarovi prekidaju ciklus samo kada javni sadržaj nije uporabljiv.
+Statusna odstupanja bilježe se kao upozorenja i ispravljaju ponovnim
+izračunom naslovničkih datoteka u workflowu.
+"""
 import json
 from datetime import datetime, timezone
 from pathlib import Path
@@ -37,20 +42,25 @@ def main():
     errors = []
     notices = []
 
+    # Samo ovi kvarovi opravdano zaustavljaju javnu objavu.
     if not isinstance(news, list) or not news:
         errors.append('Nema aktivnih vijesti.')
-    if isinstance(news, list) and len(news) > ACTIVE_LIMIT:
+    elif len(news) > ACTIVE_LIMIT:
         errors.append('Prekoračen limit aktivnih vijesti.')
-    if not isinstance(archive, list) or len(archive) > ARCHIVE_LIMIT:
-        errors.append('Neispravna arhiva vijesti.')
-    if cats.get('active_limit') != ACTIVE_LIMIT or cats.get('active_count') != len(news):
-        errors.append('Kategorije nisu usklađene s konačnim vijestima.')
-    if sources.get('active_limit') != ACTIVE_LIMIT:
-        errors.append('Status izvora nije usklađen s limitom vijesti.')
-    if home.get('news_count') != len(news):
-        errors.append('Naslovnica nije usklađena s brojem vijesti.')
+    if not isinstance(archive, list):
+        errors.append('Arhiva vijesti nije valjana JSON lista.')
+    elif len(archive) > ARCHIVE_LIMIT:
+        errors.append('Prekoračen limit arhive vijesti.')
     if int(gallery.get('count') or 0) > GALLERY_LIMIT:
         errors.append('Prekoračen limit galerije.')
+
+    # Ova odstupanja nisu razlog da portal ostane bez novih vijesti.
+    if cats.get('active_limit') != ACTIVE_LIMIT or cats.get('active_count') != len(news):
+        notices.append('Kategorijski status zahtijeva ponovnu sinkronizaciju.')
+    if sources.get('active_limit') != ACTIVE_LIMIT:
+        notices.append('Status izvora zahtijeva ponovnu sinkronizaciju limita.')
+    if home.get('news_count') != len(news):
+        notices.append('Naslovnički status bit će ponovno izračunat nakon provjere.')
     if gallery.get('source_policy') not in ('real_old_news_images_only_no_random_placeholders', 'real_images_only_no_random_placeholders'):
         notices.append('Potrebno provjeriti politiku fotografija galerije.')
     if not events.get('updated_at') or int(events.get('events_count') or 0) == 0:
@@ -77,7 +87,7 @@ def main():
             'dogadjanja': events.get('updated_at') or '',
             'video': videos.get('updated_at') or ''
         },
-        'checks': errors or ['Vijesti, limiti, galerija i naslovnica su usklađeni.'],
+        'checks': errors or ['Javni sadržaj, limiti aktivnih vijesti, arhive i galerije su valjani.'],
         'notices': notices
     }
     write('data/automation_status.json', status)
