@@ -17,6 +17,7 @@ concurrency:
 
 jobs:
   deploy:
+    name: Objavi trenutni sadržaj repozitorija
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -27,7 +28,7 @@ jobs:
       - name: Konfiguriraj GitHub Pages
         uses: actions/configure-pages@v5
       - name: Pripremi portal za objavu
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: .
       - name: Objavi portal
