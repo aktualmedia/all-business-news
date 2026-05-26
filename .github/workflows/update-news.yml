@@ -10,6 +10,7 @@ on:
     paths:
       - ".github/workflows/update-news.yml"
       - "update_news.py"
+      - "fast_update_news.py"
       - "postprocess_news.py"
       - "limit_news_archive.py"
       - "build_gallery_from_archive.py"
@@ -44,7 +45,7 @@ jobs:
   update-news:
     name: Osvjezi vijesti, galeriju i naslovnicu te potvrdi integritet
     runs-on: ubuntu-latest
-    timeout-minutes: 55
+    timeout-minutes: 35
     steps:
       - name: Checkout repozitorija
         uses: actions/checkout@v4
@@ -63,7 +64,7 @@ jobs:
           set -euo pipefail
           echo "START VIJESTI: $(date -u)"
           python merge_global_extra_feeds.py
-          python update_news.py
+          python fast_update_news.py
           python fill_symbol_quorum_en.py
           python fill_premium_categories.py
           python fill_core_business_science.py
