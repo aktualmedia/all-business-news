@@ -2,9 +2,8 @@
 # -*- coding: utf-8 -*-
 """Dodatno povlači sadržaj s engleske Symbol Quorum stranice.
 
-Izvor: https://symbol-quorum.com/en/
-Skripta je odvojena od glavnog updatea kako bi se engleski Symbol Quorum mogao
-nadopunjavati bez diranja osnovne logike agregatora.
+Skripta je dopunska: nedostupan pojedini izvor ne smije zaustaviti osvježavanje
+cijelog WEB VIJESTI portala.
 """
 from __future__ import annotations
 
@@ -18,8 +17,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-UA = "WEB-VIJESTI-Symbol-Quorum-EN/1.0 (+https://aktualmedia.github.io/all-business-news/)"
-TIMEOUT = 14
+UA = "WEB-VIJESTI-Symbol-Quorum-EN/1.1 (+https://aktualmedia.github.io/all-business-news/)"
+TIMEOUT = 8
 MAX_ITEMS_PER_PAGE = 24
 MAX_PER_CATEGORY = 1000
 
@@ -46,34 +45,35 @@ BLOCKED_TITLE_WORDS = ("politics", "election", "sport", "football", "soccer", "t
 
 
 def read_json(path, default):
-    p = ROOT / path
-    if not p.exists():
+    target = ROOT / path
+    if not target.exists():
         return default
     try:
-        return json.loads(p.read_text(encoding="utf-8"))
+        return json.loads(target.read_text(encoding="utf-8"))
     except Exception:
         return default
 
 
 def write_json(path, value):
-    p = ROOT / path
-    p.parent.mkdir(parents=True, exist_ok=True)
-    p.write_text(json.dumps(value, ensure_ascii=False, indent=2), encoding="utf-8")
+    target = ROOT / path
+    target.parent.mkdir(parents=True, exist_ok=True)
+    target.write_text(json.dumps(value, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def textify(value):
     value = html.unescape(str(value or ""))
-    value = re.sub(r"(?is)<(script|style).*?>.*?</\\1>", " ", value)
+    value = re.sub(r"(?is)<(script|style).*?>.*?</\1>", " ", value)
     value = re.sub(r"(?is)<.*?>", " ", value)
     return re.sub(r"\s+", " ", value).strip()
 
 
 def stable_id(url, title):
-    return hashlib.sha1((str(url or "") + "|" + str(title or "")).encode("utf-8", "ignore")).hexdigest()[:16]
+    raw = f"{url or ''}|{title or ''}"
+    return hashlib.sha1(raw.encode("utf-8", "ignore")).hexdigest()[:16]
 
 
 def placeholder_image(source, title, category):
-    seed = hashlib.sha1((source + "|" + title + "|" + category).encode("utf-8", "ignore")).hexdigest()[:12]
+    seed = hashlib.sha1(f"{source}|{title}|{category}".encode("utf-8", "ignore")).hexdigest()[:12]
     return f"https://picsum.photos/seed/wv-symbol-en-{seed}/1200/750"
 
 
@@ -88,7 +88,7 @@ def allowed_link(base_url, href):
         return ""
     href = html.unescape(href).strip()
     low = href.lower()
-    if any(w in low for w in SKIP_WORDS):
+    if any(word in low for word in SKIP_WORDS):
         return ""
     url = urllib.parse.urljoin(base_url, href)
     host = urllib.parse.urlsplit(url).netloc.lower().replace("www.", "")
@@ -100,45 +100,45 @@ def allowed_link(base_url, href):
     return url.split("#", 1)[0]
 
 
-def find_image(base_url, html_fragment):
-    for pat in [
-        r'<img[^>]+(?:data-src|data-lazy-src|src)=["\\']([^"\\']+)["\\']',
-        r'<source[^>]+srcset=["\\']([^"\\']+)["\\']',
-        r'<meta[^>]+property=["\\']og:image["\\'][^>]+content=["\\']([^"\\']+)["\\']',
-    ]:
-        m = re.search(pat, html_fragment, re.I | re.S)
-        if m:
-            img = html.unescape(m.group(1)).split(",", 1)[0].strip().split(" ", 1)[0]
-            return urllib.parse.urljoin(base_url, img)
+def find_image(base_url, fragment):
+    patterns = [
+        r"<img[^>]+(?:data-src|data-lazy-src|src)=[\"']([^\"']+)[\"']",
+        r"<source[^>]+srcset=[\"']([^\"']+)[\"']",
+        r"<meta[^>]+property=[\"']og:image[\"'][^>]+content=[\"']([^\"']+)[\"']",
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, fragment, re.I | re.S)
+        if match:
+            image = html.unescape(match.group(1)).split(",", 1)[0].strip().split(" ", 1)[0]
+            return urllib.parse.urljoin(base_url, image)
     return ""
 
 
 def parse_page(category, source_name, url, raw):
-    out, seen = [], set()
-    # širi kontekst oko linka hvata sliku i eventualni excerpt
-    for m in re.finditer(r'<a\\b[^>]*href=["\\']([^"\\']+)["\\'][^>]*>(.*?)</a>', raw, re.I | re.S):
-        link = allowed_link(url, m.group(1))
+    output, seen = [], set()
+    pattern = r"<a\b[^>]*href=[\"']([^\"']+)[\"'][^>]*>(.*?)</a>"
+    for match in re.finditer(pattern, raw, re.I | re.S):
+        link = allowed_link(url, match.group(1))
         if not link or link in seen:
             continue
-        title = textify(m.group(2))
+        title = textify(match.group(2))
         title = re.sub(r"^(Read more|More|Continue reading)\s*", "", title, flags=re.I).strip()
         if len(title) < 20 or len(title) > 190:
             continue
-        low = title.lower()
-        if any(w in low for w in BLOCKED_TITLE_WORDS):
+        if any(word in title.lower() for word in BLOCKED_TITLE_WORDS):
             continue
         seen.add(link)
-        around = raw[max(0, m.start() - 1800): min(len(raw), m.end() + 1800)]
-        desc = textify(re.sub(r"(?is).*?</a>", "", around, count=1))[:650]
-        if len(desc) < 30:
-            desc = f"Izvorni naslov/sažetak s portala {source_name}. Nastavak se čita kod izvornog izdavača."
-        img = find_image(url, around) or placeholder_image(source_name, title, category)
-        out.append({
+        around = raw[max(0, match.start() - 1800): min(len(raw), match.end() + 1800)]
+        description = textify(re.sub(r"(?is).*?</a>", "", around, count=1))[:650]
+        if len(description) < 30:
+            description = f"Izvorni naslov/sažetak s portala {source_name}. Nastavak se čita kod izvornog izdavača."
+        image = find_image(url, around) or placeholder_image(source_name, title, category)
+        output.append({
             "id": stable_id(link, title),
             "title": title,
-            "description": desc,
+            "description": description,
             "url": link,
-            "image": img,
+            "image": image,
             "source": source_name,
             "source_id": "symbol-quorum-en",
             "category": category,
@@ -146,26 +146,26 @@ def parse_page(category, source_name, url, raw):
             "fetched_at": datetime.now(timezone.utc).isoformat(),
             "symbol_quorum_en": True,
         })
-        if len(out) >= MAX_ITEMS_PER_PAGE:
+        if len(output) >= MAX_ITEMS_PER_PAGE:
             break
-    return out
+    return output
 
 
 def dedupe(items):
-    out, seen = [], set()
+    output, seen = [], set()
     for item in items:
         key = item.get("url") or item.get("id") or item.get("title")
         if key in seen:
             continue
         seen.add(key)
-        out.append(item)
-    return out
+        output.append(item)
+    return output
 
 
 def main():
-    by_cat = {cat: read_json(f"data/category_news/{cat}.json", []) for cat in LABELS}
+    by_category = {category: read_json(f"data/category_news/{category}.json", []) for category in LABELS}
     all_news = read_json("data/news.json", [])
-    added = {cat: 0 for cat in LABELS}
+    added = {category: 0 for category in LABELS}
     source_rows = []
 
     for category, source_name, url in SOURCES:
@@ -176,34 +176,32 @@ def main():
             source_rows.append({"name": source_name, "category": category, "url": url, "status": "failed", "count": 0, "error": str(exc)[:160]})
             continue
         source_rows.append({"name": source_name, "category": category, "url": url, "status": "ok" if items else "empty", "count": len(items)})
-        if not items:
-            continue
-        existing = by_cat.setdefault(category, [])
-        before = len(existing)
-        by_cat[category] = dedupe(items + existing)[:MAX_PER_CATEGORY]
-        added[category] += max(0, len(by_cat[category]) - before)
+        if items:
+            existing = by_category.setdefault(category, [])
+            previous_count = len(existing)
+            by_category[category] = dedupe(items + existing)[:MAX_PER_CATEGORY]
+            added[category] += max(0, len(by_category[category]) - previous_count)
 
-    for cat, items in by_cat.items():
-        write_json(f"data/category_news/{cat}.json", items)
+    for category, items in by_category.items():
+        write_json(f"data/category_news/{category}.json", items)
 
-    merged = dedupe(sum((items for items in by_cat.values()), []) + all_news)
-    merged.sort(key=lambda x: x.get("published_at", ""), reverse=True)
+    merged = dedupe(sum((items for items in by_category.values()), []) + all_news)
+    merged.sort(key=lambda item: item.get("published_at", ""), reverse=True)
     write_json("data/news.json", merged[:2500])
 
     counts = read_json("data/category_counts.json", {"counts": {}, "labels": {}})
     counts.setdefault("counts", {})
     counts.setdefault("labels", {})
-    for cat, items in by_cat.items():
-        counts["counts"][cat] = len(items)
-        counts["labels"][cat] = LABELS[cat]
+    for category, items in by_category.items():
+        counts["counts"][category] = len(items)
+        counts["labels"][category] = LABELS[category]
     counts["updated_at"] = datetime.now(timezone.utc).isoformat()
     write_json("data/category_counts.json", counts)
 
     stats = read_json("data/source_stats.json", {})
-    rows = stats.get("feed_results", []) if isinstance(stats, dict) else []
-    rows = [r for r in rows if not str(r.get("name", "")).startswith("Symbol Quorum EN")]
-    rows.extend(source_rows)
     if isinstance(stats, dict):
+        rows = [row for row in stats.get("feed_results", []) if not str(row.get("name", "")).startswith("Symbol Quorum EN")]
+        rows.extend(source_rows)
         stats["feed_results"] = rows
         stats["sources"] = max(int(stats.get("sources") or 0), len(rows))
         stats["updated_at"] = datetime.now(timezone.utc).isoformat()
