@@ -1,0 +1,64 @@
+/* WEB VIJESTI — universalno sprjecavanje horizontalnog izlaska elemenata */
+html,body{max-width:100%;overflow-x:hidden}
+.page-shell,.page-shell>* ,.hero,.hero>* ,.portal-side-card,.control-panel,
+.news-grid,.news-card,.card-body,.edition-grid,.edition-card,
+#editionsGrid,#editionsGrid>* ,#symbolRandomBox,.symbol-random-box,.symbol-random-card,
+.symbol-home-showcase,.symbol-home-showcase>* ,.symbol-feature-main,.symbol-home-archive,
+.symbol-mini-grid,.symbol-mini-card,.symbol-mini-body,.symbol-archive-strip{
+  min-width:0!important;max-width:100%!important;
+}
+img,iframe,video,embed,object{max-width:100%}
+
+/* Mali SYMBOL prikaz u statusnom dijelu naslovnice */
+#symbolRandomBox{width:100%;overflow:hidden;margin-top:12px}
+#symbolRandomBox .symbol-random-card{
+  display:grid;grid-template-columns:68px minmax(0,1fr);align-items:center;gap:10px;
+  width:100%;overflow:hidden;padding:8px;border:1px solid var(--gold,#c8a44d);
+  border-radius:14px;background:#fffaf0;text-decoration:none;color:#111;
+}
+#symbolRandomBox .symbol-random-card img{display:block;width:68px;height:88px;object-fit:cover;border-radius:8px}
+#symbolRandomBox .symbol-random-card div{min-width:0;overflow:hidden}
+#symbolRandomBox .symbol-random-card span{display:block;color:var(--gold-dark,#9b7a24);font-size:.59rem;font-weight:900;letter-spacing:.06em;text-transform:uppercase}
+#symbolRandomBox .symbol-random-card strong{
+  display:block;max-width:100%;margin:4px 0 3px;font-size:.83rem;line-height:1.18;
+  white-space:normal;overflow-wrap:anywhere;word-break:break-word;
+}
+#symbolRandomBox .symbol-random-card small{display:block;max-width:100%;font-size:.63rem;color:var(--muted,#6b7280);overflow-wrap:anywhere}
+
+/* Veliki SYMBOL prikaz na pocetnim i ostalim urednickim stranicama */
+#editionsGrid.symbol-home-showcase{
+  width:100%!important;overflow:hidden!important;
+  grid-template-columns:minmax(250px,.92fr) minmax(0,1.8fr)!important;
+  gap:18px!important;
+}
+#editionsGrid.symbol-home-showcase .symbol-feature-main,
+#editionsGrid.symbol-home-showcase .symbol-mini-card{overflow:hidden;border-radius:20px}
+#editionsGrid.symbol-home-showcase .symbol-feature-cover strong{
+  right:18px;max-width:calc(100% - 38px);font-size:clamp(1.65rem,3.15vw,2.35rem)!important;
+  white-space:normal;overflow-wrap:anywhere;word-break:break-word;
+}
+#editionsGrid.symbol-home-showcase .symbol-feature-body h3,
+#editionsGrid.symbol-home-showcase .symbol-mini-body h3,
+#editionsGrid.symbol-home-showcase .symbol-mini-body p,
+#editionsGrid.symbol-home-showcase .symbol-archive-strip span{overflow-wrap:anywhere;word-break:break-word}
+#editionsGrid.symbol-home-showcase .symbol-mini-grid{gap:14px!important}
+#editionsGrid.symbol-home-showcase .symbol-mini-body{padding:15px!important}
+
+/* Vizualno smirenija pocetna stranica */
+body[data-page="home"] .hero{align-items:start;gap:22px}
+body[data-page="home"] .home-objave-panel{padding:22px 24px}
+body[data-page="home"] .section-head{margin-top:30px}
+body[data-page="home"] .control-panel{margin-top:20px}
+
+@media(max-width:980px){
+  #editionsGrid.symbol-home-showcase{grid-template-columns:1fr!important;gap:12px!important}
+  #editionsGrid.symbol-home-showcase .symbol-mini-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:10px!important}
+}
+@media(max-width:620px){
+  body[data-page="home"] .home-objave-panel{padding:16px!important}
+  #editionsGrid.symbol-home-showcase .symbol-feature-cover{min-height:250px!important}
+  #editionsGrid.symbol-home-showcase .symbol-mini-grid{grid-template-columns:1fr!important}
+  #editionsGrid.symbol-home-showcase .symbol-archive-head{align-items:flex-start!important}
+  #editionsGrid.symbol-home-showcase .symbol-archive-strip{display:block!important;padding:11px!important}
+  #editionsGrid.symbol-home-showcase .symbol-archive-strip a{display:inline-flex!important;margin-top:7px!important}
+}
