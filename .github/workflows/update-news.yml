@@ -44,9 +44,9 @@ concurrency:
 
 jobs:
   update-news:
-    name: Osvjezi vijesti, galeriju i naslovnicu te potvrdi integritet
+    name: Osvjezi vijesti i potvrdi integritet
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 25
     steps:
       - name: Checkout repozitorija
         uses: actions/checkout@v4
@@ -59,37 +59,59 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Provjeri sintaksu obveznih skripti
+      - name: Provjeri sintaksu kriticnih skripti
         shell: bash
         run: |
           set -euo pipefail
-          python -m py_compile fast_update_news.py fast_fill_categories.py fill_symbol_quorum_en.py fill_premium_categories.py fill_core_business_science.py fill_missing_core_categories.py postprocess_news.py limit_news_archive.py build_gallery_from_archive.py update_gallery_groups.py generate_home_data.py generate_seo.py portal_check.py
+          python -m py_compile merge_global_extra_feeds.py update_news.py fast_update_news.py postprocess_news.py limit_news_archive.py generate_home_data.py portal_check.py
 
-      - name: Generiraj i provjeri portal
+      - name: Osnovno osvjezavanje vijesti
         shell: bash
         run: |
           set -euo pipefail
-          echo "START VIJESTI: $(date -u)"
+          echo "START CORE UPDATE: $(date -u)"
           python merge_global_extra_feeds.py
           python fast_update_news.py
-          python fast_fill_categories.py
+          echo "END CORE UPDATE: $(date -u)"
+
+      - name: Dopuni posebne rubrike bez zaustavljanja portala
+        shell: bash
+        run: |
+          set +e
+          python -m py_compile fast_fill_categories.py fill_symbol_quorum_en.py fill_premium_categories.py fill_core_business_science.py fill_missing_core_categories.py
+          if [ "$?" -ne 0 ]; then
+            echo "::warning::Dopunske rubrike imaju sintaksnu pogresku; osnovne vijesti nastavljaju se objavljivati."
+          else
+            python fast_fill_categories.py || echo "::warning::Dopuna rubrika nije dovrsena; osnovne vijesti ostaju valjane."
+          fi
+          exit 0
+
+      - name: Obradi limite i naslovnicu
+        shell: bash
+        run: |
+          set -euo pipefail
           python postprocess_news.py
           python limit_news_archive.py
-          python build_gallery_from_archive.py
-          python update_gallery_groups.py
           python generate_home_data.py
-          python generate_seo.py
           python portal_check.py
           python generate_home_data.py
-          echo "END VIJESTI: $(date -u)"
 
-      - name: Spremi samo potvrdene podatke
+      - name: Dodatni moduli i SEO bez zaustavljanja vijesti
+        shell: bash
+        run: |
+          set +e
+          python build_gallery_from_archive.py || echo "::warning::Galerija se nije obnovila u ovom ciklusu."
+          python update_gallery_groups.py || echo "::warning::Grupe galerije nisu obnovljene u ovom ciklusu."
+          python generate_seo.py || echo "::warning::SEO datoteke nisu obnovljene u ovom ciklusu."
+          exit 0
+
+      - name: Spremi potvrdene podatke
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data sitemap.xml sitemap-news.xml sitemap-posts.xml sitemap-authors.xml sitemap-events.xml urllist.txt site.webmanifest llms.txt robots.txt
+          git add data sitemap.xml sitemap-news.xml sitemap-posts.xml sitemap-authors.xml sitemap-events.xml urllist.txt site.webmanifest llms.txt robots.txt 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Nema promjena u podatcima."
             exit 0
@@ -113,7 +135,7 @@ jobs:
       pages: write
       id-token: write
     steps:
-      - name: Preuzmi aktualni main nakon ažuriranja
+      - name: Preuzmi aktualni main nakon azuriranja
         uses: actions/checkout@v4
         with:
           ref: main
