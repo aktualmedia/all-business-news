@@ -1,6 +1,552 @@
 [
   {
-    "id": "gal-13115814360537",
+    "id": "gal-49107435472359",
+    "title": "7 ways to save money",
+    "description": "Discover 7 strategies to help you spend less on groceries, bills, shopping, and everyday life without making drastic lifestyle changes",
+    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/emil-kalibradov-wL8sz3Graj4-unsplash.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Quartz",
+    "source_url": "https://qz.com/how-to-save-money-everywhere-readers-digest",
+    "created_at": "2026-05-25T11:10:51+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-18064647786286",
+    "title": "Warning: Four iPhones, Including iPhone 11, May Lose Support In Next iOS Cycle",
+    "description": "The next iPhone software cycle, iOS 27, is reported to cancel support for some iPhones. Here’s what you need to know.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/64024e5d570ef85b2ac91f67/0x0.jpg?width=960&precrop=985%2C540%2Cx341%2Cy238",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Innovation",
+    "source_url": "https://www.forbes.com/sites/davidphelan/2026/05/25/warning-four-iphones-including-iphone-11-may-lose-support-in-next-ios-cycle/",
+    "created_at": "2026-05-25T11:00:42+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-54898083815300",
+    "title": "How To Build A Resume That Gets Noticed For Your First Job Out Of College",
+    "description": "Learn how to build a resume for your first job out of college, with tips to highlight skills, stand out to employers, and land interviews with little to no experience.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0e2ce289d6636658602104/0x0.jpg?width=960&precrop=3153%2C2100%2Cx0%2Cy0",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Business",
+    "source_url": "https://www.forbes.com/sites/colleenbatchelder/article/how-to-build-a-resume-for-your-first-job/",
+    "created_at": "2026-05-25T11:00:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-41866315636191",
+    "title": "Phillies’ Homegrown Sluggers Offers 5-Word Response On Ending Career With Reunion",
+    "description": "The Philadelphia Phillies former fan favorite sent a message about returning to the team that drafted him.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a134a9abca2f360d751f1d0/0x0.jpg?width=960&precrop=943%2C529%2Cx608%2Cy143",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Business",
+    "source_url": "https://www.forbes.com/sites/peterchawaga/2026/05/25/phillies-homegrown-sluggers-offers-5-word-response-on-ending-career-with-reunion/",
+    "created_at": "2026-05-25T11:00:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-67745180283582",
+    "title": "‘Euphoria’ Season 3 Kills Off Major Character In Game Changing Death",
+    "description": "A terrifying death puts Maddy in a tough spot with Alamo in Euphoria season 3 that only Rue may be able to save her from.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a13b80eb083bb4acdb5f7c2/0x0.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Business",
+    "source_url": "https://www.forbes.com/sites/sabrinareed/2026/05/25/euphoria-season-3-kills-off-major-character-in-game-changing-death/",
+    "created_at": "2026-05-25T11:00:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-88185997329189",
+    "title": "GLP-1 Weight Loss Drugs Could Stop Cancer Progressing Says New Study",
+    "description": "GLP-1 drugs commonly used for weight loss and diabetes decreased the risk of cancer spreading in patients with several different types of tumors including breast and lung",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a13afb734c9baaa265f017c/0x0.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Innovation",
+    "source_url": "https://www.forbes.com/sites/victoriaforster/2026/05/25/glp-1-weight-loss-drugs-could-stop-cancer-progressing-says-new-study/",
+    "created_at": "2026-05-25T10:45:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-26869913739878",
+    "title": "How To Use AI Agents To Streamline Email Sorting And Boost Productivity",
+    "description": "Learn how to use an AI agent to sort emails, automate your inbox, and save time with simple tools and step-by-step instructions.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0e13a74cc4b9947e68f267/0x0.jpg?width=960&precrop=2554%2C1704%2Cx44%2Cy0",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Business",
+    "source_url": "https://www.forbes.com/sites/technology/article/how-to-use-ai-agents-for-emails/",
+    "created_at": "2026-05-25T10:30:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-41448881300150",
+    "title": "Kyiv’s Drone Diplomacy Makes Ukraine A Power In Global Geopolitics",
+    "description": "Ukraine's drone innovations reinvented modern warfare and redefined superpower influence. Drones could replace the need for ground troops in Iran, a lesson for the US.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a14188be4fe9b27ec09a20a/0x0.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Business",
+    "source_url": "https://www.forbes.com/sites/melikkaylan/2026/05/25/kyivs-drone-diplomacy-makes-ukraine-a-power-in-global-geopolitics/",
+    "created_at": "2026-05-25T10:13:04+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-66863044085677",
+    "title": "Pope Leo Calls For AI Regulation And Protecting The Dignity Of Workers In First Encyclical",
+    "description": "The 83-page papal circular titled “Magnificent Humanity” calls for government regulation of AI companies and protection and retraining of workers who may be impacted.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a141f0564a6e18e682c2df0/0x0.jpg?width=960&precrop=2106%2C1185%2Cx0%2Cy108",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Business",
+    "source_url": "https://www.forbes.com/sites/siladityaray/2026/05/25/pope-leo-calls-for-ai-regulation-and-protecting-the-dignity-of-workers-in-first-encyclical/",
+    "created_at": "2026-05-25T10:09:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-85036608608477",
+    "title": "Let’s Discuss Three Recent Podcast Hall Of Fame Inductees",
+    "description": "Recent inductees into the Podcast Hall of Fame provide guidance, support, and steer the wheel for an industry still grappling with too many forks in the road.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/69eb3b7912a7dd586351fa15/0x0.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Business",
+    "source_url": "https://www.forbes.com/sites/frankracioppi/2026/05/25/lets-discuss-three-recent-podcast-hall-of-fame-inductees/",
+    "created_at": "2026-05-25T10:01:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-65502842673044",
+    "title": "Jalen Duren’s All-NBA Nod Is A Financial Disaster For The Pistons",
+    "description": "Jalen Duren just became eligible for nearly $50 million more than he otherwise would have been if he hadn't made an All-NBA team this year.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a13eaf9167281d4d2faec4d/0x0.jpg?width=960&precrop=2336%2C1313%2Cx0%2Cy120",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Business",
+    "source_url": "https://www.forbes.com/sites/bryantoporek/2026/05/25/jalen-durens-all-nba-nod-is-a-financial-disaster-for-the-pistons/",
+    "created_at": "2026-05-25T10:00:59+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-39296053703959",
+    "title": "Kimi Antonelli Wins In Canada To Make It A Historic Fourth In A Row. Here Are The Updated F1 Standings",
+    "description": "Here's how the F1 standings look after round five of the 2026 season in Montreal, Canada.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a13eddae4abc1974658dded/0x0.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Business",
+    "source_url": "https://www.forbes.com/sites/yaraelshebiny/2026/05/25/kimi-antonelli-wins-in-canada-to-make-it-a-historic-fourth-in-a-row-here-are-the-updated-f1-standings/",
+    "created_at": "2026-05-25T09:45:16+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-59413503716408",
+    "title": "You Can Now Track FAA Efforts To Fix ‘Antiquated’ Air Traffic Control",
+    "description": "A new FAA website lets you see just how far the $12.5 billion allotted to fixing the National Airspace System has gone.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/68d3a2ce2ee4031f416d70a0/0x0.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Business",
+    "source_url": "https://www.forbes.com/sites/marisagarcia/2026/05/25/you-can-now-track-faa-efforts-to-fix-antiquated-air-traffic-control/",
+    "created_at": "2026-05-25T09:30:11+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-15101741553296",
+    "title": "What Are Those Two Bright Stars In The West After Sunset?",
+    "description": "Venus and Jupiter will appear strikingly close after sunset on June 9, creating a dazzling planetary conjunction visible worldwide to the naked eye.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a14158c73803109bf25ec4a/0x0.jpg?width=960&precrop=2696%2C1518%2Cx0%2Cy279",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Innovation",
+    "source_url": "https://www.forbes.com/sites/jamiecartereurope/2026/05/25/what-are-those-two-bright-stars-in-the-west-after-sunset/",
+    "created_at": "2026-05-25T09:28:36+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-33988875931854",
+    "title": "The best all-inclusive resorts in the U.S. for families in 2026",
+    "description": "The best all-inclusive family resorts in the U.S., from a Maine lakeside lodge with century-old traditions to a 37,000-acre Montana cattle ranch",
+    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1495710271.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Quartz",
+    "source_url": "https://qz.com/best-all-inclusive-resorts-us-families-2026",
+    "created_at": "2026-05-25T09:12:37+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-32395146461625",
+    "title": "The best places to visit in Puerto Rico in 2026",
+    "description": "From Old San Juan's Spanish fortifications to Vieques' world-record bioluminescent bay, Puerto Rico's top destinations for every traveler",
+    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2199838415.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Quartz",
+    "source_url": "https://qz.com/best-places-visit-puerto-rico-2026",
+    "created_at": "2026-05-25T09:12:29+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-73022290089996",
+    "title": "Bond traders are surrendering to inflation fears. It's raising the stakes for Washington",
+    "description": "Bond markets are betting that inflation is here to stay, elevating the stakes for policymakers steering an economy under mounting strain",
+    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/US%2520Capitol-2.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Quartz",
+    "source_url": "https://qz.com/bond-markets-treasury-yields-economy-fed-interest-rates-kevin-warsh",
+    "created_at": "2026-05-25T09:10:58+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-61689164861190",
+    "title": "Popular mid-sized sedans Consumer Reports thinks you should avoid — and what to buy instead",
+    "description": "You might want to avoid these popular but often unreliable mid-sized sedans.",
+    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/2026_Toyota-Camry-Nightshade_001-1500x1125.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Quartz",
+    "source_url": "https://qz.com/mid-sized-sedans-avoid-consumer-reports",
+    "created_at": "2026-05-25T09:10:50+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-62493711385657",
+    "title": "CEOs and other leaders share their summer book picks",
+    "description": "Hello and welcome to Modern CEO ! I’m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations with executives and entrepreneurs, and from the pages of Inc. and Fast Company . If you received this newsletter from a friend, you can sign up to get it yourself every Monday morning. Though June 21 is still a few weeks away, for many Memorial Day weekend marks the unofficial start of summer. For me, it’s also a time for making a dent in the stack of books on my nightstand. I asked some avid readers to recommend books they think leaders should check out this summer. Here are their inspired picks: Jason Blum, Founder and CEO, Blumhouse Who Knew by Barry Diller Diller is one of the most consequential people in the [media] industry’s history, and he’s also someone I consider a genuine mentor",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91546269-modern-ceo-may-25.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Fast Company",
+    "source_url": "https://www.fastcompany.com/91546269/ceos-and-other-leaders-share-their-summer-book-picks",
+    "created_at": "2026-05-25T09:00:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-60391881655753",
+    "title": "Wendy’s is holding a look-alike contest—with a grand prize of free burgers for a year—to celebrate World Redhead Day",
+    "description": "Calling all redheads to the front! Wendy’s is honoring its roots by holding a look-alike contest for its iconic logo in New York City on May 26, World Redhead Day. Fans are encouraged to show up as the best version of Wendy, the redheaded mascot with pigtails and freckles originally modeled after one of Wendy’s founder Dave Thomas’s own daughters. The contest winner earns free Dave’s single hamburgers for a year. In a statement, Wendy’s said redheads bring a bold energy and leave an impression—a presence the fast-food restaurant chain has always recognized as part of its own story. “Since 1969, Wendy’s has leaned into what makes it different, and World Redhead Day is a moment that reflects that same mindset: one that celebrates being unforgettable instead of blending in,” the chain said in a statement. “The look-alike contest brings that idea to life in a way that is social, visual, and",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91546396-world-redhead-day-wendys-contest.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Fast Company",
+    "source_url": "https://www.fastcompany.com/91546396/wendys-lookalike-contest-win-free-burgers-for-a-year-world-redhead-day",
+    "created_at": "2026-05-25T09:00:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-53157172239132",
+    "title": "Qantas Postpones 22-Hour New York-Sydney Nonstop Flight—Again",
+    "description": "Qantas' ambitious ultra-long-haul project will be postponed yet again because of delays with the specially modified Airbus A350-1000 aircraft.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a140c49753565c037d31dec/0x0.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Business",
+    "source_url": "https://www.forbes.com/sites/marisagarcia/2026/05/25/qantas-postpones-22-hour-new-york-sydney-nonstop-flight-again/",
+    "created_at": "2026-05-25T08:58:27+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-22520310169429",
+    "title": "How ‘Shift Work Sleep Disorder’ is hurting workers—and costing employers",
+    "description": "Before most of America pours its first cup of coffee, millions of workers are already hours into their shifts, and they’re tired. Overnight warehouse workers are packing orders. Early-morning bus drivers are taking kids to school. ER nurses are handing off to the day team at 7 a.m. These workers aren’t just fatigued from long hours. Many are living with a real, diagnosable medical condition that goes unrecognized and untreated, sometimes for years. And the cost of that gap doesn’t stay invisible forever. Shift Work Sleep Disorder (SWSD) affects up to 40% of U.S. shift workers. It can cause persistent insomnia, chronic fatigue, and impaired concentration. If left untreated, the effects compound, including increased risk of depression, Type 2 diabetes, and cardiovascular disease. Workplace consequences track a similar arc. Fatigued workers have higher rates of absenteeism, more on-the-job",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-91528741-shift-work-sleep-disorder.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Fast Company",
+    "source_url": "https://www.fastcompany.com/91528741/millions-of-shift-workers-have-a-treatable-sleep-disorder-its-costing-employers-more-than-they-realize-sleep-disorders-workplace-wellness",
+    "created_at": "2026-05-25T08:41:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-79291663476471",
+    "title": "Rubio Says ‘Solid’ US-Iran Deal Could Happen ‘Maybe Today’ As Global Markets Rise",
+    "description": "The Secretary of State, however, warned that the U.S. will “deal with it another way” if diplomatic means to end the conflict fail.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a14063df75f22477be5b052/0x0.jpg?width=960&precrop=3689%2C2074%2Cx0%2Cy96",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Business",
+    "source_url": "https://www.forbes.com/sites/siladityaray/2026/05/25/rubio-says-solid-iran-us-deal-could-happen-maybe-today-as-global-markets-rise/",
+    "created_at": "2026-05-25T08:24:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-17892807177283",
+    "title": "‘Escape From Tarkov’ Patch Notes Bring Massive Icebreaker Event",
+    "description": "The massive Icebreaker event in Escape From Tarkov is finally here in the latest set of patch notes, after months of waiting.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1402effdcf1dbc5dc408be/0x0.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Innovation",
+    "source_url": "https://www.forbes.com/sites/mikestubbs/2026/05/25/escape-from-tarkov-patch-notes-bring-massive-icebreaker-event/",
+    "created_at": "2026-05-25T08:10:35+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-69053684869914",
+    "title": "Are stores open on Memorial Day 2026? Holiday hours for Walmart, Costco, stocks, banks, and more",
+    "description": "Memorial Day contains multitudes. Most importantly, the federal holiday honors those who lost their lives while fighting for the United States. It’s also the unofficial kickoff to summer, filled with barbecues, beaches, and swimming. Memorial Day evolved out of remembrances of Civil War soldiers who lost their lives. Sadly, wars continued (and continue) to be fought, so the original holiday expanded. Since 1971, it has always occurred on the last Monday in May. This year, Memorial Day is today (Monday, May 25). With the observance’s many components, it can be confusing to remember what remains open and closed on the actual holiday. Here’s everything you need to know to make the most of your Monday, whether you have the day off or not. Is mail delivered on Memorial Day? Unless a messenger owl from Hogwarts is involved, mail is not delivered on Memorial Day. The United States Postal Servic",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91547045-whats-open-closed-memorial-day.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Fast Company",
+    "source_url": "https://www.fastcompany.com/91547045/are-stores-open-on-memorial-day-2026-holiday-hours-for-walmart-costco-stocks-banks-and-more",
+    "created_at": "2026-05-25T08:01:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-62970346444184",
+    "title": "How AI keeps both job seekers and employers from filling roles",
+    "description": "Jobseekers and recruiters are at a technological standoff. Candidates upload (and retype) their resumes into an applicant tracking system (ATS) with no sense of whether or not their applications are getting seen. Recruiters are buried under hundreds or even thousands of applications for a single listing. Frustrated jobseekers are doing everything they can to better their chances of a callback, increasingly through the use of AI . This means parsing job posts for potential keywords, generating cover letters that mirror the wording of a job description, or even using bots that send out thousands of customized applications for jobs with a button click. Recruiters are adopting AI too. These tools can help find certain qualifications faster (and with more flexibility) than an ATS, authenticate candidates, and automatically reject candidates based on their eligibility. They’re also using AI to",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-91547078-AI-is-holding-back-jobseekers-and-recruiters.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Fast Company",
+    "source_url": "https://www.fastcompany.com/91547078/how-ai-keeps-both-jobseekers-and-employers-from-filling-roles",
+    "created_at": "2026-05-25T08:00:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-25524588401698",
+    "title": "What is ‘American architecture’ in 2026? A new book attempts to find the answer",
+    "description": "On a field in Frayser, Tennessee, a neighborhood on the north side of Memphis, designers from the regional firm Archimania sought a clever solution for the Girls Inc. Youth Farm, a nonprofit operating an agriculture center that served as a teaching center and hub for youth development Firm founder Todd Walker can spin many narratives about how projects connect to the region. There’s the urban-rural connection in Memphis, the history of hardwood construction, and the cultural nexus created by the Mississippi River. But in seeking to design a project that stretched the budget of this local institution and best served the multifaceted mission of the client—offering large spaces for classrooms and gathering students, serving the site and landscape, and providing ample shading—the building took a certain familiar shape. The award-winning project, capped with red wood slats, covered in sheet m",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/15-91547128-american-vernacular.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Fast Company",
+    "source_url": "https://www.fastcompany.com/91547128/what-is-american-architecture-in-2026-a-new-book-attempts-to-find-the-answer",
+    "created_at": "2026-05-25T08:00:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-75320421677025",
+    "title": "See A Rare ‘Blue Moon’ Rise After Sunset This Week",
+    "description": "North America’s celestial highlights for the week ahead, which also apply to mid-northern latitudes in the northern hemisphere.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/5f917fe11a5e68f4b2302bcf/0x0.jpg?width=960&precrop=7784%2C4377%2Cx243%2Cy3",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Innovation",
+    "source_url": "https://www.forbes.com/sites/jamiecartereurope/2026/05/25/see-a-rare-blue-moon-rise-after-sunset-this-week/",
+    "created_at": "2026-05-25T07:00:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-53689926516011",
+    "title": "FBI Warns Microsoft Users—New Attack Gains Access To Accounts",
+    "description": "If you see one of these emails — check carefully, you may be under attack.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/67adef7408557748f4cae65b/0x0.jpg?width=960&precrop=1498%2C911%2Cx325%2Cy214",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Innovation",
+    "source_url": "https://www.forbes.com/sites/zakdoffman/2026/05/25/fbi-warns-microsoft-users-new-attack-gains-access-to-accounts/",
+    "created_at": "2026-05-25T06:30:46+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-72022171405726",
+    "title": "If Your Name Isn't Western, AI Could Cost You The Promotion.",
+    "description": "Companies use AI to track contribution and decide promotions. This experiment found it hears easy names 5x more often. Your name could quietly cost you the job.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a13b18470c3b49ffbe960dd/0x0.jpg?width=960&precrop=1073%2C503%2Cx189%2Cy56",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Innovation",
+    "source_url": "https://www.forbes.com/sites/lutzfinger/2026/05/25/if-your-name-isnt-western-ai-could-cost-you-the-promotion/",
+    "created_at": "2026-05-25T06:14:27+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-38189412849882",
+    "title": "The SDF-1 From ‘Macross’ Is Getting A Huge Diecast Toy, But Only For Japan",
+    "description": "The SDF-1 from the original 1982 'Macross' TV series is getting a massive new transformable diecast toy later this year, but only in Japan.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a13ce6597361c97e0eaf2e5/0x0.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Innovation",
+    "source_url": "https://www.forbes.com/sites/olliebarder/2026/05/25/the-sdf-1-from-macross-is-getting-a-huge-diecast-toy-but-only-for-japan/",
+    "created_at": "2026-05-25T04:32:30+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-51835839238532",
+    "title": "How Leaders Lose Trust During AI Change and the Simple Communication Framework That Prevents It",
+    "description": "In AI-driven transformation, the real risk isn't the technology itself—it's leaders staying silent or vague at the exact moment employees need clarity, context and trust the most.",
+    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/1779399313-leaders-lose-trust-with-ai-0526-g2241269038.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Entrepreneur",
+    "source_url": "https://www.entrepreneur.com/leadership/how-leaders-lose-trust-during-ai-change-and-the-simple/504411",
+    "created_at": "2026-05-25T04:00:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-34329600188979",
+    "title": "Sustainable Chocolate Can’t Fix Cocoa’s Climate Problem Alone",
+    "description": "Sustainable chocolate improves transparency and ethical sourcing but largely overlooks cocoa's core climate resilience problem, leaving supply chains more vulnerable.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a139771e949317fc1884058/0x0.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Innovation",
+    "source_url": "https://www.forbes.com/sites/indrabatilahiri/2026/05/24/sustainable-chocolate-cant-fix-cocoas-climate-problem-alone/",
+    "created_at": "2026-05-25T03:40:37+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-12646454842959",
+    "title": "How to spot burnout before it happens",
+    "description": "Burnout is getting all the attention right now—but it’s not where the problem starts. By the time a leader is burned out, the breakdown in performance, communication, and capacity is already underway. Organizations aren’t preventing the issue; they’re reacting to it after the damage is already done. In a recent conversation with a senior executive at a large nonprofit navigating a period of rapid change, I asked whether her organization was dealing with a fire drill. She paused and said, “No, it’s more like things are smoldering.” That distinction matters. Most organizations don’t recognize there’s a problem until the fire is visible. But by then, the impact is already unfolding. More than 75% of the global workforce reports experiencing burnout . In response, companies have invested heavily in workplace well-being programs, often centered around self-care. But many of these efforts miss",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91544279-how-to-spot-burnout.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Fast Company",
+    "source_url": "https://www.fastcompany.com/91544279/the-hidden-patterns-that-lead-to-burnout",
+    "created_at": "2026-05-25T03:00:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-65873588458619",
+    "title": "Are you preparing or procrastinating?",
+    "description": "When you face a challenge, how do you know how much effort to put into solving it? How do you determine whether you’re preparing or procrastinating? When I was 21, I got sick with a complicated and poorly understood illness. After seven years homebound and bedbound, I got test results that suggested a surgery might be able to cure me. The problem? No good surgery existed. I was neither a surgeon nor a doctor, but I was unwilling to live sick if there was a chance I could be well. So I decided I would invent the surgery and convince someone to give it to me. But to take on the challenge, I needed to figure out how to know when I was ready to pitch the idea to surgeons. To do this I developed a tool: the cost of trying. The cost of trying is the preparation it takes to put out a best effort. Some tasks are low cost of trying; others are high. The most powerful way to use this tool is to co",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-91547280-Are-you-preparing-or-procrastinating.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Fast Company",
+    "source_url": "https://www.fastcompany.com/91547280/are-you-preparing-or-procrastinating",
+    "created_at": "2026-05-25T03:00:00+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-56049777547786",
+    "title": "Today’s NYT Strands Hints, Spangram, Answers For Monday, May 25 (Thank You)",
+    "description": "Looking for help with today's NYT Strands puzzle? Here's an extra hint to help you uncover the right words, as well as all of today's answers and Spangram.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/69a8d28280b584aef715cac6/0x0.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Innovation",
+    "source_url": "https://www.forbes.com/sites/paultassi/2026/05/24/todays-nyt-strands-hints-spangram-answers-for-monday-may-25-thank-you/",
+    "created_at": "2026-05-25T02:00:50+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-48517909954878",
+    "title": "As America Marks 250 Years, This Toad Is Vanishing. Can Texas Save It?",
+    "description": "As America marks 250 years since its founding, the Houston toad found only in Texas is struggling for survival and getting help from state and federal officials.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a137f15eb585ccfeda998a3/0x0.jpg?width=960",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Innovation",
+    "source_url": "https://www.forbes.com/sites/noelfletcher/2026/05/24/as-america-marks-250-years-this-toad-is-vanishing-can-texas-save-it/",
+    "created_at": "2026-05-24T23:53:36+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-43367675440965",
+    "title": "AEW Double Or Nothing Results, Winners And Live Updates On May 24, 2026",
+    "description": "AEW Double or Nothing 2026 results, winners and grades on May 24, 2026 with MJF vs. Darby Allin for the AEW World Title.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a13894d772263dcde5f91b6/0x0.jpg",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Business",
+    "source_url": "https://www.forbes.com/sites/alfredkonuwa/2026/05/24/aew-double-or-nothing-results-winners-and-live-updates-on-may-24-2026/",
+    "created_at": "2026-05-24T23:34:33+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-46722236470870",
+    "title": "‘Spider-Noir’ Rotten Tomatoes Reviews Say Nicolas Cage Series Has Right Spin",
+    "description": "Nicolas Cage’s new live-action series, \"Spider-Noir,\" based on Marvel’s \"Spider-Man Noir\" comic book series, is getting mostly positive reviews from Rotten Tomatoes critics.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a13791abf70da3f8c631c37/0x0.jpg?width=960&precrop=1080%2C608%2Cx0%2Cy142",
+    "category": "poslovanje",
+    "group": "poslovanje",
+    "label": "POSLOVANJE",
+    "source": "Forbes Business",
+    "source_url": "https://www.forbes.com/sites/timlammers/2026/05/24/spider-noir-rotten-tomatoes-reviews-say-nicolas-cage-series-has-right-spin/",
+    "created_at": "2026-05-24T22:58:57+00:00",
+    "gallery_source": "older_active_news",
+    "from_old_news": true
+  },
+  {
+    "id": "gal-20303777207312",
     "title": "NYT Mini Hints And Answers For Monday, May 25",
     "description": "Looking for some help with today's NYT Mini crossword? In that case, extra clues and the answers are right here for you.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/69f6acd10084fb39b46f00b0/0x0.jpg?width=960",
@@ -14,7 +560,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-86808888077072",
+    "id": "gal-11670473303745",
     "title": "The Real Reason ‘The Mandalorian And Grogu’ Isn’t A Dream Ticket At The Box Office",
     "description": "The Mandalorian and Grogu should be a force to be reckoned with, but industry estimates suggest it is set for a similar domestic opening to Solo, Disney's biggest Star Wars flop.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a1372933c99ea6f4af15396/0x0.jpg",
@@ -28,7 +574,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-53014978744019",
+    "id": "gal-79617967661102",
     "title": "Memorial Day Weekend Flight Delays: Airports In San Francisco, Chicago And More Impacted",
     "description": "Over half a thousand flights to and from Chicago O'Hare International Airport have experienced delays Sunday.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a1361a4d45825129795d75e/0x0.jpg?width=960&precrop=2862%2C1909%2Cx0%2Cy0",
@@ -42,7 +588,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-53563566696958",
+    "id": "gal-38343631118012",
     "title": "Parivision Wins DreamLeague Season 29 ‘Dota 2’ Tournament",
     "description": "Parivision claims the latest DreamLeague season, setting themselves up for a potential invitation to The International.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/66618911ed50388e2bcb418b/0x0.jpg",
@@ -56,7 +602,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-12032127969145",
+    "id": "gal-63954846852099",
     "title": "2 Signs Your Partner Finds You Beautiful In Every Way, By A Psychologist",
     "description": "A partner who finds you beautiful in every way leaves a very specific, and often overlooked, trail of evidence.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/68008335168fc5637e794297/0x0.jpg?width=960&precrop=3058%2C1721%2Cx0%2Cy158",
@@ -70,7 +616,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-79218889567125",
+    "id": "gal-43903742857218",
     "title": "Trump Blasts ‘Losers’ Criticizing Potential Iran Deal After Republican Uproar",
     "description": "Sen. Ted Cruz, Texas, said he was “deeply concerned” about what he has heard on a potential peace deal with Iran, suggesting it would empower the Iranian government.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a1313b6b75cbf7ad793872c/0x0.jpg?width=960&precrop=844%2C563%2Cx0%2Cy0",
@@ -84,7 +630,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-62926471542216",
+    "id": "gal-31262944189155",
     "title": "Sony Launches Reon Pocket Pro Plus Wearable Air Conditioner In Time For Summer Heatwaves",
     "description": "Sony’s latest “thermo device” is designed to keep you cool during intense summer heat. Here’s all you need to know.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a1062624e97e3e8564cc823/0x0.png?width=960",
@@ -98,7 +644,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-91243391104945",
+    "id": "gal-21467055911541",
     "title": "Red Sox’s $55 Million Starter Offers 4-Word Response On Looming Demotion",
     "description": "The Boston Red Sox’s struggling starter is feeling the pressure as a franchise superstar’s looming return will push a roster change.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a134161106eda02896b76f2/0x0.jpg",
@@ -112,7 +658,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-19934218386768",
+    "id": "gal-29467955166686",
     "title": "Rising Private Credit Defaults Are Testing Banks And Insurers",
     "description": "The environment that created private credit has reversed: rates are elevated, refinancing is harder, and signs of stress are emerging across the asset class.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11a2650c85d1e1463f2d4e/0x0.jpg?width=960",
@@ -126,7 +672,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-56941057231332",
+    "id": "gal-21651491087032",
     "title": "Avoid Social Media Hype This Hurricane Season By Asking 4 Questions",
     "description": "With hurricane season around the corner, you will likely see alarmism and hype on social media. Here are 4 questions to ask before spreading bad information.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/62347ea05b3641f595c02f75/0x0.jpg",
@@ -140,7 +686,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-36490623409632",
+    "id": "gal-14179239817820",
     "title": "Yankees Weigh Surprising Aaron Judge Move After Career Low",
     "description": "New York Yankees’ manager Aaron Boone opened the door to a desperation move as the franchise slugger hits a new bottom.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a1339164ddfdb97b549d38c/0x0.jpg?width=960&precrop=3513%2C1977%2Cx0%2Cy1",
@@ -154,7 +700,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-25962432537840",
+    "id": "gal-26761055366938",
     "title": "'Obsession' Slated For Historic Weekend As 'The Mandalorian And Grogu' Scores $82 Million 3-Day Debut",
     "description": "“Obsession” has grossed over $44 million on a budget reportedly ranging from $750,000 to $1 million.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a132df5012728e6b4357450/0x0.jpg?width=960&precrop=3015%2C2009%2Cx0%2Cy0",
@@ -168,7 +714,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-54805349326085",
+    "id": "gal-49406583859774",
     "title": "Mac Classic And Audio Cassette-Inspired Retro iPhone 17 Pro Cases",
     "description": "Your iPhone is advanced tech, but you can protect it while adding vintage flair with a retro-inspired iPhone case like the Spigen Classic LS and Pela Black Cassette.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a132a0fa857c03a9bf67c9b/0x0.jpg",
@@ -182,7 +728,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-36960583909653",
+    "id": "gal-29175505274840",
     "title": "Braves’ Former Pitcher, All-MLB Righty, Ends Career In Middle Of Season",
     "description": "The Atlanta Braves received news that a former player, who once enjoyed an All-MLB First Team nod, retired after just 15 games this year.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a132d5a80c9f443ecb07490/0x0.jpg",
@@ -196,7 +742,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-61050551909315",
+    "id": "gal-41133842969446",
     "title": "World Cup Campaigns: The Ultimate Influencer On What We Eat, Wear And Where We Travel?",
     "description": "World Cup Campaigns are scoring big sales in recent years, how are viewers being turned into buyers?",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a1324e8c1f6fbcf9f7a2536/0x0.jpg",
@@ -210,7 +756,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-48757080233253",
+    "id": "gal-38448820082569",
     "title": "Dodgers Will Smith Offers 3-Word Response On Injury Concerns After Absence",
     "description": "The Los Angeles Dodgers’ three-time All-Star detailed his injury status after the team removed him against the Milwaukee Brewers.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a1323bf2633a03bbe3a4cc3/0x0.jpg?width=960&precrop=4697%2C2640%2Cx0%2Cy0",
@@ -224,7 +770,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-43055289004986",
+    "id": "gal-45226072157996",
     "title": "A Bit About The History Of MIT’s Stata Center And AI",
     "description": "Ray Strata recounts MIT innovation, entrepreneurial independence, semiconductor growth, and collaborative culture shaping modern AI development.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a131d37b8186dcdc2702ec3/0x0.jpg",
@@ -238,7 +784,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-91652813623809",
+    "id": "gal-21941143469136",
     "title": "More Signs Russia’s Internet Crackdown Is Backfiring",
     "description": "Russia has shut down the internet, causing a rift in Putin's inner circle and growing discontent amongst the public. Russia's pounding of Kiev is another distraction.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a13062e3c99ea6f4af1537a/0x0.jpg",
@@ -252,7 +798,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-65321216497192",
+    "id": "gal-70994086692155",
     "title": "New Apple A3577 Over-Ear Headphones Discovered In FCC Filing",
     "description": "A new FCC filing for a pair of “Bluetooth over-ear headphones” has just emerged. Here’s what it is likely to mean.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a130eb24237d06bf6acf2d2/0x0.jpg",
@@ -266,7 +812,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-84758509230206",
+    "id": "gal-65648623858866",
     "title": "How Corpus Christi Became America’s Top Energy Export Hub",
     "description": "How Corpus Christi transformed into America’s top energy export hub, driven by shale growth, infrastructure investment, and rising global demand for U.S. oil and LNG.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a130f439abc90f45314787c/0x0.jpg?width=960",
@@ -280,7 +826,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-70498053878278",
+    "id": "gal-21684606221947",
     "title": "AEW Double Or Nothing 2026 Match Card, Start Time, Streaming Info",
     "description": "The full match card, featuring Darby Allin vs. MJF, and how to watch AEW Double or Nothing 2026 on Sunday, May 24.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a130b9b3c99ea6f4af1537c/0x0.jpg",
@@ -294,7 +840,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-87023841868303",
+    "id": "gal-68226120161411",
     "title": "‘The Mandalorian And Grogu’ Sets A Rotten Tomatoes Audience Score Record",
     "description": "The Mandalorian and Grogu did not review amazingly with critics, but audiences are a lot more on board, according to Rotten Tomatoes scores.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/68d1500a4827d760fb83a16b/0x0.jpg",
@@ -308,7 +854,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-45816554122914",
+    "id": "gal-41051785705372",
     "title": "“Monetarism” Is Confirmation That Economists Never Got The Joke",
     "description": "Monetarism recalls the Five Year Plans of the old Soviet Union.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/63d00d228be2c30b58922d82/0x0.jpg",
@@ -322,7 +868,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-30035202663487",
+    "id": "gal-50775577029152",
     "title": "Co-Pays For GLP-1 Weight Loss Drugs To Rise If They’re Even Covered",
     "description": "GLP-1 weight loss drugs like Ozempic, Zepbound and Wegovy are the biggest contributor to rising prescription spending. And that will trigger co-payments to rise.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11bc97ac34e6d1e84f3f3b/0x0.jpg",
@@ -336,7 +882,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-27074193022125",
+    "id": "gal-26246000968221",
     "title": "Tested: 2026 Entry Tesla Model Y Vs. 2027 Chevy Bolt – Driver Assist AI On A Budget",
     "description": "The 2026 Tesla Model Y base trim and 2027 Chevy Bolt deliver premium self-driving capabilities at prices that many car buyers can actually afford.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a12f91c41536dfdd3a12ef8/0x0.jpg?width=960",
@@ -350,7 +896,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-61574449573214",
+    "id": "gal-79810262477767",
     "title": "1 Thing You Need More Than Attraction In A Lasting Relationship, By A Psychologist",
     "description": "Attraction will naturally change over time. Here’s what actually sustains a lasting relationship, according to rigorous psychological research.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f25fcbcb3dcd39927decf/0x0.jpg?width=960&precrop=3988%2C2242%2Cx672%2Cy0",
@@ -364,7 +910,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-91230381093667",
+    "id": "gal-11539806450042",
     "title": "Alex Warren’s Breakout Hit Remains At No. 1 — And Makes History This Week",
     "description": "Alex Warren's \"Ordinary\" holds at No. 1 on a Billboard chart, and it breaks out of a tie to become one of the longest-running leaders of all time.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/68893f8ae41a237ec1725ad6/0x0.jpg?width=960&precrop=2303%2C1295%2Cx173%2Cy49",
@@ -378,7 +924,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-77473504921899",
+    "id": "gal-56651822753186",
     "title": "Graduation Ceremonies In The Rain. Why Is That Still Happening?",
     "description": "In the modern era of weather forecasting, why are we still dealing with graduation ceremonies in the rain?",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a12e5e98400b948fb872c0b/0x0.jpg",
@@ -392,7 +938,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-38706587987888",
+    "id": "gal-79876935419975",
     "title": "Ella Langley Beats Ariana Grande, Bad Bunny And Mariah Carey",
     "description": "Ella Langley sits at Nos. 1 and 2 on the Billboard Hot 100 simultaneously, beating the one frame names like Ariana Grande and Mariah Carey managed.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11a3350c85d1e1463f2d52/0x0.jpg?width=960&precrop=2723%2C1533%2Cx335%2Cy128",
@@ -406,7 +952,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-20614050397703",
+    "id": "gal-89266025036647",
     "title": "Meet The Peregrine Falcon That Dives At 240 MPH — A Biologist Explains",
     "description": "A biologist explains how the peregrine falcon survives dives faster than most sports cars. Here’s why evolution pushed this predator to such terrifying extremes.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f246407124c778da73faf/0x0.jpg?width=960&precrop=1972%2C1109%2Cx0%2Cy51",
@@ -420,7 +966,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-14172117313876",
+    "id": "gal-57760576833238",
     "title": "Bruno Mars Matches Taylor Swift With A New Top 10 Smash",
     "description": "\"Risk It All\" becomes the twenty-second top 10 hit for Bruno Mars on Billboard's Radio Songs chart. He ties Taylor Swift's historic record with his latest smash.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11a230b7f455ed602b3f5d/0x0.jpg?width=960&precrop=2321%2C1306%2Cx0%2Cy162",
@@ -434,7 +980,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-20121490118630",
+    "id": "gal-34396752776547",
     "title": "The Future Of Customer Feedback Is Real Time And AI-Powered",
     "description": "AI is transforming customer feedback with real-time insights, smarter surveys, and deeper CX analysis that help companies improve faster and build loyalty.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f42d255dc10b907615460/0x0.jpg",
@@ -448,7 +994,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-56845464888613",
+    "id": "gal-24396384556663",
     "title": "Things you should never clean with Windex",
     "description": "Discover the things you should never spray Windex on, and what to use instead when a surface needs a little more care",
     "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/vitaly-gariev-Y3vDCL7_das-unsplash.jpg",
@@ -462,7 +1008,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-33017465174553",
+    "id": "gal-48731139454182",
     "title": "Novak Djokovic Says He Has ‘A Very Good Chance’ To Win 25th Major At Roland Garros",
     "description": "Novak Djokovic Says He Has ‘A Very Good Chance’ To Win 25th Major At Roland Garros",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a12d68c64dbc990c25fe417/0x0.jpg",
@@ -476,7 +1022,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-65814951459553",
+    "id": "gal-79402654296825",
     "title": "Apple iPhone 18 Pro To Debut ‘Game-Changer’ Satellite Upgrade, Report Says",
     "description": "The next iPhones are likely to include a hardware upgrade which will change the current satellite features in key ways.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a12d844e7094e1d46ef443b/0x0.jpg",
@@ -490,7 +1036,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-21207141537503",
+    "id": "gal-69009062465570",
     "title": "Why AI Likely Means More Work For Humans",
     "description": "The paradox of AI is that replacing some aspects of expert work may only accentuate the need for human experts.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11d0399e4283c219e957da/0x0.jpg",
@@ -504,7 +1050,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-37903989064136",
+    "id": "gal-73265516723934",
     "title": "Alogic Ups The Resolution Of Its 32-Inch Clarity Touchscreen To 6K",
     "description": "This new 6K touchscreen from Alogic offers color accuracy, 6,016 x 3,384 resolution, a folding stand and a built-in USB-C hub for peripherals and laptop charging.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f1b94ea66006e683a7325/0x0.jpg?width=960&precrop=1012%2C675%2Cx142%2Cy0",
@@ -518,7 +1064,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-77227209519423",
+    "id": "gal-51657928099989",
     "title": "Blue Jays’ John Schneider Sends NSFW Message After Snagging Gem From Giants",
     "description": "The Toronto Blue Jays manager offered his explicit response to the team’s jackpot roster move.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6999e0ef0f9623c1d88bf122/0x0.jpg?width=960&precrop=3033%2C1707%2Cx0%2Cy2",
@@ -532,7 +1078,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-13320454670506",
+    "id": "gal-39480200101816",
     "title": "How To Fact Check AI, According To Tech Experts",
     "description": "Learn how to fact check AI with tips and techniques to verify accuracy, avoid hallucinations, and ensure reliable information from tools like ChatGPT.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a0e06e623637f32c2e95b8b/0x0.jpg?width=960",
@@ -546,7 +1092,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-85796858418104",
+    "id": "gal-14647689350839",
     "title": "Amazon’s drone ambitions are about to reshape Chicago’s south suburbs",
     "description": "The next frontier in drone delivery? The airspace above your community. Amazon’s CEO, Andy Jassy, said recently that the company intends to continue developing its Prime Air drone delivery program, with the goal of expanding drone delivery to 500 million packages a year worldwide over the next decade. To achieve this, Amazon has started operating Prime Air drone delivery and conducting pilot tests in eight U.S. cities, with four more to be added soon. One of these cities is Chicago, whose south suburbs are next on the list for a trial expected later this spring or early summer. For people who live within an eight-mile radius of Amazon’s Matteson and Markham warehouse locations near Chicago, their neighborhoods will be part of the next Amazon Prime Air drone trial. Participants will be able to order small packages through Amazon Prime to be delivered via drones. Those who choose not to pa",
     "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-2-91546429-amazons-drone-ambitions-are-about-to-reshape-chicagos-south-suburbs.jpg",
@@ -560,7 +1106,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-38419313528707",
+    "id": "gal-49707438117231",
     "title": "Phillies’ Former Pitcher Released By NL Contender After Just 3 Games",
     "description": "The Philadelphia Phillies have received an update on their former veteran after a a very short stint ended with a cut.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/691dc4d2725d061b18bb5476/0x0.jpg",
@@ -574,7 +1120,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-48618264938949",
+    "id": "gal-72591035708383",
     "title": "25 books that defined the 20th century",
     "description": "From Orwell's totalitarian nightmares to Achebe's postcolonial reckoning, these 25 books didn't just reflect the last century — they changed what came after",
     "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1210557301.jpg",
@@ -588,7 +1134,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-88701049997560",
+    "id": "gal-74597636594955",
     "title": "30 years ago, these 15 industries were science fiction",
     "description": "From streaming to cybersecurity to plant-based meat, an entire layer of the global economy has been built from scratch in the past 30 years — and it's still growin",
     "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2206292402.jpg",
@@ -602,7 +1148,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-84777822120657",
+    "id": "gal-72278842023950",
     "title": "The best SUVs for a quiet ride in 2026",
     "description": "From the Mercedes-Benz G-Class EV's silent four-motor drivetrain to a Jeep Grand Wagoneer quieter than the V8 it replaced",
     "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/jeep%2520grand%2520wagoneer%252020522.png",
@@ -616,7 +1162,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-55262312106182",
+    "id": "gal-74379197039541",
     "title": "The best cars for Uber and Lyft drivers in 2026",
     "description": "From a Kia Soul with an 88 reliability score to a Honda Odyssey whose rear doors open from the driver's seat",
     "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/hyundai%2520kona%252020522.png",
@@ -630,7 +1176,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-32835678400016",
+    "id": "gal-56313862442056",
     "title": "Gas prices are skyrocketing. Here are the most fuel-efficient trucks you can buy right now",
     "description": "From a 38-mpg Ford Maverick hybrid to a Ram 1500 with near-luxury interior quality, the most fuel-efficient trucks you can buy",
     "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1446278926.jpg",
@@ -644,7 +1190,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-29986455738526",
+    "id": "gal-31031871749351",
     "title": "The best romantic getaways in the U.S. for 2026",
     "description": "The best romantic getaways in the U.S., from Kauai's secluded beaches to Charleston's candlelit harbor cruises",
     "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-110953842.jpg",
@@ -658,7 +1204,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-10911644850352",
+    "id": "gal-72450840791929",
     "title": "The best vacuums of 2026 for allergy sufferers, according to Consumer Reports",
     "description": "Leaky cleaners scatter the irritants they collect. Consumer Reports tested 135,000-plus machines on filtration to find the best picks for allergies",
     "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1436398701.jpg",
@@ -672,7 +1218,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-29841768871401",
+    "id": "gal-86992638480576",
     "title": "The 10 SUVs and minivans with the most cargo space, according to Consumer Reports",
     "description": "These minivans and large SUVs have more trunk space than any other cars on the market, but they don't all have the best reviews from Consumer Reports",
     "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2186910556.jpg",
@@ -686,7 +1232,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-42142194467205",
+    "id": "gal-42229250219641",
     "title": "Why AI will create more engineers, not fewer",
     "description": "No one knows exactly where AI will take us beyond 12-18 months from now. Anyone who claims otherwise may have a bridge to sell you. But it’s clear that fundamental shifts in software engineering will happen within that time, and that they will transform every industry that runs on software in the process. I’ve led software engineering at big tech companies like Microsoft, Snap and Google over the span of two decades. AI’s always been in the conversation and the innovation lab, but the changes happening now are truly unprecedented in both speed and scale. We have the opportunity to achieve more in the next year than we have in the last 10. By 2028, the digital economy we know today will look completely different. If it doesn’t, we’ve failed. Despite headlines declaring the software profession dead, I’m confident its future is brighter than ever. The Job Was Never About Typing Many people",
     "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-91544366-AI-will-create-more-engineers.jpg",
@@ -700,7 +1246,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-55688765219644",
+    "id": "gal-58612832427539",
     "title": "Google Announced Gemini Spark, But Left Out An Uncomfortable Warning",
     "description": "APK teardown reveals strict usage caps, unexpected autonomous purchasing disclaimers and the stark contrast between Google's stage security promises and raw Android code",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a124e35736c4ff6d11afa10/0x0.jpg",
@@ -714,7 +1260,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-65836630924082",
+    "id": "gal-63725085798203",
     "title": "Scientists Warn The Sun Could Be About To Produce A ‘Superflare’",
     "description": "Scientists studying 50 years of solar data warn Earth may be entering a heightened risk period for rare “superflares” capable of disrupting technology worldwide.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a0c315d7350d4ba93f4161c/0x0.jpg",
@@ -728,7 +1274,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-82148459015751",
+    "id": "gal-88515699776004",
     "title": "China is deploying the first home cleaning humanoid robot butlers",
     "description": "At last, the Jetsons are happening. Everyone’s long-held dream of having a humanoid robot at home to do all the household chores is almost here. Chinese tech firm GigaAI has announced the (allegedly) first commercial robotic butler ever. The company claims the first 100 pilot units will be deployed at the end of this month in employees’ homes. Then they will start deployment in Wuhan, for free!, in the first half 2027. Called SeeLight S1, the robot is one of the many answers to China’s ongoing demographic crisis, which has been met by a Beijing directive that wants to put embodied AI wherever it is needed. Designed by GigaAI—a startup founded in 2025 and funded by Huawei’s investment arm—in collaboration with state-backed robotics research hubs Hubei Humanoid Robot Innovation Centre and the Hubei Humanoid Robotics Industry Alliance, the robot is a two-armed, wheeled machine that, accordi",
     "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-915466730-chinese-home-robots.jpg",
@@ -742,7 +1288,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-36455088912330",
+    "id": "gal-75417450366377",
     "title": "Supah Hot Fire Brutally KOs Ray J At Wild Brand Risk 14 Event",
     "description": "Supah Hot Fire knocked out Ray J in the second round at Brand Risk 14 in Las Vegas, leaving him with a nasty knot. Here's the recap of the brutal finish.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a12a9dbf3cd8c29750c6efb/0x0.jpg?width=960",
@@ -756,7 +1302,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-34749123633629",
+    "id": "gal-68795269637697",
     "title": "Overcoming Situational Depression Via Generative AI Including Tapping Into ChatGPT",
     "description": "Situational depression arises when an event or circumstance triggers you into a bout of depression. AI can help to overcome this. An AI Insider scoop.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/698d27cc3c4f6b613759eb27/0x0.jpg?width=960",
@@ -770,7 +1316,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-75048042074069",
+    "id": "gal-40164056646439",
     "title": "Colbert’s First TV Appearance After ‘Late Show’ Is On Public Access",
     "description": "The night after his CBS late night show ended, Stephen Colbert guest-hosted a public access TV show in Monroe, Michigan",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a129d0a3744474899cafd99/0x0.jpg?width=960",
@@ -784,7 +1330,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-26066904094166",
+    "id": "gal-85636725925676",
     "title": "Why men’s and women’s clothes have buttons and zippers on different sides",
     "description": "Curious Kids is a series for children of all ages. If you have a question you’d like an expert to answer, send it to CuriousKidsUS@theconversation.com . Why are zippers on different sides of male and female jackets? — Agrima, age 13, Delhi, India Imagine you’re at a clothing store that stocks items for the whole family. You pick up a white buttoned shirt to try on. The style is pretty plain. Was it designed to be worn by a woman or man? There may be a clue: Many women’s shirts have buttons on the left side, while men’s shirts usually button on the right. Even zippers in pants and jackets sometimes follow the same pattern. But why does clothing fasten differently depending on whether it’s made for men or women? Fashion researchers and historians like us have wondered about this gender difference. The answer has a lot to do with tradition, history, and the way clothes were made long ago. E",
     "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91547311-buttons-and-zippers-flipped.jpg",
@@ -798,7 +1344,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-81723029613880",
+    "id": "gal-13613367527856",
     "title": "Bosses take remote less work seriously when it’s geared toward parents, study shows",
     "description": "Being penalized for using flexible working policies—remote work, hybrid work, parental leave, and more—can be subtle, or screamingly obvious. Nicole Yelland, a communications strategist from Detroit, has experienced both. In one remote role, she was managed by a hostile boss whose explosive “Hulk-out” rages made work miserable. The breaking point came when her 5-year-old daughter was laid out sick in Yelland’s office during a call, and her manager erupted, asking what her “kid is doing in the office” in an expletive-packed rant: “You’re not paying attention! You’re not committed!” He then dismissed remote work as “BS”—as he himself was working from his large house in the country. When Yelland asked what he did when his own child was sick, he replied: “That’s what his mother is for.” She says she hid her daughter from the camera on future videoconference calls, and sent him her resignatio",
     "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91547074-bosses-take-remote-less-work-seriously-when-its-geared-toward-parents-study-shows.jpg",
@@ -812,7 +1358,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-75005007290040",
+    "id": "gal-50038602785871",
     "title": "What Is ‘Dusking?’ Namibia Named Best Place To Watch Day Turn To Night",
     "description": "The new “dusking” slow travel trend encourages travelers to unplug and watch the night slowly unfold. New data ranks little-known Namibia above the Maldives.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a0c8c90b34abe2b01714206/0x0.jpg",
@@ -826,7 +1372,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-13872632425403",
+    "id": "gal-30012915239515",
     "title": "Was Rico Verhoeven Robbed Vs. Oleksandr Usyk? Here Are The Facts",
     "description": "Oleksandr Usyk retained his WBC heavyweight title with a controversial 11th-round TKO of Rico Verhoeven in Egypt. Was Verhoeven robbed? Here are the facts.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a127830854b95cc3c3f4a50/0x0.jpg?width=960",
@@ -840,7 +1386,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-46934784317989",
+    "id": "gal-73465166262444",
     "title": "AI is already killing the executive assistant job",
     "description": "There is a growing body of evidence that AI is redefining white-collar work. It’s not just the endless rounds of layoffs at tech companies that herald this transformation. Entry-level jobs are disappearing in sectors like software engineering, leaving new college graduates scrambling to figure out their next move . Recent entrants to the workforce are faced with a uniquely challenging job market, one they say they are unprepared to navigate . Plenty of others are also vulnerable as AI rapidly changes the nature of white-collar work. Secretaries and assistants are high on the list of jobs that are prone to being disrupted by AI—and a Bloomberg report this week indicates the shift is already underway. Executive assistants at professional services firms are being cast aside, according to Bloomberg: In February, PwC reportedly laid off 600 employees in the U.S.—including assistants and recru",
     "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91547256-ai-is-already-killing-the-executive-assistant-job.jpg",
@@ -854,7 +1400,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-43069405445532",
+    "id": "gal-12553350481338",
     "title": "The case for the occasional white lie at work",
     "description": "Let’s say you and your team are struggling with an assignment for a client who’s notoriously difficult to work with. Even though your team is doing great work, the client lodges an unfair complaint against your star team member. At the end of the assignment, the team member asks for feedback, and you respond, “The client was satisfied with the end product.” There it is. You told a white lie to protect your star player. The frustrated grumblings of this client, you decided, weren’t a fair evaluation of their work and wouldn’t help your team grow. In fact, the feedback may do the opposite, distracting your team from important work and leading your top talent to wonder if they’ve been doing something wrong all along. Dealing with office gossip is another good example. What if one of your teammates has become the subject of water-cooler chat? You’ve overheard the gossip and know it’s nothing",
     "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-2-91544806-lying-at-work.jpg",
@@ -868,7 +1414,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-83380361609932",
+    "id": "gal-20495621892215",
     "title": "AI may be eating jobs, but it poses an even bigger threat",
     "description": "The AI conversation today focuses on systems. Which jobs will survive? How does education need to adapt? What happens to the economy when machines produce what humans used to? Governments are commissioning reports. Executives are restructuring. Educators are rewriting curricula. These are urgent questions. But there is one that matters just as much, and it’s the one we can actually do something about: What happens to us? Not our roles. Not our output. Our relationships, our sense of purpose, and our ability to connect with each other as human beings. I don’t pretend to have the answers to the economic and structural questions. But after two decades of working with leaders across 20 countries, I can see the writing on the wall, and what concerns me most isn’t which jobs disappear. It’s what disappears with them. The questions we need to start connecting Every major disruption from artific",
     "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-91546546-AI-and-the-threat-to-jobs.jpg",
@@ -882,21 +1428,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-31635339340118",
-    "title": "Today’s NYT Strands Hints, Spangram, Answers For Sunday, May 24 (Turn, Turn, Turn)",
-    "description": "Looking for help with today's NYT Strands puzzle? Here's an extra hint to help you uncover the right words, as well as all of today's answers and Spangram.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/69a8d28280b584aef715cac6/0x0.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Innovation",
-    "source_url": "https://www.forbes.com/sites/paultassi/2026/05/23/todays-nyt-strands-hints-spangram-answers-for-sunday-may-24-turn-turn-turn/",
-    "created_at": "2026-05-24T02:00:25+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-16920641922207",
+    "id": "gal-17886971188329",
     "title": "‘Climaxxing’ Is A New Social Media Sex Trend",
     "description": "You may have seen the \"climaxxing\" trend on social media. Will this do anything to combat the so-called \"sexual recession\" in America, especially among Gen Zers?",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a1251581b03301e21417953/0x0.jpg",
@@ -910,7 +1442,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-24614328536137",
+    "id": "gal-62945378673398",
     "title": "WWE Saturday Night’s Main Event 2026 Results As Ethan Page And Penta Steal The Show",
     "description": "At WWE Saturday Night's Main Event 2026, Ethan Page and Penta stole the show in a stellar battle of former AEW stars.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a0a1454ffae5970c95c2114/0x0.jpg",
@@ -924,7 +1456,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-28994319224132",
+    "id": "gal-90571124597604",
     "title": "WWE Saturday Night’s Main Event 2026 Results As Jade Cargill Pins Rhea Ripley",
     "description": "At WWE Saturday Night’s Main Event 2026, Jade Cargill got some WrestleMania revenge by pinning Rhea Ripley in tag team action.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a0b1ba43cd3d01a75bcf0c8/0x0.jpg",
@@ -938,7 +1470,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-33792054497398",
+    "id": "gal-65392219813744",
     "title": "The Reported USMNT World Cup Squad And What It Says About Pochettino",
     "description": "The Guardian on Saturday published what it said was manager Mauricio Pochettino’s 2026 USMNT World Cup squad in full, according to multiple sources.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a123f5de0d864127b131848/0x0.jpg?width=960&precrop=1819%2C1024%2Cx575%2Cy55",
@@ -952,7 +1484,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-17879590098226",
+    "id": "gal-41233478067534",
     "title": "Blue Jays 2-Time All-Star Bo Bichette Cites ‘New Locker Room’ Amid Mets Struggles",
     "description": "The Toronto Blue Jays’ long-time shortstop admitted that his adjustment to the New York Mets has been a struggle.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/693f79039cef391eb0ed93ca/0x0.jpg",
@@ -966,7 +1498,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-80935455217665",
+    "id": "gal-97778703456638",
     "title": "Apple iPhone Air’s Struggles Force Rare New Price Drop",
     "description": "The memory chip crisis is forcing prices up. But a public holiday shows Retailers selling Apple tech can't pass up an opportunity to make some sales.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6929cea9afa5f4fb3488ed84/0x0.jpg?width=960",
@@ -980,7 +1512,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-47880321732432",
+    "id": "gal-68094731708355",
     "title": "AI Automation Creates More Expert Work Not Less",
     "description": "AI doesn't replace expert knowledge workers - it multiplies demand for them. The self-reinforcing cycle behind the paradox: AI trains on recorded human competence, making rare skills cheap and widely available. That floods the market with same-looking output, which drives demand for the human judgment needed to frame, review, and differentiate. Experts then set new task frames that AI climbs, and the cycle resets.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a121eb8e810c71d589133db/0x0.jpg",
@@ -994,7 +1526,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-62213658716747",
+    "id": "gal-28023211348737",
     "title": "Trump Says Agreement To End Iran War Is ‘Largely Negotiated’",
     "description": "Officials in Pakistan told Reuters ongoing peace negotiations were “encouraging.”",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11f793001fc6e1ab9c66a3/0x0.jpg?width=960&precrop=3639%2C2046%2Cx0%2Cy188",
@@ -1008,7 +1540,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-92154333347079",
+    "id": "gal-42073389594912",
     "title": "Regional Powers Cannot Substitute U.S. For Gulf’s Defense Against Iran",
     "description": "At least as far as some in the Arab Gulf states are concerned, regional powers cannot adequately substitute for American military might.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11dbefe60405c4b437b1d1/0x0.jpg?width=960",
@@ -1022,7 +1554,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-10294301951485",
+    "id": "gal-47185166889891",
     "title": "First-Place Milwaukee Brewers Also Have MLB’s Top Prospect, Jesus Made",
     "description": "Jesus Made has baseball skills and a name straight from Heaven. The No. 1 prospect by MLB.com may just become the Milwaukee Brewers’ shortstop this year at age 19.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11bc02c273976f9e85269d/0x0.jpg?width=960&precrop=1466%2C906%2Cx0%2Cy70",
@@ -1036,7 +1568,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-20472583467224",
+    "id": "gal-26166214188277",
     "title": "Putting The Senses In AI",
     "description": "MIT panelists explored sensory AI, multimodal learning, privacy risks, robotics, and future human-machine interactions.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11f1533e7747feb1843045/0x0.jpg",
@@ -1050,7 +1582,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-40316953436759",
+    "id": "gal-36132950729756",
     "title": "Three Mistakes Brands Make In The Age Of AI Driven E-Commerce",
     "description": "AI is rewriting e-commerce around the shopper. The three costly mistakes brands make with GEO, chatbots and search, and the data-driven fix for each.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11e8129a21f8f2ce200ba4/0x0.jpg?width=960&precrop=3945%2C1848%2Cx0%2Cy114",
@@ -1064,7 +1596,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-10720788460063",
+    "id": "gal-24934728731786",
     "title": "‘Pause Windows Updates’—Microsoft Starts Fixing PC Problem",
     "description": "Microsoft says Windows updates are changing — here's what you do.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/69fe25ed4513cf594b28e8ac/0x0.jpg?width=960&precrop=2131%2C1422%2Cx172%2Cy36",
@@ -1078,7 +1610,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-76607997514641",
+    "id": "gal-72360874945975",
     "title": "‘What Matters Most’—Google Is Changing Your Gmail Inbox",
     "description": "Google confirms new upgrade — millions of Gmail users must now decide.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/672917de30558ca355afff3b/0x0.jpg?width=960&precrop=954%2C549%2Cx229%2Cy512",
@@ -1092,21 +1624,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-84546169043235",
-    "title": "Ebola Outbreak: Attackers Burn Down Another Clinic In DRC As Outbreak Rages",
-    "description": "One American who contracted Ebola is receiving treatment in Germany.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1070d4103a966d84654c53/0x0.jpg?width=960&precrop=3464%2C1948%2Cx0%2Cy0",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/maryroeloffs/2026/05/23/ebola-outbreak-attackers-burn-down-another-clinic-in-drc-as-outbreak-rages/",
-    "created_at": "2026-05-23T17:16:17+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-75848606759082",
+    "id": "gal-47901540035304",
     "title": "Huawei Watch Fit 5 Pro Has A Fun Panda Feature That Encourages You To Move",
     "description": "The Huawei Watch Fit 5 Pro brings panda-guided mini workouts, sapphire glass protection, NFC payments, and up to 10 days of battery life.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11d406c273976f9e85269f/0x0.jpg",
@@ -1120,7 +1638,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-70887443871935",
+    "id": "gal-66664346619343",
     "title": "NYT ‘Connections’ Hints And Answers For Sunday, May 24",
     "description": "Looking for today's NYT Connections hints? Some help and the answers for today's game are right here to help keep your streak alive.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6897b0fa9d5fa5836ab3a53d/0x0.jpg?width=960",
@@ -1134,7 +1652,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-14041211718538",
+    "id": "gal-60971827049948",
     "title": "Trump Posts More Bizarre AI Images—Targeting Greenland, Stephen Colbert And Others",
     "description": "The president appears to be fixating once again on Greenland, the Danish territory in the Arctic.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11ceb9acb441f4f89f57e3/0x0.jpg?width=960&precrop=2626%2C1478%2Cx0%2Cy243",
@@ -1148,7 +1666,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-61809828757793",
+    "id": "gal-68083349661708",
     "title": "At The Indy 500, The Most Valuable Real Estate Is The Front Row",
     "description": "Indy 500 results from 2018 to 2025 show Honda and Chevrolet closely matched, while front-row starters earned a decisive race-day and financial advantage at Indianapolis.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a1115bf6dd7db71c239f1e1/0x0.jpg",
@@ -1162,7 +1680,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-13762399564184",
+    "id": "gal-81536587516405",
     "title": "A U.S. Navy Supercarrier Is Now Operating In The Indo-Pacific",
     "description": "The forward-deployed USS George Washington departed from United States Navy Base-Fleet Activities Yokosuka on Saturday with little fanfare",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11cae3487ac08c72cfcc2a/0x0.jpg",
@@ -1176,7 +1694,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-84581229519757",
+    "id": "gal-77368249134458",
     "title": "Formula 1’s Data Explosion: The Petabyte Race Weekend Is Not Far Off",
     "description": "Each of the 22 cars on a 2026 Formula 1 grid carries 300 sensors that generate more than 1 million data points every single second.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11b60c65381416374a2a05/0x0.jpg",
@@ -1190,7 +1708,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-42878318378267",
+    "id": "gal-43133916311539",
     "title": "How To Watch The Glory And Spectacle Of The 110th Indianapolis 500",
     "description": "The Indianapolis 500 is one of the most-watched motorsports events of the year. Forbes Sports Money gives viewers a complete guide of \"How To Watch The 110th Indy 500.\"",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11b7d8a374d2f4818c6c29/0x0.jpg",
@@ -1204,7 +1722,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-73984375220212",
+    "id": "gal-91092053920227",
     "title": "After Destiny 2’s Closure, PlayStation’s Live Service Push Is Officially In Shambles",
     "description": "Destiny 2 is shutting down and Sony has nothing to replace it, relying mainly on a single first-party game going forward for its live-service push, Marathon.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11bca239ed2afc56be565f/0x0.jpg",
@@ -1218,7 +1736,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-41980052139914",
+    "id": "gal-38785904740934",
     "title": "‘The Boroughs’ Rotten Tomatoes Review Score Passes ‘Stranger Things’",
     "description": "The Boroughs is a Stranger Things-adjacent new series produced by the Duffer Brothers that has now surpassed that show's Rotten Tomatoes score.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11b62924afeacbc2a03c65/0x0.jpg",
@@ -1232,7 +1750,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-65890654914183",
+    "id": "gal-35863055699168",
     "title": "Apple To Release iOS 26.5.1 iPhone Update In Coming Days, Report Says",
     "description": "Apple iOS 26.5.1 is on its way, it seems, and is likely to land in a matter of days, while iOS 26.6 may hit first beta soon.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/68dc2043c6232d21d3b119a5/0x0.jpg",
@@ -1246,7 +1764,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-41491484131737",
+    "id": "gal-82904561855837",
     "title": "WWE Saturday Night’s Main Event 2026 Preview And Predictions",
     "description": "WWE Saturday Night's Main Event XLIV preview and predictions as The Street Profits face The Vision and Becky Lynch battles Sol Ruca.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a0c556b0926c613a6032d83/0x0.jpg",
@@ -1260,7 +1778,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-45491298770916",
+    "id": "gal-80388662851124",
     "title": "The ‘GTA 6’ Release Date Is Confirmed, And Everything We’ve Learned Recently",
     "description": "GTA 6 now has a triple confirmed release date, and we have gotten some new information about what's coming when it comes to future sales and promotion.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6957ec0ecc8738a11f4cac0a/0x0.jpg",
@@ -1274,7 +1792,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-28285760875853",
+    "id": "gal-13527776697163",
     "title": "The No. 1 Skill That Makes Love Feel Easy, By A Psychologist",
     "description": "Lasting love doesn’t ask you to give more of yourself. It asks you to be more settled within yourself. Here’s what that actually means.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6543f153527506be040f47ec/0x0.jpg?width=960&precrop=6000%2C3377%2Cx0%2Cy310",
@@ -1288,7 +1806,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-38795062962639",
+    "id": "gal-11562229055559",
     "title": "More Details About The End Of ‘Destiny 2’ From Inside Bungie",
     "description": "With Destiny 2 ending, that raises questions about the future of Bungie, and here's some more information from inside the company.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11a63e75a71f890aa70653/0x0.jpg",
@@ -1302,7 +1820,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-55378979831659",
+    "id": "gal-46673152928811",
     "title": "The First Sentence of Your Pitch Determines Your Success — Here’s How to Perfect It",
     "description": "In fast-moving environments where investors, journalists and customers rely on quick interpretation, the first sentence or the first 10 seconds often determines everything that follows.",
     "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/1779301490-first-sentence-of-pitch-deck-0526-g1424984654.jpg",
@@ -1316,7 +1834,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-71631775663973",
+    "id": "gal-23543566436289",
     "title": "Waymos Have Trouble With Floods, Which Is Surprising",
     "description": "Figuring out the depth of water should be easy for a car with 3D sensors. So why is Waymo having so much trouble tracking flooding?",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a10f088fee1d501fcf3a1f9/0x0.jpg",
@@ -1330,7 +1848,7 @@
     "from_old_news": true
   },
   {
-    "id": "gal-19876921299233",
+    "id": "gal-12496049533680",
     "title": "Billie Eilish’s Latest Album Celebrates A Milestone",
     "description": "Shortly after her concert movie took over the planet, Billie Eilish's Hit Me Hard and Soft reaches an important chart milestone.",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a11a0c48e0e14f46063fc5d/0x0.jpg?width=960&precrop=4102%2C2306%2Cx204%2Cy275",
@@ -1340,664 +1858,6 @@
     "source": "Forbes Business",
     "source_url": "https://www.forbes.com/sites/hughmcintyre/2026/05/23/billie-eilishs-latest-album-celebrates-a-milestone/",
     "created_at": "2026-05-23T12:43:21+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-17787961845913",
-    "title": "‘Obsession’ Is About To Hit Two Wild Box Office Milestones",
-    "description": "Obsession is already a phenomenon, but after this weekend, should reach new high water marks in a few different box office categories.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0872e04e3bb248b505c8c7/0x0.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/paultassi/2026/05/23/obsession-is-about-to-hit-two-wild-box-office-milestones/",
-    "created_at": "2026-05-23T12:41:38+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-64517882574400",
-    "title": "2Pac’s Heartfelt Single Finally Cracks The Top 10",
-    "description": "Nearly 30 years after its release, 2Pac's \"Dear Mama\" returns to a Billboard chart and breaks into the top 10 for the first time",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/692b290ea6073cebf67289e6/0x0.jpg?width=960&precrop=2378%2C1337%2Cx0%2Cy297",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/hughmcintyre/2026/05/23/2pacs-heartfelt-single-finally-cracks-the-top-10/",
-    "created_at": "2026-05-23T12:37:54+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-24422969849157",
-    "title": "Taylor Swift Has Been Blocked From A Milestone No. 1 By The Same Song A Dozen Times",
-    "description": "Alex Warren's \"Ordinary\" has blocked Taylor Swift's \"The Fate of Ophelia\" from finally reaching No. 1 on Billboard's Adult Contemporary chart for a dozen weeks now.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a111b5da98aedc2c3bb5c96/0x0.jpg?width=960&precrop=2511%2C1412%2Cx5%2Cy318",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/hughmcintyre/2026/05/23/taylor-swift-has-been-blocked-from-a-milestone-no-1-by-the-same-song-a-dozen-times/",
-    "created_at": "2026-05-23T12:30:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-53679216956197",
-    "title": "Why Can’t We See Ultraviolet Light? An Evolutionary Biologist Explains",
-    "description": "Humans can only see less than 1% of the electromagnetic spectrum. Here’s why evolution may have intentionally hidden ultraviolet light from us.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f23122723c0521f14c5f1/0x0.jpg?width=960&precrop=3899%2C2191%2Cx0%2Cy0",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Innovation",
-    "source_url": "https://www.forbes.com/sites/scotttravers/2026/05/23/why-cant-we-see-ultraviolet-light-an-evolutionary-biologist-explains/",
-    "created_at": "2026-05-23T12:30:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-15325547555625",
-    "title": "Michael Jackson’s Career-Changing Album Reaches New Peaks On Several Charts",
-    "description": "Michael Jackson's Off the Wall, which changed the trajectory of his career and ensure his solo superstardom, climb to new peaks on several Billboard charts.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/69a843ce1d415b5f0acbdd2d/0x0.jpg?width=960",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/hughmcintyre/2026/05/23/michael-jacksons-career-changing-album-reaches-new-peaks-on-several-charts/",
-    "created_at": "2026-05-23T12:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-19647097454798",
-    "title": "LeBron James’ Grip Powder Auctions For $2,150",
-    "description": "The Cleveland Cavaliers and the Realest have auctioned off authenticated memorabilia, including LeBron James' grip powder.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1132738ca064247b962747/0x0.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/markmedina/2026/05/24/lebron-james-grip-powder-auctions-for-2150/",
-    "created_at": "2026-05-23T12:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-43319603572477",
-    "title": "Why Is SpaceX Launching History’s Biggest Rocket During A Fuel Crisis?",
-    "description": "Why SpaceX’s giant Starship rocket is not worsening the fuel crisis — but may still raise profound climate questions.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6836be3590f0458b4430a5c7/0x0.jpg?width=960",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Innovation",
-    "source_url": "https://www.forbes.com/sites/jamiecartereurope/2026/05/23/why-is-spacex-launching-historys-biggest-rocket-during-a-fuel-crisis/",
-    "created_at": "2026-05-23T11:46:17+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-39772069085553",
-    "title": "The iPhone 18 Release Strategy: Why Apple Is Staggering Its Next Lineup",
-    "description": "Shipping dates for the iPhone 18 family reveal Apple’s strategy to give each iPhone a moment as the premium must-have smartphone while dictating the annual upgrade cycle.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a10edf5357fef49ae210fe5/0x0.jpg?width=960&precrop=2487%2C1400%2Cx97%2Cy130",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Innovation",
-    "source_url": "https://www.forbes.com/sites/ewanspence/2026/05/23/apple-iphone-18-pro-split-release-strategy/",
-    "created_at": "2026-05-23T11:43:53+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-39596429525185",
-    "title": "Things clutter-free people do every day",
-    "description": "Discover six simple things organized people do every day without overthinking it, for a more orderly home",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/grant-shew-k19WYFOJ33o-unsplash.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Quartz",
-    "source_url": "https://qz.com/-things-clutter-free-people-do-every-day-readers-digest",
-    "created_at": "2026-05-23T11:10:41+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-18559589972813",
-    "title": "Death And Taxes: Forbes’ Practical Guide For Families",
-    "description": "Advice for survivors on everything from state inheritance and estate taxes, to inherited IRAs, to sorting through a lifetime of possessions and papers.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/69fe15de24e74c1078c109f8/0x0.jpg?width=960&precrop=1920%2C1080%2Cx0%2Cy0",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/kellyphillipserb/2026/05/23/death-and-taxes-forbes-practical-guide-for-families/",
-    "created_at": "2026-05-23T10:30:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-31483679917854",
-    "title": "America’s Top Architects: New York’s 1100 Architect Goes Bold Near Boston",
-    "description": "Houses from Forbes' “America's Top Architects” 2025 lists",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f6dac4af1409e0a6000e6/0x0.jpg?width=960",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/fredalbert/2026/05/23/americas-top-architects-new-yorks-1100-architect-goes-bold-near-boston/",
-    "created_at": "2026-05-23T10:30:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-86001671087127",
-    "title": "Captured Ukrainian Baba Yagas Are Becoming Russia’s Drone Of Choice",
-    "description": "Russian forces are increasingly repairing and reusing captured Ukrainian Baba Yaga drones to support combat operations and fill a major battlefield need.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a108fc666d921815e27d23c/0x0.jpg?width=960&precrop=4155%2C2336%2Cx0%2Cy5",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/vikrammittal/2026/05/23/captured-ukrainian-baba-yagas-are-becoming-russias-drone-of-choice/",
-    "created_at": "2026-05-23T10:14:41+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-30652043449158",
-    "title": "Are Sharks Even Sharks? New Genetic Study Could Rewrite Shark Evolution.",
-    "description": "A new genome-based study suggests that ancient sharks like frilled and cow sharks could sit outside the family tree that includes all other sharks, rays and skates.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a099371222f0d21fc86e24e/0x0.jpg?width=960&precrop=5100%2C2869%2Cx0%2Cy713",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Innovation",
-    "source_url": "https://www.forbes.com/sites/melissacristinamarquez/2026/05/23/are-sharks-even-sharks-new-genetic-study-could-rewrite-shark-evolution/",
-    "created_at": "2026-05-23T10:10:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-90042739760546",
-    "title": "From Instability To Identity: The Decade That Shaped American Soccer",
-    "description": "At the turn of the millennium, the game in the United States occupied a fragile yet promising position.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/69f788b979332ec0a47ed2a6/0x0.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/clementelisi/2026/05/23/from-instability-to-identity-the-decade-that-shaped-american-soccer/",
-    "created_at": "2026-05-23T10:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-77640074641256",
-    "title": "Phillies’ Bryce Harper Offers Response On Cutting Ties With Homegrown Slugger",
-    "description": "The Philadelphia Phillies’ franchise slugger sent a “feel bad” message on the team’s decision to move on from an injured fan favorite.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/69fca281f65ee4b4f5eb68a4/0x0.jpg?width=960&precrop=4024%2C2264%2Cx0%2Cy0",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/peterchawaga/2026/05/23/phillies-bryce-harper-offers-response-on-cutting-ties-with-homegrown-slugger/",
-    "created_at": "2026-05-23T10:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-85771997068084",
-    "title": "Why Artificial Light Should Now Be Legally Classed As Pollution",
-    "description": "The Royal Astronomical Society is urging governments to classify artificial light as pollution, citing growing risks to health, biodiversity and astronomy.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0c30bb42c0fc1b8ba37d21/0x0.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Innovation",
-    "source_url": "https://www.forbes.com/sites/jamiecartereurope/2026/05/23/why-artificial-light-should-now-be-legally-classed-as-pollution/",
-    "created_at": "2026-05-23T10:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-33980264231642",
-    "title": "MacBooks Can Now Drive Two Screens Without Drivers With This New Dock",
-    "description": "StarTech, a global supplier of tech gadgets for IT professionals, has released a driverless dual 4K USB4 docking station that can drive two display on newer MacBooks.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0ee5eb0e8546a5df27f4fc/0x0.jpg?width=960&precrop=2000%2C1500%2Cx0%2Cy245",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Innovation",
-    "source_url": "https://www.forbes.com/sites/marksparrow/2026/05/23/macbooks-can-now-drive-two-screens-without-drivers-with-this-new-dock/",
-    "created_at": "2026-05-23T10:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-43403203065709",
-    "title": "20 companies that invented the products we can't live without",
-    "description": "From the assembly line to the smartphone, these are the companies whose inventions became so embedded in daily life that the world before them is almost impossible to picture",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/julius-drost-oC66vXsqnc8-unsplash.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Quartz",
-    "source_url": "https://qz.com/companies-invented-everyday-products",
-    "created_at": "2026-05-23T09:15:46+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-24542259790503",
-    "title": "The 15 most consequential things humans did to nature by accident",
-    "description": "From cane toads to ozone holes, the unintended consequences of human activity have reshaped ecosystems, altered climates, and produced some of the strangest chapters in natural history",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-625667906.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Quartz",
-    "source_url": "https://qz.com/ways-humans-accidentally-altered-natural-world",
-    "created_at": "2026-05-23T09:14:13+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-83938328983385",
-    "title": "The best cruise lines for single seniors in 2026",
-    "description": "The best cruises for single seniors, from Celebrity's veranda solo cabins to Windstar's James Beard culinary sailings",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2163400703.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Quartz",
-    "source_url": "https://qz.com/best-cruise-lines-single-seniors-2026",
-    "created_at": "2026-05-23T09:12:49+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-50784206050541",
-    "title": "The worst used cars you'll want to avoid this year",
-    "description": "From a 13-second Mitsubishi Mirage to a Toyota Tundra with worrying crash-test scores, the used cars not worth your money",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1367763446.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Quartz",
-    "source_url": "https://qz.com/worst-used-cars-avoid-this-year",
-    "created_at": "2026-05-23T09:12:35+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-98354921476023",
-    "title": "The most comfortable cars you can buy in 2026",
-    "description": "From the Mercedes-Benz G-Class EV's perfect interior score to a Ram 1500 that rides closer to a luxury SUV than a pickup truck",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/hyundai%2520cover0522.png",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Quartz",
-    "source_url": "https://qz.com/most-comfortable-cars-2026",
-    "created_at": "2026-05-23T09:12:21+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-74485802222354",
-    "title": "7 things short-term rental hosts need to know about seasonality",
-    "description": "Short-term rental profits hinge on timing more than hosts expect. AirDNA studied 15 million listings across seasons to identify what works year-round",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1332149620.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Quartz",
-    "source_url": "https://qz.com/short-term-rental-hosts-maximize-profit-year-round-2026",
-    "created_at": "2026-05-23T09:11:58+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-63808427182521",
-    "title": "The best ways to visit the Taj Mahal in 2026",
-    "description": "From a fast-train day trip from Delhi to an overnight tour with two visits and a quiet back-river view of the monument",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/shan-elahi-DDiLYt_F88w-unsplash0522.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Quartz",
-    "source_url": "https://qz.com/best-ways-visit-taj-mahal-2026",
-    "created_at": "2026-05-23T09:11:37+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-84260000763909",
-    "title": "Home prices have outrun incomes everywhere — except in these 5 U.S. cities",
-    "description": "Most U.S. cities give median earners little to buy within their budget. Redfin ranked 50 metros on share of affordable listings to find the exceptions",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-513772762.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Quartz",
-    "source_url": "https://qz.com/most-affordable-cities-buy-home-us-2026",
-    "created_at": "2026-05-23T09:11:27+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-41037445073648",
-    "title": "The most overpriced new cars this summer, according to Consumer Reports",
-    "description": "Many popular vehicles are actually selling above their MSRPs, according to data from Consumer Reports and TrueCar",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2255118374.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Quartz",
-    "source_url": "https://qz.com/most-overpriced-new-cars-summer-consumer-reports",
-    "created_at": "2026-05-23T09:10:36+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-45190895345972",
-    "title": "Oracle and the AI boom’s hidden debt bomb",
-    "description": "The old adage goes that during a boom, the companies that profit most are the ones selling the picks and shovels. This January, even as consensus had largely settled around the idea that an AI bubble exists, something even Sam Altman acknowledged last August, Blackstone called investing in the “picks and shovels” of AI a “generational” opportunity. The safer bet, we’re told, lies not in the models themselves but in AI’s physical infrastructure: data centers, chips, and electricity. “The Real AI Talent War Is for Plumbers and Electricians,” declared a January headline in Wired . Of the major players in artificial intelligence, a few might reasonably be considered picks-and-shovels companies. Nvidia, led by Jensen Huang , is one. Another is Oracle, which under Larry Ellison has spent the past year building some of the country’s largest AI data centers to provide computing power for compani",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-2-91545823-oracle-and-the-hidden-ai-debt-bomb.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Fast Company",
-    "source_url": "https://www.fastcompany.com/91545823/oracle-and-the-ai-booms-hidden-debt-bomb",
-    "created_at": "2026-05-23T09:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-90631568228566",
-    "title": "The AI backlash is a danger for every brand now",
-    "description": "It was a bad week for AI ’s public image. The concept was booed on mention at several commencement speeches, tarnished a literary prize, drove more layoffs , and tangled local politics in a number of data-center squabbles. A hyped new book about AI’s impact on “truth” was dragged for including fake quotes made up by AI. Pope Leo XIV’s forthcoming encyclical will concern “safeguarding the human person in the time of artificial intelligence,” Vatican News reported . “I don’t think I’ve ever seen something intensify this quickly,” mused one of the researchers behind a recent poll from Stanford University and the University of California, Berkeley, finding less than half of Americans think the country should charge ahead with AI innovation. Inevitably, this backlash-y skepticism threatens to ding big brands that, fairly or not, seem complicit in AI’s increasing ubiquity. This isn’t just a po",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91546490-ai-backlash.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Fast Company",
-    "source_url": "https://www.fastcompany.com/91546490/the-ai-backlash-is-a-danger-for-every-brand-now",
-    "created_at": "2026-05-23T08:30:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-55054200167719",
-    "title": "Lamborghini CEO Winkelmann: Our Supercars Won’t Go All Electric Yet",
-    "description": "Lamborghini, the company that defined mid-engined supercars, has electrified its entire range, but not gone all electric. CEO Stephan Winkelmann explains why.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f43ed162bcad7cd795d09/0x0.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Innovation",
-    "source_url": "https://www.forbes.com/sites/jamesmorris/2026/05/23/lamborghini-ceo-winkelmann-our-supercars-wont-go-all-electric-yet/",
-    "created_at": "2026-05-23T08:30:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-28949965550404",
-    "title": "Northeast and Midwest housing markets are the tightest heading into summer 2026",
-    "description": "Want more housing market stories from Lance Lambert’s ResiClub in your inbox? Subscribe to the ResiClub newsletter . Many of the softest housing markets, where homebuyers have gained the most leverage over the past four years since the pandemic housing boom ended, are located in Southern and Mountain West regions. Many of those areas were home to the nation’s top pandemic boomtowns, which experienced significant home price growth during the pandemic housing boom, stretching housing prices beyond local income levels. Once pandemic-fueled domestic migration slowed and mortgage rates spiked, markets like Punta Gorda, Florida, and Austin faced challenges as they had to rely on local incomes to sustain frothy home prices. The housing market softening in these areas was further accelerated by the abundance of new home supply in the pipeline across the Sunbelt. When and where needed, builders a",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91547414-northeast-midwest-housing-markets-summer-2026.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Fast Company",
-    "source_url": "https://www.fastcompany.com/91547414/housing-market-northeast-midwest-markets-are-tightest-heading-into-summer-2026",
-    "created_at": "2026-05-23T08:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-31579795346918",
-    "title": "Sketchy Imbalances In Data Training Are Distorting AI-Generated Mental Health Guidance",
-    "description": "Most people do not realize that AI has imbalances due to the initial training of the AI. This is worrisome for AI giving out mental health advice. An AI Insider scoop.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/691d46d65c2881a828dd2759/0x0.jpg?width=960",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/lanceeliot/2026/05/23/sketchy-imbalances-in-data-training-are-distorting-ai-generated-mental-health-guidance/",
-    "created_at": "2026-05-23T07:15:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-74018792144976",
-    "title": "Ray J Vs. Supa Hot Fire: Start Time And How To Watch",
-    "description": "Ray J vs. Supah Hot Fire is the Brand Risk 14 co-main at the UFC Apex on May 23. Here's the start time, ring walk window and how to watch it free.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a114ff27ccd3e49b2ce5f73/0x0.jpg?width=960",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Innovation",
-    "source_url": "https://www.forbes.com/sites/brianmazique/2026/05/23/ray-j-vs-supa-hot-fire-start-time-and-how-to-watch/",
-    "created_at": "2026-05-23T07:04:52+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-50397841714744",
-    "title": "4 battery and charging tips to keep your Apple MacBook running longer than ever",
-    "description": "For years, Apple has put a lot of effort into providing users with ways to extend their iPhone’s battery life . But while iOS slowly introduced more battery-management features for iPhone, Apple’s other big battery-powered device, the MacBook, was left behind. Lately, that’s changed. Today, Apple’s laptops, particularly those running macOS 26, offer numerous battery and charging management features that aim to keep your MacBook’s battery lasting as long as possible. Best of all, they work whether you have the most powerful MacBook Pro or Apple’s most affordable laptop, the MacBook Neo . Here’s how to extend battery life: Turn on Low Power Mode If you find that your MacBook battery level is low, and you’re without your charger, the quickest way to conserve power (and keep working) is to enable Low Power Mode. With this mode enabled, your MacBook will instantly reduce its energy consumptio",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-91532797-apple-macbook-battery-and-charging-tips.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Fast Company",
-    "source_url": "https://www.fastcompany.com/91532797/4-battery-charging-tips-keep-your-apple-macbook-running-longer-than-ever-charger-low-power-mode-optimized",
-    "created_at": "2026-05-23T07:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-17651173350039",
-    "title": "Oleksandr Usyk Vs. Rico Verhoeven: Start Time And Ring Walks In Egypt",
-    "description": "Oleksandr Usyk vs. Rico Verhoeven streams Saturday on DAZN from the Pyramids of Giza. Here's the main card start time, projected ring walks and viewing info.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a114b6d3d6433ce2801b379/0x0.jpg?width=960",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/brianmazique/2026/05/23/oleksandr-usyk-vs-rico-verhoeven-start-time-and-ring-walks-in-egypt/",
-    "created_at": "2026-05-23T06:44:03+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-42298348138708",
-    "title": "WWE Saturday Night's Main Event Final Card And Start Time",
-    "description": "WWE Saturday Night's Main Event hits Fort Wayne tonight at 8 p.m. ET with Penta's IC Title defense and a stacked card. Here's the card, start time and how to watch.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a11454bdcc115fe193f5f3d/0x0.jpg?width=960",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/brianmazique/2026/05/23/wwe-saturday-nights-main-event-final-card-and-start-time/",
-    "created_at": "2026-05-23T06:24:55+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-12629148472623",
-    "title": "Grizz Chapman, ’30 Rock’ Star, Dies At 52",
-    "description": "Grizz Chapman, who starred as Warren “Grizz” Griswold on the classic NBC sitcom \"30 Rock,\" has died.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a113d7f97d93d7e29261da7/0x0.jpg?width=960&precrop=1860%2C1045%2Cx33%2Cy11",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/timlammers/2026/05/23/grizz-chapman-30-rock-star-dies-at-52/",
-    "created_at": "2026-05-23T05:43:27+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-83900971261504",
-    "title": "‘Obsession’ Projected To Drop Only 1% In 2nd Weekend Business At Box Office",
-    "description": "Curry Barker’s horror movie hit, \"Obsession,\" starring Inde Navarrette and Michael Johnston, is projected to make as much money in its second weekend in theaters as it did in its first.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a112cc5d5195fe7736bc547/0x0.jpg?width=960",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/timlammers/2026/05/23/obsession-projected-to-drop-only-1-in-2nd-weekend-business-at-box-office/",
-    "created_at": "2026-05-23T05:04:24+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-21865343285153",
-    "title": "‘Mandalorian And Grogu’ Projected To Have Lowest Disney ‘Star Wars’ Opening",
-    "description": "\"The Mandalorian and Grogu\" just opened in theaters, and it’s already projected to make less money in its debut than 2018’s Disney \"Star Wars\" misfire \"Solo: A Star Wars Story.\"",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a111a1fa98aedc2c3bb5c92/0x0.jpg?width=960",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/timlammers/2026/05/22/mandalorian-and-grogu-projected-to-have-lowest-disney-star-wars-opening/",
-    "created_at": "2026-05-23T03:27:33+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-76022356566833",
-    "title": "The secret to getting assigned high-value projects",
-    "description": "If you want to succeed at work, you not only need to get work done, you need to do the right kind of work. That work involves helping to complete projects that really matter to your organization—ones that are central to the mission. You don’t get assigned to those key projects right away. They tend to be run by leaders with significant experience and are staffed by others who have proven their capabilities and have demonstrated how they will contribute to a positive outcome. How do you become one of those go-to individuals? Carry a lot of water If you’re going to get placed on significant projects, you must be well known to be reliable. That means both doing the things you’re asked to do well and finding things that you weren’t asked to do and needed to be done. Even if you are not the most conscientious person in the world, you need to focus on the details and ensure that when you take",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-91543971-how-to-get-assigned-high-value-projects.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Fast Company",
-    "source_url": "https://www.fastcompany.com/91543971/the-secret-to-getting-assigned-high-value-projects",
-    "created_at": "2026-05-23T03:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-53685599852041",
-    "title": "AI coaches tell leaders what they want to hear",
-    "description": "Recently, a senior executive shared something that initially sounded surprising. “I find it easier to open up to AI than to a person.” She was referring to an AI coaching platform her company had introduced. The tool prompted reflective questions, helped her think through challenges, and generated suggestions based on patterns in her responses. She appreciated the privacy and the absence of judgment. “There’s no pressure,” she explained. “The system just helps me think.” Her reaction isn’t unusual. As artificial intelligence tools become more sophisticated, many organizations are experimenting with AI-powered coaching platforms. These systems promise scale, consistency, and immediate access to guidance —benefits that are appealing in organizations where leadership development resources are limited. But this trend raises an important question: If AI can help leaders reflect, analyze decis",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91545653-ai-yes-men.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Fast Company",
-    "source_url": "https://www.fastcompany.com/91545653/ai-coaches-tell-leaders-what-they-want-to-hear",
-    "created_at": "2026-05-23T03:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-91369449391117",
-    "title": "Drama Desk Awards Reshape Tony Awards Race",
-    "description": "While Tony Awards voters stay silent about their ballots, the Drama Desk Awards voters are loud enough to move the market.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a110f9a7a5f90f4d43d6eb8/0x0.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/marchershberg/2026/05/22/drama-desk-awards-reshape-tony-awards-race/",
-    "created_at": "2026-05-23T02:40:26+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-65846504068942",
-    "title": "Senator Bill Cassidy Is A Case Study In Public Health And Political Risk",
-    "description": "Bill Cassidy’s Senate primary loss highlights the growing collision between public health and political survival — and offers lessons for America's leaders.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a110ff39639c97acac2b11b/0x0.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Innovation",
-    "source_url": "https://www.forbes.com/sites/briancastrucci/2026/05/22/senator-bill-cassidy-is-a-case-study-in-public-health-and-political-risk/",
-    "created_at": "2026-05-23T02:30:17+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-45353542610437",
-    "title": "4 AI Prompts to Build a One-Person Business in 2026 (No Team, No Funding, No Guessing)",
-    "description": "Find the bottleneck that could become your next multimillion-dollar idea.",
-    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/1779484428-use-ai-build-one-person-business-0526-g2210899479.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Entrepreneur",
-    "source_url": "https://www.entrepreneur.com/growing-a-business/4-ai-prompts-to-build-a-one-person-business-in-2026-no/504538",
-    "created_at": "2026-05-23T00:00:00+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-82900909838102",
-    "title": "Ozzy Osbourne’s Family Is Resurrecting Him As An AI Hologram",
-    "description": "The promise of an interactive avatar of the late Black Sabbath frontman is dividing fans, with some expressing excitement and others calling it ghoulish and unsettling.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a10e86d20cb09879c8ba5e9/0x0.jpg?width=960",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Innovation",
-    "source_url": "https://www.forbes.com/sites/lesliekatz/2026/05/22/ozzy-osbournes-family-is-resurrecting-him-as-an-ai-hologram/",
-    "created_at": "2026-05-22T23:56:23+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-24815693791516",
-    "title": "Yankees Send 5-Word Aaron Judge Message As Concerns Mount",
-    "description": "New York Yankees manager Aaron Boone offered a five-word response on rising concerns about the franchise slugger.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a10523e7d9444af2c0be2f9/0x0.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/peterchawaga/2026/05/22/yankees-send-5-word-aaron-judge-message-as-concerns-mount/",
-    "created_at": "2026-05-22T23:00:40+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-77359526429424",
-    "title": "How Players’ Boycott Morphed Into A Mild Protest",
-    "description": "Top tennis players threatened to boycott the French Open. Instead they staged a media protest, limiting their time in front of cameras.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f82e87c316eeb53534fa3/0x0.jpg",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/merlisalawrencecorbett/2026/05/22/french-open-2026-how-players-boycott-morphed-into-a-mild-protest/",
-    "created_at": "2026-05-22T22:53:41+00:00",
-    "gallery_source": "older_active_news",
-    "from_old_news": true
-  },
-  {
-    "id": "gal-58818080384409",
-    "title": "‘Obsession’ Star Inde Navarrette Discusses Her Spellbinding Performance In Hit Horror Thriller",
-    "description": "Inde Navarrette, the breakout star of Curry Barker’s indie horror movie sensation “Obsession,” discusses why she thinks the film is grabbing hold of audiences.",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a10d040a21cb97083097524/0x0.jpg?width=960",
-    "category": "poslovanje",
-    "group": "poslovanje",
-    "label": "POSLOVANJE",
-    "source": "Forbes Business",
-    "source_url": "https://www.forbes.com/sites/timlammers/2026/05/22/obsession-star-inde-navarrette-discusses-her-spellbinding-performance-in-hit-horror-thriller/",
-    "created_at": "2026-05-22T22:31:54+00:00",
     "gallery_source": "older_active_news",
     "from_old_news": true
   }

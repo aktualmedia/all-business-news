@@ -1,22 +1,5 @@
 [
   {
-    "id": "a6ea42555ce3d793",
-    "title": "Swan Lake Pay no fees | Book by Tickets From £",
-    "date": "2026-05-24",
-    "datetime": "2026-05-24T00:00:00+00:00",
-    "country": "Ujedinjeno Kraljevstvo",
-    "city": "London",
-    "venue": "Official London Theatre",
-    "institution": "Official London Theatre",
-    "type": "kazalište",
-    "source": "Official London Theatre",
-    "url": "https://officiallondontheatre.com/show/swan-lake-111432321/",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-25T20:53:22.583721+00:00"
-  },
-  {
     "id": "a45768645aa3eba0",
     "title": "Program: National Gallery of Victoria",
     "date": "2026-05-25",
@@ -1358,5 +1341,22 @@
     "image": null,
     "program_link_only": false,
     "fetched_at": "2026-05-25T20:54:23.081249+00:00"
+  },
+  {
+    "id": "2616bb7ab5dd3d1a",
+    "title": "mk2 bibliothèque × Centre Pompidou, Paris Screening and discussion Girlhood Version remontée de « Bande de fill… Is part of Céline Sciamma \u0000 7pm - 8:30pm Soon",
+    "date": "2026-06-06",
+    "datetime": "2026-06-06T00:00:00+00:00",
+    "country": "Francuska",
+    "city": "Pariz",
+    "venue": "Centre Pompidou",
+    "institution": "Centre Pompidou",
+    "type": "muzej / izložbe",
+    "source": "Centre Pompidou",
+    "url": "https://www.centrepompidou.fr/en/program/calendar/event/xhcPfLi",
+    "description": "",
+    "image": null,
+    "program_link_only": false,
+    "fetched_at": "2026-05-25T20:54:23.081579+00:00"
   }
 ]

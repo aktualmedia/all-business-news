@@ -1,66 +1,78 @@
 {
-  "updated_at": "2026-05-25T10:03:42.578852+00:00",
+  "updated_at": "2026-05-26T06:59:18.632515+00:00",
   "source_policy": "manual_gallery_real_old_news_only",
   "groups": [
     {
       "id": "kultura",
       "label": "KULTURA",
-      "count": 92,
-      "cover": "https://deadline.com/wp-content/uploads/2026/05/richard-dreyfuss.jpg"
+      "count": 91,
+      "cover": "https://variety.com/wp-content/uploads/2026/05/Pope-Leo.jpg"
     },
     {
       "id": "dizajn",
       "label": "DIZAJN",
-      "count": 53,
-      "cover": "https://www.yankodesign.com/images/design_news/2026/05/auto-draft/silhouette_chair_1.jpg"
+      "count": 56,
+      "cover": "https://www.designboom.com/wp-content/uploads/2026/05/new-european-bauhaus-festival_designboom_700-500x400-22b08q85r117.jpg"
     },
     {
       "id": "hedonizam",
       "label": "HEDONIZAM",
-      "count": 8,
-      "cover": "https://robbreport.com/wp-content/uploads/2026/05/RR_20260515_Alto_Adige_Pinot_Noir_1.jpg"
+      "count": 7,
+      "cover": "https://www.journal.hr/wp-content/uploads/2026/05/Asian-Street-Food-Festival-28-768x512.jpeg"
+    },
+    {
+      "id": "pica",
+      "label": "PIĆA",
+      "count": 9,
+      "cover": "https://cdn.mos.cms.futurecdn.net/d5KsRs8quvKyXgiMe38CQH-1280-80.jpg"
     },
     {
       "id": "satovi",
       "label": "SATOVI",
-      "count": 4,
-      "cover": "https://monochrome-watches.com/app/uploads/2026/03/2026-Tissot-Visodate-Collection-Redesigned-Powermatic-80-review-7-600x237.jpg"
+      "count": 5,
+      "cover": "https://monochrome-watches.com/app/uploads/2026/05/Akhor-Watches-now-Poincon-de-Geneve-certified-1-600x237.jpg"
     },
     {
       "id": "lifestyle",
       "label": "LIFESTYLE",
-      "count": 12,
-      "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F24%2Ftiffany-co-blue-box-cafe-lee-gardens-hong-kong-000.jpg?w=800&cbr=1&q=90&fit=max"
+      "count": 20,
+      "cover": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F22%2Frizla-palace-skateboards-collaboration-collection-release-info-0.jpg?w=800&cbr=1&q=90&fit=max"
     },
     {
       "id": "tehnologija",
       "label": "TEHNOLOGIJA",
-      "count": 45,
-      "cover": "https://www.engadget.com/img/gallery/the-white-house-is-reportedly-forcing-its-official-app-onto-all-government-employee-phones/l-intro-1779645823.jpg"
+      "count": 39,
+      "cover": "https://media.wired.com/photos/6a07afab67132e88ffa73314/master/pass/Culture_TheDecentralizedHook-upApp_v3.jpg"
     },
     {
       "id": "znanost",
       "label": "ZNANOST",
-      "count": 62,
-      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/graphene-quantum-dots.jpg"
+      "count": 65,
+      "cover": "https://scx1.b-cdn.net/csz/news/tmb/2026/rodent-eradication-spa.jpg"
     },
     {
       "id": "poslovanje",
       "label": "POSLOVANJE",
-      "count": 143,
-      "cover": "https://imageio.forbes.com/specials-images/imageserve/69f6acd10084fb39b46f00b0/0x0.jpg?width=960"
+      "count": 133,
+      "cover": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/emil-kalibradov-wL8sz3Graj4-unsplash.jpg"
     },
     {
       "id": "financije",
       "label": "FINANCIJE",
-      "count": 72,
-      "cover": "https://images.mktw.net/im-39232642"
+      "count": 65,
+      "cover": "https://images.mktw.net/im-41109016"
     },
     {
       "id": "trzista",
       "label": "TRŽIŠTA",
       "count": 9,
-      "cover": "https://www.visualcapitalist.com/wp-content/uploads/2026/05/Tallest-Buildings_02-share.webp"
+      "cover": "https://www.freightwaves.com/wp-content/uploads/2026/05/24/nuclear-verdict-shutterstock.jpg"
+    },
+    {
+      "id": "vijesti",
+      "label": "VIJESTI",
+      "count": 1,
+      "cover": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/b8650845-1cae-4503-540d-d1c6681b4900/w=1024"
     }
   ]
 }
