@@ -28,6 +28,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 env:
   TZ: Europe/Zagreb
@@ -90,3 +92,32 @@ jobs:
           git commit -m "Automatsko satno azuriranje vijesti i provjera integriteta"
           git pull --rebase origin main
           git push origin HEAD:main
+
+  deploy-pages:
+    name: Objavi aktualne podatke na GitHub Pages
+    needs: update-news
+    runs-on: ubuntu-latest
+    concurrency:
+      group: web-vijesti-pages
+      cancel-in-progress: true
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    steps:
+      - name: Preuzmi aktualni main nakon ažuriranja
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Konfiguriraj GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Pripremi portal za objavu
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Objavi aktualni portal
+        id: deployment
+        uses: actions/deploy-pages@v4
