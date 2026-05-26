@@ -11,6 +11,7 @@ on:
       - ".github/workflows/update-news.yml"
       - "update_news.py"
       - "fast_update_news.py"
+      - "fast_fill_categories.py"
       - "postprocess_news.py"
       - "limit_news_archive.py"
       - "build_gallery_from_archive.py"
@@ -58,6 +59,12 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Provjeri sintaksu obveznih skripti
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m py_compile fast_update_news.py fast_fill_categories.py fill_symbol_quorum_en.py fill_premium_categories.py fill_core_business_science.py fill_missing_core_categories.py postprocess_news.py limit_news_archive.py build_gallery_from_archive.py update_gallery_groups.py generate_home_data.py generate_seo.py portal_check.py
+
       - name: Generiraj i provjeri portal
         shell: bash
         run: |
@@ -65,10 +72,7 @@ jobs:
           echo "START VIJESTI: $(date -u)"
           python merge_global_extra_feeds.py
           python fast_update_news.py
-          python fill_symbol_quorum_en.py
-          python fill_premium_categories.py
-          python fill_core_business_science.py
-          python fill_missing_core_categories.py
+          python fast_fill_categories.py
           python postprocess_news.py
           python limit_news_archive.py
           python build_gallery_from_archive.py
@@ -116,7 +120,7 @@ jobs:
       - name: Konfiguriraj GitHub Pages
         uses: actions/configure-pages@v5
       - name: Pripremi portal za objavu
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: .
       - name: Objavi aktualni portal
