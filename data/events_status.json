@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-26T20:30:43.811877+00:00",
+  "updated_at": "2026-05-27T08:54:59.368598+00:00",
   "sources": 69,
-  "ok_sources": 14,
-  "events_count": 179,
+  "ok_sources": 13,
+  "events_count": 170,
   "results": [
     {
       "id": "infozagreb-events",
@@ -271,9 +271,8 @@
       "country": "SAD",
       "city": "New York",
       "type": "kazalište / Broadway / premijere",
-      "status": "fallback",
-      "count": 1,
-      "error": "The read operation timed out"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "broadway-com",
@@ -658,8 +657,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "ok",
-      "count": 10
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "uffizi",
