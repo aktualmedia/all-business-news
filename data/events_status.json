@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-27T08:54:59.368598+00:00",
+  "updated_at": "2026-05-27T20:34:51.036167+00:00",
   "sources": 69,
-  "ok_sources": 13,
-  "events_count": 170,
+  "ok_sources": 14,
+  "events_count": 179,
   "results": [
     {
       "id": "infozagreb-events",
@@ -232,7 +232,7 @@
       "city": "London",
       "type": "kazalište / West End",
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     {
       "id": "royal-opera-house",
@@ -595,8 +595,9 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "muzej / izložbe",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "id": "musee-orsay",
@@ -637,7 +638,7 @@
       "city": "Madrid",
       "type": "muzej / izložbe",
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     {
       "id": "rijksmuseum",
@@ -657,8 +658,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "program_link_only",
-      "count": 1
+      "status": "ok",
+      "count": 10
     },
     {
       "id": "uffizi",
