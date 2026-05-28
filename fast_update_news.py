@@ -6,6 +6,9 @@ Koristi postojece parsere i pravila iz update_news.py, ali izvore dohvaca
 paralelno kako nedostupni RSS/HTML izvori ne bi zaustavili cijeli GitHub
 Actions ciklus. Pad pojedinog izvora zapisuje se u source_stats, a preostali
 izvori i prethodno valjani sadrzaj ostaju dostupni portalu.
+
+Svaki izvrseni ciklus zapisuje i status sinkronizacije kako bi bilo jasno je li
+portal dohvatio nove stavke iz zivih izvora ili je zadrzao ranije valjani skup.
 """
 from __future__ import annotations
 
@@ -17,6 +20,7 @@ import update_news as base
 
 REQUEST_TIMEOUT = 8
 MAX_WORKERS = 16
+SYNC_MODE = "automatic_hourly_parallel"
 
 
 def load_feeds():
@@ -68,6 +72,9 @@ def main():
 
     ok = sum(1 for row in source_rows if row.get("status") == "ok")
     failed = sum(1 for row in source_rows if row.get("status") == "failed")
+    empty = sum(1 for row in source_rows if row.get("status") == "empty")
+    fresh_items = len(found)
+    sync_status = "ok" if fresh_items and ok else "degraded_retaining_valid_archive"
     candidates = [
         item for raw in found + base.read_old_items()
         if (item := base.normalize_item(raw))
@@ -120,8 +127,12 @@ def main():
     ))
     base.write_json("data/source_stats.json", {
         "updated_at": now,
+        "sync_mode": SYNC_MODE,
+        "sync_status": sync_status,
+        "fresh_items_found": fresh_items,
         "sources": len(feeds),
         "ok_sources": ok,
+        "empty_sources": empty,
         "failed_sources": failed,
         "items_by_source": by_source,
         "feed_results": source_rows,
@@ -131,8 +142,12 @@ def main():
     })
     base.write_json("data/generated_at.json", {
         "generated_at": now,
+        "sync_mode": SYNC_MODE,
+        "sync_status": sync_status,
+        "fresh_items_found": fresh_items,
         "sources": len(feeds),
         "ok_sources": ok,
+        "empty_sources": empty,
         "failed_sources": failed,
         "news_count": len(final),
         "category_counts": counts,
@@ -144,7 +159,8 @@ def main():
     base.build_gallery(final)
     print(
         f"UPDATED PARALLEL: {len(final)} vijesti, galerija {base.GALLERY_LIMIT}, "
-        f"izvori OK {ok}/{len(feeds)}, radnici {worker_count}, timeout {REQUEST_TIMEOUT}s"
+        f"svjeze {fresh_items}, izvori OK {ok}/{len(feeds)}, prazni {empty}, "
+        f"neuspjeli {failed}, status {sync_status}, radnici {worker_count}, timeout {REQUEST_TIMEOUT}s"
     )
 
 
