@@ -2,23 +2,28 @@
 # -*- coding: utf-8 -*-
 """Automatske uredničke objave za WEB VIJESTI.
 
-Generira do 3 objave dnevno na teme ekonomije, businessa, poduzetništva,
-tržišta, kapitala, produktivnosti i globalnih trendova.
+Generira najviše tri objave dnevno u odvojenim uredničkim terminima.
+Teme se rotiraju kroz vrijeme, umjesto da generator trajno stane nakon
+prvog korištenja početnog skupa tema.
 """
 from __future__ import annotations
 
 import json
+import os
 import re
 import html
-from datetime import datetime, timezone
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
 OBJAVE = ROOT / "objave"
 AUTHOR = "Nermin Sefić"
 BASE = "https://aktualmedia.github.io/all-business-news/"
-MAX_DAILY = 3
+LOCAL_TZ = ZoneInfo("Europe/Zagreb")
+SLOT_NAMES = {"jutro": "Jutarnji pregled", "poslijepodne": "Poslijepodnevni komentar", "vecer": "Večernja analiza"}
+SLOT_ORDER = {"jutro": 0, "poslijepodne": 1, "vecer": 2}
 
 TOPICS = [
     {
@@ -102,7 +107,7 @@ def read_json(path, default):
 def write_json(path, obj):
     p = ROOT / path
     p.parent.mkdir(parents=True, exist_ok=True)
-    p.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
+    p.write_text(json.dumps(obj, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 def slugify(text):
@@ -120,13 +125,25 @@ def post_url(slug):
     return f"objave/{slug}.html"
 
 
-def build_post(topic, index):
-    now = datetime.now(timezone.utc)
+def local_slot(now):
+    forced = os.environ.get("POST_SLOT", "").strip().lower()
+    if forced in SLOT_ORDER:
+        return forced
+    if now.hour < 12:
+        return "jutro"
+    if now.hour < 20:
+        return "poslijepodne"
+    return "vecer"
+
+
+def build_post(topic, slot, now):
     date = now.date().isoformat()
-    slug = f"{date}-{topic['slug']}-{index}"
+    hr_date = now.strftime("%d. %m. %Y.")
+    slug = f"{date}-{slot}-{topic['slug']}"
+    display_title = f"{topic['title']} — {SLOT_NAMES[slot]}, {hr_date}"
     return {
         "id": slug,
-        "title": topic["title"],
+        "title": display_title,
         "author": AUTHOR,
         "summary": topic["summary"],
         "body": "\n\n".join(topic["body"]),
@@ -135,10 +152,13 @@ def build_post(topic, index):
         "created_at": now.isoformat(),
         "url": post_url(slug),
         "local_url": post_url(slug),
-        "seo_title": topic["title"] + " | Objave | WEB VIJESTI",
+        "seo_title": display_title + " | Objave | WEB VIJESTI",
         "seo_description": topic["summary"][:155],
         "canonical": BASE + post_url(slug),
-        "image": "https://picsum.photos/seed/objave-" + slugify(topic["category"]) + "/1400/900"
+        "image": BASE + "assets/icons/web-vijesti-icon.svg",
+        "auto_generated": True,
+        "editorial_slot": slot,
+        "topic_key": topic["slug"]
     }
 
 
@@ -193,18 +213,26 @@ def main():
     posts = read_json("data/ai_posts.json", [])
     if not isinstance(posts, list):
         posts = []
-    today = datetime.now(timezone.utc).date().isoformat()
-    today_count = sum(1 for p in posts if str(p.get("created_at", "")).startswith(today) and p.get("auto_generated"))
-    if today_count < MAX_DAILY:
-        existing_titles = {p.get("title") for p in posts}
-        for topic in TOPICS:
-            if topic["title"] not in existing_titles:
-                posts.insert(0, build_post(topic, today_count + 1))
-                break
-    posts = posts[:120]
+    now = datetime.now(LOCAL_TZ)
+    slot = local_slot(now)
+    unique_id = f"{now.date().isoformat()}-{slot}"
+    already_exists = any(str(p.get("id", "")).startswith(unique_id + "-") for p in posts)
+    created = False
+    if not already_exists:
+        theme_index = (now.date().toordinal() * 3 + SLOT_ORDER[slot]) % len(TOPICS)
+        posts.insert(0, build_post(TOPICS[theme_index], slot, now))
+        created = True
+    posts = sorted(posts, key=lambda p: str(p.get("created_at", "")), reverse=True)[:120]
     write_json("data/ai_posts.json", posts)
     write_pages(posts)
-    print(f"OBJAVE OK: {len(posts)} tekstova")
+    write_json("data/posts_status.json", {
+        "updated_at": now.isoformat(),
+        "status": "objavljeno" if created else "termin_vec_objavljen",
+        "slot": slot,
+        "total_posts": len(posts),
+        "latest_title": posts[0].get("title", "") if posts else ""
+    })
+    print(f"OBJAVE OK: {len(posts)} tekstova; slot={slot}; nova_objava={created}")
 
 if __name__ == "__main__":
     main()
