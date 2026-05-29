@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-28T22:23:45.576943+00:00",
+  "updated_at": "2026-05-29T12:30:26.914916+00:00",
   "sources": 236,
-  "ok": 166,
-  "problem": 54,
+  "ok": 168,
+  "problem": 53,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -269,6 +269,17 @@
       "error": ""
     },
     {
+      "id": "src-099",
+      "name": "Creative Review",
+      "category": "kultura",
+      "url": "https://www.creativereview.co.uk/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-104",
       "name": "Deadline",
       "category": "kultura",
@@ -295,6 +306,17 @@
       "name": "Decanter Wine - Google News",
       "category": "pica",
       "url": "https://news.google.com/rss/search?q=site:decanter.com%20wine&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-109",
+      "name": "Design Milk",
+      "category": "dizajn",
+      "url": "https://design-milk.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -687,6 +709,17 @@
       "error": ""
     },
     {
+      "id": "global-extra-036",
+      "name": "National Jeweler - Google News",
+      "category": "nakit",
+      "url": "https://news.google.com/rss/search?q=site:nationaljeweler.com%20jewelry&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-083",
       "name": "Nature News",
       "category": "znanost",
@@ -808,17 +841,6 @@
       "error": ""
     },
     {
-      "id": "src-060",
-      "name": "PV Magazine",
-      "category": "trzista",
-      "url": "https://www.pv-magazine.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-077",
       "name": "Phys.org",
       "category": "znanost",
@@ -856,17 +878,6 @@
       "name": "Reuters Commodities - Google News",
       "category": "trzista",
       "url": "https://news.google.com/rss/search?q=site:reuters.com%20commodities%20markets&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "global-extra-028",
-      "name": "Robb Report Luxury - Google News",
-      "category": "hedonizam",
-      "url": "https://news.google.com/rss/search?q=site:robbreport.com%20luxury&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1028,17 +1039,6 @@
       "error": ""
     },
     {
-      "id": "global-extra-026",
-      "name": "Travel + Leisure - Google News",
-      "category": "lifestyle",
-      "url": "https://news.google.com/rss/search?q=site:travelandleisure.com%20travel%20lifestyle&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-166",
       "name": "VinePair",
       "category": "pica",
@@ -1127,17 +1127,6 @@
       "error": ""
     },
     {
-      "id": "global-extra-033",
-      "name": "Worn & Wound - Google News",
-      "category": "satovi",
-      "url": "https://news.google.com/rss/search?q=site:wornandwound.com%20watches&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-087",
       "name": "Yale Environment 360",
       "category": "znanost",
@@ -1160,13 +1149,13 @@
       "error": ""
     },
     {
-      "id": "src-099",
-      "name": "Creative Review",
-      "category": "kultura",
-      "url": "https://www.creativereview.co.uk/feed/",
+      "id": "global-extra-032",
+      "name": "aBlogtoWatch - Google News",
+      "category": "satovi",
+      "url": "https://news.google.com/rss/search?q=site:ablogtowatch.com%20watches&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
-      "count": 11,
+      "count": 12,
       "score": 100,
       "error": ""
     },
@@ -1182,10 +1171,10 @@
       "error": ""
     },
     {
-      "id": "global-extra-036",
-      "name": "National Jeweler - Google News",
-      "category": "nakit",
-      "url": "https://news.google.com/rss/search?q=site:nationaljeweler.com%20jewelry&hl=en-US&gl=US&ceid=US:en",
+      "id": "global-extra-028",
+      "name": "Robb Report Luxury - Google News",
+      "category": "hedonizam",
+      "url": "https://news.google.com/rss/search?q=site:robbreport.com%20luxury&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1215,10 +1204,32 @@
       "error": ""
     },
     {
+      "id": "global-extra-026",
+      "name": "Travel + Leisure - Google News",
+      "category": "lifestyle",
+      "url": "https://news.google.com/rss/search?q=site:travelandleisure.com%20travel%20lifestyle&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-031",
       "name": "WatchTime - Google News",
       "category": "satovi",
       "url": "https://news.google.com/rss/search?q=site:watchtime.com%20watches&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-033",
+      "name": "Worn & Wound - Google News",
+      "category": "satovi",
+      "url": "https://news.google.com/rss/search?q=site:wornandwound.com%20watches&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1241,17 +1252,6 @@
       "name": "Artnet News",
       "category": "kultura",
       "url": "https://news.artnet.com/feed",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-056",
-      "name": "Automotive Dive",
-      "category": "trzista",
-      "url": "https://www.automotivedive.com/feeds/news/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1347,17 +1347,6 @@
       "error": ""
     },
     {
-      "id": "src-170",
-      "name": "Elite Traveler",
-      "category": "hedonizam",
-      "url": "https://elitetraveler.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-059",
       "name": "Energy Monitor",
       "category": "trzista",
@@ -1428,17 +1417,6 @@
       "name": "HODINKEE",
       "category": "satovi",
       "url": "https://www.hodinkee.com/articles/rss.xml",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-124",
-      "name": "Highsnobiety",
-      "category": "lifestyle",
-      "url": "https://www.highsnobiety.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1567,10 +1545,10 @@
       "error": ""
     },
     {
-      "id": "src-159",
-      "name": "Monochrome Watches",
-      "category": "satovi",
-      "url": "https://monochrome-watches.com/feed/",
+      "id": "src-098",
+      "name": "MuseumNext",
+      "category": "kultura",
+      "url": "https://www.museumnext.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1582,6 +1560,17 @@
       "name": "NASA Breaking News",
       "category": "znanost",
       "url": "https://www.nasa.gov/news-release/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-060",
+      "name": "PV Magazine",
+      "category": "trzista",
+      "url": "https://www.pv-magazine.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1615,6 +1604,17 @@
       "name": "Private Banker International",
       "category": "financije",
       "url": "https://www.privatebankerinternational.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-169",
+      "name": "Robb Report",
+      "category": "hedonizam",
+      "url": "https://robbreport.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1677,17 +1677,6 @@
       "error": ""
     },
     {
-      "id": "src-160",
-      "name": "Worn & Wound",
-      "category": "satovi",
-      "url": "https://wornandwound.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-110",
       "name": "Yanko Design",
       "category": "dizajn",
@@ -1699,13 +1688,13 @@
       "error": ""
     },
     {
-      "id": "global-extra-032",
-      "name": "aBlogtoWatch - Google News",
-      "category": "satovi",
-      "url": "https://news.google.com/rss/search?q=site:ablogtowatch.com%20watches&hl=en-US&gl=US&ceid=US:en",
+      "id": "src-056",
+      "name": "Automotive Dive",
+      "category": "trzista",
+      "url": "https://www.automotivedive.com/feeds/news/",
       "status": "ok",
       "label": "radi",
-      "count": 10,
+      "count": 9,
       "score": 100,
       "error": ""
     },
@@ -1714,6 +1703,28 @@
       "name": "ESA",
       "category": "znanost",
       "url": "https://www.esa.int/rssfeed/Our_Activities",
+      "status": "ok",
+      "label": "radi",
+      "count": 9,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-170",
+      "name": "Elite Traveler",
+      "category": "hedonizam",
+      "url": "https://elitetraveler.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 9,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-124",
+      "name": "Highsnobiety",
+      "category": "lifestyle",
+      "url": "https://www.highsnobiety.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 9,
@@ -1743,13 +1754,24 @@
       "error": ""
     },
     {
-      "id": "src-169",
-      "name": "Robb Report",
-      "category": "hedonizam",
-      "url": "https://robbreport.com/feed/",
+      "id": "src-160",
+      "name": "Worn & Wound",
+      "category": "satovi",
+      "url": "https://wornandwound.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 9,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-159",
+      "name": "Monochrome Watches",
+      "category": "satovi",
+      "url": "https://monochrome-watches.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 8,
       "score": 100,
       "error": ""
     },
@@ -1765,10 +1787,10 @@
       "error": ""
     },
     {
-      "id": "src-067",
-      "name": "VentureBeat",
-      "category": "tehnologija",
-      "url": "https://venturebeat.com/feed/",
+      "id": "src-033",
+      "name": "Seeking Alpha Market News",
+      "category": "financije",
+      "url": "https://seekingalpha.com/market_currents.xml",
       "status": "ok",
       "label": "radi",
       "count": 7,
@@ -1776,13 +1798,13 @@
       "error": ""
     },
     {
-      "id": "src-033",
-      "name": "Seeking Alpha Market News",
-      "category": "financije",
-      "url": "https://seekingalpha.com/market_currents.xml",
+      "id": "src-067",
+      "name": "VentureBeat",
+      "category": "tehnologija",
+      "url": "https://venturebeat.com/feed/",
       "status": "ok",
       "label": "radi",
-      "count": 6,
+      "count": 7,
       "score": 100,
       "error": ""
     },
@@ -1835,17 +1857,6 @@
       "name": "Brookings Economy",
       "category": "ekonomija",
       "url": "https://www.brookings.edu/topic/economy/feed/",
-      "status": "empty",
-      "label": "prazan feed",
-      "count": 0,
-      "score": 55,
-      "error": ""
-    },
-    {
-      "id": "src-109",
-      "name": "Design Milk",
-      "category": "dizajn",
-      "url": "https://design-milk.com/feed/",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -1952,17 +1963,6 @@
       "error": ""
     },
     {
-      "id": "src-098",
-      "name": "MuseumNext",
-      "category": "kultura",
-      "url": "https://www.museumnext.com/feed/",
-      "status": "empty",
-      "label": "prazan feed",
-      "count": 0,
-      "score": 55,
-      "error": ""
-    },
-    {
       "id": "src-003",
       "name": "Strategy+Business",
       "category": "poslovanje",
@@ -1978,6 +1978,17 @@
       "name": "The Paypers",
       "category": "financije",
       "url": "https://thepaypers.com/rss.xml",
+      "status": "empty",
+      "label": "prazan feed",
+      "count": 0,
+      "score": 55,
+      "error": ""
+    },
+    {
+      "id": "src-161",
+      "name": "Time+Tide Watches",
+      "category": "satovi",
+      "url": "https://timeandtidewatches.com/feed/",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -2433,7 +2444,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "src-149",
@@ -2533,17 +2544,6 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "src-161",
-      "name": "Time+Tide Watches",
-      "category": "satovi",
-      "url": "https://timeandtidewatches.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "HTTP Error 415: Unsupported Media Type"
     },
     {
       "id": "src-046",

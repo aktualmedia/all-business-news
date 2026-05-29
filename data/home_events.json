@@ -1,22 +1,5 @@
 [
   {
-    "id": "e20083687471bb1b",
-    "title": "Exhibition Felix Gonzalez-Torres Sweet Revenge From to",
-    "date": "2026-05-27",
-    "datetime": "2026-05-27T00:00:00+00:00",
-    "country": "Španjolska",
-    "city": "Madrid",
-    "venue": "Museo Reina Sofía",
-    "institution": "Museo Reina Sofía",
-    "type": "muzej / izložbe",
-    "source": "Museo Reina Sofía",
-    "url": "https://www.museoreinasofia.es/en/exhibition/felix-gonzalez-torres",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-28T12:56:39.030728+00:00"
-  },
-  {
     "id": "93c67288658f266c",
     "title": "Program: National Gallery of Victoria",
     "date": "2026-05-28",
@@ -1358,5 +1341,22 @@
     "image": null,
     "program_link_only": false,
     "fetched_at": "2026-05-28T12:56:38.069217+00:00"
+  },
+  {
+    "id": "babb169e073cc0db",
+    "title": "mk2 bibliothèque × Centre Pompidou, Paris Screening and discussion Céline Sciamma × Adèle Haenel Is part of Céline Sciamma \u0000 6pm - 7:30pm Soon",
+    "date": "2026-06-07",
+    "datetime": "2026-06-07T00:00:00+00:00",
+    "country": "Francuska",
+    "city": "Pariz",
+    "venue": "Centre Pompidou",
+    "institution": "Centre Pompidou",
+    "type": "muzej / izložbe",
+    "source": "Centre Pompidou",
+    "url": "https://www.centrepompidou.fr/en/program/calendar/event/yza2AMo",
+    "description": "",
+    "image": null,
+    "program_link_only": false,
+    "fetched_at": "2026-05-28T12:56:38.069325+00:00"
   }
 ]
