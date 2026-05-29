@@ -44,7 +44,7 @@ concurrency:
 
 jobs:
   update-news:
-    name: Osvjezi vijesti i potvrdi integritet
+    name: Osvjezi i odmah objavi osnovne vijesti
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
@@ -59,53 +59,63 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Provjeri sintaksu kriticnih skripti
+      - name: Provjeri sintaksu jezgre vijesti
         shell: bash
         run: |
           set -euo pipefail
-          python -m py_compile merge_global_extra_feeds.py update_news.py fast_update_news.py postprocess_news.py limit_news_archive.py generate_home_data.py portal_check.py
+          python -m py_compile merge_global_extra_feeds.py update_news.py fast_update_news.py
 
-      - name: Osnovno osvjezavanje vijesti
+      - name: Dohvati osnovne vijesti
         shell: bash
         run: |
           set -euo pipefail
-          echo "START CORE UPDATE: $(date -u)"
+          echo "START CORE NEWS: $(date -u)"
           python merge_global_extra_feeds.py
           python fast_update_news.py
-          echo "END CORE UPDATE: $(date -u)"
+          echo "END CORE NEWS: $(date -u)"
 
-      - name: Dopuni posebne rubrike bez zaustavljanja portala
-        shell: bash
-        run: |
-          set +e
-          python -m py_compile fast_fill_categories.py fill_symbol_quorum_en.py fill_premium_categories.py fill_core_business_science.py fill_missing_core_categories.py
-          if [ "$?" -ne 0 ]; then
-            echo "::warning::Dopunske rubrike imaju sintaksnu pogresku; osnovne vijesti nastavljaju se objavljivati."
-          else
-            python fast_fill_categories.py || echo "::warning::Dopuna rubrika nije dovrsena; osnovne vijesti ostaju valjane."
-          fi
-          exit 0
-
-      - name: Obradi limite i naslovnicu
+      - name: Odmah spremi osnovne vijesti i status dohvata
         shell: bash
         run: |
           set -euo pipefail
-          python postprocess_news.py
-          python limit_news_archive.py
-          python generate_home_data.py
-          python portal_check.py
-          python generate_home_data.py
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/news.json data/archive.json data/category_news data/category_counts.json data/source_stats.json data/generated_at.json data/manual_gallery.json data/feeds.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "::warning::Core dohvat nije proizveo promjene za objavu."
+          else
+            git commit -m "Automatska objava osnovnih vijesti i statusa dohvata"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
 
-      - name: Dodatni moduli i SEO bez zaustavljanja vijesti
+      - name: Uskladi radnu kopiju nakon objave osnovnih vijesti
+        shell: bash
+        run: |
+          set -euo pipefail
+          git pull --rebase origin main
+
+      - name: Dopuni rubrike i portal bez blokiranja osnovnih vijesti
         shell: bash
         run: |
           set +e
-          python build_gallery_from_archive.py || echo "::warning::Galerija se nije obnovila u ovom ciklusu."
-          python update_gallery_groups.py || echo "::warning::Grupe galerije nisu obnovljene u ovom ciklusu."
-          python generate_seo.py || echo "::warning::SEO datoteke nisu obnovljene u ovom ciklusu."
+          python -m py_compile fast_fill_categories.py postprocess_news.py limit_news_archive.py generate_home_data.py portal_check.py build_gallery_from_archive.py update_gallery_groups.py generate_seo.py
+          if [ "$?" -ne 0 ]; then
+            echo "::warning::Dopunska obrada ima sintaksnu pogresku; osnovne vijesti su vec objavljene."
+            exit 0
+          fi
+          python fast_fill_categories.py || echo "::warning::Dopuna rubrika nije dovrsena."
+          python postprocess_news.py || echo "::warning::Postproces nije dovrsen."
+          python limit_news_archive.py || echo "::warning::Arhiva nije obradjena."
+          python generate_home_data.py || echo "::warning::Naslovnica nije osvjezena."
+          python portal_check.py || echo "::warning::Provjera integriteta prijavila je problem."
+          python build_gallery_from_archive.py || echo "::warning::Galerija nije obnovljena."
+          python update_gallery_groups.py || echo "::warning::Grupe galerije nisu obnovljene."
+          python generate_seo.py || echo "::warning::SEO datoteke nisu obnovljene."
+          python generate_home_data.py || echo "::warning::Zavrsno osvjezavanje naslovnice nije dovrseno."
           exit 0
 
-      - name: Spremi potvrdene podatke
+      - name: Spremi dopunske podatke ako postoje
         shell: bash
         run: |
           set -euo pipefail
@@ -113,10 +123,10 @@ jobs:
           git config user.email "github-actions@github.com"
           git add data sitemap.xml sitemap-news.xml sitemap-posts.xml sitemap-authors.xml sitemap-events.xml urllist.txt site.webmanifest llms.txt robots.txt 2>/dev/null || true
           if git diff --cached --quiet; then
-            echo "Nema promjena u podatcima."
+            echo "Nema dopunskih promjena."
             exit 0
           fi
-          git commit -m "Automatsko satno azuriranje vijesti i provjera integriteta"
+          git commit -m "Automatska dopuna naslovnice galerije i SEO podataka"
           git pull --rebase origin main
           git push origin HEAD:main
 
