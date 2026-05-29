@@ -1,5 +1,785 @@
 [
   {
+    "id": "2379d038bb2a292a",
+    "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
+    "description": "",
+    "url": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
+    "image": "https://media.wired.com/photos/6a18c5e0148c56039b79b0d5/master/pass/Amazon-Turns-Buzzfeed-Good-Advice-Cupcake-Into-AI-Series-Culture-1164238077.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T20:56:59+00:00",
+    "fetched_at": "2026-05-29T21:15:40.781182+00:00"
+  },
+  {
+    "id": "cb2731f8525c913a",
+    "title": "The White House’s Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens",
+    "description": "",
+    "url": "https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/",
+    "image": "https://media.wired.com/photos/6a19d5686c603cc052203420/master/pass/pol_alien_GettyImages-2277150138.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T20:53:09+00:00",
+    "fetched_at": "2026-05-29T21:15:40.781291+00:00"
+  },
+  {
+    "id": "77c2b0da4a71298c",
+    "title": "Amazon is selling this 75-inch Hisense TV for over $500 off - and I highly recommend it",
+    "description": "The Hisense U6 Pro is a solid mid-range Mini LED TV, and an even better buy at this price.",
+    "url": "https://www.zdnet.com/article/hisense-u6-pro-amazon-deal/",
+    "image": "https://picsum.photos/seed/wv-news-2edbbec16d2e/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T20:32:00+00:00",
+    "fetched_at": "2026-05-29T21:15:41.032322+00:00"
+  },
+  {
+    "id": "0ab909f4f087ffa0",
+    "title": "Acer’s launching a Linux handheld for streaming your PC games",
+    "description": "The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a \"streaming-first handheld and companion device,\" like a PlayStation Portal for your PC. Announced ahead of Computex on Friday, it's launching in Q4 2026 with a 7-inch (1920 x 1200) display, Wi-Fi 6, just 1GB of LPDDR4 RAM, […]",
+    "url": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
+    "image": "https://picsum.photos/seed/wv-news-67569f2a311c/1200/750",
+    "source": "The Verge",
+    "source_id": "src-062",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T20:21:12+00:00",
+    "fetched_at": "2026-05-29T21:15:40.739169+00:00"
+  },
+  {
+    "id": "0b2f74c63bde84d0",
+    "title": "‘We’re Just Getting the Crumbs Here’: Contractors Protest Layoffs at Meta’s European Headquarters",
+    "description": "",
+    "url": "https://www.wired.com/story/meta-covalen-protest-strike-dublin/",
+    "image": "https://media.wired.com/photos/6a19e1a8738675473398eb9e/master/pass/Protests-Outside-Meta-Business-IMG_0894.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T20:18:01+00:00",
+    "fetched_at": "2026-05-29T21:15:40.781394+00:00"
+  },
+  {
+    "id": "c7e83cf8943dde5f",
+    "title": "Fable dodges GTA VI with another delay",
+    "description": "Fable is delayed again, putting it outside the GTA blast radius.",
+    "url": "https://www.engadget.com/2183963/fable-dodges-gta-vi-with-another-delay/",
+    "image": "https://www.engadget.com/img/gallery/fable-dodges-gta-vi-with-another-delay/l-intro-1780084008.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T19:48:00+00:00",
+    "fetched_at": "2026-05-29T21:15:40.822506+00:00"
+  },
+  {
+    "id": "c579abca420c2c33",
+    "title": "ICE to keep an eye on your eyes under $25M biometric scanner deal",
+    "description": "And you thought a face recognition app was intrusive?",
+    "url": "https://www.theregister.com/public-sector/2026/05/29/ice-awards-bi2-25m-contract-for-1570-biometric-scanners/5248733",
+    "image": "https://image.theregister.com/?imageId=5225489&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T19:35:45+00:00",
+    "fetched_at": "2026-05-29T21:15:41.616715+00:00"
+  },
+  {
+    "id": "2c2f8c5984e51d7b",
+    "title": "MeMo's memory model lets teams upgrade their LLM without retraining it — and performance jumps 26%",
+    "description": "Enabling LLMs to acquire new knowledge after training remains a major hurdle for enterprise AI — current solutions are either too expensive, too slow, or constrained by context window limits. MeMo , a framework from researchers at multiple universities, encodes new knowledge into a dedicated smaller memory model that operates separately from the main LLM. The modular architecture works with both open- and closed-source models and sidesteps the complexity of RAG pipelines and full model retraining. Experiments show that MeMo handles complex queries reliably even when retrieval pipelines are noisy. It avoids the catastrophic forgetting associated with direct fine-tuning and provides a cost-effective pathway for continuous knowledge updates. The challenge of updating LLM memory Large language models are frozen after training and their internal knowledge remains static until they undergo sub",
+    "url": "https://venturebeat.com/orchestration/memo-memory-model-teams-upgrade-llm-without-retraining",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/uNG5np6loL4mLiU9LKH0s/7525aad6eda1c42caffcb84af89bce26/LLM_memory_module.jpg?w=300&q=30",
+    "source": "VentureBeat",
+    "source_id": "src-067",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T19:28:17+00:00",
+    "fetched_at": "2026-05-29T21:15:41.049358+00:00"
+  },
+  {
+    "id": "888e08a179d9ca36",
+    "title": "CNN is the latest media company to sue Perplexity",
+    "description": "CNN is the latest media company hauling Perplexity into court.",
+    "url": "https://www.engadget.com/2183900/cnn-is-the-latest-media-company-to-sue-perplexity/",
+    "image": "https://www.engadget.com/img/gallery/cnn-is-the-latest-media-company-to-sue-perplexity/l-intro-1780081911.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T19:12:42+00:00",
+    "fetched_at": "2026-05-29T21:15:40.822981+00:00"
+  },
+  {
+    "id": "8268da01ebf1e549",
+    "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
+    "description": "",
+    "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
+    "image": "https://media.wired.com/photos/6a19d3576c603cc05220330d/master/pass/Gear_HandsOnWithGeminiSparkGoogle%E2%80%99sAIAgentThatLivesinYourPhone_v1.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T19:07:46+00:00",
+    "fetched_at": "2026-05-29T21:15:40.781473+00:00"
+  },
+  {
+    "id": "62c816ddc9f99971",
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "description": "",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp",
+    "source": "Google AI Blog",
+    "source_id": "src-071",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T19:00:00+00:00",
+    "fetched_at": "2026-05-29T21:15:41.322254+00:00"
+  },
+  {
+    "id": "20688ee958d4908b",
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "image": "https://picsum.photos/seed/wv-news-14b6f3c6f356/1200/750",
+    "source": "TechCrunch",
+    "source_id": "src-061",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T18:49:19+00:00",
+    "fetched_at": "2026-05-29T21:15:40.686861+00:00"
+  },
+  {
+    "id": "1353339850a4f795",
+    "title": "Botnet of more than 17 million devices dismantled",
+    "description": "The botnet was reportedly tied to a Russia-based residential proxy network.",
+    "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/04/botnet6.jpg",
+    "source": "Ars Technica",
+    "source_id": "src-064",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T18:46:33+00:00",
+    "fetched_at": "2026-05-29T21:15:40.760714+00:00"
+  },
+  {
+    "id": "7dbf5645901643f2",
+    "title": "Analysis of Texas measles outbreak shows just how dangerous virus is",
+    "description": "About 1 in 5 cases were hospitalized and most of those developed complications.",
+    "url": "https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg",
+    "source": "Ars Technica",
+    "source_id": "src-064",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T18:35:38+00:00",
+    "fetched_at": "2026-05-29T21:15:40.760807+00:00"
+  },
+  {
+    "id": "770771b12d858a95",
+    "title": "No fix yet for critical RCE bug in open-source Git service Gogs - exploit module is out",
+    "description": "Researcher reported the vuln in March. Maintainers haven't responded to his messages since",
+    "url": "https://www.theregister.com/security/2026/05/29/no-fix-yet-for-critical-gogs-rce-bug-exploit-module-is-out/5248691",
+    "image": "https://image.theregister.com/?imageId=5248726&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T18:26:48+00:00",
+    "fetched_at": "2026-05-29T21:15:41.616783+00:00"
+  },
+  {
+    "id": "878e045b38d744a5",
+    "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
+    "description": "\"The crown is a weight that crushes. You'll do things that spell death for all involved.\"",
+    "url": "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/dragon1-1152x648.jpg",
+    "source": "Ars Technica",
+    "source_id": "src-064",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T18:21:44+00:00",
+    "fetched_at": "2026-05-29T21:15:40.760889+00:00"
+  },
+  {
+    "id": "acba7eb14bf72a9b",
+    "title": "Trump FCC warns all broadcasters to follow orders or be punished like ABC",
+    "description": "ABC says early renewal for all stations is unprecedented, has no legitimate purpose.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-warns-all-broadcasters-to-follow-orders-or-be-punished-like-abc/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/abc-jimmy-kimmel-1152x648-1780075115.jpg",
+    "source": "Ars Technica",
+    "source_id": "src-064",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T18:09:43+00:00",
+    "fetched_at": "2026-05-29T21:15:40.760968+00:00"
+  },
+  {
+    "id": "594a62a0ace9c16f",
+    "title": "Microsoft delays Fable (again) to avoid GTA VI",
+    "description": "Microsoft has delayed its upcoming Fable reboot once again. The game was set to launch in autumn 2026, but Microsoft now says that Fable will come out in February 2027. However, it will show a \"new look\" at the game at its Xbox Games Showcase on June 7th. \"​​This is year is packed with incredible […]",
+    "url": "https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi",
+    "image": "https://picsum.photos/seed/wv-news-22925c8c2a76/1200/750",
+    "source": "The Verge",
+    "source_id": "src-062",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T18:02:37+00:00",
+    "fetched_at": "2026-05-29T21:15:40.739594+00:00"
+  },
+  {
+    "id": "5fafcd692ba18ec1",
+    "title": "What happens when companies become too AI-pilled?",
+    "description": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, […]",
+    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "image": "https://picsum.photos/seed/wv-news-cdda73ce1fe9/1200/750",
+    "source": "TechCrunch",
+    "source_id": "src-061",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T17:57:05+00:00",
+    "fetched_at": "2026-05-29T21:15:40.686968+00:00"
+  },
+  {
+    "id": "1d644f33151ca731",
+    "title": "DOJ sues states that rejected ICE requests for undercover license plates",
+    "description": "DOJ keeps accusing ICE monitoring sites of doxing, but evidence remains scarce.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2230548231-1152x648-1780073944.jpg",
+    "source": "Ars Technica",
+    "source_id": "src-064",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T17:41:56+00:00",
+    "fetched_at": "2026-05-29T21:15:40.761075+00:00"
+  },
+  {
+    "id": "801ec69a3372b86e",
+    "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+    "description": "",
+    "url": "https://www.wired.com/story/best-pool-cleaning-robots/",
+    "image": "https://media.wired.com/photos/69e95b2c9a0a1ec843ac2661/master/pass/The-Best-Pool-Cleaning-Robots-of-2026.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T17:39:04+00:00",
+    "fetched_at": "2026-05-29T21:15:40.781554+00:00"
+  },
+  {
+    "id": "2303504f13babda8",
+    "title": "Tech companies desperately want to film you doing chores",
+    "description": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the cleaning, Shift wants footage of […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+    "image": "https://picsum.photos/seed/wv-news-9691492549c2/1200/750",
+    "source": "The Verge",
+    "source_id": "src-062",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T17:37:43+00:00",
+    "fetched_at": "2026-05-29T21:15:40.739342+00:00"
+  },
+  {
+    "id": "5a93c5b9d88d8ada",
+    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+    "description": "",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp",
+    "source": "Google AI Blog",
+    "source_id": "src-071",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T17:30:00+00:00",
+    "fetched_at": "2026-05-29T21:15:41.322355+00:00"
+  },
+  {
+    "id": "3d37efc3bb60a9ac",
+    "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+    "description": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+    "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "image": "https://picsum.photos/seed/wv-news-52754b3ac7b0/1200/750",
+    "source": "TechCrunch",
+    "source_id": "src-061",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T17:27:13+00:00",
+    "fetched_at": "2026-05-29T21:15:40.687070+00:00"
+  },
+  {
+    "id": "ab924870bfe50121",
+    "title": "ThermoWorks' Gravitas scale has a detachable display and a 20-minute memory",
+    "description": "Thermometer company ThermoWorks is putting its reputation for accuracy on the line with its first kitchen scale.",
+    "url": "https://www.engadget.com/2183798/thermoworks-gravitas-scale-has-a-detachable-display-and-a-20-minute-memory/",
+    "image": "https://www.engadget.com/img/gallery/thermoworks-gravitas-scale-has-a-detachable-display-and-a-20-minute-memory/l-intro-1780074795.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T17:15:28+00:00",
+    "fetched_at": "2026-05-29T21:15:40.823377+00:00"
+  },
+  {
+    "id": "d3e501fdb5427fc5",
+    "title": "Microsoft teases new Surface hardware and ‘a new era of PC’",
+    "description": "I pondered the other day what's next for Microsoft's Surface PC lineup, and it looks like we're about to find out. Windows and Surface chief Pavan Davuluri has just teased \"something new is coming for developers,\" complete with a mysterious image of what looks like a curved display edge. Davuluri notes that whatever is coming […]",
+    "url": "https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors",
+    "image": "https://picsum.photos/seed/wv-news-b69609211b60/1200/750",
+    "source": "The Verge",
+    "source_id": "src-062",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T17:15:19+00:00",
+    "fetched_at": "2026-05-29T21:15:40.739721+00:00"
+  },
+  {
+    "id": "f3d44a27a1825dab",
+    "title": "Microsoft under fire for threatening security researcher with criminal investigation",
+    "description": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software.",
+    "url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
+    "image": "https://picsum.photos/seed/wv-news-3e04c65d9230/1200/750",
+    "source": "TechCrunch",
+    "source_id": "src-061",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T17:03:39+00:00",
+    "fetched_at": "2026-05-29T21:15:40.687137+00:00"
+  },
+  {
+    "id": "9155d260559a2146",
+    "title": "The Verge’s 2026 high school graduation gift guide",
+    "description": "High school graduation is a time of change that might be felt more deeply by family members than by the grads themselves. While some grads may immediately embark on a career path, many continue their education and delve deeper into their studies at college. Either way, they'll be taking on more responsibility, meaning it's up […]",
+    "url": "https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas",
+    "image": "https://picsum.photos/seed/wv-news-3cdb9d39f294/1200/750",
+    "source": "The Verge",
+    "source_id": "src-062",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T17:00:15+00:00",
+    "fetched_at": "2026-05-29T21:15:40.739480+00:00"
+  },
+  {
+    "id": "a8140be4a0edd7ab",
+    "title": "QEMU mulls relaxing AI contribution ban",
+    "description": "Red Hat engineer reckons the balance of risk has shifted, but core code stays off limits",
+    "url": "https://www.theregister.com/ai-ml/2026/05/29/qemu-mulls-relaxing-ai-contribution-ban/5248638",
+    "image": "https://image.theregister.com/?imageId=260175&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T16:55:00+00:00",
+    "fetched_at": "2026-05-29T21:15:41.616839+00:00"
+  },
+  {
+    "id": "3d96666e88dc6981",
+    "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
+    "description": "",
+    "url": "https://www.wired.com/story/future-of-truth-ai-interview/",
+    "image": "https://media.wired.com/photos/6a173332faa2148b4ab454b6/master/pass/Business_AIBookAuthorUsedAItoWriteHisBook_v1.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T16:30:00+00:00",
+    "fetched_at": "2026-05-29T21:15:40.781649+00:00"
+  },
+  {
+    "id": "11ad2c9132b703c1",
+    "title": "After using this Windows laptop for work and play, I'm wondering why I still need my PC tower",
+    "description": "The MSI Raider 16 Max HX combines powerful current-gen hardware with a revamped cooling system and a stunning 240Hz OLED screen.",
+    "url": "https://www.zdnet.com/article/msi-raider-16-max-hx-review/",
+    "image": "https://picsum.photos/seed/wv-news-95b79a3b523b/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T16:26:00+00:00",
+    "fetched_at": "2026-05-29T21:15:41.032430+00:00"
+  },
+  {
+    "id": "b138d762f68a9142",
+    "title": "Open-source security is a mess - IBM and Red Hat bet $5 billion and 20,000 engineers can fix it",
+    "description": "Project Lightwell is an AI‑powered initiative to find and fix vulnerabilities in open-source software at an industrial scale. Here's what we know so far.",
+    "url": "https://www.zdnet.com/article/open-source-security-is-a-mess-ibm-and-red-hat-bet-5-billion-to-fix-it/",
+    "image": "https://picsum.photos/seed/wv-news-9be462b75409/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T16:26:00+00:00",
+    "fetched_at": "2026-05-29T21:15:41.032541+00:00"
+  },
+  {
+    "id": "cc8d80312a7afca9",
+    "title": "Pinterest cut AI costs 90% by gutting a frontier model's vision layer",
+    "description": "At 620 million monthly users, calling a frontier model for every image recommendation isn't a strategy — it's a bill. Pinterest CTO Matt Madrigal solved it by gutting Qwen3-VL's vision layer and rebuilding it with proprietary embeddings, cutting costs 90% and boosting accuracy 30%. Madrigal’s team has been heavily investing in customizing open-source models “foundationally in-house.” “If you've got really unique data that you can then fine-tune an open source model with, data quality will, frankly, outweigh or overcome model size,” Madrigal explained in a recent VB Beyond the Pilot podcast . How Pinterest customized Qwen for visual discovery Pinterest, which has around 620 million monthly active users, has long applied open source models for visual search and discovery, going back to Google’s BERT and OpenAI’s CLIP. The company fine-tuned its own Pin CLIP on the latter, incorporating pro",
+    "url": "https://venturebeat.com/orchestration/pinterest-cut-ai-costs-90-by-gutting-a-frontier-models-vision-layer",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4q0SyXNOt4BdRHyRMYY0SU/0396007fe3dc5633fb9cb93a6681c219/Open-source.png?w=300&q=30",
+    "source": "VentureBeat",
+    "source_id": "src-067",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T16:24:25+00:00",
+    "fetched_at": "2026-05-29T21:15:41.049835+00:00"
+  },
+  {
+    "id": "bb1379f9955be040",
+    "title": "Startup offers free home cleaning—if it can record it all for robot training",
+    "description": "The latest twist in paying humans to wear head cameras for robot training data.",
+    "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-29-at-9.24.24-AM-1152x648.png",
+    "source": "Ars Technica",
+    "source_id": "src-064",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T16:16:14+00:00",
+    "fetched_at": "2026-05-29T21:15:40.761179+00:00"
+  },
+  {
+    "id": "202c363d958319cb",
+    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+    "description": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+    "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "image": "https://picsum.photos/seed/wv-news-a0263a593e00/1200/750",
+    "source": "TechCrunch",
+    "source_id": "src-061",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T16:13:47+00:00",
+    "fetched_at": "2026-05-29T21:15:40.687211+00:00"
+  },
+  {
+    "id": "1a76a5e3d67b2009",
+    "title": "23andMe inherits lawsuit over 'disturbing' DNA data breach",
+    "description": "California AG claims genetics biz downplayed 2023 mega-leak while paying ransom to attacker",
+    "url": "https://www.theregister.com/legal/2026/05/29/rob-bonta-sues-23andmes-new-owners-over-2023-breach/5248565",
+    "image": "https://image.theregister.com/?imageId=260962&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T16:12:26+00:00",
+    "fetched_at": "2026-05-29T21:15:41.616894+00:00"
+  },
+  {
+    "id": "aac4838cb9416fda",
+    "title": "After years of stability, F1 reliability can no longer be taken for granted",
+    "description": "Until recently, a driver had maybe a six in ten chance of finishing a race.",
+    "url": "https://arstechnica.com/cars/2026/05/f1-in-2026-to-finish-first-first-you-have-to-finish/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2278023232-1152x648.jpg",
+    "source": "Ars Technica",
+    "source_id": "src-064",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T16:03:28+00:00",
+    "fetched_at": "2026-05-29T21:15:40.761258+00:00"
+  },
+  {
+    "id": "7b4c0ce52748e44d",
+    "title": "Samsung Movingstyle Essential Review: A Screen on Wheels",
+    "description": "",
+    "url": "https://www.wired.com/review/samsung-movingstyle-32-m7/",
+    "image": "https://media.wired.com/photos/6a0e3bc2ebc845925eb93dd9/master/pass/Review%20samsung%20movingstyle%20m7%20052026%20SOURCE%20Amazon.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T15:52:17+00:00",
+    "fetched_at": "2026-05-29T21:15:40.781723+00:00"
+  },
+  {
+    "id": "bab933fc24ec6f18",
+    "title": "I've used Gemini in Android Auto for 2 months now, and it's transformed my daily drive in 4 ways",
+    "description": "Gemini has made voice control in my car fun and useful, and I'm still discovering new ways to use it.",
+    "url": "https://www.zdnet.com/article/how-gemini-in-android-auto-is-changing-my-daily-drive/",
+    "image": "https://picsum.photos/seed/wv-news-2b0c88a79769/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T15:26:51+00:00",
+    "fetched_at": "2026-05-29T21:15:41.032637+00:00"
+  },
+  {
+    "id": "fe7c82f1d909f075",
+    "title": "Trump’s mass deportations are only possible with racial profiling",
+    "description": "Border security czar Tom Homan keeps threatening to \"flood\" New York City with ICE agents. But a new investigation shows that ICE has been quietly ramping up arrests in the New York area already - and disproportionately targeting Latino neighborhoods. The City, a local nonprofit news organization, found 430 street arrests in the metropolitan area […]",
+    "url": "https://www.theverge.com/policy/939434/trump-ice-racial-profiling-dhs-mass-deportations",
+    "image": "https://picsum.photos/seed/wv-news-5638af06fe28/1200/750",
+    "source": "The Verge",
+    "source_id": "src-062",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T15:22:16+00:00",
+    "fetched_at": "2026-05-29T21:15:40.739856+00:00"
+  },
+  {
+    "id": "d17176f44f54534e",
+    "title": "UCLA seeks pre-litigation resolution with Oracle",
+    "description": "Discussion understood to concern delayed SaaS transformation project",
+    "url": "https://www.theregister.com/software/2026/05/29/ucla-seeks-pre-litigation-resolution-with-oracle/5248474",
+    "image": "https://image.theregister.com/?imageId=5248522&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T15:21:20+00:00",
+    "fetched_at": "2026-05-29T21:15:41.616949+00:00"
+  },
+  {
+    "id": "836d2f15ecbc1c6c",
+    "title": "Yes, you should remove your data from the internet - and our favorite service is 55% off",
+    "description": "Get your data out of the hands of brokers and spam callers with this deal on Incogni.",
+    "url": "https://www.zdnet.com/article/incogni-deal-2026/",
+    "image": "https://picsum.photos/seed/wv-news-e295da50e230/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T15:20:51+00:00",
+    "fetched_at": "2026-05-29T21:15:41.032727+00:00"
+  },
+  {
+    "id": "ad69068306bbdb77",
+    "title": "Severed sea cucumber appendages don't seem to die",
+    "description": "They seem to reorganize their tissues and then just keep living.",
+    "url": "https://arstechnica.com/science/2026/05/severed-sea-cucumber-appendages-dont-seem-to-die/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240137437-1152x648.jpg",
+    "source": "Ars Technica",
+    "source_id": "src-064",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T15:10:29+00:00",
+    "fetched_at": "2026-05-29T21:15:40.761332+00:00"
+  },
+  {
+    "id": "c2ab75c3f7006fc4",
+    "title": "AI agents are entering their rebuild era as enterprises confront the reliability problem",
+    "description": "As enterprise AI agents move into production, organizations are confronting a growing reliability problem. Many teams are discovering that LLM performance alone does not determine whether agents succeed in production. Long-running AI workflows must survive crashes, preserve state, recover from failures, manage inference costs, and coordinate across APIs, tools, and enterprise systems. After a first wave focused on rapid deployment, organizations now need to revisit those first-generation implementations, and redesign early agent architectures around workflow orchestration, observability, governance, and recovery, said Preeti Somal, Senior VP Engineering at Temporal Technologies, during the latest AI Impact Series event in New York. “We do have a lot of customers that come to us where they’re building version 2.0 of the same agent,” Somal said. “They had to move really fast, but they didn",
+    "url": "https://venturebeat.com/orchestration/ai-agents-are-entering-their-rebuild-era-as-enterprises-confront-the-reliability-problem",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2f5klWpC1zRzNZlEhccuJI/4c7b1d857a5402e12caa5be679d38c8e/26AIT_Temporal_sg_01_12_25_09cleaned.jpg?w=300&q=30",
+    "source": "VentureBeat",
+    "source_id": "src-067",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T15:00:12+00:00",
+    "fetched_at": "2026-05-29T21:15:41.050505+00:00"
+  },
+  {
+    "id": "3d39a85abaf859bf",
+    "title": "The Vatican’s Man Inside Anthropic",
+    "description": "",
+    "url": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
+    "image": "https://media.wired.com/photos/6a1898e5148c56039b79abe1/master/pass/Backchannel-Pope-Leo-AI-Business-2214167500.jpg",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T15:00:00+00:00",
+    "fetched_at": "2026-05-29T21:15:40.781819+00:00"
+  },
+  {
+    "id": "3714dec0898852e1",
+    "title": "AI and data sovereignty in Postgres: An answer to the datacenter energy crisis",
+    "description": "A billion AI agents walk into a power grid",
+    "url": "https://www.theregister.com/ai-ml/2026/05/29/ai-and-data-sovereignty-in-postgres-an-answer-to-the-datacenter-energy-crisis/5248178",
+    "image": "https://image.theregister.com/?imageId=1684194&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T15:00:00+00:00",
+    "fetched_at": "2026-05-29T21:15:41.617007+00:00"
+  },
+  {
+    "id": "bb924deac81820ab",
+    "title": "At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal",
+    "description": "This week, the Steam Deck OLED with 512GB of storage went from $549 to $789, putting it even further out of reach for those who were considering getting one as they came back in stock after months of unavailability. I consider it a tiny consolation that there’s a decent PC gaming handheld that is currently […]",
+    "url": "https://www.theverge.com/gadgets/939842/lenovo-legion-go-s-windows-gaming-handheld-deal-sale",
+    "image": "https://picsum.photos/seed/wv-news-268b17161785/1200/750",
+    "source": "The Verge",
+    "source_id": "src-062",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T14:59:12+00:00",
+    "fetched_at": "2026-05-29T21:15:40.739998+00:00"
+  },
+  {
+    "id": "e1388796d8bda79e",
+    "title": "How Ferrari bungled the design of its first EV",
+    "description": "For nearly 80 years, Ferrari occupied a unique cultural space where its cars were aspirational, even for people who resented those who could afford them. The price, the exclusivity, and the opacity of the buying process allowed Ferrari to sail above ordinary criticism. You might not be able to afford one, but you still wanted […]",
+    "url": "https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple",
+    "image": "https://picsum.photos/seed/wv-news-9c993f74ffcf/1200/750",
+    "source": "The Verge",
+    "source_id": "src-062",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T14:57:05+00:00",
+    "fetched_at": "2026-05-29T21:15:40.740272+00:00"
+  },
+  {
+    "id": "668b15facf6151b9",
+    "title": "007 First Light is the stealthy James Bond game I've dreamed of",
+    "description": "Of course the Hitman devs made a great James Bond game.",
+    "url": "https://www.engadget.com/2183631/007-first-light-review/",
+    "image": "https://www.engadget.com/img/gallery/007-first-light-is-the-stealthy-james-bond-game-ive-dreamed-of/l-intro-1780066099.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T14:51:45+00:00",
+    "fetched_at": "2026-05-29T21:15:40.822596+00:00"
+  },
+  {
+    "id": "58bd89ef3f9ff35c",
+    "title": "Microsoft slaps new coat of paint on Copilot, buries annoying button",
+    "description": "Look, says Redmond, usage up 27-43% based on one week of data - admits it 'may not be indicative of long-term usage trends'",
+    "url": "https://www.theregister.com/ai-ml/2026/05/29/microsoft-slaps-new-coat-of-paint-on-copilot-buries-annoying-button/5248442",
+    "image": "https://image.theregister.com/?imageId=5248581&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T14:51:11+00:00",
+    "fetched_at": "2026-05-29T21:15:41.617075+00:00"
+  },
+  {
+    "id": "3591b1e7d9a79ca5",
+    "title": "You can buy two of Anker’s Qi2 wireless chargers for under $25",
+    "description": "If you’re looking for a fast iPhone or AirPods charger that’s easy to toss into your purse, backpack, or carry-on, Anker’s Zolo Magnetic Wireless Charger is a smart pick. It’s tiny and comes with a built-in USB-C cable, and you currently can buy two for $23.99 ($16 off) at Amazon and Anker (with code WS7DV2PK68EW), […]",
+    "url": "https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale",
+    "image": "https://picsum.photos/seed/wv-news-90d629a3ad66/1200/750",
+    "source": "The Verge",
+    "source_id": "src-062",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T14:46:58+00:00",
+    "fetched_at": "2026-05-29T21:15:40.740152+00:00"
+  },
+  {
+    "id": "e87278d7e25b12ee",
+    "title": "ExpressVPN blows away the competition on security audits - but what do they mean?",
+    "description": "Ever wonder what a VPN audit is or why they're always announced to the public? Here's why.",
+    "url": "https://www.zdnet.com/article/expressvpn-security-audits-what-do-they-mean/",
+    "image": "https://picsum.photos/seed/wv-news-d45b28ff3bf7/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T14:22:34+00:00",
+    "fetched_at": "2026-05-29T21:15:41.032821+00:00"
+  },
+  {
+    "id": "c9d95a686eeafff4",
+    "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+    "description": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
+    "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+    "image": "https://picsum.photos/seed/wv-news-657c59536e90/1200/750",
+    "source": "TechCrunch",
+    "source_id": "src-061",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T14:15:00+00:00",
+    "fetched_at": "2026-05-29T21:15:40.687280+00:00"
+  },
+  {
+    "id": "aaf215263fb6d908",
+    "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+    "description": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
+    "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
+    "image": "https://picsum.photos/seed/wv-news-9b5364e78331/1200/750",
+    "source": "TechCrunch",
+    "source_id": "src-061",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T14:00:00+00:00",
+    "fetched_at": "2026-05-29T21:15:40.687478+00:00"
+  },
+  {
+    "id": "cde712a96b4c3f13",
+    "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
+    "description": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
+    "url": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
+    "image": "https://www.engadget.com/img/gallery/sennheiser-momentum-5-wireless-review/l-intro-1780063530.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T14:00:00+00:00",
+    "fetched_at": "2026-05-29T21:15:40.822681+00:00"
+  },
+  {
+    "id": "dff13e9c32cb1a11",
+    "title": "Everything to know before putting your car key on an Android phone",
+    "description": "They're more secure than you might think.",
+    "url": "https://www.engadget.com/2182547/how-to-store-car-keys-on-android-phone/",
+    "image": "https://www.engadget.com/img/gallery/everything-to-know-before-putting-your-car-key-on-an-android-phone/l-intro-1779917448.jpg",
+    "source": "Engadget",
+    "source_id": "src-065",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T13:30:00+00:00",
+    "fetched_at": "2026-05-29T21:15:40.822757+00:00"
+  },
+  {
+    "id": "15006b62157fd56a",
+    "title": "Blue Origin Rocket Explodes in Fiery Setback",
+    "description": "",
+    "url": "https://www.wired.com/story/blue-origin-rocket-explodes-in-major-setback/",
+    "image": "https://picsum.photos/seed/wv-news-192a2e2c82fe/1200/750",
+    "source": "Wired",
+    "source_id": "src-063",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T13:22:27+00:00",
+    "fetched_at": "2026-05-29T21:15:40.781917+00:00"
+  },
+  {
+    "id": "16e443c1789b0a22",
+    "title": "Rocket Report: A dark day for Blue Origin; Pentagon eyes new launch site",
+    "description": "A new crew launched to China's Tiangong space station, and one of the astronauts will stay for a year.",
+    "url": "https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2278083598-1152x648-1780040972.jpg",
+    "source": "Ars Technica",
+    "source_id": "src-064",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T13:03:46+00:00",
+    "fetched_at": "2026-05-29T21:15:40.761419+00:00"
+  },
+  {
+    "id": "02ad525342820bb5",
+    "title": "Rocket Report: A dark day for Blue Origin; Pentagon eyes new launch site - Ars Technica",
+    "description": "Rocket Report: A dark day for Blue Origin; Pentagon eyes new launch site Ars Technica",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcmVVQzdORk9YYlVRaTRoTmZGOFVoNXFvTGNmTUNiUHV4d29vWkNaODA1NUY4Z25kdG5udXRSUzNVZWlYRG9Ya01uNXlJT2x6dEM2UzhUZmVhckV0RTRRSnFJb1ZuVkMwcHk1R05zSnQzcHVoVzI1VHhRVEF0M1ZyUU4zTWc3aUdiSk0zWDh2SEY0dGd0Z2VqUHZpQ2ZsLWp5QXVEV1BTdDhmUXQwZ1RKQVQ3bVcyZw?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-41a70ab166fa/1200/750",
+    "source": "Ars Technica - Google News",
+    "source_id": "global-extra-021",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T13:03:46+00:00",
+    "fetched_at": "2026-05-29T21:15:47.049128+00:00"
+  },
+  {
+    "id": "cadf27f127b49834",
+    "title": "How I prep my solar power stations for weather emergencies - before it's too late",
+    "description": "With severe weather becoming more common, you need a plan before the lights go out. Here's mine.",
+    "url": "https://www.zdnet.com/article/how-to-prep-solar-power-stations-for-weather-emergencies-before-too-late/",
+    "image": "https://picsum.photos/seed/wv-news-af86c144c840/1200/750",
+    "source": "ZDNET",
+    "source_id": "src-069",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T13:03:04+00:00",
+    "fetched_at": "2026-05-29T21:15:41.032908+00:00"
+  },
+  {
+    "id": "9faf95f4de24a436",
+    "title": "Make a Soft Digital Clock Tick With Millifluidics",
+    "description": "Electrons are great . We use them to move vehicles, illuminate cities, and, of course, compute. But computation is not confined to the world of electronics. And shifting to alternative nonelectronic realms can unlock unique advantages: Photonic chips, for instance, process information with light while generating little heat. Another compelling alternative is fluidics , which uses pressurized gases or liquids to build logic circuits. Pioneered in the 1960s but sidelined by microchips, the field reemerged in the 1990s as “ microfluidics .” This approach aims to shrink laboratories onto a single chip by creating microscopic fluid channels with integrated micropneumatic control systems. Today, there is a second fluidic revival, this time in the domain of soft robotics . Scaling microfluidic designs up to the millimeter-scale range (millifluidics) enables the higher flow rates necessary to dr",
+    "url": "https://spectrum.ieee.org/soft-robotics-2676960499",
+    "image": "https://spectrum.ieee.org/media-library/a-desktop-with-a-red-silicone-surface-where-a-typical-clock-would-have-7-segment-leds-numbers-are-formed-from-concave-depressio.png?id=66826918&width=980",
+    "source": "IEEE Spectrum",
+    "source_id": "src-070",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T13:00:01+00:00",
+    "fetched_at": "2026-05-29T21:15:41.172149+00:00"
+  },
+  {
+    "id": "6c19f097dff717d2",
+    "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+    "description": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
+    "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+    "image": "https://picsum.photos/seed/wv-news-200220c5836b/1200/750",
+    "source": "TechCrunch",
+    "source_id": "src-061",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T13:00:00+00:00",
+    "fetched_at": "2026-05-29T21:15:40.687546+00:00"
+  },
+  {
+    "id": "99ea52ce943142d5",
+    "title": "Dutch cops wrest 17M devices from mystery botnet's clutches",
+    "description": "Hosting provider pulled the plug after police traced 200 servers to the Netherlands",
+    "url": "https://www.theregister.com/security/2026/05/29/dutch-cops-liberate-17m-devices-from-botnets-clutches/5248312",
+    "image": "https://image.theregister.com/?imageId=253920&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T13:00:00+00:00",
+    "fetched_at": "2026-05-29T21:15:41.617159+00:00"
+  },
+  {
+    "id": "2d49186481d61035",
+    "title": "Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic",
+    "description": "\"I hope that it makes it far enough away from the pad that it does not cause pad damage.\"",
+    "url": "https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG-2-Ascent-11-1152x648.jpg",
+    "source": "Ars Technica",
+    "source_id": "src-064",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T12:43:35+00:00",
+    "fetched_at": "2026-05-29T21:15:40.761507+00:00"
+  },
+  {
+    "id": "76df93146d1838bc",
+    "title": "FCC warns US broadcasters their licenses are a privilege, not a right",
+    "description": "TV and radio stations told to review current practices to align with public interest obligations",
+    "url": "https://www.theregister.com/offbeat/2026/05/29/fcc-warns-us-broadcasters-their-licenses-are-a-privilege-not-a-right/5248393",
+    "image": "https://image.theregister.com/?imageId=5219655&width=800",
+    "source": "The Register",
+    "source_id": "src-068",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T12:30:00+00:00",
+    "fetched_at": "2026-05-29T21:15:41.617212+00:00"
+  },
+  {
     "id": "7fb93272da0bb83c",
     "title": "Engadget Podcast: Diving into the Fitbit Air and the Pope's AI criticism",
     "description": "This week on the Engadget podcast, we chat about our thoughts on the Fitbit Air, as well as Pope Leo's AI criticism with special guest Fr. Robert Ballecer.",
@@ -10,6 +790,18 @@
     "category": "tehnologija",
     "published_at": "2026-05-29T12:28:31+00:00",
     "fetched_at": "2026-05-29T12:35:28.546519+00:00"
+  },
+  {
+    "id": "b8f16f10e84617a0",
+    "title": "Jony Ive’s funky Ferrari Luce - The Verge",
+    "description": "Jony Ive’s funky Ferrari Luce The Verge",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uVENtNThlMG9NMDNCSzdrUFdCbXBZbTFDdVhXaTFjang4cm1xNDRFSXpkQWF4Ync1elRkeG1KUHdrd3BkNURad2xlNTdqMHNxa0ExSHF1dE9kQzJneGppekNpRjV1RmVYSm8zQkxZbmNQOGFJc0Y1czRYUQ?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-1eda22d9ba7a/1200/750",
+    "source": "The Verge Technology - Google News",
+    "source_id": "global-extra-020",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T12:25:12+00:00",
+    "fetched_at": "2026-05-29T21:15:47.161975+00:00"
   },
   {
     "id": "7f7e7c4e42fbeddd",
@@ -45,7 +837,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-29T12:10:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.497468+00:00"
+    "fetched_at": "2026-05-29T21:15:40.843274+00:00"
   },
   {
     "id": "22afef0f702530fa",
@@ -57,7 +849,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-29T12:03:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.449098+00:00"
+    "fetched_at": "2026-05-29T21:15:40.781995+00:00"
   },
   {
     "id": "3eddc925ed675e1a",
@@ -93,19 +885,43 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-29T12:00:45+00:00",
-    "fetched_at": "2026-05-29T12:35:28.602211+00:00"
+    "fetched_at": "2026-05-29T21:15:41.033093+00:00"
   },
   {
     "id": "58fce1ac1b308ce1",
     "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
-    "description": "South Korean chip startup Xcena is betting that AI's real bottleneck is not compute, but memory.",
+    "description": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
     "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
     "image": "https://picsum.photos/seed/wv-news-ba4b36be94d4/1200/750",
     "source": "TechCrunch",
     "source_id": "src-061",
     "category": "tehnologija",
     "published_at": "2026-05-29T12:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.383993+00:00"
+    "fetched_at": "2026-05-29T21:15:40.687619+00:00"
+  },
+  {
+    "id": "e63fa88b5624cf9a",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "description": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+    "url": "https://openai.com/index/boston-childrens-hospital",
+    "image": "https://picsum.photos/seed/wv-news-526b60fc857a/1200/750",
+    "source": "OpenAI News",
+    "source_id": "src-072",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T12:00:00+00:00",
+    "fetched_at": "2026-05-29T21:15:41.150236+00:00"
+  },
+  {
+    "id": "507ec0fdf6297e19",
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "description": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+    "url": "https://openai.com/index/braintrust",
+    "image": "https://picsum.photos/seed/wv-news-ac322b0f33e5/1200/750",
+    "source": "OpenAI News",
+    "source_id": "src-072",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T12:00:00+00:00",
+    "fetched_at": "2026-05-29T21:15:41.150303+00:00"
   },
   {
     "id": "a37c51f31f95cb44",
@@ -117,7 +933,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-29T12:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.826486+00:00"
+    "fetched_at": "2026-05-29T21:15:41.322433+00:00"
   },
   {
     "id": "c5298040142b382a",
@@ -129,7 +945,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-29T12:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:29.369855+00:00"
+    "fetched_at": "2026-05-29T21:15:41.617262+00:00"
   },
   {
     "id": "f655ad08bb2b0a08",
@@ -153,7 +969,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-29T11:49:45+00:00",
-    "fetched_at": "2026-05-29T12:35:29.369947+00:00"
+    "fetched_at": "2026-05-29T21:15:41.617311+00:00"
   },
   {
     "id": "8a585536bb0f5016",
@@ -189,7 +1005,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-29T11:30:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.546681+00:00"
+    "fetched_at": "2026-05-29T21:15:40.822842+00:00"
   },
   {
     "id": "8a470c5b9de741ae",
@@ -201,7 +1017,7 @@
     "source_id": "src-068",
     "category": "tehnologija",
     "published_at": "2026-05-29T11:28:31+00:00",
-    "fetched_at": "2026-05-29T12:35:29.370021+00:00"
+    "fetched_at": "2026-05-29T21:15:41.617357+00:00"
   },
   {
     "id": "70f0e0ae0a8caed3",
@@ -213,7 +1029,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-29T11:19:52+00:00",
-    "fetched_at": "2026-05-29T12:35:28.497571+00:00"
+    "fetched_at": "2026-05-29T21:15:40.843411+00:00"
   },
   {
     "id": "36d5eec767f7a0c1",
@@ -237,7 +1053,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-29T11:01:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.449159+00:00"
+    "fetched_at": "2026-05-29T21:15:40.782088+00:00"
   },
   {
     "id": "e34258febc3e60a6",
@@ -249,7 +1065,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-29T11:00:38+00:00",
-    "fetched_at": "2026-05-29T12:35:28.602265+00:00"
+    "fetched_at": "2026-05-29T21:15:41.033181+00:00"
   },
   {
     "id": "aee9272350fb7ffe",
@@ -261,7 +1077,7 @@
     "source_id": "src-063",
     "category": "tehnologija",
     "published_at": "2026-05-29T10:32:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.449206+00:00"
+    "fetched_at": "2026-05-29T21:15:40.782166+00:00"
   },
   {
     "id": "3c610b1ea2f32d5a",
@@ -273,7 +1089,7 @@
     "source_id": "src-064",
     "category": "tehnologija",
     "published_at": "2026-05-29T10:30:40+00:00",
-    "fetched_at": "2026-05-29T12:35:28.552440+00:00"
+    "fetched_at": "2026-05-29T21:15:40.761604+00:00"
   },
   {
     "id": "b044b4e2a010dd3c",
@@ -324,6 +1140,18 @@
     "fetched_at": "2026-05-29T12:35:28.449295+00:00"
   },
   {
+    "id": "02986e6f98e9e4dd",
+    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+    "description": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in…",
+    "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "image": "https://picsum.photos/seed/wv-news-1ba6a02cc0c4/1200/750",
+    "source": "MIT Technology Review",
+    "source_id": "src-066",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T10:00:00+00:00",
+    "fetched_at": "2026-05-29T21:15:40.843548+00:00"
+  },
+  {
     "id": "8658f718e4ec8ac1",
     "title": "Streamers Like Clavicular Are Humiliating OnlyFans Girls For Clout",
     "description": "",
@@ -334,18 +1162,6 @@
     "category": "tehnologija",
     "published_at": "2026-05-29T10:00:00+00:00",
     "fetched_at": "2026-05-29T12:35:28.449337+00:00"
-  },
-  {
-    "id": "02986e6f98e9e4dd",
-    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-    "description": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in…",
-    "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-    "image": "https://picsum.photos/seed/wv-news-1ba6a02cc0c4/1200/750",
-    "source": "MIT Technology Review",
-    "source_id": "src-066",
-    "category": "tehnologija",
-    "published_at": "2026-05-29T10:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.497664+00:00"
   },
   {
     "id": "49920cf464c0a36a",
@@ -489,7 +1305,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-29T03:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:29.041033+00:00"
+    "fetched_at": "2026-05-29T21:15:41.150358+00:00"
   },
   {
     "id": "e81ad3d1075c1c16",
@@ -501,7 +1317,7 @@
     "source_id": "src-064",
     "category": "tehnologija",
     "published_at": "2026-05-29T02:21:08+00:00",
-    "fetched_at": "2026-05-29T12:35:28.552507+00:00"
+    "fetched_at": "2026-05-29T21:15:40.764053+00:00"
   },
   {
     "id": "c249179be0bc2a69",
@@ -513,7 +1329,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-29T01:44:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.602314+00:00"
+    "fetched_at": "2026-05-29T21:15:41.033268+00:00"
   },
   {
     "id": "2773779b6d2446b0",
@@ -525,7 +1341,7 @@
     "source_id": "src-069",
     "category": "tehnologija",
     "published_at": "2026-05-29T01:39:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.602361+00:00"
+    "fetched_at": "2026-05-29T21:15:41.033356+00:00"
   },
   {
     "id": "e2e91daa0b062c73",
@@ -537,19 +1353,19 @@
     "source_id": "src-061",
     "category": "tehnologija",
     "published_at": "2026-05-29T01:22:16+00:00",
-    "fetched_at": "2026-05-29T12:35:28.384071+00:00"
+    "fetched_at": "2026-05-29T21:15:40.687682+00:00"
   },
   {
     "id": "f297d70cd3dcebd8",
-    "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+    "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
     "description": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
     "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-    "image": "https://picsum.photos/seed/wv-news-e994a3701dd1/1200/750",
+    "image": "https://picsum.photos/seed/wv-news-11f08f299417/1200/750",
     "source": "TechCrunch",
     "source_id": "src-061",
     "category": "tehnologija",
     "published_at": "2026-05-29T00:44:37+00:00",
-    "fetched_at": "2026-05-29T12:35:28.384139+00:00"
+    "fetched_at": "2026-05-29T21:15:40.687743+00:00"
   },
   {
     "id": "65700a1d04c6ba1f",
@@ -561,7 +1377,19 @@
     "source_id": "src-061",
     "category": "tehnologija",
     "published_at": "2026-05-29T00:14:35+00:00",
-    "fetched_at": "2026-05-29T12:35:28.384192+00:00"
+    "fetched_at": "2026-05-29T21:15:40.687796+00:00"
+  },
+  {
+    "id": "33e1df4abe4ea5f3",
+    "title": "A shared playbook for trustworthy third party evaluations",
+    "description": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "image": "https://picsum.photos/seed/wv-news-2e385043abf0/1200/750",
+    "source": "OpenAI News",
+    "source_id": "src-072",
+    "category": "tehnologija",
+    "published_at": "2026-05-29T00:00:00+00:00",
+    "fetched_at": "2026-05-29T21:15:41.150410+00:00"
   },
   {
     "id": "588f5d04f464e1c0",
@@ -586,6 +1414,18 @@
     "category": "tehnologija",
     "published_at": "2026-05-28T23:01:52+00:00",
     "fetched_at": "2026-05-29T12:35:28.384245+00:00"
+  },
+  {
+    "id": "489daa3f8f5adc38",
+    "title": "What would you be willing to put in your body?",
+    "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. At this time last week, I was getting ready to ask people what drugs they were on. I was waiting […]",
+    "url": "https://www.theverge.com/column/939462/enhanced-games-biohacking-fda-health-wellness",
+    "image": "https://picsum.photos/seed/wv-news-e051ab839840/1200/750",
+    "source": "The Verge",
+    "source_id": "src-062",
+    "category": "tehnologija",
+    "published_at": "2026-05-28T22:15:34+00:00",
+    "fetched_at": "2026-05-29T21:15:40.740391+00:00"
   },
   {
     "id": "bef4ab3ab7cda210",
@@ -645,7 +1485,7 @@
     "source_id": "src-067",
     "category": "tehnologija",
     "published_at": "2026-05-28T21:32:45+00:00",
-    "fetched_at": "2026-05-29T12:35:28.774498+00:00"
+    "fetched_at": "2026-05-29T21:15:41.051266+00:00"
   },
   {
     "id": "26d79b98209962fc",
@@ -717,7 +1557,7 @@
     "source_id": "src-067",
     "category": "tehnologija",
     "published_at": "2026-05-28T20:54:16+00:00",
-    "fetched_at": "2026-05-29T12:35:28.780600+00:00"
+    "fetched_at": "2026-05-29T21:15:41.052752+00:00"
   },
   {
     "id": "8062f8988ef3a199",
@@ -837,7 +1677,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-05-28T19:29:55+00:00",
-    "fetched_at": "2026-05-29T12:35:28.754064+00:00"
+    "fetched_at": "2026-05-29T21:15:41.120358+00:00"
   },
   {
     "id": "1cdc9e9ae3900c88",
@@ -972,6 +1812,18 @@
     "fetched_at": "2026-05-29T12:35:28.384658+00:00"
   },
   {
+    "id": "f5a580251c1ea5ee",
+    "title": "Apple working to cram massive Gemini model into iPhone to power new Siri - Ars Technica",
+    "description": "Apple working to cram massive Gemini model into iPhone to power new Siri Ars Technica",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM3Zjc3Y2bjgzaC16el9XU2g3UGg5YVBTOEp6Ni0xelVQTjluRDFOcmhQYWFUQzRjUV9KY3hvd1pvSVVLYi1hWmxoNDN5Qy1FcTFtTHhrZmZWR050TGNwdl9YSjdKQnUtTndoMVN0RW5lYUlaeEFldWIweG5kMkRFYmk3Qzh5Y1dXZ21FRnhuTjE1Z2FzV3lMMFd1VklPZHMyWU5RMlFXcU9xUG1jSHJLak80UnZHTDN3Ym5IbHRqVG1kWlpYb0dNemlB?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-e4a709811c1f/1200/750",
+    "source": "Ars Technica - Google News",
+    "source_id": "global-extra-021",
+    "category": "tehnologija",
+    "published_at": "2026-05-28T18:30:48+00:00",
+    "fetched_at": "2026-05-29T21:15:47.048561+00:00"
+  },
+  {
     "id": "3711ff3216e10f7d",
     "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
     "description": "As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.",
@@ -984,18 +1836,6 @@
     "fetched_at": "2026-05-29T12:35:28.552942+00:00"
   },
   {
-    "id": "f5a580251c1ea5ee",
-    "title": "Apple working to cram massive Gemini model into iPhone to power new Siri - Ars Technica",
-    "description": "Apple working to cram massive Gemini model into iPhone to power new Siri Ars Technica",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM3Zjc3Y2bjgzaC16el9XU2g3UGg5YVBTOEp6Ni0xelVQTjluRDFOcmhQYWFUQzRjUV9KY3hvd1pvSVVLYi1hWmxoNDN5Qy1FcTFtTHhrZmZWR050TGNwdl9YSjdKQnUtTndoMVN0RW5lYUlaeEFldWIweG5kMkRFYmk3Qzh5Y1dXZ21FRnhuTjE1Z2FzV3lMMFd1VklPZHMyWU5RMlFXcU9xUG1jSHJLak80UnZHTDN3Ym5IbHRqVG1kWlpYb0dNemlB?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-e4a709811c1f/1200/750",
-    "source": "Ars Technica - Google News",
-    "source_id": "global-extra-021",
-    "category": "tehnologija",
-    "published_at": "2026-05-28T18:30:48+00:00",
-    "fetched_at": "2026-05-29T12:35:34.174176+00:00"
-  },
-  {
     "id": "f6ebdf2cc2780adc",
     "title": "Introducing the next generation of Amazon OpenSearch Serverless for building your agentic AI applications",
     "description": "AWS rebuilt Amazon OpenSearch Serverless from the ground up for agentic AI and dynamic workloads. Get instant autoscaling and up to 60% cost savings.",
@@ -1005,7 +1845,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-05-28T18:26:16+00:00",
-    "fetched_at": "2026-05-29T12:35:28.754166+00:00"
+    "fetched_at": "2026-05-29T21:15:41.120432+00:00"
   },
   {
     "id": "c7b073f0857f413a",
@@ -1017,7 +1857,7 @@
     "source_id": "src-067",
     "category": "tehnologija",
     "published_at": "2026-05-28T18:23:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.781393+00:00"
+    "fetched_at": "2026-05-29T21:15:41.053773+00:00"
   },
   {
     "id": "67e256a35efadbff",
@@ -1089,7 +1929,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-28T18:01:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.497740+00:00"
+    "fetched_at": "2026-05-29T21:15:40.843674+00:00"
   },
   {
     "id": "9d47226639409b46",
@@ -1125,7 +1965,7 @@
     "source_id": "global-extra-021",
     "category": "tehnologija",
     "published_at": "2026-05-28T17:10:10+00:00",
-    "fetched_at": "2026-05-29T12:35:34.174300+00:00"
+    "fetched_at": "2026-05-29T21:15:47.048704+00:00"
   },
   {
     "id": "f93eb7f2ac1801e1",
@@ -1173,7 +2013,7 @@
     "source_id": "src-067",
     "category": "tehnologija",
     "published_at": "2026-05-28T16:57:24+00:00",
-    "fetched_at": "2026-05-29T12:35:28.795691+00:00"
+    "fetched_at": "2026-05-29T21:15:41.055710+00:00"
   },
   {
     "id": "c1ae3e5849f86e95",
@@ -1293,7 +2133,7 @@
     "source_id": "global-extra-020",
     "category": "tehnologija",
     "published_at": "2026-05-28T15:32:52+00:00",
-    "fetched_at": "2026-05-29T12:35:34.205750+00:00"
+    "fetched_at": "2026-05-29T21:15:47.162372+00:00"
   },
   {
     "id": "a46796cae3d4a0b0",
@@ -1320,18 +2160,6 @@
     "fetched_at": "2026-05-29T12:35:28.796514+00:00"
   },
   {
-    "id": "250bc34c0858cf5d",
-    "title": "SQL query logs hold the context AI agents need to stop hallucinating joins",
-    "description": "When Miro’s data team pointed AI agents directly at its Snowflake environment, the agents got the wrong answer more than 65% of the time. The problem wasn’t the model — it was context. With more than 10,000 tables and no semantic layer to guide routing, the agents had no way to know which data assets matched which business questions. DataHub is releasing a context intelligence layer Thursday that mines existing SQL query history to build a semantic index — and exposes it to agents via MCP, LangChain, Google’s Agent Development Kit and CrewAI. The company calls it Context Intelligence, and it’s built on the same query-log infrastructure DataHub has used for lineage tracking in production deployments worldwide. The company was founded by the team that built DataHub as an open source project at LinkedIn, where co-founder and CTO Shirshanka Das led data infrastructure for nearly 11 years. Th",
-    "url": "https://venturebeat.com/data/sql-query-logs-hold-the-context-ai-agents-need-to-stop-hallucinating-joins",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4duYnrZO66UDWj9I8CYJvF/e7f866540190ac5f7b57a52f8b75cdc8/mining-sql-queries-smk1.jpg?w=300&q=30",
-    "source": "VentureBeat",
-    "source_id": "src-067",
-    "category": "tehnologija",
-    "published_at": "2026-05-28T15:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.797120+00:00"
-  },
-  {
     "id": "f2c2c1e469bddfcd",
     "title": "Catch up on 12 major I/O 2026 moments",
     "description": "",
@@ -1341,7 +2169,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-28T15:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.826591+00:00"
+    "fetched_at": "2026-05-29T21:15:41.322509+00:00"
   },
   {
     "id": "84114ced8a4b4e8d",
@@ -1353,7 +2181,19 @@
     "source_id": "global-extra-020",
     "category": "tehnologija",
     "published_at": "2026-05-28T15:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:34.204909+00:00"
+    "fetched_at": "2026-05-29T21:15:47.161658+00:00"
+  },
+  {
+    "id": "250bc34c0858cf5d",
+    "title": "SQL query logs hold the context AI agents need to stop hallucinating joins",
+    "description": "When Miro’s data team pointed AI agents directly at its Snowflake environment, the agents got the wrong answer more than 65% of the time. The problem wasn’t the model — it was context. With more than 10,000 tables and no semantic layer to guide routing, the agents had no way to know which data assets matched which business questions. DataHub is releasing a context intelligence layer Thursday that mines existing SQL query history to build a semantic index — and exposes it to agents via MCP, LangChain, Google’s Agent Development Kit and CrewAI. The company calls it Context Intelligence, and it’s built on the same query-log infrastructure DataHub has used for lineage tracking in production deployments worldwide. The company was founded by the team that built DataHub as an open source project at LinkedIn, where co-founder and CTO Shirshanka Das led data infrastructure for nearly 11 years. Th",
+    "url": "https://venturebeat.com/data/sql-query-logs-hold-the-context-ai-agents-need-to-stop-hallucinating-joins",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4duYnrZO66UDWj9I8CYJvF/e7f866540190ac5f7b57a52f8b75cdc8/mining-sql-queries-smk1.jpg?w=300&q=30",
+    "source": "VentureBeat",
+    "source_id": "src-067",
+    "category": "tehnologija",
+    "published_at": "2026-05-28T15:00:00+00:00",
+    "fetched_at": "2026-05-29T12:35:28.797120+00:00"
   },
   {
     "id": "a98d41193dbed5ad",
@@ -1389,7 +2229,7 @@
     "source_id": "global-extra-020",
     "category": "tehnologija",
     "published_at": "2026-05-28T14:55:23+00:00",
-    "fetched_at": "2026-05-29T12:35:34.204809+00:00"
+    "fetched_at": "2026-05-29T21:15:47.161730+00:00"
   },
   {
     "id": "047bf88f69bdbf07",
@@ -1401,7 +2241,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-28T14:45:35+00:00",
-    "fetched_at": "2026-05-29T12:35:28.546756+00:00"
+    "fetched_at": "2026-05-29T21:15:40.822914+00:00"
   },
   {
     "id": "b6611cf674ebd760",
@@ -1425,7 +2265,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-28T13:30:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.547229+00:00"
+    "fetched_at": "2026-05-29T21:15:40.823091+00:00"
   },
   {
     "id": "893c2c7966fc7806",
@@ -1461,7 +2301,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-28T13:00:01+00:00",
-    "fetched_at": "2026-05-29T12:35:28.793358+00:00"
+    "fetched_at": "2026-05-29T21:15:41.172555+00:00"
   },
   {
     "id": "eaeca849bf28ed66",
@@ -1473,7 +2313,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-28T13:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.863646+00:00"
+    "fetched_at": "2026-05-29T21:15:41.249072+00:00"
   },
   {
     "id": "cff980e8cd00a2cb",
@@ -1497,7 +2337,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-28T12:10:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.497810+00:00"
+    "fetched_at": "2026-05-29T21:15:40.843798+00:00"
   },
   {
     "id": "b143a1bf5ce070c5",
@@ -1509,7 +2349,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-28T12:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.547291+00:00"
+    "fetched_at": "2026-05-29T21:15:40.823167+00:00"
   },
   {
     "id": "c4a9a577612daa8d",
@@ -1521,7 +2361,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-28T12:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:29.041118+00:00"
+    "fetched_at": "2026-05-29T21:15:41.150462+00:00"
   },
   {
     "id": "e7b356f984f87497",
@@ -1557,7 +2397,7 @@
     "source_id": "global-extra-019",
     "category": "tehnologija",
     "published_at": "2026-05-28T10:30:00+00:00",
-    "fetched_at": "2026-05-29T12:35:34.396948+00:00"
+    "fetched_at": "2026-05-29T21:15:47.105485+00:00"
   },
   {
     "id": "e135fe6fcb9d4b02",
@@ -1569,7 +2409,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-28T10:00:01+00:00",
-    "fetched_at": "2026-05-29T12:35:28.793521+00:00"
+    "fetched_at": "2026-05-29T21:15:41.172655+00:00"
   },
   {
     "id": "9bf4888bcddd1784",
@@ -1581,7 +2421,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-28T10:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.497879+00:00"
+    "fetched_at": "2026-05-29T21:15:40.843917+00:00"
   },
   {
     "id": "1d8f024a09060eec",
@@ -1593,7 +2433,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-28T09:51:11+00:00",
-    "fetched_at": "2026-05-29T12:35:28.497939+00:00"
+    "fetched_at": "2026-05-29T21:15:40.844022+00:00"
   },
   {
     "id": "0a079abd9f1d703d",
@@ -1620,18 +2460,6 @@
     "fetched_at": "2026-05-29T12:35:34.397471+00:00"
   },
   {
-    "id": "3e9dde27d0980f78",
-    "title": "OpenAI’s Frontier Governance Framework",
-    "description": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-    "url": "https://openai.com/index/openai-frontier-governance-framework",
-    "image": "https://picsum.photos/seed/wv-news-98b3e727e81c/1200/750",
-    "source": "OpenAI News",
-    "source_id": "src-072",
-    "category": "tehnologija",
-    "published_at": "2026-05-28T00:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:29.041185+00:00"
-  },
-  {
     "id": "cb031b5cf3e3be67",
     "title": "MUFG aims to become AI-native with OpenAI",
     "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
@@ -1641,7 +2469,19 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-28T00:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:29.041236+00:00"
+    "fetched_at": "2026-05-29T21:15:41.150511+00:00"
+  },
+  {
+    "id": "3e9dde27d0980f78",
+    "title": "OpenAI’s Frontier Governance Framework",
+    "description": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "image": "https://picsum.photos/seed/wv-news-98b3e727e81c/1200/750",
+    "source": "OpenAI News",
+    "source_id": "src-072",
+    "category": "tehnologija",
+    "published_at": "2026-05-28T00:00:00+00:00",
+    "fetched_at": "2026-05-29T21:15:41.150567+00:00"
   },
   {
     "id": "0b340d3d5b9c2ab2",
@@ -1653,7 +2493,7 @@
     "source_id": "global-extra-021",
     "category": "tehnologija",
     "published_at": "2026-05-27T19:12:59+00:00",
-    "fetched_at": "2026-05-29T12:35:34.174565+00:00"
+    "fetched_at": "2026-05-29T21:15:47.048866+00:00"
   },
   {
     "id": "2c01644aea9303c5",
@@ -1665,7 +2505,7 @@
     "source_id": "global-extra-021",
     "category": "tehnologija",
     "published_at": "2026-05-27T19:02:21+00:00",
-    "fetched_at": "2026-05-29T12:35:34.174648+00:00"
+    "fetched_at": "2026-05-29T21:15:47.049034+00:00"
   },
   {
     "id": "e590966d9d8d9bdf",
@@ -1677,7 +2517,7 @@
     "source_id": "global-extra-021",
     "category": "tehnologija",
     "published_at": "2026-05-27T17:36:10+00:00",
-    "fetched_at": "2026-05-29T12:35:34.174237+00:00"
+    "fetched_at": "2026-05-29T21:15:47.048631+00:00"
   },
   {
     "id": "58ea7ef5f4d6f9ac",
@@ -1689,7 +2529,7 @@
     "source_id": "global-extra-020",
     "category": "tehnologija",
     "published_at": "2026-05-27T17:32:48+00:00",
-    "fetched_at": "2026-05-29T12:35:34.205214+00:00"
+    "fetched_at": "2026-05-29T21:15:47.162069+00:00"
   },
   {
     "id": "c90d42b2ed002780",
@@ -1701,7 +2541,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-27T17:25:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.863730+00:00"
+    "fetched_at": "2026-05-29T21:15:41.249184+00:00"
   },
   {
     "id": "946434b5f2b65114",
@@ -1713,7 +2553,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-05-27T16:15:05+00:00",
-    "fetched_at": "2026-05-29T12:35:28.754376+00:00"
+    "fetched_at": "2026-05-29T21:15:41.120515+00:00"
   },
   {
     "id": "517b9ba0c61de9c2",
@@ -1725,7 +2565,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-27T15:30:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.547360+00:00"
+    "fetched_at": "2026-05-29T21:15:40.823236+00:00"
   },
   {
     "id": "a9a56364e24d286d",
@@ -1737,7 +2577,7 @@
     "source_id": "src-065",
     "category": "tehnologija",
     "published_at": "2026-05-27T15:00:00+00:00",
-    "fetched_at": "2026-05-29T07:38:08.440213+00:00"
+    "fetched_at": "2026-05-29T21:15:40.823305+00:00"
   },
   {
     "id": "f36d890707ab370b",
@@ -1761,7 +2601,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-27T13:00:01+00:00",
-    "fetched_at": "2026-05-29T12:35:28.807312+00:00"
+    "fetched_at": "2026-05-29T21:15:41.173184+00:00"
   },
   {
     "id": "48d3ee1aeb6cab53",
@@ -1773,7 +2613,7 @@
     "source_id": "global-extra-020",
     "category": "tehnologija",
     "published_at": "2026-05-27T13:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:34.205497+00:00"
+    "fetched_at": "2026-05-29T21:15:47.162216+00:00"
   },
   {
     "id": "6bc34964049fd6f3",
@@ -1785,7 +2625,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-27T12:10:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.498000+00:00"
+    "fetched_at": "2026-05-29T21:15:40.844146+00:00"
   },
   {
     "id": "d890ca1def68cf15",
@@ -1797,7 +2637,7 @@
     "source_id": "global-extra-020",
     "category": "tehnologija",
     "published_at": "2026-05-27T12:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:34.205121+00:00"
+    "fetched_at": "2026-05-29T21:15:47.161900+00:00"
   },
   {
     "id": "3d53ac69a6b7b090",
@@ -1809,7 +2649,7 @@
     "source_id": "global-extra-021",
     "category": "tehnologija",
     "published_at": "2026-05-27T11:00:28+00:00",
-    "fetched_at": "2026-05-29T12:35:34.174381+00:00"
+    "fetched_at": "2026-05-29T21:15:47.048951+00:00"
   },
   {
     "id": "a1f161b6a344e4fa",
@@ -1821,7 +2661,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-27T11:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:29.041286+00:00"
+    "fetched_at": "2026-05-29T21:15:41.150617+00:00"
   },
   {
     "id": "5c29e52710bc06e5",
@@ -1833,7 +2673,7 @@
     "source_id": "global-extra-019",
     "category": "tehnologija",
     "published_at": "2026-05-27T09:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:34.397153+00:00"
+    "fetched_at": "2026-05-29T21:15:47.105792+00:00"
   },
   {
     "id": "9da64821c60f866d",
@@ -1845,7 +2685,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-27T07:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:29.041337+00:00"
+    "fetched_at": "2026-05-29T21:15:41.150666+00:00"
   },
   {
     "id": "b36c91942c4f0187",
@@ -1857,7 +2697,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-27T00:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:29.041388+00:00"
+    "fetched_at": "2026-05-29T21:15:41.150720+00:00"
   },
   {
     "id": "fae225528858b04c",
@@ -1869,7 +2709,19 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-27T00:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:29.041434+00:00"
+    "fetched_at": "2026-05-29T21:15:41.150799+00:00"
+  },
+  {
+    "id": "e979775d8df86ce2",
+    "title": "Is Peter Thiel the target of Pope Leo’s Gandalf quote? An investigation. - Ars Technica",
+    "description": "Is Peter Thiel the target of Pope Leo’s Gandalf quote? An investigation. Ars Technica",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1Nhc19lUVM1R21qSGJvYWNkQmVSblk0UlRaZG5xZndSSG9DbGFOUFN1ampxN3NfOHpNcVJPUk90azBDaVMtbXZJSjRZQTQyUklQd0ItV2JoYXhXSTljN1RWSVcyemxndFpmdDhabHVCc0NCbkZpcGt0TzZneElnSlpNclhPZmxoM3lMOVFld1lNeUcxcE1jNGQ1T2x2Y1Vxa29mZHdPOHk5Ql9aUHh5QTJBQ2w?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-122f345ee465/1200/750",
+    "source": "Ars Technica - Google News",
+    "source_id": "global-extra-021",
+    "category": "tehnologija",
+    "published_at": "2026-05-26T22:27:32+00:00",
+    "fetched_at": "2026-05-29T21:15:47.048788+00:00"
   },
   {
     "id": "a2755097027ff93c",
@@ -1881,7 +2733,7 @@
     "source_id": "global-extra-021",
     "category": "tehnologija",
     "published_at": "2026-05-26T20:47:31+00:00",
-    "fetched_at": "2026-05-29T12:35:34.174722+00:00"
+    "fetched_at": "2026-05-29T21:15:47.049211+00:00"
   },
   {
     "id": "8869678012cf0bf6",
@@ -1893,7 +2745,7 @@
     "source_id": "global-extra-019",
     "category": "tehnologija",
     "published_at": "2026-05-26T20:46:00+00:00",
-    "fetched_at": "2026-05-29T12:35:34.397404+00:00"
+    "fetched_at": "2026-05-29T21:15:47.106199+00:00"
   },
   {
     "id": "3d4542781fae8883",
@@ -1905,7 +2757,7 @@
     "source_id": "global-extra-019",
     "category": "tehnologija",
     "published_at": "2026-05-26T20:17:00+00:00",
-    "fetched_at": "2026-05-29T12:35:34.396853+00:00"
+    "fetched_at": "2026-05-29T21:15:47.105569+00:00"
   },
   {
     "id": "8b8e80904941beef",
@@ -1917,7 +2769,7 @@
     "source_id": "global-extra-021",
     "category": "tehnologija",
     "published_at": "2026-05-26T19:50:33+00:00",
-    "fetched_at": "2026-05-29T12:35:34.173926+00:00"
+    "fetched_at": "2026-05-29T21:15:47.048299+00:00"
   },
   {
     "id": "746d3d4f9accb79a",
@@ -1941,7 +2793,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-26T14:54:10+00:00",
-    "fetched_at": "2026-05-29T12:35:28.498063+00:00"
+    "fetched_at": "2026-05-29T21:15:40.844270+00:00"
   },
   {
     "id": "08e23656b4b18038",
@@ -1965,7 +2817,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-26T13:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.807731+00:00"
+    "fetched_at": "2026-05-29T21:15:41.173411+00:00"
   },
   {
     "id": "5b298c7dc5e6cb26",
@@ -1989,7 +2841,7 @@
     "source_id": "src-066",
     "category": "tehnologija",
     "published_at": "2026-05-26T12:10:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.498122+00:00"
+    "fetched_at": "2026-05-29T21:15:40.844378+00:00"
   },
   {
     "id": "239ca62a94d62d11",
@@ -2001,7 +2853,7 @@
     "source_id": "global-extra-020",
     "category": "tehnologija",
     "published_at": "2026-05-26T12:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:34.204603+00:00"
+    "fetched_at": "2026-05-29T21:15:47.161504+00:00"
   },
   {
     "id": "d7195906dc2ed017",
@@ -2013,7 +2865,19 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-26T10:00:01+00:00",
-    "fetched_at": "2026-05-29T12:35:28.808071+00:00"
+    "fetched_at": "2026-05-29T21:15:41.173604+00:00"
+  },
+  {
+    "id": "aca028aae6be04b5",
+    "title": "AI Is Taking Over the Most Cursed Job in the World - WIRED",
+    "description": "AI Is Taking Over the Most Cursed Job in the World WIRED",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nTmdXMzFFUmhEMDVDT0JQWHhvM3hYaktOM2g0MTJwUnFPWnRKM1FzeU1JamZfV0lJbmt3ekV3Q0NlZ0ZnSHNQNWU4TTdmdEs4dlh2UThOUFBXaW1mcUhNSlJMdkVmTGhHSmc?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-4328dc9df75b/1200/750",
+    "source": "Wired Technology - Google News",
+    "source_id": "global-extra-019",
+    "category": "tehnologija",
+    "published_at": "2026-05-26T10:00:00+00:00",
+    "fetched_at": "2026-05-29T21:15:47.105866+00:00"
   },
   {
     "id": "3a552a3e92cd8bad",
@@ -2025,7 +2889,7 @@
     "source_id": "global-extra-019",
     "category": "tehnologija",
     "published_at": "2026-05-26T10:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:34.397280+00:00"
+    "fetched_at": "2026-05-29T21:15:47.106038+00:00"
   },
   {
     "id": "f06dc0f2f90722d5",
@@ -2037,7 +2901,7 @@
     "source_id": "global-extra-019",
     "category": "tehnologija",
     "published_at": "2026-05-26T09:30:00+00:00",
-    "fetched_at": "2026-05-29T12:35:34.396682+00:00"
+    "fetched_at": "2026-05-29T21:15:47.105323+00:00"
   },
   {
     "id": "879329162822b3a3",
@@ -2073,7 +2937,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-05-25T20:11:10+00:00",
-    "fetched_at": "2026-05-29T12:35:28.754556+00:00"
+    "fetched_at": "2026-05-29T21:15:41.120591+00:00"
   },
   {
     "id": "5219cb53770c69a2",
@@ -2097,7 +2961,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-25T18:00:01+00:00",
-    "fetched_at": "2026-05-29T12:35:28.808594+00:00"
+    "fetched_at": "2026-05-29T21:15:41.173896+00:00"
   },
   {
     "id": "a15a9988fbdbc631",
@@ -2109,7 +2973,7 @@
     "source_id": "global-extra-020",
     "category": "tehnologija",
     "published_at": "2026-05-25T15:05:07+00:00",
-    "fetched_at": "2026-05-29T12:35:34.205025+00:00"
+    "fetched_at": "2026-05-29T21:15:47.161823+00:00"
   },
   {
     "id": "d06cfe4a8ece24c1",
@@ -2121,7 +2985,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-25T13:00:01+00:00",
-    "fetched_at": "2026-05-29T12:35:28.809117+00:00"
+    "fetched_at": "2026-05-29T21:15:41.174207+00:00"
   },
   {
     "id": "19772196266742e7",
@@ -2275,7 +3139,7 @@
     "source_id": "global-extra-021",
     "category": "tehnologija",
     "published_at": "2026-05-25T12:00:15+00:00",
-    "fetched_at": "2026-05-29T12:35:34.174104+00:00"
+    "fetched_at": "2026-05-29T21:15:47.048484+00:00"
   },
   {
     "id": "2048aad7e76dff35",
@@ -2349,7 +3213,7 @@
     "source_id": "global-extra-019",
     "category": "tehnologija",
     "published_at": "2026-05-25T10:30:00+00:00",
-    "fetched_at": "2026-05-29T12:35:34.397336+00:00"
+    "fetched_at": "2026-05-29T21:15:47.106120+00:00"
   },
   {
     "id": "61891601bc3bb0a8",
@@ -2373,7 +3237,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-25T10:00:01+00:00",
-    "fetched_at": "2026-05-29T12:35:28.809245+00:00"
+    "fetched_at": "2026-05-29T21:15:41.174283+00:00"
   },
   {
     "id": "baea278cd75e991f",
@@ -2557,7 +3421,7 @@
     "source_id": "src-072",
     "category": "tehnologija",
     "published_at": "2026-05-25T00:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:29.041498+00:00"
+    "fetched_at": "2026-05-29T21:15:41.150851+00:00"
   },
   {
     "id": "c6f58147e00a38ce",
@@ -2977,7 +3841,7 @@
     "source_id": "global-extra-019",
     "category": "tehnologija",
     "published_at": "2026-05-24T08:30:00+00:00",
-    "fetched_at": "2026-05-29T12:35:34.397078+00:00"
+    "fetched_at": "2026-05-29T21:15:47.105711+00:00"
   },
   {
     "id": "f0ad609fa44f674f",
@@ -3557,7 +4421,7 @@
     "source_id": "global-extra-019",
     "category": "tehnologija",
     "published_at": "2026-05-23T07:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:34.397015+00:00"
+    "fetched_at": "2026-05-29T21:15:47.105642+00:00"
   },
   {
     "id": "77d8d297e2f1590e",
@@ -4033,7 +4897,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-22T18:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.826666+00:00"
+    "fetched_at": "2026-05-29T21:15:41.322586+00:00"
   },
   {
     "id": "d624bc076e86a447",
@@ -4611,7 +5475,7 @@
     "source_id": "global-extra-020",
     "category": "tehnologija",
     "published_at": "2026-05-22T14:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:34.205633+00:00"
+    "fetched_at": "2026-05-29T21:15:47.162286+00:00"
   },
   {
     "id": "32f2e07c74ea1eb4",
@@ -4784,18 +5648,6 @@
     "category": "tehnologija",
     "published_at": "2026-05-22T12:00:00+00:00",
     "fetched_at": "2026-05-22T22:17:28.441666+00:00"
-  },
-  {
-    "id": "7b4c0ce52748e44d",
-    "title": "Samsung Movingstyle M7 Review: A Screen on Wheels",
-    "description": "",
-    "url": "https://www.wired.com/review/samsung-movingstyle-32-m7/",
-    "image": "https://media.wired.com/photos/6a0e3bc2ebc845925eb93dd9/master/pass/Review%20samsung%20movingstyle%20m7%20052026%20SOURCE%20Amazon.jpg",
-    "source": "Wired",
-    "source_id": "src-063",
-    "category": "tehnologija",
-    "published_at": "2026-05-22T11:48:00+00:00",
-    "fetched_at": "2026-05-22T22:17:27.454546+00:00"
   },
   {
     "id": "dbb8c088cd1184a4",
@@ -6118,7 +6970,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-21T18:00:01+00:00",
-    "fetched_at": "2026-05-29T12:35:28.810732+00:00"
+    "fetched_at": "2026-05-29T21:15:41.174659+00:00"
   },
   {
     "id": "d85efb331189bd41",
@@ -6271,7 +7123,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-21T17:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.863795+00:00"
+    "fetched_at": "2026-05-29T21:15:41.249267+00:00"
   },
   {
     "id": "d2f0f99934384aca",
@@ -7117,7 +7969,7 @@
     "source_id": "src-073",
     "category": "tehnologija",
     "published_at": "2026-05-21T11:02:33+00:00",
-    "fetched_at": "2026-05-29T12:35:28.749736+00:00"
+    "fetched_at": "2026-05-29T21:15:41.091803+00:00"
   },
   {
     "id": "5f31e17184bbf320",
@@ -7267,7 +8119,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:00:02+00:00",
-    "fetched_at": "2026-05-29T12:35:28.811226+00:00"
+    "fetched_at": "2026-05-29T21:15:41.175134+00:00"
   },
   {
     "id": "da12bbdfbd14b820",
@@ -7279,7 +8131,7 @@
     "source_id": "src-070",
     "category": "tehnologija",
     "published_at": "2026-05-21T10:00:02+00:00",
-    "fetched_at": "2026-05-29T12:35:28.811356+00:00"
+    "fetched_at": "2026-05-29T21:15:41.175256+00:00"
   },
   {
     "id": "e7f635bdb71ada45",
@@ -8104,7 +8956,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-20T20:40:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.826744+00:00"
+    "fetched_at": "2026-05-29T21:15:41.322677+00:00"
   },
   {
     "id": "c9f528541e40b1da",
@@ -8182,20 +9034,6 @@
     "category": "tehnologija",
     "published_at": "2026-05-20T20:02:00+00:00",
     "fetched_at": "2026-05-21T04:24:59.384545+00:00"
-  },
-  {
-    "id": "9155d260559a2146",
-    "title": "The Verge’s 2026 high school graduation gift guide",
-    "description": "High school graduation is a time of change that might be felt more deeply by family members than by the grads themselves. While some grads may immediately embark on a career path, many continue their education and delve deeper into their studies at college. Either way, they'll be taking on more responsibility, meaning it's up […]",
-    "url": "https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas",
-    "image": "https://picsum.photos/seed/wv-news-3cdb9d39f294/1200/750",
-    "source": "The Verge",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-20T19:59:55.506888+00:00",
-    "fetched_at": "2026-05-20T19:59:55.506890+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
   },
   {
     "id": "67ee15fe3d861045",
@@ -8299,7 +9137,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-20T19:30:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.826803+00:00"
+    "fetched_at": "2026-05-29T21:15:41.322752+00:00"
   },
   {
     "id": "4f40632dd4258f9f",
@@ -8648,7 +9486,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-20T16:45:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.826862+00:00"
+    "fetched_at": "2026-05-29T21:15:41.322828+00:00"
   },
   {
     "id": "2f16dbdc628bb82b",
@@ -10796,18 +11634,6 @@
     "image_policy": "bez_izvorne_fotografije"
   },
   {
-    "id": "6d51bfddb5e8b88e",
-    "title": "I/O 2026",
-    "description": "",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif",
-    "source": "Google AI Blog",
-    "source_id": "src-071",
-    "category": "tehnologija",
-    "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.826920+00:00"
-  },
-  {
     "id": "0f83d7a2aacab3b6",
     "title": "How AI Mode is changing the way people search in the U.S.",
     "description": "",
@@ -10817,7 +11643,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.826983+00:00"
+    "fetched_at": "2026-05-29T21:15:41.322905+00:00"
   },
   {
     "id": "0d67a063bbeb8322",
@@ -10829,7 +11655,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.827042+00:00"
+    "fetched_at": "2026-05-29T21:15:41.322981+00:00"
   },
   {
     "id": "b10a3315fabbf48c",
@@ -10841,7 +11667,7 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.827097+00:00"
+    "fetched_at": "2026-05-29T21:15:41.323067+00:00"
   },
   {
     "id": "037aba4678d338b5",
@@ -10853,7 +11679,19 @@
     "source_id": "src-071",
     "category": "tehnologija",
     "published_at": "2026-05-19T17:45:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.827152+00:00"
+    "fetched_at": "2026-05-29T21:15:41.323144+00:00"
+  },
+  {
+    "id": "6d51bfddb5e8b88e",
+    "title": "I/O 2026",
+    "description": "",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif",
+    "source": "Google AI Blog",
+    "source_id": "src-071",
+    "category": "tehnologija",
+    "published_at": "2026-05-19T17:45:00+00:00",
+    "fetched_at": "2026-05-29T12:35:28.826920+00:00"
   },
   {
     "id": "38285294e2e45ef9",
@@ -11206,7 +12044,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-19T13:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.863868+00:00"
+    "fetched_at": "2026-05-29T21:15:41.249361+00:00"
   },
   {
     "id": "df39a9ade46341fe",
@@ -11244,7 +12082,7 @@
     "source_id": "global-extra-020",
     "category": "tehnologija",
     "published_at": "2026-05-19T07:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:34.205413+00:00"
+    "fetched_at": "2026-05-29T21:15:47.162144+00:00"
   },
   {
     "id": "b1c02550aa4eef3f",
@@ -11256,7 +12094,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-05-18T19:13:20+00:00",
-    "fetched_at": "2026-05-29T12:35:28.754670+00:00"
+    "fetched_at": "2026-05-29T21:15:41.120664+00:00"
   },
   {
     "id": "035816f700ee488d",
@@ -11333,7 +12171,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-18T06:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.863927+00:00"
+    "fetched_at": "2026-05-29T21:15:41.249465+00:00"
   },
   {
     "id": "da960892764b1dc4",
@@ -11410,7 +12248,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-05-14T22:03:39+00:00",
-    "fetched_at": "2026-05-29T12:35:28.754754+00:00"
+    "fetched_at": "2026-05-29T21:15:41.120727+00:00"
   },
   {
     "id": "02131400c8b2a06d",
@@ -11447,7 +12285,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-14T13:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.864099+00:00"
+    "fetched_at": "2026-05-29T21:15:41.249699+00:00"
   },
   {
     "id": "737e90607388df2b",
@@ -11498,7 +12336,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-13T13:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.864167+00:00"
+    "fetched_at": "2026-05-29T21:15:41.249818+00:00"
   },
   {
     "id": "c0a3af0eabca27b0",
@@ -11549,7 +12387,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-05-12T16:05:12+00:00",
-    "fetched_at": "2026-05-29T12:35:28.754830+00:00"
+    "fetched_at": "2026-05-29T21:15:41.120790+00:00"
   },
   {
     "id": "f2c93fa9eccb7b0f",
@@ -11561,7 +12399,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-12T13:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.864218+00:00"
+    "fetched_at": "2026-05-29T21:15:41.249911+00:00"
   },
   {
     "id": "3821599aec9fd6fe",
@@ -11573,7 +12411,7 @@
     "source_id": "src-074",
     "category": "tehnologija",
     "published_at": "2026-05-11T16:08:26+00:00",
-    "fetched_at": "2026-05-29T12:35:28.754914+00:00"
+    "fetched_at": "2026-05-29T21:15:41.120862+00:00"
   },
   {
     "id": "e410d0f28265d4a2",
@@ -11648,7 +12486,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-07T20:15:12+00:00",
-    "fetched_at": "2026-05-29T12:35:28.864268+00:00"
+    "fetched_at": "2026-05-29T21:15:41.249998+00:00"
   },
   {
     "id": "8b1b05f650e2aee6",
@@ -11708,7 +12546,7 @@
     "source_id": "src-075",
     "category": "tehnologija",
     "published_at": "2026-05-07T13:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.864326+00:00"
+    "fetched_at": "2026-05-29T21:15:41.250121+00:00"
   },
   {
     "id": "2d30a095857113ad",
@@ -11747,931 +12585,6 @@
     "category": "tehnologija",
     "published_at": "2026-05-06T18:00:01+00:00",
     "fetched_at": "2026-05-25T12:18:06.773833+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "e7b039e0a6a49b3b",
-    "title": "When DNSSEC goes wrong: how we responded to the .de TLD outage",
-    "description": "On May 5, 2026, DENIC published broken DNSSEC signatures for the .de TLD, making millions of domains unreachable. Here's what 1.1.1.1 saw, how serve stale cushioned the impact, and how we restored resolution.",
-    "url": "https://blog.cloudflare.com/de-tld-outage-dnssec/",
-    "image": "https://picsum.photos/seed/wv-news-73393b5863d2/1200/750",
-    "source": "Cloudflare Blog",
-    "source_id": "src-075",
-    "category": "tehnologija",
-    "published_at": "2026-05-06T17:00:00+00:00",
-    "fetched_at": "2026-05-29T12:35:28.864374+00:00"
-  },
-  {
-    "id": "1832eabe2c56bf9e",
-    "title": "The AWS MCP Server is now generally available",
-    "description": "AWS announces the general availability of the AWS MCP Server, a managed remote Model Context Protocol (MCP) server that gives AI agents and coding assistants secure, authenticated access to all AWS services. The AWS MCP Server is part of the Agent Toolkit for AWS, a suite of tooling that includes the MCP Server, skills, and plugins that help coding agents build more effectively and efficiently on AWS.",
-    "url": "https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available/",
-    "image": "https://picsum.photos/seed/wv-news-28fb4dea0b91/1200/750",
-    "source": "AWS News",
-    "source_id": "src-074",
-    "category": "tehnologija",
-    "published_at": "2026-05-06T15:36:44+00:00",
-    "fetched_at": "2026-05-29T12:35:28.755017+00:00"
-  },
-  {
-    "id": "184e49a834bda2a3",
-    "title": "Ten Technology Enablers Shaping the Future of 6G Wireless",
-    "description": "A guide to ten technological components — from THz communications and AI/ML to reconfigurable intelligent surfaces — poised to define 6G wireless networks. What Attendees will Learn Which frequencies 6G will use — Understand why THz bands (above 100 GHz) and the7–24 GHz range are under consideration, what challenges CMOS technology faces at sub-THz frequencies, and how new semiconductor approaches aim to close the output-power gap for future link budgets. How AI/ML and joint communications and sensing reshape the air interface — how auto encoder-based end-to-end learning can replace traditional signal-processing blocks, and how a single waveform may serve both data transmission and radar-like environmental sensing. What reconfigurable intelligent surfaces and photonics bring to the radio environment— Explore how programmable metamaterial panels can steer and shape electromagnetic waves,",
-    "url": "https://content.knowledgehub.wiley.com/ten-key-enablers-for-6g-wireless-communications/",
-    "image": "https://assets.rbl.ms/66653989/origin.png",
-    "source": "IEEE Spectrum",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-06T10:00:02+00:00",
-    "fetched_at": "2026-05-25T12:18:06.773951+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "e6cf3c78411dec45",
-    "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows - WIRED",
-    "description": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows WIRED",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZkt1Mnllc3pvUUY5WTNkeG12eFhRWFh0Vl9sLTk4aGdYSmd0V1ZSODZic2ZVRVU0UkRPR0VSaU5uYzFKYWE2RWJfcWZzcFF0OG96MnRPUVRqNmw0RHdIR1dCcEpIdWRJaktXMC1tbk1jQXlYckZPZWxrR3NhV2xpS3h1U0RnYmcxWWcwbg?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-cb7416dc39e5/1200/750",
-    "source": "Wired Technology - Google News",
-    "source_id": "global-extra-019",
-    "category": "tehnologija",
-    "published_at": "2026-05-06T07:00:00+00:00",
-    "fetched_at": "2026-05-25T12:15:31.155863+00:00",
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "e299cbd8d9994eec",
-    "title": "Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)",
-    "description": "Amazon WorkSpaces now lets AI agents securely operate legacy desktop applications—without APIs or modernization—using IAM authentication, MCP support, and computer vision within existing security frameworks.",
-    "url": "https://aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview/",
-    "image": "https://picsum.photos/seed/wv-news-0f90fccf942b/1200/750",
-    "source": "AWS News",
-    "source_id": "src-074",
-    "category": "tehnologija",
-    "published_at": "2026-05-05T17:23:40+00:00",
-    "fetched_at": "2026-05-29T12:35:28.755234+00:00"
-  },
-  {
-    "id": "96d403074d80609a",
-    "title": "Bionic Tech Must Prove Itself Beyond the Lab",
-    "description": "I first met Robert Woo in 2011, during his third time walking in a powered exoskeleton . The architect had been paralyzed in a construction accident four years earlier, but he was determined to get back on his feet. Watching him clunk across a rehab room in an exoskeleton prototype, the technology felt astonishing. I had the same reaction when reporting on early brain-computer interfaces (BCIs), which enabled paralyzed people to move robotic arms or communicate by thought alone . Both types of bionic technology seemed to verge on magic. But that initial sense of awe, I’ve learned over many years of reporting on these technologies, is only a starting point. What matters is not what these systems can do in a carefully staged demo but how they perform in the real world. Do they work reliably? Can people with disabilities use them for their intended purposes? And what does it actually cost—i",
-    "url": "https://spectrum.ieee.org/assistive-technology",
-    "image": "https://spectrum.ieee.org/media-library/a-seated-man-in-a-robotic-suit-smiles-at-a-seated-woman-holding-a-laptop.png?id=65559767&width=980",
-    "source": "IEEE Spectrum",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-05T15:45:33+00:00",
-    "fetched_at": "2026-05-25T12:18:06.774176+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "ea627758f7f533de",
-    "title": "How Frontier Firms are rebuilding the operating model for the age of AI",
-    "description": "Updated May 11, 2026: The post was updated to reflect that third-party plugins will be available starting May 12, 2026. Spend time with any software engineering team right now and you’ll see something worth paying attention to. Over the last few years, the way software gets built has moved through four distinct patterns of human-agent... The post How Frontier Firms are rebuilding the operating model for the age of AI appeared first on The Official Microsoft Blog .",
-    "url": "https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/",
-    "image": "https://picsum.photos/seed/wv-news-5e5572049892/1200/750",
-    "source": "Microsoft Blog",
-    "source_id": "src-073",
-    "category": "tehnologija",
-    "published_at": "2026-05-05T10:00:01+00:00",
-    "fetched_at": "2026-05-29T12:35:28.749880+00:00"
-  },
-  {
-    "id": "9a9bae169cce86b4",
-    "title": "IEEE Smart Village Is Helping to Electrify Rural Cameroon",
-    "description": "More than 30 years ago, in the mountain village of Mbem in northwest Cameroon, the moon and stars in the night sky were the only light young Jude Numfor knew after the sunset. Electricity had not yet reached his rural community. “There was one person in the village with a petrol generator and a small television,” Numfor says. “When he turned it on, all the children would run to his house and peep through the window.” That memory became the spark for Numfor’s mission: to bring electricity to rural communities like his hometown. To accomplish his goal, in 2006 he cofounded Wireless Light and Power, since renamed Renewable Energy Innovators Cameroon , and he serves as its CEO. REI Cameroon designs, installs, and maintains solar minigrids for rural electrification. The minigrids use photovoltaic technology and battery-energy storage systems to generate electricity at 50 hertz. The electricit",
-    "url": "https://spectrum.ieee.org/ieee-smart-village-rei-cameroon",
-    "image": "https://spectrum.ieee.org/media-library/men-in-hard-hats-posing-together-at-a-miniature-solar-farm-amongst-a-dense-jungle-environment.jpg?id=66678170&width=980",
-    "source": "IEEE Spectrum",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-04T18:00:01+00:00",
-    "fetched_at": "2026-05-25T12:18:06.774748+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "979728020fb77d58",
-    "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026)",
-    "description": "Last week, I took some time off in York, England, often described as the most haunted city in the country. I wandered through the ruins of abbeys that have stood for nearly a thousand years, walked along medieval walls, and spent an evening on a ghost tour hearing stories passed down through centuries. There’s something […]",
-    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-next-with-aws-2026-amazon-quick-openai-partnership-and-more-may-4-2026/",
-    "image": "https://picsum.photos/seed/wv-news-4be33cecaa7f/1200/750",
-    "source": "AWS News",
-    "source_id": "src-074",
-    "category": "tehnologija",
-    "published_at": "2026-05-04T17:05:41+00:00",
-    "fetched_at": "2026-05-29T12:35:28.755330+00:00"
-  },
-  {
-    "id": "4d5caf08f43ca27b",
-    "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
-    "description": "This article is brought to you by DAIMON Robotics . This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity , which it describes as the largest omni-modal robotic dataset for physical AI, featuring high resolution tactile sensing and spanning a wide range of tasks from folding laundry at home to manufacturing on factory assembly lines. The project is supported by collaborative efforts of partners across China and the globe, including Google DeepMind, Northwestern University, and the National University of Singapore. The move signals a key strategic initiative for DAIMON, a two-and-a-half-year-old company known for its advanced tactile sensor hardware, most notably a monochromatic, vision-based tactile sensor that packs over 110,000 effective sensing units into a fingertip-sized module. Drawing on its high-resolution tactile sensing technology and a distributed out-of-lab",
-    "url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
-    "image": "https://spectrum.ieee.org/media-library/man-wearing-glasses-and-a-gray-shirt-smiles-at-camera-while-surrounded-by-futuristic-robots-and-tech-devices-in-a-photo-illustra.jpg?id=66444415&width=980",
-    "source": "IEEE Spectrum",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-04T11:08:34+00:00",
-    "fetched_at": "2026-05-25T12:18:06.775689+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "09d279b9cf1a6159",
-    "title": "Code Orange: Fail Small is complete. The result is a stronger Cloudflare network",
-    "description": "We have completed a massive engineering effort to make our infrastructure more resilient. Through new tools like Snapstone and the Engineering Codex, we've implemented safer configuration changes and automated best practices to prevent future incidents.",
-    "url": "https://blog.cloudflare.com/code-orange-fail-small-complete/",
-    "image": "https://picsum.photos/seed/wv-news-81312a5efc29/1200/750",
-    "source": "Cloudflare Blog",
-    "source_id": "src-075",
-    "category": "tehnologija",
-    "published_at": "2026-05-01T21:07:30+00:00",
-    "fetched_at": "2026-05-29T12:35:28.864434+00:00"
-  },
-  {
-    "id": "0a0bc5ee8203b4d5",
-    "title": "Introducing Dynamic Workflows: durable execution that follows the tenant",
-    "description": "Dynamic Workflows is a library that lets you route durable execution to tenant-provided code on the fly. Built on Dynamic Workers, it enables platforms to serve millions of unique workflows at near-zero idle cost.",
-    "url": "https://blog.cloudflare.com/dynamic-workflows/",
-    "image": "https://picsum.photos/seed/wv-news-22428a31b8ef/1200/750",
-    "source": "Cloudflare Blog",
-    "source_id": "src-075",
-    "category": "tehnologija",
-    "published_at": "2026-05-01T13:00:00+00:00",
-    "fetched_at": "2026-05-25T12:14:43.170828+00:00",
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "14af434468c527d1",
-    "title": "22 Top AI Statistics And Trends - Forbes",
-    "description": "22 Top AI Statistics And Trends Forbes",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51MlhETTFQYXI3NWFjUGlRUTdDZHVDMEFSaFdEWHBrZkhyRjY5OWZCcUFEamR4LVozQXQybk5XaW9rOXQxdUVvYVBlMVU0MklrckwxZjN4OHFaWlJmSjF4eHJNSEY?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-12a798695faf/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-05-01T07:00:00+00:00",
-    "fetched_at": "2026-05-25T12:18:05.919693+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "87965767336cba23",
-    "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
-    "description": "Transforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown —generative AI can do the job in minutes, often for less than a dollar of cloud-computing time. But while large language models present a real cyberthreat, they also provide an opportunity to reinforce cyberdefenses. Anthropic reports its Claude Mythos preview model has already helped defenders preemptively discover over a thousand zero-day vulnerabilities , including flaws in every major operating system and web browser , with Anthropic coordinating disclosure and its efforts to patch the revealed flaws. It is not yet clear whether AI-driven bug finding will ultimately favor attackers or defenders. But to understand how defenders can increase their odds, and perhaps hold the advantage, it helps to look at an earlier wa",
-    "url": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
-    "image": "https://spectrum.ieee.org/media-library/illustration-of-a-castle-shaped-container-filled-with-colorful-binary-numbers.jpg?id=66656097&width=980",
-    "source": "IEEE Spectrum",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-04-30T14:00:01+00:00",
-    "fetched_at": "2026-05-25T12:18:06.776434+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "65bad520b8b39704",
-    "title": "Post-quantum encryption for Cloudflare IPsec is generally available",
-    "description": "Cloudflare IPsec now has generally available support for post-quantum encryption via hybrid ML-KEM. We’ve confirmed interoperability with Cisco and Fortinet.",
-    "url": "https://blog.cloudflare.com/post-quantum-ipsec/",
-    "image": "https://picsum.photos/seed/wv-news-da249dc22393/1200/750",
-    "source": "Cloudflare Blog",
-    "source_id": "src-075",
-    "category": "tehnologija",
-    "published_at": "2026-04-30T14:00:00+00:00",
-    "fetched_at": "2026-05-25T12:14:43.170876+00:00",
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "9374a76d8a275427",
-    "title": "Transmission Hardware Corona Performance and HVDC Submarine Cable EM Fields",
-    "description": "Laboratory or in-field measurements are often considered the gold standard for certain aspects of power system design; however, measurement approaches always have limitations. Simulation can help overcome some of these limitations, including speeding up the design process, reducing design costs, and assessing situations that are often not feasible to measure directly. In this presentation, we will discuss two examples from the power system industry. The first case we will discuss involves corona performance testing of high-voltage transmission line hardware. Corona-free insulator hardware performance is critical for operation of transmission lines, particularly at 500 kV, 765 kV, or higher voltages. Laboratory mockups are commonly used to prove corona performance, but physical space constraints usually restrict testing to a partial single-phase setup. This requires establishing equivalen",
-    "url": "https://events.bizzabo.com/860041",
-    "image": "https://assets.rbl.ms/27157944/origin.png",
-    "source": "IEEE Spectrum",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-04-30T10:00:01+00:00",
-    "fetched_at": "2026-05-24T23:51:23.177491+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "b2fc5700ac08eda4",
-    "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\" - Ars Technica",
-    "description": "Microsoft open-sources \"the earliest DOS source code discovered to date\" Ars Technica",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVlNVEN1NjE0VUFjVHZqeEltWENtUV9XM0UxbXlSQ1laaHJ3LUNhNVRwNHE1TENNV0JSdWRzcmtQNHFkbDJxX0VuQk5oY0NCMFJELVprbU9lV0JKeUZtNjNRUFBrUUh5dGpaVWlTQTBsWWU5bl9DSHhsTm1WeXBNTEFOMlVWdlo0ay16NVkydGFUajFGalJiUVZpZE1tNmpQdE84SjVIRkc1cVVsdGVaSA?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-0ea3fd844216/1200/750",
-    "source": "Ars Technica - Google News",
-    "source_id": "global-extra-021",
-    "category": "tehnologija",
-    "published_at": "2026-04-30T07:00:00+00:00",
-    "fetched_at": "2026-05-25T12:15:32.065950+00:00",
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "35bb9b84276334e8",
-    "title": "Top announcements of the What’s Next with AWS, 2026",
-    "description": "At the \"What's Next with AWS\" 2026 event, AWS launched Amazon Quick—an AI assistant for work with a desktop app and expanded integrations—and expanded Amazon Connect into four agentic AI solutions for supply chain, hiring, customer experience, and healthcare. AWS also expended its partnership with OpenAI, bringing models like GPT-5.5, Codex, and Managed Agents to Amazon Bedrock in limited preview.",
-    "url": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-whats-next-with-aws-2026/",
-    "image": "https://picsum.photos/seed/wv-news-607cbccda357/1200/750",
-    "source": "AWS News",
-    "source_id": "src-074",
-    "category": "tehnologija",
-    "published_at": "2026-04-28T18:11:39+00:00",
-    "fetched_at": "2026-05-29T12:35:28.755414+00:00"
-  },
-  {
-    "id": "2d90594abc3d6d7d",
-    "title": "Unlocking human ambition to drive business growth with AI",
-    "description": "As our customers progress toward becoming Frontier Firms, they are using AI not only to optimize how work gets done, but to reinvent their business on the promise of growth. Organizations can now unlock creativity, accelerate innovation and democratize intelligence by bringing Copilots and agents directly into the tools people love and use every day.... The post Unlocking human ambition to drive business growth with AI appeared first on The Official Microsoft Blog .",
-    "url": "https://blogs.microsoft.com/blog/2026/04/28/unlocking-human-ambition-to-drive-business-growth-with-ai/",
-    "image": "https://picsum.photos/seed/wv-news-6d1090ec97c2/1200/750",
-    "source": "Microsoft Blog",
-    "source_id": "src-073",
-    "category": "tehnologija",
-    "published_at": "2026-04-28T17:34:47+00:00",
-    "fetched_at": "2026-05-29T12:35:28.750009+00:00"
-  },
-  {
-    "id": "094c85de0f439a7c",
-    "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
-    "description": "Today, I am pleased to announce that Azure Local now scales to support deployments of up to thousands of servers within a single sovereign environment, allowing organizations to run much larger workloads locally across large-footprint datacenters, industrial environments and edge locations while maintaining control within their sovereign boundary. Organizations operating national infrastructure, regulated workloads or... The post Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local appeared first on The Official Microsoft Blog .",
-    "url": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
-    "image": "https://picsum.photos/seed/wv-news-c6f661547f19/1200/750",
-    "source": "Microsoft Blog",
-    "source_id": "src-073",
-    "category": "tehnologija",
-    "published_at": "2026-04-27T16:00:03+00:00",
-    "fetched_at": "2026-05-29T12:35:28.750131+00:00"
-  },
-  {
-    "id": "6bf93bdc1abb019d",
-    "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
-    "description": "Late March took me to Seattle for the Specialist Tech Conference, one of the most energizing gatherings of AWS specialists from around the world. It was an incredible opportunity to connect with peers, exchange experiences, and go deep on the latest advancements in Generative AI and Amazon Bedrock — and a powerful reminder of something […]",
-    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-meta-partnership-aws-lambda-s3-files-amazon-bedrock-agentcore-cli-and-more-april-27-2026/",
-    "image": "https://picsum.photos/seed/wv-news-7898d3940eb3/1200/750",
-    "source": "AWS News",
-    "source_id": "src-074",
-    "category": "tehnologija",
-    "published_at": "2026-04-27T15:01:28+00:00",
-    "fetched_at": "2026-05-25T12:14:42.901664+00:00",
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "a211c3ef16ef3c15",
-    "title": "The next phase of the Microsoft-OpenAI partnership",
-    "description": "Amended Agreement Provides Long-Term Clarity The rapid pace of innovation requires us to continue to evolve our partnership to benefit our customers and both companies. Today, we are announcing an amended agreement to simplify our partnership and the way we work together, grounded in flexibility, certainty and a focus on delivering the benefits of AI... The post The next phase of the Microsoft-OpenAI partnership appeared first on The Official Microsoft Blog .",
-    "url": "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/",
-    "image": "https://picsum.photos/seed/wv-news-4c6b7ed88490/1200/750",
-    "source": "Microsoft Blog",
-    "source_id": "src-073",
-    "category": "tehnologija",
-    "published_at": "2026-04-27T13:00:02+00:00",
-    "fetched_at": "2026-05-29T12:35:28.750245+00:00"
-  },
-  {
-    "id": "2fedbcdc815b4a66",
-    "title": "Accelerating Frontier Transformation with Microsoft partners",
-    "description": "AI has moved quickly from experimentation to production. Customers want measurable business outcomes, along with security, governance and responsible AI built in from day one. Microsoft partners are a meaningful differentiator to deliver these objectives. They turn ideas into deployable solutions by prioritizing the highest value use cases, building the right data and security foundations... The post Accelerating Frontier Transformation with Microsoft partners appeared first on The Official Microsoft Blog .",
-    "url": "https://blogs.microsoft.com/blog/2026/04/21/accelerating-frontier-transformation-with-microsoft-partners/",
-    "image": "https://picsum.photos/seed/wv-news-0e7b9c7ecd2f/1200/750",
-    "source": "Microsoft Blog",
-    "source_id": "src-073",
-    "category": "tehnologija",
-    "published_at": "2026-04-21T17:00:03+00:00",
-    "fetched_at": "2026-05-29T12:35:28.750363+00:00"
-  },
-  {
-    "id": "952de1346046e21d",
-    "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
-    "description": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with multicloud private connectivity and a new last-mile option. Plus, post-quantum TLS for Secrets Manager, new C8in/C8ib EC2 instances, and more.",
-    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
-    "image": "https://picsum.photos/seed/wv-news-bc1741a9847d/1200/750",
-    "source": "AWS News",
-    "source_id": "src-074",
-    "category": "tehnologija",
-    "published_at": "2026-04-20T15:53:21+00:00",
-    "fetched_at": "2026-05-25T12:14:42.901855+00:00",
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "08fc7dfc5feaee97",
-    "title": "From cafes to real estate, AI is giving businesses a boost – and leaving others in the dust - SMH.com.au",
-    "description": "From cafes to real estate, AI is giving businesses a boost – and leaving others in the dust SMH.com.au",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc0V5YUJRYW1zdXZWYUdQb0NoUlpudVNDdEtmc0MyVGdZMFQwdm1CTE1Od3c4U3QtNWFoWGU4eEx1WHBqV21Ec0xDZkZLREpTZmg1aHZNckZ0c1YyaU1BYkdselJWdS1PYy1ZdEJiNWlNWGQtZjdoNmFQaE5Fa3lCQVEzb3NOaWh1WWg2SEJWaFh4d2c2bGtTLVZHYndPczBhaUs2YjdSSjZieWFTb3EzbUxKUnIwZm9SN196ZDhiRGVOTkhvYmJxM1hXSmt2WDl3TUk0dU9VZXhZZFRmazQtbmZ4bw?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-37e56154d5ca/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-04-19T07:00:00+00:00",
-    "fetched_at": "2026-05-25T12:18:05.920718+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "12b87c0c19d64ce7",
-    "title": "Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock",
-    "description": "AWS launches Claude Opus 4.7 in Amazon Bedrock, Anthropic's most intelligent Opus model for advancing performance across coding, long-running agents, and professional work. Claude Opus 4.7 is powered by Amazon Bedrock's next generation inference engine, purpose-built for generative AI inferencing and fine-tuning workloads.",
-    "url": "https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/",
-    "image": "https://picsum.photos/seed/wv-news-e7f475748faa/1200/750",
-    "source": "AWS News",
-    "source_id": "src-074",
-    "category": "tehnologija",
-    "published_at": "2026-04-16T14:49:33+00:00",
-    "fetched_at": "2026-05-25T12:14:42.901930+00:00",
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "8692ff58b94aaa0d",
-    "title": "28 Profitable Tech Business Ideas to Launch in 2026 - Shopify",
-    "description": "28 Profitable Tech Business Ideas to Launch in 2026 Shopify",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFb0NZcVNQUjU1VWZSZnIxV0w3eWQzcGZBT2J3RDVOSTZBZTFiMm5YY3hDZVIzWFZqTklkSmgyMktwb2dsVUEtYTdBWHJULVhBUHlOWWczY0M0a2xT?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-8d9281df22f8/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-04-16T07:00:00+00:00",
-    "fetched_at": "2026-05-25T12:18:05.822551+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "3818a47d4a6d0640",
-    "title": "AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity",
-    "description": "Today, we’re announcing the general availability of AWS Interconnect – multicloud, a managed private connectivity service that connects your Amazon Virtual Private Cloud (Amazon VPC) directly to VPCs on other cloud providers. We’re also introducing AWS Interconnect – last mile, a new capability that simplifies how you establish high-speed, private connections to AWS from your […]",
-    "url": "https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/",
-    "image": "https://picsum.photos/seed/wv-news-9db08aa131df/1200/750",
-    "source": "AWS News",
-    "source_id": "src-074",
-    "category": "tehnologija",
-    "published_at": "2026-04-14T23:54:47+00:00",
-    "fetched_at": "2026-05-25T12:14:42.901993+00:00",
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "9fe880e9e23cfbaf",
-    "title": "Three-quarters of AI’s economic gains are being captured by just 20% of companies – with the leading companies focused on growth, not just productivity - PwC",
-    "description": "Three-quarters of AI’s economic gains are being captured by just 20% of companies – with the leading companies focused on growth, not just productivity PwC",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVGpXektLQ3Q2V2EwbU9NQWRBaUNLT1R4bXhySXNaWGRYLVNfZHRreU5ORU1KY2hLdTJlU0NYNEVaVGo1UHhHWkhObndKYnR1NFFsdTRZeUNBQWctLWpaVXBwMjdnR2NqeVE4T29pUy1ZR2VFLVBmTHdaUzdnZjZGOHk5aVhGYjVZMlZRNUgxR0RwQ2xM?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-724d05c76c84/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-04-13T07:00:00+00:00",
-    "fetched_at": "2026-05-25T12:18:05.920116+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "9a819547450d2756",
-    "title": "Qualcomm acquires Cornell AI software startup - Cornell Chronicle",
-    "description": "Qualcomm acquires Cornell AI software startup Cornell Chronicle",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEZSREVPdllmSXR1NWVmSDRqN241VWpsTHJtZmlNdXVQREY0Q05OOW5lT0diR3BOUGpGWW81T3lrc1dwcGN4TWVUeVNHVG9OQTNfMlhaMDRUUXNyT1FOeWFIVUJpN0dBajZqR2dBaWluaGxNZ05BcDVXNFY1SDNfQ1FmOWxrdk84b1Q4X1B3UQ?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-81ae451dc16c/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-04-09T07:00:00+00:00",
-    "fetched_at": "2026-05-25T12:18:05.823065+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "6e6febc75e56bae3",
-    "title": "Economists Once Dismissed the A.I. Job Threat, but Not Anymore - The New York Times",
-    "description": "Economists Once Dismissed the A.I. Job Threat, but Not Anymore The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXh2dFhNVHlqNXV6MC11ck8xZHk4b0ZoNTByMXJhdzI1UGdtR25feXkwTU8taVQ1YWFWVXVHYW0wUzNMM1NYRVBsVmpURDdRdm40ZXc2ZjlQZUNUNFFYdkttb2NNclcxS1ZfMFpaYTNhSm8tUWRlaHZibEZwQ1QtYVdqME1HalNBcDU2cFFYd1U3LU1UQ2FtMHRFMDlFdmQxUzluSGl1eTE1QVN2?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-6a74a28509f1/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-04-03T07:00:00+00:00",
-    "fetched_at": "2026-05-25T12:18:05.919791+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "738612a8dd5c4aa2",
-    "title": "Open to Work: How to Get Ahead in the Age of AI",
-    "description": "Today is the day. Open to Work: How to Get Ahead in the Age of AI is officially available! At a time when technology dominates the headlines, the conversation I see most often on LinkedIn is deeply human: what does AI mean for my job and my career? And that makes sense. Careers once felt... The post Open to Work: How to Get Ahead in the Age of AI appeared first on The Official Microsoft Blog .",
-    "url": "https://blogs.microsoft.com/blog/2026/03/31/open-to-work-how-to-get-ahead-in-the-age-of-ai/",
-    "image": "https://picsum.photos/seed/wv-news-13a06071ee88/1200/750",
-    "source": "Microsoft Blog",
-    "source_id": "src-073",
-    "category": "tehnologija",
-    "published_at": "2026-03-31T15:08:49+00:00",
-    "fetched_at": "2026-05-29T12:35:28.750474+00:00"
-  },
-  {
-    "id": "4bb5f67270c448cb",
-    "title": "Droven.io AI Technology: Complete Guide to AI Trends, Tools, Use Cases, and Future Innovation (2026) - Tycoonstory Media",
-    "description": "Droven.io AI Technology: Complete Guide to AI Trends, Tools, Use Cases, and Future Innovation (2026) Tycoonstory Media",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByeDhOUFN1UFJ3N215MFBVWUlNZGRfTzFEUjBLTmMwY2VTSHV3WnZ3cWJ4R2FidjFhUjZPaE5rZUc3YVBDd3hmbnpGV21rUXBwVlMtSzE5LVBpX2VBXzZveUx30gFnQVVfeXFMUGlCaXQxVTh5ZVYteGtmdl93ZkxmVG1tcGc4WEEzd3FKSEhLZ3lPNU1NOGFoZWhNbklOOUJheHBmcXk1T1FkY3pNRzd1aDc0bUxrR3NOV2RoMVVtSU42WVpheTBuZHN4Yw?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-83cf9e4f1d18/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-03-26T07:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:21.832932+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "292e817d0d0b87aa",
-    "title": "TechAccess: AI-Ready America - National Science Foundation (.gov)",
-    "description": "TechAccess: AI-Ready America National Science Foundation (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZOC1oQVRxNXRiV2NtUkVoMEZKMFQ3RGZsVWNuVWI4WV9tZ0JKNWhNclR5dWo1Q1dEUFEyeEFaQlVmc0pwbkJZa0hRb1pwUkZ1MXhFUWx2ZlpXWnE3?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-7b5eb0054335/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-03-25T16:51:44+00:00",
-    "fetched_at": "2026-05-25T12:18:05.920005+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "edfb84e006e3c5d1",
-    "title": "Announcing Copilot leadership update",
-    "description": "Satya Nadella, Chairman and CEO, and Mustafa Suleyman, Executive Vice President and CEO of Microsoft AI, shared the below communications with Microsoft employees this morning. SATYA NADELLA MESSAGE I want to share two org changes we’re making to our Copilot org and superintelligence effort. It’s clear a new era of productivity is emerging as AI experiences... The post Announcing Copilot leadership update appeared first on The Official Microsoft Blog .",
-    "url": "https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/",
-    "image": "https://picsum.photos/seed/wv-news-7b5c872c03d8/1200/750",
-    "source": "Microsoft Blog",
-    "source_id": "src-073",
-    "category": "tehnologija",
-    "published_at": "2026-03-17T15:04:10+00:00",
-    "fetched_at": "2026-05-29T12:35:28.750610+00:00"
-  },
-  {
-    "id": "4c44e48f2f98dcee",
-    "title": "Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI",
-    "description": "Microsoft combines accelerated computing with cloud scale engineering to bring advanced AI capabilities to our customers. For years, we’ve worked with NVIDIA to integrate hardware, software and infrastructure to power many of today’s most important AI breakthroughs. What’s new at NVIDIA GTC Expanded Microsoft Foundry capabilities to build, deploy and operate production-ready AI agents on... The post Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI appeared first on The Official Microsoft Blog .",
-    "url": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
-    "image": "https://picsum.photos/seed/wv-news-a4196f5e4d56/1200/750",
-    "source": "Microsoft Blog",
-    "source_id": "src-073",
-    "category": "tehnologija",
-    "published_at": "2026-03-16T20:29:56+00:00",
-    "fetched_at": "2026-05-29T12:35:28.750755+00:00"
-  },
-  {
-    "id": "b9033e666fce9c35",
-    "title": "Microsoft announces Experiences + Devices leadership changes",
-    "description": "Rajesh Jha, Executive Vice President, Experiences + Devices, and Satya Nadella, Chairman and CEO, shared the below communications with Microsoft employees this morning. RAJESH JHA MESSAGE Subject: Organizing for the future and my transition Dear Team, After 35+ years at Microsoft, I am moving into retirement. I will transition out on July 1st and then stay in an... The post Microsoft announces Experiences + Devices leadership changes appeared first on The Official Microsoft Blog .",
-    "url": "https://blogs.microsoft.com/blog/2026/03/12/microsoft-announces-experiences-devices-leadership-changes/",
-    "image": "https://picsum.photos/seed/wv-news-fe86a39a61d2/1200/750",
-    "source": "Microsoft Blog",
-    "source_id": "src-073",
-    "category": "tehnologija",
-    "published_at": "2026-03-12T15:02:30+00:00",
-    "fetched_at": "2026-05-29T12:35:28.750873+00:00"
-  },
-  {
-    "id": "7c6762b6373aed91",
-    "title": "SoDA Conference 2026: on expansion, innovation and the future of AI in the technology industry - UMŁ",
-    "description": "SoDA Conference 2026: on expansion, innovation and the future of AI in the technology industry UMŁ",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdjAxVDZEdlJzNTE0S21sOFdmU3U1Y05tcnZIZUFleEdCTVVsS1VPLWtyLXFCa1NtMkJnQkFvM0JlWmI0U3ZUMUNxSWk1Yl9LWFQzc1ExUkdxeEhWdjJkMHRYOGNsSU11V0RLMjNyWnNRR1NZQlhwQ0t6WDFLc0p2SE81d0R0MWdSVURpT2xXaVQyVzBwNDlsSV9UM0RxMllNdzV5TVlPVnd5R0pMNDZZSV9oQ3UwYUk0ZlBqX3lBRFBpY3RWSk1FQ1FWUlVvZHVqZU1iaW5kRVdCNUZCN1JxYVNB?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-50b233de6c63/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-03-09T07:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:21.833001+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "7dee6cd0ad846842",
-    "title": "Action items for AI decision makers in 2026 - MIT Sloan",
-    "description": "Action items for AI decision makers in 2026 MIT Sloan",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXRrVU50ZmFtNmo5R2pMQ2o0Nk5sWGI1Rmw2Z0lGekg3bmZlajJjaEhfZDh0MXJzYndWSUJwd0lHVVB2YVhvMEVpNW5oaUZlM1hJemNXQXl0Y0lrbnZmR3Y5djhEbmlld2U4UXNJT1U4Rnl2a2c0Q1IyeHhOS0wyZnVnSUV5cHNXTlE?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-dfb5319e5ef3/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-03-03T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090291+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "ea24e490597d0635",
-    "title": "'Silent failure at scale': The AI risk that can tip the business world into disorder - CNBC",
-    "description": "'Silent failure at scale': The AI risk that can tip the business world into disorder CNBC",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeVBtV1JXSjBRa3hVNEZjRWZVc3M5Mnc5V2QwMC1rV29nZHpGNnJ5cERzeWc3U0pnTU5DZ0g2THlxQkJoUUV1dkgtdk1UQ3lFWl9jQlAxSDBzb1QtSlQ2V1hmc1pBT2o0S2M5WktrVUEwckRla0U3eklKWGt4OVJnRmE1WERwbVZDQ2VsaVAzc9IBlAFBVV95cUxPSlY3MmR0MHAtTEhXU1RNZl91SEhUWndGcmw1UnpoTm5lNFRXZ0NRUXMtV2hIMUtDdG5DYjg2RjNBaHNBdTRIMnhRbDNQSHNoRXU0Z3d2ZDVJa2NEUnpCa3JiVVV0dTExQllZVXZmQzR1NTZJUVZfemFOVWo1b3JlUktDWTJJWU9nVXhHaGVZNFZYd3FX?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-73f91b9d75a7/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-03-01T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090211+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "e6a0ba7ed87ddbb9",
-    "title": "Opinion | I Thought I Understood A.I. Companies. I Couldn’t Have Been More Wrong. - The New York Times",
-    "description": "Opinion | I Thought I Understood A.I. Companies. I Couldn’t Have Been More Wrong. The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeWo4ekhENVRvYzRmc1NQRnQ5OVBpSDRfWkJDOTZuRnhxaUZUZF84YTdPVFNEekt4S01aQ21aZG9mSVhEeWJic3lXOURRTWF1SHlubjRrbkIzREZfNHZHX0U1WjR5Nm9UUTkwNHhFYVRwT0NicXZCVDZ5aFgwdkZmWHd3V3ZFSHVUX0E?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-49b487948b9f/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-02-25T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090520+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "27cb77ee08614e03",
-    "title": "If AI makes human labor obsolete, who decides who gets to eat? - The Guardian",
-    "description": "If AI makes human labor obsolete, who decides who gets to eat? The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vOHBrSk0zMEdQeXktMGNmWHZXUWswS1pCRmhrRFVSTlBTVVpqMXdKNjl3NDk0UEtkZzh2cjNTcVNOMFRYUjRTZ0htTF8yU2FidFhCY0tua0hDT0hSWEdYdVlnNC1rdFQ0cmhtTW1zY0NzS3lXNjNEMElB?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-ca6e038e5e25/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-02-24T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090846+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "3698807bd7ce0f4e",
-    "title": "This economic idea transfixed Wall Street and Washington. It may be a mirage. - The Washington Post",
-    "description": "This economic idea transfixed Wall Street and Washington. It may be a mirage. The Washington Post",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlhGemFkUG8xcld3Tl9mb1JreUhkY2VzTVBBeFAydDBpNVNFbVVKSHBiaGFJakRDZG9aZjRBazByVE9Da0pjUXRudkFqMXpKaXhjbTE4QXFzR2JnNUFlSmR5eGVETUcxMV85SkFaVzNIazdsbDdZdFN4c3JNR0tweGdNelNHbGJpUTJr?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-5d5aec83cedc/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-02-23T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090755+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "6052a6034376f7ca",
-    "title": "The business advantage of strong AI governance - The World Economic Forum",
-    "description": "The business advantage of strong AI governance The World Economic Forum",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMmhYdXBKSmQ3eTFoYUdlWkp0NHA3bHFfb2FiVFZHVUFoejBucWtpZ1ZhQzJRYXR6aVdwandKXzVjTjJxaC1UOXdwNzhOWGRuMHVNSmp4dVVzSG9NMzFqY0FSUE9uekRZTkh6TFdWd015VkVBTWZ3RHU2WjczS3dxQW1ueXRpcEE?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-7ffd4aa49a35/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-02-20T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090164+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "8b6d287ec4b1d490",
-    "title": "20 New Technology Trends for 2026 | Emerging Technologies 2026 - Simplilearn.com",
-    "description": "20 New Technology Trends for 2026 | Emerging Technologies 2026 Simplilearn.com",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96Qlh1S3htejlyck9TZjZacklqZ0dpMUpwRWJxMWtkQkVpSUl6c0I0S0M5MWdfV0JQOU0yZkpfVVFUN3kwZGFyMHFlWWdaYnIwWmpDOGxIOG96NFNYS2JfWi1VcjJxTGVzSEppUVpScGlqTksy?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-81b9973887ee/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-02-20T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:21.832777+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "afe397a3da25bedb",
-    "title": "Which Software Companies Will Benefit from AI? - Goldman Sachs",
-    "description": "Which Software Companies Will Benefit from AI? Goldman Sachs",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcy1sUXpaQXQwWW16RFN1aWFxY2ZwTjFXQ2ZIZ0xHcW91LXJHUUJvZ2R6T1B5UW1Ub3BITldWNVhyRktGZFJUb09Qa0drQVhmNjBubnZUS2hDV3F2OXd3c3NhVzRvQ1JXZzZpc3l4TVRQR0RvcUNuMlhaenJWenptZGt5S2ljdlM5ejBwWlRzWDNScXZXVFlF?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-bb7ee4f9550d/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-02-18T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:21.832680+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "a4c84c998c056bc8",
-    "title": "America Isn’t Ready for What AI Will Do to Jobs - The Atlantic",
-    "description": "America Isn’t Ready for What AI Will Do to Jobs The Atlantic",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk5WMnVUX3hETTMwa0xZYlA5M2syVWp0blppcDFvWU50c2dvV2h5ZHB1eHFfOTktVy1CSldSNHhGZVRuNThRdkVpLWRPTmRQeWRadHlmeEJHUlA3djJ2NlNWd3RMaGlHZnFPSmRKNUVwaWd4VEZEdzA1NjYxX3gtT3RyeDFRNktzLV8zemN0aDAzd19PUlE?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-09fd1fbb9c5f/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-02-10T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090122+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "1b6b46bec1ef6bc9",
-    "title": "IonQ to Acquire AI-Software And Technology R&D Specialist – Seed Innovations - The Quantum Insider",
-    "description": "IonQ to Acquire AI-Software And Technology R&D Specialist – Seed Innovations The Quantum Insider",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjRHZHF1WnZWYTNvYXc5WC0zWVBzUVNBZ28zdG04eGtHZjNCZmhNaEcyVk1RNnhJNjlJSnJvc0ljTmpLMUl6Mm8zX2M2WGdiS0I5YVhxbnBjQmJBZXBqcmoxQzIyQXdobWwycWtCdnFmbDgwYmVJWktkbG1OUTNXbHZURjIzcmlTZU1FaUR2S3o5NEZ3c1ZSeS04Q0R2Y1JOZUFFSmc0YkJOcW9PMlhXSFU5dk5JQQ?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-cc914c904af0/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-01-28T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:21.832621+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "cb91ef85e938b2d6",
-    "title": "IonQ Acquires Seed Innovations to Scale AI-Driven Quantum Software - IonQ",
-    "description": "IonQ Acquires Seed Innovations to Scale AI-Driven Quantum Software IonQ",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3NlbVZGeWdXdUhvcFc4czJZeGg3Z1Q0SWtoSTQzRzRuNHpGRF9MS2luNWI5VmZYeWJXUGhxR3ZBOVFrOUtVbzRYeXpvOUtXOTZhYlp4TWFHM1JTS2MtMWlsS2NWMnBxbjFvYzlsVVFvdFA0ZUEzdVVaeU5EOVBENE85RTRqM0NhaHFfNnhPRmI4eC1FSl9KTFN5Wl9VVlh2SjRuYQ?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-ee6f39822d46/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-01-28T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:21.832728+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "bc23b7c50b9fcebd",
-    "title": "AI and Software Patents: The USPTO Sharpens the Line on Technical Innovation - JD Supra",
-    "description": "AI and Software Patents: The USPTO Sharpens the Line on Technical Innovation JD Supra",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQamV5aHBIOG5rQWhCeW9oNWhxbEZ2RU5oWDBYZjJOVjMtX05NOXFRNHlGaXBZamc2ZFY5VE9fb3VkeWFrdGRsbnFyNUxILVpKNVlGdGhHWEFxSDJMQ0tOQzNRc01fNEpxclU0OHUyNkZCX0ZCWFFlb3FtSjktN3lDYUVR?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-543af1b2c2c4/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-01-26T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:21.832497+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "a487d36f56f6fc02",
-    "title": "The Real Economics of AI and Jobs - Time Magazine",
-    "description": "The Real Economics of AI and Jobs Time Magazine",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92LWxNWkJIeG9PUzlvVDRiZVFwSFdyWDFveU01RS1odVF1YXBTeDNDdzNSalE3VlNLMnZwdE9sM1pueUhSMHBFN2RTZkhhRnFfU0F2NmF1ZE5XRm0tOFBn?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-8b0eab83dea5/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-01-23T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090431+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "2174c6babfef4bbd",
-    "title": "Companies Team Up To Accelerate Ag Innovation With Artificial Intelligence - AgWeb",
-    "description": "Companies Team Up To Accelerate Ag Innovation With Artificial Intelligence AgWeb",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOER1RnNfLUUtSWliYUZGaHk3YUpteV9yakVPekJtYmNyYV9Id19HUHlyWXpyVEk0cS1MV1BmcERPOUttcElMbGVaTFhBZ2JLenRDZzhTVE81UHpYMkJJbVlNVlBBN1BxODdla29XYWZ2RHV5eS1rT1Bud3ZrcW5IU2R5MVVEZDYxal9lWmVFZ0laNUdmTHlRTFdhWWtOVDBBenFwcFRCMjVKblVBVjlF?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-37f3beba8a22/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-01-20T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090392+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "28d942a72362cf91",
-    "title": "29th Global CEO Survey - PwC",
-    "description": "29th Global CEO Survey PwC",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83NUZkRzcwNUdUQjdVVmdEOE5IVXNOVWowRWpvbmJpN2FoZElJUUJhOE15a3lJUVE5S2Y4blg2RGRQcmFZNVJWMzllbXlab0E0SzR0NTBtd2VZQ3dpRmVuQnlNSDYwWXFuUGZOYVJkVkdwek0?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-ace1de8dd1b6/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-01-19T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090467+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "a28ac803220071ff",
-    "title": "How to build an AI-native company and harness AI growth - The World Economic Forum",
-    "description": "How to build an AI-native company and harness AI growth The World Economic Forum",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXFJeHlkYlJVaC1jN0RNLXZsTk11ck9KZGZKVUhSa0I0cUtYbGtCcGlkTml4YnczZkh6cEZaVHF1OE1LT0xObDNGSmlWbUFWdnFqQWRMRXFsZ0NrOEF0Tk84ZmlpRzRFMXJxVktTalo3QURXSXF3NERrVXNrUV9BUEhQbGRwOUk3bGhwQkluVVNiX1ZsVTVmQUVOSWhfQThXWmc?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-ce834abfd1d7/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-01-19T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090575+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "3b483699e57d0628",
-    "title": "AI’s $15 trillion prize will be won by learning, not just technology - The World Economic Forum",
-    "description": "AI’s $15 trillion prize will be won by learning, not just technology The World Economic Forum",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yMjRPYkh3dWJ5cVFPeGdKa1NxS2x4alBid2kxX2Z6WjRNNWVhajkyXzlIMVZhVFBrQXotTk9xWkU3clhlTlEzdklKZlFyTjFqSlNqbjFhbHF2cWxRaEItemFXelpzY1B1SkZWaHp3SlF5ekFCVF9PdQ?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-17cdd3317c63/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-01-19T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090712+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "3663203eeba432b7",
-    "title": "AI bubble talk is overblown. AI can already perform $4.5 trillion in tasks - The World Economic Forum",
-    "description": "AI bubble talk is overblown. AI can already perform $4.5 trillion in tasks The World Economic Forum",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Tb0loM243Vm5JZHI1eEUtSktxQTBmUnZsNDRfNXJqWFJpX1Ixa2tUYmEzeDhSLS1vcWVzV3BMOUlyZlI4cTc4ZWx5Wk1HXzdDcmNhNThfTTI4V0sydjhEVHBzVEVzb1FJcjNvMQ?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-5e1f0433c11c/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-01-15T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090886+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "a88f5bb08acd2787",
-    "title": "How the power of AI can revolutionize the financial markets - The World Economic Forum",
-    "description": "How the power of AI can revolutionize the financial markets The World Economic Forum",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHJLcFpMT1lYcndRMVI2QUVGV1lGdDVBR1VYN1VkcGZ4djJjY3JpVllLMEtaMFdoTzFrTWtGanF3WnMtZGRBbmhPUVFzZnJWXzFSbXN6TllqdG5HZ1BvYm5pSnJ0ejlZNTg5VjU0YUJSVGMyemdCTGxFMEVPMTYtYklfZHEwUzdVOERkVlhwa0Nqc2Z0dzdxTWI1QWFwTVJRWmc?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-6d3ce8e4c520/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-01-12T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090618+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "45ee35d6c97243db",
-    "title": "Global AI Adoption in 2025 – AI Economy Institute - Microsoft",
-    "description": "Global AI Adoption in 2025 – AI Economy Institute Microsoft",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdDFlanhoaENYdWlqRXhvVEZPQ0RCLUpncEE3UThUTzY3TWtJSWIzSWxwZV9oT1MtTU9MOWxRZDJsaC1pVFlnYlVDU2NIdWtfZVlzeE0wZ0FyWEd4WUZrajJFSDFsSlhyaUpIMDFUZmJaZTlkaHR2TFdTVXpoWFlUX2dsdmhmQk1NVVV2dkNUN3dGemF0REJGM2lueGNPc3BLWjlaTHdMOXVQN3Jfc0hjQnNlQ0tZTmd3?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-fd2c1a318c74/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-01-08T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090803+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "4d0680191a3b6d83",
-    "title": "Here are four ways AI and talent trends could reshape jobs by 2030 - The World Economic Forum",
-    "description": "Here are four ways AI and talent trends could reshape jobs by 2030 The World Economic Forum",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54ZVlMdHE0SnFCYUhtOUZmX1NncjBQMnoyYlpfNVM3MV9uQkpScGhRam1ULVpOQ3VrbXVJaEJDS25YRjR4Q3VLLVRiQnlNOG84eGVKSGpadEx6cjk1MVBoNC1iWnZsSmE1MUUzeEV2NDVHM2RvaGdSY3ExT0s?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-f6abb725cb31/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-01-07T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090658+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "d444721a5c31b73d",
-    "title": "Five Trends in AI and Data Science for 2026 | Thomas H. Davenport and Randy Bean - MIT Sloan Management Review",
-    "description": "Five Trends in AI and Data Science for 2026 | Thomas H. Davenport and Randy Bean MIT Sloan Management Review",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNndhTkhudjNwMy1lYjhjcWl5azdhSTQyY1F2Y3Rud0FiZUtQczJ5N2doNmdZVl9zd1k5RWxCd3pITlBYdUxFNmZJcWRtQkFNWnYwSmhsdHoteFhuOUhMbi1Db0hQZUZmSldVWE5DRm50ZmllLV9Wbm1DeDhtMWp3VzZ5WHBocnc?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-829f1cde5cd5/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2026-01-06T08:00:00+00:00",
-    "fetched_at": "2026-05-25T12:18:05.920618+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "150711ad65121468",
-    "title": "Allianz Technology Trust: the future of innovation [Video] - trustintelligence.co.uk",
-    "description": "Allianz Technology Trust: the future of innovation [Video] trustintelligence.co.uk",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWw4eFAtdDdQcUU3bGo0VkhkWmdTNEtNUWdGTlNMUnFFMHRPb2tHbnhoZW53V1VZeUlLWS1wVlo3TUh6RlQ5UTN3bzJRWFFfMUJCNnJkVFVPdHlBNG5hdzE0YkU5MTAzYy1MSFlZclNMN0FRcnBGdDh4OXJrVHMtZFpnNkMwd0d3ZjdQdndQVi0waTlQU0M0ZHNFYnNvcC03QUswcFhFajRUWTlwNnYzTC1OYWxITVRBZE4w?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-1bb32c4d9085/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-12-19T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:21.832865+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "271bbe0df4f89b0d",
-    "title": "Tech Trends 2026 - Deloitte",
-    "description": "Tech Trends 2026 Deloitte",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGlac2ZCY09yUnBwZGZKN1RmcHFIdkJENEpFaWdwY0VpcV83c09UQl9FVlB1enZYNUFadzRMM3JxZ2hSQU1jNFJvZHpheU1FZG5HNW1DNVVoLUwtRERrSzdQdzlRLS0xTlRZSkw2VWU0dV9IcHBDOThkU0p2X3lhdW9rZGZEeGFsalpQeC1R?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-6214e5e42c2e/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-12-10T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:21.833288+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "52c441f929cc52a7",
-    "title": "What’s next in AI: 7 trends to watch in 2026 - Microsoft Source",
-    "description": "What’s next in AI: 7 trends to watch in 2026 Microsoft Source",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcGhNRHlROFNiZVJrQXFuRzVHLVlHZ1ZxZV9HQUZZNldUbmVrRmYyQ01qYmUwWlk2b2NyTDFlYThrbTkyVUhnWUZTQkNwMXRaSG15amVHVVpmb3Q3c0xxX2RjeDZ5M3VsbHhsSE9wdnVDS3p5NzRCbDZYRVZUdVQxQzd4QXpaT2hib0plQUdSeWZzQmc?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-ab82faab101f/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-12-08T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:21.833641+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "a9763090da954669",
-    "title": "Experts cut through the noise to clarify AI’s actual economic impact - Stanford Report",
-    "description": "Experts cut through the noise to clarify AI’s actual economic impact Stanford Report",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFhEN1VkV3liSzJQUnc1VWlSSWNnOTNITkV0OWhKUGZHTW4xVlAxX1pzd0JSSzhsYkxOSzJvLUxQTTFkU0o2clZ1OW4xNWZUMXAwNmN5TGZWRFN3QVBQdzJLcHM0TVFYUW44Qk9XT2FPQkxydHJaODRMaklfY25ndmJNbW1xcWVEMHRaNkRfQ0s4Uy1Ec3Zycg?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-d99c080187a0/1200/750",
-    "source": "Google News AI Economy",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-12-04T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:22.090349+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "15024036d35e89f9",
-    "title": "Business AI Innovation Unveiled at SAP TechEd - SAP News Center",
-    "description": "Business AI Innovation Unveiled at SAP TechEd SAP News Center",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRlgzYVBja09uakkwa0wybkdJbG9jbGlfNW5ScEF2aTFYNS1wdUpQMFpRdGpLRWhGMTRGbTlreHhqRVlRemh2TFZuRURWTkVrMGt0NUd1MkRWampxTnkxaTFPR25qRDhxdU9xMDc5WWxGTUhYb2tKNm5POVB2RnZxNg?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-4cf925a6248e/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-11-17T08:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:21.833088+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "7f05c2741ed53e1c",
-    "title": "The state of AI in 2025: Agents, innovation, and transformation - McKinsey & Company",
-    "description": "The state of AI in 2025: Agents, innovation, and transformation McKinsey & Company",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVkNzT2lMcURPYXQxQmh0azdzbjVrNFktNzZFLTZacnFlR2xZYXczRnI4MHh2amsya2xOOEh1QURSbFUxU0ZUWGQ5WE5kVHJtbEFJb0NOdTNVUVhPeC1iVVJOZk1VbXpwLVBuYzVod0tMVmlYbVdzNjgwcF83MTVJTWNvVFRaZw?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-ed9629dfed63/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-11-05T08:00:00+00:00",
-    "fetched_at": "2026-05-25T12:18:05.822880+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "bb4b34c50453b588",
-    "title": "Sixty years of innovation: Key moments in business technology - McKinsey & Company",
-    "description": "Sixty years of innovation: Key moments in business technology McKinsey & Company",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTm1tLU92M2JNR291MWJzZUx0YUNsTjlhOFRmallHVUJGT19xVGdwQ1JLTDFYd3FIUEpha21GZnp1RVJsMElNZlJzMGVSeHdkWUhIOEctbmxoRFJFd1JmeFpZZ25BZ0lKU3pHZkRwc1lDS1A0VEQ3M2xSTzNqNmNGeFZRdWVjUm9XcHdzdXRYNlQ0RHEyckF3VkthZG5DRS1hU3NveFMwc1AzbGQyYnpDZ1pJZUFNZnJqMF9BZy04Y0U?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-ef911dc1c837/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-10-31T04:35:32+00:00",
-    "fetched_at": "2026-05-24T23:51:21.833379+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "82b279bb4762e09f",
-    "title": "How open source AI models benefit developer innovation - TechTarget",
-    "description": "How open source AI models benefit developer innovation TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSldtTmhTaG9iNm5fZ3MwQWJCbWhRUlJQMkZvemRPa3hzTmF1X3hqTU9Fd0hUVU1YVnkxbVJ4TEhIcERhbDc0czJhS0FsZU43ak94SjkyQXB4aXd3ZWxPTGRvZTRFTjI5dTQ5SE5KNDdaYXZLNHVEcDFoMzBienREc05LMHBNRDFuWUMxLXVDWmtqcmplU0l4bG1LeUVublRQMGlhUDlrVQ?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-389babd1692f/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-10-24T07:00:00+00:00",
-    "fetched_at": "2026-05-24T23:51:21.833245+00:00",
-    "missing_core_fill": true,
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "423b94ba370a5214",
-    "title": "UK Artificial Intelligence (AI) Statistics And Trends - Forbes",
-    "description": "UK Artificial Intelligence (AI) Statistics And Trends Forbes",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUU2SVFXSURCODNDVDRzdDZ4Z3BYRHp4OUs4V19rWnBZSEdGTDdVSlpVRmlYX1VDWXp0bmNJT2xQV1hHZU9xTG1wNTBTUWJQSlZqZU5PNTR3QVJzeW0zel9EQzY1aFluWlN6d1k4Vm10S0MwQ09LYm5XSnQyaW84RWxzWTN6TE1sRVZ5eDU5MWJBZXlXTEcwcg?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-b138458aa2dc/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-10-07T07:00:00+00:00",
-    "fetched_at": "2026-05-25T12:18:05.822514+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "4d2d82de42173ebc",
-    "title": "GitLab: Although Agentic AI Drives Software, Humans Are Key - Technology Magazine",
-    "description": "GitLab: Although Agentic AI Drives Software, Humans Are Key Technology Magazine",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVFFhbG9Xc0pEV0FiUUdrcTRxMW00dmtTQ1R0UDIxWkxsemw5S0lZa25BbjlfTG5PRG9JaEdtQ3AyN0dra2lNZkhtekFiazYwTFFCWlBHNF9UbEQ4UmZaekhIQ1RoeHlVcmh6X2NZMjltZ292RGRBSzR1eXNYb2wxWW9zXzMxYnM5anl3MkIzOW4xVkJGZzJvVg?oc=5",
-    "image": "https://picsum.photos/seed/wv-fill-e4823b808f45/1200/750",
-    "source": "Google News Technology Business",
-    "source_id": "missing-core-tehnologija",
-    "category": "tehnologija",
-    "published_at": "2025-09-18T07:00:00+00:00",
-    "fetched_at": "2026-05-25T12:18:05.822333+00:00",
     "missing_core_fill": true
   }
 ]
