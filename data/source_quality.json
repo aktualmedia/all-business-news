@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-29T12:33:00.797590+00:00",
+  "updated_at": "2026-05-29T21:06:27.758464+00:00",
   "sources": 236,
-  "ok": 168,
-  "problem": 53,
+  "ok": 166,
+  "problem": 55,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -97,17 +97,6 @@
       "name": "Allure Beauty",
       "category": "lifestyle",
       "url": "https://www.allure.com/feed/rss",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-108",
-      "name": "ArchDaily",
-      "category": "dizajn",
-      "url": "https://www.archdaily.com/search/projects/rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -764,17 +753,6 @@
       "error": ""
     },
     {
-      "id": "extra-beauty-003",
-      "name": "NewBeauty",
-      "category": "lifestyle",
-      "url": "https://www.newbeauty.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "global-extra-006",
       "name": "OECD Economy - Google News",
       "category": "ekonomija",
@@ -878,6 +856,17 @@
       "name": "Reuters Commodities - Google News",
       "category": "trzista",
       "url": "https://news.google.com/rss/search?q=site:reuters.com%20commodities%20markets&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-023",
+      "name": "Science News - Google News",
+      "category": "znanost",
+      "url": "https://news.google.com/rss/search?q=site:sciencenews.org%20science&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1083,6 +1072,17 @@
       "error": ""
     },
     {
+      "id": "global-extra-031",
+      "name": "WatchTime - Google News",
+      "category": "satovi",
+      "url": "https://news.google.com/rss/search?q=site:watchtime.com%20watches&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-038",
       "name": "Wine Spectator - Google News",
       "category": "pica",
@@ -1160,6 +1160,17 @@
       "error": ""
     },
     {
+      "id": "src-108",
+      "name": "ArchDaily",
+      "category": "dizajn",
+      "url": "https://www.archdaily.com/search/projects/rss",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-125",
       "name": "Design Milk Lifestyle",
       "category": "lifestyle",
@@ -1182,17 +1193,6 @@
       "error": ""
     },
     {
-      "id": "global-extra-023",
-      "name": "Science News - Google News",
-      "category": "znanost",
-      "url": "https://news.google.com/rss/search?q=site:sciencenews.org%20science&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-057",
       "name": "Supply Chain Brain",
       "category": "trzista",
@@ -1208,17 +1208,6 @@
       "name": "Travel + Leisure - Google News",
       "category": "lifestyle",
       "url": "https://news.google.com/rss/search?q=site:travelandleisure.com%20travel%20lifestyle&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "global-extra-031",
-      "name": "WatchTime - Google News",
-      "category": "satovi",
-      "url": "https://news.google.com/rss/search?q=site:watchtime.com%20watches&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1424,6 +1413,17 @@
       "error": ""
     },
     {
+      "id": "src-124",
+      "name": "Highsnobiety",
+      "category": "lifestyle",
+      "url": "https://www.highsnobiety.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-103",
       "name": "Hollywood Reporter",
       "category": "kultura",
@@ -1461,17 +1461,6 @@
       "name": "Knowledge at Wharton",
       "category": "poslovanje",
       "url": "https://knowledge.wharton.upenn.edu/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-138",
-      "name": "LSE Business Review",
-      "category": "ekonomija",
-      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1714,17 +1703,6 @@
       "name": "Elite Traveler",
       "category": "hedonizam",
       "url": "https://elitetraveler.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 9,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-124",
-      "name": "Highsnobiety",
-      "category": "lifestyle",
-      "url": "https://www.highsnobiety.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 9,
@@ -2381,6 +2359,17 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
+      "id": "src-138",
+      "name": "LSE Business Review",
+      "category": "ekonomija",
+      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "The read operation timed out"
+    },
+    {
       "id": "src-049",
       "name": "Mining.com",
       "category": "trzista",
@@ -2407,6 +2396,17 @@
       "name": "Nasdaq Stocks",
       "category": "financije",
       "url": "https://www.nasdaq.com/feed/rssoutbound?category=Stocks",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "The read operation timed out"
+    },
+    {
+      "id": "extra-beauty-003",
+      "name": "NewBeauty",
+      "category": "lifestyle",
+      "url": "https://www.newbeauty.com/feed/",
       "status": "failed",
       "label": "problem",
       "count": 0,
