@@ -1,25 +1,20 @@
 {
-  "updated_at": "2026-05-25T12:18:31.689450+00:00",
-  "active_limit": 2000,
-  "archive_limit": 12000,
-  "active_count": 2000,
-  "archive_count": 5924,
+  "updated_at": "2026-05-29T07:38:21.536668+00:00",
   "counts": {
-    "poslovanje": 337,
-    "ekonomija": 115,
-    "financije": 457,
-    "trzista": 172,
-    "kultura": 332,
-    "dizajn": 118,
-    "tehnologija": 251,
-    "znanost": 272,
-    "lifestyle": 144,
-    "hedonizam": 82,
-    "satovi": 137,
-    "nakit": 98,
-    "pica": 166,
-    "hrana": 97,
-    "vijesti": 110
+    "poslovanje": 1000,
+    "ekonomija": 245,
+    "financije": 1000,
+    "trzista": 818,
+    "kultura": 1000,
+    "dizajn": 438,
+    "tehnologija": 978,
+    "znanost": 1000,
+    "lifestyle": 586,
+    "hedonizam": 279,
+    "satovi": 269,
+    "nakit": 188,
+    "pica": 330,
+    "vijesti": 370
   },
   "labels": {
     "poslovanje": "POSLOVANJE",
@@ -35,7 +30,6 @@
     "satovi": "SATOVI",
     "nakit": "NAKIT",
     "pica": "PIĆA",
-    "hrana": "HRANA",
     "vijesti": "VIJESTI"
   }
 }
