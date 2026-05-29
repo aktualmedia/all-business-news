@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-28T12:56:48.714162+00:00",
+  "updated_at": "2026-05-29T12:33:00.764898+00:00",
   "sources": 69,
-  "ok_sources": 13,
-  "events_count": 176,
+  "ok_sources": 12,
+  "events_count": 169,
   "results": [
     {
       "id": "infozagreb-events",
@@ -159,7 +159,7 @@
       "city": "Zagreb",
       "type": "muzej",
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     {
       "id": "havc",
@@ -333,8 +333,9 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "kazalište / premijere",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "<urlopen error timed out>"
     },
     {
       "id": "opera-paris",
@@ -395,8 +396,9 @@
       "country": "Njemačka",
       "city": "Berlin",
       "type": "kazalište / premijere",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "berliner-ensemble",
@@ -565,7 +567,7 @@
       "city": "London",
       "type": "galerija / izložbe",
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     {
       "id": "british-museum",
@@ -637,7 +639,7 @@
       "city": "Madrid",
       "type": "muzej / izložbe",
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     {
       "id": "rijksmuseum",
@@ -657,8 +659,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "ok",
-      "count": 9
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "uffizi",
