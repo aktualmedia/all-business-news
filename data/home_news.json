@@ -9,7 +9,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 27 May 2026",
-    "fetched_at": "2026-05-30T16:16:12.654309+00:00"
+    "fetched_at": "2026-05-30T20:17:42.061356+00:00"
   },
   {
     "id": "a85a64336941fc6a",
@@ -138,7 +138,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 26 May 2026",
-    "fetched_at": "2026-05-30T16:16:12.654376+00:00"
+    "fetched_at": "2026-05-30T20:17:42.061515+00:00"
   },
   {
     "id": "261a06eb053dd60a",
@@ -150,7 +150,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 26 May 2026",
-    "fetched_at": "2026-05-30T16:16:12.654452+00:00"
+    "fetched_at": "2026-05-30T20:17:42.061638+00:00"
   },
   {
     "id": "77cb9bc8323d1bff",
@@ -214,19 +214,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-30T16:16:12.653935+00:00"
-  },
-  {
-    "id": "4ed23e12aea69e77",
-    "title": "Move first or fall behind: How AI is rewriting the rules of banking",
-    "description": "AI is poised to reshape banking not just by cutting costs, but by redistributing profits, redefining customer relationships, and accelerating competition. How should banks respond?",
-    "url": "https://www.mckinsey.com/industries/financial-services/our-insights/move-first-or-fall-behind-how-ai-is-rewriting-the-rules-of-banking",
-    "image": "https://picsum.photos/seed/wv-news-064396a97538/1200/750",
-    "source": "McKinsey Insights",
-    "source_id": "src-004",
-    "category": "poslovanje",
-    "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-30T16:16:12.654004+00:00"
+    "fetched_at": "2026-05-30T20:17:42.060733+00:00"
   },
   {
     "id": "f8748bc33f7edf1c",
@@ -238,7 +226,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-30T16:16:12.654075+00:00"
+    "fetched_at": "2026-05-30T20:17:42.060845+00:00"
   },
   {
     "id": "855f317876d8b8d7",
@@ -250,7 +238,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-30T16:16:12.654161+00:00"
+    "fetched_at": "2026-05-30T20:17:42.060977+00:00"
+  },
+  {
+    "id": "4ed23e12aea69e77",
+    "title": "Move first or fall behind: How AI is rewriting the rules of banking",
+    "description": "AI is poised to reshape banking not just by cutting costs, but by redistributing profits, redefining customer relationships, and accelerating competition. How should banks respond?",
+    "url": "https://www.mckinsey.com/industries/financial-services/our-insights/move-first-or-fall-behind-how-ai-is-rewriting-the-rules-of-banking",
+    "image": "https://picsum.photos/seed/wv-news-064396a97538/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Thu, 28 May 2026",
+    "fetched_at": "2026-05-30T20:17:42.061099+00:00"
   },
   {
     "id": "1a4c16ea1a696b03",
@@ -262,7 +262,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-30T16:16:12.654243+00:00"
+    "fetched_at": "2026-05-30T20:17:42.061232+00:00"
   },
   {
     "id": "867b4ad72bbda8b6",
@@ -455,7 +455,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 29 May 2026",
-    "fetched_at": "2026-05-30T16:16:12.653659+00:00"
+    "fetched_at": "2026-05-30T20:17:42.060302+00:00"
   },
   {
     "id": "435122711e93d588",
@@ -467,7 +467,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 29 May 2026",
-    "fetched_at": "2026-05-30T16:16:12.653751+00:00"
+    "fetched_at": "2026-05-30T20:17:42.060459+00:00"
   },
   {
     "id": "6a1435c0664bb268",
@@ -479,7 +479,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 29 May 2026",
-    "fetched_at": "2026-05-30T16:16:12.653833+00:00"
+    "fetched_at": "2026-05-30T20:17:42.060583+00:00"
   },
   {
     "id": "84ace186e5f355e1",
@@ -546,84 +546,6 @@
     "image_policy": "bez_izvorne_fotografije"
   },
   {
-    "id": "2e0af54d8d40a2e9",
-    "title": "„Živjeti bolje, duže i sretnije – to je naš cilj i motivacija”",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/zivjeti-bolje-duze-i-sretnije-to-je-nas-cilj-i-motivacija/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/01/bart--1024x546.jpg",
-    "source": "Symbol Quorum - poduzetništvo",
-    "source_id": "extra-symbol-poduzetnistvo",
-    "category": "poslovanje",
-    "published_at": "2026-05-30T16:16:25.244277+00:00",
-    "fetched_at": "2026-05-30T16:16:25.244280+00:00",
-    "html_source": true
-  },
-  {
-    "id": "db73cc5caeb9cc22",
-    "title": "„Znatiželja je temelj svake uspješne znanstvene karijere”",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/znatizelja-je-temelj-svake-uspjesne-znanstvene-karijere/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/03/MG_0929-1024x682.jpg",
-    "source": "Symbol Quorum - poduzetništvo",
-    "source_id": "extra-symbol-poduzetnistvo",
-    "category": "poslovanje",
-    "published_at": "2026-05-30T16:16:25.244174+00:00",
-    "fetched_at": "2026-05-30T16:16:25.244176+00:00",
-    "html_source": true
-  },
-  {
-    "id": "f8506df7f2473009",
-    "title": "Laska mi da smo uistinu mijenjali društvo na bolje",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/laska-mi-da-smo-uistinu-mijenjali-drustvo-na-bolje/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/08/MG_9492-1024x682.jpg",
-    "source": "Symbol Quorum - poduzetništvo",
-    "source_id": "extra-symbol-poduzetnistvo",
-    "category": "poslovanje",
-    "published_at": "2026-05-30T16:16:25.243946+00:00",
-    "fetched_at": "2026-05-30T16:16:25.243949+00:00",
-    "html_source": true
-  },
-  {
-    "id": "b6243cf0a698d534",
-    "title": "„Moja zvijezda vodilja je zlatni rez”",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/moja-zvijezda-vodilja-je-zlatni-rez/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/08/IGOR-ZEPTER-1-1024x960.jpg",
-    "source": "Symbol Quorum - poduzetništvo",
-    "source_id": "extra-symbol-poduzetnistvo",
-    "category": "poslovanje",
-    "published_at": "2026-05-30T16:16:25.243839+00:00",
-    "fetched_at": "2026-05-30T16:16:25.243841+00:00",
-    "html_source": true
-  },
-  {
-    "id": "204d9a08489c9eb5",
-    "title": "Filozofija Zeptera: zdravlje, dugovječnost, ljepota i održiva elegancija",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/filozofija-zeptera-zdravlje-dugovjecnost-ljepota-i-odrziva-elegancija/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/maratea14-6-1024x682.jpeg",
-    "source": "Symbol Quorum - poduzetništvo",
-    "source_id": "extra-symbol-poduzetnistvo",
-    "category": "poslovanje",
-    "published_at": "2026-05-30T16:16:25.243677+00:00",
-    "fetched_at": "2026-05-30T16:16:25.243680+00:00",
-    "html_source": true
-  },
-  {
-    "id": "2291a0ed7ff56618",
-    "title": "Transformacija s potpisom: Kardiomet & Maratea",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/transformacija-s-potpisom-kardiomet-maratea/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/maratea14-6-1024x682.jpeg",
-    "source": "Symbol Quorum - poduzetništvo",
-    "source_id": "extra-symbol-poduzetnistvo",
-    "category": "poslovanje",
-    "published_at": "2026-05-30T16:16:25.243542+00:00",
-    "fetched_at": "2026-05-30T16:16:25.243556+00:00",
-    "html_source": true
-  },
-  {
     "id": "0917d00a97c0e3fa",
     "title": "„Svinje obožavaju sladoled!”",
     "description": "Izvorni naslov/sažetak s portala Symbol Quorum - kultura i umjetnost. Nastavak se čita kod izvornog izdavača.",
@@ -632,8 +554,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-30T16:16:25.181119+00:00",
-    "fetched_at": "2026-05-30T16:16:25.181121+00:00",
+    "published_at": "2026-05-30T20:17:58.469770+00:00",
+    "fetched_at": "2026-05-30T20:17:58.469773+00:00",
     "html_source": true
   },
   {
@@ -645,8 +567,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-30T16:16:25.181025+00:00",
-    "fetched_at": "2026-05-30T16:16:25.181027+00:00",
+    "published_at": "2026-05-30T20:17:58.469651+00:00",
+    "fetched_at": "2026-05-30T20:17:58.469654+00:00",
     "html_source": true
   },
   {
@@ -658,8 +580,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-30T16:16:25.180923+00:00",
-    "fetched_at": "2026-05-30T16:16:25.180925+00:00",
+    "published_at": "2026-05-30T20:17:58.469528+00:00",
+    "fetched_at": "2026-05-30T20:17:58.469531+00:00",
     "html_source": true
   },
   {
@@ -671,8 +593,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-30T16:16:25.180822+00:00",
-    "fetched_at": "2026-05-30T16:16:25.180824+00:00",
+    "published_at": "2026-05-30T20:17:58.469380+00:00",
+    "fetched_at": "2026-05-30T20:17:58.469383+00:00",
     "html_source": true
   },
   {
@@ -684,8 +606,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-30T16:16:25.180724+00:00",
-    "fetched_at": "2026-05-30T16:16:25.180726+00:00",
+    "published_at": "2026-05-30T20:17:58.469261+00:00",
+    "fetched_at": "2026-05-30T20:17:58.469263+00:00",
     "html_source": true
   },
   {
@@ -697,8 +619,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-30T16:16:25.180616+00:00",
-    "fetched_at": "2026-05-30T16:16:25.180618+00:00",
+    "published_at": "2026-05-30T20:17:58.469131+00:00",
+    "fetched_at": "2026-05-30T20:17:58.469134+00:00",
     "html_source": true
   },
   {
@@ -710,8 +632,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-30T16:16:25.180506+00:00",
-    "fetched_at": "2026-05-30T16:16:25.180508+00:00",
+    "published_at": "2026-05-30T20:17:58.469004+00:00",
+    "fetched_at": "2026-05-30T20:17:58.469007+00:00",
     "html_source": true
   },
   {
@@ -723,73 +645,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-30T16:16:25.180298+00:00",
-    "fetched_at": "2026-05-30T16:16:25.180312+00:00",
-    "html_source": true
-  },
-  {
-    "id": "80c4ac99e52f4e93",
-    "title": "Strastveni modni svijet Aleksandre Dojčinović",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - lifestyle. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/strastveni-modni-svijet-aleksandre-dojcinovic/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2024/02/Ivana-Nola-2-1-1010x1024.jpg",
-    "source": "Symbol Quorum - lifestyle",
-    "source_id": "extra-symbol-lifestyle",
-    "category": "lifestyle",
-    "published_at": "2026-05-30T16:16:25.102968+00:00",
-    "fetched_at": "2026-05-30T16:16:25.102971+00:00",
-    "html_source": true
-  },
-  {
-    "id": "1c6516a2c1ee91e9",
-    "title": "Ivana Nola – Ljepota bez starosnih granica",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - lifestyle. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/ivana-nola-ljepota-bez-starosnih-granica/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2024/06/IMG_7712-1024x682.jpg",
-    "source": "Symbol Quorum - lifestyle",
-    "source_id": "extra-symbol-lifestyle",
-    "category": "lifestyle",
-    "published_at": "2026-05-30T16:16:25.102867+00:00",
-    "fetched_at": "2026-05-30T16:16:25.102869+00:00",
-    "html_source": true
-  },
-  {
-    "id": "b7d1159b8c6b0875",
-    "title": "Andro Vlahušić: “Dubrovnik ni za što!”",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - lifestyle. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/andro-vlahusic-dubrovnik-ni-za-sto/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/02/suzana-holtgrave3-1024x678.jpg",
-    "source": "Symbol Quorum - lifestyle",
-    "source_id": "extra-symbol-lifestyle",
-    "category": "lifestyle",
-    "published_at": "2026-05-30T16:16:25.102760+00:00",
-    "fetched_at": "2026-05-30T16:16:25.102762+00:00",
-    "html_source": true
-  },
-  {
-    "id": "6d804d97df74b4e4",
-    "title": "Ikona stila koja je fotografijom osvojila modni svijet",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - lifestyle. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/ikona-stila-koja-je-fotografijom-osvojila-modni-svijet/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/04/b2-793x1024.jpg",
-    "source": "Symbol Quorum - lifestyle",
-    "source_id": "extra-symbol-lifestyle",
-    "category": "lifestyle",
-    "published_at": "2026-05-30T16:16:25.102644+00:00",
-    "fetched_at": "2026-05-30T16:16:25.102646+00:00",
-    "html_source": true
-  },
-  {
-    "id": "09adf7d2e6bb2bc4",
-    "title": "Vizionar hrvatske modne scene",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - lifestyle. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/vizionar-hrvatske-modne-scene/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/43_Zepter-Hotel-Belgrade-2018-1-683x1024.jpg",
-    "source": "Symbol Quorum - lifestyle",
-    "source_id": "extra-symbol-lifestyle",
-    "category": "lifestyle",
-    "published_at": "2026-05-30T16:16:25.102512+00:00",
-    "fetched_at": "2026-05-30T16:16:25.102527+00:00",
+    "published_at": "2026-05-30T20:17:58.468792+00:00",
+    "fetched_at": "2026-05-30T20:17:58.468802+00:00",
     "html_source": true
   },
   {
@@ -801,8 +658,8 @@
     "source": "Symbol Quorum - gastronomija",
     "source_id": "extra-symbol-gastronomija",
     "category": "pica",
-    "published_at": "2026-05-30T16:16:24.983661+00:00",
-    "fetched_at": "2026-05-30T16:16:24.983663+00:00",
+    "published_at": "2026-05-30T20:17:58.258120+00:00",
+    "fetched_at": "2026-05-30T20:17:58.258123+00:00",
     "html_source": true
   },
   {
@@ -814,8 +671,8 @@
     "source": "Symbol Quorum - gastronomija",
     "source_id": "extra-symbol-gastronomija",
     "category": "pica",
-    "published_at": "2026-05-30T16:16:24.983556+00:00",
-    "fetched_at": "2026-05-30T16:16:24.983558+00:00",
+    "published_at": "2026-05-30T20:17:58.258000+00:00",
+    "fetched_at": "2026-05-30T20:17:58.258003+00:00",
     "html_source": true
   },
   {
@@ -827,8 +684,8 @@
     "source": "Symbol Quorum - gastronomija",
     "source_id": "extra-symbol-gastronomija",
     "category": "pica",
-    "published_at": "2026-05-30T16:16:24.983440+00:00",
-    "fetched_at": "2026-05-30T16:16:24.983442+00:00",
+    "published_at": "2026-05-30T20:17:58.257884+00:00",
+    "fetched_at": "2026-05-30T20:17:58.257886+00:00",
     "html_source": true
   },
   {
@@ -840,8 +697,8 @@
     "source": "Symbol Quorum - gastronomija",
     "source_id": "extra-symbol-gastronomija",
     "category": "pica",
-    "published_at": "2026-05-30T16:16:24.983336+00:00",
-    "fetched_at": "2026-05-30T16:16:24.983338+00:00",
+    "published_at": "2026-05-30T20:17:58.257764+00:00",
+    "fetched_at": "2026-05-30T20:17:58.257767+00:00",
     "html_source": true
   },
   {
@@ -853,8 +710,8 @@
     "source": "Symbol Quorum - gastronomija",
     "source_id": "extra-symbol-gastronomija",
     "category": "pica",
-    "published_at": "2026-05-30T16:16:24.983176+00:00",
-    "fetched_at": "2026-05-30T16:16:24.983179+00:00",
+    "published_at": "2026-05-30T20:17:58.257578+00:00",
+    "fetched_at": "2026-05-30T20:17:58.257582+00:00",
     "html_source": true
   },
   {
@@ -866,60 +723,203 @@
     "source": "Symbol Quorum - gastronomija",
     "source_id": "extra-symbol-gastronomija",
     "category": "pica",
-    "published_at": "2026-05-30T16:16:24.983053+00:00",
-    "fetched_at": "2026-05-30T16:16:24.983068+00:00",
+    "published_at": "2026-05-30T20:17:58.257437+00:00",
+    "fetched_at": "2026-05-30T20:17:58.257451+00:00",
     "html_source": true
   },
   {
-    "id": "15920a06fe19bafb",
-    "title": "Krokodil više nije isti – Lacoste je predstavio proljetnu verziju loga",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - moda. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/moda/trendovi/lacoste-redizajn-krokodil-logotip/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/lacoste-1-2-e1774265905592-550x550.jpg",
-    "source": "Journal.hr - moda",
-    "source_id": "extra-journal-moda",
-    "category": "lifestyle",
-    "published_at": "2026-05-30T16:16:19.629959+00:00",
-    "fetched_at": "2026-05-30T16:16:19.629960+00:00",
+    "id": "2e0af54d8d40a2e9",
+    "title": "„Živjeti bolje, duže i sretnije – to je naš cilj i motivacija”",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/zivjeti-bolje-duze-i-sretnije-to-je-nas-cilj-i-motivacija/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/01/bart--1024x546.jpg",
+    "source": "Symbol Quorum - poduzetništvo",
+    "source_id": "extra-symbol-poduzetnistvo",
+    "category": "poslovanje",
+    "published_at": "2026-05-30T20:17:58.062322+00:00",
+    "fetched_at": "2026-05-30T20:17:58.062325+00:00",
     "html_source": true
   },
   {
-    "id": "df3ebe1b3a764e0d",
-    "title": "Mokasine su definitivno među najchic proljetnim cipelama, a mi donosimo najbolje modele",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - moda. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/moda/trendovi/mass-chic-cipele-mokasine/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/03/Mass-cipele-23-1-scaled-e1774436598269-768x425.jpg",
-    "source": "Journal.hr - moda",
-    "source_id": "extra-journal-moda",
-    "category": "lifestyle",
-    "published_at": "2026-05-30T16:16:19.629847+00:00",
-    "fetched_at": "2026-05-30T16:16:19.629848+00:00",
+    "id": "db73cc5caeb9cc22",
+    "title": "„Znatiželja je temelj svake uspješne znanstvene karijere”",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/znatizelja-je-temelj-svake-uspjesne-znanstvene-karijere/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/03/MG_0929-1024x682.jpg",
+    "source": "Symbol Quorum - poduzetništvo",
+    "source_id": "extra-symbol-poduzetnistvo",
+    "category": "poslovanje",
+    "published_at": "2026-05-30T20:17:58.062199+00:00",
+    "fetched_at": "2026-05-30T20:17:58.062202+00:00",
     "html_source": true
   },
   {
-    "id": "03da393c4b184f0a",
-    "title": "U modi, tijelo je opet u fokusu. Vraćamo se seksepilnim krojevima, a ovako to rade vodeće modne kuće",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - moda. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/moda/trendovi/seksepil-u-modi-tijelo-odjeca/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/04/Mugler-1080x1620.jpg",
-    "source": "Journal.hr - moda",
-    "source_id": "extra-journal-moda",
-    "category": "lifestyle",
-    "published_at": "2026-05-30T16:16:19.629693+00:00",
-    "fetched_at": "2026-05-30T16:16:19.629694+00:00",
+    "id": "f8506df7f2473009",
+    "title": "Laska mi da smo uistinu mijenjali društvo na bolje",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/laska-mi-da-smo-uistinu-mijenjali-drustvo-na-bolje/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/08/MG_9492-1024x682.jpg",
+    "source": "Symbol Quorum - poduzetništvo",
+    "source_id": "extra-symbol-poduzetnistvo",
+    "category": "poslovanje",
+    "published_at": "2026-05-30T20:17:58.061941+00:00",
+    "fetched_at": "2026-05-30T20:17:58.061944+00:00",
     "html_source": true
   },
   {
-    "id": "3c333b6ed20a1bdd",
-    "title": "Journal wishlista: Jedan ili dva džempera? Toteme je predstavio jako zanimljivo pletivo",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - moda. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/moda/trendovi/journal-wishlista-toteme-dzemper/",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/10/toteme-pletivo.gif",
-    "source": "Journal.hr - moda",
-    "source_id": "extra-journal-moda",
+    "id": "b6243cf0a698d534",
+    "title": "„Moja zvijezda vodilja je zlatni rez”",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/moja-zvijezda-vodilja-je-zlatni-rez/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/08/IGOR-ZEPTER-1-1024x960.jpg",
+    "source": "Symbol Quorum - poduzetništvo",
+    "source_id": "extra-symbol-poduzetnistvo",
+    "category": "poslovanje",
+    "published_at": "2026-05-30T20:17:58.061818+00:00",
+    "fetched_at": "2026-05-30T20:17:58.061821+00:00",
+    "html_source": true
+  },
+  {
+    "id": "204d9a08489c9eb5",
+    "title": "Filozofija Zeptera: zdravlje, dugovječnost, ljepota i održiva elegancija",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/filozofija-zeptera-zdravlje-dugovjecnost-ljepota-i-odrziva-elegancija/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/maratea14-6-1024x682.jpeg",
+    "source": "Symbol Quorum - poduzetništvo",
+    "source_id": "extra-symbol-poduzetnistvo",
+    "category": "poslovanje",
+    "published_at": "2026-05-30T20:17:58.061628+00:00",
+    "fetched_at": "2026-05-30T20:17:58.061631+00:00",
+    "html_source": true
+  },
+  {
+    "id": "2291a0ed7ff56618",
+    "title": "Transformacija s potpisom: Kardiomet & Maratea",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/transformacija-s-potpisom-kardiomet-maratea/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/maratea14-6-1024x682.jpeg",
+    "source": "Symbol Quorum - poduzetništvo",
+    "source_id": "extra-symbol-poduzetnistvo",
+    "category": "poslovanje",
+    "published_at": "2026-05-30T20:17:58.061472+00:00",
+    "fetched_at": "2026-05-30T20:17:58.061481+00:00",
+    "html_source": true
+  },
+  {
+    "id": "80c4ac99e52f4e93",
+    "title": "Strastveni modni svijet Aleksandre Dojčinović",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - lifestyle. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/strastveni-modni-svijet-aleksandre-dojcinovic/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2024/02/Ivana-Nola-2-1-1010x1024.jpg",
+    "source": "Symbol Quorum - lifestyle",
+    "source_id": "extra-symbol-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-30T16:16:19.629600+00:00",
-    "fetched_at": "2026-05-30T16:16:19.629602+00:00",
+    "published_at": "2026-05-30T20:17:58.059232+00:00",
+    "fetched_at": "2026-05-30T20:17:58.059235+00:00",
+    "html_source": true
+  },
+  {
+    "id": "1c6516a2c1ee91e9",
+    "title": "Ivana Nola – Ljepota bez starosnih granica",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - lifestyle. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/ivana-nola-ljepota-bez-starosnih-granica/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2024/06/IMG_7712-1024x682.jpg",
+    "source": "Symbol Quorum - lifestyle",
+    "source_id": "extra-symbol-lifestyle",
+    "category": "lifestyle",
+    "published_at": "2026-05-30T20:17:58.059110+00:00",
+    "fetched_at": "2026-05-30T20:17:58.059113+00:00",
+    "html_source": true
+  },
+  {
+    "id": "b7d1159b8c6b0875",
+    "title": "Andro Vlahušić: “Dubrovnik ni za što!”",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - lifestyle. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/andro-vlahusic-dubrovnik-ni-za-sto/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/02/suzana-holtgrave3-1024x678.jpg",
+    "source": "Symbol Quorum - lifestyle",
+    "source_id": "extra-symbol-lifestyle",
+    "category": "lifestyle",
+    "published_at": "2026-05-30T20:17:58.058983+00:00",
+    "fetched_at": "2026-05-30T20:17:58.058986+00:00",
+    "html_source": true
+  },
+  {
+    "id": "6d804d97df74b4e4",
+    "title": "Ikona stila koja je fotografijom osvojila modni svijet",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - lifestyle. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/ikona-stila-koja-je-fotografijom-osvojila-modni-svijet/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/04/b2-793x1024.jpg",
+    "source": "Symbol Quorum - lifestyle",
+    "source_id": "extra-symbol-lifestyle",
+    "category": "lifestyle",
+    "published_at": "2026-05-30T20:17:58.058851+00:00",
+    "fetched_at": "2026-05-30T20:17:58.058854+00:00",
+    "html_source": true
+  },
+  {
+    "id": "09adf7d2e6bb2bc4",
+    "title": "Vizionar hrvatske modne scene",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - lifestyle. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/vizionar-hrvatske-modne-scene/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/43_Zepter-Hotel-Belgrade-2018-1-683x1024.jpg",
+    "source": "Symbol Quorum - lifestyle",
+    "source_id": "extra-symbol-lifestyle",
+    "category": "lifestyle",
+    "published_at": "2026-05-30T20:17:58.058706+00:00",
+    "fetched_at": "2026-05-30T20:17:58.058721+00:00",
+    "html_source": true
+  },
+  {
+    "id": "811613ca2ae5f52b",
+    "title": "Glazba ### ima novi album “Osorno” kojim otvaraju novo poglavlje u stvaranju. Razgovarali smo s njima",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/glazba/bend-intervju-osorno-novi-album/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/05/Copy-of-OSORNO-COVER_HI-RES-768x768.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-30T20:17:52.157984+00:00",
+    "fetched_at": "2026-05-30T20:17:52.157987+00:00",
+    "html_source": true
+  },
+  {
+    "id": "9dbdb41664cf8fe5",
+    "title": "Glazba Čeka nas uzbudljivo ljeto: Popisali smo sve glazbene festivale koji se održavaju u Hrvatskoj",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/glazba/glazbeni-festivali-u-hrvatskoj-2026/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/03/glazbeni-festivali-u-hrvatskoj-2-768x512.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-30T20:17:52.157863+00:00",
+    "fetched_at": "2026-05-30T20:17:52.157866+00:00",
+    "html_source": true
+  },
+  {
+    "id": "eaac744531491a3d",
+    "title": "Glazba Uskoro nam počinje Zagreb Classic, jedna od omiljenih glazbenih manifestacija u glavnom gradu",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/glazba/zagreb-classic-2026/",
+    "image": "https://www.journal.hr/wp-content/uploads/2023/06/Zagreb-Classic-S.-Ceric-Kovacevic-1-768x512.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-30T20:17:52.157753+00:00",
+    "fetched_at": "2026-05-30T20:17:52.157756+00:00",
+    "html_source": true
+  },
+  {
+    "id": "b000752361064d84",
+    "title": "Za jedne kontroverzan, za druge oslobađajuć: Bio je hrvatski kandidat za Oscara, napokon dolazi u kina",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/film-kazaliste-tv/lijepa-vecer-lijep-dan-film/",
+    "image": "https://www.journal.hr/wp-content/uploads/2024/09/Lijepa-vecer-lijep-dan-4-768x321.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-30T20:17:52.157620+00:00",
+    "fetched_at": "2026-05-30T20:17:52.157623+00:00",
     "html_source": true
   }
 ]
