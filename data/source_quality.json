@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-30T16:18:30.199038+00:00",
+  "updated_at": "2026-05-30T20:17:26.400374+00:00",
   "sources": 236,
-  "ok": 167,
-  "problem": 53,
+  "ok": 166,
+  "problem": 54,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -610,17 +610,6 @@
       "error": ""
     },
     {
-      "id": "global-extra-029",
-      "name": "Luxury Travel Magazine - Google News",
-      "category": "hedonizam",
-      "url": "https://news.google.com/rss/search?q=site:luxurytravelmagazine.com%20luxury%20travel&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-002",
       "name": "MIT Sloan Management Review",
       "category": "poslovanje",
@@ -665,6 +654,17 @@
       "error": ""
     },
     {
+      "id": "extra-care-002",
+      "name": "MindBodyGreen",
+      "category": "lifestyle",
+      "url": "https://www.mindbodygreen.com/rss.xml",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-012",
       "name": "Mining.com Markets - Google News",
       "category": "trzista",
@@ -691,17 +691,6 @@
       "name": "National Jeweler - Google News",
       "category": "nakit",
       "url": "https://news.google.com/rss/search?q=site:nationaljeweler.com%20jewelry&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "src-083",
-      "name": "Nature News",
-      "category": "znanost",
-      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1193,10 +1182,10 @@
       "error": ""
     },
     {
-      "id": "extra-care-002",
-      "name": "MindBodyGreen",
-      "category": "lifestyle",
-      "url": "https://www.mindbodygreen.com/rss.xml",
+      "id": "global-extra-029",
+      "name": "Luxury Travel Magazine - Google News",
+      "category": "hedonizam",
+      "url": "https://news.google.com/rss/search?q=site:luxurytravelmagazine.com%20luxury%20travel&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1490,17 +1479,6 @@
       "error": ""
     },
     {
-      "id": "src-138",
-      "name": "LSE Business Review",
-      "category": "ekonomija",
-      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-150",
       "name": "Logistics Manager",
       "category": "trzista",
@@ -1560,6 +1538,17 @@
       "name": "Modern Farmer",
       "category": "lifestyle",
       "url": "https://modernfarmer.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 10,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-098",
+      "name": "MuseumNext",
+      "category": "kultura",
+      "url": "https://www.museumnext.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 10,
@@ -1952,10 +1941,10 @@
       "error": ""
     },
     {
-      "id": "src-098",
-      "name": "MuseumNext",
-      "category": "kultura",
-      "url": "https://www.museumnext.com/feed/",
+      "id": "src-083",
+      "name": "Nature News",
+      "category": "znanost",
+      "url": "https://www.nature.com/nature.rss",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -2257,7 +2246,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 404: Not Found"
+      "error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1016)>"
     },
     {
       "id": "src-078",
@@ -2381,6 +2370,17 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
+      "id": "src-138",
+      "name": "LSE Business Review",
+      "category": "ekonomija",
+      "url": "https://blogs.lse.ac.uk/businessreview/feed/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
       "id": "src-049",
       "name": "Mining.com",
       "category": "trzista",
@@ -2477,7 +2477,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "src-008",
