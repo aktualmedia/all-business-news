@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-30T09:26:09.214415+00:00",
+  "updated_at": "2026-05-30T16:15:58.685503+00:00",
   "sources": 236,
-  "ok": 165,
-  "problem": 55,
+  "ok": 167,
+  "problem": 53,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -97,6 +97,17 @@
       "name": "Allure Beauty",
       "category": "lifestyle",
       "url": "https://www.allure.com/feed/rss",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-108",
+      "name": "ArchDaily",
+      "category": "dizajn",
+      "url": "https://www.archdaily.com/search/projects/rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -731,6 +742,17 @@
       "error": ""
     },
     {
+      "id": "extra-beauty-003",
+      "name": "NewBeauty",
+      "category": "lifestyle",
+      "url": "https://www.newbeauty.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 12,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "global-extra-006",
       "name": "OECD Economy - Google News",
       "category": "ekonomija",
@@ -1149,17 +1171,6 @@
       "error": ""
     },
     {
-      "id": "src-108",
-      "name": "ArchDaily",
-      "category": "dizajn",
-      "url": "https://www.archdaily.com/search/projects/rss",
-      "status": "ok",
-      "label": "radi",
-      "count": 11,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-125",
       "name": "Design Milk Lifestyle",
       "category": "lifestyle",
@@ -1171,10 +1182,10 @@
       "error": ""
     },
     {
-      "id": "src-124",
-      "name": "Highsnobiety",
+      "id": "src-121",
+      "name": "InsideHook",
       "category": "lifestyle",
-      "url": "https://www.highsnobiety.com/feed/",
+      "url": "https://www.insidehook.com/feed",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1182,10 +1193,10 @@
       "error": ""
     },
     {
-      "id": "src-121",
-      "name": "InsideHook",
+      "id": "extra-care-002",
+      "name": "MindBodyGreen",
       "category": "lifestyle",
-      "url": "https://www.insidehook.com/feed",
+      "url": "https://www.mindbodygreen.com/rss.xml",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1556,17 +1567,6 @@
       "error": ""
     },
     {
-      "id": "src-098",
-      "name": "MuseumNext",
-      "category": "kultura",
-      "url": "https://www.museumnext.com/feed/",
-      "status": "ok",
-      "label": "radi",
-      "count": 10,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-079",
       "name": "NASA Breaking News",
       "category": "znanost",
@@ -1710,6 +1710,17 @@
       "error": ""
     },
     {
+      "id": "src-124",
+      "name": "Highsnobiety",
+      "category": "lifestyle",
+      "url": "https://www.highsnobiety.com/feed/",
+      "status": "ok",
+      "label": "radi",
+      "count": 9,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-025",
       "name": "Our World in Data",
       "category": "ekonomija",
@@ -1725,6 +1736,17 @@
       "name": "Retail Dive",
       "category": "trzista",
       "url": "https://www.retaildive.com/feeds/news/",
+      "status": "ok",
+      "label": "radi",
+      "count": 9,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "src-160",
+      "name": "Worn & Wound",
+      "category": "satovi",
+      "url": "https://wornandwound.com/feed/",
       "status": "ok",
       "label": "radi",
       "count": 9,
@@ -1930,10 +1952,10 @@
       "error": ""
     },
     {
-      "id": "extra-care-002",
-      "name": "MindBodyGreen",
-      "category": "lifestyle",
-      "url": "https://www.mindbodygreen.com/rss.xml",
+      "id": "src-098",
+      "name": "MuseumNext",
+      "category": "kultura",
+      "url": "https://www.museumnext.com/feed/",
       "status": "empty",
       "label": "prazan feed",
       "count": 0,
@@ -2392,17 +2414,6 @@
       "error": "The read operation timed out"
     },
     {
-      "id": "extra-beauty-003",
-      "name": "NewBeauty",
-      "category": "lifestyle",
-      "url": "https://www.newbeauty.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "The read operation timed out"
-    },
-    {
       "id": "src-018",
       "name": "OECD Newsroom",
       "category": "ekonomija",
@@ -2466,7 +2477,7 @@
       "label": "problem",
       "count": 0,
       "score": 20,
-      "error": "HTTP Error 404: Not Found"
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "src-008",
@@ -2588,17 +2599,6 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "src-160",
-      "name": "Worn & Wound",
-      "category": "satovi",
-      "url": "https://wornandwound.com/feed/",
-      "status": "failed",
-      "label": "problem",
-      "count": 0,
-      "score": 20,
-      "error": "The read operation timed out"
     }
   ]
 }
