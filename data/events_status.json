@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-30T09:26:09.178130+00:00",
+  "updated_at": "2026-05-30T16:18:30.166170+00:00",
   "sources": 69,
   "ok_sources": 12,
-  "events_count": 167,
+  "events_count": 168,
   "results": [
     {
       "id": "infozagreb-events",
@@ -565,8 +565,9 @@
       "country": "Ujedinjeno Kraljevstvo",
       "city": "London",
       "type": "galerija / izložbe",
-      "status": "ok",
-      "count": 8
+      "status": "fallback",
+      "count": 1,
+      "error": "HTTP Error 520: <none>"
     },
     {
       "id": "british-museum",
@@ -658,8 +659,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "program_link_only",
-      "count": 1
+      "status": "ok",
+      "count": 9
     },
     {
       "id": "uffizi",
