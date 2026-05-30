@@ -1,22 +1,5 @@
 [
   {
-    "id": "bbe66b5724ab4d8c",
-    "title": "Izložbe / . - . Otvorena izložba „Na Sljeme! Priče sa Zagrebačke gore“",
-    "date": "2026-05-28",
-    "datetime": "2026-05-28T00:00:00+00:00",
-    "country": "Hrvatska",
-    "city": "Zagreb",
-    "venue": "Muzej grada Zagreba",
-    "institution": "Muzej grada Zagreba",
-    "type": "muzej",
-    "source": "Muzej grada Zagreba",
-    "url": "https://www.mgz.hr/hr/izlozbe/izlozba/otvorena-izlozba-%e2%80%9ena-sljeme!-pri%c4%8de-sa-zagreba%c4%8dke-gore%e2%80%9c,3818.html",
-    "description": "",
-    "image": null,
-    "program_link_only": false,
-    "fetched_at": "2026-05-29T21:05:07.352798+00:00"
-  },
-  {
     "id": "60e81f591db9bd82",
     "title": "Program: National Gallery of Victoria",
     "date": "2026-05-29",
@@ -1358,5 +1341,22 @@
     "image": null,
     "program_link_only": false,
     "fetched_at": "2026-05-29T21:05:47.109680+00:00"
+  },
+  {
+    "id": "2bcb76e6bf98a82b",
+    "title": "Bibliothèque nationale de France, Paris Screening and performance Récital de Chiara Civello Is part of Céline Sciamma \u0000 From 3pm Soon",
+    "date": "2026-06-07",
+    "datetime": "2026-06-07T00:00:00+00:00",
+    "country": "Francuska",
+    "city": "Pariz",
+    "venue": "Centre Pompidou",
+    "institution": "Centre Pompidou",
+    "type": "muzej / izložbe",
+    "source": "Centre Pompidou",
+    "url": "https://www.centrepompidou.fr/en/program/calendar/event/NjM01nj",
+    "description": "",
+    "image": null,
+    "program_link_only": false,
+    "fetched_at": "2026-05-29T21:06:14.677050+00:00"
   }
 ]
