@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-30T20:20:33.780280+00:00",
+  "updated_at": "2026-05-31T00:17:24.974703+00:00",
   "sources": 69,
   "ok_sources": 12,
-  "events_count": 167,
+  "events_count": 175,
   "results": [
     {
       "id": "infozagreb-events",
@@ -232,7 +232,7 @@
       "city": "London",
       "type": "kazalište / West End",
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     {
       "id": "royal-opera-house",
@@ -333,9 +333,8 @@
       "country": "Francuska",
       "city": "Pariz",
       "type": "kazalište / premijere",
-      "status": "fallback",
-      "count": 1,
-      "error": "<urlopen error timed out>"
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "opera-paris",
@@ -659,8 +658,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "program_link_only",
-      "count": 1
+      "status": "ok",
+      "count": 10
     },
     {
       "id": "uffizi",
@@ -669,7 +668,7 @@
       "country": "Italija",
       "city": "Firenca",
       "type": "galerija / izložbe",
-      "status": "ok",
+      "status": "program_link_only",
       "count": 1
     },
     {
