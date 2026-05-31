@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-31T00:17:24.974703+00:00",
+  "updated_at": "2026-05-31T16:45:02.593468+00:00",
   "sources": 69,
-  "ok_sources": 12,
-  "events_count": 175,
+  "ok_sources": 13,
+  "events_count": 167,
   "results": [
     {
       "id": "infozagreb-events",
@@ -127,7 +127,7 @@
       "country": "Hrvatska",
       "city": "Zagreb",
       "type": "galerija / izložbe",
-      "status": "program_link_only",
+      "status": "ok",
       "count": 1
     },
     {
@@ -168,8 +168,8 @@
       "country": "Hrvatska",
       "city": "Hrvatska",
       "type": "film",
-      "status": "program_link_only",
-      "count": 1
+      "status": "ok",
+      "count": 2
     },
     {
       "id": "zagreb-film-festival",
@@ -271,8 +271,9 @@
       "country": "SAD",
       "city": "New York",
       "type": "kazalište / Broadway / premijere",
-      "status": "program_link_only",
-      "count": 1
+      "status": "fallback",
+      "count": 1,
+      "error": "The read operation timed out"
     },
     {
       "id": "broadway-com",
@@ -658,8 +659,8 @@
       "country": "Nizozemska",
       "city": "Amsterdam",
       "type": "muzej / izložbe",
-      "status": "ok",
-      "count": 10
+      "status": "program_link_only",
+      "count": 1
     },
     {
       "id": "uffizi",
