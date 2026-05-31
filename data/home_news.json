@@ -9,7 +9,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 27 May 2026",
-    "fetched_at": "2026-05-31T15:06:54.307953+00:00"
+    "fetched_at": "2026-05-31T19:51:49.075393+00:00"
   },
   {
     "id": "a85a64336941fc6a",
@@ -138,7 +138,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 26 May 2026",
-    "fetched_at": "2026-05-31T15:06:54.308055+00:00"
+    "fetched_at": "2026-05-31T19:51:49.075473+00:00"
   },
   {
     "id": "261a06eb053dd60a",
@@ -150,7 +150,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 26 May 2026",
-    "fetched_at": "2026-05-31T15:06:54.308148+00:00"
+    "fetched_at": "2026-05-31T19:51:49.075556+00:00"
   },
   {
     "id": "77cb9bc8323d1bff",
@@ -214,19 +214,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-31T15:06:54.304450+00:00"
-  },
-  {
-    "id": "f8748bc33f7edf1c",
-    "title": "Rewiring software delivery for the agentic era",
-    "description": "The way agentic AI is being used in software development is a harbinger for broader changes in the delivery model.",
-    "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/rewiring-software-delivery-for-the-agentic-era",
-    "image": "https://picsum.photos/seed/wv-news-bddbda3bc92a/1200/750",
-    "source": "McKinsey Insights",
-    "source_id": "src-004",
-    "category": "poslovanje",
-    "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-31T15:06:54.304536+00:00"
+    "fetched_at": "2026-05-31T19:51:49.069707+00:00"
   },
   {
     "id": "4ed23e12aea69e77",
@@ -238,7 +226,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-31T15:06:54.304615+00:00"
+    "fetched_at": "2026-05-31T19:51:49.069785+00:00"
+  },
+  {
+    "id": "f8748bc33f7edf1c",
+    "title": "Rewiring software delivery for the agentic era",
+    "description": "The way agentic AI is being used in software development is a harbinger for broader changes in the delivery model.",
+    "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/rewiring-software-delivery-for-the-agentic-era",
+    "image": "https://picsum.photos/seed/wv-news-bddbda3bc92a/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Thu, 28 May 2026",
+    "fetched_at": "2026-05-31T19:51:49.069856+00:00"
   },
   {
     "id": "855f317876d8b8d7",
@@ -250,7 +250,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-31T15:06:54.304702+00:00"
+    "fetched_at": "2026-05-31T19:51:49.075179+00:00"
   },
   {
     "id": "1a4c16ea1a696b03",
@@ -262,7 +262,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-31T15:06:54.304806+00:00"
+    "fetched_at": "2026-05-31T19:51:49.075302+00:00"
   },
   {
     "id": "867b4ad72bbda8b6",
@@ -404,7 +404,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Sun, 31 May 2026",
-    "fetched_at": "2026-05-31T15:06:54.304052+00:00"
+    "fetched_at": "2026-05-31T19:51:49.069303+00:00"
   },
   {
     "id": "9c42284ad4cba0dc",
@@ -467,7 +467,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 29 May 2026",
-    "fetched_at": "2026-05-31T15:06:54.304160+00:00"
+    "fetched_at": "2026-05-31T19:51:49.069428+00:00"
   },
   {
     "id": "435122711e93d588",
@@ -479,7 +479,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 29 May 2026",
-    "fetched_at": "2026-05-31T15:06:54.304252+00:00"
+    "fetched_at": "2026-05-31T19:51:49.069520+00:00"
   },
   {
     "id": "6a1435c0664bb268",
@@ -491,7 +491,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 29 May 2026",
-    "fetched_at": "2026-05-31T15:06:54.304331+00:00"
+    "fetched_at": "2026-05-31T19:51:49.069601+00:00"
   },
   {
     "id": "84ace186e5f355e1",
@@ -558,84 +558,6 @@
     "image_policy": "bez_izvorne_fotografije"
   },
   {
-    "id": "ce26f58aa78558c0",
-    "title": "„Ne želim od rajčice praviti jagodu“",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - gastronomija. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/ne-zelim-od-rajcice-praviti-jagodu/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2024/08/Galić-5copy-1024x683.jpg",
-    "source": "Symbol Quorum - gastronomija",
-    "source_id": "extra-symbol-gastronomija",
-    "category": "pica",
-    "published_at": "2026-05-31T15:07:10.328798+00:00",
-    "fetched_at": "2026-05-31T15:07:10.328801+00:00",
-    "html_source": true
-  },
-  {
-    "id": "7f4973a84f95b081",
-    "title": "Ljubav su vina, a vina su Galić",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - gastronomija. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/ljubav-su-vina-a-vina-su-galic/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2024/12/IMG_3045-1024x985.jpeg",
-    "source": "Symbol Quorum - gastronomija",
-    "source_id": "extra-symbol-gastronomija",
-    "category": "pica",
-    "published_at": "2026-05-31T15:07:10.328677+00:00",
-    "fetched_at": "2026-05-31T15:07:10.328680+00:00",
-    "html_source": true
-  },
-  {
-    "id": "33b00f32ddd778de",
-    "title": "Srž Mediterana, snaga tradicije",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - gastronomija. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/srz-mediterana-snaga-tradicije/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/03/Le-Premier_Mesek_Mislav_MSK_0097-1024x682.jpg",
-    "source": "Symbol Quorum - gastronomija",
-    "source_id": "extra-symbol-gastronomija",
-    "category": "pica",
-    "published_at": "2026-05-31T15:07:10.328559+00:00",
-    "fetched_at": "2026-05-31T15:07:10.328561+00:00",
-    "html_source": true
-  },
-  {
-    "id": "204951faeb994f61",
-    "title": "Chef za zadovoljne goste",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - gastronomija. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/chef-za-zadovoljne-goste/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/07/01-velika-1.jpg",
-    "source": "Symbol Quorum - gastronomija",
-    "source_id": "extra-symbol-gastronomija",
-    "category": "pica",
-    "published_at": "2026-05-31T15:07:10.328440+00:00",
-    "fetched_at": "2026-05-31T15:07:10.328443+00:00",
-    "html_source": true
-  },
-  {
-    "id": "aee28030d16ccbdb",
-    "title": "Chef koji se vratio kući",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - gastronomija. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/chef-koji-se-vratio-kuci/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/mrmr2-1024x849.jpg",
-    "source": "Symbol Quorum - gastronomija",
-    "source_id": "extra-symbol-gastronomija",
-    "category": "pica",
-    "published_at": "2026-05-31T15:07:10.328264+00:00",
-    "fetched_at": "2026-05-31T15:07:10.328267+00:00",
-    "html_source": true
-  },
-  {
-    "id": "7e53b9116c33b471",
-    "title": "„Stav i emocija temelji su ugostiteljstva”",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - gastronomija. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/stav-i-emocija-temelji-su-ugostiteljstva/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/mrmr2-1024x849.jpg",
-    "source": "Symbol Quorum - gastronomija",
-    "source_id": "extra-symbol-gastronomija",
-    "category": "pica",
-    "published_at": "2026-05-31T15:07:10.328144+00:00",
-    "fetched_at": "2026-05-31T15:07:10.328151+00:00",
-    "html_source": true
-  },
-  {
     "id": "2e0af54d8d40a2e9",
     "title": "„Živjeti bolje, duže i sretnije – to je naš cilj i motivacija”",
     "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
@@ -644,8 +566,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-31T15:07:10.326002+00:00",
-    "fetched_at": "2026-05-31T15:07:10.326005+00:00",
+    "published_at": "2026-05-31T19:52:03.458266+00:00",
+    "fetched_at": "2026-05-31T19:52:03.458269+00:00",
     "html_source": true
   },
   {
@@ -657,8 +579,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-31T15:07:10.325877+00:00",
-    "fetched_at": "2026-05-31T15:07:10.325881+00:00",
+    "published_at": "2026-05-31T19:52:03.458158+00:00",
+    "fetched_at": "2026-05-31T19:52:03.458160+00:00",
     "html_source": true
   },
   {
@@ -670,8 +592,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-31T15:07:10.325597+00:00",
-    "fetched_at": "2026-05-31T15:07:10.325600+00:00",
+    "published_at": "2026-05-31T19:52:03.457931+00:00",
+    "fetched_at": "2026-05-31T19:52:03.457934+00:00",
     "html_source": true
   },
   {
@@ -683,8 +605,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-31T15:07:10.325475+00:00",
-    "fetched_at": "2026-05-31T15:07:10.325478+00:00",
+    "published_at": "2026-05-31T19:52:03.457811+00:00",
+    "fetched_at": "2026-05-31T19:52:03.457814+00:00",
     "html_source": true
   },
   {
@@ -696,8 +618,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-31T15:07:10.325290+00:00",
-    "fetched_at": "2026-05-31T15:07:10.325293+00:00",
+    "published_at": "2026-05-31T19:52:03.457652+00:00",
+    "fetched_at": "2026-05-31T19:52:03.457654+00:00",
     "html_source": true
   },
   {
@@ -709,8 +631,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-31T15:07:10.325158+00:00",
-    "fetched_at": "2026-05-31T15:07:10.325164+00:00",
+    "published_at": "2026-05-31T19:52:03.457527+00:00",
+    "fetched_at": "2026-05-31T19:52:03.457540+00:00",
     "html_source": true
   },
   {
@@ -722,8 +644,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T15:07:10.322218+00:00",
-    "fetched_at": "2026-05-31T15:07:10.322220+00:00",
+    "published_at": "2026-05-31T19:52:03.438834+00:00",
+    "fetched_at": "2026-05-31T19:52:03.438836+00:00",
     "html_source": true
   },
   {
@@ -735,8 +657,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T15:07:10.322103+00:00",
-    "fetched_at": "2026-05-31T15:07:10.322106+00:00",
+    "published_at": "2026-05-31T19:52:03.438731+00:00",
+    "fetched_at": "2026-05-31T19:52:03.438734+00:00",
     "html_source": true
   },
   {
@@ -748,8 +670,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T15:07:10.321984+00:00",
-    "fetched_at": "2026-05-31T15:07:10.321987+00:00",
+    "published_at": "2026-05-31T19:52:03.438624+00:00",
+    "fetched_at": "2026-05-31T19:52:03.438627+00:00",
     "html_source": true
   },
   {
@@ -761,8 +683,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T15:07:10.321862+00:00",
-    "fetched_at": "2026-05-31T15:07:10.321865+00:00",
+    "published_at": "2026-05-31T19:52:03.438518+00:00",
+    "fetched_at": "2026-05-31T19:52:03.438521+00:00",
     "html_source": true
   },
   {
@@ -774,8 +696,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T15:07:10.321725+00:00",
-    "fetched_at": "2026-05-31T15:07:10.321728+00:00",
+    "published_at": "2026-05-31T19:52:03.438412+00:00",
+    "fetched_at": "2026-05-31T19:52:03.438415+00:00",
     "html_source": true
   },
   {
@@ -787,8 +709,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T15:07:10.321596+00:00",
-    "fetched_at": "2026-05-31T15:07:10.321599+00:00",
+    "published_at": "2026-05-31T19:52:03.438299+00:00",
+    "fetched_at": "2026-05-31T19:52:03.438301+00:00",
     "html_source": true
   },
   {
@@ -800,8 +722,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T15:07:10.321472+00:00",
-    "fetched_at": "2026-05-31T15:07:10.321475+00:00",
+    "published_at": "2026-05-31T19:52:03.438188+00:00",
+    "fetched_at": "2026-05-31T19:52:03.438191+00:00",
     "html_source": true
   },
   {
@@ -813,8 +735,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T15:07:10.321270+00:00",
-    "fetched_at": "2026-05-31T15:07:10.321277+00:00",
+    "published_at": "2026-05-31T19:52:03.438002+00:00",
+    "fetched_at": "2026-05-31T19:52:03.438012+00:00",
     "html_source": true
   },
   {
@@ -826,8 +748,8 @@
     "source": "Symbol Quorum - lifestyle",
     "source_id": "extra-symbol-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-31T15:07:10.034523+00:00",
-    "fetched_at": "2026-05-31T15:07:10.034526+00:00",
+    "published_at": "2026-05-31T19:52:03.427381+00:00",
+    "fetched_at": "2026-05-31T19:52:03.427384+00:00",
     "html_source": true
   },
   {
@@ -839,8 +761,8 @@
     "source": "Symbol Quorum - lifestyle",
     "source_id": "extra-symbol-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-31T15:07:10.034400+00:00",
-    "fetched_at": "2026-05-31T15:07:10.034403+00:00",
+    "published_at": "2026-05-31T19:52:03.427268+00:00",
+    "fetched_at": "2026-05-31T19:52:03.427271+00:00",
     "html_source": true
   },
   {
@@ -852,8 +774,8 @@
     "source": "Symbol Quorum - lifestyle",
     "source_id": "extra-symbol-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-31T15:07:10.034271+00:00",
-    "fetched_at": "2026-05-31T15:07:10.034274+00:00",
+    "published_at": "2026-05-31T19:52:03.427148+00:00",
+    "fetched_at": "2026-05-31T19:52:03.427151+00:00",
     "html_source": true
   },
   {
@@ -865,8 +787,8 @@
     "source": "Symbol Quorum - lifestyle",
     "source_id": "extra-symbol-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-31T15:07:10.034138+00:00",
-    "fetched_at": "2026-05-31T15:07:10.034141+00:00",
+    "published_at": "2026-05-31T19:52:03.427024+00:00",
+    "fetched_at": "2026-05-31T19:52:03.427027+00:00",
     "html_source": true
   },
   {
@@ -878,47 +800,125 @@
     "source": "Symbol Quorum - lifestyle",
     "source_id": "extra-symbol-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-31T15:07:10.034002+00:00",
-    "fetched_at": "2026-05-31T15:07:10.034013+00:00",
+    "published_at": "2026-05-31T19:52:03.426890+00:00",
+    "fetched_at": "2026-05-31T19:52:03.426904+00:00",
     "html_source": true
   },
   {
-    "id": "e2f5735cd083cf49",
-    "title": "Putovanja INSTA(NT) TRAVEL: Pastirsko naselje i zadivljujuć pogled s Velike planine prekrivene šafranima",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - lifestyle. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/putovanja/velika-planina-slovenija-putovanje/",
-    "image": "https://www.journal.hr/wp-content/uploads/2023/04/Collage-Maker-08-Apr-2023-10-50-AM-5052-768x403.jpg",
-    "source": "Journal.hr - lifestyle",
-    "source_id": "extra-journal-lifestyle",
-    "category": "lifestyle",
-    "published_at": "2026-05-31T15:07:04.378874+00:00",
-    "fetched_at": "2026-05-31T15:07:04.378878+00:00",
+    "id": "ce26f58aa78558c0",
+    "title": "„Ne želim od rajčice praviti jagodu“",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - gastronomija. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/ne-zelim-od-rajcice-praviti-jagodu/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2024/08/Galić-5copy-1024x683.jpg",
+    "source": "Symbol Quorum - gastronomija",
+    "source_id": "extra-symbol-gastronomija",
+    "category": "pica",
+    "published_at": "2026-05-31T19:52:03.222607+00:00",
+    "fetched_at": "2026-05-31T19:52:03.222610+00:00",
     "html_source": true
   },
   {
-    "id": "9bab54b2957d9156",
-    "title": "Putovanja INSTA(NT) TRAVEL: Donosimo 5 super ideja kamo otići na izlet za Prvi maj",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - lifestyle. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/putovanja/vikend-izleti-prvi-maj/",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/04/Prvi-maj_izleti_julie-jensen-dupe-768x1021.jpeg",
-    "source": "Journal.hr - lifestyle",
-    "source_id": "extra-journal-lifestyle",
-    "category": "lifestyle",
-    "published_at": "2026-05-31T15:07:04.378732+00:00",
-    "fetched_at": "2026-05-31T15:07:04.378735+00:00",
+    "id": "7f4973a84f95b081",
+    "title": "Ljubav su vina, a vina su Galić",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - gastronomija. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/ljubav-su-vina-a-vina-su-galic/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2024/12/IMG_3045-1024x985.jpeg",
+    "source": "Symbol Quorum - gastronomija",
+    "source_id": "extra-symbol-gastronomija",
+    "category": "pica",
+    "published_at": "2026-05-31T19:52:03.222504+00:00",
+    "fetched_at": "2026-05-31T19:52:03.222506+00:00",
     "html_source": true
   },
   {
-    "id": "43827029ec58a870",
-    "title": "Putovanja INSTA(NT) TRAVEL: Trg u obliku školjke i tajne srednjovjekovnog grada u Toskani koji morate doživjeti",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - lifestyle. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/lifestyle/putovanja/siena-toskana-italija/",
-    "image": "https://www.journal.hr/wp-content/uploads/2026/01/siena-768x432.png",
-    "source": "Journal.hr - lifestyle",
-    "source_id": "extra-journal-lifestyle",
-    "category": "lifestyle",
-    "published_at": "2026-05-31T15:07:04.378626+00:00",
-    "fetched_at": "2026-05-31T15:07:04.378629+00:00",
+    "id": "33b00f32ddd778de",
+    "title": "Srž Mediterana, snaga tradicije",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - gastronomija. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/srz-mediterana-snaga-tradicije/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/03/Le-Premier_Mesek_Mislav_MSK_0097-1024x682.jpg",
+    "source": "Symbol Quorum - gastronomija",
+    "source_id": "extra-symbol-gastronomija",
+    "category": "pica",
+    "published_at": "2026-05-31T19:52:03.222405+00:00",
+    "fetched_at": "2026-05-31T19:52:03.222407+00:00",
+    "html_source": true
+  },
+  {
+    "id": "204951faeb994f61",
+    "title": "Chef za zadovoljne goste",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - gastronomija. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/chef-za-zadovoljne-goste/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/07/01-velika-1.jpg",
+    "source": "Symbol Quorum - gastronomija",
+    "source_id": "extra-symbol-gastronomija",
+    "category": "pica",
+    "published_at": "2026-05-31T19:52:03.222302+00:00",
+    "fetched_at": "2026-05-31T19:52:03.222305+00:00",
+    "html_source": true
+  },
+  {
+    "id": "aee28030d16ccbdb",
+    "title": "Chef koji se vratio kući",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - gastronomija. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/chef-koji-se-vratio-kuci/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/mrmr2-1024x849.jpg",
+    "source": "Symbol Quorum - gastronomija",
+    "source_id": "extra-symbol-gastronomija",
+    "category": "pica",
+    "published_at": "2026-05-31T19:52:03.222149+00:00",
+    "fetched_at": "2026-05-31T19:52:03.222151+00:00",
+    "html_source": true
+  },
+  {
+    "id": "7e53b9116c33b471",
+    "title": "„Stav i emocija temelji su ugostiteljstva”",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - gastronomija. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/stav-i-emocija-temelji-su-ugostiteljstva/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2026/01/mrmr2-1024x849.jpg",
+    "source": "Symbol Quorum - gastronomija",
+    "source_id": "extra-symbol-gastronomija",
+    "category": "pica",
+    "published_at": "2026-05-31T19:52:03.222031+00:00",
+    "fetched_at": "2026-05-31T19:52:03.222045+00:00",
+    "html_source": true
+  },
+  {
+    "id": "9dbdb41664cf8fe5",
+    "title": "Glazba Čeka nas uzbudljivo ljeto: Popisali smo sve glazbene festivale koji se održavaju u Hrvatskoj",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/glazba/glazbeni-festivali-u-hrvatskoj-2026/",
+    "image": "https://www.journal.hr/wp-content/uploads/2026/03/glazbeni-festivali-u-hrvatskoj-2-768x512.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-31T19:51:57.158838+00:00",
+    "fetched_at": "2026-05-31T19:51:57.158840+00:00",
+    "html_source": true
+  },
+  {
+    "id": "eaac744531491a3d",
+    "title": "Glazba Uskoro nam počinje Zagreb Classic, jedna od omiljenih glazbenih manifestacija u glavnom gradu",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/glazba/zagreb-classic-2026/",
+    "image": "https://www.journal.hr/wp-content/uploads/2023/06/Zagreb-Classic-S.-Ceric-Kovacevic-1-768x512.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-31T19:51:57.158743+00:00",
+    "fetched_at": "2026-05-31T19:51:57.158745+00:00",
+    "html_source": true
+  },
+  {
+    "id": "6ccf12db97748607",
+    "title": "Glazba Popisali smo sve koncerte u Zagrebu koji nas za sad očekuju do kraja godine",
+    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://www.journal.hr/kultura/glazba/koncerti-u-zagrebu-2026/",
+    "image": "https://www.journal.hr/wp-content/uploads/2025/11/Jakov-Jozinovic_Denis-Butorac_Journal-20-768x512.jpg",
+    "source": "Journal.hr - kultura",
+    "source_id": "extra-journal-kultura",
+    "category": "kultura",
+    "published_at": "2026-05-31T19:51:57.158646+00:00",
+    "fetched_at": "2026-05-31T19:51:57.158649+00:00",
     "html_source": true
   }
 ]
