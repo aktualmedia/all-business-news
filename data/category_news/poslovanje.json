@@ -9,7 +9,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 27 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.075393+00:00"
+    "fetched_at": "2026-05-31T23:52:58.526404+00:00"
   },
   {
     "id": "a85a64336941fc6a",
@@ -138,7 +138,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 26 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.075473+00:00"
+    "fetched_at": "2026-05-31T23:52:58.526457+00:00"
   },
   {
     "id": "261a06eb053dd60a",
@@ -150,7 +150,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 26 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.075556+00:00"
+    "fetched_at": "2026-05-31T23:52:58.526512+00:00"
   },
   {
     "id": "77cb9bc8323d1bff",
@@ -214,7 +214,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.069707+00:00"
+    "fetched_at": "2026-05-31T23:52:58.526123+00:00"
   },
   {
     "id": "4ed23e12aea69e77",
@@ -226,7 +226,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.069785+00:00"
+    "fetched_at": "2026-05-31T23:52:58.526178+00:00"
   },
   {
     "id": "f8748bc33f7edf1c",
@@ -238,19 +238,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.069856+00:00"
-  },
-  {
-    "id": "855f317876d8b8d7",
-    "title": "An update on US consumer sentiment: Gloomier outlook ahead of sunnier days",
-    "description": "Ahead of the summer season, a smaller share of US consumers reported optimism while a greater share reported cost concerns, which could impact their spending across discretionary categories. Here’s the latest research from our ConsumerWise team.",
-    "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-state-of-the-us-consumer",
-    "image": "https://picsum.photos/seed/wv-news-335b832bc118/1200/750",
-    "source": "McKinsey Insights",
-    "source_id": "src-004",
-    "category": "poslovanje",
-    "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.075179+00:00"
+    "fetched_at": "2026-05-31T23:52:58.526229+00:00"
   },
   {
     "id": "1a4c16ea1a696b03",
@@ -262,7 +250,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.075302+00:00"
+    "fetched_at": "2026-05-31T23:52:58.526291+00:00"
+  },
+  {
+    "id": "855f317876d8b8d7",
+    "title": "An update on US consumer sentiment: Gloomier outlook ahead of sunnier days",
+    "description": "Ahead of the summer season, a smaller share of US consumers reported optimism while a greater share reported cost concerns, which could impact their spending across discretionary categories. Here’s the latest research from our ConsumerWise team.",
+    "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-state-of-the-us-consumer",
+    "image": "https://picsum.photos/seed/wv-news-335b832bc118/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Thu, 28 May 2026",
+    "fetched_at": "2026-05-31T23:52:58.526349+00:00"
   },
   {
     "id": "867b4ad72bbda8b6",
@@ -404,7 +404,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Sun, 31 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.069303+00:00"
+    "fetched_at": "2026-05-31T23:52:58.525858+00:00"
   },
   {
     "id": "9c42284ad4cba0dc",
@@ -467,7 +467,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 29 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.069428+00:00"
+    "fetched_at": "2026-05-31T23:52:58.525933+00:00"
   },
   {
     "id": "435122711e93d588",
@@ -479,7 +479,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 29 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.069520+00:00"
+    "fetched_at": "2026-05-31T23:52:58.525994+00:00"
   },
   {
     "id": "6a1435c0664bb268",
@@ -491,7 +491,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 29 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.069601+00:00"
+    "fetched_at": "2026-05-31T23:52:58.526051+00:00"
   },
   {
     "id": "84ace186e5f355e1",
@@ -566,8 +566,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-31T19:52:03.458266+00:00",
-    "fetched_at": "2026-05-31T19:52:03.458269+00:00",
+    "published_at": "2026-05-31T23:53:11.314712+00:00",
+    "fetched_at": "2026-05-31T23:53:11.314715+00:00",
     "html_source": true
   },
   {
@@ -579,8 +579,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-31T19:52:03.458158+00:00",
-    "fetched_at": "2026-05-31T19:52:03.458160+00:00",
+    "published_at": "2026-05-31T23:53:11.314590+00:00",
+    "fetched_at": "2026-05-31T23:53:11.314593+00:00",
     "html_source": true
   },
   {
@@ -592,8 +592,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-31T19:52:03.457931+00:00",
-    "fetched_at": "2026-05-31T19:52:03.457934+00:00",
+    "published_at": "2026-05-31T23:53:11.314332+00:00",
+    "fetched_at": "2026-05-31T23:53:11.314335+00:00",
     "html_source": true
   },
   {
@@ -605,8 +605,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-31T19:52:03.457811+00:00",
-    "fetched_at": "2026-05-31T19:52:03.457814+00:00",
+    "published_at": "2026-05-31T23:53:11.314212+00:00",
+    "fetched_at": "2026-05-31T23:53:11.314215+00:00",
     "html_source": true
   },
   {
@@ -618,8 +618,8 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-31T19:52:03.457652+00:00",
-    "fetched_at": "2026-05-31T19:52:03.457654+00:00",
+    "published_at": "2026-05-31T23:53:11.314025+00:00",
+    "fetched_at": "2026-05-31T23:53:11.314028+00:00",
     "html_source": true
   },
   {
@@ -631,9 +631,249 @@
     "source": "Symbol Quorum - poduzetništvo",
     "source_id": "extra-symbol-poduzetnistvo",
     "category": "poslovanje",
-    "published_at": "2026-05-31T19:52:03.457527+00:00",
-    "fetched_at": "2026-05-31T19:52:03.457540+00:00",
+    "published_at": "2026-05-31T23:53:11.313890+00:00",
+    "fetched_at": "2026-05-31T23:53:11.313897+00:00",
     "html_source": true
+  },
+  {
+    "id": "ffdaa18843033a8c",
+    "title": "NYT Strands Answers Today: Hints & Clues For Monday, June 1 (Shall We Gather For Lunch?)",
+    "description": "Looking for help with today's NYT Strands puzzle? Here's an extra hint to help you uncover the right words, as well as all of today's answers and Spangram.",
+    "url": "https://www.forbes.com/sites/erikkain/2026/05/31/nyt-strands-answers-monday-june-1/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/661994c1a11cd45a738c205f/0x0.jpg?width=960",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T23:39:39+00:00",
+    "fetched_at": "2026-05-31T23:52:58.173776+00:00"
+  },
+  {
+    "id": "a308c602078c88fc",
+    "title": "Here’s Why ‘Euphoria’ Season 4 Is Likely Not Happening",
+    "description": "As the \"Euphoria\" Season 3 finale airs tonight, the show's future has never been more uncertain. Here's why a fourth season likely isn't coming.",
+    "url": "https://www.forbes.com/sites/monicamercuri/2026/05/31/heres-why-euphoria-season-4-is-likely-not-happening/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1c4d79d831093a0cece7e5/0x0.jpg?width=960",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T23:00:47+00:00",
+    "fetched_at": "2026-05-31T23:52:58.174411+00:00"
+  },
+  {
+    "id": "20aa1416af199aff",
+    "title": "MotoGP drivers at NYSE set the scene for upcoming Grand Prix in Texas",
+    "description": "MotoGP drivers at NYSE set the scene for upcoming Grand Prix in Texas",
+    "url": "https://qz.com/motogp-drivers-nyse-texas-grand-prix",
+    "image": "https://picsum.photos/seed/wv-news-40d71baaf790/1200/750",
+    "source": "Quartz",
+    "source_id": "src-015",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T22:20:06+00:00",
+    "fetched_at": "2026-05-31T23:52:58.203456+00:00"
+  },
+  {
+    "id": "45c23bef8ca99ddf",
+    "title": "Trade Body Reveals The Theme Park With The Highest Attendance Growth. And It Isn’t Disney",
+    "description": "Data from amusement industry trade body TEA has revealed the theme park that experienced the greatest growth in the past 20 years. Surprisingly, Disney’s name is not over the door.",
+    "url": "https://www.forbes.com/sites/carolinereid/2026/05/31/trade-body-reveals-the-theme-park-with-the-highest-attendance-growth-and-it-isnt-disney/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1ca789f1b05b3baeaec26d/0x0.jpg",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T21:52:22+00:00",
+    "fetched_at": "2026-05-31T23:52:58.174556+00:00"
+  },
+  {
+    "id": "2df894e37d7e6c57",
+    "title": "Beyond Dashcams: Motive Edge AI Unlocks New Future For Fleet Vehicles",
+    "description": "The next AI revolution may not be in the cloud. It's happening inside fleet vehicles, where Motive's smart dashcams are preventing crashes and cutting risk.",
+    "url": "https://www.forbes.com/sites/jamesmorris/2026/05/31/beyond-dashcams-motive-edge-ai-unlocks-new-future-for-fleet-vehicles/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1c73f771a4c3b37f302ab8/0x0.jpg",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T21:46:44+00:00",
+    "fetched_at": "2026-05-31T23:53:01.168131+00:00"
+  },
+  {
+    "id": "c76439cffc1801db",
+    "title": "2 Signs Your Partner Has Long-Term Material, By A Psychologist",
+    "description": "Do you and your partner have what it takes to build a relationship that stands the test of time? Here are two strong, research-backed ways to tell.",
+    "url": "https://www.forbes.com/sites/traversmark/2026/05/31/2-signs-your-partner-has-long-term-material-by-a-psychologist/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1ca43a0bd26846c3e32a98/0x0.jpg?width=960&precrop=1865%2C1050%2Cx0%2Cy121",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T21:15:44+00:00",
+    "fetched_at": "2026-05-31T23:53:01.168204+00:00"
+  },
+  {
+    "id": "057be39476243f25",
+    "title": "Apple iOS 27 Release Date: When You Can Download And Test The New iPhone Update",
+    "description": "Apple’s next iPhone software is highly anticipated, bringing the first sight of the new Siri upgrade, for a start. Here’s the schedule for when to expect it.",
+    "url": "https://www.forbes.com/sites/davidphelan/2026/05/31/apple-ios-27-release-date-when-you-can-download-and-test-the-new-iphone-update/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/68eb70cab1a8496225a0acd5/0x0.jpg",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T21:11:28+00:00",
+    "fetched_at": "2026-05-31T23:53:01.168273+00:00"
+  },
+  {
+    "id": "f5c75b2aed3952d2",
+    "title": "The Weekend Hollywood Stopped Pretending Not To See YouTube",
+    "description": "Backrooms shattered A24's record. Obsession beat Star Wars. Two Sleepy People sold to mk2. Three films from YouTube creators just remade the box office.",
+    "url": "https://www.forbes.com/sites/tylerchou/2026/05/31/the-weekend-hollywood-stopped-pretending-not-to-see-youtube/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1c7a401e67e9e16bdcfa0e/0x0.jpg",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T21:00:17+00:00",
+    "fetched_at": "2026-05-31T23:53:01.168334+00:00"
+  },
+  {
+    "id": "bc8c07ed67651e88",
+    "title": "Platner’s Wife Blasts Reporting Over His Alleged Sexting—While Cory Booker Has ‘Concerns’",
+    "description": "Platner’s wife called reports of the sexually explicit texts “shameful.”",
+    "url": "https://www.forbes.com/sites/tylerroush/2026/05/31/platners-wife-blasts-reporting-over-his-alleged-sexting-while-cory-booker-has-concerns/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1c9f5403ba0d451ea03b01/0x0.jpg?width=960&precrop=2236%2C1258%2Cx0%2Cy0",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T20:52:01+00:00",
+    "fetched_at": "2026-05-31T23:52:58.174683+00:00"
+  },
+  {
+    "id": "eeaeae8ceeb999f4",
+    "title": "WWE Clash In Italy 2026 Results, Winners And Grades On May 31",
+    "description": "WWE Clash in Italy 2026 PLE results, winners and grades from Turin.",
+    "url": "https://www.forbes.com/sites/alfredkonuwa/2026/05/31/wwe-clash-in-italy-2026-results-winners-and-grades-on-may-31/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1c569f18b76e91cfe7d4cb/0x0.jpg",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T20:49:04+00:00",
+    "fetched_at": "2026-05-31T23:52:58.174787+00:00"
+  },
+  {
+    "id": "6d8648627675db94",
+    "title": "Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims",
+    "description": "Respected analyst Ming-Chi Kuo has reported that the next iPhone camera will have a variable aperture lens, but the manufacturing cost will be much higher.",
+    "url": "https://www.forbes.com/sites/davidphelan/2026/05/31/apple-iphone-18-pro-to-debut-camera-upgrade---and-cost-50-more-to-make-analyst-claims/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a12d844e7094e1d46ef443b/0x0.jpg?width=960",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T20:41:23+00:00",
+    "fetched_at": "2026-05-31T23:53:01.168398+00:00"
+  },
+  {
+    "id": "1faba4adea5d1a75",
+    "title": "How D-Day Drama ‘Pressure’ Managed To Step Out Of ‘Saving Private Ryan’s Shadow",
+    "description": "A ticking-clock thriller about the days leading up to the Allied invasion of Normandy in June 1944, 'Pressure' is now playing in theaters.",
+    "url": "https://www.forbes.com/sites/joshweiss/2026/05/31/how-d-day-drama-pressure-managed-to-step-out-saving-private-ryans-shadow/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1c4f7b1bda5e7d2fcd7e38/0x0.jpg?width=960&precrop=2940%2C1653%2Cx0%2Cy0",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T20:36:22+00:00",
+    "fetched_at": "2026-05-31T23:52:58.174950+00:00"
+  },
+  {
+    "id": "19fd7091b6385437",
+    "title": "Holy Atmosphere, Batman: Playing ‘Arkham Asylum’ For The First Time",
+    "description": "Sometimes you've got to go back before you can go forward.",
+    "url": "https://www.forbes.com/sites/mitchwallace/2026/05/31/holy-atmosphere-batman-playing-arkham-asylum-for-the-first-time/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1c97f4a8c6f0eb5cee1cec/0x0.jpg",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T20:29:03+00:00",
+    "fetched_at": "2026-05-31T23:53:01.168463+00:00"
+  },
+  {
+    "id": "ba61ded1f339be50",
+    "title": "How Can I Watch The NBA Finals? Schedule, Times And TV Channel",
+    "description": "The start time, TV channel, and watch guide for the NBA Finals featuring the New York Knicks and San Antonio Spurs. Game 1 is June 3 at 8:30 p.m. ET on ABC.",
+    "url": "https://www.forbes.com/sites/markjburns/2026/05/31/how-can-i-watch-the-nba-finals-schedule-times-and-tv-channel/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1c914012b7f62ef96efa9a/0x0.jpg",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T20:18:44+00:00",
+    "fetched_at": "2026-05-31T23:52:58.175060+00:00"
+  },
+  {
+    "id": "5feb3d59684a8b8d",
+    "title": "Spurs’ Rapid Ascension To NBA Finals Spells Doom For The Rest Of The League",
+    "description": "Not only are the Spurs well ahead of schedule thanks to Victor Wembanyama, but this might be the worst that they are for the next few seasons.",
+    "url": "https://www.forbes.com/sites/bryantoporek/2026/05/31/spurs-rapid-ascension-to-nba-finals-spells-doom-for-the-rest-of-the-league/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1c936039a1fea8bf485ccd/0x0.jpg",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T20:04:40+00:00",
+    "fetched_at": "2026-05-31T23:52:58.175217+00:00"
+  },
+  {
+    "id": "10633bcdd08c7f91",
+    "title": "U.S. Men’s Soccer Team Gets Timely Image Enhancement In Documentaries",
+    "description": "Two documentary series on U.S. soccer show the struggles the men's team and the sport as a whole has faced, recasting them as classic underdog worthy of fan support.",
+    "url": "https://www.forbes.com/sites/beaudure/2026/05/31/us-mens-soccer-team-gets-timely-image-enhancement-in-documentaries/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1c9282dc80893f87848c20/0x0.jpg?width=960&precrop=3000%2C1687%2Cx0%2Cy143",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T19:59:41+00:00",
+    "fetched_at": "2026-05-31T23:52:58.175337+00:00"
+  },
+  {
+    "id": "0ff3b3e300d18f9f",
+    "title": "Diamond Ring Or Nosebleed Seat? Knicks Finals Tickets Cost More Than Manhattan Rent, Mortgages, More",
+    "description": "The Knicks are in the NBA Finals for the first time since 1999, drawing high demand for seats inside Madison Square Garden.",
+    "url": "https://www.forbes.com/sites/tylerroush/2026/05/31/diamond-ring-or-nosebleed-seat-knicks-finals-tickets-cost-more-than-manhattan-rent-mortgages-more/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1c8f986537e1c510096590/0x0.jpg?width=960&precrop=2312%2C1301%2Cx0%2Cy77",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T19:45:25+00:00",
+    "fetched_at": "2026-05-31T23:52:58.175446+00:00"
+  },
+  {
+    "id": "9b3401b9b341821f",
+    "title": "What K-Pop Can Teach Every Business About Market Creation",
+    "description": "What a deaf K-pop group, Seoul's first permanent Auracast installation, and a jazz club reveal about culture, accessibility, and market creation.",
+    "url": "https://www.forbes.com/sites/billschiffmiller/2026/05/31/what-k-pop-can-teach-every-business-about-market-creation/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1c3de3f462d33df8ef6123/0x0.jpg",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T19:32:42+00:00",
+    "fetched_at": "2026-05-31T23:53:01.168521+00:00"
+  },
+  {
+    "id": "b767642d3be84377",
+    "title": "I Fed 25 Years Of My Journal Entries To AI",
+    "description": "I Fed 25 Years Of My Journal Entries To AI. Here Is What I Found. The Author uses AI to create the prompt and then runs the prompt again his 25 year personal journal",
+    "url": "https://www.forbes.com/sites/paulbaier/2026/05/31/i-fed-25-years-of-my-journal-entries-to-ai/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a04827be2c9f98a1da3cff0/0x0.jpg?width=960&precrop=1254%2C1254%2Cx0%2Cy0",
+    "source": "Forbes Innovation",
+    "source_id": "src-135",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T19:25:13+00:00",
+    "fetched_at": "2026-05-31T23:53:01.168579+00:00"
+  },
+  {
+    "id": "4ba9f4662cf39759",
+    "title": "Bo Bichette Sends Blue Jays’ Vladimir Guerrero Jr Message With Mets Move ‘Not Going Well’",
+    "description": "The Toronto Blue Jays’s former superstar spoke out about the team’s franchise slugger as the New York Mets struggle.",
+    "url": "https://www.forbes.com/sites/peterchawaga/2026/05/31/bo-bichette-sends-blue-jays-vladimir-guerrero-jr-message-with-mets-move-not-going-well/",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1c893826ec38317faa0eff/0x0.jpg?width=960&precrop=4095%2C2304%2Cx0%2Cy71",
+    "source": "Forbes Business",
+    "source_id": "src-011",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T19:18:18+00:00",
+    "fetched_at": "2026-05-31T23:52:58.175564+00:00"
   },
   {
     "id": "c67289e9e8222735",
@@ -645,7 +885,7 @@
     "source_id": "src-011",
     "category": "poslovanje",
     "published_at": "2026-05-31T18:57:40+00:00",
-    "fetched_at": "2026-05-31T19:51:48.870387+00:00"
+    "fetched_at": "2026-05-31T23:52:58.175678+00:00"
   },
   {
     "id": "d79d44485f45e6f3",
@@ -657,7 +897,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-31T18:50:03+00:00",
-    "fetched_at": "2026-05-31T19:51:52.424349+00:00"
+    "fetched_at": "2026-05-31T23:53:01.168636+00:00"
   },
   {
     "id": "93d46f9b3688cca3",
@@ -681,7 +921,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-31T18:30:00+00:00",
-    "fetched_at": "2026-05-31T19:51:52.424428+00:00"
+    "fetched_at": "2026-05-31T23:53:01.168702+00:00"
   },
   {
     "id": "cdce989a9a6f2509",
@@ -693,7 +933,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-31T18:28:25+00:00",
-    "fetched_at": "2026-05-31T19:51:52.424493+00:00"
+    "fetched_at": "2026-05-31T23:53:01.168767+00:00"
   },
   {
     "id": "29aace1757fe0839",
@@ -708,6 +948,18 @@
     "fetched_at": "2026-05-31T19:51:48.870535+00:00"
   },
   {
+    "id": "51ab7428e7b4bda5",
+    "title": "How to stop procrastinating with just one word",
+    "description": "Below, Jon Acuff shares five key insights from his new book, Procrastination Proof: Never Get Stuck Again . Acuff is a New York Times bestselling author of 12 books. He was named one of Inc. ’s Top 100 Leadership Speakers, and has delivered keynotes to companies such as Microsoft, Walmart, and Comedy Central. On his podcast, All It Takes Is a Goal , Acuff inspires hundreds of thousands of people to finish what matters most. What’s the big idea? Most people fail to reach their full potential not because they lack ability, but because procrastination, fear, and the search for permission prevent them from turning their intentions into consistent action. Listen to the audio version of this Book Bite—read by Acuff himself—in the Next Big Idea app , or buy the book . 1. No one is doing “the best they can.” You see this expressed online sometimes. They post that, “Oh, everyone is doing the best",
+    "url": "https://www.fastcompany.com/91547321/how-to-stop-procrastinating-with-just-one-word",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-91547321-procrastination-proof.jpg",
+    "source": "Fast Company",
+    "source_id": "src-014",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T18:00:00+00:00",
+    "fetched_at": "2026-05-31T23:52:58.289698+00:00"
+  },
+  {
     "id": "7588084503c01a38",
     "title": "Today’s NYT Connections Hints And Answers For Monday, June 1",
     "description": "Looking for today's NYT Connections hints? Some help and the answers for today's game are right here to help keep your streak alive.",
@@ -717,7 +969,7 @@
     "source_id": "src-135",
     "category": "poslovanje",
     "published_at": "2026-05-31T18:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:52.424555+00:00"
+    "fetched_at": "2026-05-31T23:53:01.168858+00:00"
   },
   {
     "id": "42700a577158aaa0",
@@ -766,6 +1018,18 @@
     "category": "poslovanje",
     "published_at": "2026-05-31T17:17:11+00:00",
     "fetched_at": "2026-05-31T19:51:52.424721+00:00"
+  },
+  {
+    "id": "dcef0511a8d01590",
+    "title": "Texas is becoming America Inc’s centre of gravity - The Economist",
+    "description": "Texas is becoming America Inc’s centre of gravity The Economist",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSU5JUEJhSkFCMUxDVXo4V2lieW91azF0WTVBWnFrSlR5VVc3bXEyYVpZbVp3bmt4ODVacHN1SHJMVVVPbFZNWEE1dHgwdU96eGlsakpnc3FhUWlZQ3dxdzR6em80VDJpQ2Mwd0lUeXBGblZnUm5LNmVBWG03VzE3V0JoQUVjOFpqdzR3bUdVM0NEc1Yza0hTQTFB?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-aaaa56c629c9/1200/750",
+    "source": "The Economist Business - Google News",
+    "source_id": "global-extra-003",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T17:16:46+00:00",
+    "fetched_at": "2026-05-31T23:53:02.843599+00:00"
   },
   {
     "id": "f08bb349059b20d7",
@@ -876,6 +1140,18 @@
     "fetched_at": "2026-05-31T19:51:48.871068+00:00"
   },
   {
+    "id": "0b6d5afa56662b6d",
+    "title": "Stablecoin demand may soon fade, BoE's Greene says - Reuters",
+    "description": "Stablecoin demand may soon fade, BoE's Greene says Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RKY1lIZEwtYzlBSXN2Mkx2RU9YYXVqZmlFaWZ5V2piVTRyWWtud0E4UXByUzh2RU94WGZ2R3RVallTTmhkakFVQ21scXI4X3hMOThkT3BxSHp3UzBjaV8tLUFvcEUzbUpRX1JMNkMtTmpyeEZvWFFjQmR5R2ZXc21MejVHZGV5cFVyZVpUclRudkdOWkhQV1hoODdnZ2tNTHF3?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-8da839b4fcd7/1200/750",
+    "source": "Reuters Business - Google News",
+    "source_id": "global-extra-002",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T15:30:09+00:00",
+    "fetched_at": "2026-05-31T23:53:02.748604+00:00"
+  },
+  {
     "id": "4166cc8065429772",
     "title": "Increase Science Literacy — Use R&D Labels On All Products",
     "description": "If the science and technology that went into making a product were included on the label, could that increase science literacy?",
@@ -946,6 +1222,18 @@
     "category": "poslovanje",
     "published_at": "2026-05-31T14:00:00+00:00",
     "fetched_at": "2026-05-31T15:06:54.271255+00:00"
+  },
+  {
+    "id": "2624514961ba7835",
+    "title": "Fed’s Waller Says Stablecoins to Broaden Reach of US Policy - Bloomberg.com",
+    "description": "Fed’s Waller Says Stablecoins to Broaden Reach of US Policy Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUEw3dWVTSFdPY0dSSTkxWF9EWnYtejF4WlBqeDV6UHpsWTZDMHhZRkNTU2FzanQ4WnF1ektGbVZyaW55Qy1BUWgtOVFGbmp0Nm1KYXlyMmhEWk5BNF9aVHZSZUhZYUJhLTU2ZkI4eDRvS0hXWnJOdjYwOFlMN0FWNkNobFFQQy12MWgwakhOYWVIMlp3dlpVd0xMY202TkJ0cVc2MW1lS0ZiN1FTS0NEWFRR?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-2e8766f03f81/1200/750",
+    "source": "Bloomberg Hrvatska - poslovanje",
+    "source_id": "extra-bloomberg-hr-001",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T13:59:47+00:00",
+    "fetched_at": "2026-05-31T23:53:04.683098+00:00"
   },
   {
     "id": "489ab09ca0010b9c",
@@ -1137,7 +1425,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-31T11:10:55+00:00",
-    "fetched_at": "2026-05-31T19:51:48.888788+00:00"
+    "fetched_at": "2026-05-31T23:52:58.203563+00:00"
   },
   {
     "id": "46d5b83f91c5e524",
@@ -1173,7 +1461,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-31T11:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.013379+00:00"
+    "fetched_at": "2026-05-31T23:52:58.290712+00:00"
   },
   {
     "id": "cd974b9523c61b38",
@@ -1234,18 +1522,6 @@
     "category": "poslovanje",
     "published_at": "2026-05-31T10:27:29+00:00",
     "fetched_at": "2026-05-31T11:49:02.226930+00:00"
-  },
-  {
-    "id": "057be39476243f25",
-    "title": "Apple iOS 27 Release Date: When You Can Download And Test The New iPhone Update",
-    "description": "Apple’s next iPhone software is highly anticipated, bringing the first sight of the new Siri upgrade, for a start. Here’s the schedule for when to expect it.",
-    "url": "https://www.forbes.com/sites/davidphelan/2026/05/31/apple-ios-27-release-date-when-you-can-download-and-test-the-new-iphone-update/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/68eb70cab1a8496225a0acd5/0x0.jpg",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-31T10:16:22+00:00",
-    "fetched_at": "2026-05-31T15:06:58.492980+00:00"
   },
   {
     "id": "b0c23e3c571fedc8",
@@ -1317,7 +1593,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-31T09:14:06+00:00",
-    "fetched_at": "2026-05-31T19:51:48.888897+00:00"
+    "fetched_at": "2026-05-31T23:52:58.203651+00:00"
   },
   {
     "id": "08f13e9a538fe363",
@@ -1329,7 +1605,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-31T09:12:07+00:00",
-    "fetched_at": "2026-05-31T19:51:48.888971+00:00"
+    "fetched_at": "2026-05-31T23:52:58.203730+00:00"
   },
   {
     "id": "58bdb16d9eb118c3",
@@ -1341,7 +1617,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-31T09:11:54+00:00",
-    "fetched_at": "2026-05-31T19:51:48.889040+00:00"
+    "fetched_at": "2026-05-31T23:52:58.204164+00:00"
   },
   {
     "id": "d83e9e9725b1f8eb",
@@ -1353,7 +1629,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-31T09:10:35+00:00",
-    "fetched_at": "2026-05-31T19:51:48.889111+00:00"
+    "fetched_at": "2026-05-31T23:52:58.204291+00:00"
   },
   {
     "id": "1fa77235750c39c2",
@@ -1365,7 +1641,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-31T09:10:24+00:00",
-    "fetched_at": "2026-05-31T19:51:48.889185+00:00"
+    "fetched_at": "2026-05-31T23:52:58.204402+00:00"
   },
   {
     "id": "8de0ff76d4f724b6",
@@ -1437,7 +1713,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-31T08:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.013825+00:00"
+    "fetched_at": "2026-05-31T23:52:58.296353+00:00"
   },
   {
     "id": "086d6a08a63f2d1d",
@@ -1449,7 +1725,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-31T08:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.014629+00:00"
+    "fetched_at": "2026-05-31T23:52:58.297221+00:00"
   },
   {
     "id": "e1cbee85a5a41b58",
@@ -1497,7 +1773,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-31T06:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.015400+00:00"
+    "fetched_at": "2026-05-31T23:52:58.298024+00:00"
   },
   {
     "id": "61a29832cc78cb8d",
@@ -1581,7 +1857,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-31T03:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.020666+00:00"
+    "fetched_at": "2026-05-31T23:52:58.298768+00:00"
   },
   {
     "id": "6722dcbebfeba8bf",
@@ -1593,7 +1869,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-31T03:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.021583+00:00"
+    "fetched_at": "2026-05-31T23:52:58.301619+00:00"
   },
   {
     "id": "457d0d61d4dc232b",
@@ -1761,7 +2037,7 @@
     "source_id": "global-extra-002",
     "category": "poslovanje",
     "published_at": "2026-05-30T20:59:43+00:00",
-    "fetched_at": "2026-05-31T19:51:54.152465+00:00"
+    "fetched_at": "2026-05-31T23:53:02.748512+00:00"
   },
   {
     "id": "32c9996cb1a8cace",
@@ -1857,7 +2133,7 @@
     "source_id": "global-extra-001",
     "category": "poslovanje",
     "published_at": "2026-05-30T18:39:31+00:00",
-    "fetched_at": "2026-05-31T19:51:54.498371+00:00"
+    "fetched_at": "2026-05-31T23:53:02.911361+00:00"
   },
   {
     "id": "7f1d834e32f01102",
@@ -2025,7 +2301,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-30T14:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.133363+00:00"
+    "fetched_at": "2026-05-31T23:52:58.542910+00:00"
   },
   {
     "id": "5380fb28346ac319",
@@ -2229,7 +2505,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-30T12:11:01+00:00",
-    "fetched_at": "2026-05-31T19:51:48.889265+00:00"
+    "fetched_at": "2026-05-31T23:52:58.204505+00:00"
   },
   {
     "id": "08224c0420b6f51f",
@@ -2241,7 +2517,7 @@
     "source_id": "extra-bloomberg-hr-001",
     "category": "poslovanje",
     "published_at": "2026-05-30T11:43:52+00:00",
-    "fetched_at": "2026-05-31T19:51:56.192260+00:00"
+    "fetched_at": "2026-05-31T23:53:04.683006+00:00"
   },
   {
     "id": "3a1835de9415480b",
@@ -2253,7 +2529,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-30T11:33:44+00:00",
-    "fetched_at": "2026-05-31T19:51:48.889338+00:00"
+    "fetched_at": "2026-05-31T23:52:58.204610+00:00"
   },
   {
     "id": "edcebb042c13cb9f",
@@ -2337,19 +2613,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-30T10:24:36+00:00",
-    "fetched_at": "2026-05-31T19:51:48.889416+00:00"
-  },
-  {
-    "id": "334c374112db8195",
-    "title": "Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims",
-    "description": "Respected analyst Ming-Chi Kuo has reported that the next iPhone camera will have a variable aperture lens, but the manufacturing cost will be much higher.",
-    "url": "https://www.forbes.com/sites/davidphelan/2026/05/30/apple-iphone-18-pro-to-debut-camera-upgrade---and-cost-50-more-to-make-analyst-claims/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/68eb70cab1a8496225a0acd5/0x0.jpg",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-30T10:00:34+00:00",
-    "fetched_at": "2026-05-30T12:14:17.951450+00:00"
+    "fetched_at": "2026-05-31T23:52:58.204734+00:00"
   },
   {
     "id": "43e17e5774385e3f",
@@ -2397,7 +2661,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-30T09:12:30+00:00",
-    "fetched_at": "2026-05-31T19:51:48.889486+00:00"
+    "fetched_at": "2026-05-31T23:52:58.204885+00:00"
   },
   {
     "id": "8dbf027f9314ec9d",
@@ -2409,7 +2673,7 @@
     "source_id": "src-015",
     "category": "poslovanje",
     "published_at": "2026-05-30T09:12:15+00:00",
-    "fetched_at": "2026-05-31T19:51:48.889552+00:00"
+    "fetched_at": "2026-05-31T23:52:58.205001+00:00"
   },
   {
     "id": "3178ef1888bd0f38",
@@ -2457,7 +2721,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-30T09:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.022561+00:00"
+    "fetched_at": "2026-05-31T23:52:58.302549+00:00"
   },
   {
     "id": "47872bea3d9ba496",
@@ -2469,7 +2733,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-30T09:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.022821+00:00"
+    "fetched_at": "2026-05-31T23:52:58.302800+00:00"
   },
   {
     "id": "7980db3d1181be36",
@@ -2529,7 +2793,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-30T08:15:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.024169+00:00"
+    "fetched_at": "2026-05-31T23:52:58.303132+00:00"
   },
   {
     "id": "56b33749c299831d",
@@ -2541,7 +2805,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-30T08:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.024827+00:00"
+    "fetched_at": "2026-05-31T23:52:58.303751+00:00"
   },
   {
     "id": "aa1dc5f56d66d0b4",
@@ -2553,7 +2817,7 @@
     "source_id": "src-014",
     "category": "poslovanje",
     "published_at": "2026-05-30T08:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.025951+00:00"
+    "fetched_at": "2026-05-31T23:52:58.307884+00:00"
   },
   {
     "id": "19fefe2cee8c1316",
@@ -2805,7 +3069,7 @@
     "source_id": "global-extra-002",
     "category": "poslovanje",
     "published_at": "2026-05-29T23:48:00+00:00",
-    "fetched_at": "2026-05-31T19:51:54.152769+00:00"
+    "fetched_at": "2026-05-31T23:53:02.749069+00:00"
   },
   {
     "id": "a6bd7ddf411d4459",
@@ -2889,7 +3153,7 @@
     "source_id": "global-extra-002",
     "category": "poslovanje",
     "published_at": "2026-05-29T23:07:16+00:00",
-    "fetched_at": "2026-05-31T19:51:54.152696+00:00"
+    "fetched_at": "2026-05-31T23:53:02.748799+00:00"
   },
   {
     "id": "dd88e932fe20a3e3",
@@ -2937,7 +3201,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-29T22:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.133781+00:00"
+    "fetched_at": "2026-05-31T23:52:58.543256+00:00"
   },
   {
     "id": "a6becdba5d3a8ba8",
@@ -3009,7 +3273,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-29T20:50:27+00:00",
-    "fetched_at": "2026-05-31T19:51:48.821824+00:00"
+    "fetched_at": "2026-05-31T23:52:58.254147+00:00"
   },
   {
     "id": "0853b4d3ded18199",
@@ -3081,7 +3345,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-29T20:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.134150+00:00"
+    "fetched_at": "2026-05-31T23:52:58.543582+00:00"
   },
   {
     "id": "f4094aa2a6fa6511",
@@ -3093,7 +3357,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-29T20:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.134252+00:00"
+    "fetched_at": "2026-05-31T23:52:58.543678+00:00"
   },
   {
     "id": "0a7f2c6c2206b6b8",
@@ -3117,7 +3381,7 @@
     "source_id": "global-extra-002",
     "category": "poslovanje",
     "published_at": "2026-05-29T19:50:05+00:00",
-    "fetched_at": "2026-05-31T19:51:54.152928+00:00"
+    "fetched_at": "2026-05-31T23:53:02.749143+00:00"
   },
   {
     "id": "cdd5733c0f13082a",
@@ -3153,7 +3417,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-29T19:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.133536+00:00"
+    "fetched_at": "2026-05-31T23:52:58.543050+00:00"
   },
   {
     "id": "59daea8083430922",
@@ -3165,7 +3429,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-29T19:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.134368+00:00"
+    "fetched_at": "2026-05-31T23:52:58.543781+00:00"
   },
   {
     "id": "86be85dabdb2888e",
@@ -3189,7 +3453,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-29T18:53:51+00:00",
-    "fetched_at": "2026-05-31T19:51:49.134484+00:00"
+    "fetched_at": "2026-05-31T23:52:58.543939+00:00"
   },
   {
     "id": "a37cb6ac1a700eab",
@@ -3273,7 +3537,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-29T18:30:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.133649+00:00"
+    "fetched_at": "2026-05-31T23:52:58.543143+00:00"
   },
   {
     "id": "7924da447a3dba2a",
@@ -3345,7 +3609,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-29T18:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.133930+00:00"
+    "fetched_at": "2026-05-31T23:52:58.543376+00:00"
   },
   {
     "id": "421ad825a28e4e0d",
@@ -3465,7 +3729,7 @@
     "source_id": "global-extra-001",
     "category": "poslovanje",
     "published_at": "2026-05-29T17:00:57+00:00",
-    "fetched_at": "2026-05-31T19:51:54.499093+00:00"
+    "fetched_at": "2026-05-31T23:53:02.911898+00:00"
   },
   {
     "id": "5c50c51851455560",
@@ -3477,7 +3741,7 @@
     "source_id": "src-012",
     "category": "poslovanje",
     "published_at": "2026-05-29T17:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:49.134030+00:00"
+    "fetched_at": "2026-05-31T23:52:58.543468+00:00"
   },
   {
     "id": "e9de4eaad87a5065",
@@ -3609,7 +3873,7 @@
     "source_id": "global-extra-002",
     "category": "poslovanje",
     "published_at": "2026-05-29T15:57:39+00:00",
-    "fetched_at": "2026-05-31T19:51:54.152998+00:00"
+    "fetched_at": "2026-05-31T23:53:02.749219+00:00"
   },
   {
     "id": "9239669fdc3d0116",
@@ -4329,7 +4593,7 @@
     "source_id": "extra-bloomberg-hr-001",
     "category": "poslovanje",
     "published_at": "2026-05-29T07:00:00+00:00",
-    "fetched_at": "2026-05-31T19:51:56.192709+00:00"
+    "fetched_at": "2026-05-31T23:53:04.683605+00:00"
   },
   {
     "id": "9be2319dfc663d3a",
@@ -4485,7 +4749,7 @@
     "source_id": "extra-bloomberg-hr-001",
     "category": "poslovanje",
     "published_at": "2026-05-29T04:30:00+00:00",
-    "fetched_at": "2026-05-31T19:51:56.192089+00:00"
+    "fetched_at": "2026-05-31T23:53:04.682764+00:00"
   },
   {
     "id": "8c66c3c03b072c29",
@@ -4605,7 +4869,7 @@
     "source_id": "global-extra-001",
     "category": "poslovanje",
     "published_at": "2026-05-29T01:30:39+00:00",
-    "fetched_at": "2026-05-31T19:51:54.498698+00:00"
+    "fetched_at": "2026-05-31T23:53:02.911613+00:00"
   },
   {
     "id": "98cc04cf8ce03d4f",
@@ -4617,7 +4881,7 @@
     "source_id": "global-extra-002",
     "category": "poslovanje",
     "published_at": "2026-05-29T01:25:20+00:00",
-    "fetched_at": "2026-05-31T19:51:54.152545+00:00"
+    "fetched_at": "2026-05-31T23:53:02.748991+00:00"
   },
   {
     "id": "6c3d735ca8664f89",
@@ -4677,7 +4941,7 @@
     "source_id": "global-extra-002",
     "category": "poslovanje",
     "published_at": "2026-05-29T00:15:37+00:00",
-    "fetched_at": "2026-05-31T19:51:54.152844+00:00"
+    "fetched_at": "2026-05-31T23:53:02.748913+00:00"
   },
   {
     "id": "26fc6d18b6c3729f",
@@ -4797,7 +5061,7 @@
     "source_id": "global-extra-002",
     "category": "poslovanje",
     "published_at": "2026-05-28T20:08:00+00:00",
-    "fetched_at": "2026-05-31T19:51:54.153268+00:00"
+    "fetched_at": "2026-05-31T23:53:02.749452+00:00"
   },
   {
     "id": "88dd76d400f03d72",
@@ -5241,7 +5505,7 @@
     "source_id": "global-extra-003",
     "category": "poslovanje",
     "published_at": "2026-05-28T12:54:14+00:00",
-    "fetched_at": "2026-05-31T19:51:54.305224+00:00"
+    "fetched_at": "2026-05-31T23:53:02.843779+00:00"
   },
   {
     "id": "5ec6cf2e4997a4db",
@@ -5253,7 +5517,7 @@
     "source_id": "global-extra-003",
     "category": "poslovanje",
     "published_at": "2026-05-28T12:54:14+00:00",
-    "fetched_at": "2026-05-31T19:51:54.305584+00:00"
+    "fetched_at": "2026-05-31T23:53:02.844246+00:00"
   },
   {
     "id": "9e2b55646e18047c",
@@ -5277,7 +5541,7 @@
     "source_id": "global-extra-001",
     "category": "poslovanje",
     "published_at": "2026-05-28T11:30:04+00:00",
-    "fetched_at": "2026-05-31T19:51:54.498475+00:00"
+    "fetched_at": "2026-05-31T23:53:02.911454+00:00"
   },
   {
     "id": "6904d58e1a484306",
@@ -5289,7 +5553,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-05-28T11:00:15+00:00",
-    "fetched_at": "2026-05-31T19:51:48.937252+00:00"
+    "fetched_at": "2026-05-31T23:52:58.196778+00:00"
   },
   {
     "id": "f32b6d4a97693628",
@@ -5313,7 +5577,7 @@
     "source_id": "global-extra-001",
     "category": "poslovanje",
     "published_at": "2026-05-28T10:00:12+00:00",
-    "fetched_at": "2026-05-31T19:51:54.498830+00:00"
+    "fetched_at": "2026-05-31T23:53:02.911703+00:00"
   },
   {
     "id": "1ae35bff10e22318",
@@ -5325,7 +5589,7 @@
     "source_id": "global-extra-001",
     "category": "poslovanje",
     "published_at": "2026-05-28T09:55:14+00:00",
-    "fetched_at": "2026-05-31T19:51:54.499431+00:00"
+    "fetched_at": "2026-05-31T23:53:02.912054+00:00"
   },
   {
     "id": "f29f8e4ffe60cd8e",
@@ -5337,7 +5601,7 @@
     "source_id": "global-extra-003",
     "category": "poslovanje",
     "published_at": "2026-05-28T09:28:19+00:00",
-    "fetched_at": "2026-05-31T19:51:54.305726+00:00"
+    "fetched_at": "2026-05-31T23:53:02.844477+00:00"
   },
   {
     "id": "b97e5cb6ab6f5842",
@@ -5361,7 +5625,7 @@
     "source_id": "global-extra-003",
     "category": "poslovanje",
     "published_at": "2026-05-28T09:22:43+00:00",
-    "fetched_at": "2026-05-31T19:51:54.305141+00:00"
+    "fetched_at": "2026-05-31T23:53:02.843698+00:00"
   },
   {
     "id": "14d4d3838c1c5e3a",
@@ -5373,7 +5637,7 @@
     "source_id": "global-extra-003",
     "category": "poslovanje",
     "published_at": "2026-05-28T09:02:07+00:00",
-    "fetched_at": "2026-05-31T19:51:54.305795+00:00"
+    "fetched_at": "2026-05-31T23:53:02.844553+00:00"
   },
   {
     "id": "0402e7a7964f466e",
@@ -5385,7 +5649,7 @@
     "source_id": "global-extra-001",
     "category": "poslovanje",
     "published_at": "2026-05-28T04:00:43+00:00",
-    "fetched_at": "2026-05-30T20:17:49.337837+00:00"
+    "fetched_at": "2026-05-31T23:53:02.912126+00:00"
   },
   {
     "id": "d80b7b7c925730a8",
@@ -5397,7 +5661,7 @@
     "source_id": "global-extra-002",
     "category": "poslovanje",
     "published_at": "2026-05-28T02:27:00+00:00",
-    "fetched_at": "2026-05-31T19:51:54.153201+00:00"
+    "fetched_at": "2026-05-31T23:53:02.749377+00:00"
   },
   {
     "id": "7ade82d0049cf019",
@@ -5457,7 +5721,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-27T20:40:33+00:00",
-    "fetched_at": "2026-05-31T19:51:48.822007+00:00"
+    "fetched_at": "2026-05-31T23:52:58.254285+00:00"
   },
   {
     "id": "9ed3d6af57150efc",
@@ -5469,7 +5733,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-27T20:19:23+00:00",
-    "fetched_at": "2026-05-31T19:51:48.822135+00:00"
+    "fetched_at": "2026-05-31T23:52:58.254411+00:00"
   },
   {
     "id": "756aeda17387accb",
@@ -5481,7 +5745,7 @@
     "source_id": "global-extra-003",
     "category": "poslovanje",
     "published_at": "2026-05-27T20:15:17+00:00",
-    "fetched_at": "2026-05-31T19:51:54.305660+00:00"
+    "fetched_at": "2026-05-31T23:53:02.844330+00:00"
   },
   {
     "id": "a49614164511a770",
@@ -5493,7 +5757,7 @@
     "source_id": "global-extra-002",
     "category": "poslovanje",
     "published_at": "2026-05-27T18:40:01+00:00",
-    "fetched_at": "2026-05-31T19:51:54.153064+00:00"
+    "fetched_at": "2026-05-31T23:53:02.749294+00:00"
   },
   {
     "id": "595283842005811e",
@@ -5529,7 +5793,7 @@
     "source_id": "global-extra-001",
     "category": "poslovanje",
     "published_at": "2026-05-27T15:38:40+00:00",
-    "fetched_at": "2026-05-31T19:51:54.498590+00:00"
+    "fetched_at": "2026-05-31T23:53:02.911533+00:00"
   },
   {
     "id": "c2327a3ca57ec2cf",
@@ -5553,7 +5817,7 @@
     "source_id": "global-extra-003",
     "category": "poslovanje",
     "published_at": "2026-05-27T13:53:24+00:00",
-    "fetched_at": "2026-05-31T19:51:54.305307+00:00"
+    "fetched_at": "2026-05-31T23:53:02.843939+00:00"
   },
   {
     "id": "702089ce5e23b1c4",
@@ -5577,7 +5841,7 @@
     "source_id": "extra-bloomberg-hr-001",
     "category": "poslovanje",
     "published_at": "2026-05-27T11:30:00+00:00",
-    "fetched_at": "2026-05-31T19:51:56.192405+00:00"
+    "fetched_at": "2026-05-31T23:53:04.683262+00:00"
   },
   {
     "id": "39d451af8a17f270",
@@ -5589,7 +5853,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-05-27T11:00:09+00:00",
-    "fetched_at": "2026-05-31T19:51:48.937403+00:00"
+    "fetched_at": "2026-05-31T23:52:58.197009+00:00"
   },
   {
     "id": "9622acc614bb87ac",
@@ -5604,18 +5868,6 @@
     "fetched_at": "2026-05-29T07:38:12.154782+00:00"
   },
   {
-    "id": "82757bc579bb882a",
-    "title": "How Europe was made — and how America could unmake it - Financial Times",
-    "description": "How Europe was made — and how America could unmake it Financial Times",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0MDRNdzgxTkhyc2taX2ZuS01RTE5pV1VCVHFDRmRsemV2bk9xNVR2clJ2cEFiMEcwVVNkMzByVDBTWDkyUzY3LXZyUUtGZnZWZ0dTNUhnZzVrRHpDY1VhWjdmSXVEVmhtN3FYd2RwSG4?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-db356c0dde8e/1200/750",
-    "source": "FT Business - Google News",
-    "source_id": "global-extra-001",
-    "category": "poslovanje",
-    "published_at": "2026-05-27T04:01:33+00:00",
-    "fetched_at": "2026-05-31T19:51:54.498968+00:00"
-  },
-  {
     "id": "1284a7adb4e579b8",
     "title": "KPMG scouts Silicon Valley start-ups in bid to head off AI disruption - Financial Times",
     "description": "KPMG scouts Silicon Valley start-ups in bid to head off AI disruption Financial Times",
@@ -5625,7 +5877,19 @@
     "source_id": "global-extra-001",
     "category": "poslovanje",
     "published_at": "2026-05-27T04:01:33+00:00",
-    "fetched_at": "2026-05-30T12:14:20.474271+00:00"
+    "fetched_at": "2026-05-31T23:53:02.911254+00:00"
+  },
+  {
+    "id": "82757bc579bb882a",
+    "title": "How Europe was made — and how America could unmake it - Financial Times",
+    "description": "How Europe was made — and how America could unmake it Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0MDRNdzgxTkhyc2taX2ZuS01RTE5pV1VCVHFDRmRsemV2bk9xNVR2clJ2cEFiMEcwVVNkMzByVDBTWDkyUzY3LXZyUUtGZnZWZ0dTNUhnZzVrRHpDY1VhWjdmSXVEVmhtN3FYd2RwSG4?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-db356c0dde8e/1200/750",
+    "source": "FT Business - Google News",
+    "source_id": "global-extra-001",
+    "category": "poslovanje",
+    "published_at": "2026-05-27T04:01:33+00:00",
+    "fetched_at": "2026-05-31T23:53:02.911787+00:00"
   },
   {
     "id": "73a6354abe3b7735",
@@ -5649,7 +5913,19 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-26T20:51:38+00:00",
-    "fetched_at": "2026-05-31T19:51:48.822264+00:00"
+    "fetched_at": "2026-05-31T23:52:58.254530+00:00"
+  },
+  {
+    "id": "4bf01c15160263f5",
+    "title": "Marilyn Monroe and the dead-star business - The Economist",
+    "description": "Marilyn Monroe and the dead-star business The Economist",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVUFodlhEaHY5SklqME13NnZjOU1vX0lDbEJ1MC0tYWhwVF9kSWZnUThYRkRBU0dPVzJzeE9qNkNjZDZaREd0X0p0cUNNZUQwMER6T0lhdGh0THI5QkRpQ3pFMTJBa1YzakFWcFJCWERhWEYyZW5RcFdTUXV0Z1RsWjBJYlVVSW1zWW1lS01rTQ?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-11e98d270dde/1200/750",
+    "source": "The Economist Business - Google News",
+    "source_id": "global-extra-003",
+    "category": "poslovanje",
+    "published_at": "2026-05-26T16:10:04+00:00",
+    "fetched_at": "2026-05-31T23:53:02.844404+00:00"
   },
   {
     "id": "39b50e95f76106ab",
@@ -5673,7 +5949,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-26T15:55:07+00:00",
-    "fetched_at": "2026-05-31T19:51:48.822392+00:00"
+    "fetched_at": "2026-05-31T23:52:58.254643+00:00"
   },
   {
     "id": "5d6aa6b7104b4741",
@@ -5685,7 +5961,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-26T15:36:19+00:00",
-    "fetched_at": "2026-05-31T19:51:48.822523+00:00"
+    "fetched_at": "2026-05-31T23:52:58.254860+00:00"
   },
   {
     "id": "48af59235bf15e0b",
@@ -5697,7 +5973,7 @@
     "source_id": "src-002",
     "category": "poslovanje",
     "published_at": "2026-05-26T11:00:04+00:00",
-    "fetched_at": "2026-05-31T19:51:48.937545+00:00"
+    "fetched_at": "2026-05-31T23:52:58.197169+00:00"
   },
   {
     "id": "0ff643d0503af08b",
@@ -6156,7 +6432,7 @@
     "source_id": "global-extra-001",
     "category": "poslovanje",
     "published_at": "2026-05-25T04:01:16+00:00",
-    "fetched_at": "2026-05-31T19:51:54.499314+00:00"
+    "fetched_at": "2026-05-31T23:53:02.912209+00:00"
   },
   {
     "id": "b359b97b4b4845b7",
@@ -6348,7 +6624,7 @@
     "source_id": "global-extra-003",
     "category": "poslovanje",
     "published_at": "2026-05-24T20:13:59+00:00",
-    "fetched_at": "2026-05-31T19:51:54.305380+00:00"
+    "fetched_at": "2026-05-31T23:53:02.844020+00:00"
   },
   {
     "id": "c817bfe6f7046938",
@@ -9158,7 +9434,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-22T17:09:21+00:00",
-    "fetched_at": "2026-05-31T19:51:48.822644+00:00"
+    "fetched_at": "2026-05-31T23:52:58.255036+00:00"
   },
   {
     "id": "3862649ab7ba0ae8",
@@ -11335,7 +11611,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-21T19:08:14+00:00",
-    "fetched_at": "2026-05-31T19:51:48.822793+00:00"
+    "fetched_at": "2026-05-31T23:52:58.255234+00:00"
   },
   {
     "id": "14a682c2778be9a5",
@@ -11371,7 +11647,7 @@
     "source_id": "src-007",
     "category": "poslovanje",
     "published_at": "2026-05-21T18:59:24+00:00",
-    "fetched_at": "2026-05-31T19:51:48.822937+00:00"
+    "fetched_at": "2026-05-31T23:52:58.255386+00:00"
   },
   {
     "id": "f226a7e35cd5eec3",
@@ -11833,288 +12109,6 @@
     "category": "poslovanje",
     "published_at": "2026-05-21T17:16:03+00:00",
     "fetched_at": "2026-05-23T16:14:09.818406+00:00",
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "8c44b414096ad6d5",
-    "title": "DevOps Practices Tech Teams Must Strengthen In The AI Era",
-    "description": "Faster output doesn’t automatically mean better results, and DevOps discipline becomes more important, not less, as AI is integrated into the workflow.",
-    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/21/devops-practices-tech-teams-must-strengthen-in-the-ai-era/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f17d299b40e500b409d6b/0x0.jpg?width=960",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T17:15:37+00:00",
-    "fetched_at": "2026-05-21T18:30:35.367086+00:00"
-  },
-  {
-    "id": "0a25384ec1917a3b",
-    "title": "Shein And Everlane Combination Tests The Limits Of Sustainable Consumers",
-    "description": "Shein is considered one of, if not the most polluting fashion brands in the world. It is said to be acquiring Everlane, which has stood for sustainability and transparency.",
-    "url": "https://www.forbes.com/sites/sharonedelson/2026/05/21/shein-and-everlane-combination-tests-the-limits-of-sustainable-consumers/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0e0a6440babc25701a77c8/0x0.jpg",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T17:13:02+00:00",
-    "fetched_at": "2026-05-21T18:29:24.496964+00:00"
-  },
-  {
-    "id": "729901dd4032f590",
-    "title": "Aaron Carter Wrongful Death Settlement: Tragedy Meets Liability",
-    "description": "The lawsuit filed over Aaron Carter’s wrongful death has sparked wider debate over physician and pharmacy liability in overdose deaths.",
-    "url": "https://www.forbes.com/sites/legalentertainment/2026/05/21/aaron-carter-wrongful-death-settlement-tragedy-meets-liability/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f31e5355fc85a1a4cb0f8/0x0.jpg?width=960&precrop=3000%2C1686%2Cx0%2Cy35",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T17:12:29+00:00",
-    "fetched_at": "2026-05-21T18:29:24.497011+00:00"
-  },
-  {
-    "id": "8506fbd37597f1e4",
-    "title": "The End Of ‘Destiny 2’: All Expansions Canceled, Maintenance Mode Incoming",
-    "description": "Destiny 2 is dead. It will no longer produce content updates after this June, and will go into maintenance mode from here. The end of an era.",
-    "url": "https://www.forbes.com/sites/paultassi/2026/05/21/the-end-of-destiny-2-all-expansions-canceled-maintenance-mode-incoming/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f3a13ab8129afa83af5b1/0x0.jpg",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T17:11:50+00:00",
-    "fetched_at": "2026-05-21T18:30:35.367139+00:00"
-  },
-  {
-    "id": "64c4f2dd4bd99d54",
-    "title": "Canva is bringing its design tools inside Google Gemini, completing a sweep of major AI platforms",
-    "description": "The move completes Canva's integration across all four major AI assistants: Claude, ChatGPT, Microsoft Copilot, and Gemini",
-    "url": "https://qz.com/canva-google-gemini-design-integration-052126",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GeminixCanvaEditableAIimages.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T17:10:27+00:00",
-    "fetched_at": "2026-05-21T17:37:56.227397+00:00"
-  },
-  {
-    "id": "acb26c7defb7f38c",
-    "title": "‘The Mandalorian’ Series Recap Before You See ‘The Mandalorian And Grogu’ Plus Post-Credits Scene And More",
-    "description": "Everything you need to know before you go see The Mandalorian and Grogu in theaters this weekend.",
-    "url": "https://www.forbes.com/sites/erikkain/2026/05/21/the-mandalorian-and-grogu-star-wars-movie-recap-post-credits-scene/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f395a21cf53664eaa5943/0x0.jpg?width=960",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T17:06:37+00:00",
-    "fetched_at": "2026-05-21T18:29:24.497067+00:00"
-  },
-  {
-    "id": "3895296d3fa754a1",
-    "title": "Trump Postpones Hotly Anticipated AI Executive Order Over: ‘Didn’t Like Certain Aspects’",
-    "description": "The executive order would have established voluntary government vetting of artificial intelligence models before they were released to the public.",
-    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/05/21/trump-postpones-hotly-anticipated-ai-executive-order-over-didnt-like-certain-aspects/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f3a9e755f9b9ca9e3fee7/0x0.jpg?width=960&precrop=2455%2C1638%2Cx1%2Cy0",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T17:04:38+00:00",
-    "fetched_at": "2026-05-21T17:37:55.407716+00:00"
-  },
-  {
-    "id": "2492b5b133729e8d",
-    "title": "Exclusive: Modal Labs valued at $4.65 billion as AI coding takes off - Reuters",
-    "description": "Exclusive: Modal Labs valued at $4.65 billion as AI coding takes off Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTVnSjdhUW1qa1dLaXBJTHFQQS0wdXFYMnhtdWhqRzFhRGt5bm5FcUVjbFhkc0FzZENKTWRTZ1FlNDlJaDBlTllWNVJ0ZnZDSGpwdzFCTFlBR1VucmhGUDZqU1ZHdnBpVU5rMVRkbW1iTkVPWlN0MW1LR01zbkswSkNTcjJmTDFyZE44Uk1mSTB5aTVxeXlkUklR?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-63368a8de3fd/1200/750",
-    "source": "Reuters Business - Google News",
-    "source_id": "global-extra-002",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T17:03:58+00:00",
-    "fetched_at": "2026-05-22T22:18:10.890415+00:00",
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "bdf2414643602601",
-    "title": "A Pizza Hut franchisee is suing over a forced AI system it says wrecked deliveries",
-    "description": "Chaac Pizza Northeast says the Dragontail platform gave DoorDash drivers visibility into kitchen operations, causing delays and a sales collapse",
-    "url": "https://qz.com/pizza-hut-franchisee-lawsuit-dragontail-ai-delivery-052126",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2270790286.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T17:00:43+00:00",
-    "fetched_at": "2026-05-21T17:37:56.227451+00:00"
-  },
-  {
-    "id": "3955973d8ce7a413",
-    "title": "Why CEOs Often Push Back on Marketing Investment — and the Language Shift That Gets Budgets Approved",
-    "description": "The gap between marketing dashboards and boardroom decisions is behavioral, not strategic. Here's how to close it.",
-    "url": "https://www.entrepreneur.com/growing-a-business/the-communication-gap-costing-cmos-their-c-suite-influence/504246",
-    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/1778692490-marketing-investment-pushback-0526-g2231951943.jpg",
-    "source": "Entrepreneur",
-    "source_id": "src-012",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T17:00:00+00:00",
-    "fetched_at": "2026-05-22T18:17:28.821017+00:00"
-  },
-  {
-    "id": "9daa60b7a4be66ff",
-    "title": "How Does The Ending Of ‘The Boys’ Compare To The Comics?",
-    "description": "‘The Boys’ finale sees Butcher (Karl Urban) and Homelander (Antony Starr) in a final battle, but the ending of the comics is very different.",
-    "url": "https://www.forbes.com/sites/danidiplacido/2026/05/21/how-does-the-ending-of-the-boys-compare-to-the-comics/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f303b2d55bd3a4f5141dd/0x0.jpg?width=960",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T16:46:07+00:00",
-    "fetched_at": "2026-05-21T17:37:55.407809+00:00"
-  },
-  {
-    "id": "a74132a9c79a63c7",
-    "title": "Boll & Branch Expands Store Network To Blanket The Country In Luxury Sleep",
-    "description": "Premium home textiles brand Boll & Branch is expanding its retail network to reach 20 stores by year-end. In-store experiences are critical to success as luxury retailer.",
-    "url": "https://www.forbes.com/sites/pamdanziger/2026/05/21/boll--branch-expands-store-network-to-blanket-the-country-in-luxury-sleep/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f2aaa424f14202060395d/0x0.jpg",
-    "source": "Forbes Business",
-    "source_id": "src-011",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T16:45:46+00:00",
-    "fetched_at": "2026-05-21T17:37:55.407879+00:00"
-  },
-  {
-    "id": "810651b26a895137",
-    "title": "Fidelity Collective Buys Up Westone Audio And Etymotic Brands",
-    "description": "Two of the most respected names in the world of personal audio’s have been acquired by Fidelity Collective, headed by CEO Sam Rooney and COO Tal Kocen.",
-    "url": "https://www.forbes.com/sites/marksparrow/2026/05/21/fidelity-collective-buys-up-westone-audio-and-etymotic-brands/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/64d4faf375f5e9674db1ea49/0x0.jpg",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T16:45:21+00:00",
-    "fetched_at": "2026-05-21T18:30:35.367238+00:00"
-  },
-  {
-    "id": "bbaa4cfecc8be909",
-    "title": "Homebuilder confidence ticks up 3 points in May but stays in negative territory",
-    "description": "The NAHB/Wells Fargo Housing Market Index rose to 37, its 25th straight month below the break-even level of 50",
-    "url": "https://qz.com/nahb-homebuilder-confidence-index-may-2026-051826",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2239447670.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T16:40:42+00:00",
-    "fetched_at": "2026-05-21T17:37:56.227504+00:00"
-  },
-  {
-    "id": "25e8c4057b7b7652",
-    "title": "Oil prices are climbing again as Iran looks to keep its uranium",
-    "description": "Ayatollah Mojtaba Khamenei has ordered Iran's enriched uranium to remain in the country, complicating U.S. peace talks and squeezing global supply",
-    "url": "https://qz.com/iran-uranium-oil-prices-hormuz-trump-052126",
-    "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1250649650.jpg",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T16:40:23+00:00",
-    "fetched_at": "2026-05-21T17:37:56.227556+00:00"
-  },
-  {
-    "id": "f96f1195772d32c2",
-    "title": "Russia's NORSI refinery partially shut after drone attack, sources say - Reuters",
-    "description": "Russia's NORSI refinery partially shut after drone attack, sources say Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVE2TkloUnAyTkhkaXVVQ3JQX1c0a19TaUE2SzdTb21KVlZieTBFWnUtajVyTi00aS12Vm51dDFYY3hVSFp0d2xDaW84a2hxaDI1V3p5enR3dlR1WEdXUnhqTlZrb2tNMFRjYVVITmVERUF2YTd4ejBMdWt5Ylpsb204ZHpDdVJwNFJsTmkzQ3RrN2tuRVBRQ19YcW4yU1RBOV9TWXdXT2hfUHhKQ2J1Q2NYOUNRNUhSd1V2Mw?oc=5",
-    "image": "https://picsum.photos/seed/wv-news-0372fa97c9b4/1200/750",
-    "source": "Reuters Business - Google News",
-    "source_id": "global-extra-002",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T16:32:58+00:00",
-    "fetched_at": "2026-05-22T22:18:10.890341+00:00",
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "73168fe7d63fc3d1",
-    "title": "Why AI Profitability Belongs To Enterprise, Not Consumer Scale",
-    "description": "AI profitability favors enterprise over consumer scale. Anthropic reaches profit as OpenAI plans IPO. Which model wins with public market investors and why it matters.",
-    "url": "https://www.forbes.com/sites/paulocarvao/2026/05/21/why-ai-profitability-belongs-to-enterprise-not-consumer-scale/",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f2a979e70b5ab2df8bf0b/0x0.jpg",
-    "source": "Forbes Innovation",
-    "source_id": "src-135",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T16:32:52+00:00",
-    "fetched_at": "2026-05-21T17:39:15.748580+00:00"
-  },
-  {
-    "id": "20e7081b4ae5a222",
-    "title": "Walmart and Target are seeing a curious phenomenon in earnings this week—and their stock is feeling the impact",
-    "description": "Earnings are in for two of the largest retailers, and they paint two very different pictures. Walmart , which has seen success in an economy where consumers are cutting back on spending and turning to budget retailers, now seems to be in a downturn, having just announced layoffs as its stock price falls. Meanwhile, Target —which was struggling a year ago amid a cost-of-living crisis and rising tariffs, and following consumer boycotts over a DEI rollback—seems to have reversed course—with sales and its stock price on the upswing . What’s happening with these two retailers? Here’s what to know. Walmart looks at impact of soaring gas prices On Thursday, Walmart reported strong first-quarter earnings for the 2027 fiscal year. However, the retailer reiterated its less-than-rosy financial outlook due to high gas prices, which have spiked amid a bottleneck at the Strait of Hormuz caused by the",
-    "url": "https://www.fastcompany.com/91546374/walmart-wmt-stock-today-earnings-reveal-curious-phenomenon-target-tgt",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91546374-walmart-target-freaky-friday.jpg",
-    "source": "Fast Company",
-    "source_id": "src-014",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T16:30:00+00:00",
-    "fetched_at": "2026-05-22T09:02:22.308611+00:00"
-  },
-  {
-    "id": "67e303c0d505614a",
-    "title": "JPMorgan CEO Jamie Dimon says he’ll hire fewer bankers, more ‘AI people’",
-    "description": "In an interview with Bloomberg on Wednesday, JPMorgan Chase CEO Jamie Dimon said that every job will feel the effects of artificial intelligence —including bankers. “I think [AI will] reduce some of our jobs down the road,” Dimon told Bloomberg’s Haslinda Amin. “I think we’ll be hiring more AI people and probably less bankers in certain categories.” Dimon said that AI will cause reductions and downsizing at the company. However, he noted that such changes have “been happening my whole life.” As AI changes jobs, the billionaire CEO said JPMorgan will retrain and redeploy employees and, in some cases, offer early retirement. Dimon also said that society needs to “get prepared” for how AI will change the workforce. JPMorgan is using AI for numerous reasons already, he said, including in marketing , risk, fraud, and document management—but he said this is all just the “tip of the iceberg,” b",
-    "url": "https://www.fastcompany.com/91546461/jpmorgan-ceo-jamie-dimon-says-hell-hire-fewer-bankers-more-ai-people",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91546461-quick-hit-jpmorgan-ceo-jamie-dimon-says-fewer-bankers-more-ai-people-may-be-the-future.jpg",
-    "source": "Fast Company",
-    "source_id": "src-014",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T16:30:00+00:00",
-    "fetched_at": "2026-05-22T09:02:22.308808+00:00"
-  },
-  {
-    "id": "f3e3fc2ec2da1012",
-    "title": "Virginia judge clears ex-assistant principal of all charges in case tied to 6-year-old's classroom shooting",
-    "description": "A Newport News court found that Ebony Parker's inaction ahead of a student shooting his teacher fell outside the boundaries of criminal liability under Virginia law",
-    "url": "https://qz.com/virginia-assistant-principal-charges-dismissed-school-shooting-052126",
-    "image": "https://picsum.photos/seed/wv-news-37feca30d640/1200/750",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T16:28:28+00:00",
-    "fetched_at": "2026-05-21T17:37:56.227618+00:00",
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "c5e47ad3c6dd0ddd",
-    "title": "Citadel CEO Ken Griffin says NYC Mayor Zohran Mamdani's video \"put me in harm's way\"",
-    "description": "Griffin cited the murder of a UnitedHealthcare CEO blocks from his home; Citadel has signaled it may pull a $6 billion Manhattan redevelopment",
-    "url": "https://qz.com/ken-griffin-mamdani-harm-way-citadel-pied-a-terre-tax-052126",
-    "image": "https://picsum.photos/seed/wv-news-850394dd007b/1200/750",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T16:28:15+00:00",
-    "fetched_at": "2026-05-21T17:37:56.227675+00:00",
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "166c804f6757ac3f",
-    "title": "Southern Poverty Law Center indicted on 11 federal fraud and money laundering counts",
-    "description": "A federal grand jury charged the civil rights nonprofit over a paid informant program used to infiltrate hate groups between 2014 and 2023",
-    "url": "https://qz.com/southern-poverty-law-center-indicted-federal-fraud-money-laundering-052126",
-    "image": "https://picsum.photos/seed/wv-news-86582f63d3c0/1200/750",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T16:28:06+00:00",
-    "fetched_at": "2026-05-21T17:37:56.227731+00:00",
-    "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "3ce799c73f4d150c",
-    "title": "Supreme Court sides with port firm over Cuba dock seizure in near-unanimous vote",
-    "description": "Havana Docks Corporation can seek compensation from cruise lines over seized Cuban property, a ruling that could invite a wave of comparable legal challenges",
-    "url": "https://qz.com/supreme-court-cuba-havana-docks-seizure-ruling-052126",
-    "image": "https://picsum.photos/seed/wv-news-4e2703ba209b/1200/750",
-    "source": "Quartz",
-    "source_id": "src-015",
-    "category": "poslovanje",
-    "published_at": "2026-05-21T16:27:53+00:00",
-    "fetched_at": "2026-05-21T17:37:56.227816+00:00",
     "image_policy": "bez_izvorne_fotografije"
   }
 ]
