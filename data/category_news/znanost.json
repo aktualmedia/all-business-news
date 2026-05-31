@@ -1,5 +1,53 @@
 [
   {
+    "id": "a8b208549df928f5",
+    "title": "Intermittent fasting triggers surprising changes in the brain",
+    "description": "Losing weight may involve rewiring the gut and the brain at the same time. In a study of obese adults, an intermittent fasting-style diet led to significant weight loss, healthier metabolic markers, and notable shifts in gut bacteria. Brain scans also revealed changes in regions tied to appetite, cravings, and self-control. The results suggest the gut microbiome and brain may work together to influence weight-loss success.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260530004622.htm",
+    "image": "https://picsum.photos/seed/wv-news-6a0c6fbb5c73/1200/750",
+    "source": "ScienceDaily",
+    "source_id": "src-076",
+    "category": "znanost",
+    "published_at": "2026-05-31T09:01:44+00:00",
+    "fetched_at": "2026-05-31T10:00:53.518345+00:00"
+  },
+  {
+    "id": "a49d2abe2cd36780",
+    "title": "Omega-3 fish oil shows promise against type 2 diabetes",
+    "description": "A new study suggests fish oil may help reduce insulin resistance even in people who aren't obese. In diabetic rats, omega-3 supplementation improved blood sugar levels, cholesterol, and inflammation by shifting immune cells into a more anti-inflammatory mode.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260530004626.htm",
+    "image": "https://picsum.photos/seed/wv-news-789b0b53bdcb/1200/750",
+    "source": "ScienceDaily",
+    "source_id": "src-076",
+    "category": "znanost",
+    "published_at": "2026-05-31T05:15:13+00:00",
+    "fetched_at": "2026-05-31T10:00:53.518283+00:00"
+  },
+  {
+    "id": "bcf1e1a0599bcca8",
+    "title": "Is extracting oxygen from lunar soil the future of space exploration?",
+    "description": "A new race to the moon is emerging between the United States and China. Unlike fifty years ago, the goal is no longer just about landing and leaving, but establishing a base that allows for a sustainable presence and extended stays on the surface of our natural satellite. The objective is now to use the moon as a testing ground for technologies that will enable us to travel further, particularly to Mars.",
+    "url": "https://phys.org/news/2026-05-oxygen-lunar-soil-future-space.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/moon-dust.jpg",
+    "source": "Phys.org",
+    "source_id": "src-077",
+    "category": "znanost",
+    "published_at": "2026-05-31T00:30:03+00:00",
+    "fetched_at": "2026-05-31T10:00:53.648739+00:00"
+  },
+  {
+    "id": "2c465c2605c1a8de",
+    "title": "How a remarkable trial on bedrest during the Korean War led to evidence‑based medicine",
+    "description": "In 1959, a young doctor named David Sackett stumbled on a clinical trial that would change his life—and most of ours. The study showed that conventional wisdom on bed rest in medicine was wrong. And it helped lead Sackett and others to develop evidence-based medicine, in which doctors today make decisions based on rigorous scientific research.",
+    "url": "https://medicalxpress.com/news/2026-05-remarkable-trial-bedrest-korean-war.html",
+    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/korean-war.jpg",
+    "source": "Medical Xpress",
+    "source_id": "src-085",
+    "category": "znanost",
+    "published_at": "2026-05-31T00:30:02+00:00",
+    "fetched_at": "2026-05-31T10:00:53.702462+00:00"
+  },
+  {
     "id": "127e8a3c92f7e989",
     "title": "California — Lowest Wholesale Electricity Prices in USA",
     "description": "Solar power has grown to enormous levels in California, and that solar power is keeping wholesale prices low. Wind power, water power, and solar power all mean free fuel, and free fuel means low wholesale electricity prices. This is not news, but given how much people love to exclaim “California ... [continued] The post California — Lowest Wholesale Electricity Prices in USA appeared first on CleanTechnica .",
@@ -9,7 +57,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-30T23:10:09+00:00",
-    "fetched_at": "2026-05-30T23:45:51.280638+00:00"
+    "fetched_at": "2026-05-31T10:00:53.748393+00:00"
   },
   {
     "id": "8901aa2710b6c96d",
@@ -21,7 +69,7 @@
     "source_id": "src-077",
     "category": "znanost",
     "published_at": "2026-05-30T22:30:03+00:00",
-    "fetched_at": "2026-05-30T23:45:51.204436+00:00"
+    "fetched_at": "2026-05-31T10:00:53.648835+00:00"
   },
   {
     "id": "5d03db8820be6665",
@@ -33,7 +81,7 @@
     "source_id": "src-085",
     "category": "znanost",
     "published_at": "2026-05-30T22:30:02+00:00",
-    "fetched_at": "2026-05-30T23:45:51.234646+00:00"
+    "fetched_at": "2026-05-31T10:00:53.702534+00:00"
   },
   {
     "id": "85d83f2ce678d3ba",
@@ -45,7 +93,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-30T22:15:01+00:00",
-    "fetched_at": "2026-05-30T23:45:51.283887+00:00"
+    "fetched_at": "2026-05-31T10:00:53.748502+00:00"
   },
   {
     "id": "b9ff6b37f87765a3",
@@ -57,7 +105,7 @@
     "source_id": "src-085",
     "category": "znanost",
     "published_at": "2026-05-30T22:10:01+00:00",
-    "fetched_at": "2026-05-30T23:45:51.234739+00:00"
+    "fetched_at": "2026-05-31T10:00:53.702600+00:00"
   },
   {
     "id": "cf6fc9cf3c2b35c9",
@@ -69,7 +117,7 @@
     "source_id": "src-085",
     "category": "znanost",
     "published_at": "2026-05-30T21:00:05+00:00",
-    "fetched_at": "2026-05-30T23:45:51.234802+00:00"
+    "fetched_at": "2026-05-31T10:00:53.702685+00:00"
   },
   {
     "id": "090d2b4da3e58627",
@@ -81,7 +129,7 @@
     "source_id": "src-077",
     "category": "znanost",
     "published_at": "2026-05-30T21:00:04+00:00",
-    "fetched_at": "2026-05-30T23:45:51.204511+00:00"
+    "fetched_at": "2026-05-31T10:00:53.648922+00:00"
   },
   {
     "id": "b1d0a6e384bb8c96",
@@ -93,7 +141,7 @@
     "source_id": "src-085",
     "category": "znanost",
     "published_at": "2026-05-30T21:00:02+00:00",
-    "fetched_at": "2026-05-30T23:45:51.234860+00:00"
+    "fetched_at": "2026-05-31T10:00:53.702746+00:00"
   },
   {
     "id": "38028b351cac84c2",
@@ -105,7 +153,7 @@
     "source_id": "src-077",
     "category": "znanost",
     "published_at": "2026-05-30T21:00:01+00:00",
-    "fetched_at": "2026-05-30T23:45:51.204578+00:00"
+    "fetched_at": "2026-05-31T10:00:53.649017+00:00"
   },
   {
     "id": "d15ae8350428fbcb",
@@ -117,7 +165,7 @@
     "source_id": "src-085",
     "category": "znanost",
     "published_at": "2026-05-30T20:00:02+00:00",
-    "fetched_at": "2026-05-30T23:45:51.234911+00:00"
+    "fetched_at": "2026-05-31T10:00:53.702796+00:00"
   },
   {
     "id": "daf4bf455a0ce8e5",
@@ -129,7 +177,7 @@
     "source_id": "src-077",
     "category": "znanost",
     "published_at": "2026-05-30T19:30:01+00:00",
-    "fetched_at": "2026-05-30T23:45:51.204628+00:00"
+    "fetched_at": "2026-05-31T10:00:53.649092+00:00"
   },
   {
     "id": "b8b61476ae881ed5",
@@ -141,7 +189,7 @@
     "source_id": "src-077",
     "category": "znanost",
     "published_at": "2026-05-30T19:00:02+00:00",
-    "fetched_at": "2026-05-30T23:45:51.204680+00:00"
+    "fetched_at": "2026-05-31T10:00:53.649167+00:00"
   },
   {
     "id": "db34706e5891dab4",
@@ -153,7 +201,7 @@
     "source_id": "src-085",
     "category": "znanost",
     "published_at": "2026-05-30T19:00:01+00:00",
-    "fetched_at": "2026-05-30T23:45:51.234979+00:00"
+    "fetched_at": "2026-05-31T10:00:53.702859+00:00"
   },
   {
     "id": "ad71f8098bb48791",
@@ -165,7 +213,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-30T18:16:53+00:00",
-    "fetched_at": "2026-05-30T23:45:51.284015+00:00"
+    "fetched_at": "2026-05-31T10:00:53.748581+00:00"
   },
   {
     "id": "21606f0103b7f3ac",
@@ -177,7 +225,7 @@
     "source_id": "src-077",
     "category": "znanost",
     "published_at": "2026-05-30T18:10:01+00:00",
-    "fetched_at": "2026-05-30T23:45:51.204764+00:00"
+    "fetched_at": "2026-05-31T10:00:53.649257+00:00"
   },
   {
     "id": "cc4de70b5c029f69",
@@ -189,7 +237,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-30T18:03:52+00:00",
-    "fetched_at": "2026-05-30T23:45:51.284159+00:00"
+    "fetched_at": "2026-05-31T10:00:53.748700+00:00"
   },
   {
     "id": "826b7ed36cd61459",
@@ -201,7 +249,7 @@
     "source_id": "src-077",
     "category": "znanost",
     "published_at": "2026-05-30T18:00:03+00:00",
-    "fetched_at": "2026-05-30T23:45:51.204824+00:00"
+    "fetched_at": "2026-05-31T10:00:53.649353+00:00"
   },
   {
     "id": "35f5b74641545474",
@@ -213,7 +261,7 @@
     "source_id": "src-085",
     "category": "znanost",
     "published_at": "2026-05-30T18:00:03+00:00",
-    "fetched_at": "2026-05-30T23:45:51.235044+00:00"
+    "fetched_at": "2026-05-31T10:00:53.702921+00:00"
   },
   {
     "id": "7318415e68d73423",
@@ -225,7 +273,7 @@
     "source_id": "src-085",
     "category": "znanost",
     "published_at": "2026-05-30T18:00:01+00:00",
-    "fetched_at": "2026-05-30T23:45:51.235099+00:00"
+    "fetched_at": "2026-05-31T10:00:53.702974+00:00"
   },
   {
     "id": "4813453a5d8e805b",
@@ -237,7 +285,7 @@
     "source_id": "src-077",
     "category": "znanost",
     "published_at": "2026-05-30T17:00:02+00:00",
-    "fetched_at": "2026-05-30T23:45:51.204875+00:00"
+    "fetched_at": "2026-05-31T10:00:53.649430+00:00"
   },
   {
     "id": "77bc1110b6052efc",
@@ -249,7 +297,7 @@
     "source_id": "src-085",
     "category": "znanost",
     "published_at": "2026-05-30T17:00:01+00:00",
-    "fetched_at": "2026-05-30T23:45:51.235158+00:00"
+    "fetched_at": "2026-05-31T10:00:53.703034+00:00"
   },
   {
     "id": "ed2c9fa27e4c5bd6",
@@ -261,7 +309,7 @@
     "source_id": "src-077",
     "category": "znanost",
     "published_at": "2026-05-30T16:30:02+00:00",
-    "fetched_at": "2026-05-30T23:45:51.204928+00:00"
+    "fetched_at": "2026-05-31T10:00:53.649508+00:00"
   },
   {
     "id": "6271045efda412cf",
@@ -273,7 +321,7 @@
     "source_id": "src-085",
     "category": "znanost",
     "published_at": "2026-05-30T15:00:04+00:00",
-    "fetched_at": "2026-05-30T23:45:51.235206+00:00"
+    "fetched_at": "2026-05-31T10:00:53.703081+00:00"
   },
   {
     "id": "129ac25f6041aecc",
@@ -285,7 +333,7 @@
     "source_id": "src-085",
     "category": "znanost",
     "published_at": "2026-05-30T15:00:03+00:00",
-    "fetched_at": "2026-05-30T23:45:51.235258+00:00"
+    "fetched_at": "2026-05-31T10:00:53.703134+00:00"
   },
   {
     "id": "dfb0c868c25fd8f4",
@@ -297,7 +345,7 @@
     "source_id": "src-077",
     "category": "znanost",
     "published_at": "2026-05-30T15:00:01+00:00",
-    "fetched_at": "2026-05-30T23:45:51.204987+00:00"
+    "fetched_at": "2026-05-31T10:00:53.649597+00:00"
   },
   {
     "id": "c8ed5d709827a796",
@@ -309,7 +357,7 @@
     "source_id": "src-077",
     "category": "znanost",
     "published_at": "2026-05-30T14:40:02+00:00",
-    "fetched_at": "2026-05-30T23:45:51.205038+00:00"
+    "fetched_at": "2026-05-31T10:00:53.649707+00:00"
   },
   {
     "id": "c0eb19765ae1a27e",
@@ -321,7 +369,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-30T14:38:52+00:00",
-    "fetched_at": "2026-05-30T23:45:51.284308+00:00"
+    "fetched_at": "2026-05-31T10:00:53.748796+00:00"
   },
   {
     "id": "91efc6bb53bfd0d6",
@@ -333,7 +381,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-30T14:04:39+00:00",
-    "fetched_at": "2026-05-30T23:45:51.284408+00:00"
+    "fetched_at": "2026-05-31T10:00:53.748862+00:00"
   },
   {
     "id": "bb5dfd0d6175422a",
@@ -477,7 +525,7 @@
     "source_id": "src-076",
     "category": "znanost",
     "published_at": "2026-05-30T10:26:24+00:00",
-    "fetched_at": "2026-05-30T23:45:51.052890+00:00"
+    "fetched_at": "2026-05-31T10:00:53.518216+00:00"
   },
   {
     "id": "daafa65237b0019d",
@@ -513,7 +561,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-30T10:00:57+00:00",
-    "fetched_at": "2026-05-30T23:45:51.296896+00:00"
+    "fetched_at": "2026-05-31T10:00:53.585630+00:00"
   },
   {
     "id": "d58120506fcab47d",
@@ -549,7 +597,7 @@
     "source_id": "src-076",
     "category": "znanost",
     "published_at": "2026-05-30T09:11:34+00:00",
-    "fetched_at": "2026-05-30T23:45:51.052999+00:00"
+    "fetched_at": "2026-05-31T10:00:53.518401+00:00"
   },
   {
     "id": "940f4865fec3023c",
@@ -561,7 +609,7 @@
     "source_id": "src-076",
     "category": "znanost",
     "published_at": "2026-05-30T08:02:43+00:00",
-    "fetched_at": "2026-05-30T23:45:51.053395+00:00"
+    "fetched_at": "2026-05-31T10:00:53.518628+00:00"
   },
   {
     "id": "a17501fea2ed7558",
@@ -573,7 +621,7 @@
     "source_id": "src-076",
     "category": "znanost",
     "published_at": "2026-05-30T07:31:15+00:00",
-    "fetched_at": "2026-05-30T23:45:51.053637+00:00"
+    "fetched_at": "2026-05-31T10:00:53.518810+00:00"
   },
   {
     "id": "f24b56a429093b2d",
@@ -585,7 +633,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-30T07:00:26+00:00",
-    "fetched_at": "2026-05-30T23:45:51.297025+00:00"
+    "fetched_at": "2026-05-31T10:00:53.585728+00:00"
   },
   {
     "id": "7b164e4f19bdbab4",
@@ -597,7 +645,7 @@
     "source_id": "src-076",
     "category": "znanost",
     "published_at": "2026-05-30T05:53:49+00:00",
-    "fetched_at": "2026-05-30T23:45:51.053474+00:00"
+    "fetched_at": "2026-05-31T10:00:53.518704+00:00"
   },
   {
     "id": "735dca026cdb0157",
@@ -609,7 +657,7 @@
     "source_id": "src-076",
     "category": "znanost",
     "published_at": "2026-05-30T05:27:08+00:00",
-    "fetched_at": "2026-05-30T23:45:51.053302+00:00"
+    "fetched_at": "2026-05-31T10:00:53.518573+00:00"
   },
   {
     "id": "42317865e9eaeb98",
@@ -657,7 +705,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-30T01:33:05+00:00",
-    "fetched_at": "2026-05-30T23:45:51.284547+00:00"
+    "fetched_at": "2026-05-31T10:00:53.748947+00:00"
   },
   {
     "id": "cb4f3c8ffab6e806",
@@ -669,7 +717,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-30T01:29:28+00:00",
-    "fetched_at": "2026-05-30T23:45:51.284667+00:00"
+    "fetched_at": "2026-05-31T10:00:53.749027+00:00"
   },
   {
     "id": "7ab0d82ed2c77960",
@@ -681,7 +729,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-30T01:18:39+00:00",
-    "fetched_at": "2026-05-30T23:45:51.284824+00:00"
+    "fetched_at": "2026-05-31T10:00:53.749114+00:00"
   },
   {
     "id": "e675def073d46fcb",
@@ -705,7 +753,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-30T00:17:17+00:00",
-    "fetched_at": "2026-05-30T23:45:51.284942+00:00"
+    "fetched_at": "2026-05-31T10:00:53.749189+00:00"
   },
   {
     "id": "98102f62c8a674f3",
@@ -717,7 +765,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-30T00:01:59+00:00",
-    "fetched_at": "2026-05-30T23:45:51.285055+00:00"
+    "fetched_at": "2026-05-31T10:00:53.749271+00:00"
   },
   {
     "id": "f0f7c35acf077ffb",
@@ -753,7 +801,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-29T23:18:50+00:00",
-    "fetched_at": "2026-05-30T23:45:55.833596+00:00"
+    "fetched_at": "2026-05-31T10:00:57.662506+00:00"
   },
   {
     "id": "e8de1aa06dc93c14",
@@ -765,7 +813,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-29T22:47:42+00:00",
-    "fetched_at": "2026-05-30T23:45:55.833718+00:00"
+    "fetched_at": "2026-05-31T10:00:57.662608+00:00"
   },
   {
     "id": "64d12713e6505f8e",
@@ -801,7 +849,7 @@
     "source_id": "src-089",
     "category": "znanost",
     "published_at": "2026-05-29T21:58:11+00:00",
-    "fetched_at": "2026-05-30T23:45:51.285176+00:00"
+    "fetched_at": "2026-05-31T10:00:53.749344+00:00"
   },
   {
     "id": "efd2f16b79dc944a",
@@ -813,7 +861,7 @@
     "source_id": "src-079",
     "category": "znanost",
     "published_at": "2026-05-29T21:24:11+00:00",
-    "fetched_at": "2026-05-30T23:45:51.022108+00:00"
+    "fetched_at": "2026-05-31T10:00:53.494305+00:00"
   },
   {
     "id": "f27a3de599a300da",
@@ -837,7 +885,7 @@
     "source_id": "src-079",
     "category": "znanost",
     "published_at": "2026-05-29T20:49:43+00:00",
-    "fetched_at": "2026-05-30T23:45:51.022216+00:00"
+    "fetched_at": "2026-05-31T10:00:53.494395+00:00"
   },
   {
     "id": "ce8b708922a355c9",
@@ -945,7 +993,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-29T19:11:22+00:00",
-    "fetched_at": "2026-05-30T23:45:55.833805+00:00"
+    "fetched_at": "2026-05-31T10:00:57.662734+00:00"
   },
   {
     "id": "3aa63a0745746291",
@@ -1030,6 +1078,18 @@
     "category": "znanost",
     "published_at": "2026-05-29T18:25:42+00:00",
     "fetched_at": "2026-05-30T12:14:16.233596+00:00"
+  },
+  {
+    "id": "9f80a5a87c30a0f1",
+    "title": "Happy, an Asian Elephant Who Demonstrated That Her Species Might Be Self-Aware, Dies at 55 at the Bronx Zoo - Smithsonian Magazine",
+    "description": "Happy, an Asian Elephant Who Demonstrated That Her Species Might Be Self-Aware, Dies at 55 at the Bronx Zoo Smithsonian Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNGYxbjk0blYxd1RURXhCZi1KOWduNVAtUjN4QmN6UUdEc0djejUwWHFaVF81VWdMN3h3VkIydzN3RjJ0clpNQ3JuMnFsN3hJMUh1R19zTFU5M240SF9YZ2tzQTZhdmFqVWx4S0hKWjBoUVE2Y1hWOEtJcGRGNGFVNnRaaUZxVUgwZE9kN1FWTDJwbkJYMmpUNWVKSGVmdFZUUXNGNjRzb08tSGVuenZoOVBmZXNvZlNNM0RpdUJrWi1mOWtHTDhfZ2FYclNoZG5rUl9DWFJqSzRlWG9mdzNOR25xRlYtQjYxQ1E2Y3E1VQ?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-cb438af6cf62/1200/750",
+    "source": "Smithsonian Science - Google News",
+    "source_id": "global-extra-024",
+    "category": "znanost",
+    "published_at": "2026-05-29T18:23:30+00:00",
+    "fetched_at": "2026-05-31T10:00:57.656312+00:00"
   },
   {
     "id": "7ef0fb37b3dc3ffb",
@@ -1209,7 +1269,7 @@
     "source_id": "src-079",
     "category": "znanost",
     "published_at": "2026-05-29T16:33:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.022313+00:00"
+    "fetched_at": "2026-05-31T10:00:53.494483+00:00"
   },
   {
     "id": "47109c70b7ac72d7",
@@ -1221,7 +1281,7 @@
     "source_id": "src-079",
     "category": "znanost",
     "published_at": "2026-05-29T16:14:26+00:00",
-    "fetched_at": "2026-05-30T23:45:51.022413+00:00"
+    "fetched_at": "2026-05-31T10:00:53.494562+00:00"
   },
   {
     "id": "0d45c6d93b5f3e99",
@@ -1233,7 +1293,7 @@
     "source_id": "global-extra-024",
     "category": "znanost",
     "published_at": "2026-05-29T15:53:48+00:00",
-    "fetched_at": "2026-05-30T23:45:55.280566+00:00"
+    "fetched_at": "2026-05-31T10:00:57.655516+00:00"
   },
   {
     "id": "7b75ae8a51ebf7f9",
@@ -1245,7 +1305,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-29T15:39:48+00:00",
-    "fetched_at": "2026-05-30T23:45:55.834203+00:00"
+    "fetched_at": "2026-05-31T10:00:57.663122+00:00"
   },
   {
     "id": "b2eddba7c010c7b3",
@@ -1257,7 +1317,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-29T15:33:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.244756+00:00"
+    "fetched_at": "2026-05-31T10:00:53.804475+00:00"
   },
   {
     "id": "dbcd1f32c8896e80",
@@ -1269,7 +1329,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-29T15:20:15+00:00",
-    "fetched_at": "2026-05-30T23:45:51.297557+00:00"
+    "fetched_at": "2026-05-31T10:00:53.586134+00:00"
   },
   {
     "id": "29ec9f7ac3d9e711",
@@ -1281,7 +1341,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-29T15:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.449350+00:00"
+    "fetched_at": "2026-05-31T10:00:54.024118+00:00"
   },
   {
     "id": "a42bd7d6e6106173",
@@ -1293,7 +1353,7 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-29T15:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:55.200228+00:00"
+    "fetched_at": "2026-05-31T10:00:57.588574+00:00"
   },
   {
     "id": "51be38d4f9f2eef5",
@@ -1332,18 +1392,6 @@
     "fetched_at": "2026-05-30T07:48:54.524423+00:00"
   },
   {
-    "id": "f2354375e02b214e",
-    "title": "DeBriefed 29 May 2026: Europe’s ‘mind-boggling’ May | Indian heat deaths | Nigeria’s solar mini-grids",
-    "description": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 29 May 2026: Europe’s ‘mind-boggling’ May | Indian heat deaths | Nigeria’s solar mini-grids appeared first on Carbon Brief .",
-    "url": "https://www.carbonbrief.org/debriefed-29-may-2026-europes-mind-boggling-may-indian-heat-deaths-nigerias-solar-mini-grids/",
-    "image": "https://picsum.photos/seed/wv-news-a24aa377a88e/1200/750",
-    "source": "Carbon Brief",
-    "source_id": "src-088",
-    "category": "znanost",
-    "published_at": "2026-05-29T14:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.256793+00:00"
-  },
-  {
     "id": "eaf7bd8bf53e78f4",
     "title": "Do you want to live forever? Lessons learned from the biology of aging",
     "description": "by William B. Mair, Ines Alvarez-Garcia Aging affects us all, but we still do not know how the process evolves or if we can modulate its pace. This issue of PLOS Biology presents a Collection of articles that explores different aspects of aging, discussing what challenges still need to be overcome. Aging affects us all, but we still do not know how the process evolves or if we can modulate its pace. This Editorial presents a Collection of articles that explores different aspects of aging, discussing what challenges still need to be overcome.",
@@ -1353,7 +1401,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-29T14:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.343946+00:00"
+    "fetched_at": "2026-05-31T10:00:53.794826+00:00"
   },
   {
     "id": "094518b9562eb1f1",
@@ -1365,7 +1413,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-29T14:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.344089+00:00"
+    "fetched_at": "2026-05-31T10:00:53.794945+00:00"
   },
   {
     "id": "287234eb6b43db53",
@@ -1377,7 +1425,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-29T14:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.344245+00:00"
+    "fetched_at": "2026-05-31T10:00:53.795081+00:00"
   },
   {
     "id": "e75e3125db34689d",
@@ -1389,7 +1437,19 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-29T14:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.344384+00:00"
+    "fetched_at": "2026-05-31T10:00:53.795199+00:00"
+  },
+  {
+    "id": "f2354375e02b214e",
+    "title": "DeBriefed 29 May 2026: Europe’s ‘mind-boggling’ May | Indian heat deaths | Nigeria’s solar mini-grids",
+    "description": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 29 May 2026: Europe’s ‘mind-boggling’ May | Indian heat deaths | Nigeria’s solar mini-grids appeared first on Carbon Brief .",
+    "url": "https://www.carbonbrief.org/debriefed-29-may-2026-europes-mind-boggling-may-indian-heat-deaths-nigerias-solar-mini-grids/",
+    "image": "https://picsum.photos/seed/wv-news-a24aa377a88e/1200/750",
+    "source": "Carbon Brief",
+    "source_id": "src-088",
+    "category": "znanost",
+    "published_at": "2026-05-29T14:00:00+00:00",
+    "fetched_at": "2026-05-31T10:00:53.928864+00:00"
   },
   {
     "id": "c93b745c03ac0238",
@@ -1413,7 +1473,7 @@
     "source_id": "src-076",
     "category": "znanost",
     "published_at": "2026-05-29T13:42:07+00:00",
-    "fetched_at": "2026-05-30T23:45:51.053205+00:00"
+    "fetched_at": "2026-05-31T10:00:53.518520+00:00"
   },
   {
     "id": "a6e6aee22766ed19",
@@ -1437,7 +1497,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-29T13:10:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.449419+00:00"
+    "fetched_at": "2026-05-31T10:00:54.024185+00:00"
   },
   {
     "id": "36e7239c44968ed4",
@@ -1449,7 +1509,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-29T13:00:58+00:00",
-    "fetched_at": "2026-05-30T23:45:51.297649+00:00"
+    "fetched_at": "2026-05-31T10:00:53.586193+00:00"
   },
   {
     "id": "a88d6e0429a8535c",
@@ -1461,7 +1521,7 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-29T13:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:55.200296+00:00"
+    "fetched_at": "2026-05-31T10:00:57.588497+00:00"
   },
   {
     "id": "fd2894c495d563fd",
@@ -1473,7 +1533,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-29T12:58:11+00:00",
-    "fetched_at": "2026-05-30T23:45:51.256930+00:00"
+    "fetched_at": "2026-05-31T10:00:53.929005+00:00"
   },
   {
     "id": "f245fd13b399d176",
@@ -1485,7 +1545,7 @@
     "source_id": "src-076",
     "category": "znanost",
     "published_at": "2026-05-29T12:39:56+00:00",
-    "fetched_at": "2026-05-30T23:45:51.053561+00:00"
+    "fetched_at": "2026-05-31T10:00:53.518760+00:00"
   },
   {
     "id": "f9528fb7b3cb4b2c",
@@ -1497,7 +1557,7 @@
     "source_id": "src-076",
     "category": "znanost",
     "published_at": "2026-05-29T12:26:51+00:00",
-    "fetched_at": "2026-05-30T23:45:51.059845+00:00"
+    "fetched_at": "2026-05-31T10:00:53.518860+00:00"
   },
   {
     "id": "136955a3fa00451a",
@@ -1509,7 +1569,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-29T12:24:17+00:00",
-    "fetched_at": "2026-05-30T23:45:55.833871+00:00"
+    "fetched_at": "2026-05-31T10:00:57.662805+00:00"
   },
   {
     "id": "0c8cad8b10f3d9a0",
@@ -1521,7 +1581,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-29T12:24:17+00:00",
-    "fetched_at": "2026-05-30T23:45:55.834315+00:00"
+    "fetched_at": "2026-05-31T10:00:57.663234+00:00"
   },
   {
     "id": "df79056fcf544908",
@@ -1533,7 +1593,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-29T12:00:48+00:00",
-    "fetched_at": "2026-05-30T23:45:51.297866+00:00"
+    "fetched_at": "2026-05-31T10:00:53.586314+00:00"
   },
   {
     "id": "8b699f91f0b3746d",
@@ -1545,7 +1605,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-29T12:00:40+00:00",
-    "fetched_at": "2026-05-30T23:45:51.297765+00:00"
+    "fetched_at": "2026-05-31T10:00:53.586254+00:00"
   },
   {
     "id": "ff65b06c0531de27",
@@ -1581,7 +1641,7 @@
     "source_id": "src-079",
     "category": "znanost",
     "published_at": "2026-05-29T11:29:09+00:00",
-    "fetched_at": "2026-05-30T23:45:51.022493+00:00"
+    "fetched_at": "2026-05-31T10:00:53.494620+00:00"
   },
   {
     "id": "ed61e50a978d1e63",
@@ -1677,7 +1737,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-29T09:44:14+00:00",
-    "fetched_at": "2026-05-30T23:45:51.257055+00:00"
+    "fetched_at": "2026-05-31T10:00:53.929130+00:00"
   },
   {
     "id": "dbd5921a0e1af013",
@@ -1749,7 +1809,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-29T08:30:36+00:00",
-    "fetched_at": "2026-05-30T23:45:51.297967+00:00"
+    "fetched_at": "2026-05-31T10:00:53.586378+00:00"
   },
   {
     "id": "56b4f56514315a71",
@@ -1785,7 +1845,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-29T08:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.449499+00:00"
+    "fetched_at": "2026-05-31T10:00:54.024262+00:00"
   },
   {
     "id": "8f2e25071117626e",
@@ -1821,7 +1881,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-29T06:00:19+00:00",
-    "fetched_at": "2026-05-30T23:45:51.297460+00:00"
+    "fetched_at": "2026-05-31T10:00:53.586074+00:00"
   },
   {
     "id": "03cfa1af53cd33a1",
@@ -2229,7 +2289,7 @@
     "source_id": "src-079",
     "category": "znanost",
     "published_at": "2026-05-28T22:29:20+00:00",
-    "fetched_at": "2026-05-30T23:45:51.022673+00:00"
+    "fetched_at": "2026-05-31T10:00:53.494763+00:00"
   },
   {
     "id": "8d6258610a80f25c",
@@ -2265,7 +2325,7 @@
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-28T22:00:00+00:00",
-    "fetched_at": "2026-05-30T20:17:44.206183+00:00"
+    "fetched_at": "2026-05-31T10:00:53.791433+00:00"
   },
   {
     "id": "2c678528346ad409",
@@ -2277,7 +2337,7 @@
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-28T22:00:00+00:00",
-    "fetched_at": "2026-05-30T20:17:44.206292+00:00"
+    "fetched_at": "2026-05-31T10:00:53.791543+00:00"
   },
   {
     "id": "f276090e905af1e6",
@@ -2289,7 +2349,7 @@
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-28T22:00:00+00:00",
-    "fetched_at": "2026-05-30T20:17:44.206401+00:00"
+    "fetched_at": "2026-05-31T10:00:53.791692+00:00"
   },
   {
     "id": "e2ef4e735fc255dc",
@@ -2301,7 +2361,7 @@
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-28T22:00:00+00:00",
-    "fetched_at": "2026-05-30T20:17:44.206500+00:00"
+    "fetched_at": "2026-05-31T10:00:53.791764+00:00"
   },
   {
     "id": "16d02527cfe08f3c",
@@ -2313,7 +2373,7 @@
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-28T22:00:00+00:00",
-    "fetched_at": "2026-05-30T20:17:44.206562+00:00"
+    "fetched_at": "2026-05-31T10:00:53.791821+00:00"
   },
   {
     "id": "d33416667f84ab6a",
@@ -2325,7 +2385,7 @@
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-28T22:00:00+00:00",
-    "fetched_at": "2026-05-30T20:17:44.206640+00:00"
+    "fetched_at": "2026-05-31T10:00:53.791883+00:00"
   },
   {
     "id": "adf87f6958854691",
@@ -2337,7 +2397,7 @@
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-28T22:00:00+00:00",
-    "fetched_at": "2026-05-30T20:17:44.206698+00:00"
+    "fetched_at": "2026-05-31T10:00:53.791934+00:00"
   },
   {
     "id": "50aeae9a6166a371",
@@ -2349,7 +2409,7 @@
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-28T22:00:00+00:00",
-    "fetched_at": "2026-05-30T20:17:44.206757+00:00"
+    "fetched_at": "2026-05-31T10:00:53.791982+00:00"
   },
   {
     "id": "f8d16886d1cc635f",
@@ -2361,7 +2421,7 @@
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-28T22:00:00+00:00",
-    "fetched_at": "2026-05-30T20:17:44.206812+00:00"
+    "fetched_at": "2026-05-31T10:00:53.792024+00:00"
   },
   {
     "id": "b9b546277704f913",
@@ -2373,7 +2433,7 @@
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-28T22:00:00+00:00",
-    "fetched_at": "2026-05-30T20:17:44.206873+00:00"
+    "fetched_at": "2026-05-31T10:00:53.792074+00:00"
   },
   {
     "id": "e3de469183cbcde0",
@@ -2385,7 +2445,7 @@
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-28T22:00:00+00:00",
-    "fetched_at": "2026-05-30T20:17:44.206931+00:00"
+    "fetched_at": "2026-05-31T10:00:53.792130+00:00"
   },
   {
     "id": "a0e5fcdda2dcafa8",
@@ -2397,7 +2457,7 @@
     "source_id": "src-083",
     "category": "znanost",
     "published_at": "2026-05-28T22:00:00+00:00",
-    "fetched_at": "2026-05-30T20:17:44.206999+00:00"
+    "fetched_at": "2026-05-31T10:00:53.792191+00:00"
   },
   {
     "id": "189e12e5df9ce255",
@@ -2409,7 +2469,7 @@
     "source_id": "src-079",
     "category": "znanost",
     "published_at": "2026-05-28T21:58:20+00:00",
-    "fetched_at": "2026-05-30T23:45:51.022757+00:00"
+    "fetched_at": "2026-05-31T10:00:53.494828+00:00"
   },
   {
     "id": "7d5ac02a31e3acfa",
@@ -2421,7 +2481,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-28T21:53:15+00:00",
-    "fetched_at": "2026-05-30T23:45:55.834261+00:00"
+    "fetched_at": "2026-05-31T10:00:57.663295+00:00"
   },
   {
     "id": "258bf529d04262cd",
@@ -2469,7 +2529,7 @@
     "source_id": "src-079",
     "category": "znanost",
     "published_at": "2026-05-28T19:37:24+00:00",
-    "fetched_at": "2026-05-30T23:45:51.022820+00:00"
+    "fetched_at": "2026-05-31T10:00:53.494892+00:00"
   },
   {
     "id": "b0d466e7dbf1d25d",
@@ -2481,7 +2541,7 @@
     "source_id": "global-extra-024",
     "category": "znanost",
     "published_at": "2026-05-28T19:02:02+00:00",
-    "fetched_at": "2026-05-30T16:16:18.100965+00:00"
+    "fetched_at": "2026-05-31T10:00:57.656399+00:00"
   },
   {
     "id": "f8b75663bced500d",
@@ -2493,7 +2553,7 @@
     "source_id": "src-079",
     "category": "znanost",
     "published_at": "2026-05-28T18:22:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.022876+00:00"
+    "fetched_at": "2026-05-31T10:00:53.494953+00:00"
   },
   {
     "id": "515154fda23d45a9",
@@ -2505,7 +2565,7 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-28T18:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:55.199965+00:00"
+    "fetched_at": "2026-05-31T10:00:57.588728+00:00"
   },
   {
     "id": "2d26028eae152467",
@@ -2565,7 +2625,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-28T16:27:45+00:00",
-    "fetched_at": "2026-05-30T23:45:55.834066+00:00"
+    "fetched_at": "2026-05-31T10:00:57.662994+00:00"
   },
   {
     "id": "15a1c482fb480b98",
@@ -2613,7 +2673,7 @@
     "source_id": "global-extra-024",
     "category": "znanost",
     "published_at": "2026-05-28T15:10:52+00:00",
-    "fetched_at": "2026-05-30T23:45:55.281131+00:00"
+    "fetched_at": "2026-05-31T10:00:57.656019+00:00"
   },
   {
     "id": "936a3c07c4f439cb",
@@ -2625,7 +2685,7 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-28T15:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:55.200544+00:00"
+    "fetched_at": "2026-05-31T10:00:57.588858+00:00"
   },
   {
     "id": "25b58e3725c1174f",
@@ -2637,7 +2697,7 @@
     "source_id": "global-extra-024",
     "category": "znanost",
     "published_at": "2026-05-28T14:58:30+00:00",
-    "fetched_at": "2026-05-30T23:45:55.280657+00:00"
+    "fetched_at": "2026-05-31T10:00:57.655605+00:00"
   },
   {
     "id": "8d2a89f36b6e559d",
@@ -2649,7 +2709,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-28T14:40:21+00:00",
-    "fetched_at": "2026-05-30T23:45:51.257191+00:00"
+    "fetched_at": "2026-05-31T10:00:53.929261+00:00"
   },
   {
     "id": "2d025fad4df4236f",
@@ -2721,7 +2781,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-28T12:29:38+00:00",
-    "fetched_at": "2026-05-30T23:45:51.257309+00:00"
+    "fetched_at": "2026-05-31T10:00:53.929386+00:00"
   },
   {
     "id": "beabcda2a43ad345",
@@ -2757,7 +2817,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-28T12:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.449569+00:00"
+    "fetched_at": "2026-05-31T10:00:54.024336+00:00"
   },
   {
     "id": "27d95306db72626b",
@@ -2781,7 +2841,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-28T10:40:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.244900+00:00"
+    "fetched_at": "2026-05-31T10:00:53.804588+00:00"
   },
   {
     "id": "7c4ab0b2915100da",
@@ -2841,7 +2901,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-28T06:30:48+00:00",
-    "fetched_at": "2026-05-30T23:45:55.833936+00:00"
+    "fetched_at": "2026-05-31T10:00:57.662869+00:00"
   },
   {
     "id": "978a0ed898532153",
@@ -2925,7 +2985,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-27T18:00:03+00:00",
-    "fetched_at": "2026-05-30T23:45:51.297133+00:00"
+    "fetched_at": "2026-05-31T10:00:53.585852+00:00"
   },
   {
     "id": "788efccda66fa99f",
@@ -2937,7 +2997,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-27T18:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.297262+00:00"
+    "fetched_at": "2026-05-31T10:00:53.585938+00:00"
   },
   {
     "id": "ab0be62e9a94545b",
@@ -2961,7 +3021,7 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-27T17:00:00+00:00",
-    "fetched_at": "2026-05-30T20:17:50.429719+00:00"
+    "fetched_at": "2026-05-31T10:00:57.588985+00:00"
   },
   {
     "id": "0fbd5b632ac46790",
@@ -2973,7 +3033,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-27T16:00:58+00:00",
-    "fetched_at": "2026-05-30T23:45:51.293691+00:00"
+    "fetched_at": "2026-05-31T10:00:53.585527+00:00"
   },
   {
     "id": "94fe4f474f1c4070",
@@ -2985,7 +3045,7 @@
     "source_id": "global-extra-024",
     "category": "znanost",
     "published_at": "2026-05-27T15:46:47+00:00",
-    "fetched_at": "2026-05-30T23:45:55.280830+00:00"
+    "fetched_at": "2026-05-31T10:00:57.655781+00:00"
   },
   {
     "id": "dac780032c31aef9",
@@ -3021,7 +3081,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-27T15:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.449665+00:00"
+    "fetched_at": "2026-05-31T10:00:54.024410+00:00"
   },
   {
     "id": "6955d252a530c37a",
@@ -3033,7 +3093,7 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-27T15:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:55.200828+00:00"
+    "fetched_at": "2026-05-31T10:00:57.589049+00:00"
   },
   {
     "id": "2acb7b4d7f8a8f24",
@@ -3069,7 +3129,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-27T14:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.344464+00:00"
+    "fetched_at": "2026-05-31T10:00:53.795277+00:00"
   },
   {
     "id": "9f46ff4d068b8fd4",
@@ -3105,7 +3165,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-27T13:13:42+00:00",
-    "fetched_at": "2026-05-30T23:45:51.257420+00:00"
+    "fetched_at": "2026-05-31T10:00:53.929492+00:00"
   },
   {
     "id": "e91d00760b4a420a",
@@ -3393,7 +3453,7 @@
     "source_id": "global-extra-024",
     "category": "znanost",
     "published_at": "2026-05-26T21:20:44+00:00",
-    "fetched_at": "2026-05-30T23:45:55.281203+00:00"
+    "fetched_at": "2026-05-31T10:00:57.656094+00:00"
   },
   {
     "id": "b0339d174df61169",
@@ -3405,7 +3465,7 @@
     "source_id": "global-extra-024",
     "category": "znanost",
     "published_at": "2026-05-26T20:31:59+00:00",
-    "fetched_at": "2026-05-30T23:45:55.280904+00:00"
+    "fetched_at": "2026-05-31T10:00:57.655914+00:00"
   },
   {
     "id": "e2263cebaf7f5c49",
@@ -3441,7 +3501,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-26T15:28:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.245015+00:00"
+    "fetched_at": "2026-05-31T10:00:53.804716+00:00"
   },
   {
     "id": "5d31603ed94d8d4b",
@@ -3453,7 +3513,7 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-26T15:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:55.200146+00:00"
+    "fetched_at": "2026-05-31T10:00:57.588364+00:00"
   },
   {
     "id": "e0fc7f762bebc6ed",
@@ -3465,7 +3525,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-26T14:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.344538+00:00"
+    "fetched_at": "2026-05-31T10:00:53.795335+00:00"
   },
   {
     "id": "51cab1f4a51a9645",
@@ -3477,7 +3537,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-26T14:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.344594+00:00"
+    "fetched_at": "2026-05-31T10:00:53.795384+00:00"
   },
   {
     "id": "d5fa08a1a0ac75db",
@@ -3489,7 +3549,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-26T14:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.344678+00:00"
+    "fetched_at": "2026-05-31T10:00:53.795464+00:00"
   },
   {
     "id": "2d14620d370ab806",
@@ -3501,7 +3561,19 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-26T14:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.344800+00:00"
+    "fetched_at": "2026-05-31T10:00:53.795581+00:00"
+  },
+  {
+    "id": "87eaf1467d2e5fa5",
+    "title": "The Mere Presence of Humans—Not Just Our Changes to the Land—Can Alter Wild Animals' Behaviors, a New Study Suggests - Smithsonian Magazine",
+    "description": "The Mere Presence of Humans—Not Just Our Changes to the Land—Can Alter Wild Animals' Behaviors, a New Study Suggests Smithsonian Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNEJUVkZLWFJLSW50VzU1d182Yk1zek92UjBRaXRkU3N6R0Yta1BOV1pUbF90SGw4cThTMU50MmVzbzBSOFJQQ1NpZEtpWnMwV2w1eUNpM0FfVWxVZlcwR2JzWDd3TE5KX2N5WGItcFN6SmVaX05TV3ZOZG1lQzVia3gzYmNUeElWbVlsSmFRX1MxYV9qaFpMX283aEJqVHRydWhyTzdpNFpNcEQ3NWZJZGtnOVRDRFRjM1ZhR3h0c2hNQlFTM0IwcHd0RUlBaTVHak9CWUZPdG1adS1aSHZlR09lZmlUclJQOG1ja2hkTTFVRWVCMGlkT244NA?oc=5",
+    "image": "https://picsum.photos/seed/wv-news-b483372d8c6c/1200/750",
+    "source": "Smithsonian Science - Google News",
+    "source_id": "global-extra-024",
+    "category": "znanost",
+    "published_at": "2026-05-26T14:00:00+00:00",
+    "fetched_at": "2026-05-31T10:00:57.656247+00:00"
   },
   {
     "id": "4aa81706a79a558d",
@@ -3525,7 +3597,7 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-26T13:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:55.200071+00:00"
+    "fetched_at": "2026-05-31T10:00:57.588276+00:00"
   },
   {
     "id": "d790846da031147a",
@@ -3537,7 +3609,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-26T11:36:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.245109+00:00"
+    "fetched_at": "2026-05-31T10:00:53.804799+00:00"
   },
   {
     "id": "75a93d152a3dd7b5",
@@ -3549,7 +3621,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-26T11:16:48+00:00",
-    "fetched_at": "2026-05-30T23:45:55.834133+00:00"
+    "fetched_at": "2026-05-31T10:00:57.663054+00:00"
   },
   {
     "id": "99e612479f2d610e",
@@ -3573,7 +3645,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-25T23:01:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.257541+00:00"
+    "fetched_at": "2026-05-31T10:00:53.929613+00:00"
   },
   {
     "id": "e917c0aeb646d8dd",
@@ -3585,7 +3657,7 @@
     "source_id": "src-081",
     "category": "znanost",
     "published_at": "2026-05-25T16:00:47+00:00",
-    "fetched_at": "2026-05-30T23:45:51.297365+00:00"
+    "fetched_at": "2026-05-31T10:00:53.586006+00:00"
   },
   {
     "id": "1ef78e141220427f",
@@ -3597,7 +3669,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-25T15:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.257636+00:00"
+    "fetched_at": "2026-05-31T10:00:53.932776+00:00"
   },
   {
     "id": "9ce5515d7f21a73a",
@@ -3660,7 +3732,7 @@
     "source_id": "global-extra-022",
     "category": "znanost",
     "published_at": "2026-05-25T11:33:28+00:00",
-    "fetched_at": "2026-05-30T20:17:50.369839+00:00"
+    "fetched_at": "2026-05-31T10:00:57.663178+00:00"
   },
   {
     "id": "c4611174be83aeb1",
@@ -6090,7 +6162,7 @@
     "source_id": "global-extra-023",
     "category": "znanost",
     "published_at": "2026-05-22T17:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:55.200374+00:00"
+    "fetched_at": "2026-05-31T10:00:57.588434+00:00"
   },
   {
     "id": "3f84273f4f2d4694",
@@ -6167,7 +6239,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-22T16:10:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.449784+00:00"
+    "fetched_at": "2026-05-31T10:00:54.024487+00:00"
   },
   {
     "id": "782d1fc99e633ca9",
@@ -6296,7 +6368,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-22T15:36:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.449870+00:00"
+    "fetched_at": "2026-05-31T10:00:54.024568+00:00"
   },
   {
     "id": "0833150179bfdeb6",
@@ -6412,7 +6484,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-22T14:50:07+00:00",
-    "fetched_at": "2026-05-30T23:45:51.257791+00:00"
+    "fetched_at": "2026-05-31T10:00:53.932922+00:00"
   },
   {
     "id": "fc2bc597ea42a590",
@@ -6424,7 +6496,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-22T14:47:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.245204+00:00"
+    "fetched_at": "2026-05-31T10:00:53.804898+00:00"
   },
   {
     "id": "d86d62e97b2db15e",
@@ -6554,7 +6626,7 @@
     "source_id": "src-088",
     "category": "znanost",
     "published_at": "2026-05-22T14:24:29+00:00",
-    "fetched_at": "2026-05-30T23:45:51.257903+00:00"
+    "fetched_at": "2026-05-31T10:00:53.933049+00:00"
   },
   {
     "id": "511e8d36b6cba240",
@@ -6669,7 +6741,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-22T14:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.344893+00:00"
+    "fetched_at": "2026-05-31T10:00:53.795673+00:00"
   },
   {
     "id": "418e42f9736ebf02",
@@ -6864,7 +6936,7 @@
     "source_id": "src-080",
     "category": "znanost",
     "published_at": "2026-05-22T12:35:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.449936+00:00"
+    "fetched_at": "2026-05-31T10:00:54.024632+00:00"
   },
   {
     "id": "a5b4a8e85cc4357e",
@@ -9508,7 +9580,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-21T14:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.345062+00:00"
+    "fetched_at": "2026-05-31T10:00:53.795828+00:00"
   },
   {
     "id": "bd1ad56ff6078bfd",
@@ -9520,7 +9592,7 @@
     "source_id": "src-084",
     "category": "znanost",
     "published_at": "2026-05-21T14:00:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.345184+00:00"
+    "fetched_at": "2026-05-31T10:00:53.795945+00:00"
   },
   {
     "id": "090ecaac1e335340",
@@ -9924,7 +9996,7 @@
     "source_id": "src-087",
     "category": "znanost",
     "published_at": "2026-05-21T08:37:00+00:00",
-    "fetched_at": "2026-05-30T23:45:51.245304+00:00"
+    "fetched_at": "2026-05-31T10:00:53.804986+00:00"
   },
   {
     "id": "a6a421eb41771f9d",
@@ -12625,83 +12697,5 @@
     "published_at": "2026-05-20T11:46:15+00:00",
     "fetched_at": "2026-05-21T04:25:06.616881+00:00",
     "image_policy": "bez_izvorne_fotografije"
-  },
-  {
-    "id": "0abbf705181306bc",
-    "title": "3,798 dengue cases reported in United States in 2024",
-    "description": "In 2024, there were 3,798 dengue cases reported, 97.2% of which were associated with travel outside the reporting jurisdiction, according to research published in the Morbidity and Mortality Weekly Report.",
-    "url": "https://medicalxpress.com/news/2026-05-dengue-cases-states.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3798-dengue-cases-repo.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:40:12+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327571+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "b03171c462854622",
-    "title": "How face-building genes get ready early: Genome folding may prime crucial DNA switches",
-    "description": "Early in development, a group of migrating cells called cranial neural crest cells go on to form many different parts of the face, including the nose, jaw, ears, and throat. To build these structures correctly, genes must switch on in the right cells at the right time. But many of the DNA switches that control those genes sit far away on the genome, and scientists still know little about how genes find and communicate with these distant switches during development.",
-    "url": "https://phys.org/news/2026-05-genes-ready-early-genome-prime.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ear-hair.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:40:10+00:00",
-    "fetched_at": "2026-05-20T13:50:32.889903+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "1c8e1592f89d45d0",
-    "title": "Children of parents with severe mental illness face higher risk of cognitive difficulties, study finds",
-    "description": "A new study led by Murdoch University has found that children of parents with severe mental illness are more likely to experience cognitive difficulties. The study, \"Cognitive performance in offspring of parents with severe mental illness: a meta-analysis,\" is published in the journal Psychological Medicine.",
-    "url": "https://medicalxpress.com/news/2026-05-children-parents-severe-mental-illness.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/child-confused.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:40:09+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327609+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "9e997d2ecab08109",
-    "title": "Naturally occurring soil fungi could boost rice yields while reducing reliance on synthetic fertilizers",
-    "description": "Field trials in India show that bio-fertilizers containing naturally occurring soil fungi enhance growth in rice plants. This may offer a pathway to reducing farmers' reliance on synthetic fertilizers, and reducing greenhouse gas emissions in rice farming. The trials, led by researchers at the University of Cambridge in partnership with U.K. rice brand Tilda and basmati farmers in India, tested fungi-based bio-fertilizers under real farming conditions.",
-    "url": "https://phys.org/news/2026-05-naturally-soil-fungi-boost-rice.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rice-farmer.jpg",
-    "source": "Phys.org",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:40:06+00:00",
-    "fetched_at": "2026-05-20T13:50:32.889957+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "e2c22adf2a5a1239",
-    "title": "Autism social differences emerge early but can change considerably by adulthood, research suggests",
-    "description": "Autism spectrum disorder (ASD) is a neurodevelopmental condition characterized by differences in behavior, social interactions, communication, and sensory perceptions. Some autistic individuals find communicating and connecting with others more challenging than others, yet how these differences in social functioning emerge remains poorly understood.",
-    "url": "https://medicalxpress.com/news/2026-05-autism-social-differences-emerge-early.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/autism-social-developm.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:40:01+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327646+00:00",
-    "missing_core_fill": true
-  },
-  {
-    "id": "86d72297d4d5d46f",
-    "title": "Researchers identify new drug targets for hard-to-treat cancers",
-    "description": "Despite impressive innovations in medicine, most advanced-stage cancers still carry a grim prognosis. Developing more effective treatments requires a deeper understanding of the cellular processes that drive the formation and growth of common cancers.",
-    "url": "https://medicalxpress.com/news/2026-05-drug-hard-cancers.html",
-    "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/cancer-patient-1.jpg",
-    "source": "Medical Xpress",
-    "source_id": "missing-core-znanost",
-    "category": "znanost",
-    "published_at": "2026-05-20T11:20:08+00:00",
-    "fetched_at": "2026-05-20T13:50:33.327679+00:00",
-    "missing_core_fill": true
   }
 ]
