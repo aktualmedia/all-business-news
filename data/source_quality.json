@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-31T10:02:16.573491+00:00",
+  "updated_at": "2026-05-31T16:42:58.201347+00:00",
   "sources": 236,
-  "ok": 168,
-  "problem": 52,
+  "ok": 167,
+  "problem": 54,
   "items": [
     {
       "id": "extra-journal-kultura",
@@ -20,28 +20,6 @@
       "name": "Journal.hr - lifestyle",
       "category": "lifestyle",
       "url": "https://www.journal.hr/lifestyle/",
-      "status": "ok",
-      "label": "radi",
-      "count": 18,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "extra-journal-ljepota",
-      "name": "Journal.hr - ljepota",
-      "category": "lifestyle",
-      "url": "https://www.journal.hr/ljepota/",
-      "status": "ok",
-      "label": "radi",
-      "count": 18,
-      "score": 100,
-      "error": ""
-    },
-    {
-      "id": "extra-journal-moda",
-      "name": "Journal.hr - moda",
-      "category": "lifestyle",
-      "url": "https://www.journal.hr/moda/",
       "status": "ok",
       "label": "radi",
       "count": 18,
@@ -698,10 +676,10 @@
       "error": ""
     },
     {
-      "id": "global-extra-036",
-      "name": "National Jeweler - Google News",
-      "category": "nakit",
-      "url": "https://news.google.com/rss/search?q=site:nationaljeweler.com%20jewelry&hl=en-US&gl=US&ceid=US:en",
+      "id": "src-083",
+      "name": "Nature News",
+      "category": "znanost",
+      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
       "label": "radi",
       "count": 12,
@@ -1138,17 +1116,6 @@
       "error": ""
     },
     {
-      "id": "global-extra-033",
-      "name": "Worn & Wound - Google News",
-      "category": "satovi",
-      "url": "https://news.google.com/rss/search?q=site:wornandwound.com%20watches&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "label": "radi",
-      "count": 12,
-      "score": 100,
-      "error": ""
-    },
-    {
       "id": "src-087",
       "name": "Yale Environment 360",
       "category": "znanost",
@@ -1215,6 +1182,17 @@
       "error": ""
     },
     {
+      "id": "global-extra-036",
+      "name": "National Jeweler - Google News",
+      "category": "nakit",
+      "url": "https://news.google.com/rss/search?q=site:nationaljeweler.com%20jewelry&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
       "id": "src-057",
       "name": "Supply Chain Brain",
       "category": "trzista",
@@ -1230,6 +1208,17 @@
       "name": "Travel + Leisure - Google News",
       "category": "lifestyle",
       "url": "https://news.google.com/rss/search?q=site:travelandleisure.com%20travel%20lifestyle&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "label": "radi",
+      "count": 11,
+      "score": 100,
+      "error": ""
+    },
+    {
+      "id": "global-extra-033",
+      "name": "Worn & Wound - Google News",
+      "category": "satovi",
+      "url": "https://news.google.com/rss/search?q=site:wornandwound.com%20watches&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "label": "radi",
       "count": 11,
@@ -1963,17 +1952,6 @@
       "error": ""
     },
     {
-      "id": "src-083",
-      "name": "Nature News",
-      "category": "znanost",
-      "url": "https://www.nature.com/nature.rss",
-      "status": "empty",
-      "label": "prazan feed",
-      "count": 0,
-      "score": 55,
-      "error": ""
-    },
-    {
       "id": "src-003",
       "name": "Strategy+Business",
       "category": "poslovanje",
@@ -2379,6 +2357,28 @@
       "count": 0,
       "score": 20,
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "extra-journal-ljepota",
+      "name": "Journal.hr - ljepota",
+      "category": "lifestyle",
+      "url": "https://www.journal.hr/ljepota/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "The read operation timed out"
+    },
+    {
+      "id": "extra-journal-moda",
+      "name": "Journal.hr - moda",
+      "category": "lifestyle",
+      "url": "https://www.journal.hr/moda/",
+      "status": "failed",
+      "label": "problem",
+      "count": 0,
+      "score": 20,
+      "error": "The read operation timed out"
     },
     {
       "id": "src-048",
