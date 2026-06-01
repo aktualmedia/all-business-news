@@ -9,7 +9,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Wed, 27 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.075393+00:00"
+    "fetched_at": "2026-05-31T23:52:58.526404+00:00"
   },
   {
     "id": "a85a64336941fc6a",
@@ -138,7 +138,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 26 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.075473+00:00"
+    "fetched_at": "2026-05-31T23:52:58.526457+00:00"
   },
   {
     "id": "261a06eb053dd60a",
@@ -150,7 +150,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Tue, 26 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.075556+00:00"
+    "fetched_at": "2026-05-31T23:52:58.526512+00:00"
   },
   {
     "id": "77cb9bc8323d1bff",
@@ -214,7 +214,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.069707+00:00"
+    "fetched_at": "2026-05-31T23:52:58.526123+00:00"
   },
   {
     "id": "4ed23e12aea69e77",
@@ -226,7 +226,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.069785+00:00"
+    "fetched_at": "2026-05-31T23:52:58.526178+00:00"
   },
   {
     "id": "f8748bc33f7edf1c",
@@ -238,19 +238,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.069856+00:00"
-  },
-  {
-    "id": "855f317876d8b8d7",
-    "title": "An update on US consumer sentiment: Gloomier outlook ahead of sunnier days",
-    "description": "Ahead of the summer season, a smaller share of US consumers reported optimism while a greater share reported cost concerns, which could impact their spending across discretionary categories. Here’s the latest research from our ConsumerWise team.",
-    "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-state-of-the-us-consumer",
-    "image": "https://picsum.photos/seed/wv-news-335b832bc118/1200/750",
-    "source": "McKinsey Insights",
-    "source_id": "src-004",
-    "category": "poslovanje",
-    "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.075179+00:00"
+    "fetched_at": "2026-05-31T23:52:58.526229+00:00"
   },
   {
     "id": "1a4c16ea1a696b03",
@@ -262,7 +250,19 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Thu, 28 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.075302+00:00"
+    "fetched_at": "2026-05-31T23:52:58.526291+00:00"
+  },
+  {
+    "id": "855f317876d8b8d7",
+    "title": "An update on US consumer sentiment: Gloomier outlook ahead of sunnier days",
+    "description": "Ahead of the summer season, a smaller share of US consumers reported optimism while a greater share reported cost concerns, which could impact their spending across discretionary categories. Here’s the latest research from our ConsumerWise team.",
+    "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-state-of-the-us-consumer",
+    "image": "https://picsum.photos/seed/wv-news-335b832bc118/1200/750",
+    "source": "McKinsey Insights",
+    "source_id": "src-004",
+    "category": "poslovanje",
+    "published_at": "Thu, 28 May 2026",
+    "fetched_at": "2026-05-31T23:52:58.526349+00:00"
   },
   {
     "id": "867b4ad72bbda8b6",
@@ -404,7 +404,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Sun, 31 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.069303+00:00"
+    "fetched_at": "2026-05-31T23:52:58.525858+00:00"
   },
   {
     "id": "9c42284ad4cba0dc",
@@ -467,7 +467,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 29 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.069428+00:00"
+    "fetched_at": "2026-05-31T23:52:58.525933+00:00"
   },
   {
     "id": "435122711e93d588",
@@ -479,7 +479,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 29 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.069520+00:00"
+    "fetched_at": "2026-05-31T23:52:58.525994+00:00"
   },
   {
     "id": "6a1435c0664bb268",
@@ -491,7 +491,7 @@
     "source_id": "src-004",
     "category": "poslovanje",
     "published_at": "Fri, 29 May 2026",
-    "fetched_at": "2026-05-31T19:51:49.069601+00:00"
+    "fetched_at": "2026-05-31T23:52:58.526051+00:00"
   },
   {
     "id": "84ace186e5f355e1",
@@ -558,82 +558,16 @@
     "image_policy": "bez_izvorne_fotografije"
   },
   {
-    "id": "2e0af54d8d40a2e9",
-    "title": "„Živjeti bolje, duže i sretnije – to je naš cilj i motivacija”",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/zivjeti-bolje-duze-i-sretnije-to-je-nas-cilj-i-motivacija/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/01/bart--1024x546.jpg",
-    "source": "Symbol Quorum - poduzetništvo",
-    "source_id": "extra-symbol-poduzetnistvo",
-    "category": "poslovanje",
-    "published_at": "2026-05-31T19:52:03.458266+00:00",
-    "fetched_at": "2026-05-31T19:52:03.458269+00:00",
-    "html_source": true
-  },
-  {
-    "id": "db73cc5caeb9cc22",
-    "title": "„Znatiželja je temelj svake uspješne znanstvene karijere”",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/znatizelja-je-temelj-svake-uspjesne-znanstvene-karijere/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/03/MG_0929-1024x682.jpg",
-    "source": "Symbol Quorum - poduzetništvo",
-    "source_id": "extra-symbol-poduzetnistvo",
-    "category": "poslovanje",
-    "published_at": "2026-05-31T19:52:03.458158+00:00",
-    "fetched_at": "2026-05-31T19:52:03.458160+00:00",
-    "html_source": true
-  },
-  {
-    "id": "f8506df7f2473009",
-    "title": "Laska mi da smo uistinu mijenjali društvo na bolje",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/laska-mi-da-smo-uistinu-mijenjali-drustvo-na-bolje/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/08/MG_9492-1024x682.jpg",
-    "source": "Symbol Quorum - poduzetništvo",
-    "source_id": "extra-symbol-poduzetnistvo",
-    "category": "poslovanje",
-    "published_at": "2026-05-31T19:52:03.457931+00:00",
-    "fetched_at": "2026-05-31T19:52:03.457934+00:00",
-    "html_source": true
-  },
-  {
-    "id": "b6243cf0a698d534",
-    "title": "„Moja zvijezda vodilja je zlatni rez”",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/moja-zvijezda-vodilja-je-zlatni-rez/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/08/IGOR-ZEPTER-1-1024x960.jpg",
-    "source": "Symbol Quorum - poduzetništvo",
-    "source_id": "extra-symbol-poduzetnistvo",
-    "category": "poslovanje",
-    "published_at": "2026-05-31T19:52:03.457811+00:00",
-    "fetched_at": "2026-05-31T19:52:03.457814+00:00",
-    "html_source": true
-  },
-  {
-    "id": "204d9a08489c9eb5",
-    "title": "Filozofija Zeptera: zdravlje, dugovječnost, ljepota i održiva elegancija",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/filozofija-zeptera-zdravlje-dugovjecnost-ljepota-i-odrziva-elegancija/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/maratea14-6-1024x682.jpeg",
-    "source": "Symbol Quorum - poduzetništvo",
-    "source_id": "extra-symbol-poduzetnistvo",
-    "category": "poslovanje",
-    "published_at": "2026-05-31T19:52:03.457652+00:00",
-    "fetched_at": "2026-05-31T19:52:03.457654+00:00",
-    "html_source": true
-  },
-  {
-    "id": "2291a0ed7ff56618",
-    "title": "Transformacija s potpisom: Kardiomet & Maratea",
-    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://symbol-quorum.com/transformacija-s-potpisom-kardiomet-maratea/",
-    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/maratea14-6-1024x682.jpeg",
-    "source": "Symbol Quorum - poduzetništvo",
-    "source_id": "extra-symbol-poduzetnistvo",
-    "category": "poslovanje",
-    "published_at": "2026-05-31T19:52:03.457527+00:00",
-    "fetched_at": "2026-05-31T19:52:03.457540+00:00",
-    "html_source": true
+    "id": "bb439214b6994c87",
+    "title": "Saris raises $28.8m for agentic workflow platform",
+    "description": "Saris, an agentic workflow platform for banks and credit unions, has raised $28.8 million in Series A funding.",
+    "url": "https://www.finextra.com/newsarticle/47832/saris-raises-288m-for-agentic-workflow-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "image": "https://picsum.photos/seed/wv-news-d3eae62952ff/1200/750",
+    "source": "Finextra",
+    "source_id": "src-038",
+    "category": "financije",
+    "published_at": "2026-06-01T00:01:00+00:00",
+    "fetched_at": "2026-05-31T23:52:58.932526+00:00"
   },
   {
     "id": "0917d00a97c0e3fa",
@@ -644,8 +578,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T19:52:03.438834+00:00",
-    "fetched_at": "2026-05-31T19:52:03.438836+00:00",
+    "published_at": "2026-05-31T23:53:11.321929+00:00",
+    "fetched_at": "2026-05-31T23:53:11.321933+00:00",
     "html_source": true
   },
   {
@@ -657,8 +591,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T19:52:03.438731+00:00",
-    "fetched_at": "2026-05-31T19:52:03.438734+00:00",
+    "published_at": "2026-05-31T23:53:11.321779+00:00",
+    "fetched_at": "2026-05-31T23:53:11.321782+00:00",
     "html_source": true
   },
   {
@@ -670,8 +604,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T19:52:03.438624+00:00",
-    "fetched_at": "2026-05-31T19:52:03.438627+00:00",
+    "published_at": "2026-05-31T23:53:11.321658+00:00",
+    "fetched_at": "2026-05-31T23:53:11.321661+00:00",
     "html_source": true
   },
   {
@@ -683,8 +617,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T19:52:03.438518+00:00",
-    "fetched_at": "2026-05-31T19:52:03.438521+00:00",
+    "published_at": "2026-05-31T23:53:11.321538+00:00",
+    "fetched_at": "2026-05-31T23:53:11.321541+00:00",
     "html_source": true
   },
   {
@@ -696,8 +630,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T19:52:03.438412+00:00",
-    "fetched_at": "2026-05-31T19:52:03.438415+00:00",
+    "published_at": "2026-05-31T23:53:11.321419+00:00",
+    "fetched_at": "2026-05-31T23:53:11.321421+00:00",
     "html_source": true
   },
   {
@@ -709,8 +643,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T19:52:03.438299+00:00",
-    "fetched_at": "2026-05-31T19:52:03.438301+00:00",
+    "published_at": "2026-05-31T23:53:11.321289+00:00",
+    "fetched_at": "2026-05-31T23:53:11.321291+00:00",
     "html_source": true
   },
   {
@@ -722,8 +656,8 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T19:52:03.438188+00:00",
-    "fetched_at": "2026-05-31T19:52:03.438191+00:00",
+    "published_at": "2026-05-31T23:53:11.321163+00:00",
+    "fetched_at": "2026-05-31T23:53:11.321166+00:00",
     "html_source": true
   },
   {
@@ -735,8 +669,86 @@
     "source": "Symbol Quorum - kultura i umjetnost",
     "source_id": "extra-symbol-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T19:52:03.438002+00:00",
-    "fetched_at": "2026-05-31T19:52:03.438012+00:00",
+    "published_at": "2026-05-31T23:53:11.320962+00:00",
+    "fetched_at": "2026-05-31T23:53:11.320968+00:00",
+    "html_source": true
+  },
+  {
+    "id": "2e0af54d8d40a2e9",
+    "title": "„Živjeti bolje, duže i sretnije – to je naš cilj i motivacija”",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/zivjeti-bolje-duze-i-sretnije-to-je-nas-cilj-i-motivacija/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/01/bart--1024x546.jpg",
+    "source": "Symbol Quorum - poduzetništvo",
+    "source_id": "extra-symbol-poduzetnistvo",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T23:53:11.314712+00:00",
+    "fetched_at": "2026-05-31T23:53:11.314715+00:00",
+    "html_source": true
+  },
+  {
+    "id": "db73cc5caeb9cc22",
+    "title": "„Znatiželja je temelj svake uspješne znanstvene karijere”",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/znatizelja-je-temelj-svake-uspjesne-znanstvene-karijere/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/03/MG_0929-1024x682.jpg",
+    "source": "Symbol Quorum - poduzetništvo",
+    "source_id": "extra-symbol-poduzetnistvo",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T23:53:11.314590+00:00",
+    "fetched_at": "2026-05-31T23:53:11.314593+00:00",
+    "html_source": true
+  },
+  {
+    "id": "f8506df7f2473009",
+    "title": "Laska mi da smo uistinu mijenjali društvo na bolje",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/laska-mi-da-smo-uistinu-mijenjali-drustvo-na-bolje/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/08/MG_9492-1024x682.jpg",
+    "source": "Symbol Quorum - poduzetništvo",
+    "source_id": "extra-symbol-poduzetnistvo",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T23:53:11.314332+00:00",
+    "fetched_at": "2026-05-31T23:53:11.314335+00:00",
+    "html_source": true
+  },
+  {
+    "id": "b6243cf0a698d534",
+    "title": "„Moja zvijezda vodilja je zlatni rez”",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/moja-zvijezda-vodilja-je-zlatni-rez/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/08/IGOR-ZEPTER-1-1024x960.jpg",
+    "source": "Symbol Quorum - poduzetništvo",
+    "source_id": "extra-symbol-poduzetnistvo",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T23:53:11.314212+00:00",
+    "fetched_at": "2026-05-31T23:53:11.314215+00:00",
+    "html_source": true
+  },
+  {
+    "id": "204d9a08489c9eb5",
+    "title": "Filozofija Zeptera: zdravlje, dugovječnost, ljepota i održiva elegancija",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/filozofija-zeptera-zdravlje-dugovjecnost-ljepota-i-odrziva-elegancija/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/maratea14-6-1024x682.jpeg",
+    "source": "Symbol Quorum - poduzetništvo",
+    "source_id": "extra-symbol-poduzetnistvo",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T23:53:11.314025+00:00",
+    "fetched_at": "2026-05-31T23:53:11.314028+00:00",
+    "html_source": true
+  },
+  {
+    "id": "2291a0ed7ff56618",
+    "title": "Transformacija s potpisom: Kardiomet & Maratea",
+    "description": "Izvorni naslov/sažetak s portala Symbol Quorum - poduzetništvo. Nastavak se čita kod izvornog izdavača.",
+    "url": "https://symbol-quorum.com/transformacija-s-potpisom-kardiomet-maratea/",
+    "image": "https://symbol-quorum.com/wp-content/uploads/2025/12/maratea14-6-1024x682.jpeg",
+    "source": "Symbol Quorum - poduzetništvo",
+    "source_id": "extra-symbol-poduzetnistvo",
+    "category": "poslovanje",
+    "published_at": "2026-05-31T23:53:11.313890+00:00",
+    "fetched_at": "2026-05-31T23:53:11.313897+00:00",
     "html_source": true
   },
   {
@@ -748,8 +760,8 @@
     "source": "Symbol Quorum - lifestyle",
     "source_id": "extra-symbol-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-31T19:52:03.427381+00:00",
-    "fetched_at": "2026-05-31T19:52:03.427384+00:00",
+    "published_at": "2026-05-31T23:53:11.212326+00:00",
+    "fetched_at": "2026-05-31T23:53:11.212329+00:00",
     "html_source": true
   },
   {
@@ -761,8 +773,8 @@
     "source": "Symbol Quorum - lifestyle",
     "source_id": "extra-symbol-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-31T19:52:03.427268+00:00",
-    "fetched_at": "2026-05-31T19:52:03.427271+00:00",
+    "published_at": "2026-05-31T23:53:11.212209+00:00",
+    "fetched_at": "2026-05-31T23:53:11.212212+00:00",
     "html_source": true
   },
   {
@@ -774,8 +786,8 @@
     "source": "Symbol Quorum - lifestyle",
     "source_id": "extra-symbol-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-31T19:52:03.427148+00:00",
-    "fetched_at": "2026-05-31T19:52:03.427151+00:00",
+    "published_at": "2026-05-31T23:53:11.212086+00:00",
+    "fetched_at": "2026-05-31T23:53:11.212088+00:00",
     "html_source": true
   },
   {
@@ -787,8 +799,8 @@
     "source": "Symbol Quorum - lifestyle",
     "source_id": "extra-symbol-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-31T19:52:03.427024+00:00",
-    "fetched_at": "2026-05-31T19:52:03.427027+00:00",
+    "published_at": "2026-05-31T23:53:11.211953+00:00",
+    "fetched_at": "2026-05-31T23:53:11.211957+00:00",
     "html_source": true
   },
   {
@@ -800,8 +812,8 @@
     "source": "Symbol Quorum - lifestyle",
     "source_id": "extra-symbol-lifestyle",
     "category": "lifestyle",
-    "published_at": "2026-05-31T19:52:03.426890+00:00",
-    "fetched_at": "2026-05-31T19:52:03.426904+00:00",
+    "published_at": "2026-05-31T23:53:11.211793+00:00",
+    "fetched_at": "2026-05-31T23:53:11.211799+00:00",
     "html_source": true
   },
   {
@@ -813,8 +825,8 @@
     "source": "Symbol Quorum - gastronomija",
     "source_id": "extra-symbol-gastronomija",
     "category": "pica",
-    "published_at": "2026-05-31T19:52:03.222607+00:00",
-    "fetched_at": "2026-05-31T19:52:03.222610+00:00",
+    "published_at": "2026-05-31T23:53:11.020680+00:00",
+    "fetched_at": "2026-05-31T23:53:11.020683+00:00",
     "html_source": true
   },
   {
@@ -826,8 +838,8 @@
     "source": "Symbol Quorum - gastronomija",
     "source_id": "extra-symbol-gastronomija",
     "category": "pica",
-    "published_at": "2026-05-31T19:52:03.222504+00:00",
-    "fetched_at": "2026-05-31T19:52:03.222506+00:00",
+    "published_at": "2026-05-31T23:53:11.020556+00:00",
+    "fetched_at": "2026-05-31T23:53:11.020559+00:00",
     "html_source": true
   },
   {
@@ -839,8 +851,8 @@
     "source": "Symbol Quorum - gastronomija",
     "source_id": "extra-symbol-gastronomija",
     "category": "pica",
-    "published_at": "2026-05-31T19:52:03.222405+00:00",
-    "fetched_at": "2026-05-31T19:52:03.222407+00:00",
+    "published_at": "2026-05-31T23:53:11.020437+00:00",
+    "fetched_at": "2026-05-31T23:53:11.020440+00:00",
     "html_source": true
   },
   {
@@ -852,8 +864,8 @@
     "source": "Symbol Quorum - gastronomija",
     "source_id": "extra-symbol-gastronomija",
     "category": "pica",
-    "published_at": "2026-05-31T19:52:03.222302+00:00",
-    "fetched_at": "2026-05-31T19:52:03.222305+00:00",
+    "published_at": "2026-05-31T23:53:11.020318+00:00",
+    "fetched_at": "2026-05-31T23:53:11.020321+00:00",
     "html_source": true
   },
   {
@@ -865,8 +877,8 @@
     "source": "Symbol Quorum - gastronomija",
     "source_id": "extra-symbol-gastronomija",
     "category": "pica",
-    "published_at": "2026-05-31T19:52:03.222149+00:00",
-    "fetched_at": "2026-05-31T19:52:03.222151+00:00",
+    "published_at": "2026-05-31T23:53:11.020133+00:00",
+    "fetched_at": "2026-05-31T23:53:11.020136+00:00",
     "html_source": true
   },
   {
@@ -878,8 +890,8 @@
     "source": "Symbol Quorum - gastronomija",
     "source_id": "extra-symbol-gastronomija",
     "category": "pica",
-    "published_at": "2026-05-31T19:52:03.222031+00:00",
-    "fetched_at": "2026-05-31T19:52:03.222045+00:00",
+    "published_at": "2026-05-31T23:53:11.019999+00:00",
+    "fetched_at": "2026-05-31T23:53:11.020011+00:00",
     "html_source": true
   },
   {
@@ -891,8 +903,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T19:51:57.158838+00:00",
-    "fetched_at": "2026-05-31T19:51:57.158840+00:00",
+    "published_at": "2026-05-31T23:53:05.452889+00:00",
+    "fetched_at": "2026-05-31T23:53:05.452893+00:00",
     "html_source": true
   },
   {
@@ -904,21 +916,8 @@
     "source": "Journal.hr - kultura",
     "source_id": "extra-journal-kultura",
     "category": "kultura",
-    "published_at": "2026-05-31T19:51:57.158743+00:00",
-    "fetched_at": "2026-05-31T19:51:57.158745+00:00",
-    "html_source": true
-  },
-  {
-    "id": "6ccf12db97748607",
-    "title": "Glazba Popisali smo sve koncerte u Zagrebu koji nas za sad očekuju do kraja godine",
-    "description": "Izvorni naslov/sažetak s portala Journal.hr - kultura. Nastavak se čita kod izvornog izdavača.",
-    "url": "https://www.journal.hr/kultura/glazba/koncerti-u-zagrebu-2026/",
-    "image": "https://www.journal.hr/wp-content/uploads/2025/11/Jakov-Jozinovic_Denis-Butorac_Journal-20-768x512.jpg",
-    "source": "Journal.hr - kultura",
-    "source_id": "extra-journal-kultura",
-    "category": "kultura",
-    "published_at": "2026-05-31T19:51:57.158646+00:00",
-    "fetched_at": "2026-05-31T19:51:57.158649+00:00",
+    "published_at": "2026-05-31T23:53:05.452759+00:00",
+    "fetched_at": "2026-05-31T23:53:05.452761+00:00",
     "html_source": true
   }
 ]

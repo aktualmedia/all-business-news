@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-31T16:45:02.593468+00:00",
+  "updated_at": "2026-06-01T00:17:29.716150+00:00",
   "sources": 69,
   "ok_sources": 13,
-  "events_count": 167,
+  "events_count": 164,
   "results": [
     {
       "id": "infozagreb-events",
@@ -232,7 +232,7 @@
       "city": "London",
       "type": "kazalište / West End",
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     {
       "id": "royal-opera-house",
@@ -567,7 +567,7 @@
       "city": "London",
       "type": "galerija / izložbe",
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     {
       "id": "british-museum",
@@ -618,7 +618,7 @@
       "city": "Pariz",
       "type": "muzej / izložbe",
       "status": "ok",
-      "count": 52
+      "count": 51
     },
     {
       "id": "prado",
